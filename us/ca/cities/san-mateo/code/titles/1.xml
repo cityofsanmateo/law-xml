@@ -1,0 +1,630 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Title</prefix>
+  <num>1</num>
+  <heading>GENERAL PROVISIONS</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.01</num>
+    <heading>CODE ADOPTION</heading>
+    <annotation>Prior history: Ords. 1971-36, 1985-13; prior code §§ 1.01-1.04, 1.06, 1.07, 2.01-2.04, 3.01.</annotation>
+    <annotation>For the statutory provisions authorizing cities to adopt by reference a codification of its ordinances see West's Cal. Gov. C.A. §§ 50022.1-50022.8 and 50022.10.</annotation>
+    <section>
+      <num>1.01.010</num>
+      <heading>TITLE.</heading>
+      <text>This code shall be known as the "San Mateo Municipal Code," may be cited as such, and will be referred to in this code as "this code," or "code." (Ord. 2012-2 § 1)</text>
+    </section>
+    <section>
+      <num>1.01.020</num>
+      <heading>PROHIBITED ACTS INCLUDE CAUSING AND PERMITTING.</heading>
+      <text>Whenever in this code any act or omission is made unlawful, it includes causing, allowing, permitting, aiding, abetting, suffering or concealing the fact of such act or omission. (Ord. 2012-2 § 1)</text>
+    </section>
+    <section>
+      <num>1.01.030</num>
+      <heading>DEFINITIONS.</heading>
+      <text>The following words, terms and phrases whenever used in this code shall be construed as defined in this section unless from the context a different meaning is intended, or unless a different meaning is specifically defined, and more particularly directed to the use of such words, terms or phrases:</text>
+      <para>
+        <num>(a)</num>
+        <text>"City" means the City of San Mateo, or the area within the territorial limits of the City of San Mateo, and such territory outside said City over which the City has or may have jurisdiction or control by virtue of any constitutional or charter provisions, or any law.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"City Council or council" means the City Council of the City of San Mateo.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Code" means the San Mateo Municipal Code.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"May" is permissive.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Must" is mandatory.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Oath" means oath or affirmation.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Person" means natural persons of either sex, joint ventures, partnerships, firms, associations, corporations, business trusts, whether acting by themselves, or by servants, agents or employees. The provisions hereof shall be applicable as well to the servants, agents, managers, lessees, officers and employees of such persons.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Shall" is mandatory.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"State" means the State of California.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Street" means the land dedicated or condemned for, or established by use as, a public thoroughfare, including all streets, boulevards, highways, avenues, lanes, alleys, courts, places, squares, curbs, or other public ways of this City, or other public property so designated in any law of this State.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Written" includes handwritten, printed, typewritten, mimeographed, multi-graphed or reproduced by photography. (Ord. 2012-2 § 1)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.01.040</num>
+      <heading>GRAMMATICAL INTERPRETATION.</heading>
+      <text>Unless otherwise specified in this code, the following grammatical interpretations shall prevail:</text>
+      <para>
+        <num>(a)</num>
+        <text>Genders. Any gender includes the other gender;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Singular and Plural. The singular number includes the plural; the plural includes the singular;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Tenses. Unless otherwise provided in this code, words, phrases, or sentences used in the present tense include the past and future tenses; words, phrases or sentences used in the past tense include the present and future tenses; words, phrases or sentences used in the future tense include the present and past tenses. (Ord. 2012-2 § 1)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.01.050</num>
+      <heading>CIVIL CODE PROVISIONS.</heading>
+      <text>The provisions of Sections 13 and 1645 of the Civil Code of the State are adopted in the interpretation of words and phrases, unless otherwise provided herein. (Ord. 2012-2 § 1)</text>
+    </section>
+    <section>
+      <num>1.01.060</num>
+      <heading>REFERENCE TO OFFICERS, EMPLOYEES, BOARDS, COMMISSIONS AND ORDINANCES.</heading>
+      <text>Reference in this code to any officer, employee, board, commission, or ordinance, unless otherwise indicated, means the officer, employee, board, commission, or ordinance, as the case may be, of the City. (Ord. 2012-2 § 1)</text>
+    </section>
+    <section>
+      <num>1.01.070</num>
+      <heading>CONSTITUTIONALITY.</heading>
+      <text>If any section, subsection, sentence, clause, phrase or word of this code is held to be unconstitutional or invalid, such decision shall not affect the remaining portions of this code. The Council declares that it would have adopted and passed this code and each part, chapter, article, division, section, subsection, sentence, clause, phrase and word hereof, irrespective of the fact that any one or more of other parts, chapters, articles, divisions, sections, subsections, sentences, clauses, phrases or words hereof be declared invalid or unconstitutional. (Ord. 2012-2 § 1)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.04</num>
+    <heading>GENERAL PENALTY</heading>
+    <annotation>Prior history: Ords. 1968-39, 1985-13, 1986-24, 1989-25, 1990-5, 1990-8, 1990-22, 1992-5, 1992-6, 1993-2, 1994-9, 1997-24, 1998-9, 1999-3, 2003-9, 2005-2, 2005-6, 2007-1; prior code §§ 1.05(a)—(c).</annotation>
+    <section>
+      <num>1.04.010</num>
+      <heading>VIOLATIONS—PENALTIES.</heading>
+      <text>Except as may otherwise be provided in Chapter 8.02:</text>
+      <para>
+        <num>(a)</num>
+        <text>The violation of any provision of this code, or other ordinance of the City, or failure to comply with any mandatory requirements thereof, may be prosecuted as an infraction and punishable by fine or as a misdemeanor and punishable by fine and/or imprisonment.</text>
+        <para>
+          <num>(1)</num>
+          <text>A violation shall be deemed an infraction if a citation is issued specifying that the violation is an infraction, the City Attorney files a complaint in the Superior Court specifying that the offense is an infraction, or the City Attorney makes a motion to reduce a misdemeanor to an infraction prior to trial on the matter.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A violation shall be deemed a misdemeanor if a citation is issued specifying that the violation is a misdemeanor or the City Attorney files a complaint in the Superior Court specifying that the offense is a misdemeanor.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Failure to comply with any condition of a permit or entitlement granted by the City, or failure to secure a required permit, may be punishable as an infraction or misdemeanor per this section.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Penalties for Infraction. The penalty for an infraction shall be a fine not exceeding $100.00 for a first conviction; a fine not exceeding $200.00 for a second conviction within one year; a fine not exceeding $500.00 for each additional conviction within one year.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Penalties for Misdemeanor. The penalty for a misdemeanor, as authorized per State law, shall be a fine not to exceed $1,000.00 and imprisonment for terms not exceeding six months, or both. (Ord. 2012-2 § 2)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.04.020</num>
+      <heading>COSTS OF ASSESSMENT.</heading>
+      <text>Upon entry of a second or subsequent civil or criminal judgment within a two-year period finding that an owner of property is responsible for a condition that may be abated pursuant to Chapter 7.16 or 7.20, the court entering the second or subsequent judgment may order that owner to pay treble the costs of the abatement. (Ord. 2012-2 § 2)</text>
+    </section>
+    <section>
+      <num>1.04.030</num>
+      <heading>EACH DAY CONSTITUTES SEPARATE OFFENSE.</heading>
+      <text>Unless provision is otherwise herein made, each such person is guilty of a separate offense for each and every day during any portion of which any violation of any provision of this code is continued, or permitted, by such person, and shall be punished as herein provided. (Ord. 2012-2 § 2)</text>
+    </section>
+    <section>
+      <num>1.04.040</num>
+      <heading>NUISANCE.</heading>
+      <text>In addition to the penalties herein provided, any condition caused, or permitted to exist, in violation of any of the provisions of this code, is a public nuisance, and may be by this City, summarily abated as such and each day that such condition continues shall be regarded as a new and separate offense. (Ord. 2012-2 § 2)</text>
+    </section>
+    <section>
+      <num>1.04.050</num>
+      <heading>ENFORCEMENT—CITATION AUTHORITY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Persons employed in the following positions, or their designees, may enforce the provisions of the San Mateo Municipal Code and regulations adopted pursuant thereto by the issuance of administrative citations under Chapter 1.10 of this code.</text>
+      </para>
+      <text>
+        <table>
+          <tr>
+            <th>Position</th>
+            <th>Code Title, Chapter, or Section</th>
+          </tr>
+          <tr>
+            <td>Community Development Director, Neighborhood Improvement and Housing Manager, Sr. Code Enforcement Officer, Code Enforcement Officer</td>
+            <td>Titles 7, 8, 10, 23, 25, 27, Chapters 5.06, 5.64, Sections 11.40.110, 17.08.010, 17.08.020, 17.08.160, 17.08.170, 17.08.180(a), 17.20.010, 17.29.040</td>
+          </tr>
+          <tr>
+            <td>Building Official, Deputy Building Official, Building Inspector</td>
+            <td>Titles 7, 10, 23, 25, 27</td>
+          </tr>
+          <tr>
+            <td>Fire Chief, Battalion Chief, Fire Marshal, Deputy Fire Marshal, Fire Inspector, Fire Prevention Inspector</td>
+            <td>Titles 7, 10, 23, 25, 27</td>
+          </tr>
+          <tr>
+            <td>Director of Public Works, Deputy Director of Public Works, Construction Inspector, Senior Engineer, Environmental Programs Manager, Source Control Inspector, Public Works Supervisor, Waste/Recycling Program Coordinator</td>
+            <td>Chapters 7.38, 7.39, 17.08, 25.04, 25.08</td>
+          </tr>
+          <tr>
+            <td>Harbor Patrol Officer, Park Ranger, Senior Park Ranger, Director of Parks and Recreation</td>
+            <td>Chapter 13.20, Sections 13.05.010-13.05.030, 13.25.015</td>
+          </tr>
+          <tr>
+            <td>Parks and Landscape Maintenance Manager, Tree Maintenance Specialist</td>
+            <td>Chapters 13.35, 13.52</td>
+          </tr>
+          <tr>
+            <td>Community Service Officers, Parking Enforcement Representative</td>
+            <td>Titles 11, 17</td>
+          </tr>
+        </table>
+      </text>
+      <para>
+        <num>(b)</num>
+        <text>Nothing in this chapter shall diminish or otherwise modify the authority of persons who are empowered to enforce the San Mateo Municipal Code because of their status as peace officers or because of other authorizing status. (Ord. 2013-10 § 1; Ord. 2012-2 § 2)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.04.060</num>
+      <heading>INJUNCTIVE RELIEF.</heading>
+      <text>In addition to any other remedy provided by this code, any provision of this code may be enforced by injunction issued by the Superior Court upon a suit brought by the City of San Mateo. (Ord. 2012-2 § 2)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.10</num>
+    <heading>ADMINISTRATIVE CITATIONS</heading>
+    <section>
+      <num>1.10.010</num>
+      <heading>PURPOSE/APPLICABILITY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>This chapter shall be cited as the "Administrative Citation Ordinance."</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The City Council finds there is a need for an additional method of enforcement for violations of this code. The City Council finds an appropriate method of enforcement is an administrative citation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The procedures established in this chapter shall be in addition to criminal, civil or any other legally established procedures that may be pursued to address violations of this code.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The administrative citation process as set forth in this chapter shall apply to all violations and provisions of this code.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Use of this chapter shall be at the sole discretion of the City. (Ord. 2012-2 § 3; Ord. 2007-1 §§ 5, 6; Ord. 2005-2 § 2; Ord. 1999-3 § 2; Ord. 1998-9 § 2)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.10.020</num>
+      <heading>ENFORCEMENT OFFICER—DEFINED.</heading>
+      <text>For purposes of this chapter, "enforcement officer" shall mean any City employee or agent of the City with the authority to enforce any provision of this code as provided in Section 1.04.050. (Ord. 2012-2 § 3; Ord. 1999-3 § 2; Ord. 1998-9 § 2)</text>
+    </section>
+    <section>
+      <num>1.10.025</num>
+      <heading>NUISANCE ABATEMENT FEE—DEFINED.</heading>
+      <text>A fee to cover the City's administrative and other reasonable costs of abating violations of the San Mateo Municipal Code pursuant to this chapter. (Ord. 2012-2 § 3; Ord. 1999-3 § 2; Ord. 1998-9 § 2)</text>
+    </section>
+    <section>
+      <num>1.10.030</num>
+      <heading>ADMINISTRATIVE CITATION.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Whenever an enforcement officer who has authority to enforce a violation of this code determines that a violation has occurred, the enforcement officer may issue an administrative citation to any person or entity responsible for the violation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Each administrative citation shall contain the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>The date of the violation;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The address or a definite description of the location where the violation occurred;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A citation to the section of this code violated and a description of the violation;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The amount of the nuisance abatement fee for the code violation;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>A description of the nuisance abatement fee payment process, including a description of the time within which and the place to which the fee shall be paid;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>An order of abatement prohibiting the continuation or repeated occurrence of the code violation described in the administrative citation;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>A description of the administrative citation appeal process, including the time within which the administrative citation may be contested; and</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The name and signature of the citing enforcement officer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Except in the case of a violation creating an immediate danger to health or safety, the enforcement officer shall issue a warning notice of violation to the responsible party for a continuing violation pertaining to building, plumbing, electrical or other similar structural or zoning issues, at least 72 hours prior to issuance of an administrative citation. The notice shall be posted at the property or personally served on the responsible party at the time of issuance. (Ord. 2012-2 § 3; Ord. 1999-3 § 2; Ord. 1998-9 § 2)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.10.040</num>
+      <heading>USE OF ADMINISTRATIVE CITATIONS—SEPARATE VIOLATIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each and every day a violation of this code exists constitutes a separate and distinct offense. Each section of the code violated constitutes a separate violation for any day at issue.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A nuisance abatement fee for violation of this code may be assessed by means of an administrative citation issued by the enforcement officer and shall be payable directly to the City.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nuisance abatement fees assessed by means of an administrative citation shall be collected in accordance with the procedures specified in this chapter. (Ord. 2012-2 § 3; Ord. 1999-3 § 2; Ord. 1998-9 § 2)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.10.050</num>
+      <heading>PROCEDURES FOR ADMINISTRATIVE CITATIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The administrative citation shall be issued on a form prescribed by the City Manager.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The enforcement officer may obtain the signature of the responsible party on the administrative citation to establish personal service of the citation. If that person is not located, refuses or otherwise does not sign the administrative citation, the lack of signature shall in no way affect the validity of the citation and proceedings. In such cases, the enforcement officer shall make service of the citation as otherwise provided herein.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the enforcement officer is unable to locate the responsible party, or the responsible party refuses or otherwise does not sign the citation, the administrative citation shall be served on the responsible party as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>The administrative citation shall be mailed to the responsible party by first class mail. If the responsible party is the property owner, it shall be sent to the mailing address maintained for the property by the County Tax Assessor. If the responsible party is the tenant or other possessor of property where the violation exists, it shall be sent to the property address, if possible. In all other cases, service shall be made at the address maintained for the responsible party by the City for business tax purposes, or at the responsible party's last known address.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The failure of any responsible party to receive a properly addressed and mailed citation shall not affect the validity of any proceeding under this chapter.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Service of the administrative citation in the manner described above shall be effective on the date of mailing. (Ord. 2012-2 § 3; Ord. 1999-3 § 2; Ord. 1998-9 § 2)</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>1.10.060</num>
+      <heading>APPEAL OF ADMINISTRATIVE CITATION.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Persons receiving an administrative citation may appeal it within 10 working days from the date the administrative citation is served. The notice of appeal must be in writing, and accompanied by the nuisance abatement fee, and must specify the basis for the appeal. It must be received by the City within 10 working days. If the deadline falls on a weekend or City holiday, then the deadline shall be extended until the next regular business day.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Community Relations Commission will hear and decide administrative citation appeals.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>As soon as practicable after receiving the written notice of appeal, the City shall review it for sufficiency. If found to be complete and in conformance with this section, the City shall set the appeal hearing for the next available Community Relations Commission meeting. Written notice of the time and place for the hearing may be served by personal service, or first class mail to the address provided by the responsible party on the notice of appeal.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The failure of any person with an interest in the property to receive such properly addressed notice of the hearing shall not affect the validity of any proceedings under this chapter. Service by first class mail shall be effective on the date of mailing.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Failure of any person to file an appeal in accordance with the provisions of this section shall constitute a waiver of that person's rights to contest the merits of the citation and the imposition of the nuisance abatement fee.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Community Relations Commission shall conduct an orderly fair hearing and accept evidence on which persons commonly would rely in the conduct of their business affairs as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>A valid citation shall be prima facie evidence of the violation;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Community Relations Commission shall accept testimony by declaration under penalty of perjury relating to the violation and the appropriate means of correcting the violation;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The owner, agent, responsible party, or any other interested person may present testimony or evidence concerning the violation and the means and time frame for correction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The City shall establish all appropriate administrative regulations for conducting hearings and rendering decisions pursuant to this section.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Community Relations Commission shall determine whether to affirm or dismiss the administrative citation. The Commission may reduce, waive or conditionally reduce the nuisance abatement fee stated in the citations or any late fees assessed based on a showing of good cause. The Commission may impose conditions and deadlines for correction of violations and make such direction to enforcement officers to assure compliance.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The Community Relations Commission shall make findings based on the record of the hearing and make a written decision based on the findings. The City shall preserve all exhibits submitted by the parties for a 180-day period and shall serve the decision by first class mail on the contestant within 10 working days after the hearing. The decision of the Commission may be appealed to the City Council in writing within 10 working days of the day the Commission's decision is served. The appeal before the City Council will follow the same procedures and requirements as the Community Relations Commission hearing. (Ord. 2013-2 § 3; Ord. 2012-2 § 3; Ord. 1999-3 § 2; Ord. 1998-9 § 2)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.10.070</num>
+      <heading>FEES ASSESSED.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The City Council shall establish the amounts of the nuisance abatement fees, including increased fees for repeat violations, to be assessed for administrative citations by City Council resolution. Correction of any violation within 10 working days of the date the citation was served, as verified by the enforcement officer, will result in a reduction of the nuisance abatement fee by two-thirds for the first violation of a code.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the violator or property owner fails to correct the violation, subsequent administrative citations may be issued for the same violation(s).</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Payment of the nuisance abatement fee shall not excuse the failure to correct the violation nor shall it bar further enforcement action by the City.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All nuisance abatement fees assessed shall be payable to the City at the address provided on the administrative citation.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>If payment of a nuisance abatement fee is not received by the City within 30 calendar days of service of the citation, then a late fee in the amount of 25% of the citation shall be assessed.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The failure of any person to timely pay a nuisance abatement fee assessed by administrative citation or any late fee added thereto, constitutes a debt to the City. To enforce that debt, the Director of Finance or designee may file a claim with the small claims court, or pursue any other legal remedy to collect such money, including by assessment as set forth in Chapter 7.42.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>In addition to the nuisance abatement fee assessed by the administrative citation and any late fee thereto, for appeals which have gone before the Community Relations Commission or City Council, either hearing body may assess administrative costs against the violator. The administrative costs may include any and all costs incurred by the City in connection with the matter before the hearing body including, but not limited to, costs of inspection, investigation, attorneys' fees, staffing costs incurred in preparation for the hearing and for the hearing itself and costs for all reinspections of the subject violation. (Ord. 2013-2 § 3; Ord. 2012-2 § 3; Ord. 1999-3 § 2; Ord. 1998-9 § 2)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.10.080</num>
+      <heading>RIGHT TO JUDICIAL REVIEW.</heading>
+      <text>Any person aggrieved by an administrative decision of the City Council on an administrative citation may obtain review of the administrative decision by filing a petition for review with the Superior Court in San Mateo County in accordance with the timeliness and other provisions set forth in California Government Code Section 53069.4. (Ord. 2012-2 § 3; Ord. 1999-3 § 2; Ord. 1998-9 § 2)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.11</num>
+    <heading>CIVIL PENALTIES</heading>
+    <section>
+      <num>1.11.010</num>
+      <heading>CIVIL PENALTY.</heading>
+      <text>The City Manager, or designee, may issue a notice of imposition of civil penalty to any person or entity, including a property owner, who has violated any provision of this municipal code, any term or condition of a permit issued by the City, or any final order of the Community Relations Commission, the Planning Commission, or of the City Council. (Ord. 2013-2 § 3; Ord. 2001-17 § 1)</text>
+    </section>
+    <section>
+      <num>1.11.020</num>
+      <heading>NOTICE.</heading>
+      <text>Notice of the hearing to impose a civil penalty shall be given to the person or entity against whom the civil penalty is to be imposed at least 10 days prior to the hearing. The notice shall be mailed or personally served. The notice shall state the time, place, and date for the hearing, the basis for the civil penalty, the sections of the municipal code or provisions of the order that have been violated, the time period of the violation, and the civil penalty to be imposed, along with a statement that the proposed penalty may be increased or decreased after the hearing. (Ord. 2001-17 § 1)</text>
+    </section>
+    <section>
+      <num>1.11.030</num>
+      <heading>HEARING.</heading>
+      <text>The City Manager, or designee, shall appoint a hearing officer. The hearing officer shall receive relevant evidence and issue a written decision, including findings of fact. The decision shall be mailed or personally served.</text>
+      <text>For matters considered under Title 7 of the municipal code by the Community Relations Commission or City Council, the Commission or Council may act as a hearing officer. The hearing regarding a civil penalty may be considered at the same time as the hearing regarding a public nuisance. (Ord. 2013-2 § 3; Ord. 2001-17 § 1)</text>
+    </section>
+    <section>
+      <num>1.11.040</num>
+      <heading>AMOUNT OF CIVIL PENALTY.</heading>
+      <text>The hearing officer may consider the following factors in setting a civil penalty: (1) the extent of harm that the violation poses to the community and/or to private individuals; (2) the history of the person or entity and the property regarding previous violations of the municipal code; (3) the corrective efforts taken and efforts to prevent the violations; (4) whether a loss of housing occurs by the violation; (5) the economic gain that resulted, or the potential economic gain that could have resulted, from the violation; (6) other factors deemed relevant by the hearing officer.</text>
+      <text>If the hearing officer finds a violation, the penalty shall be not less than $10.00 a day for each day of violation nor more than $10,000.00 per day for each day of violation; provided that the civil penalty can be greater than $10,000.00 per day if the hearing officer finds that a greater penalty is necessary to remedy the economic gain that resulted, or could have resulted, from the violation and/or the harm to the community or individuals exceeds $10,000.00 per day. (Ord. 2001-17 § 1)</text>
+    </section>
+    <section>
+      <num>1.11.050</num>
+      <heading>PAYMENT OF CIVIL PENALTY.</heading>
+      <text>Civil penalties are due and owing within 20 days of service of the hearing officer's decision. Interest shall accrue on all unpaid penalties at the maximum rate allowed by law. The City Attorney is authorized to bring an action to collect any unpaid civil penalty. (Ord. 2001-17 § 1)</text>
+    </section>
+    <section>
+      <num>1.11.060</num>
+      <heading>FINAL DECISION.</heading>
+      <text>The decision of the hearing officer shall constitute a final decision. Judicial review of any decision may be sought pursuant to Code of Civil Procedure Section 1094.5 no later than the 90th day following the date on which the decision is final. (Ord. 2001-17 § 1)</text>
+    </section>
+    <section>
+      <num>1.11.070</num>
+      <heading>OTHER ENFORCEMENT.</heading>
+      <text>Nothing in this chapter shall prevent enforcement of this code through other actions, such as criminal enforcement or injunctive relief. Full or partial payment of the civil penalty shall not excuse the failure to correct the code violation wholly and permanently nor shall it preclude the assessment of further civil penalties. (Ord. 2001-17 § 1)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.12</num>
+    <heading>REQUIRING WITNESSES TO TESTIFY UNDER OATH AT DISCIPLINARY PROCEEDINGS BEFORE PERSONNEL BOARD</heading>
+    <section>
+      <num>1.12.010</num>
+      <heading>WITNESSES UNDER OATH—PERSONNEL BOARD DISCIPLINARY PROCEEDINGS.</heading>
+      <text>Witnesses in disciplinary proceedings before the Personnel Board shall testify under oath. The oath shall be administered by a recording secretary appointed by the Personnel Director. (Ord. 1984-1 § 1, 1984).</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1.14</num>
+    <heading>ADMINISTRATIVE COMPLIANCE ORDERS</heading>
+    <section>
+      <num>1.14.010</num>
+      <heading>PURPOSE/APPLICABILITY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>This chapter shall be cited as the "Administrative Compliance Order Ordinance."</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The City Council finds there is a need for an additional method of enforcement for violations of this code. The City Council finds an appropriate method of enforcement is an administrative compliance order.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The procedures established in this chapter shall be in addition to criminal, civil or any other legally established procedures that may be pursued to address violations of this code.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The administrative compliance order process as set forth in this chapter shall apply to all violations and failures to comply with mandatory provisions established by this code.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Use of this chapter shall be at the sole discretion of the City. (Ord. 2012-2 § 4)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.14.020</num>
+      <heading>ENFORCEMENT OFFICER—DEFINED.</heading>
+      <text>For purposes of this chapter, "enforcement officer" shall mean any city employee or agent of the City with the authority to enforce any provision of this code as provided in Section 1.04.050. (Ord. 2012-2 § 4)</text>
+    </section>
+    <section>
+      <num>1.14.030</num>
+      <heading>ADMINISTRATIVE COMPLIANCE ORDER.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Issuance. An enforcement officer may issue a written compliance order, providing a reasonable time for correction of not less than 10 working days, to any person responsible for a municipal code violation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Contents of Administrative Compliance Order. A compliance order issued pursuant to this chapter shall contain the following information: the date and location of the violation; the section of this code violated and a description of the violation; the action required to correct the violation; the time period after which administrative penalties will begin to accrue if compliance with the order has not been achieved; and the amount of penalties that will begin to accrue.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Compliance and Failure to Comply. If the enforcement official determines that all violations have been corrected within the time specified in the compliance order or within any amended orders, the enforcement official shall so advise each party to whom the compliance order was addressed. If full compliance is not achieved within the time specified in the compliance order or within any amended orders, the enforcement official shall schedule a hearing before the Community Relations Commission.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Administrative Order by Community Relations Commission. If the Community Relations Commission determines that a violation occurred which was not corrected within the time period specified in the compliance order, the Commission shall issue an administrative order which imposes any or all of the following: an order to correct code violations, including a schedule for correction, if appropriate; administrative penalties; and administrative costs of enforcement.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Administrative Penalties. The Community Relations Commission may impose administrative penalties for each day during which a violation occurs after compliance was ordered. Administrative penalties assessed by the Commission shall be due by the date specified in the administrative order. (Ord. 2013-2 § 3; Ord. 2012-2 § 4)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.14.040</num>
+      <heading>PROCEDURES FOR ADMINISTRATIVE COMPLIANCE ORDER.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The enforcement officer may serve the compliance order personally upon the responsible party or the property owner to establish personal service of the order. Alternatively, the enforcement officer shall make service of the citation by first class mail. If the responsible party is the property owner, it shall be sent to the mailing address maintained for the property by the County Tax Assessor. If the responsible party is the tenant or other possessor of property where the violation exists, it shall be sent to the property address, if possible. In all other cases, service shall be made at the address maintained for the responsible party by the City for business tax purposes, or at the responsible party's last known address.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The failure of any responsible party to receive a properly addressed and mailed citation shall not affect the validity of any proceeding under this chapter.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Service of the administrative compliance order in the manner described above shall be effective on the date of mailing.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The City Manager may establish appropriate administrative regulations for implementing the ordinance codified in this chapter. (Ord. 2012-2 § 4)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.14.050</num>
+      <heading>ADMINISTRATIVE COMPLIANCE HEARING.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Community Relations Commission shall hear and decide administrative compliance orders.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Written notice of the time and place for the hearing may be served by personal service, or first class mail to the address provided in the compliance order.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The failure of any person with an interest in the property to receive such properly addressed notice of the hearing shall not affect the validity of any proceedings under this chapter. Service by first class mail shall be effective on the date of mailing.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Community Relations Commission shall conduct an orderly fair hearing and accept evidence on which persons commonly would rely in the conduct of their business affairs as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>A valid compliance order shall be prima facie evidence of the violation;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Community Relations Commission may accept testimony by declaration or in person under penalty of perjury relating to the violation and the appropriate means of correcting the violation;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The owner, agent, responsible party, or any other interested person may present testimony or evidence concerning the violation and the means and time frame for correction.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Community Relations Commission may establish all appropriate administrative regulations for conducting hearings and rendering decisions pursuant to this section.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Community Relations Commission shall determine whether to affirm or dismiss the administrative compliance order and shall set the amount of administrative penalties and administrative costs. The Commission may impose conditions and deadlines for correction of violations and make such direction to enforcement officers to assure compliance.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Community Relations Commission shall make findings based on the record of the hearing and make a written decision based on the findings and shall serve the decision by first class mail on the contestant within 10 working days after the hearing. The decision of the Commission may be appealed to the City Council in writing within 10 working days of the day the Commission's decision is served. The appeal before the City Council will follow the same procedures and requirements as the Community Relations Commission hearing. (Ord. 2013-2 § 3; Ord. 2012-2 § 4)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.14.060</num>
+      <heading>PENALTIES AND FEES ASSESSED.</heading>
+      <para>
+        <num>(a)</num>
+        <text>If the violator or property owner fails to correct the violation by the date due on the compliance order, the Community Relations Commission shall establish an administrative penalty, not to exceed $1,000.00 per day per violation, and a date the penalty and any administrative costs shall be due and payable. In addition to administrative penalties, the Commission may assess administrative costs against the violator. The administrative costs may include any and all costs incurred by the City in connection with the matter before the Community Relations Commission, including, but not limited to, costs of inspection, investigation, attorneys' fees, staffing costs incurred in preparation for the hearing and for the hearing itself, and costs for all reinspections.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Jurisdiction. After the administrative order becomes final, the Community Relations Commission shall maintain continuing jurisdiction until full compliance is achieved and shall have the power to modify the administrative order, after providing the person subject to the administrative order with notice and an opportunity to be heard. Notwithstanding this provision, the City Attorney has independent jurisdiction to pursue alternate remedies for the same violations regardless of the pendency of the administrative proceedings pursuant to this chapter.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Payment of the administrative penalty shall not excuse the failure to correct the violation nor shall it bar further enforcement action by the City.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>All administrative penalties assessed shall be payable to the City at the address provided on the administrative compliance order.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The failure of any person to timely pay an administrative penalty and/or administrative costs imposed by the Community Relations Commission constitutes a debt to the City. To enforce that debt, the Director of Finance or designee may file a claim with the small claims court, or pursue any other legal remedy to collect such money. Administrative costs may be collected as an assessment as set forth in Chapter 7.42. (Ord. 2013-2 § 3; Ord. 2012-2 § 4)</text>
+      </para>
+    </section>
+    <section>
+      <num>1.14.070</num>
+      <heading>RIGHT TO JUDICIAL REVIEW.</heading>
+      <text>Any person aggrieved by an administrative decision of the City Council on an administrative compliance order may obtain review of the administrative decision by filing a petition for review with the Superior Court in San Mateo County in accordance with the timeliness and other provisions set forth in California Government Code Section 53069.4. (Ord. 2012-2 § 4)</text>
+    </section>
+  </container>
+</container>

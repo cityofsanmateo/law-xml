@@ -1,0 +1,1247 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Title</prefix>
+  <num>13</num>
+  <heading>PARKS AND RECREATION</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.01</num>
+    <heading>DEFINITIONS</heading>
+    <annotation>For provisions relating to the park and recreation commission, see Chapter 2.27. For provisions relating to the department of parks and recreation, see Chapter 2.45.</annotation>
+    <section>
+      <num>13.01.001</num>
+      <heading>DEFINITIONS GENERALLY.</heading>
+      <text>The definitions in this chapter shall be applied to terms used in this Title*. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.01.005</num>
+      <heading>AMPLIFIED SOUND.</heading>
+      <text>"Amplified sound" means the use of amplified equipment, including microphone sound equipment, boom boxes, car stereos or other amplified sound or music devices. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.01.010</num>
+      <heading>CORE BUSINESS OF PARKS AND RECREATION DEPARTMENT.</heading>
+      <text>"Core business of the parks and recreation department" means activities and uses that are integral to the Department's mission to enrich community through people, parks and programs including providing an appropriate mix of safe, well maintained and well designed parks, open spaces and community center facilities that are accessible for all residents; creating enriching leisure opportunities for all age groups that support lifetime users and enhance the physical, intellectual, social and cultural growth and development of our residents and preserving and protecting the City's natural resources including its urban forest, public open spaces, pedestrian and bicycle trails and landscaped medians and islands. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.01.015</num>
+      <heading>ENVIRONMENTALLY SENSITIVE AREA.</heading>
+      <text>"Environmentally sensitive area" is any area in which plant or animal life or their habitats are either rare or especially valuable because of their special nature or role in an ecosystem and which could be easily disturbed or degraded by human activities and developments. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.01.020</num>
+      <heading>FACILITY MANAGER.</heading>
+      <text>The manager in charge of any Park Property or Facility. The Facility Manager shall be designated for any particular Park Property or Facility by the Director of Parks and Recreation. There shall be only one Facility Manager for each Park Property and Facility at any given time. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.01.025</num>
+      <heading>FACILITY SPECIFIC REGULATIONS.</heading>
+      <text>"Facility Specific Regulations" means a regulation applicable to a particular Park Property or Facility. Facility Specific Regulations are intended to promote the orderly and smooth operation of the park or facility and shall be posted in a public area at the park or facility or a sign notifying the public of the availability of a list of Facility Specific Regulations shall be posted in a public area. (See Section 13.20.070) (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.01.035</num>
+      <heading>OBSCENE.</heading>
+      <text>Anything when taken as a whole, predominantly appeals to the prurient, shameful, or morbid interests of minors and which is patently offensive to prevailing standards in the adult community as a whole with respect to what is suitable material for minors and when taken as a whole, lacks serious literary, artistic, political, or scientific value for minors. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.01.040</num>
+      <heading>ORGANIZED ATHLETIC GROUP.</heading>
+      <text>"Organized athletic group" means any group that meets on a regular basis with a similar composition of members for athletic activities or that is currently participating in or registered to participate in an athletic league which provides scheduled games. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.01.042</num>
+      <heading>PARK.</heading>
+      <text>"Park" when used in this Title shall mean those properties designated as dedicated Parks under Chapter 13.10 of this Code and any other City property open to the public for recreational purposes but excluding Park Facilities. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.01.043</num>
+      <heading>PARK FACILITY.</heading>
+      <text>"Park Facility" includes the King Center Recreation building and pool, the Beresford Recreation Center building, the Joinville Pool and building, the San Mateo Senior Center, the City Park maintenance facility on Pacific Avenue, Shoreview Recreation Center, Lakeshore Recreation Center building and all buildings located within Central Park and at the Municipal Golf Course. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.01.045</num>
+      <heading>PARK PROPERTIES AND FACILITIES.</heading>
+      <text>Whenever "park property(ies) and/or facility(ies)" appear in this code, it shall mean all grounds and facilities under the supervision of the department of parks and recreation. This includes but is not limited to municipal parks, pools, recreation centers, golf course, park maintenance facilities and all parking lots and structures involved in these facilities and school district facilities when scheduled or programmed by the City. (Ord. 2007-1 § 3; Ord. 1984-23 § 5, 1984).</text>
+    </section>
+    <section>
+      <num>13.01.050</num>
+      <heading>PERSONAL WATERCRAFT.</heading>
+      <text>"Personal watercraft" means a vessel 13 feet in length or less, propelled by machinery, that is designed to be operated by a person sitting, standing, or kneeling on the vessel rather than in the conventional manner of sitting or standing inside the vessel as defined by Section 651(s) of the California Harbors and Navigations Code. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.01.055</num>
+      <heading>PUBLIC SQUARE.</heading>
+      <text><strong>"</strong>Public square" means designated spaces within the City's park properties and facilities that are exempt from the permit requirements outlined in Chapter 13.10 Park Permits. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.01.060</num>
+      <heading>SPECIAL EVENT.</heading>
+      <text>"Special Event" means any event which is scheduled to take place within the City's park properties and facilities, which may require special accommodations, regulations, or waiver of the normal rules or controls, or is likely to generate a crowd of spectators sufficient in size to obstruct, delay or interfere with the normal flow of pedestrian or vehicular traffic, which may generate a crowd of sufficient size to restrict access to park properties and facilities or any event which is likely to result in the need for public safety reasons, for police regulation, monitoring and control. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.05</num>
+    <heading>GENERAL PROVISIONS</heading>
+    <section>
+      <num>13.05.010</num>
+      <heading>TRESPASS—GENERALLY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Except as provided for in this Code, it is unlawful for any person to enter upon any park property or facility, or portion thereof, that has been restricted to the exclusive use of certain persons or activities pursuant to a City permit or a recreational program of the City.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The City Manager, Chief of Police, Director of Parks and Recreation, or designated representatives are authorized to exclude from any park property or facility any person violating the provisions of this Title or any of the Facility Specific Regulations promulgated under it. It is unlawful for any person so excluded to fail to leave the park property or facility forthwith or to thereafter enter the park property or facility, except with the express consent of the City Manager, Chief of Police, Director of Parks and Recreation, or designated representative. (Ord. 2007-1 § 3; Ord. 1990-8 § 11; Ord. 1984-23 § 5; Ord. 1979-29 § 4; Ord. 1969-27 § 1; prior code § 77.01)</text>
+      </para>
+    </section>
+    <section>
+      <num>13.05.020</num>
+      <heading>HOURS—DESIGNATED.</heading>
+      <text>Except as provided in Section 13.05.030, it is unlawful to enter, use, cross, or remain in any park property or facility between the hours of 10:00 p.m. and 6:00 a.m. the following morning. (Ord. 2007-1 § 3; Ord. 1984-23 § 5; Ord. 1969-27 § 1; prior code § 77.02)</text>
+    </section>
+    <section>
+      <num>13.05.030</num>
+      <heading>HOURS—EXCEPTIONS.</heading>
+      <text>The hours established by Section 13.05.020 shall not apply to:</text>
+      <para>
+        <num>(a)</num>
+        <text>The Poplar Creek Golf Course. It is unlawful to enter, use, cross, or remain in the City golf course between sunset and sunrise. It is also unlawful to be on the golf course between sunrise and sunset on December 25. This shall not apply to the Golf Course Pro Shop or Restaurant facility, the hours of which shall be governed by vendor agreement with the City.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Recreation Programs/Private Permits/Special Event Permits. Persons may be allowed in park facilities after 10:00 p.m. if they are involved in a recreation program authorized by the Park and Recreation Department or have obtained a private facility permit or special event permit for the period of time that the program is scheduled or the period of time authorized by permit.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The parking lots serving the immediate area of any municipal recreation building during the time said building is being used for activities authorized by the Director of Parks and Recreation or designated representative.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Arroyo Park. It is unlawful to enter, use, cross or remain in Arroyo Park between sunset and sunrise.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Shoreline Parks. It is unlawful to enter, use, cross or remain in the Shoreline Parks between one-half hour after sunset and 6:00 a.m. (Ord. 2013-4 § 1; Ord. 2007-1 § 3; Ord. 1999-11 § 1; Ord. 1984-23 § 5; Ord. 1969-27 § 1; prior code § 77.03)</text>
+      </para>
+    </section>
+    <section>
+      <num>13.05.040</num>
+      <heading>ENFORCEMENT.</heading>
+      <text>The City Manager, Chief of Police, Director of Parks and Recreation or designated representative are responsible for enforcing the provisions of this chapter and all facility specific regulations applicable to the administration, operation, use and maintenance of the park properties and facilities. Notwithstanding this provision, other City officials have authority to enforce this title as allowed under Section 1.04.040 of this code. (Ord. 2007-1 § 3; Ord. 1984-23 § 5; Ord. 1979-29 § 7; Ord. 1969-27 § 1; prior code § 77.06)</text>
+    </section>
+    <section>
+      <num>13.05.050</num>
+      <heading>CLOSURE OF PARKS AND RECREATIONAL AREAS.</heading>
+      <text>The City Manager, Chief of Police, Director of Parks and Recreation or designated representative may close any park property or facility and in conjunction therewith may also cause the removal of any and all persons whose presence on the premises is disruptive to the safe use of the park property or facility. (Ord. 2007-1 § 3; Ord. 1984-23 § 5; Ord. 1979-29 § 10; prior code § 77.09)</text>
+    </section>
+    <section>
+      <num>13.05.060</num>
+      <heading>FEES.</heading>
+      <text>Based on council adopted policy and revenue guidelines, and in consultation with the Park and Recreation Commission, the Director of Parks and Recreation or designated representative shall establish the fees to be charged when appropriate for the use of park properties and facilities and recreation programs. These include the use of picnic areas, athletic fields, recreation centers, swimming pools, tennis courts, Marina Lagoon launch ramp and use, the issuance of street and heritage tree removal applications, and all other fees and charges made by the Department of Parks and Recreation with the exception of municipal golf courses. Municipal golf course fees and charges shall be proposed by the Director of Parks and Recreation or designated representative, in consultation with the Park and Recreation Commission, to be established by the City Council by resolution. (Ord. 2007-1 § 3; Ord. 1984-23 § 5; Ord. 1979-29 § 11)</text>
+    </section>
+    <section>
+      <num>13.05.070</num>
+      <heading>PARK IMPACT FEE.</heading>
+      <text>This section establishes a park impact fee for residential units that are not subject to Chapter 26.64, Dedication of Land for Community Purposes. The park impact fee shall be based on the value of real property in the City of San Mateo and shall be calculated in the same manner as the land dedication or in-lieu park fees are calculated in Chapter 26.64 of this code.</text>
+      <para>
+        <num>(a)</num>
+        <text>The park impact fee shall apply to the construction of new residential units that are not subject to the requirements of Chapter 26.64 of this code and which are not one-family detached dwellings or secondary units allowed under Chapter 27.19. The park impact fee shall not apply to additions to existing structures, unless another residential unit is created thereby and then only for the added unit.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No building permit for a residential unit subject to this chapter shall be issued unless and until the park impact fee has been paid or appropriate security has been given for the payment of the fee. In no event shall a certificate of occupancy be issued for any property subject to this chapter until the park impact fee has been fully paid or land dedication is complete. (Ord. 2007-1 § 3; Ord. 2001-6 § 1)</text>
+      </para>
+    </section>
+    <section>
+      <num>13.05.080</num>
+      <heading>PARK MASTER PLANS.</heading>
+      <text>Notwithstanding any other provision of this code, the following procedures shall be used in reviewing the master plans of park properties and facilities.</text>
+      <para>
+        <num>(a)</num>
+        <text>The Park and Recreation Department will submit its preferred alternative master plan to the Community Development Department for review in accordance with applicable laws.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Parks and Recreation Commission will hold a public hearing on the master plan and accompanying environmental documents. At a minimum, written notice of the hearing will be provided to property owners within 300 feet of the outer boundaries of the property involved in the master plan. For park properties of regional significance or those including specialized facilities or unusual conditions, written notice over a greater area will be given commensurate with the public importance of the master plan.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The City Council will hold a public hearing on the master plan and environmental documents. Written notice will be provided in accordance with applicable laws. Approval of a master plan by the Council will constitute City policy toward development of the area concerned until such time as the Council amends the master plan or policy. Any permits or approvals required to develop the site pursuant to the master plan will be processed pursuant to this code. (Ord. 2007-1 § 3; Ord. 1985-20 § 1)</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.10</num>
+    <heading>PARK PERMITS</heading>
+    <section>
+      <num>13.10.010</num>
+      <heading>SPECIAL EVENTS.</heading>
+      <text>The City shall provide for the permitted use of park properties and facilities for special events in accordance with Chapter 17.34. (Ord. 2013-4 § 2; Ord. 2007-1 § 3; Ord. 1984-23 § 5; Ord. 1979-29 § 9; Ord. 1969-27 § 1; prior code § 77.08)</text>
+    </section>
+    <section>
+      <num>13.10.020</num>
+      <heading>PERMITS.</heading>
+      <text>The City Manager, Director of Parks and Recreation or designated representative may issue permits in order to provide for special events or any reservation for exclusive use of park properties or facilities. Use permits are required for the following uses or activities:</text>
+      <para>
+        <num>(a)</num>
+        <text>Any use or activity that involves 50 or more people.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any use or activity that involves the establishment of a free-standing structure, including, but not limited to, jumpers and bounce houses.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The use of City-scheduled facilities by an organized athletic group.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The exclusive use or reservation of park properties or facilities.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Any use or activity that enters upon, crosses, uses or remains upon the elevated stage area at Central Park.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Soliciting or conducting commercial activity.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Any use of amplified sound as described in Section 13.20.020, Amplified sound.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Any use that obstructs, or stops the flow of traffic in, along, or upon the grounds or premises of a park property or facility. (Ord. 2007-1 § 3; Ord. 1984-23 § 5)</text>
+      </para>
+    </section>
+    <section>
+      <num>13.10.030</num>
+      <heading>PERMITS—REQUIREMENTS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The following regulations apply to the issuance of park permits:</text>
+        <para>
+          <num>(1)</num>
+          <text>No park properties or facilities will be reserved for more than one year in advance of the time of use except by approval of the City Manager or Director of Parks and Recreation or designated representative.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>City of San Mateo residents will receive first priority for permits at the time of application. Once a permit is issued, the permittee will not lose his or her permit due to resident priority. Park permits will be processed in the order of receipt of a completed application form.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Events, programs, classes, lessons, tournaments sponsored by the Parks and Recreation Department and persons holding a valid Parks and Recreation Department permit have priority for use of park properties and facilities.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any damages to park properties and facilities caused by any person attending a permit group activity shall be charged to and paid by the permit group.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Unless any one of the following is shown to exist, the Community Service Manager or designated representative shall issue the permit upon the criteria set forth in this chapter: (i) the City has no park property or facility available which will accommodate the activity or which use would not leave at least 25% of the park property or facility physical space or time available for the use of the general public; (ii) the park property or facility requested has already been permitted to another group or person or is needed for programs sponsored by the Parks and Recreation Department; (iii) the applicant refuses to agree or does not have the authority to comply in writing with all the conditions described herein of the permit; (iv) the applicant has not tendered the required application fee or user fee with the application or the insurance certificate or security deposit prior to permit issuance; (v) the applicant cannot provide sufficient permit monitors at the rate of one monitor for every 50 participants; (vi) the applicant has been found utilizing park properties or facilities scheduled by the Department without a valid use permit on two or more occasions over the previous six-month period of time; (vii) the applicant is in violation of City ordinances or permit conditions; (viii) the applicant provided incomplete or incorrect information in the application; (ix) the event would present an unreasonable danger to the health and safety of the applicant, or to other users of the park property or facility or to the public or presents an unreasonable threat of damage to park property or is unlawful or obscene.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The Director may require a permittee to provide public liability and property damage insurance with indemnification provisions as may be appropriate to protect the park properties and facilities and the public using such park properties and facilities.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>No person shall fail to produce and exhibit a permit he or she claims to have upon request of any department employee or any peace officer who desires to inspect the permit for the purpose of enforcing compliance with any regulations of this chapter. The Director may revoke any permit issued for failure to comply with the requirements of this section.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Within 14 days of receipt of a completed application form, the City shall make a decision on a permit application and shall immediately communicate by telephone and in writing that decision to the applicant. Any person may appeal a permit decision by filing with the City Clerk an appeal in writing to the Director of Parks and Recreation within seven days of notification of the permit decision. The decision of the Director of Parks and Recreation shall be made within 24 hours of the appeal and shall be the final administrative decision of the City, appealable to the Superior Court under the provisions of Section 1094.5 of the Code of Civil Procedure, except that expedited proceedings may be had under the provisions of Section 1094.8 for permits regarding expressive conduct, at the discretion of the appellant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>For special event permits, the provisions of Chapter 17.34 apply. (Ord. 2013-4 § 3; Ord. 2007-1 § 3)</text>
+      </para>
+    </section>
+    <section>
+      <num>13.10.040</num>
+      <heading>ACTIVITIES ALLOWED WITHOUT PERMITS.</heading>
+      <text>Some activities and uses are allowed without permit in the public square. The public squares are specified for purposes of public expression and are designated as public forums for the dissemination of both verbal and written messages, subject to reasonable time and manner restrictions set forth in Section 13.10.045. Public demonstrations or picketing or leafleting, except as allowed herein in a public square, are not allowed within park facilities. Notwithstanding such limitation, nothing herein shall be construed to limit the use of parks for purposes of public expression by groups of less than 50 persons, when such parks are open to the public, or to limit such use by permit of any park property or facility by groups of all sizes, or such use of adjacent public forums, such as sidewalks within the public right-of-way. The following areas are designated as public squares: (1) the large interior lawn area in the middle of Central Park containing the flagpole; (2) the lawn area 50 feet west of the skate park, 50 feet east of the garden plots whose southern boundary is in line with the southern boundary of the skate park and whose northern boundary is in line with southern boundary of the basketball court area at Beresford Park; (3) the lawn area behind the ballfield bleachers at Bayside Joinville Park; and (4) the passive lawn area east of the King Park picnic area bordered by the ballfield, the parking lot and the main pathway through the park. (Ord. 2007-1 § 3)</text>
+    </section>
+    <section>
+      <num>13.10.045</num>
+      <heading>PUBLIC SQUARE TIME AND MANNER RESTRICTIONS.</heading>
+      <text>The following restrictions shall apply in areas designated as a public square:</text>
+      <para>
+        <num>(a)</num>
+        <text>No amplified sound is allowed except with permit under Section 13.10.020.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No distribution or publication of written material, nor dissemination of any verbal message, nor depiction or portrayal of a theatrical nature, that is obscene, is allowed.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Activities in the public square are limited to the hours of operation (periods when open to the public) applicable to the park within which the public square is located. (Ord. 2007-1 § 3)</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.20</num>
+    <heading>PARK REGULATIONS</heading>
+    <section>
+      <num>13.20.010</num>
+      <heading>PROHIBITED CONDUCT.</heading>
+      <text>The following acts and uses are prohibited in park properties and facilities.</text>
+      <para>
+        <num>(a)</num>
+        <text>Damage, degrade, deface, place graffiti upon or in any way vandalize park properties and facilities.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Litter, as described in Section 17.08.010. If no proper receptacles are provided, all litter shall be carried away from the premises by the person, group or organization responsible for its presence and properly disposed of elsewhere. This is to include the dumping of all household debris, trash and green waste.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Possess, exhibit or use firearms, air guns, slingshots, firecrackers fireworks, torpedoes, rockets, missiles, or weapons of any sort designed or used to harm another, with the exception of peace officers authorized by the penal code.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Fish, wade, swim, or bathe except in places designated therefor.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Conduct or solicit any commercial activity or provide any class or service without having secured a vendor's permit or City contract and a business tax certificate from the Director of Finance.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Enter any area which is posted as being closed to the public to protect growth or establish plants or to protect wildlife or environmentally sensitive areas or which is used as a service facility or which is under repair.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Use turf areas including athletic fields while the turf is saturated from rainy weather regardless of whether the user has a Parks and Recreation Department athletic field permit.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Kindle fires for any purpose except in places provided for such purposes or in a portable barbecue in an area designed for such purpose.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Operate any vehicle, motor driven cycle/scooter or aircraft, whether licensed or unlicensed within the park properties and facilities excepting those specifically authorized by the Director of Parks and Recreation or designated representative performing work for the City of San Mateo.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Operate motorized model airplanes or other miniaturized vehicles except as authorized by the Director of Parks and Recreation or designated representative.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Smoking, as defined by Section 7.40.020(k).</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Use for meetings or to conduct group activities to the exclusion of the general public except by permit upon the terms and conditions set forth by City ordinances.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>Use or attempt to use or interfere with the use of any table, space or facility which at the time is reserved by permit for any other person or group.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>Any conduct that is deemed to be unsafe or to lead to unsafe conditions.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>No person shall use, and it is unlawful to use, a City of San Mateo skateboard facility by any person who is not wearing a helmet, knee pads, and elbow pads suitable to provide protection in the event of falls or collisions. (Ord. 2015-15 § 2; Ord. 2007-1 § 3)</text>
+      </para>
+    </section>
+    <section>
+      <num>13.20.020</num>
+      <heading>AMPLIFIED SOUND.</heading>
+      <text>The use of amplified sound is prohibited without a permit allowing use of amplified sound except for events which are sponsored, co-sponsored, or staged in cooperation with the City. For permitted activities, sound levels shall not exceed 60 decibels (dB), measured from the boundaries of the areas designated for use of amplification equipment on the permit. In addition, maximum sound levels will be limited so as not to interfere with the reasonable enjoyment of the public in adjacent public areas or of private citizens within adjacent private property. The intent of this provision is to afford a comfortable enjoyment of life or property to the entire community. Amplified sound, of any type, is subject to the provisions of Section 7.30.080 of the municipal code. (Ord. 2007-1 § 3)</text>
+    </section>
+    <section>
+      <num>13.20.030</num>
+      <heading>ALCOHOLIC BEVERAGES.</heading>
+      <text>It is prohibited to possess or consume alcoholic beverages in park properties and facilities except as designated by permit issued under this title. Applicants shall comply with State Alcoholic Beverage Control requirements. (Ord. 2007-1 § 3)</text>
+    </section>
+    <section>
+      <num>13.20.040</num>
+      <heading>ANIMALS.</heading>
+      <text>The following regulations apply to animals in park properties and facilities:</text>
+      <para>
+        <num>(a)</num>
+        <text>With the exception of dogs on leashes, no domesticated animals will be permitted in any park property or facility except as authorized by the Director of Parks and Recreation or designated representative.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any dogs permitted in parks shall be continually under leash pursuant to Municipal Code Section 8.02.070 excepting in designated City parks for dogs off leash as defined in Section 8.02.070 in the animal control ordinance.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Under the provisions of Section 8.04.030, any person allowing a dog in their custody to defecate upon park grounds or facilities shall immediately remove and dispose of said feces in a sanitary manner.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>No dogs shall be allowed within 20 feet of any installed playground equipment.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>It is prohibited to capture, remove, abuse, feed, or kill any wild or domestic animal, reptile, fish or bird, including the eggs or nest of any reptile, wild animal or bird. (Ord. 2007-1 § 3)</text>
+      </para>
+    </section>
+    <section>
+      <num>13.20.050</num>
+      <heading>SMALL BALLFIELDS.</heading>
+      <text>No persons over 12 years old shall be allowed to hit hardballs at any ballfields with an outfield perimeter fence of less than 250 feet. (Ord. 2007-1 § 3)</text>
+    </section>
+    <section>
+      <num>13.20.060</num>
+      <heading>PARKING LOTS.</heading>
+      <text>The parking lots provided at park properties and facilities are to be used solely by patrons and those persons utilizing the programs, facilities or services of the Park and Recreation Department. No overnight parking is allowed in any parking lot serving an immediate area of any municipal park or recreation facility unless prior authorization is given by the Director of Parks and Recreation or designated representative. (Ord. 2007-1 § 3)</text>
+    </section>
+    <section>
+      <num>13.20.070</num>
+      <heading>FACILITY SPECIFIC REGULATIONS.</heading>
+      <text>The Director of Parks and Recreation shall have the authority to promulgate facility specific regulations. In addition to the authority granted under Sections 13.05.010 and 13.05.050 of this title, any person found to be in violation of a facility specific regulation promulgated by the Director or Parks and Recreation, shall be subject to removal from the park property or facility upon request of the facility manager. Such request, when made to law enforcement after refusal to comply, shall be a basis for forcible removal, citation or arrest. (Ord. 2007-1 § 3)</text>
+    </section>
+    <section>
+      <num>13.20.080</num>
+      <heading>POSTING OF ADVERTISING MATERIALS OR HANDBILLS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It is prohibited for any person to paste, glue, tack, staple, or otherwise post any sign, placard, advertisement, inscription, or decoration for any special event or any purpose on any park property or facility without the prior permission of the Director of Parks and Recreation or designee. Consent to post written materials in accord with this subsection shall be given for materials relating to events or programs aligned or supportive of the core business of the Parks and Recreation Department, as defined in Section 13.01.010, subject to reasonable time, place and manner restrictions. Posting or placement of all other materials is prohibited.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Representatives designated by the Director of Parks and Recreation will manage community notice boards located at the dog park at Seal Point Park and outside the Arboretum Society to assure that no obscene materials are posted in those locations and to remove materials over 30 days old. (Ord. 2007-1 § 3)</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.25</num>
+    <heading>MARINA LAGOON	REGULATIONS</heading>
+    <section>
+      <num>13.25.010</num>
+      <heading>LOCAL, STATE AND FEDERAL REGULATIONS—ENFORCEMENT.</heading>
+      <text>The use of Marina Lagoon shall be governed by this chapter, all applicable sections of the Harbors and Navigation Code as the same may be from time to time amended, and all applicable regulations of the State Department of Boating and Waterways, State Department of Parks and Recreation, and the United States Coast Guard. Enforcement of all such laws and regulations shall be made by the police and the harbor patrol officer of the Department of Parks and Recreation who shall be authorized to arrest or issue citations for violations.</text>
+      <text>It is unlawful to use Marina Lagoon except in accordance with all such local, state and federal regulations applicable thereto. (Ord. 2007-1 § 3; Ord. 1988-15 § 1, 1988; Ord. 1987-10 § 1, 1987; Ord. 1977-5 § 1, 1977; prior code § 77.40).</text>
+    </section>
+    <section>
+      <num>13.25.015</num>
+      <heading>TRESPASS—MARINA LAGOON.</heading>
+      <text>It is unlawful for any person to enter upon the Marina Lagoon, except as provided for in this chapter. No persons shall enter upon the banks of Marina Lagoon outside designated park and recreation areas for any purpose whatsoever, except in cases of emergency to protect life and/or property; provided that the Council may grant permits to abutting property owners for access to the waters of Marina Lagoon. The City Manager, Chief of Police, Director of Parks and Recreation or designated representative are authorized to have excluded from the Marina Lagoon any person violating the provisions of this title or any of the rules and regulations applicable thereto. Any person thus excluded who fails to leave the Marina Lagoon forthwith, or who thereafter enters therein or thereupon, except with the consent of the City Manager, Chief of Police, Director of Parks and Recreation or designated representative or their assistants, is guilty of a violation of this section and is subject to arrest by law enforcement. (Ord. 2007-1 § 3; Ord. 1988-15 § 2, 1988; Ord. 1987-10 § 2, 1987; Ord. 1984-23 § 7, 1984; prior code § 77.41).</text>
+    </section>
+    <section>
+      <num>13.25.020</num>
+      <heading>REGULATIONS—GENERAL.</heading>
+      <text>The following general regulations apply to activities in and on any portion of the Marina Lagoon.</text>
+      <para>
+        <num>(a)</num>
+        <text>No craft may be moored or docked overnight at any public dock, shore line, or in the Lagoon. Berthing of craft at private docks with encroachment permits shall be allowed.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No type of aircraft, ultra-light glider, or kite may be used or towed on Marina Lagoon.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Navigation markers, aids, and signs shall not be altered or removed except by authorized City representatives.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>No refuse, litter, feces, urine, petroleum product, or waste material of any nature shall be thrown or deposited into the waters of Marina Lagoon from the banks, docks, ways, or landing floats or boats.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>No ramps, jumps, markers, buoys, stakes, other equipment, or similar obstacles may be permanently or temporarily placed or used in Marina Lagoon without written approval of the City.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>It is unlawful for any person to possess or consume any alcoholic beverage in or on any portion of Marina Lagoon.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Use of motorized craft on Marina Lagoon is allowed only for those vessels that possess and appropriately display a valid annual or day use pass.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Marina Lagoon may be used in accord with the regulations set forth in this chapter at all times except when it may be partially or totally closed upon order of the City Manager, Chief of Police or Director of Parks and Recreation. (Ord. 2007-1 § 3; Ord. 1988-15 § 6, 1988; Ord. 1987-10 § 6, 1987; Ord. 1984-23 § 8, 1984; Ord. 1977-5 § 4, 1977; prior code § 77.44).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.25.030</num>
+      <heading>USE AND SPEED ZONES.</heading>
+      <text>Marina Lagoon is divided into eight use and speed zones. The boundaries and use of said zones are described as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>Zone A: Motor Boating and Water Skiing. From the dam near Third Avenue southerly to a posted point opposite the prolongation of Harrison Avenue;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Zone B: Nonmotor Boating, Sailing and Special Events. From the end of Zone A to a point 500 ft. south of the existing 19th Avenue overpass;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Zone C: Multiple Use. From a point 500 ft. south of the existing 19th Avenue overpass to a posted point approximately four hundred feet north of Lakeshore Park and Beach;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Zone D: Nonmotor Boating, Sailing and Special Events. From the end of Zone C southerly to a posted point approximately two hundred feet south of the Hillsdale Avenue overpass over Marina Lagoon Foster City Bridge;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Zone E: Motor Boating and Water Skiing. From the end of Zone D southerly to a posted point oblique to the prolongation of Fortieth Avenue;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Zone F: Fishing; hand and sail powered vessels only. From the end of Zone E southerly to the end of Marina Lagoon;</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Zone G: Mariner's Island Launching Channel; all boats may use this area;</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Zone H: Mariner's Island Beach Channel; all boats may use this area. (Ord. 2007-1 § 3; Ord. 1988-15 § 3, 1988; Ord. 1987-10 § 3, 1987; Ord. 1984-23 § 8, 1984: Ord. 1982-17 § 1, 1982; Ord. 1979-29 § 13, 1979; Ord. 1977-5 § 2, 1977; prior code § 77.42).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.25.035</num>
+      <heading>RESTRICTIONS ON USE OF ZONES.</heading>
+      <text>The use restrictions for the zones described in 13.25.030 are as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>It is unlawful to water ski in any Zone except Zones A and E or as permitted in Zones B and D pursuant to a City-issued permit for a special event.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It is unlawful to operate any vessel in the Mariner's Island Channel of Zone A.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>It is unlawful to operate any vessel by sail or hand power in Zones A and E except that residents of property on the shoreline in Zone A and E may traverse that Zone directly en route to or from the resident's dock or launching ramp to or from a Zone where operation of vessels under sail or hand power is permitted.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>It is unlawful to operate any "Personal Watercraft" in any Zone.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>It is unlawful in Zone A or E for any person to operate a vessel under sail or hand power farther than fifty (50) feet from any dock, way or landing float on either side of the lagoon.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Except where and as specifically posted by the City, it is unlawful to fish in Zones A, E, G, and H, or in any swimming area marked and designated by the City. It is also unlawful to troll fish in any Zone.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>It is unlawful to swim in Zones F and G. No person shall swim, scuba dive or skin dive in the remaining zones except within the designated buoyed swimming areas at any public park, beach, or playground. Swimming at individual residences shall be confined to areas not beyond the boundary of each dock but in no case, further than 25 feet from the shoreline.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Motor boat racing is prohibited in all Zones.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>It is unlawful to fail or refuse to comply with any lawful order, direction, or signal of a peace officer or harbor patrol officer regarding the use of any Zone in the Lagoon.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>For purposes of this chapter and the regulations promulgated thereunder, "hand power" means propelled by oar or paddle. (Ord. 2007-1 § 3; Ord. 1988-15 § 4, 1988; Ord. 1987-10 § 4, 1987; Ord. 1984-23 § 8, 1984).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.25.040</num>
+      <heading>SPEED LIMITS.</heading>
+      <text>Subject to the directions of a peace officer, or harbor patrol officer, it is unlawful for any person to violate the following speed limits on Marina Lagoon:</text>
+      <para>
+        <num>(a)</num>
+        <text>The maximum speed at any time in Zones A, C, and E shall be thirty-five miles per hour.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Motor boats traversing Zones B and D shall not be operated at a speed in excess of five miles per hour and at a speed that creates a wake.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The maximum speed at any time in Zones F, G, and H shall be three miles per hour and shall not create a wake.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Motor boats within fifty feet of any dock, way, other craft, or landing float in Zones A, C, and E shall not be operated at a speed in excess of five miles per hour.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Between sunset and sunrise, no person shall operate any vessel at a speed greater than ten (10) miles per hour, except in those zones where lower speeds are required, in which case the applicable speed shall be applied.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Park and Recreation Department is authorized to set different speed limits for special events, improved control or public safety for a period not to exceed one month.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>In no case shall any person operate at a speed greater than reasonable or prudent for the conditions of the area. (Ord. 2007-1 § 3; Ord. 1988-15 § 5, 1988; Ord. 1987-10 § 5, 1987; Ord. 1985-14 § 2, 1985; Ord. 1985-9 § 2, 1985; Ord. 1984-23 § 8, 1984; Ord. 1977-5 § 3, 1977; prior code § 77.43).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.25.050</num>
+      <heading>REGULATIONS – WATER SKIING.</heading>
+      <text>The following regulations apply to allowed waterskiing activities in or on any portion of Marina Lagoon.</text>
+      <para>
+        <num>(a)</num>
+        <text>Waterskiing activity shall not be permitted before sunrise and after sunset but in no case shall it be permitted before 6:00 a.m., Monday through Friday and 8:00 a.m., Saturday, Sunday and California State recognized holidays.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No boat towing a water skier and no towed skier shall come closer than 50 feet to any dock, way, landing float, or shoreline.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Only one skier may be towed at a time</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>No skier shall launch from a dock or the beach. All launching shall be from the water only.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>No skier shall be towed at a distance greater than 75 feet from the boat.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Boats towing water skiers shall be operated by an adult (18 year or older) and shall have an additional person on board of at least 12 years of age as an observer.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Slalom course skiing shall be permitted only on City approved courses, and in accordance with posted rules of use.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Towing of inner tubes, air mattresses, surfboards, and similar devices not designed for skiing activity is prohibited.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Boats in the skiing zones shall travel to the right of mid-channel and turn in a counter-clockwise direction.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Skiers and persons on legally towable devices shall remain within the wake whenever the boat is executing a turn of 90 degrees or greater. (Ord. 2007-1 § 3; 2007).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.25.060</num>
+      <heading>FEES.</heading>
+      <text>Upon payment of user fees, the City of San Mateo shall provide a sticker to be visibly affixed to the starboard side of the windshield of boats so equipped, or positioned near the stern on the starboard side of the hull. Single daily use fees in and out shall be evidenced by a receipt for payment of said fee. Boats propelled solely by hand or sail shall be exempt from Marina Lagoon use fees unless using the boat ramp. (Ord. 2007-1 § 3; 2007).</text>
+    </section>
+    <section>
+      <num>13.25.070</num>
+      <heading>SPECIAL EVENTS.</heading>
+      <text>The Director of Parks and Recreation or designated representative, may, upon terms and conditions deemed necessary to protect the public peace and safety, grant the exclusive use of any portion of the Marina Lagoon, to any organization or group which intends to stage a special event which, in his or her /her opinion, is of a general public interest. (Ord. 2007-1 § 3; Ord. 1988-15 § 7, 1988; Ord. 1987-10 § 7, 1987; Ord. 1984-23 § 8, 1984; Ord. 1977-5 § 6, 1977; prior code § 77.49).</text>
+    </section>
+    <section>
+      <num>13.25.080</num>
+      <heading>ENCROACHMENTS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Director of Public Works may issue permits allowing encroachments upon city-owned or controlled areas of Marina Lagoon by the owners of abutting property. Said permits shall be for the construction and maintenance of improvements approved by the Department of Public Works including, but not limited to, docks, ramps, fences and slope treatment and are subject to the Regional Permit issued for such encroachments by the Army Corps of Engineers.</text>
+        <text>The Department of Public Works shall develop standards and procedures for the installation and maintenance of the approved encroachments, taking into consideration, among other things, the seasonal water levels.</text>
+        <text>Before any permit may be issued, the applicant shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Submit plans of the proposed improvement;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Submit evidence of insurance in an amount and form determined by the City Attorney to be sufficient to protect the City, its elective and appointive boards and commissions, officers, agents and employees from any liability which might arise from the presence of the improvements. The insurance shall be maintained in full force and effect as long as the improvements remain;</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any person may appeal the decision of the Director of Public Works on a permit application under this Section by filing an appeal with the Public Works Commission within 10 days of the Director's notification of approval or denial. All appeals to the Commission shall be filed with the City Clerk and heard at the first regular meeting following receipt of said appeal and the decision of the Commission shall be final unless the appealing party files a subsequent appeal to the City Council in writing with the City Clerk within 10 days of the decision of the Commission. All appeals to the Council shall be final as to all matters.</text>
+      </para>
+      <text>All improvements permitted herein shall be maintained in a safe condition, be subject to inspection by the City, and may be required by the City Engineer to be physically identified by sign or number in a manner useful to City purposes. Any improvements which are found to be unsafe shall be declared a nuisance.</text>
+      <text>The Department of Public Works may, for reasons of health or safety, lapse of insurance, or City's need to use its property, cause the removal of any encroachment; provided however, that the permittee has been given notice in writing ten days prior to the intended removal. Such removal may be appealed through the same process described for encroachment permits. The cost of such removal shall be charged to the permittee. (Ord. 2007-1 § 3; Ord. 1988-15 § 8, 1988; Ord. 1987-10 § 8, 1987; Ord. 1984-23 § 8, 1984; Ord. 1977-5 § 7, 1977; Ord. 1975-10 § 1, 1975; prior code § 77.50).</text>
+    </section>
+    <section>
+      <num>13.25.090</num>
+      <heading>REMOVAL OR DEPOSIT OF MATERIAL.</heading>
+      <text>It is unlawful for any person to excavate, fill, remove or deposit material within Marina Lagoon except under permit as herein provided. (Ord. 2007-1 § 3; Ord. 1988-15 § 9, 1988; Ord. 1987-10 § 9, 1987; Ord. 1977-5 § 7, 1977; prior code § 77.51).</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.28</num>
+    <heading>COUNTY PARK REGULATIONS</heading>
+    <section>
+      <num>13.28.010</num>
+      <heading>ADOPTING BY REFERENCE SECTIONS 3.68.010 THROUGH 3.68.160 OF THE SAN MATEO COUNTY CODE.</heading>
+      <text>Pursuant to Government Code Section 50022.9, Sections ‍3.68.010 through ‍33.68.160 of the San Mateo County Code, set forth in Chapter ‍3.68 of Title 3, consisting of County Park and Recreation Area Rules under the Supervision of the San Mateo County Parks and Recreation Commission, are adopted by reference and incorporated in the San Mateo Municipal Code as though fully set forth herein. The purpose of this section and of Section 13.28.020 is to make the regulations enforceable by San Mateo County at Coyote Point Park. (Ord. 2007-1 § 3; Ord. 1981-11 § 1, 1981).</text>
+    </section>
+    <section>
+      <num>13.28.020</num>
+      <heading>VIOLATIONS—A MISDEMEANOR.</heading>
+      <text>Any person violating any of the provisions or failing to comply with any of the mandatory requirements, of Sections 3.68.010 through 3.68.160, as mentioned in Section 13.28.010, is guilty of a misdemeanor or infraction as charged pursuant to Chapter 1.04. (Ord. 2007-1 § 3; Ord. 1990-8 § 3, 1990; Ord. 1981-11 § 1, 1981).</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.30</num>
+    <heading>DEDICATION OF PARKS AND OPEN SPACE</heading>
+    <section>
+      <num>13.30.010</num>
+      <heading>IMPLEMENTATION OF ARTICLE X OF THE CHARTER.</heading>
+      <text>Article X of the Charter was enacted by the voters to authorize the permanent dedication of City-owned lands to park, playground, recreation, or open space purposes. Article X empowered the City Council to make dedications in its discretion. This chapter is enacted to implement permanent dedications by ordinance as is authorized by Article X. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.020</num>
+      <heading>PURPOSE OF DEDICATIONS.</heading>
+      <text>In accordance with Article X of the Charter lands when dedicated may not thereafter be sold or otherwise disposed of, nor converted to different purposes, except pursuant to majority vote of the electorate. A minor portion of dedicated lands may be conveyed without an election pursuant to the procedure designated in Article X. A dedication shall be not interpreted to diminish in any manner the discretion of the City Council (1) to choose the appropriate level of funding to maintain the dedicated lands or (2) to require that the City Council continue any single use on the dedicated lands. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.030</num>
+      <heading>SCOPE OF DEDICATIONS.</heading>
+      <text>Only lands owned by the City of San Mateo which are over 4 acres in area may be dedicated by the City Council in its discretion; provided, however, that lands of less than 4 acres may be dedicated when they are contiguous with and incorporated into lands previously dedicated. Easements of record shall not be eliminated by a dedication. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.040</num>
+      <heading>PUBLIC WORKS USES.</heading>
+      <text>In the ordinance of dedication the City Council may exclude areas from dedication and, unless otherwise expressly included in the ordinance, all public streets shall be excluded. No dedication shall prevent the utilization of dedicated lands: (1) for public works uses that (a) are in the public interest and (b) either were present at the time of dedication or are proposed to protect the dedicated lands or surrounding properties; (2) for public works uses that are themselves park, playground, recreation, or open space uses, such as flow lands, flood plains, dikes, marshes, lagoons, pump stations, etc. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.100</num>
+      <heading>BERESFORD PARK.</heading>
+      <text>All that real property known as "Beresford Park", consisting of 18.5 acres, m.o.l., Assessors Parcel No. 039-260-010, as shown on Exhibit "A" attached hereto. The provisions of Section 13.30.040 are incorporated by reference as though fully set forth. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.110</num>
+      <heading>CENTRAL PARK.</heading>
+      <text>All that real property known as "Central Park", consisting of 16.3 acres, m.o.l., Assessor's Parcel No. 034-200-100, as shown on Exhibit "A-1" attached hereto. The provisions of section 13.30.040 are incorporated by reference as though fully set forth. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.120</num>
+      <heading>FIESTA MEADOWS PARK.</heading>
+      <text>All that real property known as "Fiesta Meadows Park", consisting of 4.8 acres, m.o.l., Assessor's Parcels No. 035-340-140, 240, as shown on Exhibit "A-2" attached hereto. The provisions of Section 13.30.040 are incorporated by reference as though fully set forth. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.130</num>
+      <heading>KING PARK.</heading>
+      <text>All that real property known as "King Park", consisting of 6.1 acres, m.o.l., Assessor's Parcel No. 033-063-060, as shown on Exhibit "A-3" attached hereto. The provisions of section 13.30.040 are incorporated by reference as though fully set forth. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.140</num>
+      <heading>LAKESHORE PARK.</heading>
+      <text>All that real property known as "Lakeshore Park", consisting of 4.2 acres, m.o.l., including the contiguous beach area, Assessor's Parcels No. 040-150-100, 110, as shown on Exhibit "A-4" attached hereto. The provisions of Section 13.30.040 are incorporated by reference as though fully set forth. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.150</num>
+      <heading>LAURELWOOD PARK.</heading>
+      <text>All that real property known as "Laurelwood Park", as shown on Exhibit A-5 consisting of 2 pages and in documents recorded in the Official Records of San Mateo County Volume 6422, Page 63; Volume 5715, Page 197; Volume 6065, Page 169; Volume 6045, Page 693; Volume 4068, Page 585; Volume 5715; Page 197; Volume 4068, Page 583; Volume 4334, Page 654; Volume 4387, Page 6; Parcel #2 of Instrument No. 88043231; and Parcel E of Sugarloaf No. 1, Volume 99 Maps, Pages 42-45; provided, however, that Parcels 1 2 as shown on Parcel Map No. 303 recorded in the Official Records of San Mateo County in Book 6422 of Maps, Page 63 and Lot 39 in Block 5 and Lot 8 in Block 6 as shown on Laurelwood Map No. 5 recorded in the Official Records of San Mateo County in Book 55 of Maps, Page 41 are not included in Laurelwood Park. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.160</num>
+      <heading>LAURIE MEADOWS PARK.</heading>
+      <text>All that real property known as "Laurie Meadows Park", consisting of 5.5 acres, m.o.l., Assessor's Parcels No. 040-170-360, 040-350-460, as shown on Exhibit "A-6" attached hereto. The provisions of Section 13.30.040 are incorporated by reference as though fully set forth. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.170</num>
+      <heading>LOS PRADOS PARK.</heading>
+      <text>All that real property known as "Los Prados Park", consisting of 12.6 acres, m.o.l., Assessor's Parcel No. 040-163-260, as shown on Exhibit "A-7" attached hereto. The provisions of Section 13.30.040 are incorporated by reference as though fully set forth. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.180</num>
+      <heading>MARINA LAGOON.</heading>
+      <text>All that real property known as "Marina Lagoon", a waterway within the City of San Mateo and a part of the City's granted lands in trust from the California Legislature, as shown on Exhibit "A-8" attached hereto; provided, however, that no docks, ramps, or other private encroachments are dedicated. The provisions of Section 13.30.040 are incorporated by reference as though fully set forth. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.190</num>
+      <heading>MUNICIPAL GOLF COURSE.</heading>
+      <text>All that real property known as the "Poplar Creek Golf Course", consisting of 105 acres, m.o.l., Assessor's Parcel No. 029-350-020, as shown on Exhibit "A-9" attached hereto. The provisions of Section 13.30.040 are incorporated by reference as though fully set forth. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.200</num>
+      <heading>SHOREVIEW PARK.</heading>
+      <text>All that real property known as "Shoreview Park", consisting of 4.8 acres, m.o.l., Assessor's Parcel No. 033-363-130, as shown on Exhibit "A-10" attached hereto. The provisions of section 13.30.040 are incorporated by reference as though fully set forth. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.210</num>
+      <heading>SUGARLOAF.</heading>
+      <text>All that real property known as "Sugarloaf", consisting of 187 acres, m.o.l., as described in Exhibit "A-11" consisting of 2 pages attached hereto. The provisions of Section 13.30.040 are incorporated by reference as though fully set forth. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+    <section>
+      <num>13.30.220</num>
+      <heading>TIDELANDS PARK.</heading>
+      <text>All that real property known as "Tidelands Park", consisting of 15.8 acres, m.o.l., Assessor's Parcel Nos. 035-490-020, 035-501-380 and in that document recorded in the Official Records of San Mateo County Volume 6569, Page 508, as shown on Exhibit "A-12" consisting of 4 pages attached hereto. The provisions of Section 13.30.040 are incorporated by reference as though fully set forth. (Ord. 2007-1 § 3; Ord. 1989-13 § 1, 1989).</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.35</num>
+    <heading>STREET TREES</heading>
+    <section>
+      <num>13.35.010</num>
+      <heading>INTENT.</heading>
+      <text>This chapter is adopted for the following purposes:</text>
+      <para>
+        <num>(a)</num>
+        <text>To foster the planting of trees along the streets of the City;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>To promote and maintain the aesthetic value of the streets of the City;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To provide an orderly and efficient means of maintaining and protecting trees along the streets of the City;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>To promote the public health, safety, morals, comfort, and general welfare;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>To define the powers and duties of the administrative officers and bodies as provided herein. (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005; Ord. 1998-8, § 3, 1998; Prior code § 65.01).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.35.020</num>
+      <heading>DEFINITIONS.</heading>
+      <text>Terms used in this chapter shall be defined as follows or are as defined in Chapter 13.52:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Center divider strip" means the center section of a street, whether set off by curbs or not and whether planted or not, which separates opposing traffic;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Commission" means park and recreation commission of the City;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Curbline" means the vertical face edge lines of the curb or pavement edge along a street if there is no vertical curb;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Director" means the Director of Parks and Recreation or his or her designee.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Hedge" means any plant material, shrub, or plant, when planted in a dense, continuous line or area, so as to form a thicket or barrier;</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Island". See center divider strip.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Parking strip". See planting strip;</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Plant" means all plant material, annual or perennial, not necessarily hardy in nature, which are not a tree;</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Planting strip" means the area of the street lying between the curbline and the street line along any street, including the sidewalk;</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Private tree" means any tree planted on property not owned by city;</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Public areas" means all parks, recreational facilities, and other areas and improvements thereon under the supervision and maintenance of the City;</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>The term "street" means "Public Right of Way" or all the land lying between abutting properties which has been dedicated, or condemned, or established by use for a public thoroughfare whether paved or unpaved, in whole or in part, except state highways and freeways. The term "street" includes all thoroughfares whether designated by that name or some other, such as avenue, way, boulevard or road, plus the surrounding Planting strips;</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>"Street line" means the line separating an abutting lot, piece or parcel from the street;</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>"Street Tree" means any woody perennial plant having a single main axis or stem achieving ten feet or more in height, growing along or within a street; planted within a street and/or designated planting easement;</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>"Street Tree Master Plan" means the document which designates species of trees which may be planted on each street by block.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>"Trim" or "Trimming" means to remove any limb, branch, foliage or root of a Street Tree. (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005; Ord. 1998-8 § 3, 1998; Ord. 1984-23 § 11, 1984 (part); Ord. 1979-28 § 1, 1979; prior code § 65.02).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.35.030</num>
+      <heading>NOTICES.</heading>
+      <text>All notices provided to be given by this chapter, unless otherwise directed, shall be in writing and caused to be mailed by the Director, postage paid, to the owner of the real property involved, as his or her name and address appear on the last equalized assessment roll for municipal taxes. If such real property is occupied by other than the owner, a like copy shall also be left with the occupant. The failure of any property owner to receive the notice shall not affect the validity of any proceedings taken pursuant to the notice. (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005; Ord. 1997-24 § 7, 1997; Ord. 1984-23 § 11, 1984 (part); Ord. 1979-28 § 2, 1979; prior code § 65.03).</text>
+    </section>
+    <section>
+      <num>13.35.040</num>
+      <heading>APPEAL.</heading>
+      <text>Any person denied a permit under this chapter or required to provide replacement under Section 13.35.105 or assessed penalties or restrictions under Section 13.35.110 shall have the right to appeal that determination to the City Manager or designee using the procedures set forth in Chapter 1.11 of this Code. Notwithstanding the limitations set forth in that section regarding Civil Penalties, Civil Penalties under this chapter shall be limited to the amounts allowed under Chapter 13.35.110. (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005; Ord. 1997-24 § 7, 1997; Ord. 1984-23 § 11, 1984; Ord. 1979-28 § 3, 1979; prior code § 65.04).</text>
+    </section>
+    <section>
+      <num>13.35.050</num>
+      <heading>SUPERVISION.</heading>
+      <text>The supervision and management of the trees upon the streets and public areas within the City is vested in the Director and designated representatives, who with the advice and counsel of the Commission, will recommend for adoption by the City Council regulations for the setting out, planting, care, trimming, removal and maintenance of such trees pursuant to this chapter. It shall be the duty of the Director with the advice and counsel of the Commission, to cause the planting, trimming, pruning, spraying and caring for any official Street Tree according to the provisions of this chapter. (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005; Ord. 1997-24 § 7, 1997; Ord. 1984-23 § 11, 1984; Ord. 1979-28 § 4, 1979; prior code § 65.05).</text>
+    </section>
+    <section>
+      <num>13.35.060</num>
+      <heading>STREET TREES.</heading>
+      <text>The Director shall designate those trees species existing or hereafter planted in the City which are not infested with pests or disease, or hazardous to the public health and safety or dangerous to public improvements and utilities as official Street Trees species.</text>
+      <text>The Director shall prepare and submit to the Commission for approval and adoption, a comprehensive master plan of Street Trees for all streets of the City where planting areas are available and provided for trees. The plan may be revised from time to time and shall be reviewed regularly. In accordance with the plan, the Director shall proceed each year to plant or remove and replace trees to the extent that funds are made available by the City Council or otherwise exist in the tree planting fund. (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005; Ord. 1997-24 § 7, 1997; Ord. 1984-23 § 11, 1984; Ord. 1979-28 § 6, 1979; prior code § 65.07).</text>
+    </section>
+    <section>
+      <num>13.35.070</num>
+      <heading>PLANTING PERMIT.</heading>
+      <text>No person, other than the Director or his or her authorized representative, shall plant or set out any tree within the Public Right of Way without first procuring a written permit to do so from the Director. The request for such a permit shall state the type and number of trees to be planted or set out the location and such other information as may from time to time be required by the Director. (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005; Ord. 1997-24 § 7, 1997; Ord. 1984-23 § 11, 1984; Ord. 1979-28 § 7, 1979; prior code § 65.09(a)).</text>
+    </section>
+    <section>
+      <num>13.35.080</num>
+      <heading>TRIMMING AND REMOVAL—NOTICE AND PERMIT REQUIRED.</heading>
+      <text>No person or entity, other than the City staff, or any public utility corporation to the extent necessary for maintaining overhead wires, shall trim or cause to be trimmed, below or above the ground, or remove or cause to be removed, any tree in the planting strip along any street, or any tree growing upon private property to the extent that its roots or branches encroach on street, without first procuring a permit to do so from the Director. The request for such a permit shall state the type and number of trees to be trimmed or removed, the location and such other information as may from time to time be required by the Director. The cost of all work designated by the permit shall be borne by the party securing the permit. Permits for trimming and removal may, in the Director's discretion, contain replanting conditions. (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005; Ord. 1997-24 § 7, 1997; Ord. 1984-23 § 11, 1984; Ord. 1979-28 § 8, 1979; prior code § 65.09(b)).</text>
+    </section>
+    <section>
+      <num>13.35.085</num>
+      <heading>VIOLATIONS.</heading>
+      <text>It is unlawful for any person or entity to remove, trim, or damage to the extent described in Section 13.35.105(b), a Street Tree without having first obtained a permit to do so. This applies to any person who takes such action, or instructs another to take such action and to any tree removal company, landscape professional or other entity that initiates or participates in such unlawful act. (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005).</text>
+    </section>
+    <section>
+      <num>13.35.090</num>
+      <heading>PERMITS—APPLICATION.</heading>
+      <text>The permits provided in Sections 13.35.070 and 13.35.080 shall be issued by the Director and be subject to the terms of the permit and/or applicable regulations.</text>
+      <text>In processing an application for a permit, consideration shall be given the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>Whether the planting is adaptable to the location proposed;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Whether the planting would involve a hazard to public improvements in the area;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Whether the planting would unduly burden the City in any way with maintenance to prevent infestation and/or physical damage to persons or property;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The qualifications of the person or organization proposed to perform the trimming or removal and the need for experienced personnel considering the type of tree, the location, and adjacent hazards;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The aesthetic result of the proposed planting, trimming and/or removal as well as the benefits to the continued health of the planting and plantings in the immediate neighborhood. (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005; Ord. 1998-8, § 3, 1998; Ord. 1997-24 § 7, 1997; Ord. 1984-23 § 11, 1984; Ord. 1979-28 § 9, 1979; prior code § 65.09 (part)).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.35.100</num>
+      <heading>EMERGENCY REMOVAL OF STREET TREES.</heading>
+      <text>All Street Trees presenting an immediate threat to life, property, or the condition of public improvements, may be removed by the City without notice. In such event, the total cost of the removal shall be borne by the City unless the threat was caused by an illegal or negligent act of another and in that event the responsible party shall remain liable. (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005; Ord. 1997-24 § 7, 1997; Ord. 1984-23 § 11, 1984; Ord. 1979-28 § 10, 1979; prior code § 65.10).</text>
+    </section>
+    <section>
+      <num>13.35.105</num>
+      <heading>PLANTING—REPLACEMENT OF REMOVED/DAMAGED TREES.</heading>
+      <text>In all cases where Street Trees are removed or damaged to the extent described in subsection (b) below, the Director may require replacement by anyone participating in an unlawful act, as defined in section 13.35.085, or the permittee, in accordance with the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>Tree replacement shall be in accordance with the Street Tree Master</text>
+      </para>
+      <text>Plan and shall be a maximum of a 48" box tree for each Street</text>
+      <text>Tree removed, as determined in the discretion of the Director, depending on the value of the tree removed and whether the removal was in violation of this chapter. Replacement, as determined by the Director may be in a different location than the location from which removal occurred.</text>
+      <para>
+        <num>(b)</num>
+        <text>In the event Trimming of a Street Tree or other cause results in damage to the tree compromising its health or structural integrity or is severely detrimental to its overall aesthetics, the Director may require replacement by the person or entity causing the damage.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the Street Tree that is removed is a heritage tree, the provisions for replacement of heritage trees shall apply in the discretion of the Director.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Where the Director determines that replacement is not feasible and/or appropriate, the Director (1) may require that a payment of equal value to the cost of the purchase and installation of the replacement tree(s) be made to the City tree planting fund or (2) may place other conditions on the permit which are of equal value to the cost of the purchase and installation of the replacement tree(s). (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005; Ord. 1998-8, § 3, 1998; Ord. 1997-24 § 8, 1997; Ord. 1984-23 § 11, 1984).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.35.110</num>
+      <heading>ADDITIONAL REMEDIES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Penalties. In addition to the replacement requirements described in Section 13.35.105, if the Director finds that any person or entity has violated this chapter by participating in any act constituting a violation under section 13.35.085 of this chapter, the Director may impose a penalty of up to $5,000 per participant per tree for such unlawful act.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In addition to all other remedies set forth in this code or otherwise provided by law, the following remedies shall be available to the City for violation of this chapter:</text>
+        <para>
+          <num>(1)</num>
+          <text>Anyone violating the provisions of this chapter may be directed by the Building Official or other inspector to stop work conducted under a City permit on either public or private property when such work caused or contributed to the violation and to prepare a mitigation plan to correct the violation and mitigate the damage inflicted. Once the violation is corrected and mitigation implemented, the Building Official or other inspector shall allow construction to resume. The mitigation plan shall be filed and approved by the City Arborist, agreed to in writing by the property owner(s) and either implemented or guaranteed by the posting of adequate bond or other security. The mitigation plan shall include measures for protection of any remaining Street Trees or heritage trees on the property or in the adjacent right-of-way and shall provide for replacement of each tree removed or damaged at locations approved by the Director. The replacement ratio shall be determined by the Director according to the provisions of this chapter.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If a violation occurs in the absence of development, or while an application for a building or encroachment permit or discretionary development approval is pending in the area of either public or private property affected by the violation, the Building Official or other inspector may condition the issuance of any building or encroachment permit or planning approval upon the completion of a study, to be conducted by the City or consultant designated by the City, at the expense of the property owner, for the purpose of providing the City an opportunity to consider and determine appropriate mitigation measures for any tree removal and to insure measures are incorporated into any future development approvals for the property for the protection of any remaining Street Trees or heritage trees in the affected area.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Administrative Citations may be issued under Chapter 1.10 of the Municipal Code. (Ord. 2007-1 § 3; Ord. 2005-2 § 1, 2005).</text>
+        </para>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.52</num>
+    <heading>HERITAGE TREES</heading>
+    <section>
+      <num>13.52.010</num>
+      <heading>INTENT—PURPOSE.</heading>
+      <text>This chapter is adopted because the City has been forested with a variety of healthy and valuable trees which must be protected and preserved, the preservation and reforestation of which is necessary for the health and welfare of the citizens of this city in order to preserve the scenic beauty; maintain property values; prevent erosion of topsoil; protect against flood hazards and the risk of landslides; counteract the pollutants in the air; maintain the climatic balance and decrease wind velocities; and relieve the public costs of installing and maintaining stormwater drainage systems. To this end it is reasonable to expect property owners to maintain their trees in a satisfactory condition to keep the City of San Mateo as a sylvan place to live.</text>
+      <text>It is the intent of this chapter to establish regulations for the protection, removal and preservation of heritage trees within the City in order to retain as many trees as possible consistent with the purpose hereof and the reasonable economic enjoyment of private property. (Ord. 2007-1 § 3; Ord. 2005-3, § 1, 2005; Ord. 2004-6, § 1, 2004; Ord. 1997-24 § 1, 1997; Ord. 1984-7 § 1, 1984; Ord. 1968-35 § 3, 1968; prior code § 65.50).</text>
+    </section>
+    <section>
+      <num>13.52.020</num>
+      <heading>DEFINITION.</heading>
+      <text>Terms used in this chapter shall be defined as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>Heritage tree is any of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any bay (Umbellularia californica), buckeye (Aesculus spp.), oak (Quercus spp.), cedar (Cedrus) or redwood (Sequoia) tree that has a diameter of ten (10) inches or more measured at forty-eight (48) inches above natural grade;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any tree or stand of trees designated by resolution of the City Council to be of special historical value or of significant community benefit;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A stand of trees, the nature of which makes each dependent on the others for survival;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any other tree with a trunk diameter of sixteen (16) inches or more, measured at forty-eight (48) inches above natural grade.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Remove.</text>
+        <para>
+          <num>(1)</num>
+          <text>Cutting to the ground, complete extraction, or killing by spraying, girdling, or any other means of a heritage tree.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A heritage tree pruning permit will contain conditions for pruning. If pruning actually done is not in conformance with said conditions or without permit, it shall be deemed a removal.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Prune. Removal of more than one quarter of the crown or existing foliage of the heritage tree, or more than one third of the root system.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Director. The Director of Parks and Recreation or designee.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Replacement Value. Replacement Value for the purposes of this chapter shall be determined utilizing the most recent edition of the <em>Guide for Plant Appraisal, </em>published by the Council of Tree and Landscape Appraisers.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Damage. Damage to a heritage tree shall mean the removal of bark greater than 3" across, the breaking or splitting of the main trunk, or the dislocation of the main trunk or any act compromising its health or structural integrity according to accepted industry standards or to cause damage that is severely detrimental to its overall aesthetics.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Tree Protection Plan. A Tree Protection Plan is one that is in compliance with Section 13.52.025(c).</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>City Arborist. The City Arborist is any certified arborist designated by the Director of Parks and Recreation.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Development Project. Any exterior construction work associated with or requiring a building permit for any new building, building addition, building demolition, site grading, excavation or site paving.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Certified Arborist. An arborist certified by the International Society of Arboriculture. (Ord. 2007-1 § 3; Ord. 2005-3, § 1, 2005; Ord. 2004-6, § 1, 2004; Ord. 1998-8, § 3, 1998; Ord. 1997-24 §§ 2 and 6, 1997; Ord. 1984-7 § 2, 1984; Ord. 1982-7 § 1, 1982; Ord. 1979-29 § 3, 1979; Ord. 1968-35 § 3, 1968; prior code § 65.51).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.52.025</num>
+      <heading>TREE PROTECTION AND PRESERVATION.</heading>
+      <text>Any person who owns, controls, has custody or possession of any real property within the City shall use reasonable efforts to maintain and preserve all heritage trees located thereon in a state of good health, pursuant to the provisions of this chapter.</text>
+      <para>
+        <num>(a)</num>
+        <text>Any application for discretionary development approval for real property or for any other Development Project shall be accompanied by a signed statement by the property owner or authorized agent which discloses whether any heritage trees exist on the property and describes on the plans associated with the application the location of each such tree, its species, trunk size and drip line area. In addition, the location of any tree within thirty feet of the area proposed for construction that is within the public right-of-way shall be shown on the plans and identified by species.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>With regard to any tree required to be identified under section (a) above, (hereafter "protected tree"), any exterior construction work associated with any Development Project performed within a radius measured from the trunk center equal to ten times the diameter of the tree trunk measured at 4' above grade shall require the preparation and submittal of a Tree Protection Plan for review and approval by the City Arborist prior to the issuance of any permit for a Development Project. The Tree Protection Plan shall be prepared by a certified arborist.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A Tree Protection Plan shall at a minimum include the following requirements:</text>
+        <para>
+          <num>(1)</num>
+          <text>Prior to the commencement of any Development Project, a chain link fence shall be installed at the drip line of any protected tree which will be affected by the construction and shall prohibit the storage of any construction materials, equipment or other materials inside the fence. The drip line shall not be altered in any way so as to increase the encroachment of the construction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Prohibit excavation, grading, soil deposit, drainage and leveling within the drip line unless approved by the City Arborist.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Prohibit disposal or depositing of oil, gasoline, chemicals, paints, solvents or other materials within the drip line or in drainage channels, swales or areas that may lead to the drip line.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Prohibit the attachment of wires, signs and ropes to any protected tree.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Utility service and irrigation lines shall be located outside of the drip line when feasible.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Include provision for the retention of the services of a certified arborist for periodic monitoring of the project site and the health of protected trees. The arborist shall be present whenever activities occur which will pose a potential threat to the health of the protected trees or whenever any work needs to be done within the drip line of such tree.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Include other provisions as deemed necessary by the City Arborist to preserve the protected tree and insure compliance with those provisions.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Require that the City Building Official be notified whenever any damage or injury occurs to a protected tree during construction so that proper treatment may be administered.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Contain the signature of the property owner and building permit applicant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Tree Protection Plan Review. The Tree Protection Plan described in Section (c), above, shall be reviewed by the City Arborist. If the plan is sufficient to prevent harm to protected trees from reasonably foreseeable construction activities, it shall be approved and related building permits otherwise complete shall issue. (Ord. 2007-1 § 3; Ord. 2005-3, § 1, 2005; Ord. 2004-6, § 1, 2004).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.52.030</num>
+      <heading>VIOLATIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It is unlawful for any person or entity to remove, or cause to be removed any heritage tree from any property in the City without obtaining a permit to do so. This applies to any owner, possessor or manager of property who removes or allows or instructs another to remove a heritage tree and to any other person, tree removal company or other entity that actually removes or participates in the removal of the heritage tree.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Exception. In case of emergency when a tree is hazardous or dangerous to life or property it may be removed by order of any member of the police or fire departments. Provided further, that any franchised public utility or representative of the City may remove or prune trees which interfere with the safe and efficient operation of the public service for which they are responsible, but only to the extent made necessary by such interference. Subject to the provisions of Chapter 7.24 and 13.35, trees not covered by this chapter may be removed without permit.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>It is unlawful for any person or entity to cause damage to a heritage tree compromising its health or structural integrity according to accepted industry standards or to cause damage that is severely detrimental to its overall aesthetics or to remove fencing or other protective barrier surrounding a heritage tree that was required as a condition of development on the property or to violate the terms of any Tree Protection Plan.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any violation of the terms of this chapter or any permit issued under this chapter is unlawful. Knowingly or negligently providing false or misleading information in response to any disclosure requirements of this chapter or in application for any permit issued under this chapter, shall constitute a violation of this chapter and is unlawful. (Ord. 2007-1 § 3; Ord. 2005-3, § 1, 2005; Ord. 2004-6, § 1, 2004; Ord. 1984-7 § 3, 1984; Ord. 1968-35 § 3, 1968; prior code § 65.52).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.52.040</num>
+      <heading>REMOVAL—PERMIT.</heading>
+      <text>Any person or entity desiring to remove or prune one or more heritage trees shall apply to the Director for a permit. The application for a permit shall be made on forms provided for this purpose and shall state, among other things, the number and location of the trees to be removed or pruned by types and the reason for removal or pruning of each. The request for such a permit may only be made by the owner or owners of the property on which the trees are located or for pruning by an adjacent property owner of heritage tree limbs extending onto that adjacent property, after notice of the application to the property owner where the heritage tree is located. Heritage tree permits are valid for six months from date of issue. Extensions may be authorized by the Director. The applicant may submit an arborist's report with the permit application to show cause for removal or pruning. Pruning permit applications shall include pruning specifications prepared by a certified arborist.</text>
+      <text>The Director shall review each application and shall consider and determine the following in rendering a decision:</text>
+      <para>
+        <num>(a)</num>
+        <text>The condition of the tree or trees with respect to disease, danger of falling, proximity to existing or proposed structures and interference with utility services;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The necessity to remove the tree or trees in order to construct any proposed improvements to allow reasonable economic enjoyment of the property.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The topography of the land and the effect of the removal of the tree on erosion, soil retention and diversion or increased flow of surface waters.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The number of trees existing in the neighborhood on improved property and the effect the removal would have on the established standard of the area and property value.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The number of trees the particular parcel can adequately support according to good arboricultural practices.</text>
+      </para>
+      <text>In reviewing applications, the Director shall give priority to those based on hazard or danger of disease. (S)he may refer any application to another department, committee, board or commission of the City for a report and recommendation or may require the applicant to supply a certified arborist's report. (Ord. 2007-1 § 3; Ord. 2005-3, § 1, 2005; Ord. 2004-6, § 1, 2004; Ord. 1998-8, § 3, 1998; Ord. 1997-24 § 6, 1997; Ord. 1984-7 § 4, 1984; Ord. 1968-35 § 3, 1968; prior code § 65.53).</text>
+    </section>
+    <section>
+      <num>13.52.050</num>
+      <heading>REFORESTATION.</heading>
+      <text>Permits for heritage tree removal, removals without permits and causing damage to heritage trees shall require replanting conditions in accordance with the following guidelines:</text>
+      <para>
+        <num>(a)</num>
+        <text>Trees removed under jurisdiction of a planning approval pursuant to Chapter 27.71 shall conform with the replacement conditions specified in the planning approval.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Trees removed with a valid tree removal permit shall be replaced in accordance with the direction of the Director. Replacement direction shall include direction on the location and species of the replacement tree. Tree replacement shall be one 24" box size tree approved by the Director, for each tree removed.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Trees removed without a valid tree removal permit shall be replaced by a 48" box size tree for each tree removed. Enhanced replant conditions may be imposed if it is determined by the Director that the value of the removed tree was significantly greater than that of a 48" box tree. In such cases, the determination of the level of replacement shall be within the discretion of the Director, but shall not exceed the actual tree loss as determined by the Replacement Value. In addition to the requirements of this subsection, penalties under Section 13.52.055 or other sanctions allowed by law may be imposed for removal of heritage trees without a permit.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Where the Director determines that replanting is not feasible and/or appropriate, e.g., sufficient trees exist on site, the Director (1) may require that a payment of equal value to the cost of the purchase and installation of the replacement tree(s) be made to the City tree planting fund or (2) may place other conditions on the permit which are of equal value to the cost of the purchase and installation of the replacement tree(s).</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Any person causing damage to a heritage tree shall be required to take such steps as may be required by the Director to assure the future vitality of the tree, including costs of treatment and/or construction of protective barriers, or if the Director determines that the damage is so great that the tree is no longer reasonably sustainable, replacement of the damaged tree per subsection (c), above. (Ord. 2007-1 § 3; Ord. 2005-3, § 1, 2005; Ord. 2004-6, § 1, 2004; Ord. 1998-8, § 3, 1998; Ord. 1997-24 §§ 3 and 6, 1997; Ord. 1989-36 § 1, 1989; Ord. 1984-7 § 5, 1984; Ord. 1968-35 § 3, 1968; prior code § 65.54).</text>
+      </para>
+    </section>
+    <section>
+      <num>13.52.055</num>
+      <heading>REMEDIES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Penalties. In addition to the Reforestation requirements described in Section 13.52.050(c)(e), if the Director finds that any person has violated this chapter by participating in any act constituting a violation under Section 13.52.030, the Director may impose a penalty of up to $5,000 per participant per tree for such illegal act.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In addition to all other remedies set forth in this code or otherwise provided by law, the following remedies shall be available to the City for violation of this chapter:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any person or entity violating the provisions of this chapter may be directed by the Building Official or inspector to stop work and to prepare a mitigation plan to correct the violation and mitigate the damage inflicted. Once the violation is corrected and mitigation implemented, the Building Official or inspector shall allow construction to resume. The mitigation plan shall be filed and approved by the City Arborist, agreed to in writing by the property owner(s) and either implemented or guaranteed by the posting of adequate bond or other security. The mitigation plan shall include measures for protection of any remaining heritage trees on the property and shall provide for replacement of each tree removed or damaged on the property or at locations approved by the Director. The replacement ratio shall be determined by the Director according to the provisions of this chapter.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>If a violation occurs in the absence of development, or while an application for a building permit or discretionary development approval for the lot upon which the tree is located is pending, the Building Official may condition the issuance of any building permit or approval upon the completion of a study, to be conducted by the City or consultant designated by the City, but in either case at the expense of the property owner, for the purpose of providing the City an opportunity to consider and determine appropriate mitigation measures for the tree removal and to insure measures are incorporated into any future development approvals for the property for the protection of any remaining heritage trees in the area.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Administrative Citations may be issued under Chapter 1.10 of the Municipal Code. (Ord. 2007-1 § 3; Ord. 2005-3, § 1, 2005; Ord. 2004-6, § 1, 2004).</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>13.52.060</num>
+      <heading>APPLICABILITY.</heading>
+      <text>The provisions of this chapter shall apply to all persons or entities, including the City of San Mateo, or as specifically regulated under other provisions of the San Mateo Municipal Code. A person or entity who has received approval of a planning application which is also subject to the landscape regulations contained in Chapter 27.71, need only obtain a site development permit pursuant to Chapter 23.40 from the planning division for the removal and/or pruning of heritage trees on the property proposed for development. (Ord. 2007-1 § 3; Ord. 2005-3, § 1, 2005; Ord. 2004-6, § 1, 2004; Ord. 1989-34 § 5, 1989; Ord. 1984-7 § 6, 1984; Ord. 1974-50 § 1, 1974; Ord. 1968-35 § 3, 1968; prior code § 65.55).</text>
+    </section>
+    <section>
+      <num>13.52.070</num>
+      <heading>NOTIFICATION.</heading>
+      <text>A decision by the Director shall be rendered for each permit application. If a permit is approved, it will include conditions for the tree removal in accordance with Section 13.52.050. The Director shall give written notification of the decision to the applicant and abutting property owners and include therein a copy of Section 13.52.080. If such real property is occupied by other than the owner, a like copy shall also be left with the occupant. The failure of any property owner to receive the notice shall not affect the validity of any proceedings taken pursuant to the notice. (Ord. 2007-1 § 3; Ord. 2005-3, § 1, 2005; Ord. 2004-6, § 1, 2004; Ord. 1997-24 § 4, 1997; Ord. 1989-36 § 2, 1989; Ord. 1984-7 § 7, 1984).</text>
+    </section>
+    <section>
+      <num>13.52.080</num>
+      <heading>APPEAL.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Permit Applications. Any person may request the Director to reconsider the decision on a permit application made under this chapter. Such a request shall be in writing, signed by the person making the request, state the reasons the request is made and be filed with the Director not later than five p.m. of the tenth calendar day after the decision. The Director shall review the request and render a decision.</text>
+      </para>
+      <text>Any person may appeal the reconsidered decision of the Director to the Park and Recreation Commission by filing an appeal in writing with the Director not later than five p.m. of the tenth calendar day after the decision. The Director shall set the matter for review by the Commission at its next convenient regular meeting and provide notice by mail of the Commission hearing to the appellant and applicant at least five days prior thereto. The decision of the Commission shall be de novo.</text>
+      <text>This decision may be appealed to the Council in the same manner as to the Commission by filing a written appeal with the City Clerk not later than five p.m. of the tenth calendar day after the final decision.</text>
+      <text>If appealed, the City Clerk shall set the matter for hearing before the Council at the next convenient regular meeting thereof which is at least ten days after receipt of the appeal. Notice of the time of hearing shall be given the appellant and the applicant for permit by mail at least five calendar days prior to the date of the hearing. The decision of the Council shall be de novo.</text>
+      <para>
+        <num>(b)</num>
+        <text>Appeal of Penalties, Restrictions or Replacement requirements. Any person required to provide replacement under Section 13.52.050 or assessed penalties or restrictions under Section 13.52.055 shall have the right to appeal that determination to the City Manager or designee using the procedures set forth in Chapter 1.11 of this Code. Notwithstanding the limitations set forth in that section regarding Civil Penalties, Civil Penalties under this chapter shall be limited to the amounts allowed under Chapter 13.52.055. (Ord. 2007-1 § 3; Ord. 2005-3, § 1, 2005; Ord. 2004-6, § 1, 2004; Ord. 1997-24 §§ 5 and 6, 1997; Ord. 1984-7 § 8, 1984).</text>
+      </para>
+    </section>
+  </container>
+</container>

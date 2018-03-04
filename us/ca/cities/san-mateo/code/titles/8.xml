@@ -1,0 +1,1044 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Title</prefix>
+  <num>8</num>
+  <heading>ANIMALS AND FOWL</heading>
+  <annotation>For statutory provisions regarding the regulation and licensing of dogs see Agric. § 30501. For the provisions regarding rabies control see Health &amp; Saf. Code § 1900 et seq.</annotation>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8.02</num>
+    <heading>ANIMAL CONTROL</heading>
+    <section>
+      <num>8.02.002</num>
+      <heading>ADOPTION OF SAN MATEO COUNTY'S "ANIMAL CONTROL" ORDINANCE.</heading>
+      <text>Section 6.04.010 through 6.04.330 of the San Mateo County Ordinance Code (Animal Control Ordinance), as they were in existence or adopted by the County on September 20, 2005, are referred to, adopted and made applicable within the City and made a part of this Code, except as specifically otherwise provided in this chapter. Amendments thereto shall be adopted by the City in accordance with procedures for adoption of amendments to ordinances. (Ord. 2005-15 § 19, 2005; Ord. 1987-24 § 1, 1987; Ord. 1985-27 §§ 1, 2, 1985; Ord. 1982-1 § 2, 1982).</text>
+    </section>
+    <section>
+      <num>8.02.004</num>
+      <heading>ANIMAL CONTROL OFFICERS—APPOINTMENT OF—ENFORCEMENT POWERS.</heading>
+      <text>The animal control officers of the Peninsula Humane Society, a private nonprofit corporation with whom the county contracts for enforcement of its "Animal Control" ordinance, are appointed animal control officers of the City and are authorized and directed to enforce in the City:</text>
+      <para>
+        <num>(a)</num>
+        <text>The provisions of this chapter adopted under § 8.02.002 hereof.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The other provisions of this title. (Ord. 2005-15 § 20, 2005; Ord. 1987-24 § 2, 1987; Ord. 1985-27 §§ 1, 2, 1985; Ord. 1982-1 § 2, 1982).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.006</num>
+      <heading>VIOLATIONS.</heading>
+      <text>It is unlawful to commit any act declared by any provision of this chapter to be unlawful, to violate this chapter, or to fail to comply with the mandatory requirements of this chapter. (Ord. 2005-15 § 30, 2005; Ord. 1990-8 § 6, 1990; Ord. 1987-24 § 3, 1987; Ord. 1985-27 §§ 1, 2, 1985; Ord. 1982-1 § 2, 1982).</text>
+    </section>
+    <section>
+      <num>8.02.010</num>
+      <heading>DEFINITIONS (County § 6.04.010).</heading>
+      <para>
+        <num>(a)</num>
+        <text>"Animal Control Officer" means that person designated as the Animal Control Program Manager of the Division of Animal Control Services for the County and his or her duly authorized officers or deputies, as well as the President of the County's contract agent and his or her duly authorized officers or deputies.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Animal Control Program" means that program within the Division of Animal Control Services of the Environmental Services Agency of the County, or the County's designated contract agent or both, which is specifically charged with regulating and enforcing laws dealing with animal control within its jurisdiction.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Animal Control Shelter" means the facilities provided by the County or the County's designated contract agent for the impounding of animals.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Director of Environmental Services Agency" means that person so designated by the governing body of the County of San Mateo.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Licensing Program" means that program within the Division of Revenue Services of the Employee and Public Services Agency which is specifically charged with regulating and selling animal licenses and registrations in the County of San Mateo.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Impoundment" means the picking up and confining of an animal by the Animal Control Program.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Owner" of an animal means that person 18 years of age or over who holds the license to the animal, or if the animal is not licensed, that person 18 years of age or over legally entitled to possession of the animal concerned and who has primary responsibility for the care of the animal.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Dangerous Animal" means any animal, except a trained dog assisting a peace officer engaged in law enforcement duties, which because of its disposition, behavior, training or other characteristic constitutes a danger to persons or property, or which demonstrates any or all of the following behavior:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any attack or other behavior which requires a defensive action by any person to prevent bodily injury or property damage or that results in an injury to a person or property.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any aggressive attack or other behavior that constitutes a substantial threat of bodily harm to a person or animal, where such attack, injury or behaviors occurs in a place where such person or animal is conducting himself or herself peaceably and lawfully.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>An attack on another animal or livestock which occurs off the property of the Owner of the attacking animal.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any animal that has been deemed by another governmental jurisdiction as "potentially dangerous," "dangerous," "vicious," or any other similar designation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>"Wolf Hybrid" means any offspring of domestic dogs bred to wild canids (e.g., wolves or coyotes) and their subsequent generations.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Vicious Animal" means any animal, except a trained dog assisting a peace officer engaged in law enforcement duties, which meets any or all of the following criteria:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any animal previously designated as "dangerous," that after investigation by an Animal Control Officer and/or Peace Officer is found under conditions which constitute a violation of this chapter or applicable dangerous animal permit and which demonstrates a significant danger to the public health or safety;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any animal seized under section 599aa of the Penal Code and/or upon the sustaining of a conviction of the Owner or caretaker under subdivision (a) of the Section 597.5 of the Penal Code;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any animal which inflicts severe injury on or kills a human being or another animal;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any animal which has engaged in any aggressive behavior which demonstrates that the animal represents a clear and present substantial danger to the public health or safety and that due to substantial risk to the public health or safety it is unlikely that the animal could be safely maintained under a dangerous animal permit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Severe injury" means any physical injury directly caused by an animal attack that consists of muscle tears, multiple punctures, broken bones or disfiguring lacerations, or which requires multiple sutures or corrective or cosmetic surgery. (Ord. 2005-15 § 1, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.020</num>
+      <heading>ANIMAL CONTROL PROGRAM (County § 6.04.020).</heading>
+      <para>
+        <num>(a)</num>
+        <text>RESPONSIBILITY. The Animal Control Program is responsible for the enforcement of this ordinance, and the duties of the Director thereof and his or her officers, agents, and employees shall include, but not be limited to, the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>To administer an animal control shelter and keep such records as may be required by law or contract.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>To impound animals which are in violation of this ordinance, or for the safekeeping of the animal to protect its health and welfare.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>To remove and dispose of the carcass of any animal found on any public highway, street, alley, or other public place.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>To quarantine animals under the direction of the county health officer.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>To destroy and dispose of animals after due notice to the owner and pursuant to the procedures set forth herein.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>To sell, when appropriate, impounded animals after due notice to the owner.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>To enforce all provisions of this ordinance.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>SCOPE OF AUTHORITY OF HUMANE OFFICERS AND ANIMAL CONTROL OFFICERS. Humane Officers qualified and appointed pursuant to California Corporations Code 14502, who are employees of any public pound, society for prevention of cruelty to animals or humane society which has contracted with the County to provide animal control services, shall have the authority to issue notices to appear in court pursuant to chapter 5c (commencing with section 853.5 of title 3 of part 2 of the Penal Code of the State of California) for violations of state and local animal control laws. This authority is based on section 14503 of the Corporations Code. Animal Control Officers shall have the authority provided by State law including but not limited to that described by Penal Code Section 830.9.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>RIGHT TO CONTRACT FOR ANIMAL CONTROL SERVICES. The governing body may contract for animal control services to be performed county wide, including cities, provided agreement is made with other concerned jurisdictions. (Ord. 2005-15 § 2, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.030</num>
+      <heading>RABIES VACCINATIONS (County § 6.04.030).</heading>
+      <text>Every dog or cat owner, after his or her /her dog or cat attains the age of four (4) months of age and/or within ten working days of purchasing a license shall procure from a licensed veterinarian, an anti-rabies vaccination to be administered in the manner prescribed or approved by the State of California Department of Public Health. This vaccination shall be obtained prior to issuing a license for the dog or cat. In addition, proof of vaccination shall be provided to the licensing program. (Ord. 2005-15 § 30, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.040</num>
+      <heading>DOG AND CAT LICENSES (County § 6.04.040).</heading>
+      <para>
+        <num>(a)</num>
+        <text>REQUIREMENTS. An annual license fee shall be paid for every dog or cat over the age of four (4) months owned or harbored in this city that has adopted the provisions of this ordinance. Said annual license fee shall be first due when the animal reaches four (4) months of age or within 60 days after the dog or cat is acquired, and due on the anniversary date of the original purchase date each year thereafter. New residents shall have sixty (60) days in which to acquire such license. Persons renewing their license shall have thirty (30) days following their due date before being delinquent and having to pay a late penalty. The fee for such license shall be as set forth in Section 8.02.290. The fee paid for the licensing of spayed or neutered dogs or cats shall be less than said license fee for unaltered dogs or cats upon presentation of the proper certification. The license fee paid by persons over the age of 60 shall be at a discount. For purposes of this section any surcharge on the license fee imposed under Section 8.02.290 shall not be considered part of the license fee. Any person who shall fail to pay such license fee after said fee is due, or said dog or cat is required to be licensed, shall in addition to paying any past due license fee or fees, also pay a penalty in accordance with Section 8.02.290. A license shall be obtained, but no license fee shall be payable for the licensing of any dog being raised, trained or used to assist handicapped persons (such as those provided by Canine Companions) including but not limited to any dog which is being trained for guide or hearing purposes by a resident of the City or used for guide or hearing purposes by a handicapped resident of the City and which has come from a guide or hearing dog training facility such as Canine Companions, or for dogs which have served as a member of the armed forces of the United States of America, or any dog used by a local law enforcement agency for the purposes of crime prevention or control. Dog or cat licenses are not transferable between owners; however, if the dog or cat dies and the owner acquires a new dog or cat, the license is transferable to the new dog or cat. The license does not have to be renewed until the original purchase anniversary date. The fee paid for a dog or cat license is not refundable. Licenses herein provided for shall be signed by the Animal Control Program Manager.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>EXEMPTIONS. The licensing provisions in this ordinance are not applicable to the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Dogs or cats used for diagnostic purposes or research, the use having been approved by the California State Department of Health Services pursuant to Section 1666 of the Health and Safety Code.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Dogs or cats used for teaching purposes in recognized educational institutions.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Dogs or cats owned by veterinarians which are licensed by the State and kept on the premises used by said veterinarians in their practice.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Dogs or cats kept by owners of pet shops for purposes of sale; for circuses, for animal exhibits, or for other enterprises for which a business license has been granted by a local government.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>TAGS. The Animal Control Program Manager shall procure plates or tags which bear the number of the license. A record shall be kept with the name of the owner or possessor together with a description of the dog or cat for which the license is issued and the number of the license, and a tag shall be provided to such person upon payment for such license as provided by this ordinance.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>DUPLICATE TAGS. Whenever a tag has been lost or stolen, the owner or possessor of the dog or cat concerned may request a duplicate tag upon payment of the required fee and on making and subscribing to an affidavit of such loss and filing the same with the Animal Control Program Manager.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>WEARING OF TAG REQUIRED. The owner of a dog or cat for which a license is required shall affix such tag to a suitable collar, which collar shall remain on the dog or cat at all times.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>ALTERNATIVE IDENTIFICATION/IMPLANTS. Dogs and cats with microchip implants or other permanent identification acceptable to the Animal Control Services shall not be required to wear a tag or collar. All other licensing requirements of this Part shall apply to such cat or dog.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>RECORDS. The owner or operator of any kennel, animal breeding facility, pet shop, or any place or establishment where animals are sold shall keep a permanent record of the name, address, and phone number of the purchaser of any dog or cat along with the breed, color, sex and age of each dog or cat sold or given away and shall forward such information to the Animal Control Services within thirty (30) days thereafter. Any Animal Control Officer shall have the right to inspect such records during normal business hours, with forty-eight (48) hours prior notice to the owner or operator.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>VETERINARIAN RESPONSIBILITIES. Every veterinarian who vaccinates or causes or directs to be vaccinated in the City any dog or cat with anti-rabies vaccine shall certify that such animal has been vaccinated. Every veterinarian shall submit to the licensing authority a copy of the county-approved anti-rabies vaccination form, within ten (10) days of the beginning of each month, for any dog or cat which he/she vaccinates or directs to be vaccinated with anti-rabies during the previous month. An Animal Control Officer or Animal Licensing Officer shall have the right to inspect records of rabies vaccinations during normal business hours. (Ord. 2005-15 § 30, 2005; Ord. 2005-15 § 22, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.045</num>
+      <heading>THREE YEAR LICENSES FOR DOGS AND CATS (County § 6.04.045).</heading>
+      <text>Notwithstanding section 8.02.040, a three year license may be obtained for a cat or dog (excluding wolf-hybrids) by submitting to the licensing program adequate proof of a three year rabies vaccination of the animal to be licensed and payment of the applicable fees as set forth in section 8.02.290 of this code. (Ord. 2005-15 § 20, 2005).</text>
+    </section>
+    <section>
+      <num>8.02.060</num>
+      <heading>PUBLIC PROTECTION FROM DOGS (County § 6.04.060).</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every owner or possessor of a dog shall at all times prevent such dog from biting or physically harassing any person engaged in a lawful act and from interfering with the lawful use of public or private property.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Every owner or possessor of a dog shall at all times prevent such dog from causing substantial injury to another domestic animal while such domestic animal is lawfully upon public or private property. Substantial injury means any injury which results in veterinarian treatment or death.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Every owner or possessor of a dog shall desist from commanding or provoking such dog to attack, sic or threaten a person when such person is peaceably and lawfully upon public or private property.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>A trained dog assisting a peace officer engaged in law enforcement duties is excluded from this Section.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Nothing in subsection (a) of this section shall authorize the bringing of a criminal action arising out of bite(s) upon or physical harassment of members of the dog owners or possessors household. (Ord. 2005-15 § 30, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.070</num>
+      <heading>PROHIBITED CONDUCT (County § 6.04.070).</heading>
+      <text>No owner or possessor of any animal shall cause or permit it to do any of the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>To be upon any public street, sidewalk, park, school ground, any public property, or upon any unenclosed premises in this jurisdiction unless the animal is properly licensed, if such licensing is necessary hereunder, and under the control of the owner by being saddled, harnessed, haltered, or leashed by a substantial chain, lead rope, or leash, which chain, lead rope, or leash shall be continuously held by some competent person capable of controlling such animal, except such animal is allowed without a chain, lead rope or leash when located within a City park where such devices are not required and only when in compliance with the applicable rules and regulations of that park facility.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>To trespass upon any private property without the consent of the owner thereof, and to knowingly permit the animal to remain upon the property or to habitually continue to trespass thereon.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To suffer or permit such animal to habitually bark or meow or act in such a manner as to continuously disturb the peace of any citizen or to be a public nuisance.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>To be without proper and adequate food, water, shelter, care, and attention as described in section 597(f) of the Penal Code.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Subsection (a) of this section shall not be applicable to cats. (Ord. 2005-15 § 30, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.080</num>
+      <heading>PROTECTION OF ANIMAL IN MOTOR VEHICLES (County § 6.08.040).</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person, other than an individual actually working a dog or other animal for ranching purposes, shall transport or carry on any public highway or public roadway, any dog or other animal in a motor vehicle unless the dog or other animal is safely enclosed within the vehicle or protected by a cap or container, cage, cross-tether, or other device to prevent the animal from falling from, being thrown from, or jumping from said motor vehicle. As used herein "motor vehicle" includes, without limitation, automobile, pickup truck and trailer.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person shall leave a dog or other animal in any unattended motor vehicle without adequate ventilation, sanitary conditions, or in such a manner as to subject the animal to extreme temperatures which adversely affect the animal's health or safety.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any animal control officer or law enforcement officer who witnesses a violation of this Section shall have the right to impound the animal if, in the officer's opinion, the animal's health or safety is or will be thereby endangered. (Ord. 2005-15 § 30, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.090</num>
+      <heading>RELEASE FROM CONFINEMENT (County § 6.04.090).</heading>
+      <text>No person other than the owner or person authorized by the owner of the animal shall release any animal from any confinement, vehicle or restraint unless such release is necessary to the immediate health and safety of the animal. This section shall not apply to peace officers or Animal Control Officers. (Ord. 2005-15 § 30, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.100</num>
+      <heading>DANGEROUS ANIMAL PERMIT REQUIRED (County § 6.04.100).</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall knowingly keep, have, maintain, sell, trade or let for hire an animal designated under the provisions of this chapter as dangerous without obtaining a Dangerous Animal Permit from the Animal Control Officer. The animal Owner shall comply with all conditions of the Dangerous Animal Permit including but not limited to all requirements of Section 8.02.120 of this chapter. Any animal which is determined to be dangerous under this chapter and for which a permit has not been obtained shall be surrendered to an Animal Control Officer for appropriate disposition including humane destruction.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If an Animal Control Officer or Peace Officer has investigated and determined that an animal is dangerous, the Animal Control Officer and/or Peace Officer shall deliver written notice of such determination to the Owner of the animal. Should the animal pose a threat to the public health and safety, an Animal Control Officer may immediately impound the animal.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If, after investigation by an Animal Control Officer or Peace Officer, that officer determines that probable cause does not exist to believe the animal is dangerous, any interested person may appeal that determination by submitting within five (5) calendar days of the decision a written request to the Animal Control Officer or Peace Officer for a hearing and paying the required fee. The hearing shall be conducted according to the procedures set forth in Section 8.02.115 of this chapter.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>In determining whether or not an animal shall be declared dangerous, the Animal Control Officer, Peace Officer or Hearing Officer appointed pursuant to section 8.02.115, may consider, as a mitigating factor or factors, whether, at the time of the injury, attack or molestation, the person or animal suffering the injury, attack or molestation:</text>
+        <para>
+          <num>(1)</num>
+          <text>Provoked, tormented, teased, abused or assaulted the animal thereby causing or contributing to the alleged behavior;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Committed a willful trespass or other tort upon the private property of the Owner or caretaker of the animal;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Threatened or committed an unjustified attack or assault against the Owner, caretaker or person in control of the animal.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Or any other mitigating factors deemed appropriate for consideration by the Animal Control Officer, Peace Officer or Hearing Officer.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Upon receipt of written or oral notification by the Animal Control Officer and/or Peace Officer that an animal is dangerous as defined in this chapter, the Owner shall submit an application for a Dangerous Animal Permit to the Animal Control Officer within five (5) calendar days. The application for a permit shall contain the name of the applicant, applicant's address, the applicant's home and business phone numbers, the address and description of the proposed location of where the animal will be kept, if different from applicant's, a complete description and a photograph of the animal. The permit shall contain all of the requirements of Section 8.02.120 and any additional conditions or requirements deemed necessary by the Animal Control Officer or Peace Officer to protect the public health or safety.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Should the Owner of the animal wish to contest the dangerous animal designation, the Owner may request a hearing, to be conducted according to the procedures set forth in Section 8.02.115 of this chapter. The Owner shall submit a written request for a Dangerous Animal Hearing to the Animal Control Officer and/or Peace Officer within five (5) calendar days of written notification by the Animal Control Officer and/or Peace Officer that the animal has been declared dangerous. Should the Owner not submit a request for a hearing within five (5) calendar days of notification, the hearing process shall be deemed waived by the Owner, and the dangerous animal declaration will be considered final by the County Director of the Environmental Services Agency, or the City having jurisdiction. In that event, the County Director of the Environmental Services Agency or the City having jurisdiction may allow the dangerous animal permit to be issued without a hearing. Unless a dangerous animal permit is immediately obtained, the animal shall be impounded at the Owner's expense pending appropriate disposition as determined by the Animal Control Officer and/or Peace Officer. (Ord. 2005-15 § 3, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.105</num>
+      <heading>DECLARATION OF VICIOUS ANIMALS (County § 6.04.105).</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall keep, have, maintain, sell, trade or let for hire an animal which has been designated as vicious pursuant to this chapter.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If an Animal Control Officer and/or Peace Officer has investigated and determined that an animal is vicious, the Animal Control Officer and/or Peace Officer shall deliver to the Owner of the animal written notice of that determination. The Animal Control Officer and/or Peace Officer shall immediately impound or cause to be impounded the animal and shall cause the animal to be humanely destroyed unless the Owner requests a hearing under subsection (c) of this section.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the Owner of the animal disputes the designation of an animal as a vicious animal by the Animal Control Officer and/or Peace Officer (s)he may submit a written request for a hearing to the Animal Control Officer and/or Peace Officer within five (5) calendar days of notification. Such hearing shall be conducted according to the procedures set forth in Section 8.02.115 of this chapter. Failure of the Owner to request a hearing shall result in the animal being declared vicious and humanely destroyed. The vicious animal declaration will be considered final by the County Director of the Environmental Services Agency, or the City having jurisdiction.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If, after investigation by an Animal Control Officer or Peace Officer, that officer determines that probable cause does not exist to believe that the animal is vicious, any interested person may appeal that determination by submitting within five (5) calendar days of the decision a written request to the Animal Control Officer or Peace Officer for a hearing and paying the required fee.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>In determining whether or not an animal shall be declared vicious, the Animal Control Officer, Peace Officer or Hearing Officer may consider, as a mitigating factor or factors, whether at the time of the injury, attack or behavior, the person or animal suffering the injury, attack or behavior for which the animal is being determined vicious:</text>
+        <para>
+          <num>(1)</num>
+          <text>Provoked, tormented, teased, abused or assaulted the animal thereby causing or contributing to the alleged behavior;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Committed a willful trespass or other tort upon the private property of the Owner or caretaker of the animal;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Threatened or committed an unjustified attack or assault against the Owner, caretaker or person in control of the animal.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Or any other mitigating factors deemed appropriate for consideration by the Animal Control Officer, Peace Officer or Hearing Officer. (Ord. 2005-15 § 4, 2005).</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>8.02.110</num>
+      <heading>ISSUANCE OF PERMIT FOR DANGEROUS ANIMAL (County § 6.04.110).</heading>
+      <para>
+        <num>(a)</num>
+        <text>No permit obtained under this section is transferable. If the Owner's address or the location where the animal is kept changes or the Owner transfers ownership of the animal, the permit shall become null and void and an application for a new permit must be submitted to the Animal Control Officer.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A permit issued under this chapter is subject to renewal and approval each year and is subject to conditions and requirements existing as of the date of renewal. The permittee shall pay an annual fee for this permit pursuant to the procedures established by the Division of Animal Control Services. If permittee fails to file an application for renewal or pay the permit fee prior to the permit anniversary date the permit shall automatically become void. The fee for such permit shall be as set forth in section 8.02.290. This fee shall not be refundable.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the Owner or permittee has a history of multiple violations of this chapter 8.02 or of the conditions of any previously issued dangerous animal permit, the Animal Control Officer or Hearing Officer may deny the permit and impound the animal for appropriate disposition as determined by the Animal Control Officer or Hearing Officer. (Ord. 2005-15 § 5, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.115</num>
+      <heading>HEARING PROCEDURES (County § 6.04.115).</heading>
+      <para>
+        <num>(a)</num>
+        <text>Hearings held under this chapter shall be conducted by a hearing officer or designated representative appointed by the Director of the Environmental Services Agency. Any city contracting with the County for animal control services may elect to utilize the services of any San Mateo County designated hearing officer to hold hearings under that City's animal control ordinances. The hearings shall be scheduled no less than five (5) working days and no more than fifteen (15) working days from the receipt of the request for the hearing unless agreed upon by the involved Animal Control Officer or Peace Officer and the animal Owner. A hearing may be continued if the Hearing Officer deems it necessary and proper or if the Owner, or Animal Control Officer and/or Peace Officer shows good cause.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The hearing shall be conducted in an informal manner consistent with due process of law. Both the Owner of the animal and Animal Control Officer and/or Peace Officer may be represented by counsel. The parties may present relevant evidence and call and cross-examine witnesses. The strict rules of evidence shall not be applicable. Any relevant evidence may be admitted if it is the sort of evidence on which responsible persons are accustomed to rely in the conduct of serious affairs. The hearing shall be tape-recorded and all documentary evidence submitted at the hearing shall be preserved. Any party may arrange for a court reporter to be present. Any party desiring the presence of a court reporter shall make all necessary arrangements and shall be responsible for payment of all costs.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Hearing Officer may exclude disorderly or disruptive persons from the hearing or make other orders as necessary to ensure the fair and orderly conduct of the hearing.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Hearing Officer may decide all issues for or against the Owner of the animal should the Owner fail to appear at the hearing.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Within five (5) working days of the hearing, the Hearing Officer shall render a brief written decision, which decision shall be final at the administrative level. The written decision shall be mailed to the parties by certified mail and include a declaration or proof of mailing which includes the date on which the decision was mailed to the parties.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Unless the hearing officer for good cause otherwise determines, the Owner of the animal is liable for all costs related to such hearing not to exceed three-hundred and fifty dollars ($350).</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The failure to conduct a hearing required by this section shall have no bearing on any criminal prosecution for violation of any provisions of this chapter.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>In the case of animals determined by an Animal Control Officer or Peace Officer to be dangerous or vicious, the hearing officer may decide any or all of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>That the animal be designated "vicious" and the Owner of the animal lose all rights of ownership and control of the animal and the animal shall be humanely destroyed. An animal designated as vicious will be held at the animal shelter for a minimum of five (5) calendar days from the date of the hearing officer's decision, after which time it may be humanely destroyed without further notice to the Owner;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>That the animal be designated "dangerous" and the Owner must apply for and obtain a dangerous animal permit as provided by this chapter within five calendar days of receipt of the decision letter in order to maintain the animal and the Owner must comply with all mandatory dangerous animal permit rules and regulations as defined in Section 8.02.120;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>That the dangerous animal permit shall contain additional permit conditions to supplement the mandatory dangerous animal permit rules and regulations as defined in Section 8.02.120, including, but not limited to, the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>That the Owner keep the animal muzzled at all times when the animal is off the Owner's property;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>That the Owner prove financial responsibility by posting a bond or certificate of insurance for an amount of $1,000,000 per animal as determined by the Hearing Officer;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>That the Owner provide private behavioral and obedience training to the animal, at the Owner's expense and within the time set forth by the Hearing Officer following the issuance of a dangerous animal permit. Proof of participation, a report of behavioral assessment, and/or a certificate of satisfactory completion from an animal behaviorist or organization approved by the Hearing Officer shall be provided to the Animal Control Officer within seven (7) calendar days following any required training;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>That the Owner comply with any other permit requirement the Hearing Officer deems necessary to protect the public health or safety;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>That the Owner reimburse the victim for the victim's medical expenses or the victim animal's veterinary expenses;</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Pursuant to section 8.02.160 of this chapter, that the dangerous animal permit be modified as ordered by the Hearing Officer, or revoked and the animal humanely destroyed. (Ord. 2005-15 § 6, 2005).</text>
+          </para>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>8.02.120</num>
+      <heading>MANDATORY DANGEROUS ANIMAL PERMIT REQUIREMENTS (County § 6.04.120).</heading>
+      <text>Any Owner of a dangerous animal shall insure compliance with the following rules and regulations which shall be mandatory requirements for any dangerous animal permit:</text>
+      <para>
+        <num>(a)</num>
+        <text>When the animal is off the property of its Owner, the Owner must ensure that the animal is restrained with a leash not to exceed four (4) feet in length and having a minimum tensile strength of 300 pounds and shall be under the direct control and supervision of the Owner or a person of such age, size and strength as can easily control such animal. Extraordinary care shall be taken by the Owner to ensure that such restraint is sufficient to control the animal in a manner which it will not endanger other persons or animals.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Owner shall maintain the animal so that it is not a threat to any mail carrier, sanitation worker, meter person, or other person who has the lawful right to enter the property.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Owner shall ensure that the animal is not kept upon any unenclosed premise unless it is leashed and controlled by a person capable of controlling such animal. The Owner shall ensure that the animal is not tethered, tied or staked at any unenclosed premise. The Owner shall ensure that the animal is not kept in a house or structure when the windows or doors are open or screen doors are the only obstacle preventing the animal from exiting the structure.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The Owner shall ensure that the animal is kept in a fenced yard, kennel, run or enclosure approved by the Animal Control Officer or Peace Officer. The Owner shall ensure that all structures used to confine the animals are locked with a key or combination lock when such animals are within the structure. The Owner shall regularly inspect the fenced yard, kennel, run or enclosure to ensure that it is secure to maintain the animal.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Owner shall open premises upon which an animal is maintained at any reasonable hour for inspection by the Animal Control Officer or Peace Officer and said premises shall be surrendered for inspection by the Owner upon the request of the Animal Control Officer or Peace Officer. The Owner shall pay a fee for the costs incurred by County for the inspection or re-inspection of property. Such fee shall be set forth in section 8.02.290.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The Owner of the dangerous animal shall post the entrances to the property where the animal is kept with a legible sign conspicuous to the public warning persons of the presence of a dangerous animal. The Owner of the dangerous animal shall obtain an approved sign from the Animal Control Program for a non-refundable fee and shall surrender such sign in the event of the revocation of the permit, death of animal, or approved relocation of the animal, or upon any other reasonable demand by an Animal Control Officer.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The Owner of any dangerous animal must advise all members who reside in the same household and on the same premises of the conditions established by the permit for keeping or maintaining said dangerous animal.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The Owner shall strictly comply with all local and State laws regarding the care, use, control and maintenance of animals.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>In addition to a license, the Owner shall ensure that the animal shall at all times wear a separate tag issued by the Division of Animal Control Services which designates it as a dangerous animal. The Owner shall ensure that the dangerous animal be micro-chipped and registered with the Animal Control Program for a fee specified by Section 8.02.290 within thirty (30) calendar days from the date the permit was issued. The animal Owner shall be responsible for payment of said fee which shall be utilized by the Animal Control Program to offset the cost of the chip and to maintain the registration program.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The Owner shall have the animal spayed or neutered by a licensed veterinarian, at the Owner's expense, within fifteen (15) calendar days from the date the permit was issued. The Owner shall present written proof to the Animal Control Officer that the surgery was performed. In the event an animal cannot be safely spayed or neutered due to medical reasons, the Owner shall present written proof from a licensed practicing veterinarian to the Animal Control Officer that said animal cannot be spayed or neutered.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>The Owner may not sell, transfer or otherwise dispose of such animal to another County or City without notifying Animal Control at least twenty-four (24) hours before such sale, transfer or disposal. Animal Control will notify the proper authorities of the jurisdiction to which the dangerous animal is transferred. Should the Owner of a dangerous animal wish to transfer ownership of the animal to another individual within San Mateo County, the new Owner must submit to a property inspection, apply for and obtain a new dangerous animal permit, pay all requisite fees, and comply with all provisions of this chapter and the requirements of the permit.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>No more than two dangerous animals may be kept at any one household.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>The Owner shall not allow any animal designated "dangerous" as the result of aggression against human(s) to be kept on property or within a household in which a juvenile person under the age of eighteen resides.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>The Owner of a dangerous animal must notify the Animal Control Officer of the animal's death within twenty-four (24) hours and shall produce the animal's body for verification upon request. The Owner of a dangerous animal must notify the Animal Control Officer immediately in the event the animal becomes lost or stolen.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>The Owner must pay all permit and property inspection fees as described in section 8.02.290 of this chapter.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>The Owner shall comply with all other permit conditions or requirements imposed pursuant to section 8.02.115 or 8.02.100(a). (Ord. 2005-15 § 7, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.130</num>
+      <heading>MISDEMEANOR VIOLATIONS (County § 6.04.130).</heading>
+      <para>
+        <num>(a)</num>
+        <text>A person violating any provision of this chapter shall be guilty of an infraction except as otherwise specifically provided.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A person violating any provision of section 8.02.060(a), 8.02.060(b), 8.02.060(c), 8.02.100, 8.02.105(a), 8.02.110 and 8.02.120 of this chapter shall be guilty of a misdemeanor. (Ord. 2005-15 § 8, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.140</num>
+      <heading>POSSESSION OF ANIMALS AFTER REVOCATION OF DANGEROUS ANIMAL PERMIT OR VICIOUS DECLARATION (County § 6.04.140).</heading>
+      <text>No person who has been determined to be in possession or ownership of a vicious animal or a dangerous animal for which a permit has been revoked under this chapter shall be granted any dangerous animal permit for a period of three years following such determination or revocation. (Ord. 2005-15 § 9, 2005).</text>
+    </section>
+    <section>
+      <num>8.02.150</num>
+      <heading>INSPECTION FEE (County § 6.04.150).</heading>
+      <text>A fee shall be charged for the costs incurred for the inspection or re-inspection of property. The fee charged shall be paid by the Owner or person who has custody of the animal. Such fee shall be set forth in section 8.02.290. (Ord. 2005-15 § 10, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.160</num>
+      <heading>REVOCATION OR MODIFICATION OF PERMIT (County § 6.04.160).</heading>
+      <para>
+        <num>(a)</num>
+        <text>Subject to the provision of subsection (b), any permit issued pursuant to this section may be revoked or modified by the inclusion of additional requirements or otherwise, if the Animal Control Officer has reasonable cause to believe any of the following to be true:</text>
+        <para>
+          <num>(1)</num>
+          <text>The dangerous animal Owner or any person the Owner has allowed to have possession of the animal has violated any local animal ordinances, or is in violation of any zoning, health and safety or building ordinance or Penal Code section relating to the keeping, care or use of any animals;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Owner or any person the Owner has allowed to have possession of the animal has violated any rules, regulations or conditions of this chapter including but not limited to dangerous animal permit conditions, or any requirement imposed by the Animal Control Officer, Peace Officer or Hearing Officer as necessary to insure the animal will not endanger the peace, health or safety of any person or property; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The Owner has changed the location of his or her residence or his or her place of business or sells, assigns, transfers, donates, leases, or otherwise disposes of the animal for which the permit was issued.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In the event that it is reasonably necessary to protect against a threat to the health or safety of the public, or of any animal, the Animal Control Officer or Peace Officer may impound or cause to be impounded the animal while an investigation is taking place.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If, after investigation, the Animal Control Officer or Peace Officer concludes that it is probable that one or more of the above grounds for revocation or modification of the permit has occurred, the Officer shall cause written notice thereof to be transmitted to the Owner. Said notice shall specify the grounds of revocation or modification of the permit. Should the Owner of the animal wish to contest the revocation or modification of the permit, (s)he may request a hearing to be held before a hearing officer not previously involved with the permit issuance or investigation, as designated by the Director of the Environmental Services Agency within five (5) calendar days of receiving the notice of intent to modify or revoke permit. Said hearing date shall be not less than five (5) working days or more than 15 working days subsequent to the date the request for hearing is received. The hearing shall be conducted as set forth in section 8.02.115 of this chapter. After the hearing, the Officer conducting the hearing may modify the terms of the permit or revoke the permit depending upon the Owner's ability to comply with the requirements of this chapter and to control the animal so that the health, safety and property of the public are protected.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Upon written or oral notification by the Animal Control Officer, or Hearing Officer if a hearing was held, of any modifications to a dangerous animal permit, the Owner shall immediately comply with such modified permit requirements.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Upon written or oral notification by the Animal Control Officer, or Hearing Officer if a hearing was held, of the revocation of a permit for a dangerous animal, the Owner of such animal shall within two (2) calendar days of such notification surrender said animal to an Animal Control Officer to be humanely destroyed or provide written proof to an Animal Control Officer in the form of declaration(s) under penalty of perjury that such animal has been permanently removed from the County of San Mateo and declaring the new location or new address where the animal is to be kept. (Ord. 2005-15 § 11, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.170</num>
+      <heading>ANIMALS TO BE IMPOUNDED (County § 6.04.170).</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every animal kept or found by an Animal Control Officer or Peace Officer under conditions which constitute a violation of this chapter or other state or local law may be impounded or caused to be impounded by an Animal Control Officer or Peace Officer. The animal's Owner shall be charged with all costs incurred or fees applicable with respect to such impoundment.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>When the Animal Control Officer or Peace Officer has reasonable cause to believe that any animal is dangerous or vicious the Animal Control Officer or Peace Officer may also impound or cause to be impounded the animal and keep it for such period not to exceed fifteen (15) days in order to observe, examine and determine whether or not such animal is dangerous or vicious.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any animal subject to dangerous or vicious animal proceedings may be impounded at the discretion of the Animal Control Officer or Peace Officer pending notice, hearings and determinations hereunder and until any required permit is obtained.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Except as otherwise provided in this chapter or State law, an impounded animal may be redeemed by the Owner, after payment of the required fees and charges and compliance with licensing requirements. In the event such animal is not so redeemed within the time set forth by State law, it may be disposed of in the manner determined by an Animal Control Officer. (Ord. 2005-15 § 12, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.180</num>
+      <heading>NOTICE OF IMPOUNDED ANIMALS (County § 6.04.180).</heading>
+      <text>Within twenty-four (24) hours of the impoundment of any animal, the Animal Control Officer shall mail a written notice thereof to the place of business or residence of the Owner of the animal if known. In the event the animal may not be redeemed as provided by subsection (d) of section 8.02.170, the Owner may request a hearing under section 8.02.115, subsections (a) – (g) of this chapter or applicable State law. The Animal Control Officer shall maintain records of said impoundment pursuant to section 8.02.200. (Ord. 2005-15 § 13, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.200</num>
+      <heading>RECORD OF IMPOUNDED ANIMALS (County § 6.04.200).</heading>
+      <text>The Animal Control Program shall keep a record of all animals impounded, which record shall include a description of the animal, the date of its receipt, the date and manner of disposal, the name of the person redeeming or purchasing, and the fees and charges and proceeds of sales received on account thereof, and such additional matters as may be necessary and incidental to implementing this ordinance. Said records shall be kept for four years. (Ord. 2005-15 § 15, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.210</num>
+      <heading>FIELD RETURN FEE (County § 6.04.210).</heading>
+      <text>A fee shall be charged for any animal impounded by an Animal Control Officer and returned by the officer in the field to the owner or person who has custody of the animal. The fee charged shall be paid by the owner or person who has custody of the animal. Such fee shall be set forth in section 8.02.290. (Ord. 2005-15 § 24, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.220</num>
+      <heading>REDEMPTION (County § 6.04.220).</heading>
+      <text>Except as otherwise provided by this ordinance or by any other law, the Owner or person entitled to the control or custody of any animal impounded may, at any time before the sale or other disposition thereof, redeem the same by paying all proper fees assessed by Animal Control Services. Animal Control Services shall issue to the Owner duplicate receipts for the amount of the fee paid. (Ord. 2005-15 § 16, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.230</num>
+      <heading>REDEMPTION FEES (County § 6.04.230).</heading>
+      <text>Fees for animal shelter services shall be as set forth in Section 8.02.290. No animal shall be released to its owner or possessor unless and until such fees are paid in full. (Ord. 2005-15 § 30, 2005; Ord. 2005-15 § 25, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.240</num>
+      <heading>LICENSE FEE TO BE PAID UPON REDEMPTION (County § 6.04.240).</heading>
+      <text>No impounded dog may be redeemed unless and until its license fee, and applicable penalty has been paid. (Ord. 2005-15 § 30, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.250</num>
+      <heading>EPIDEMICS (County § 6.04.250).</heading>
+      <text>The County Department of Health Services may determine and declare that rabies or other contagious diseases are epidemic or that other health and safety hazards exist among dogs or other animals within the county. Upon the making of such a declaration, the county Health Officer shall prepare and promulgate such orders, rules, and regulations as are necessary for appropriate control of all the animals concerned within the county. Said rules and regulations of the county Health Officer may include, but are not limited to, impoundment, quarantine, vaccination, or destruction. It shall be the duty of Animal Control Officers to assist the County Health Officer in carrying out such rules and regulations. (Ord. 2005-15 § 30, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.260</num>
+      <heading>BITE REPORTING REQUIREMENTS (County § 6.04.260).</heading>
+      <text>It is the duty of every person having knowledge that any animal has bitten a human being to report that fact immediately to the County Department of Health Services, Animal Control Program or to the local law enforcement agency having jurisdiction. (Ord. 2005-15 § 30, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.270</num>
+      <heading>QUARANTINE FEE (County § 6.04.270).</heading>
+      <text>A fee shall be charged for the costs incurred by County for the quarantine of animals including but not limited to investigation, inspection of property, confinement, examination and release of the animal from quarantine. The fee charged shall be paid by the owner or person who has custody of the animal. Such fee shall be in addition to the actual costs of the Health Officer or his or her designee in housing, feeding and otherwise caring for a quarantined animal. Such fee shall be set forth in Section 8.02.290. (Ord. 2005-15 § 30, 2005; Ord. 2005-15 § 25, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.280</num>
+      <heading>SERVICE FEES (County § 6.04.280).</heading>
+      <text>Animal Control Service fees for redemption of impounded animals, relinquishment, adoption, disposal, abatement, rescue, veterinary treatment or other services not specified in section 8.02.290 shall be reviewed by the Director of Environmental Services Agency or his or her /her designee for reimbursement of costs. The Director of the Environmental Services Agency or his or her /her designee shall have the authority to determine the fee charged for said services. The fee charged shall be paid by the owner or person who has custody of animal(s) for which said services have been provided. (Ord. 2005-15 § 17, 2005; Ord. 2005-15 § 25, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.290</num>
+      <heading>SCHEDULE OF FEES AND CHARGES (County § 6.04.290).</heading>
+      <text>Animal Control Program fees and charges established by this Code shall be as adopted and from time to time amended by the County of San Mateo and set forth in Section ‍6.04.290 of the San Mateo County Code. (Ord. 2005-15 § 18, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.300</num>
+      <heading>PENALTY FOR VIOLATION (County § 6.04.300).</heading>
+      <text>Except as specifically stated elsewhere, any violation of the provisions of this ordinance, including those provisions relating to required fees, shall be punishable as an infraction, the penalty for which shall be as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>A fine not exceeding one hundred (100) dollars for a first violation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A fine not exceeding two hundred (200) dollars for a second violation of the same ordinance within one year.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A fine not exceeding five hundred (500) dollars of each additional violation of the same ordinance within one year. (Ord. 2005-15 § 30, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.310</num>
+      <heading>USE OF LICENSE AND OTHER REVENUE (County § 6.04.310).</heading>
+      <text>All revenue derived from the fee schedule and from fines, forfeitures, and penalties related to the enforcement of this ordinance shall be used to offset the cost of enforcement and administration of this ordinance. (Ord. 2005-15 § 30, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.320</num>
+      <heading>SCOPE (County § 6.04.320).</heading>
+      <text>The provision of this ordinance shall be in effect in the unincorporated areas of this county and, except where so adopted, are not applicable to any city. (Ord. 2005-15 § 30, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.330</num>
+      <heading>SEVERABILITY (County § 6.04.330).</heading>
+      <text>If any section, subsection, sentence, clause, phrase or word of this ordinance or of this Part should be held to be invalid or unconstitutional by a court of competent jurisdiction, such invalidity or unconstitutionality thereof shall not affect the validity or constitutionality of any other section, subsection, clause, phrase or word of this ordinance or of this Part. (Ord. 2005-15 § 30, 2005; Ord. 2005-9 § 1, 2005; Ord. 1995-11 § 2, 1995; Ord. 1990-25, §2 &amp; 3, 1990; Ord. 1990-8 § 8 &amp; 9, 1990; Ord. 1988-13, § 1, 1988; Ord. 1987-24, § 5, 1987; Ord. 1985-27 § 2, 1985).</text>
+    </section>
+    <section>
+      <num>8.02.400</num>
+      <heading>ABANDONED ANIMALS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>FINDINGS. The City Council finds and determines that:</text>
+        <para>
+          <num>(1)</num>
+          <text>An unacceptable number of healthy but abandoned dogs and cats are euthanized annually in San Mateo County by the Peninsula Humane Society.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Due to the large number of stray and abandoned cats and dogs, euthanasia is not a cost effective, acceptable or ethical solution to the threats of public health and safety posed by large populations of stray domestic animals.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Stray and abandoned pets, specifically cats and dogs, create numerous public health and safety problems, including transmission of disease, attacks by stray dogs on people, livestock and pets, and traffic hazards created by stray dogs and cats running loose on public streets.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A permit system for breeding of cats and dogs owned or harbored in the City of San Mateo combined with a program for spaying/neutering is a reasonable and effective means of reducing the population of abandoned or stray cats and dogs, and for eliminating the practice of euthanizing homeless cats and dogs except those for whom euthanasia is an escape from suffering or necessary to protect people and/or other animals from vicious behavior.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>DECLARATION OF INTENT. The City Council hereby finds and declares that it intends to provide for the public health, safety and welfare through a program requiring spaying and neutering of dogs and cats unless appropriate permits are acquired. (Ord. 2005-15 § 30, 2005; Ord. 2005-15 § 28, 2005; Ord. 2005-15 § 27, 2005; Ord. 1995-11 § 1, 1995).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.420</num>
+      <heading>SPAYING/NEUTERING.</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall own or harbor, within the City any cat or dog over the age of six months which has not been spayed or neutered, unless such person holds either a license to keep an unaltered dog or cat or a license and permit for breeding cats or dogs issued by San Mateo County Animal Control Services under § 8.02.430 of this chapter.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A license shall be issued for an unaltered dog or cat if the owner signs a written statement that such animal will not be allowed to breed unless the owner has first obtained a breeding permit under § 8.02.430 of this Code.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any person providing care or sustenance for a period of thirty days or longer shall be deemed the owner of such animal and shall adhere to the provision of this section.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Subsection (c) above shall not be interpreted to apply to a person caring for a colony of feral cats if such person:</text>
+        <para>
+          <num>(1)</num>
+          <text>Registers (at no charge) with the Peninsula Humane Society or San Mateo County Animal Control Services as a caretaker for feral cats;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Regularly feeds or arranges for the feeding of the colony, including on weekends and holidays;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Traps or makes a reasonable effort to trap all feral cats over the age of eight (8) weeks in his or her /her care, and has them spayed or neutered;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Has all trapped cats tested for feline leukemia and has those who test positive humanely euthanized or isolated indoors;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Identifies feral cats that have been spayed or neutered by means of ear notching, ear tipping, or ear tagging;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Has all trapped cats vaccinated according to state and local laws. (Ord. 2005-15 § 30, 2005; Ord. 2005-15 § 27, 2005; Ord. 1995-11 § 1, 1995).</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>8.02.430</num>
+      <heading>BREEDING PERMITS—ADMINISTRATION.</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall cause or allow any dog or cat owned or harbored in the City to breed without first obtaining a breeding permit under this Section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>San Mateo County Animal Control Services shall administer a permit program to allow breeding of cats and dogs consistent with criteria and according to procedures contained in this chapter.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Each applicant who is issued a permit to breed cats or dogs under this section shall pay a breeding permit fee according to the fee schedule contained in § 8.02.290 of this Code.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>No person shall cause or allow the breeding of a male or female dog or cat without first obtaining a breeding permit issued by Animal Control Services. Such breeding permit is required in addition to any license required under § 8.02.040 of this Code. Breeding permits shall be valid for twelve months, renewable on an annual basis. Fees for such permit shall be as set forth in § 8.02.290. All breeding permits shall contain the following terms and conditions and be subject to all of the following requirements:</text>
+        <para>
+          <num>(1)</num>
+          <text>No offspring may be sold or adopted and permanently placed until reaching an age of at least eight (8) weeks.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>No offspring may be sold or adopted until immunized against common diseases.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>If within one year of placement a new owner becomes unable or unwilling to continue ownership and responsibility for an animal, the permit holder shall assist in placement of the animal. If no suitable placement can be found within six (6) months, the permit holder shall accept return of the animal if healthy and shall become fully responsible for its care.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any permit holder advertising to the public the availability of any animal for adoption or sale must prominently display the permit number in any publications in which they advertise. Further, the permit number must be provided to any person adopting or purchasing any animal bred by the permit holder.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The breeding permit holder shall adhere to Minimum Standards regarding the care and keeping of animals developed and approved by the Animal Control Services. (Ord. 2005-15 § 30, 2005; Ord. 2005-15 § 28, 2005; Ord. 1995-11 § 1, 1995).</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>8.02.440</num>
+      <heading>SALE OR ADOPTION OF CATS OR DOGS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person who provides or offers to the public, whether or not for compensation, any pet or pet related goods (where they are the primary products) or pet services shall provide to their clients, free of charge, information relating to pet care and ownership, including information on City laws pertaining to animal control. This required information will be prepared and provided by San Mateo County Animal Control Services.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any person offering cats or dogs for sale or adoption shall disclose to any purchaser or adoptive owner information regarding the licensing or permit requirements of San Mateo City applicable to such animal.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No person shall offer for sale or adoption any cat or dog on any public street, sidewalk, or public park unless such person first obtains a business license to sell pets or is a recognized pet rescue/adoption agency such as Pets in Need and the Peninsula Humane Society.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Prior to release for adoption, any animal adopted from any animal welfare agency shall be spayed or neutered as early as is medically appropriate, unless the adoptive owner obtains a certificate from a licensed veterinarian certifying as to the health reasons for failing to alter such animal. (Ord. 2005-15 § 30, 2005; Ord. 1995-11 § 1, 1995).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.450</num>
+      <heading>REVOCATION OF PERMIT.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any permit issued pursuant to Section 8.02.430 may be revoked if the Animal Control Officer has reasonable cause to believe any of the following to be true:</text>
+        <para>
+          <num>(1)</num>
+          <text>The permittee has violated any state or local ordinances relating to the keeping, care or use of any animal including, but not limited to, those contained in this Title;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The permittee is in violation on any State health or safety law or regulation regarding animal care or control;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The permittee has failed to comply with any condition or requirement of the permit or has failed to pay any fee imposed under this Code;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The permittee refuses to allow inspection, upon forty-eight hours written notice, of any animal covered by the permit or the premises on which the animal is kept; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The permittee has transferred, sold or otherwise disposed of the animal for which the permit was issued.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If, after investigation, the Animal Control Officer concludes that it is probable that one or more of the above grounds for revocation has occurred, it shall cause written notice thereof to be transmitted by mail to the address of the permittee. Said notice shall specify the grounds of possible revocation of the permit and shall specify a date and time for an informal hearing to be held before an Animal Control Officer. Said date shall be not less than five days subsequent to the date the notice is mailed. After the informal hearing, the Animal Control Officer may modify the terms of the permit or revoke the permit.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The permittee may appeal the decision of the Animal Control Officer to the County Environmental Health Officer if the permittee gives written notice of such appeal within five working days of the decision. (Ord. 2005-15 § 30, 2005; Ord. 2005-15 § 29, 2005; Ord. 1995-11 § 1, 1995).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.460</num>
+      <heading>PENALTY FOR VIOLATION.</heading>
+      <text>Except as otherwise provided by this chapter, any violation of the provisions of this chapter shall be punishable as an infraction, the penalty of which shall be as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>A fine not to exceed one hundred ($100.00) dollars for a first violation.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A fine not exceeding two hundred ($200.00) dollars for a second violation within one year.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A fine not to exceed five hundred ($500.00) dollars for each additional violation within the same year. (Ord. 2005-15 § 30, 2005; Ord. 1995-11 § 1, 1995).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.470</num>
+      <heading>RESPONSIBILITY FOR ENFORCEMENT.</heading>
+      <text>The Animal Control Program shall be responsible for the enforcement and administration of this chapter. (Ord. 2005-15 § 30, 2005; Ord. 1995-11 § 1, 1995).</text>
+    </section>
+    <section>
+      <num>8.02.480</num>
+      <heading>DEFINITIONS.</heading>
+      <text>For the purpose of this chapter, certain words and phrases are defined as follows and certain provisions shall be construed as herein set forth unless it shall be apparent from their context that they have a different meaning.</text>
+      <para>
+        <num>(a)</num>
+        <text>"Kennels" shall mean the keeping of or causing to be kept more than ten dogs at any one premises whether a commercial or non-commercial kennel.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Commercial Kennels" shall mean the breeding, raising or keeping of dogs for sale; or the boarding, racing or other commercial handling of dogs or any combination of the foregoing by any person, firm or corporation.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Catteries" shall mean a place, either indoors or enclosed, for the commercial breeding, raising, or keeping of more than ten cats; or the boarding or other commercial handling of more than ten cats or any combination of the foregoing by any person, firm or corporation. (Ord. 2005-15 § 30, 2005; Ord. 1995-11 § 3, 1995).</text>
+      </para>
+    </section>
+    <section>
+      <num>8.02.490</num>
+      <heading>KEEPING OF DOGS AND/OR CATS.</heading>
+      <text>It is unlawful for any person to keep or cause to be kept or to assist in keeping more than four (4) dogs or four (4) cats or any combination of dogs and cats totaling more than four (4) at any one premises within 1/2 mile of any adjoining residence in the City of San Mateo, unless in conformance with this chapter. (Ord. 2005-15 § 30, 2005; Ord. 1995-11 § 3, 1995).</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8.04</num>
+    <heading>ANIMAL CARE AND KEEPING</heading>
+    <section>
+      <num>8.04.010</num>
+      <heading>ABUSE—NEGLECT.</heading>
+      <text>It is unlawful for any person to abuse, misuse, beat, torture, or maltreat any animal, or for the owner or person having custody of any animal to deprive such animal of proper food, water, care and attention. (Prior code § 64.30).</text>
+    </section>
+    <section>
+      <num>8.04.020</num>
+      <heading>ANIMALS AND FOWL PROHIBITED.</heading>
+      <text>No person in the City shall keep or permit to be kept on premises owned, occupied, or controlled by him or her any swine, cows, bulls, calves, sheep, goats, horses, mules, jacks, jennies, peafowl, roosters over four months, or other animals which are exotic or wild, except nonpoisonous reptiles. With a special permit approval from the board of zoning adjustments, the above animals may be kept in an A zone two hundred feet from any property line. (Ord. 1982-1 § 4, 1982; prior code § 64.50).</text>
+    </section>
+    <section>
+      <num>8.04.030</num>
+      <heading>CANINE FECES.</heading>
+      <text>It is unlawful for any person owning or having control or custody of any dog:</text>
+      <para>
+        <num>(a)</num>
+        <text>To permit or allow the dog to defecate upon the public property of the City or upon the private property of another person without the consent of the occupant or owner of that property unless the owner or the person having control or custody of the dog immediately removes the feces and properly disposes of it;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>To walk a dog on public property of the City or upon the private property of a person without carrying at all times a suitable container or other suitable instrument for the removal and disposal of canine feces; or</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>To fail to dispose of the container of the feces in a sanitary manner. (Ord. 2004-19 § 1, 2004; Ord. 1983-7 § 1, 1983).</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8.24</num>
+    <heading>STABLES—BARNS</heading>
+    <section>
+      <num>8.24.010</num>
+      <heading>PERMIT—REQUIRED—CONTENTS.</heading>
+      <text>No person shall construct any building or premises to be used as a stable for any horse, or mule, or cow, or any number thereof, without first having obtained a special permit therefor from the board of zoning adjustments, specifying the name of the permittee, the location of building or premises to be used as such stable, and the number of animals intended to be kept therein.</text>
+      <text>Stables shall be constructed in compliance with the Uniform Building Code and related technical codes of Chapter 23 of this code. In addition, stables shall conform to the following requirements:</text>
+      <para>
+        <num>(1)</num>
+        <text>The stable floor shall consist of a six-inch rock base on which is compacted not less than six inches of clay or other approved comparable systems.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>There shall be constructed a fly-tight metal or reinforced concrete manure bin. The contents of the bin shall be removed at least twice a week, or more often if ordered by the health officer.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Each stable shall contain a ratproof, concrete, wire mesh or metal or plaster-lined feed room for the storage of feeds other than hay or alfalfa.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Hay, straw and manure shall not be piled adjacent to the building in a manner that would create a fire hazard. Storage of hay and straw shall be in a manner approved by the fire marshal.</text>
+      </para>
+      <text>Stables shall be located on sites as specified in Section 8.04.020. The minimum size of a site for the keeping of a horse, mule or cow is one acre. The smallest dimension of a site shall be at least fifty feet.</text>
+      <text>Stables and parcels of land used for animal corrals shall be well drained; however, drainage shall not be directed over property lines.</text>
+      <text>No person shall maintain as a stable for any horse, or mule, or cow, or any number thereof, any existing structure, not at the effective date of this section used for stable purposes, without first having obtained a special permit therefor from the board of zoning adjustments, specifying the name of the permittee, and the location of the building or premises to be used as such stable and the number of animals intended to be kept therein. Application for the above special permit shall be made with the planning division. (Ord. 1982-1 § 6, 1982; prior code § 109.02).</text>
+    </section>
+    <section>
+      <num>8.24.020</num>
+      <heading>PERMIT—REVOCATION.</heading>
+      <text>No person shall maintain a stable for any horse, mule or cow, or any number thereof, without first having obtained from the board of zoning adjustments a permit therefor. Such special permit shall be subject to revocation by the board of zoning adjustments upon any failure on the part of such person to comply fully with any of the requirements of the special permit. (Ord. 1982-1 § 7, 1982; prior code § 109.03).</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8.28</num>
+    <heading>BEES</heading>
+    <annotation>Prior history: Prior code §§ 64.60-64.62 and Ord. 1982-1.</annotation>
+    <section>
+      <num>8.28.010</num>
+      <heading>KEEPING OF BEES—CONDITIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Adequate Water Source Required. All properties on which beehives are kept must provide for adequate water sources on the property at all times of year and must ensure that they do not become a mosquito-breeding site. Adequate sources are ones that provide both an amount of fresh water necessary for the amount of bees or beehives and a method for the bees to be able to gain a good footing to obtain the water.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Flyway Required. Beekeepers shall manage the direction and angle of the bee flyway from the entrance of the hive by properly siting and orienting the hives and by using flyway barriers as needed to modify the angle in order to keep the flyway over the beekeeper's property until the bees are flying eight or more feet above the ground. (Ord. 2017-13 § 1)</text>
+      </para>
+    </section>
+    <section>
+      <num>8.28.020</num>
+      <heading>NUISANCE WHEN.</heading>
+      <text>No person shall manage bees under such conditions as to create a source of constant annoyance or discomfort to any person. (Ord. 2017-13 § 1)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>8.32</num>
+    <heading>FOWL AND SMALL ANIMALS</heading>
+    <section>
+      <num>8.32.010</num>
+      <heading>PERMIT—REQUIRED.</heading>
+      <text>It is unlawful to keep any fowl or rodent unless application is first made and permission is granted, as provided in this chapter. It is a nuisance, and unlawful for the owner of any fowl or rodent to allow it to run at large or go upon the premises of any other person. Fowl and rodents permitted by this section may be kept only on the premises of the owners thereof. Small rodents and birds may be kept within a residence without a permit. (Ord. 1982-1 § 11; prior code § 109.10)</text>
+    </section>
+    <section>
+      <num>8.32.020</num>
+      <heading>PERMIT—APPLICATION—REQUIREMENTS.</heading>
+      <text>Any person may apply to the Building Division for permission to keep fowl or rodents owned or controlled by him, in a coop, run or hutch, in the rear yard (as determined by the Zoning Code), and not less than 20 feet from another dwelling and not less than three from any property line. Such application shall be substantially in a form to be selected by the building official. Permits will be issued only for the keeping of fowl and rodents upon the property occupied by the applicant. (Ord. 1982-1 § 12; prior code § 109.11)</text>
+    </section>
+    <section>
+      <num>8.32.030</num>
+      <heading>PERMIT—APPLICATION—FEE.</heading>
+      <text>The Building Division shall charge a fee to the person filing an application for such permit, such fee to be paid at the time of such filing. The fee for such permits shall be those established by resolution of the Council. (Ord. 1982-1 § 13; Ord. 1978-12 § 1; prior code § 109.17)</text>
+    </section>
+    <section>
+      <num>8.32.040</num>
+      <heading>PERMIT—APPLICATION—INSPECTION OF PREMISES.</heading>
+      <text>Immediately upon receipt of the application mentioned in Section 8.32.020, the Building Division representative shall forthwith inspect the premises. If the Building Division representative deems it necessary, he or she will request inspection by the health officer. (Ord. 1982-1 § 14; prior code § 109.12)</text>
+    </section>
+    <section>
+      <num>8.32.050</num>
+      <heading>PERMIT—ISSUANCE CONDITIONS.</heading>
+      <text>The Building Division representative shall thereupon determine from the staff inspection and the findings of the health officer whether or not the keeping of any fowl or rodent would be injurious to the public health, safety or welfare. If the City inspector finds that the keeping thereof will not be injurious to the health, safety or welfare, such application will be approved and provisions or requirements may be added with reference thereto as may be deemed necessary to preserve such health, safety and welfare; provided, however, that under no condition shall the Building Division issue a permit for the keeping of more than 10 in all, of fowl and rodents; provided further, that, at the time of issuance of such permit, if any, the Building Division will require that all feed for such fowls and rodents shall be kept in containers to be made of materials which will protect such health, safety and welfare, and which materials shall be specified at said time by the building inspector. Feeding shall only be done within approved enclosures on private property. All fowl and rodents that have reached the age of one month will be included in the count to determine if the limit has been met or exceeded. (Ord. 1982-1 § 15; prior code § 109.13)</text>
+    </section>
+    <section>
+      <num>8.32.060</num>
+      <heading>PERMIT—APPEAL.</heading>
+      <text>In the event that the Building Division has denied such permit, or has made provisions with reference thereto which such applicant does not wish to carry out, the applicant may appeal from such decision to the Community Relations Commission. Such appeal shall be filed in writing with the building official no later than 30 days from and after the date on which such applicant has received notice of such rejection or order for modification. The building official shall set the time for hearing such appeal before the Community Relations Commission which shall be at a regular meeting of the Commission. The appeal will be heard at the next regular meeting following public notification and after the legal noticing time has been allowed. The building official shall forthwith notify the applicant in writing of the date set for such hearing. If the applicant is not the owner of the property, the owner will be notified of the appeal. The owner will be responsible to see that decisions of the building official and/or the Community Relations Commission are complied with. Owners of properties within 300 feet of applicant's property will be notified of the hearing. At the hearing on such appeal, the Community Relations Commission may hear all evidence introduced by the applicant and others, with reference to such matter, and it shall thereupon make its decision thereon. At such time it shall find whether or not the proposed keeping of such fowl and rodents would be injurious to the health, safety or welfare of the City. It shall thereupon allow, or deny, such applications, or make such provisions for modifications thereof, and with reference thereto, as it may see fit. Appeals of the Commission's decision may be made to the City Council by filing in writing within 10 calendar days of the hearing and paying the required filing fee. (Ord. 2013-2 § 3; Ord. 1995-22 § 1; Ord. 1982-1 § 16; prior code § 109.14)</text>
+    </section>
+    <section>
+      <num>8.32.070</num>
+      <heading>SANITATION REQUIREMENTS.</heading>
+      <text>In the keeping of any fowl or rodents on any lot or parcel of land within the City, the owner or person having control of such place shall keep at all times and places where such fowl or rodents are kept in a sanitary condition and properly enclosed, so that such fowl or rodents will not go upon the premises of a neighbor or on any other property within the City. (Ord. 1982-1 § 17; prior code § 109.18)</text>
+    </section>
+    <section>
+      <num>8.32.080</num>
+      <heading>PERMIT EXPIRATION OR REVOCATION.</heading>
+      <text>A permit will expire at any time that the permitted use is discontinued for a period of six months. Failure to comply with these regulations will be cause for revocation of the permit. (Ord. 1982-1 § 18)</text>
+    </section>
+  </container>
+</container>

@@ -1,0 +1,1625 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Title</prefix>
+  <num>11</num>
+  <heading>VEHICLES AND TRAFFIC</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.04</num>
+    <heading>GENERAL PROVISIONS</heading>
+    <annotation>For statutory provisions regarding the regulation of traffic by local authorities, see Cal. Veh. C.A. § 21100 et seq. For the general State laws regarding the use an operation of motor vehicles upon the highways of the state see the California Vehicle Code.</annotation>
+    <section>
+      <num>11.04.010</num>
+      <heading>POLICE OFFICERS—DUTIES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It shall be the duty of the officers of the Police Department to enforce the provisions of this title.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Officers of the Police Department are authorized to direct all traffic by voice, hand or signal, in conformance with traffic laws; provided that, in the event of fire or other emergency, police officers may direct traffic as conditions may require, notwithstanding the provisions of the traffic laws. (Prior code § 73.04).</text>
+      </para>
+    </section>
+    <section>
+      <num>11.04.020</num>
+      <heading>POLICE OFFICERS—OBEDIENCE TO REQUIRED.</heading>
+      <text>No person shall willfully fail or refuse to comply with any lawful order, direction or signal of a police officer. (Prior code § 73.05).</text>
+    </section>
+    <section>
+      <num>11.04.030</num>
+      <heading>TRAFFIC DIRECTION.</heading>
+      <text>No person, other than an officer of the Police Department, or a person deputized by the Chief of Police shall direct, or attempt to direct, traffic by voice, hand or other signal, except that persons may operate, when and as herein provided, any mechanical push button signal erected by order of the Council. (Prior code § 73.06).</text>
+    </section>
+    <section>
+      <num>11.04.040</num>
+      <heading>PUBLIC EMPLOYEE OBEDIENCE REQUIRED.</heading>
+      <text>The provisions of this title shall apply to the driver of any vehicle owned by, or used in the service of, the United States Government, this state, any county, city and county or municipal corporation, or other public agency, and no such driver shall violate any of the provisions of this title. (Prior code § 73.07).</text>
+    </section>
+    <section>
+      <num>11.04.050</num>
+      <heading>EXEMPTIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The provisions of this title regulating the operation, parking and standing of vehicles shall not apply to any vehicle of the police or fire department, any public ambulance, or any public utility vehicle, or any private ambulance, which public utility vehicle or private ambulance has qualified as an authorized emergency vehicle, when any vehicle mentioned in this section is operated in the manner specified in the vehicle code in response to an emergency call.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The foregoing exemptions shall not, however, protect the driver of any such vehicle from the consequences of his or her willful disregard of the safety of others.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The provisions of this title regulating the parking or standing of vehicles shall not apply to any vehicle of a city department or public utility while necessarily in use for construction or repair work, or any vehicle owned by the United States while in use for the collection, transportation or delivery of United States mail. (Prior code § 73.08).</text>
+      </para>
+    </section>
+    <section>
+      <num>11.04.060</num>
+      <heading>DAMAGE REPORT—REQUIRED WHEN.</heading>
+      <text>The driver of a vehicle, or the person in charge of any animal, involved in any accident resulting in damage to any property publicly owned, or owned by any public utility, including but not limited to, any fire hydrant, ornamental lighting post, official traffic control device, official traffic signal, telephone pole, electric or power pole, ornamental shade tree, or other property of a like nature, located in, over, or along any street, shall, within twenty-four hours after such accident, make a written report of such accident to the Police Department of the City. (Prior code § 73.09).</text>
+    </section>
+    <section>
+      <num>11.04.070</num>
+      <heading>DAMAGE REPORT—CONTENTS.</heading>
+      <text>Every such report shall state the time when, and the place where, the accident took place; the name and address of the person owning, and of the person driving, or in charge of, such vehicle, or animal; the license number of every such vehicle; and shall briefly describe the property damaged in such accident. (Prior code § 73.10).</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.08</num>
+    <heading>DEFINITIONS</heading>
+    <section>
+      <num>11.08.010</num>
+      <heading>VEHICLE CODE DEFINITIONS.</heading>
+      <text>Whenever any word or phrase used herein is not defined here but is now defined in the Vehicle Code of this state, such definitions are incorporated herein and shall be deemed to apply to such word and phrase used herein. (Prior code § 73.03)</text>
+    </section>
+    <section>
+      <num>11.08.020</num>
+      <heading>DEFINITIONS GENERALLY.</heading>
+      <text>Words and phrases used in this title are respectively defined as follows in Sections 11.08.030 through 11.08.100. (Prior code § 73.02)</text>
+    </section>
+    <section>
+      <num>11.08.030</num>
+      <heading>CENTRAL TRAFFIC DISTRICT.</heading>
+      <text>"Central traffic district" means all streets and portions of streets within the area described as follows:</text>
+      <text>All the area bounded by the westerly line of El Camino Real on the west; the northerly line of Baldwin Avenue and its extension easterly to the easterly line of Delaware Street on the north; the easterly line of Delaware Street on the east and the southerly line of Fifth Avenue on the south. (Prior code § 73.02(2))</text>
+    </section>
+    <section>
+      <num>11.08.040</num>
+      <heading>LOADING ZONE.</heading>
+      <text>"Loading zone" means that space adjacent to a curb reserved for the exclusive use of vehicles during the loading or unloading of passengers or materials. (Prior code § 73.02(3))</text>
+    </section>
+    <section>
+      <num>11.08.045</num>
+      <heading>MAJOR ARTERIAL STREET.</heading>
+      <text>"Major arterial street" means a street that has been designated by the Council by resolution as essential to the integrity of the major street network of the City. (Ord. 1985-6 § 1)</text>
+    </section>
+    <section>
+      <num>11.08.050</num>
+      <heading>PARKWAY.</heading>
+      <text>"Parkway" means that portion of street other than a roadway or a sidewalk. (Prior code § 73.02(7))</text>
+    </section>
+    <section>
+      <num>11.08.060</num>
+      <heading>PASSENGER LOADING ZONE.</heading>
+      <text>"Passenger loading zone" means that space adjacent to a curb reserved for the exclusive use of vehicles during the loading or unloading of passengers. (Prior code § 73.02 (8))</text>
+    </section>
+    <section>
+      <num>11.08.070</num>
+      <heading>POLICE OFFICER.</heading>
+      <text>"Police officer" means every officer of the Police Department of this City. (Prior code § 73.02 (10))</text>
+    </section>
+    <section>
+      <num>11.08.080</num>
+      <heading>STOP.</heading>
+      <text>"Stop, when required" means complete cessation of movement. (Prior code § 73.02 (11))</text>
+    </section>
+    <section>
+      <num>11.08.090</num>
+      <heading>STREETCAR.</heading>
+      <text>"Streetcar" means any device traveling exclusively upon rails. (Prior code § 73.02 (13))</text>
+    </section>
+    <section>
+      <num>11.08.100</num>
+      <heading>TRAFFIC AUTHORITY.</heading>
+      <text>The City Manager is designated as the traffic authority. (Prior code § 73.03 (13))</text>
+    </section>
+    <section>
+      <num>11.08.110</num>
+      <heading>TRAILER.</heading>
+      <text>"Trailer" means any vehicle drawn by a motor vehicle, including semitrailers and utility trailers. (Ord. 1977-8 § 1)</text>
+    </section>
+    <section>
+      <num>11.08.120</num>
+      <heading>VEHICLE—FREIGHT.</heading>
+      <text>"Vehicle-freight" or "freight-vehicle" means any vehicle, or combination of vehicles, used for the transportation of merchandise, household or office goods and furniture, dirt fill, refuse or other personal property, but excludes utility vehicles. (Ord. 1977-8 § 2)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.12</num>
+    <heading>DRIVING RULES</heading>
+    <annotation>For statutory provisions prohibiting driving on sidewalks, see Cal. Veh. C.A. § 21663; for the provisions regarding interference with Fire Apparatus, see Cal. Veh. C.A. §§ 21706-21708; for the provision regarding the seating of passengers on a motorcycle, see Cal. Veh. C.A. § 27800.</annotation>
+    <section>
+      <num>11.12.010</num>
+      <heading>DRIVING THROUGH FUNERAL PROCESSION.</heading>
+      <text>No driver of a vehicle, or operator of a streetcar, shall drive between the vehicles comprising a funeral procession while such procession is in motion and when the vehicles therein are conspicuously so designated. This provision shall not apply at intersections where traffic is controlled by official traffic signals or police officers. (Ord. 1992-11 § 3; prior code § 73.28)</text>
+    </section>
+    <section>
+      <num>11.12.020</num>
+      <heading>CLINGING TO MOVING VEHICLE.</heading>
+      <text>No person riding upon any bicycle, coaster, roller skates or any toy vehicle, shall attach him or herself to any streetcar or moving vehicle upon any roadway. (Ord. 1992-11 § 3; prior code § 73.30)</text>
+    </section>
+    <section>
+      <num>11.12.030</num>
+      <heading>DRIVING ON SIDEWALK.</heading>
+      <text>The driver of a vehicle shall not drive within any sidewalk area or any parkway, except at a permanent or temporary driveway. (Ord. 1992-11 § 3; prior code § 73.31)</text>
+    </section>
+    <section>
+      <num>11.12.040</num>
+      <heading>DRIVING ON NEW PAVEMENT.</heading>
+      <text>No person shall ride or drive any animal, or any vehicle, over or across any newly made pavement, or freshly painted marking, in any street, when a barrier or sign is in place warning persons not to drive over or across such pavement or marking, or when a sign is in place stating that the street, or any portion thereof is closed. (Ord. 1992-11 § 3; prior code § 73.32)</text>
+    </section>
+    <section>
+      <num>11.12.050</num>
+      <heading>EXCESSIVE ACCELERATION OF MOTOR VEHICLES.</heading>
+      <text>It is unlawful for any person operating a motor vehicle within the City to so accelerate the same as to cause audible noise by tire friction on pavement or to cause the tires of said vehicle to leave skid marks upon the pavement, except when such acceleration is reasonably necessary to avoid a collision. Any person violating this section shall be guilty of a public offense. (Ord. 2012-2 § 18; Ord. 1992-11 § 3; Ord. 1979-10 § 1)</text>
+    </section>
+    <section>
+      <num>11.12.060</num>
+      <heading>OFF-ROAD USE OF MOTOR VEHICLES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It is unlawful for any person to operate any motor vehicle off of the paved roadways (or parking lots designated for public use) within the City of San Mateo without the consent of the owner of the property.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A tenant of the property or an employee of the owner or tenant, who is in the course and scope of employment, is conclusively presumed to have the owner's permission to operate motor vehicles on the property unless the owner is the complaining witness for prosecuting a violation of this section.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>This section shall not apply to public employees in the course and scope of their duties. (Ord. 2012-2 § 19; Ord. 1992-11 § 3; Ord. 1990-24 § 1)</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.16</num>
+    <heading>TURNING—STOPPING</heading>
+    <annotation>For statutory provisions regarding turning and stopping signals, see Cal. Veh. C.A. § 22100 et seq. For the statutory authority of local authorities to prohibit the making of any turning movement by any vehicle at any intersection or between any designated intersections, see Cal. Veh. C.A. § 22113. For the provisions regarding special stops, see Cal. Veh. C.A. § 22450 et seq.</annotation>
+    <section>
+      <num>11.16.010</num>
+      <heading>PROHIBITED LEFT TURN—SIGNS.</heading>
+      <text>The City Manager may erect and maintain signs at any intersection prohibiting the making of left turns by drivers of vehicles wherever the City Manager determines that such left turns would cause traffic congestion or traffic hazard. The making of such left turns may be prohibited between certain hours of any day and permitted at other hours, in which event the same shall be plainly indicated on the signs erected by city manager. (Prior code § 73.18)</text>
+    </section>
+    <section>
+      <num>11.16.020</num>
+      <heading>PROHIBITED LEFT TURN—VIOLATION.</heading>
+      <text>When authorized signs are erected giving notice thereof, no vehicle shall be turned to the left in violation of the directions contained on such signs. (Prior code § 73.19)</text>
+    </section>
+    <section>
+      <num>11.16.030</num>
+      <heading>TURNING MARKERS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The City Manager may place markers, buttons or signs within, or adjacent to, intersections, indicating the course to be traveled by vehicles turning at such intersections.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>When authorized markers, buttons or other indications are placed within an intersection indicating the course to be traveled by vehicles turning thereat, no driver of a vehicle shall disobey the directions of such indications. (Prior code § 73.20)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.16.040</num>
+      <heading>U TURNS.</heading>
+      <text>No vehicle shall be turned at any time at any intersection in the central traffic district or in any business district in a complete circle or in such manner as to proceed in the opposite direction upon the street upon which such vehicle is traveling at the time of entering such intersection, when signs are erected giving notice thereof. (Prior code § 73.21)</text>
+    </section>
+    <section>
+      <num>11.16.050</num>
+      <heading>STOP SIGN INSTALLATION OR REMOVAL.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Stop Sign Installation. Whenever the Public Works Director determines that an intersection meets the warrant policy established by City Council resolution, the Public Works Director may erect and maintain stop signs at the intersection pursuant to the warrant policy.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Stop Sign Removal. Whenever the Public Works Director determines that an intersection no longer meets the warrant policy established by resolution of the City Council, the Public Works Director may remove stop signs at the intersection pursuant to the warrant policy and following a public works commission decision to authorize removal. (Ord. 2009-3 § 1, 2009; Ord. 1985-6 § 2, 1985; prior code § 73.24)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.16.060</num>
+      <heading>APPEALS OF STOP SIGN INSTALLATION OR REMOVAL DECISIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Public works director decision. Any person may appeal a decision of the Public Works Director made under Section 11.16.050(a) to the public works commission by filing a written appeal with the public works department no more than ten calendar days after the City provides written notice of intent to install or remove stop signs. The public works commission shall hold a hearing on the appeal and determine whether the proposed stop sign meets the warrant policy described in Section 11.16.050. Notice shall be given in accordance with Section 11.16.070. At the hearing, the public works commission shall receive testimony and reports and determine whether the safety of, and benefit to, the neighborhood indicate the need for a stop sign at the requested location. The public works commission may approve, disapprove, or modify the decision of the Public Works Director. The public works commission may only authorize the installation of a stop sign previously denied by the Public Works Director if it makes each of the following findings:</text>
+        <para>
+          <num>(1)</num>
+          <text>Installation of the stop sign will not prevent the street from operating consistently with its functional classification level (arterial, collector or local street) as defined in the General Plan Circulation Element.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Installation of the stop sign will not unduly restrict the delivery of emergency services to the surrounding neighborhood.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Installation of the stop sign will not create any potentially hazardous conflicts with driveways near the intersection.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Installation of a stop sign will not create any significant queuing at the intersection.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Installation of a stop sign is not expected to result in additional accidents at the intersection.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>The installation of a stop sign will not adversely affect any adjacent controlled intersection.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>There are no other feasible methods to successfully address the traffic issues associated with the request for the stop sign.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Public works commission decision. Any person may appeal any decision of the public works commission to the City Council by filing a written appeal with the City Clerk no more than ten calendar days after the decision. Notice shall be given in accordance with Section 11.16.070. The City Council may approve, disapprove, or modify the decision of the public works commission. The decision of the City Council is final. (Ord. 2009-3 § 1, 2009; Ord. 1985-6 § 3, 1985; prior code § 73.25)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.16.070</num>
+      <heading>REQUIRED NOTICING FOR STOP SIGN INSTALLATION OR REMOVAL.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Public Works Director Decision. Any decision to approve or deny a request for the installation of a stop sign made by the Public Works Director shall be mailed to all residents/property owners and businesses within 500 feet of the affected intersection, the local homeowner's association, and the united homeowner's association.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Public Works Commission Decision. Any public hearing held to review a stop sign removal request, or appeal to the public works commission regarding the installation of a stop sign will be noticed by mail at least ten calendar days before the hearing to all residents/property owners and businesses within 500 feet of the affected intersection, the local homeowner's association, and the united homeowner's association. Notice of the hearing will be published at least once no less than ten calendar days before the hearing in a newspaper of general circulation in the City.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>City Council Decision. Any appeal to the City Council regarding the installation or denial of a stop sign will be noticed by mail at least ten calendar days before the hearing to all residents/property owners and businesses within 500 feet of the affected intersection, the local homeowner's association, and the united homeowner's association. Notice of the hearing will be published at least once no less than ten calendar days before the hearing in a newspaper of general circulation in the City. (Ord. 2009-3 § 1, 2009; Ord. 1985-6 § 4, 1985)</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.20</num>
+    <heading>TRAFFIC—CONTROL DEVICES</heading>
+    <annotation>For the statutory provisions regarding the erection and maintenance of traffic control devices, see Cal. Veh. C.A. § 21350 et seq. For the provisions regarding the description of traffic control devices see Cal. Veh. C.A. § 21400 et seq. For the provisions relating to traffic control devices see Cal. Veh. C.A. § 21450 et seq.</annotation>
+    <section>
+      <num>11.20.010</num>
+      <heading>ERECTION AUTHORITY.</heading>
+      <text>The City Manager shall have the exclusive power and duty to place and maintain, or cause to be placed and maintained, official traffic control devices, when and as required under this title, and may place and maintain such additional traffic control devices as he or she may deem necessary to regulate traffic under this title or under State law, or to guide or warn traffic. (Prior code § 73.11)</text>
+    </section>
+    <section>
+      <num>11.20.020</num>
+      <heading>SIGNAL INSTALLATION—SAFETY ZONE ESTABLISHMENT—TRAFFIC LANE ESTABLISHMENT.</heading>
+      <text>The City Manager is authorized:</text>
+      <para>
+        <num>(1)</num>
+        <text>To install and maintain official traffic signals at such intersections and other places as he or she may deem necessary for the regulation of traffic;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>To establish safety zones at such places as he or she may deem necessary for the protection of pedestrians;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>To mark lanes for traffic on street pavements at such places as he or she may deem advisable, consistent with the vehicle code and traffic ordinances of this city. (Prior code § 73.12)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.20.030</num>
+      <heading>OBEDIENCE REQUIRED.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The driver of a vehicle, the person in charge of animals and the motorman of a streetcar, shall obey the instructions of any official traffic control device applicable thereto placed in accordance with this title unless otherwise directed by a police officer, subject to the exemption granted by Section 11.04.050.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The driver of a vehicle, the person in charge of an animal, and the motorman of a streetcar, shall obey the instructions on any barrier or sign erected by any of the public departments of city or public utilities in city, or by any other person, pursuant to law. (Prior code § 73.13)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.20.040</num>
+      <heading>SIGNS REQUIRED.</heading>
+      <text>No provision of this title, by which signs or markings are required, shall be enforced against an alleged violator if, at the time and place of the alleged violation, an official sign or marking shall not have been in place and sufficiently legible and visible to be seen by an ordinarily observant person. (Prior code § 73.14)</text>
+    </section>
+    <section>
+      <num>11.20.050</num>
+      <heading>FLASHING SIGNALS.</heading>
+      <text>When a yellow lens is illuminated with rapid intermittent flashes, drivers of vehicles may proceed through the intersection or past such signal only with added caution. (Prior code § 73.16)</text>
+    </section>
+    <section>
+      <num>11.20.060</num>
+      <heading>PUSH BUTTON SIGNALS.</heading>
+      <text>No person shall operate a pedestrian push button signal other than a pedestrian for the purpose of immediately crossing the roadway. (Prior code § 73.17)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.24</num>
+    <heading>ONE-WAY STREETS AND ALLEYS</heading>
+    <section>
+      <num>11.24.010</num>
+      <heading>SIGNS REQUIRED.</heading>
+      <text>Whenever any ordinance of this city designates any one-way street or alley, the City Manager shall place and maintain signs giving notice thereof, and no such regulations shall be effective unless such signs shall have been in place. Signs indicating the direction of lawful traffic movement shall be placed at every intersection where movement of traffic in the opposite direction has been prohibited. (Prior code § 73.22)</text>
+    </section>
+    <section>
+      <num>11.24.020</num>
+      <heading>DRIVING REGULATIONS.</heading>
+      <text>Whenever signs are erected on one-way streets or in any alley giving notice thereof, no person shall drive any vehicle in a direction contrary thereto. (Prior code § 73.23)</text>
+    </section>
+    <section>
+      <num>11.24.030</num>
+      <heading>SCHEDULE.</heading>
+      <text>In accordance with Section 11.24.020, and when signs are erected giving notice thereof, traffic shall move only in the direction stated, on the following streets, or portions of streets, namely:</text>
+      <para proof="true">
+        <num>(2)</num>
+        <text>Railroad Avenue, west of the Southern Pacific right-of-way, from Third Avenue to Fifth Avenue, in a southerly direction;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Railroad Avenue, east of the Southern Pacific right-of-way, from First Avenue to Fifth Avenue, in a northerly direction;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>That certain unnamed alleyway between Dartmouth Road on the west and Arroyo Court on the east, and between Third Avenue on the south and Arroyo Court on the north, in an easterly direction;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>That certain unnamed alleyway, located between Second Avenue on the north, Third Avenue on the south, El Camino Real on the west and San Mateo Drive on the east, in an easterly direction;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Railroad Avenue, west of the Southern Pacific right-of-way, between Fifth Avenue and Ninth Avenue, in a southerly direction;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Railroad Avenue, east of the Southern Pacific right-of-way, from First Avenue to Monte Diablo Avenue, in a northerly direction;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Third Avenue from Idaho Street to Delaware Street, in a westerly direction;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Fourth Avenue from Delaware Street to Idaho Street, in an easterly direction;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>That certain service road, the centerline of which is located approximately 60 feet westerly of the centerline of El Camino Real in a southerly direction for a distance of approximately 240 feet south from its intersection with Hillsdale Boulevard, and in a northerly directly for a distance of approximately 165 feet north from said intersection to the intersection of said service road with Hillsdale Boulevard;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>The northerly service road of Peninsula Avenue, between North Bayshore Boulevard and North Humboldt Street in a westerly direction, and the southerly service road of Peninsula Avenue between North Humboldt Street and North Bayshore Boulevard in an easterly direction;</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>The easterly service road of El Camino Real between Thirty-sixth Avenue and Thirty-first Avenue in a northerly direction, and the westerly service road of El Camino Real between Thirty-first Avenue and Thirty-sixth Avenue in a southerly direction;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>The unnamed alley running from Lindbergh Street to Norfolk Street, between Second Avenue and Third Avenue, in an easterly direction;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>Notre Dame Avenue from El Camino Real to Maple Street, in a westerly direction;</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>The unnamed alley running from Second Avenue to Cypress Avenue, between Bayshore Boulevard and South Kingston Street, in a northerly direction. (Ord. 2015-9 § 3; Ord. 1982-33 § 1; Ord. 1982-23 § 1; Ord. 1971-39 § 1; prior code § 73.109)</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.28</num>
+    <heading>RESTRICTED USE OF STREETS</heading>
+    <annotation>For statutory provisions regarding size, weight and load restrictions see Cal. Veh. C.A. § 35000 et seq. For the statutory authority of cities to set by ordinance a maximum gross weight allowable on certain streets see Cal. Veh. C.A. § 35701.</annotation>
+    <section>
+      <num>11.28.010</num>
+      <heading>CENTRAL TRAFFIC DISTRICT—PROHIBITED VEHICLES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>No person shall operate any of the following vehicles in the central traffic district between the hours of ten a.m. and six p.m. of any day:</text>
+        <para>
+          <num>(1)</num>
+          <text>Any freight vehicle more than eight and one-half feet in width, with load, or any freight vehicle so loaded that any part of its load extends more than twenty feet to the front or rear of such vehicle;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any vehicle carrying building material that has not been loaded, or is not to be unloaded, at some point within the central traffic district;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Any freight vehicle with a trailer;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any vehicle conveying refuse, rubbish or garbage;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Any vehicle carrying crude or fuel oil.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Provided that, the Chief of Police may by written permit authorize the operation of any such vehicle for the purpose of making necessary emergency deliveries to or from points within the central traffic district. (Ord. 1977-8 § 3, 1977; prior code § 73.33)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.28.020</num>
+      <heading>CENTRAL TRAFFIC DISTRICT—ANIMAL-DRAWN VEHICLES.</heading>
+      <text>No person shall drive any animal-drawn vehicle into or within the central traffic district at any time, except when it is a part of a parade held and conducted with a city permit. (Ord. 1977-8 § 4, 1977; prior code § 73.37)</text>
+    </section>
+    <section>
+      <num>11.28.030</num>
+      <heading>DEFINITIONS.</heading>
+      <text><strong>City Manager</strong> means the City Manager or designee.</text>
+      <text><strong>GVWR</strong> means gross vehicle weight rating. A gross vehicle weight rating (GVWR) is the maximum allowable total weight of a road vehicle or trailer that is loaded, including the weight of the vehicle itself plus fuel, passengers, cargo, and trailer tongue weight. (Ord. 2008-10 § 2, 2008)</text>
+    </section>
+    <section>
+      <num>11.28.032</num>
+      <heading>TRUCK ROUTES.</heading>
+      <text>No person shall operate any vehicle having a gross weight in excess of five tons (GVWR) on any street in the City except on those streets specified in this chapter and subject to the exceptions provided in Section 11.28.040. (Ord. 2008-10 § 2, 2008)</text>
+    </section>
+    <section>
+      <num>11.28.034</num>
+      <heading>DESIGNATION OF TRUCK ROUTES.</heading>
+      <text>Whenever any provision of this code designates or describes any street, or streets, or portions thereof, as a street, or streets, the use of which is permitted by vehicles exceeding the maximum gross weight of five tons (GVWR), the City Manager shall designate such street, or streets, or portions thereof, by signs identifying truck routes and may also designate streets on which trucks are prohibited. (Ord. 2008-10 § 2, 2008)</text>
+    </section>
+    <section>
+      <num>11.28.036</num>
+      <heading>TRUCK ROUTES—SCHEDULE.</heading>
+      <text>The following are designated as streets the use of which is permitted to any vehicle exceeding the maximum gross weight of five (5) tons (GVWR):</text>
+      <text>o	US 101 (Bayshore Freeway)</text>
+      <text>o	State Route 82 (El Camino Real)</text>
+      <text>o	State Route 92 (J. Arthur Younger Freeway)</text>
+      <text>o	2nd Avenue between South Humboldt Street and North Amphlett Boulevard</text>
+      <text>o	East 3rd Avenue (J. Hart Clinton) from the easterly city limits to US 101 (between the hours of eight-thirty a.m. to four-thirty p.m. eastbound)</text>
+      <text>o	East 3rd Avenue between US 101 and South Claremont Street</text>
+      <text>o	East 4th Avenue between US 101 and South Claremont Street</text>
+      <text>o	9th Avenue between El Camino Real and South Claremont Street</text>
+      <text>o	19th Avenue between South Delaware Street and Fashion Island Boulevard</text>
+      <text>o	East 25th Avenue between El Camino Real and South Delaware Street</text>
+      <text>o	28th Avenue between Edison Street and El Camino Real</text>
+      <text>o	37th Avenue between El Camino Real and Edison Street</text>
+      <text>o	Bridgepointe Parkway between Baker Way and Bridgepointe Circle</text>
+      <text>o	South Claremont Street between 3rd Avenue and 9th Avenue</text>
+      <text>o	Concar Drive between Westbound SR 92 Ramps and Grant Street</text>
+      <text>o	South Delaware Street between Garvey Way and 25th Avenue</text>
+      <text>o	Edison Street between 28th Avenue and the Hillsdale Shopping Center</text>
+      <text>o	Fashion Island Boulevard between 19th Avenue and Baker Way</text>
+      <text>o	Franklin Parkway between US 101 and Saratoga Drive</text>
+      <text>o	East Hillsdale Boulevard between El Camino Real and US 101</text>
+      <text>o	East Hillsdale Boulevard between US 101 and easterly city limit</text>
+      <text>o	South Humboldt Street between 2nd Avenue and 4th Avenue</text>
+      <text>o	Kehoe Avenue between Northbound US 101 Ramps and South Norfolk Street (between the hours of six a.m. to six p.m. Monday through Friday)</text>
+      <text>o	Mariner's Island Boulevard between Eastbound SR 92 Ramps and Fashion Island Boulevard</text>
+      <text>o	South Norfolk Street between East 3rd Avenue and Fashion Island Boulevard (between the hours of six a.m. to six p.m. Monday through Friday)</text>
+      <text>o	The southerly side of Peninsula Avenue, between Bayshore Freeway and El Camino Real</text>
+      <text>o	East Poplar Avenue between Southbound US 101 Ramps and Amphlett Boulevard Street</text>
+      <text>o	Saratoga Drive between Franklin Parkway and East Hillsdale Boulevard</text>
+      <text>(Ord. 2011-4 § 1, 2011; Ord. 2008-10 § 2, 2008)</text>
+    </section>
+    <section>
+      <num>11.28.038</num>
+      <heading>TRUCK ROUTE—EXEMPTIONS.</heading>
+      <text>The following are exempt from the provisions of this chapter:</text>
+      <para>
+        <num>(a)</num>
+        <text>Emergency vehicles.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Passenger buses under the jurisdiction of the Public Utilities Commission so long as they do not deviate from their established bus route.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Garbage/recycling trucks and street sweepers operating on their established routes. (Ord. 2008-10 § 2, 2008)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.28.040</num>
+      <heading>TRUCK ROUTE—EXCEPTIONS.</heading>
+      <text>When any such truck route or routes are established and designated by appropriate signs, the operator of any vehicle exceeding a maximum gross weight limit of five tons (GVWR), shall drive on such route or routes and none other, except for the following so long as they deviate from the truck route only at the intersection with the street nearest to the destination point:</text>
+      <para>
+        <num>(a)</num>
+        <text>Vehicles traversing another street or streets for the purpose of making pickups or deliveries of goods, wares and merchandise from or to any building or structure located on a restricted street or streets.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Vehicles delivering materials to be used in the maintenance, repair, alteration, remodeling or construction of any building or structure upon such restricted street, for which a building permit has been previously obtained.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any vehicle owned by a public utility while necessarily in use in the construction, installation, maintenance or repair of any public utility.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Tow trucks or moving vans providing a service on a street. (Ord. 2008-10 § 2, 2008)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.28.080</num>
+      <heading>SKATEBOARDS AND BICYCLES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Skateboards and In-line Skates. It is unlawful for any person upon or riding on or by means of a skateboard or in-line skates to go upon any public street or alley within the central traffic district as defined in Section 11.08.030 of the City of San Mateo Municipal Code, or in, upon or around City parking lots and structures, when appropriate signs giving notice thereof have been erected or painted on the pavement surface, except that such activity may be permitted if it is sponsored, operated and controlled by the City's recreation department. For purposes of this ordinance, the public streets and alleys include the public sidewalks located on either side of those streets or alleys or which exist in the median strips or any other location within the central traffic district.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Bicycles. It is unlawful for any person to operate a bicycle in, upon or around the inclined surfaces of city parking structures, excepting when necessary to utilize said structure for parking, when appropriate signs giving notice thereof have been erected. (Ord. 1998-25 § 1, 1998; Ord. 1998-19 § 1, 1998; Ord. 1975-34 § 1, 1975)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.28.090</num>
+      <heading>SKATEBOARDS AND IN-LINE SKATES IN 42ND AVENUE AREA.</heading>
+      <text>It is unlawful for any person upon or riding on or by means of a skateboard or in-line skates to go upon any public street or alley within the area bounded by 43rd Avenue, Olympic Avenue, Picadilly Lane, 41st Avenue and El Camino Real within the City of San Mateo, excluding any portion of El Camino Real itself and the sidewalks appurtenant thereto, when appropriate signs giving notice thereof have been erected or painted on the pavement surface. For purposes of this ordinance, the public streets and alleys include the public sidewalks located on either side of those streets or alleys or which exist in the median strips or in any other location within the area boundaries. (Ord. 1998-24 § 1, 1998; Ord. 1998-18 § 1, 1998)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.32</num>
+    <heading>STOPPING, STANDING AND PARKING</heading>
+    <annotation>For the statutory provisions regarding stopping, standing and parking see Cal. Veh. C. § 22500 et seq. For the provisions regarding the authority of local regulation by ordinance to prohibit or restrict the parking or standing of vehicles on certain streets or portions thereof during all or certain hours of the day see Cal. Veh. C. §§ 220507.5.</annotation>
+    <section>
+      <num>11.32.010</num>
+      <heading>APPLICABILITY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The provisions of this title prohibiting the stopping, standing or parking of a vehicle shall apply at all times, or at those times herein specified, except when it is necessary to stop a vehicle to avoid conflict with other traffic, or in compliance with the directions of a police officer or official traffic control device.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The provisions of this title imposing a time limit on standing or parking shall not relieve any person from the duty to observe other and more restrictive provisions hereof, or of law prohibiting or limiting the standing or parking of vehicles in specified places, or at specified times. (Prior code § 73.70)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.32.020</num>
+      <heading>DEFINITIONS.</heading>
+      <text>The following words and phrases, whenever used in Section 11.32.030, shall be construed as defined in this section:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Commercial vehicle" shall have the meaning set forth in State Vehicle Code Section 260.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Motor truck" means a motor vehicle designed, used or maintained primarily for the transportation of property.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Oversized vehicle" means a vehicle which meets one or more of the following criteria:</text>
+        <para>
+          <num>(1)</num>
+          <text>Vehicle (including load height, if any) exceeds seven and one-half feet; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Vehicle, (including load width, if any) exceeds seven and one-half feet, as measured from the widest portion of the vehicle or load, but not including mirrors; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Vehicle, (including load length, if any) exceeds 22 feet (in combination with any attached trailers); or</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Manufacturer's gross vehicle weight rating exceeds 10,000 pounds.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Passenger stage" means every stage, auto stage or other motor vehicle, used in the transportation of persons, or persons and their baggage or express, when such baggage or express is transported incidentally to the transportation of the passengers, excepting motor vehicles of the pleasure type designed for carrying not more than seven persons.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Recreational vehicle" shall have the meaning set forth in Health and Safety Code Section 18010.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Street" or "highway" means a way or place of whatever nature, publicly maintained and open to the use of the public for purposes of vehicular travel.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Trailer" shall have the meaning set forth in Vehicle Code Section 630.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>"Vehicle" shall have the meaning set forth in Vehicle Code Section 670. (Ord. 2013-8 § 1; prior code § 73.104)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.32.030</num>
+      <heading>REGULATIONS.</heading>
+      <text>No person shall stop, stand or park a motor truck or passenger stage on any street or highway in this City for any purpose other than the loading or unloading of passengers or materials; provided that the loading or unloading of passengers shall not consume more than five minutes, and the loading or unloading of materials more than 30 minutes. (Prior code § 73.105)</text>
+    </section>
+    <section>
+      <num>11.32.040</num>
+      <heading>PROHIBITED—NO SIGNS REQUIRED.</heading>
+      <text>No person shall stop, stand or park a vehicle in any of the following places:</text>
+      <para>
+        <num>(a)</num>
+        <text>Within any tunnel or upon any bridge, viaduct or approach thereto;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Within any parkway. (Prior code § 73.71)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.32.050</num>
+      <heading>PROHIBITED—IF DIRECTOR OF PUBLIC WORKS ERECTS SIGNS.</heading>
+      <text>The Director of Public Works or designee is authorized to sign or mark the following places and, when so signed or marked, no person shall stop, stand or park a vehicle:</text>
+      <para>
+        <num>(a)</num>
+        <text>Between a safety zone and the nearest curb and any place within 20 feet of a point on the curb immediately opposite the midblock end of a safety zone;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Within 30 feet of an intersecting roadway in the central traffic district, or in any business district, except that a bus may stop at a designated bus stop;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Within 100 feet of any intersection if the vehicle (including any load thereon) is six feet or more in height. (Ord. 2005-5 § 2; Ord. 1985-7 § 1; prior code § 73.72)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.32.060</num>
+      <heading>PROHIBITED—DIRECTOR OF PUBLIC WORKS MAY ERECT SIGNS.</heading>
+      <text>The Director of Public Works or designee may sign or mark the following places and when they shall have been so signed or marked, no person shall stop, stand or park a vehicle in any of such places:</text>
+      <para>
+        <num>(a)</num>
+        <text>At any place within 30 feet of an intersection other than hereinbefore mentioned;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Within 25 feet of the approach to the nearest line of a crosswalk;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>At any place between the portal of a tunnel and the nearest street intersection. (Ord. 2005-5 § 3; prior code § 73.73)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.32.070</num>
+      <heading>CURB MARKINGS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Director of Public Works or designee is authorized, subject to the provisions and limitations of this title, to place, and when required herein, shall place, the following curb markings to indicate parking or standing regulations and such curb markings shall have the meanings as herein set forth:</text>
+        <para>
+          <num>(1)</num>
+          <text>Red means no stopping, standing or parking at any time, except that a bus may stop in a red zone marked or signed as a bus zone;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Yellow means no stopping, standing, or parking at any time between 7:00 a.m. and 6:00 p.m. of any day except Sunday for any purpose other than the loading or unloading of passengers or materials; provided, that, the loading or unloading of passengers shall not consume more than three minutes, nor the loading or unloading of materials more than 20 minutes;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>White means no stopping, standing or parking for any purpose other than loading or unloading of passengers which shall not exceed three minutes and such restrictions shall apply between 7:00 a.m. and 6:00 p.m. of any day except Sunday and except as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>When such zone is in front of a hotel the restrictions shall apply at all times,</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>When such zone is in front of a theater the restrictions shall apply at all times except when such theater is closed;</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Green means no standing or parking for longer than 20 minutes at any time between 7:00 a.m. and 6:00 p.m. of any day except Sunday;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Blue means no standing or parking except by vehicles which display a distinguishing license plate or a placard issued pursuant to Section 2251.5 ("Disabled Persons' Exemption"), or Section 9105 ("Disabled or Blind Veterans"), of the California Vehicle Code.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>When the Director of Public Works or designee, as authorized hereunder, has caused curb markings to be placed, no person shall stop, stand or park a vehicle adjacent to any such legible curb marking in violation of any of the provisions of this section. (Ord. 2005-5 § 4; Ord. 1981-30 § 1; prior code § 73.74)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.32.075</num>
+      <heading>REQUESTING THAT MOTOR VEHICLES STOP, STAND, OR PARK IN PLACES WHERE STOPPING, STANDING, OR PARKING IS PROHIBITED.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It is unlawful for any person to request that a moving vehicle stop, stand, or park at a place where stopping, standing, or parking is prohibited.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It is unlawful for any person to enter a motor vehicle from a place where stopping, standing, or parking is illegal. (Ord. 2003-8 § 1)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.32.090</num>
+      <heading>MOVING A PARKED VEHICLE TO AVOID PARKING TIME LIMIT.</heading>
+      <text>For the purpose of the regulations contained in this title relating to limitations on stopping, standing and parking, any vehicle moved a distance of less than one-tenth of a mile during the limited parking period shall be deemed to have remained stationary. (Ord. 2005-5 § 5; Ord. 1989-44 § 1)</text>
+    </section>
+    <section>
+      <num>11.32.100</num>
+      <heading>PARKING OF COMMERCIAL VEHICLES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>In areas which are zoned residential, it is: (1) unlawful for any person to park or store any commercial vehicle on any public street, road, alley, or other public property; and (2) unlawful for any person to park or store, or for the private property owner or occupant to permit the parking or storage of, any commercial vehicle on private property, unless it is within a fully enclosed garage.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Private Property Exception. Ambulances, tow trucks, and other commercial vehicles that are used for life-safety emergency purposes on a 24-hour basis and which park on private property.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Private and Public Property Exception. Vehicles engaged in the delivery or pickup of goods, or vehicles engaged in the delivery of materials to be used in actual bona fide repair, alteration, remodeling, or construction of any building or structure for which a building permit has previously been obtained or for the purpose of public works projects. (Ord. 1996-2 § 1)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.32.105</num>
+      <heading>PARKING OF OVERSIZED VEHICLES AND TRAILERS UNCONNECTED TO VEHICLES.</heading>
+      <text>In residential zones, it is unlawful for any person to park an oversized vehicle or trailer unconnected to a vehicle on any public street. The Public Works Director, or designee, shall place signage on streets sufficient to give adequate notice of this prohibition.</text>
+      <para>
+        <num>(a)</num>
+        <text>Exceptions for Oversized Vehicles. This section shall not prohibit the parking of oversized vehicles or recreational vehicles on public streets for any of the following activities:</text>
+        <para>
+          <num>(1)</num>
+          <text>Loading or unloading of persons or property;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Service to a property in the vicinity;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Emergency repairs or waiting for a tow operator for no longer than eight hours;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Response to a public emergency by any emergency vehicle of any political subdivision of the State of California; or</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Wheelchair-accessible vans.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Additional Exception for Recreational Vehicles. This section shall not prohibit the overnight parking of recreational vehicles on public streets immediately abutting the owner's residence for no more than 24 consecutive hours twice during any seven-day period. (Ord. 2013-8 § 2)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.32.120</num>
+      <heading>RESIDENTIAL PARKING PERMIT POLICIES AND PROCEDURES.</heading>
+      <text>A Residential Parking Permit Program is hereby approved and authorized for use in all residential districts or appurtenant to any authorized residential use. The excessive parking of nonresident vehicles on residential streets is detrimental to the integrity of the residential neighborhood. The purpose of this section is to avoid such detriment and allow residents to park upon streets in their own neighborhoods. The Director of Public Works is authorized to propose policies and procedures implementing a Residential Parking Permit Program. Those policies and procedures shall be reviewed by the Public Works Commission who shall thereafter make recommendations to the City Council for adoption. Such policies and procedures shall be consistent with the purpose of this chapter. Violations of the Residential Parking Permit Program Policies and Procedures are enforceable in the same manner and to the same extent as are violations of the other provisions of this title. (Ord. 2005-5 § 6)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.36</num>
+    <heading>PARKING METHOD</heading>
+    <annotation>For the statutory provisions regarding the method of parking see Cal. Veh. C. § 22502. For the provision that local authorities may by ordinance permit angle parking see Cal. Veh. C. § 22503.</annotation>
+    <section>
+      <num>11.36.010</num>
+      <heading>PARALLEL PARKING.</heading>
+      <text>No person shall stand or park a vehicle in a roadway other than parallel with the edge of the roadway headed in the direction of traffic, and with the right-hand wheels of the vehicle within eighteen inches of the curbline or edge of the roadway, except as follows:</text>
+      <para>
+        <num>(1)</num>
+        <text>Upon those streets which have been marked or signed by the City Manager for angle parking, upon which streets vehicles shall be parked at the angle to the curb indicated by such marks and signs;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Upon those streets where parking on the left side of roadway or otherwise is specifically provided by resolution. (Prior code § 73.63)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.36.020</num>
+      <heading>ANGLE PARKING.</heading>
+      <text>The City Manager is authorized to determine those streets upon which angle parking is permitted (other than state highways where such parking is prohibited by the State Vehicle Code) and shall indicate all such places by placing white lines upon the surface of the roadway indicating the angle at which parking is permitted:</text>
+      <para>
+        <num>(1)</num>
+        <text>All angle parking shall be made with the right-hand wheel of the vehicle within eighteen inches of the curb line of the street or roadway;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All angle parking shall be made with the forward portion of the vehicle next to the curb line of the street or roadway. (Ord. 1972-37 § 1, 1972; prior code § 73.64)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.36.030</num>
+      <heading>SPECIAL MANNER OF PARKING ON CERTAIN STREETS.</heading>
+      <text>The City Council may by resolution direct the special manner of parking on any streets or alleys in city from time to time as special conditions require. (Prior code § 73.65)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.40</num>
+    <heading>PROHIBITED OR LIMITED PARKING</heading>
+    <annotation>For statutory provisions regarding removal of parked and abandoned vehicles see Cal. Veh. C. § 22650 et seq. For the statutory authority to regulate parking on the streets or portions thereof of the City during all or certain hours of the day see Cal. Veh. C. §§ 22507 and 22507.5. For the provisions authorizing the exercise of reasonable police power to adopt rules by ordinance regarding parking on hills upon grades in excess of three percent in a business or residential district see Cal. Veh. C. § 22509.</annotation>
+    <section>
+      <num>11.40.010</num>
+      <heading>CENTRAL TRAFFIC DISTRICT—PROHIBITED WHEN.</heading>
+      <text>When authorized signs are in place giving notice thereof, no person shall stop, stand or park any vehicle upon any street in the central traffic district between the hours of 4:30 p.m. and 6:00 p.m. of any day except Sunday for any purpose other than the loading or unloading of passengers or materials subject to the limitations of Section 11.48.020. (Ord. 2003-6 § 1; prior code § 73.90)</text>
+    </section>
+    <section>
+      <num>11.40.020</num>
+      <heading>CENTRAL TRAFFIC DISTRICT—LIMITED WHEN.</heading>
+      <text>When authorized signs are in place giving notice thereof, no person shall stop, stand or park any vehicle within the central traffic district between the hours of 7:00 a.m. and 6:00 p.m. of any day except Sunday for a period of time longer than 45 minutes. (Ord. 2003-6 § 1; prior code § 73.91)</text>
+    </section>
+    <section>
+      <num>11.40.030</num>
+      <heading>OTHER BUSINESS DISTRICTS—PARKING LIMITED.</heading>
+      <text>When authorized signs are in place giving notice thereof, no person shall stop, stand or park any vehicles within a business district outside of the central traffic district between the hours of 8:00 a.m. and 6:00 p.m. of any day except Sunday for a period of time longer than two hours. (Ord. 2003-6 § 1; prior code § 73.92)</text>
+    </section>
+    <section>
+      <num>11.40.035</num>
+      <heading>PARKING PROHIBITED ON CERTAIN PUBLIC PROPERTY.</heading>
+      <text>No person shall stop, stand, or park any vehicle upon any City property, including but not limited to lawn, turf, flowers, shrubs, dirt, and the like, except in areas specifically designated or authorized as parking areas and in conformance with the restrictions stated on signs at the parking areas. The following areas are excepted from the foregoing: (1) areas specifically striped for parking; or (2) areas otherwise specifically designated or authorized for parking by signing. For purposes of this section, the term "City property" shall include, but not be limited to, property owned (including easement interests) or leased by the City of San Mateo, including parks, recreation facilities, City Hall, Police and Fire Departments, and library facilities. Streets and highways are not regulated by this provision. (Ord. 2003-6 § 1; Ord. 1996-17 § 1)</text>
+    </section>
+    <section>
+      <num>11.40.040</num>
+      <heading>LIMITATION IN CERTAIN LOCATIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The City Manager may limit or prohibit the stopping, standing, or parking of any vehicle upon any City street or portion thereof owned or operated by the City.</text>
+      </para>
+      <text>Such action may provide that the regulations shall not apply on Sundays and holidays. For the purpose of this section, holidays are defined as:</text>
+      <text>January 1, known as "New Year's Day"</text>
+      <text>The third Monday in January, known as "Dr. Martin Luther King Day"</text>
+      <text>The third Monday in February, known as "Presidents Day"</text>
+      <text>The last Monday in May, known as "Memorial Day"</text>
+      <text>July 4, known as "Independence Day"</text>
+      <text>The first Monday in September, known as "Labor Day"</text>
+      <text>November 11, known as "Veterans Day"</text>
+      <text>Thanksgiving Day</text>
+      <text>December 25, known as "Christmas Day"</text>
+      <text>When authorized signs are in place giving notice thereof, no person shall stop, stand, or park any vehicle except as provided by that action.</text>
+      <para>
+        <num>(b)</num>
+        <text>The City Manager may limit or prohibit the stopping, standing, or parking of any vehicle upon the City Hall motor vehicle parking lots, or on any recreation building, area, or park motor vehicle lot, or on any public library motor vehicle parking lot, or other parking lots owned or operated by the City or a City parking improvement district, or the municipal golf course motor vehicle parking lot.</text>
+      </para>
+      <text>Such action may provide that the regulations shall not apply on Sundays and holidays. For the purpose of this section, holidays are defined as:</text>
+      <text>January 1, known as "New Year's Day"</text>
+      <text>The third Monday in January, known as "Dr. Martin Luther King Day"</text>
+      <text>The third Monday in February, known as "Presidents Day"</text>
+      <text>The last Monday in May, known as "Memorial Day"</text>
+      <text>July 4, known as "Independence Day"</text>
+      <text>The first Monday in September, known as "Labor Day"</text>
+      <text>November 11, known as "Veterans Day"</text>
+      <text>Thanksgiving Day</text>
+      <text>December 25, known as "Christmas Day"</text>
+      <text>When authorized signs are in place giving notice thereof, no person shall stop, stand, or park any vehicle except as provided by that action. (Ord. 2003-6 § 1; Ord. 1992-14 § 3; Ord. 1988-6 § 2; Ord. 1983-4 § 1; Ord. 1981-31 § 1; Ord. 1971-45 § 1; Ord. 1971-24 § 1; prior code § 73.93)</text>
+    </section>
+    <section>
+      <num>11.40.055</num>
+      <heading>PARKING PROHIBITED FOR STREET CLEANING.</heading>
+      <text>No person shall park any vehicle on that side of any street on the days, and between the hours, designated by the City Manager for the purpose of street cleaning, and as posted with signs giving notice of the days, and the hours, of the parking prohibition effective on that side of the street. (Ord. 2003-6 § 1; Ord. 1987-8 § 1)</text>
+    </section>
+    <section>
+      <num>11.40.060</num>
+      <heading>GRADES—CURBING WHEELS REQUIRED.</heading>
+      <text>No person shall stand, or park any vehicle upon any street, the grade of which exceeds five percent without setting the brakes thereon and blocking the wheels of said vehicle by turning them against the curb or by other means. (Ord. 2003-6 § 1; prior code § 73.95)</text>
+    </section>
+    <section>
+      <num>11.40.070</num>
+      <heading>STREET OBSTRUCTION.</heading>
+      <text>No person shall operate, or stand or park any vehicle on any street in such a manner as to obstruct the free use of such street. (Ord. 2003-6 § 1; prior code § 73.96)</text>
+    </section>
+    <section>
+      <num>11.40.080</num>
+      <heading>PEDDLERS—VENDORS—LIMITATION.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Except as otherwise provided in this section, no person shall stand or park any vehicle, wagon or pushcart from which goods, wares, merchandise, fruits, vegetables or foodstuffs are sold, displayed, solicited or offered for sale, or bartered or exchanged, or any lunch wagon or eating car, or vehicle, on any portion of any street within this City, except that such vehicles, wagons or pushcarts may stand or park only at the request of bona fide purchaser of such goods, wares, merchandise, fruits, vegetables or foodstuffs for a period of time not to exceed 10 minutes at any one place. The provisions of this subsection shall not apply to persons delivering such articles upon order of, or by agreement with, a customer from a store or other fixed place of business or distribution.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person shall park or stand on any street any lunch wagon, eating cart or vehicle, or pushcart, from which tamales, peanuts, popcorn, candy, or other articles of food are sold, or offered for sale, without first obtaining a written permit to do so from the City Council, which shall designate the specific location in which such cart shall stand.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No person shall park or stand any vehicle, or wagon, used, or intended to be used, in the transportation of property for hire on any street while awaiting patronage for such vehicle or wagon, without first obtaining a written permit to do so from the City Council, which shall designate the specific location where such vehicle may stand.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Whenever any permit has been granted under the provisions of this section, and a particular location to park or stand has been specified therein, no person shall park or stand any vehicle, wagon, or pushcart on any location other than as designated in such permit. In the event that the holder of any such permit has been convicted in any court of competent jurisdiction of violating any of the provisions of this section, such permit shall be forthwith revoked by the City Council upon the filing of the record of such conviction with the City Council, and no such permit shall thereafter be issued to such person until six months have elapsed from the date of such revocation. (Ord. 2016-4 § 2; Ord. 2003-6 § 1; prior code § 73.97)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.40.090</num>
+      <heading>WASHING VEHICLE ON STREET.</heading>
+      <text>No person shall dust, wipe, wash, or otherwise clean, use, or employ any method of dusting, wiping, washing or otherwise cleaning any vehicle, or portion thereof, while on any street unless such vehicle is owned by, or under the direct control or supervision of, the person doing any of the acts herein enumerated. (Ord. 2003-6 § 1; prior code § 73.98)</text>
+    </section>
+    <section>
+      <num>11.40.100</num>
+      <heading>EMERGENCY PARKING SIGNS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Whenever the City Manager has determined that an emergency traffic congestion is likely to result from the holding of public or private assemblages, gatherings or functions, or for other reasons, the City Manager shall have the power and authority to order temporary signs to be erected or posted indicating that the operation, parking or standing of vehicles is prohibited on such streets and alleys as the City Manager shall direct during the time such temporary signs are in place. Such signs shall remain in place only during the existence of such emergency and the City Manager shall cause such signs to be removed promptly thereafter.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>When signs authorized by the provisions of this section are in place giving notice thereof, no person shall operate, park or stand any vehicle contrary to the directions and provisions of such signs. (Ord. 2003-6 § 1; prior code § 73.99)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.40.110</num>
+      <heading>CONSENT REQUIRED.</heading>
+      <text>It is unlawful for any person to drive upon, or across, or to park, or leave standing or to cause, or permit to drive, park or leave standing, any vehicle upon any property in the City without the consent of the owner or person in control of such property. (Ord. 2003-6 § 1; prior code § 73.118)</text>
+    </section>
+    <section>
+      <num>11.40.120</num>
+      <heading>ILLEGAL PARKING—REMOVAL OR TOWING OF VEHICLE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The owner or person in lawful possession of any private property may, subsequent to giving notice to the Police Department of the City, cause the removal of the vehicle parked on such property to the nearest public garage or other place of safety, if there is displayed in plain view on the property a sign prohibiting public parking and containing the telephone number of the Police Department of the City. The person causing the removal of such vehicle shall comply with the requirements of Chapter 10 of Division 11 (beginning with Section 22650) of the Vehicle Code of the State relating to notice when removing a vehicle from private property.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Pursuant to the authority granted by Section 22651 of the Vehicle Code of the state, any officer of the Police Department of the City or any regularly employed or salaried employee who is engaged in directing traffic or enforcing parking laws and regulations of the City may remove a vehicle from any street, alley or other public way within the City to the nearest public garage or other place of safety, or to a garage designated or maintained by the City, under the following circumstances:</text>
+        <para>
+          <num>(1)</num>
+          <text>When a vehicle is parked or left standing upon a street, alley or other public way, for 72 or more consecutive hours in violation of this section.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When a vehicle is illegally parked on a street, alley, or other public way in violation of any ordinance of the City forbidding standing or parking, and the use of such street, alley, or other public way or portion thereof is necessary for cleaning, repair, or construction of the street, alley, or other public way or the installation of underground utilities, and signs giving notice that such vehicle may be removed, are erected or placed at least twenty-four hours prior to the removal by the authorities of the City pursuant to this section.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Where the use of the street, alley, or other public way or any portion thereof is authorized by the City for purpose other than the normal flow of traffic; or for the movement of equipment, articles or structures of unusual size, and the parking of such vehicle would prohibit or interfere with such use or movement and signs giving notice that such vehicle may be removed, are erected or placed at least 24 hours prior to the removal by the authorities of the City pursuant to this section.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Where any vehicle is parked or left standing when the City has, by ordinance or resolution, prohibited such parking, and signs giving notice of the removal have been posted pursuant to this section.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The owner or person having the right to possession of any vehicle removed pursuant to this section, shall pay all lawful removal, towing and storage charges.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Whenever a vehicle is removed under this section by an employee of the City, the person authorizing such removal shall comply with the California Vehicle Code provisions relating to notice and opportunity for hearing as set forth in Chapter 10 of Division 11 of that Code. (Ord. 2003-6 § 1; Ord. 1980-7 § 1; prior code § 73.119)</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.44</num>
+    <heading>PARKING METERS</heading>
+    <annotation>For the statutory provisions regarding parking meter zones see Cal. Veh. C. § 22508. For provisions relating to temporary removal of meters, see Chapter 17.08.</annotation>
+    <annotation>Prior history: Prior code §§ 74.01, 74.04-74.06, 74.09, 74.12-74.22 and Ords. 1977-1, 1979-16, 1980-14, 1992-14, 1997-13, 2003-6, 2010-11 and 2012-2.</annotation>
+    <section>
+      <num>11.44.010</num>
+      <heading>DEFINITIONS.</heading>
+      <text>The following words when used in this chapter shall be construed as defined in this section:</text>
+      <para>
+        <num>(a)</num>
+        <text>"Central Parking Improvement District" ("CPID") means the CPID assessment district as approved by the City Council in accordance with the Downtown Area Plan.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"Operator" includes every individual who operates a vehicle as its owner or as the agent, employee or permittee of the owner.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"Parking meter" means any device that accepts payment for the use of parking spaces. Such devices include, but are not limited to, parking meters, pay-by-space devices, pay-on-foot devices, and any software application that processes pay-by-phone payments from a mobile phone for the purpose of controlling the period of time a parking space is occupied by any motorized vehicle.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"Premium parking area" means the geographic area bounded to the south by both sides of 4th Avenue from El Camino Real to South B Street; north by both sides of 2nd Avenue from San Mateo Drive to South B Street; to the west by both sides of San Mateo Drive; and to the east by both sides of South B Street.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"Street" means any public street, avenue, road, boulevard, highway, or other public place located in the City and established for the use of vehicles.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>"Value parking area" means the geographic area not included in the "premium area." The following off-street parking facilities are located in the value area: Second and El Camino Garage, Transit Center Garage, Main Street Garage, Tennis Court Garage, and Parking Lots 7, 8, 10, and 11 as identified in the City's Fee Schedule and the Downtown Parking Management Plan.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>"Vehicle" means any device in, upon, or by which any person or property is, or may be, transported upon a street, excepting a device moved exclusively by human power or used exclusively upon stationary rails or tracks. (Ord. 2015-4 § 1)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.44.015</num>
+      <heading>PARKING METER PLACEMENT AND LIMITS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Parking Meter Zones. Parking meters may be placed in any location along the public streets or the City-owned property.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Parking Time Limits. The time limits for each parking meter area and for each meter shall be established by the City Manager or designee and shall apply between the hours of 8:00 a.m. and 6:00 p.m. each day except for Sundays and the holidays set forth in subsection (c).</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Holidays. The holidays excluded and during which the parking specified in this chapter shall not be limited nor the payment of the parking charges collected shall be as follows:</text>
+      </para>
+      <text>January 1, known as "New Year's Day"</text>
+      <text>The third Monday in January, known as "Dr. Martin Luther King Day"</text>
+      <text>The third Monday in February, known as "Presidents Day"</text>
+      <text>The last Monday in May, known as "Memorial Day"</text>
+      <text>July 4, known as "Independence Day"</text>
+      <text>The first Monday in September, known as "Labor Day"</text>
+      <text>November 11, known as "Veterans Day"</text>
+      <text>Thanksgiving Day</text>
+      <text>December 25, known as "Christmas Day"</text>
+      <para>
+        <num>(d)</num>
+        <text>Parking Meter Rates. Rates for parking vehicles in a space regulated by a parking meter shall be as follows:</text>
+      </para>
+      <text>
+        <table>
+          <tr proof="true">
+            <td/>
+            <th>Hour 1</th>
+            <th>Hour 2</th>
+            <th>Hour 3</th>
+          </tr>
+          <tr>
+            <td>Premium On-Street Spaces</td>
+            <td>$1.00</td>
+            <td>$1.00</td>
+            <td>$1.00</td>
+          </tr>
+          <tr>
+            <td>Premium Off-Street Garage (Street Level)</td>
+            <td>$1.00</td>
+            <td>$1.00</td>
+            <td>$1.00</td>
+          </tr>
+          <tr>
+            <td>Premium Off-Street Garage (Other Levels)</td>
+            <td>$0.50 per hour</td>
+            <td>No limit</td>
+          </tr>
+          <tr>
+            <td>Value On-Street Spaces</td>
+            <td>$0.50</td>
+            <td>$0.50</td>
+            <td>$0.50</td>
+          </tr>
+          <tr>
+            <td>Value Off-Street Garages (Street Level)</td>
+            <td>$0.50</td>
+            <td>$0.50</td>
+            <td>$0.50</td>
+          </tr>
+          <tr>
+            <td>Value Off-Street Garages (Other Levels)</td>
+            <td>$0.50 per hour</td>
+            <td>No limit</td>
+          </tr>
+          <tr>
+            <td>Value Off-Street Lots 7 &amp; 8</td>
+            <td>$0.50</td>
+            <td>$0.50</td>
+            <td>$0.50</td>
+          </tr>
+          <tr>
+            <td>Value Off-Street Lots 10 &amp; 11</td>
+            <td>$0.25 per hour</td>
+            <td>No limit</td>
+          </tr>
+          <tr>
+            <th>Credit Card</th>
+            <td>$0.50 minimum</td>
+          </tr>
+        </table>
+      </text>
+      <text>(Ord. 2015-4 § 1)</text>
+    </section>
+    <section>
+      <num>11.44.020</num>
+      <heading>PARKING METER PURCHASE AND INSTALLATION AUTHORITY.</heading>
+      <text>The City Manager or designee is directed to provide for the purchase, acquisition, installation, operation, maintenance, supervision, regulation and use of the parking meters provided for in this chapter, and to maintain such meters in good workable condition. (Ord. 2015-4 § 1)</text>
+    </section>
+    <section>
+      <num>11.44.030</num>
+      <heading>LOCATION.</heading>
+      <text>Parking meters, installed in the parking meter zones, shall be placed upon the curb near the regulated parking space. Each parking meter shall be placed or set in such manner as to show or display by a signal that the regulated parking space is or is not legally in use. Each parking meter installed shall indicate the legal parking time established by the City, and when operated, shall indicate the duration of the period of legal parking, and on expiration of such period shall indicate illegal or overparking. (Ord. 2015-4 § 1)</text>
+    </section>
+    <section>
+      <num>11.44.040</num>
+      <heading>CURB MARKINGS.</heading>
+      <text>The City Manager or designee shall have lines or markings painted or placed upon the curb and/or upon the street near each parking meter for the purpose of designating the parking space for which such meter is to be used and each vehicle parking in the area regulated by that parking meter shall park within the lines or markings so established. No person shall park any vehicle across any such line or marking or park such vehicle in such position that the same is not entirely within the area so designated by such lines or markings. (Ord. 2015-4 § 1)</text>
+    </section>
+    <section>
+      <num>11.44.050</num>
+      <heading>DEPOSIT—REQUIRED—AMOUNT.</heading>
+      <para>
+        <num>(a)</num>
+        <text>When a vehicle is parked in any space regulated by a parking meter, the operator of such vehicle shall, upon entering such parking space, immediately deposit, or cause to be deposited, coinage in such parking meter, and put such meter into operation, and failure to deposit such coinage of the specified value, and put the meter into operation is unlawful. Upon the deposit of such coins and placing such meter in operation, the parking space may be lawfully occupied by such vehicle during the period of parking time which has been prescribed for the part of the street in which such parking space is located. If such vehicle remains parked in any such parking space beyond the parking time limit fixed for such parking space, the parking meter shall indicate such illegal parking and in that event, such vehicle shall be considered as parked overtime, and beyond the period of legal parking time, and the parking of a vehicle overtime or beyond the period of legal parking time in any such part of a street where any such meter is located is a violation of this chapter and punishable as hereinafter set out.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Exception for Commercial Trucks. Commercial trucks may park in the parking zones to load or to unload merchandise, without depositing coins or tokens for a period not to exceed 30 minutes. Should any truck or delivery car be parked longer than 30 minutes, such violator will be given a ticket and classed as a violation, and the regular penalty imposed. (Ord. 2015-4 § 1)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.44.060</num>
+      <heading>REPEAT VIOLATIONS.</heading>
+      <text>If a vehicle receives a second citation for violation of the parking regulations within the same calendar day, and the vehicle was not moved from the parking space between violations, the bail for the second citation shall be increased to that amount as is established upon the schedule of bail for violation of this section. (Ord. 2015-4 § 1)</text>
+    </section>
+    <section>
+      <num>11.44.070</num>
+      <heading>DEFACING UNLAWFUL.</heading>
+      <text>No person shall deface, injure, tamper with, open, or willfully break, destroy, or impair the usefulness of any parking meter installed under the provisions of this chapter. (Ord. 2015-4 § 1)</text>
+    </section>
+    <section>
+      <num>11.44.080</num>
+      <heading>DEPOSIT OF SLUGS UNLAWFUL.</heading>
+      <text>No person shall deposit, or cause to be deposited, in any parking meter, any slugs, devices or metallic substances or any other substitute, for the coins, or specified tokens in lieu of the coins.</text>
+      <text>No person shall deposit coins, tokens or metallic substances indiscriminately in such meter, without the intent, or right to park the motor vehicle which he or she is then operating, at the parking space regulated by such meter. (Ord. 2015-4 § 1)</text>
+    </section>
+    <section>
+      <num>11.44.090</num>
+      <heading>INTERFERENCE WITH ENFORCEMENT UNLAWFUL.</heading>
+      <text>No person shall interfere with, or obstruct in any way, any police officer, traffic enforcement representative, or other officer or employee of this City in their enforcement of the provisions of this title. The removal, obliteration, erasure or concealment of any chalk mark or other distinguishing mark used by any police officer, traffic enforcement representative, or other officer or employee of this City in the performance of their duties to enforce the parking regulations of this title, if done for the purpose of evading the provisions of this title, shall constitute unlawful interference or obstruction of enforcement. (Ord. 2015-4 § 1)</text>
+    </section>
+    <section>
+      <num>11.44.100</num>
+      <heading>POLICE REPORT—PENALTIES.</heading>
+      <text>It shall be the duty of police officers of the City, acting in accordance with instructions issued by Chief of Police, to report:</text>
+      <para>
+        <num>(a)</num>
+        <text>The number of each parking meter which indicates that the vehicle occupying the parking space regulated by such parking meter is, or has been, parking in violation of any of the provisions of this chapter;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The State license number of such vehicle;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The time during which such vehicle is parking in violation of any of the provisions of this chapter;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Any other facts, a knowledge of which is necessary to a thorough understanding of the circumstances attending such violation.</text>
+      </para>
+      <text>Each such police officer shall also attach to such vehicle a notice to the owner or operator thereof that such vehicle has been parked in violation of a provision of this chapter. (Ord. 2015-4 § 1)</text>
+    </section>
+    <section>
+      <num>11.44.110</num>
+      <heading>TEMPORARY PERMITS FOR EXCLUSIVE USE OF METERED PARKING SPACES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Authority. The City Manager or designee is authorized to issue permits which specify particular metered parking spaces for the temporary exclusive use of persons occupying property adjacent to the specified metered parking spaces. A separate permit is required for each space.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Required Application Form Information. The application shall be made on a form provided by the City Manager or designee and shall include the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>Name and address of applicant;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Name and address of person occupying the premises adjacent to the parking space concerned;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The number of the parking meter located at the parking space for which restricted parking is requested;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>A statement of the reasons for the need for such parking restriction;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The estimated hours of the day during which such restriction may be necessary;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Such other relevant information as the City Manager or designee may require; and</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Payment of application fee set forth in the Fee Schedule.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Basis for Approval. The City Manager or designee may issue the permit if the application demonstrates that:</text>
+        <para>
+          <num>(1)</num>
+          <text>There is a need to limit the parking in certain parking areas within the parking meter zone to parking for the purpose of construction, demolition, remodeling, repainting or refurbishing and maintenance of structures or grounds adjoining the meters;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>There is sufficient parking within the area around the spaces requested for exclusive use; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The neighbors or adjacent business will not be negatively impacted by the temporary exclusive use.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Appeal of Temporary Permit Issuance. Any interested person may appeal the issuance of a temporary permit for exclusive use of meter parking spaces.</text>
+      </para>
+      <text>The appeal must be filed within 10 days after the City Manager or designee's decision. If appeal is not filed within 10 days, applicant shall be barred for a period of six months from making further application with reference to the same matter. In taking such appeal, the appellant shall file an appeal in writing within such period of 10 days with the Public Works Commission secretary, who shall set the hearing for the next regular meeting of the Commission. At the appeal hearing, the Commission shall hear all evidence offered by applicant and the City Manager or designee, and may hear other evidence with reference thereto, and may continue such hearing from time to time. At the conclusion of such hearing, the Commission shall make its findings thereon, and if it has found that the action of the City Manager or designee in denying, approving or conditioning the permit was discriminatory against applicant, or if it finds that the granting of such permit with or without conditions, or otherwise will not be injurious to the public health, safety, or welfare, it shall overturn the action of the City Manager and issue the permit. Otherwise, it shall affirm the action of the City Manager or designee and deny the appeal. The decision of the Public Works Commission at such hearing shall be final, and conclusive, and applicant shall be barred for a period of six months after such decision from making further application with reference to the same matter.</text>
+      <para>
+        <num>(e)</num>
+        <text>Signs and Notification.</text>
+        <para>
+          <num>(1)</num>
+          <text>The City Manager or designee will issue and affix the temporary permit to the proper meter post throughout the permit period and shall remove it upon permit expiration or revocation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The City Manager or designee shall forward to the Police Department copies of each permit granted.</text>
+        </para>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Permit Fees. Prior to permit issuance, the person issued a temporary permit for exclusive use of meter parking spaces shall pay a fee in the amount set by resolution of the City Council.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Not a Waiver. A permit allowing temporary exclusive use of metered parking spaces as set forth in this chapter shall not waive the necessity of obtaining any and all other encroachment and/or building permits, or any other permit or license specified as required under other provisions of this code.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Parking Within Permitted Space. It is unlawful for any person to cause, allow, permit or suffer any vehicle operated or controlled by him or her to be parked in any parking space within a parking meter zone while a sign is properly in place on the post for such space indicating that a temporary permit for exclusive use is in effect. Any vehicle found to be improperly occupying any part of a posted parking space shall be cited and may be towed in accordance with Section 11.40.120 of this code.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Revocation. The City Manager or designee may revoke the permit for any of the following reasons:</text>
+        <para>
+          <num>(1)</num>
+          <text>Failure to pay the required fee;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The City Manager or designee determines that the circumstances no longer require the existence of such permit; or</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The permit holder is found to be using the permit for purposes other than for which it was granted. (Ord. 2015-4 § 1)</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>11.44.120</num>
+      <heading>DOWNTOWN PARKING PERMITS.</heading>
+      <text>The City Manager or designee will administer the parking permit program. Permits will be issued by the City or designee and applicable rates established by City Council resolution. Permit parking is only allowed in designated areas in each parking facility or at designated on-street locations. (Ord. 2015-4 § 1)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.48</num>
+    <heading>LOADING AND UNLOADING</heading>
+    <section>
+      <num>11.48.010</num>
+      <heading>LOADING ZONE ESTABLISHMENT AUTHORITY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The City Manager is authorized to determine, and to mark, loading zones, as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>At any place in the central traffic district, or any business district;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Elsewhere, in front of the entrance to any place of business, or in front of any hall or place used for the purpose of public assembly.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In no event shall more than one-half of the total curb length on either side in any block be reserved for loading zone purposes exclusive of the passenger loading zones at the entrances to public theaters.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Loading zones shall be indicated by a yellow paint line stenciled with black letters "loading only," upon the tops of all curbs within such zones.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Passenger loading zones shall be indicated by a white line stenciled with black letters, "passenger loading only," upon the tops of all curbs in said zones. (Prior code § 73.79).</text>
+      </para>
+    </section>
+    <section>
+      <num>11.48.020</num>
+      <heading>EFFECT OF PERMISSION TO LOAD OR UNLOAD.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Permission herein granted to stop or stand a vehicle for purposes of loading or unloading of materials shall apply only to commercial vehicles and shall not extend beyond the time necessary therefor, and in no event for more than twenty minutes..</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The loading or unloading of materials shall apply only to commercial deliveries and to the delivery or pickup of express and parcel post packages and United States mail.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Permission herein granted to stop or park for purposes of loading or unloading passengers includes the loading or unloading of personal baggage but shall not extend beyond the time necessary therefor and in no event for more than three minutes.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Within the total time limits above specified, the provisions of this section shall be enforced so as to accommodate necessary and reasonable loading or unloading, but without permitting abuse of the privileges hereby granted. (Prior code § 73.80).</text>
+      </para>
+    </section>
+    <section>
+      <num>11.48.030</num>
+      <heading>STANDING—IN ALLEY.</heading>
+      <text>No person shall stop, stand or park a vehicle for any purpose other than the loading or unloading of persons or materials in any alley. (Prior code § 73.81).</text>
+    </section>
+    <section>
+      <num>11.48.040</num>
+      <heading>STANDING—LOADING OR UNLOADING ONLY.</heading>
+      <text>When authorized signs or marks are in place giving notice thereof, no person shall stop, stand or park a vehicle for any purpose other than loading or unloading passengers or materials for such time as is permitted herein, in any of the following places:</text>
+      <para>
+        <num>(1)</num>
+        <text>In any yellow loading zone;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Within fifty feet of any entrance to any school, or any other building used for the transaction of governmental business. (Prior code § 73.82).</text>
+      </para>
+    </section>
+    <section>
+      <num>11.48.050</num>
+      <heading>STANDING—IN PASSENGER LOADING ZONE.</heading>
+      <text>No person shall stop, stand or park a vehicle in any passenger loading zone for any purpose other than the loading or unloading of passengers for such time as is specified in Section 11.48.020. (Prior code § 73.83).</text>
+    </section>
+    <section>
+      <num>11.48.060</num>
+      <heading>ADDITIONAL LOADING OR UNLOADING LOCATIONS.</heading>
+      <text>Whenever the City Manager has determined that parking shall be limited, and authorized signs or marks are in place giving notice thereof, no person shall stop, stand or park a vehicle for any purpose other than loading or unloading passengers or materials in any of the following places:</text>
+      <para>
+        <num>(1)</num>
+        <text>At any curb where the grade of the street exceeds twelve percent;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>On any part of a roadway having a width of not more than twenty-five feet;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>In front of any hall or place used for the purpose of public assemblage.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>In front of the entrance to any place in use for business outside of the central traffic district;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>At any other place where the parking of vehicles would result in traffic congestion or particular hazard. (Prior code § 73.84).</text>
+      </para>
+    </section>
+    <section>
+      <num>11.48.070</num>
+      <heading>BUS ZONES.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The City Manager is authorized to establish bus zones opposite curb space, for the loading, and unloading of buses or common carriers of passengers engaged in local transportation, and to determine the location thereof.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No bus zone shall exceed fifty feet in length except that when satisfactory evidence has been presented to the City Manager showing the necessity therefor, city manager may extend bus zones in such places not to exceed one hundred twenty-five feet in length.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No bus zone shall be established opposite, and to the right of a safety zone.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The City Manager shall have painted a red line stenciled with white letters, "no standing," together with the words "bus zone," upon the tops of all curbs and places specified as a bus zone. (Prior code § 73.85).</text>
+      </para>
+    </section>
+    <section>
+      <num>11.48.080</num>
+      <heading>PARKING IN FRONT OF PLACES OF PUBLIC ASSEMBLY.</heading>
+      <text>Except when a vehicle is actually loading or unloading, it is unlawful to stand or park such vehicle immediately in front of any corridor, passageway, exit or door of any theater, school, church or other place of public assembly, during such times as people are assembled therein. (Prior code § 73.86).</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.52</num>
+    <heading>PEDESTRIANS</heading>
+    <annotation>For the statutory provisions regarding the rights and duties of pedestrians see Cal. Veh. C.A. §§ 21950 et seq.</annotation>
+    <section>
+      <num>11.52.010</num>
+      <heading>CROSSWALK—ESTABLISHMENT AUTHORITY.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The City Manager shall establish, designate and maintain crosswalks at intersections, and other places, by appropriate devices, marks or lines upon the surface of the roadway as follows:</text>
+      </para>
+      <text>Crosswalks shall be established and maintained at all intersections within the central traffic district, and at such intersections outside said district, and at other places within or outside said district, where the City Manager determines that there is particular hazard to pedestrians crossing the roadway, subject to the limitation contained in (b).</text>
+      <para>
+        <num>(b)</num>
+        <text>Other than crosswalks at intersections, no crosswalk shall be established in any block which is less than four hundred feet in length. Elsewhere, not more than one additional crosswalk shall be established in any one block, and such crosswalk shall be located as nearly as practicable at midblock. (Prior code § 73.45).</text>
+      </para>
+    </section>
+    <section>
+      <num>11.52.020</num>
+      <heading>CROSSWALK—USE REQUIRED.</heading>
+      <text>No pedestrian shall cross a roadway, other than by a crosswalk, in the central traffic district or in any business district. (Prior code § 73.46).</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.56</num>
+    <heading>BICYCLES</heading>
+    <annotation>For the statutory provisions regarding the regulation of the operation of bicycles, see Veh. Code § 21200 et seq. For the provision granting local authorities the power to provide additional consistent regulations by ordinance, see Veh. Code § 21206.</annotation>
+    <section>
+      <num>11.56.010</num>
+      <heading>LICENSE—REQUIRED—DEFINITION.</heading>
+      <text>No person shall operate or use a bicycle upon any of the streets, alleys, or public highways of the City without first obtaining from the City a license to do so. A "bicycle," for the purposes of this chapter, means any device upon which a person may ride, which is propelled by human power through a system of belts, chains or gears, having either two (2) or three (3) wheels (one (1) of which is at least 20 inches in diameter in tandem or tricycle arrangement) or having a frame size of at least 14 inches, including motorized bicycles. (Ord. 1978-21 § 1; Ord. 1974-15 § 1; prior code § 76.01)</text>
+    </section>
+    <section>
+      <num>11.56.020</num>
+      <heading>LICENSE—ISSUANCE.</heading>
+      <text>Upon written application and payment of the license fee hereinafter specified, the City shall issue a license to the applicant. The license shall entitle the licensee to operate and use the bicycle for which such license was obtained upon the streets in City, except as otherwise herein specified. Such application must be made within 10 days of purchase or other acquisition of ownership. (Ord. 1978-21 § 2; Ord. 1974-15 § 2; prior code § 76.02)</text>
+    </section>
+    <section>
+      <num>11.56.030</num>
+      <heading>LICENSE—REGISTRATION CARD.</heading>
+      <text>The City shall provide licenses, together with registration cards, as provided by the California Department of Motor Vehicles. The license shall be affixed to the front of the seat tube of the bicycle frame of the licensed bicycle during the existence of such license. The City shall keep a record of the date and number of every such license and the name of the person to whom the same was issued. On and after January 1, 1979, all license and registration numbers shall be permanently assigned to the bicycle for which they were originally issued and recorded. (Ord. 1978-21 § 3; Ord. 1974-15 § 3; prior code § 76-03)</text>
+    </section>
+    <section>
+      <num>11.56.040</num>
+      <heading>LICENSE—REMOVAL OR MUTILATION PROHIBITED.</heading>
+      <text>No person shall willfully or maliciously remove, destroy, mutilate or alter any bicycle license or alter any bicycle registration card, or the numbers thereon, during the time in which the same is operative. The Police Department or Fire Department shall stamp numbers on the frames of bicycles on which no serial number can be found, or in which such number is illegible or insufficient for identification purposes.</text>
+      <text>In the event that any bicycle license or registration form issued pursuant to this chapter is lost, stolen, or mutilated, the licensee of such bicycle shall immediately notify the City, and within 10 days after such notification, shall apply to the City for a duplicate license or registration form. Thereupon the City shall issue to such licensee a replacement license or registration form upon payment of the appropriate fee. (Ord. 1978-21 § 4; Ord. 1974-15 § 4; prior code § 76.08)</text>
+    </section>
+    <section>
+      <num>11.56.050</num>
+      <heading>LICENSE FEE.</heading>
+      <text>All owners of bicycles must pay a license fee on obtaining ownership of any bicycle. The fee for licensing, registration and renewal shall be established from time to time by resolution of the City Council. Each license shall expire on the 31st day of December of the third year next succeeding the payment of such fee.</text>
+      <text>The license fee shall be payable for a maximum period of three (3) years following the date of acquisition and ending with the 31st day of December of the third year, after which the license must be renewed if the bicycle is still used.</text>
+      <text>New licenses must be obtained on transfer of ownership of any bicycle by the transferee.</text>
+      <text>All bicycle license fees shall be paid into a special revolving fund to cover the cost of license plates, registration cards, expenses of administration, to improve bicycle safety programs and establish bicycle facilities, including bicycle paths and lanes. (Ord. 1978-21 § 5; Ord. 1974-38 § 1; Ord. 1974-9 § 1; prior code § 76.09)</text>
+    </section>
+    <section>
+      <num>11.56.060</num>
+      <heading>TRANSFER OF OWNERSHIP—CHANGE OF ADDRESS—REPORT.</heading>
+      <text>Every person who sells or transfers ownership of any used or secondhand bicycle shall report such sale or transfer to the City within 10 days thereafter, returning the registration card theretofore issued to him or her, and giving the date of transfer, the name, address, and telephone number of the person to whom such bicycle shall have been sold or transferred. The purchaser or transferee shall apply to the City for a transfer of the registration of such bicycle within 10 days after such sale or transfer. (Ord. 1978-21 § 6; prior code § 76.04)</text>
+    </section>
+    <section>
+      <num>11.56.070</num>
+      <heading>PURCHASE REPORT.</heading>
+      <text>On and after January 1, 1979, all persons engaged in the business of selling new or secondhand bicycles as a bicycle dealer shall supply to each purchaser a registration form provided by the City and shall include, on the sales check or receipt given to the purchaser, the name and address of the seller, year and make of the bicycle, serial number of the bicycle, if delivered in an assembled state, general description of the bicycle, and name and address of the purchaser. A copy of the registration form shall be filled out by the purchaser and filed with the City within 10 days from the date of sale. The seller shall make a report to the City of every secondhand bicycle purchased by them, and every new or secondhand bicycle which they sell. Such report shall contain the same information provided the purchaser as set forth above.</text>
+      <text>All of the foregoing reports shall be made to the City within 10 days after such purchase or sale.</text>
+      <text>For the purposes of this chapter, a "bicycle dealer" is any person who sells, gives away, buys, or takes in trade for the purpose of resale, more than five (5) bicycles in any one (1) calendar year, whether or not such bicycles are owned by such person. "Bicycle dealer" also includes agents or employees of such person. (Ord. 1978-21 § 7; prior code § 76.05)</text>
+    </section>
+    <section>
+      <num>11.56.080</num>
+      <heading>LOST OR STOLEN—POLICE DEPARTMENT NOTIFICATION.</heading>
+      <text>In case any bicycle has been lost or stolen, the owner or person in control thereof shall immediately notify the Police Department. (Prior code § 76.06)</text>
+    </section>
+    <section>
+      <num>11.56.090</num>
+      <heading>RENTAL.</heading>
+      <text>All persons who rent, hire out or loan bicycles shall first obtain a license to be used on each bicycle by paying therefor the regular fee established by Council resolution. (Ord. 1978-21 § 8; Ord. 1974-9 § 2; prior code § 76.07)</text>
+    </section>
+    <section>
+      <num>11.56.100</num>
+      <heading>RIDING—ON ROADWAY OR SIDEWALK.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Any person operating a bicycle upon a roadway at a speed less than the normal speed of traffic moving in the same direction at the time shall ride as close as practicable to the right-hand curb or edge of the roadway except under any of the following situations:</text>
+        <para>
+          <num>(1)</num>
+          <text>When overtaking and passing a vehicle proceeding in the same direction.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When preparing for a left turn at an intersection or into a private road or driveway.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge, subject to the provisions of California Vehicle Code Section 21656. For purposes of this section, a "substandard width lane" is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Any person operating a bicycle upon a roadway of a highway, which highway carries traffic in one direction only and has two (2) or more marked traffic lanes, may ride as near the left-hand curb or edge of that roadway as practicable.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>It is unlawful for any person to ride or operate a bicycle, motor driven cycle or motor scooter upon any sidewalk or upon any overhead pedestrian crossing over any street, roadway, State highway or State freeway that is signed for pedestrian use only within the City. (Ord. 2011-10 § 1; prior code § 76.10)</text>
+      </para>
+    </section>
+    <section>
+      <num>11.56.110</num>
+      <heading>RIDING—ONE PERSON ONLY.</heading>
+      <text>Bicycles designed and constructed to carry only one (1) person shall not be used to carry additional person or persons either on the handlebars thereof or elsewhere thereon. (Prior code § 76.11)</text>
+    </section>
+    <section>
+      <num>11.56.120</num>
+      <heading>RIDING—ON PERMANENT SEAT REQUIRED.</heading>
+      <text>A person operating a motorcycle or bicycle shall not ride other than upon the permanent and regular seat attached thereto, nor carry any other person upon such motorcycle or bicycle, other than upon a firmly attached seat at the rear of the operator, nor shall any person ride upon a motorcycle or bicycle other than as above authorized. (Prior code § 73.29)</text>
+    </section>
+    <section>
+      <num>11.56.130</num>
+      <heading>HOLDING ONTO OR PULLING OTHER VEHICLES PROHIBITED.</heading>
+      <text>No person, while riding any bicycle shall hold on to, or pull, another moving vehicle. (Prior code § 76.12)</text>
+    </section>
+    <section>
+      <num>11.56.140</num>
+      <heading>TRAFFIC SIGNS AND SIGNALS.</heading>
+      <text>Every person riding and operating a bicycle shall obey all traffic signals and signs, and before making turns shall give the same signals that are required of operators of motor vehicles. (Prior code § 76.13)</text>
+    </section>
+    <section>
+      <num>11.56.150</num>
+      <heading>LIGHTS AT NIGHT.</heading>
+      <text>No rider of a bicycle shall ride the same at night without an adequate white headlight on the front thereof and a red light or red reflector on the rear, as required by the Vehicle Code of the State. (Prior code § 76.14)</text>
+    </section>
+    <section>
+      <num>11.56.160</num>
+      <heading>PARKING.</heading>
+      <text>The City Manager shall provide and set up suitable racks adjacent to the curb or gutter at such places in the business districts of the City as he or she may deem advisable for the parking of bicycles by persons who have occasion to stop temporarily in such districts. All bicycles found lying on the sidewalk may be taken up and impounded by the Police Department, whence they may be recovered by proving ownership thereof and obtaining an order from the Chief of Police. (Prior code § 76.15)</text>
+    </section>
+    <section>
+      <num>11.56.170</num>
+      <heading>VIOLATIONS—LICENSING—FINES.</heading>
+      <text>Any person violating the licensing, registering or reporting provisions of this chapter shall be guilty of a public offense. Violations of the provisions of this chapter regulating the use and operation of bicycles upon the streets and public ways of the City shall be the offense prescribed by the California Motor Vehicle Code and punishable as provided therein. (Ord. 2012-2 § 21; Ord. 1978-21 § 9)</text>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.58</num>
+    <heading>ROADWAY SOLICITATION</heading>
+    <section>
+      <num>11.58.010</num>
+      <heading>PURPOSE.</heading>
+      <text>The purpose of this chapter is to address the adverse effects caused by persons congregating along busy city streets to solicit work. This activity has brought increased traffic to already congested areas, causes drivers along these streets to be distracted, and results in vehicles making unsafe stops so the vehicle driver or occupant can discuss employment with workers. Additionally, workers will from time-to-time dart out into the street to solicit employment, creating a safety hazard to themselves and the motoring public. The regulations enacted in this chapter are intended to eliminate these safety hazards. (Ord. 2003-9 § 3, 2003).</text>
+    </section>
+    <section>
+      <num>11.58.020</num>
+      <heading>DEFINITIONS.</heading>
+      <text>As used in this chapter, the following words and phrases shall have the following meaning:</text>
+      <para>
+        <num>(a)</num>
+        <text>"<strong>Employment"</strong> means services, industry, or labor performed by a person for wages, a fixed sum, or other compensation or thing of value, or under any contract or hire, written, oral, express, or implied.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><strong>"Roadway"</strong> means that portion of the public right-of-way designed and ordinarily used for motor vehicle travel. "Roadway" does not include sidewalks, curbs, medians, or other areas adjacent to public streets.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><strong>"Public right-of-way"</strong> means public streets, highways, roadways, and sidewalks, including driveways.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><strong>"Solicit"</strong> means any request, offer, enticement, or action which announces the availability for or of employment, the sale of goods, or a request for money or other property; or any request, offer, enticement or action which shows intent or desire to purchase or secure goods or employment, or to make a contribution of money or other property. Solicitation shall include participation in discussions undertaken in response to the solicitation by another person. A solicitation shall be deemed complete when made whether or not an actual employment relationship is created, a transaction is completed, or an exchange of money or other property takes place. (Ord. 2003-9 § 3, 2003).</text>
+      </para>
+    </section>
+    <section>
+      <num>11.58.030</num>
+      <heading>SOLICITATION PROHIBITED.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It is unlawful for any person occupying any vehicle, whether as a driver or passenger, in any roadway to solicit, or attempt to solicit, any person standing, sitting, walking or riding any non-motorized conveyance, within the public right-of-way.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It is unlawful for any person to solicit the driver or occupant of a vehicle traveling within any roadway when the person making such solicitation is within the roadway. (Ord. 2003-9 § 3, 2003).</text>
+      </para>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11.62</num>
+    <heading>PARKING IN-LIEU FEES</heading>
+    <section>
+      <num>11.62.010</num>
+      <heading>PARKING IN-LIEU FEE.</heading>
+      <text>In the interest of providing an efficient means of providing parking in downtown San Mateo, applicants for planning approval within the Central Parking Improvement District may pay a fee in lieu of providing required parking on the property site in accordance with Title 27 of the municipal code. (Ord. 2015-4 § 2)</text>
+    </section>
+    <section>
+      <num>11.62.020</num>
+      <heading>FEE AMOUNT.</heading>
+      <text>The amount of the parking in-lieu fee shall be set by City Council resolution. (Ord. 2015-4 § 2)</text>
+    </section>
+    <section>
+      <num>11.62.030</num>
+      <heading>PARKING IN-LIEU FEE AGREEMENT REQUIRED.</heading>
+      <text>Execution of a parking in-lieu fee agreement and payment for each required parking space will be accepted by the City in satisfaction of parking space requirements. The parking in-lieu fee payment must be made in full prior to the City's execution of the agreement. (Ord. 2015-4 § 2)</text>
+    </section>
+  </container>
+</container>
