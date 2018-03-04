@@ -11,7 +11,9 @@
     <section>
       <num>2.03.010</num>
       <heading>AGENDA MEETINGS.</heading>
-      <text>By notice stated on the written agenda for a regular or special meeting, an agenda review meeting may be held by the City Council at the time and place so specified. (Ord. 1985-13 § 10; prior code § 8.01).</text>
+      <text>By notice stated on the written agenda for a regular or special meeting, an agenda review meeting may be held by the City Council at the time and place so specified.</text>
+      <annotation doc="Ord. 1985-13" path="§10" type="History"/>
+      <annotation type="History">prior code § 8.01</annotation>
     </section>
   </container>
   <container>
@@ -22,17 +24,20 @@
     <section>
       <num>2.09.010</num>
       <heading>OFFICERS GENERALLY.</heading>
-      <text>The officers of this city shall continue to be those provided for in the City Charter and the duties of such respective officers shall be as provided in said charter, and as set forth in this chapter. (Prior code § 9.01).</text>
+      <text>The officers of this city shall continue to be those provided for in the City Charter and the duties of such respective officers shall be as provided in said charter, and as set forth in this chapter.</text>
+      <annotation type="History">Prior code § 9.01</annotation>
     </section>
     <section>
       <num>2.09.020</num>
       <heading>ADDITIONAL DUTIES OF CITY CLERK.</heading>
-      <text>In addition to the duties imposed upon the City Clerk by the charter, he or she shall be ex officio clerk of the City Council and shall attend all regular or special meetings, adjourned or other, of the Council. (Prior code § 9.15).</text>
+      <text>In addition to the duties imposed upon the City Clerk by the charter, he or she shall be ex officio clerk of the City Council and shall attend all regular or special meetings, adjourned or other, of the Council.</text>
+      <annotation type="History">Prior code § 9.15</annotation>
     </section>
     <section>
       <num>2.09.025</num>
       <heading>CITY ATTORNEY.</heading>
-      <text>The City Attorney shall be appointed by and serve at the pleasure of the Council. The City Attorney may be removed from office by an affirmative vote of a majority of the Council plus one. (Ord. 1985-15 § 1, 1985).</text>
+      <text>The City Attorney shall be appointed by and serve at the pleasure of the Council. The City Attorney may be removed from office by an affirmative vote of a majority of the Council plus one.</text>
+      <annotation doc="Ord. 1985-15" path="§1" type="History"/>
     </section>
   </container>
   <container>
@@ -42,17 +47,20 @@
     <section>
       <num>2.12.010</num>
       <heading>OFFICERS DEFINED.</heading>
-      <text>The elected and appointed officers and members of boards and commissions, whether paid or unpaid, merit system or not, are officers of this city for the purpose of this chapter. (Prior code § 9.50).</text>
+      <text>The elected and appointed officers and members of boards and commissions, whether paid or unpaid, merit system or not, are officers of this city for the purpose of this chapter.</text>
+      <annotation type="History">Prior code § 9.50</annotation>
     </section>
     <section>
       <num>2.12.020</num>
       <heading>PURPOSE OF CHAPTER.</heading>
-      <text>The proper operation of democratic government requires that officers of this city be independent, impartial, and responsible to the people; that public office not be used for personal gain, and that the public have confidence in the integrity of its government. (Prior code § 9.51).</text>
+      <text>The proper operation of democratic government requires that officers of this city be independent, impartial, and responsible to the people; that public office not be used for personal gain, and that the public have confidence in the integrity of its government.</text>
+      <annotation type="History">Prior code § 9.51</annotation>
     </section>
     <section>
       <num>2.12.030</num>
       <heading>OFFICER RESPONSIBILITY.</heading>
-      <text>The officers of this city are agents of public purpose and hold office for the benefit of the people; they are bound to observe in their official acts, the highest standards of morality and to discharge, faithfully, the duties of their office regardless of personal considerations, recognizing that the public interest must be their primary concern. (Prior code § 9.52).</text>
+      <text>The officers of this city are agents of public purpose and hold office for the benefit of the people; they are bound to observe in their official acts, the highest standards of morality and to discharge, faithfully, the duties of their office regardless of personal considerations, recognizing that the public interest must be their primary concern.</text>
+      <annotation type="History">Prior code § 9.52</annotation>
     </section>
     <section>
       <num>2.12.040</num>
@@ -63,8 +71,10 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Special Consideration. No officer shall grant special consideration, treatment or advantage to any citizen beyond that which is available to every other citizen. (Ord. 1985-13 § 15, 1985; prior code § 9.53).</text>
+        <text>Special Consideration. No officer shall grant special consideration, treatment or advantage to any citizen beyond that which is available to every other citizen.</text>
       </para>
+      <annotation doc="Ord. 1985-13" path="§15" type="History"/>
+      <annotation type="History">prior code § 9.53</annotation>
     </section>
   </container>
   <container>
@@ -75,29 +85,35 @@
     <section>
       <num>2.15.010</num>
       <heading>ORGANIZATION—POWERS—DUTIES.</heading>
-      <text>The public library shall be governed by a library board of trustees. There is and shall be a library board of trustees consisting of five members appointed by the City Council with the powers and duties as set forth in Section 6.01 of the Charter of the City and as provided for in this chapter. Each member shall serve at the pleasure of the Council and for a term of four years, or until the appointment and qualification of a successor. (Ord. 1974-26 § 2, 1974; prior code § 10.01).</text>
+      <text>The public library shall be governed by a library board of trustees. There is and shall be a library board of trustees consisting of five members appointed by the City Council with the powers and duties as set forth in Section 6.01 of the Charter of the City and as provided for in this chapter. Each member shall serve at the pleasure of the Council and for a term of four years, or until the appointment and qualification of a successor.</text>
+      <annotation doc="Ord. 1974-26" path="§2" type="History"/>
+      <annotation type="History">prior code § 10.01</annotation>
     </section>
     <section>
       <num>2.15.020</num>
       <heading>RECIPROCAL SERVICE.</heading>
-      <text>The library board of trustees shall review and make recommendations to the City Council on any proposal for participation by the City library on a reciprocal basis with other libraries in a local or regional library system. (Ord. 1974-26 § 2, 1974).</text>
+      <text>The library board of trustees shall review and make recommendations to the City Council on any proposal for participation by the City library on a reciprocal basis with other libraries in a local or regional library system.</text>
+      <annotation doc="Ord. 1974-26" path="§2" type="History"/>
     </section>
     <section>
       <num>2.15.030</num>
       <heading>ACQUISITIONS OF BOOKS AND MATERIALS.</heading>
-      <text>The library board of trustees shall establish, by rules and regulations, the policy for the selection of books, reading, visual, auditory and like materials peculiar to the library in accordance with the contract-purchasing procedure in Chapter 3.60 of this code, and subject to limitations of the budget for such purposes. (Ord. 1974-26 § 2, 1974).</text>
+      <text>The library board of trustees shall establish, by rules and regulations, the policy for the selection of books, reading, visual, auditory and like materials peculiar to the library in accordance with the contract-purchasing procedure in Chapter 3.60 of this code, and subject to limitations of the budget for such purposes.</text>
+      <annotation doc="Ord. 1974-26" path="§2" type="History"/>
     </section>
     <section>
       <num>2.15.040</num>
       <heading>DISPOSAL OF BOOKS AND MATERIALS.</heading>
-      <text>All books and other library materials which are surplus to the needs of the library, as determined by the librarian, may be offered for sale, marked for discard or donated to nonprofit educational, cultural or social service organizations as directed by the library board of trustees. (Ord. 1974-26 § 2, 1974).</text>
+      <text>All books and other library materials which are surplus to the needs of the library, as determined by the librarian, may be offered for sale, marked for discard or donated to nonprofit educational, cultural or social service organizations as directed by the library board of trustees.</text>
+      <annotation doc="Ord. 1974-26" path="§2" type="History"/>
     </section>
     <section>
       <num>2.15.050</num>
       <heading>LIBRARY GIFTS.</heading>
       <text>The library board of trustees may accept gifts other than real property pursuant to Section 6.01 of the San Mateo City Charter, without specific approval of the Council, where no obligation attaches to the City other than the use for the benefit of the library, and if they do not require maintenance or unusual housing, insurance or continual cost to the City.</text>
       <text>Funds received by way of gift or bequest for the use and benefit of the City libraries, where payment into the City treasury is inconsistent with the terms of the gift, shall be deposited in an insured account in a depository approved by the City Manager. They shall be subject to withdrawal therefrom only upon the authorization of the library board at a regular meeting or a special meeting called for that purpose upon the signed authorization of no less than two members of the board. The funds shall be subject to audit by the City auditor from time to time.</text>
-      <text>The library board shall furnish an annual report by June 30th of each year on such fund to the City Council, showing the deposits, receipts, withdrawals and the purposes for which the funds are being pledged and used. (Ord. 1974-26 § 2, 1974).</text>
+      <text>The library board shall furnish an annual report by June 30th of each year on such fund to the City Council, showing the deposits, receipts, withdrawals and the purposes for which the funds are being pledged and used.</text>
+      <annotation doc="Ord. 1974-26" path="§2" type="History"/>
     </section>
   </container>
   <container>
@@ -109,12 +125,23 @@
       <num>2.21.010</num>
       <heading>ORGANIZATION.</heading>
       <text>The Community Relations Commission of the City shall consist of no more than six members appointed by the Council until no later than June 10, 2014, and thereafter shall have five members. In making appointments, the Council shall insure that the persons appointed are representative of the neighborhoods and ethnic communities to be served by the Commission as hereinafter provided.</text>
-      <text>Each member of the Community Relations Commission shall serve at the pleasure of the Council and for a term of four years, or until the appointment and qualification of a successor. No member shall be eligible for reappointment after serving two consecutive four-year terms. (Ord. 2013-2 § 2; Ord. 2006-2 § 1; Ord. 1977-23 § 1; Ord. 1973-18 § 1; Ord. 1972-20 § 1; Ord. 1971-31 § 1; Ord. 1970-39 § 1; prior code § 10.5.01)</text>
+      <text>Each member of the Community Relations Commission shall serve at the pleasure of the Council and for a term of four years, or until the appointment and qualification of a successor. No member shall be eligible for reappointment after serving two consecutive four-year terms.</text>
+      <annotation doc="Ord. 2013-2" path="§2" type="History"/>
+      <annotation doc="Ord. 2006-2" path="§1" type="History"/>
+      <annotation doc="Ord. 1977-23" path="§1" type="History"/>
+      <annotation doc="Ord. 1973-18" path="§1" type="History"/>
+      <annotation doc="Ord. 1972-20" path="§1" type="History"/>
+      <annotation doc="Ord. 1971-31" path="§1" type="History"/>
+      <annotation doc="Ord. 1970-39" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.5.01</annotation>
     </section>
     <section>
       <num>2.21.020</num>
       <heading>MEETINGS.</heading>
-      <text>The Community Relations Commission shall meet within a month of its formation and establish itself by electing a chair and vice-chair to serve at the pleasure of the Commission. The Commission may adopt reasonable rules and regulations for the conduct of its business. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided. (Ord. 2013-2 § 2; Ord. 1977-23 § 1; prior code § 10.5.02)</text>
+      <text>The Community Relations Commission shall meet within a month of its formation and establish itself by electing a chair and vice-chair to serve at the pleasure of the Commission. The Commission may adopt reasonable rules and regulations for the conduct of its business. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided.</text>
+      <annotation doc="Ord. 2013-2" path="§2" type="History"/>
+      <annotation doc="Ord. 1977-23" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.5.02</annotation>
     </section>
     <section>
       <num>2.21.030</num>
@@ -152,17 +179,28 @@
         <num>(h)</num>
         <text>Such other powers and duties as maybe prescribed from time to time by ordinance or resolution of the Council.</text>
       </para>
-      <text>The Community Relations Commission shall make recommendations to the Council to correct, reduce or eliminate existing inequalities and disadvantages and prepare, encourage and coordinate programs of voluntary affirmative action to insure the complete utilization of the human resources of this community for the betterment of all its inhabitants. (Ord. 2013-2 § 2; Ord. 2006-2 § 1; Ord. 1977-23 § 1; Ord. 1973-18 § 2; Ord. 1972-20 § 2; prior code § 10.5.03)</text>
+      <text>The Community Relations Commission shall make recommendations to the Council to correct, reduce or eliminate existing inequalities and disadvantages and prepare, encourage and coordinate programs of voluntary affirmative action to insure the complete utilization of the human resources of this community for the betterment of all its inhabitants.</text>
+      <annotation doc="Ord. 2013-2" path="§2" type="History"/>
+      <annotation doc="Ord. 2006-2" path="§1" type="History"/>
+      <annotation doc="Ord. 1977-23" path="§1" type="History"/>
+      <annotation doc="Ord. 1973-18" path="§2" type="History"/>
+      <annotation doc="Ord. 1972-20" path="§2" type="History"/>
+      <annotation type="History">prior code § 10.5.03</annotation>
     </section>
     <section>
       <num>2.21.040</num>
       <heading>FEDERAL AND STATE LAW.</heading>
-      <text>It is the intent of the Council that the activities of the Community Relations Commission shall not conflict with areas which are the exclusive jurisdiction of the Federal government, the State, or any of its political subdivisions as established by statute. (Ord. 2013-2 § 2; Ord. 2006-2 § 1; Ord. 1977-23 § 1; prior code § 10.5.04)</text>
+      <text>It is the intent of the Council that the activities of the Community Relations Commission shall not conflict with areas which are the exclusive jurisdiction of the Federal government, the State, or any of its political subdivisions as established by statute.</text>
+      <annotation doc="Ord. 2013-2" path="§2" type="History"/>
+      <annotation doc="Ord. 2006-2" path="§1" type="History"/>
+      <annotation doc="Ord. 1977-23" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.5.04</annotation>
     </section>
     <section>
       <num>2.21.050</num>
       <heading>APPEALS.</heading>
-      <text>Decisions of the Community Relations Commission regarding violations of the ordinances on housing maintenance and public nuisances may be appealed to the City Council as set forth in Chapter 7.16. (Ord. 2013-2 § 2)</text>
+      <text>Decisions of the Community Relations Commission regarding violations of the ordinances on housing maintenance and public nuisances may be appealed to the City Council as set forth in Chapter 7.16.</text>
+      <annotation doc="Ord. 2013-2" path="§2" type="History"/>
     </section>
   </container>
   <container>
@@ -173,7 +211,9 @@
       <num>2.24.010</num>
       <heading>ORGANIZATION.</heading>
       <text>The planning commission heretofore appointed constitutes the Planning Commission of this city. It shall consist of five voting members and one ex officio member.</text>
-      <text>The five voting members shall be selected by the City Council and shall hold office for a term of four years, or until their respective successors shall have qualified. Each such member shall have one vote in the deliberations of the commission. The ex officio member shall also be a member of the Council, shall be chosen by it, and shall hold office until his or her successor has qualified, but shall not be entitled to vote in the deliberations of the commission. (Ord. 1989-18 § 20, 1989; prior code § 10.74).</text>
+      <text>The five voting members shall be selected by the City Council and shall hold office for a term of four years, or until their respective successors shall have qualified. Each such member shall have one vote in the deliberations of the commission. The ex officio member shall also be a member of the Council, shall be chosen by it, and shall hold office until his or her successor has qualified, but shall not be entitled to vote in the deliberations of the commission.</text>
+      <annotation doc="Ord. 1989-18" path="§20" type="History"/>
+      <annotation type="History">prior code § 10.74</annotation>
     </section>
     <section>
       <num>2.24.020</num>
@@ -189,8 +229,9 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Such other duties as are now or may hereafter be designated by state statutes, city ordinances, or this code. (Prior code § 10.75).</text>
+        <text>Such other duties as are now or may hereafter be designated by state statutes, city ordinances, or this code.</text>
       </para>
+      <annotation type="History">Prior code § 10.75</annotation>
     </section>
   </container>
   <container>
@@ -218,12 +259,14 @@
         <num>(d)</num>
         <text>Real estate.</text>
       </para>
-      <text>The fifth member shall be the Director of Community Development or other staff representative as designated by the City Manager. (Ord. 1988-12, § 1, 1988)</text>
+      <text>The fifth member shall be the Director of Community Development or other staff representative as designated by the City Manager.</text>
+      <annotation doc="Ord. 1988-12" path="§1" type="History"/>
     </section>
     <section>
       <num>2.25.020</num>
       <heading>DUTIES.</heading>
-      <text>The duties of the Housing Rehabilitation Loan Committee shall be to review and take action on all applications to the City for rehabilitation loans and to review and recommend to the City Council any changes in loan terms or other matters concerning housing rehabilitation loans. (Ord. 1988-12, § 1, 1988)</text>
+      <text>The duties of the Housing Rehabilitation Loan Committee shall be to review and take action on all applications to the City for rehabilitation loans and to review and recommend to the City Council any changes in loan terms or other matters concerning housing rehabilitation loans.</text>
+      <annotation doc="Ord. 1988-12" path="§1" type="History"/>
     </section>
   </container>
   <container>
@@ -234,19 +277,23 @@
       <num>2.26.010</num>
       <heading>ORGANIZATION.</heading>
       <text>The sustainability commission of the City shall consist of five members appointed by the City Council.</text>
-      <text>Each member of the sustainability commission shall serve at the pleasure of the City Council and for a term of four years or until the appointment of a successor, except that the initial terms of the first members appointed shall be determined by lot at their first meeting so that each year one or more terms will expire. (Ord. 2014-2 § 1; Ord. 2014-1 § 1)</text>
+      <text>Each member of the sustainability commission shall serve at the pleasure of the City Council and for a term of four years or until the appointment of a successor, except that the initial terms of the first members appointed shall be determined by lot at their first meeting so that each year one or more terms will expire.</text>
+      <annotation doc="Ord. 2014-2" path="§1" type="History"/>
+      <annotation doc="Ord. 2014-1" path="§1" type="History"/>
     </section>
     <section>
       <num>2.26.020</num>
       <heading>MEETINGS.</heading>
-      <text>The sustainability commission shall meet within one month of its formation and establish itself by electing a chairperson and vice chairperson to serve at the pleasure of the commission. The sustainability commission may adopt reasonable rules and regulations for the conduct of its business. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided. (Ord. 2014-1 § 1)</text>
+      <text>The sustainability commission shall meet within one month of its formation and establish itself by electing a chairperson and vice chairperson to serve at the pleasure of the commission. The sustainability commission may adopt reasonable rules and regulations for the conduct of its business. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided.</text>
+      <annotation doc="Ord. 2014-1" path="§1" type="History"/>
     </section>
     <section>
       <num>2.26.030</num>
       <heading>POWERS—DUTIES.</heading>
       <text>It shall be the duty of the sustainability commission, as an advisory body to the City Council, to advise on its own initiative, or as requested by the City Council, on policies related to sustainability, including matters related to the environmental, social, and economic needs of the City of San Mateo.</text>
       <text>The sustainability commission may make recommendations to any other board or commission of the City with respect to any action the sustainability commission believes should be taken or upon which it has been requested to advise.</text>
-      <text>The sustainability commission shall possess other such powers and duties as may be prescribed from time to time by resolution of the City Council. (Ord. 2014-1 § 1)</text>
+      <text>The sustainability commission shall possess other such powers and duties as may be prescribed from time to time by resolution of the City Council.</text>
+      <annotation doc="Ord. 2014-1" path="§1" type="History"/>
     </section>
   </container>
   <container>
@@ -257,23 +304,34 @@
       <num>2.27.010</num>
       <heading>ORGANIZATION.</heading>
       <text>A park and recreation commission shall continue as heretofore established in and for the City, to be known and designated as the "San Mateo park and recreation commission." It shall consist of five members appointed by the Council.</text>
-      <text>Each member of the commission shall serve at the pleasure of the Council for a term of four years and until the appointment and qualification of a successor. (Ord. 1976-4 § 1, 1976; prior code § 10.07).</text>
+      <text>Each member of the commission shall serve at the pleasure of the Council for a term of four years and until the appointment and qualification of a successor.</text>
+      <annotation doc="Ord. 1976-4" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.07</annotation>
     </section>
     <section>
       <num>2.27.020</num>
       <heading>MEETINGS.</heading>
-      <text>The commission shall meet monthly at a time and place to be fixed by it, shall elect a chairman and vice-chairman, and may adopt rules for its proceedings. It may hold special meetings upon call of the chairman or two members upon written notice as required by the public meeting law. (Ord. 1976-4 § 1, 1976; prior code § 10.08).</text>
+      <text>The commission shall meet monthly at a time and place to be fixed by it, shall elect a chairman and vice-chairman, and may adopt rules for its proceedings. It may hold special meetings upon call of the chairman or two members upon written notice as required by the public meeting law.</text>
+      <annotation doc="Ord. 1976-4" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.08</annotation>
     </section>
     <section>
       <num>2.27.030</num>
       <heading>POWERS—DUTIES.</heading>
       <text>It shall be the duty of the commission, as an advisory body to the Council, to advise on its own initiative, or as requested by the City Council, on the acquisition, development, beautification and maintenance of public parks, landscape resources, public recreation facilities, budgets and the programs of park and recreation activities.</text>
-      <text>The commission may, through the City Council, make recommendations to other boards or commissions of the City with respect to any action the commission believes should be taken, or upon which it has been requested to advise. (Ord. 1984-23 § 1, 1984; Ord. 1979-29 § 1, 1979; Ord. 1976-4 § 1, 1976; prior code § 10.09).</text>
+      <text>The commission may, through the City Council, make recommendations to other boards or commissions of the City with respect to any action the commission believes should be taken, or upon which it has been requested to advise.</text>
+      <annotation doc="Ord. 1984-23" path="§1" type="History"/>
+      <annotation doc="Ord. 1979-29" path="§1" type="History"/>
+      <annotation doc="Ord. 1976-4" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.09</annotation>
     </section>
     <section>
       <num>2.27.040</num>
       <heading>REPORTS.</heading>
-      <text>The commission shall make an annual report to the Council immediately following the close of each fiscal year, and may also, from time to time, report its recommendations to the Council. (Ord. 1984-23 § 1, 1984; Ord. 1976-4 § 1, 1976; prior code § 10.10).</text>
+      <text>The commission shall make an annual report to the Council immediately following the close of each fiscal year, and may also, from time to time, report its recommendations to the Council.</text>
+      <annotation doc="Ord. 1984-23" path="§1" type="History"/>
+      <annotation doc="Ord. 1976-4" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.10</annotation>
     </section>
   </container>
   <container>
@@ -287,18 +345,20 @@
       <text>Each member of the commission shall serve at the pleasure of the Council and for a term of four years, or until the appointment and qualification of a successor, except that the first members shall draw lots to establish the following terms:</text>
       <text>Two years (June, 1974) 2 members</text>
       <text>Four years (June, 1976) 3 members</text>
-      <text>(Ord. 1972-9 § 1, 1972).</text>
+      <annotation doc="Ord. 1972-9" path="§1" type="History"/>
     </section>
     <section>
       <num>2.28.020</num>
       <heading>MEETINGS.</heading>
-      <text>The commission shall meet within one month of its formation and establish itself by electing a chairman, vice-chairman and secretary to serve at the pleasure of the commission. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided. (Ord. 1972-9 § 1, 1972).</text>
+      <text>The commission shall meet within one month of its formation and establish itself by electing a chairman, vice-chairman and secretary to serve at the pleasure of the commission. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided.</text>
+      <annotation doc="Ord. 1972-9" path="§1" type="History"/>
     </section>
     <section>
       <num>2.28.030</num>
       <heading>POWERS—DUTIES.</heading>
       <text>The commission shall consider the needs of the department of public works and develop policy for construction and maintenance programs; study and recommend to the Council requests from the public for public works construction or policy changes; and review traffic problems and recommend actions to the Council.</text>
-      <text>The commission may make recommendations to any other board or commission of the City with respect to any action the commission believes should be taken or upon which it has been requested to advise. (Ord. 1972-9 § 1, 1972).</text>
+      <text>The commission may make recommendations to any other board or commission of the City with respect to any action the commission believes should be taken or upon which it has been requested to advise.</text>
+      <annotation doc="Ord. 1972-9" path="§1" type="History"/>
     </section>
   </container>
   <container>
@@ -309,12 +369,14 @@
       <num>2.29.010</num>
       <heading>ORGANIZATION.</heading>
       <text>The senior citizens commission of the City shall consist of no more than five members appointed by the Council. The President of the Senior Advisory Council, or designee, shall be an ex-officio member of the Senior Citizens Commission without the right to vote. Members shall be persons who display an interest in and appreciation of senior affairs.</text>
-      <text>Each member of the senior citizens commission shall serve at the pleasure of the Council and for a term of four years or until the appointment of a successor, except that the initial terms of the first members appointed shall be determined by lot at their first meeting so that each year at least one term will expire. Thereafter, all appointments shall be for a term of four years. (Ord. 1986-29 § 1, 1986).</text>
+      <text>Each member of the senior citizens commission shall serve at the pleasure of the Council and for a term of four years or until the appointment of a successor, except that the initial terms of the first members appointed shall be determined by lot at their first meeting so that each year at least one term will expire. Thereafter, all appointments shall be for a term of four years.</text>
+      <annotation doc="Ord. 1986-29" path="§1" type="History"/>
     </section>
     <section>
       <num>2.29.020</num>
       <heading>MEETINGS.</heading>
-      <text>The commission shall meet within one month of its formation and establish itself by electing a chairperson and vice chairperson to serve at the pleasure of the board. The board may adopt reasonable rules and regulations for the conduct of its business. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. (Ord. 1986-29 § 1, 1986).</text>
+      <text>The commission shall meet within one month of its formation and establish itself by electing a chairperson and vice chairperson to serve at the pleasure of the board. The board may adopt reasonable rules and regulations for the conduct of its business. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state.</text>
+      <annotation doc="Ord. 1986-29" path="§1" type="History"/>
     </section>
     <section>
       <num>2.29.030</num>
@@ -322,7 +384,8 @@
       <text>It shall be the objective of the senior citizens commission, as an advisory body to the Council, to encourage, foster, and facilitate programs for the enhancement of all matters relating to the social, economic, and personal well being of the senior population.</text>
       <text>The Commission shall recommend to the Council the establishment and funding of programs and services for senior citizens within the City and review and make recommendations to the Council regarding any senior citizen center operated by the City.</text>
       <text>Further, the Commission shall periodically review the efforts being made towards implementing the recommendations set forth in the Adopted Master Plan for Senior Services and shall be charged with keeping said plan current.</text>
-      <text>The Commission shall possess other such powers and duties as may be prescribed from time to time by resolution of the City Council. (Ord. 1986-29 § 1, 1986).</text>
+      <text>The Commission shall possess other such powers and duties as may be prescribed from time to time by resolution of the City Council.</text>
+      <annotation doc="Ord. 1986-29" path="§1" type="History"/>
     </section>
   </container>
   <container>
@@ -332,12 +395,17 @@
     <section>
       <num>2.30.010</num>
       <heading>CREATION—POWERS—DUTIES.</heading>
-      <text>The department of community development is created. It shall perform the functions of building inspection, planning, and housing and economic development. It shall consist of building, planning, and housing and economic development divisions. The department shall have such powers and duties as may from time to time be prescribed by the Council or city manager. There shall be a director of community development and such assistants as may from time to time be approved by the Council provided that one such assistant shall be the building official of the City. (Ord. 1982-19 § 1, 1982; Ord. 1972-5 §, 1972; prior code § 10.58).</text>
+      <text>The department of community development is created. It shall perform the functions of building inspection, planning, and housing and economic development. It shall consist of building, planning, and housing and economic development divisions. The department shall have such powers and duties as may from time to time be prescribed by the Council or city manager. There shall be a director of community development and such assistants as may from time to time be approved by the Council provided that one such assistant shall be the building official of the City.</text>
+      <annotation doc="Ord. 1982-19" path="§1" type="History"/>
+      <annotation doc="Ord. 1972-5" type="History">Ord. 1972-5 §, 1972</annotation>
+      <annotation type="History">prior code § 10.58</annotation>
     </section>
     <section>
       <num>2.30.020</num>
       <heading>DIRECTOR OF COMMUNITY DEVELOPMENT.</heading>
-      <text>The director of community development shall be appointed by the City Manager and be the head of the department of community development and shall have such powers and duties as may from time to time be prescribed by the Council or city manager. (Ord. 1972-5 § 1, 1972; prior code § 10.59).</text>
+      <text>The director of community development shall be appointed by the City Manager and be the head of the department of community development and shall have such powers and duties as may from time to time be prescribed by the Council or city manager.</text>
+      <annotation doc="Ord. 1972-5" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.59</annotation>
     </section>
   </container>
   <container>
@@ -347,30 +415,39 @@
     <section>
       <num>2.33.010</num>
       <heading>CREATION—POWERS—DUTIES.</heading>
-      <text>The department of finance is created. It shall have such powers and duties as may from time to time be provided by the Council and the City Manager. It shall consist of the fiscal director and such assistants as may from time to time be approved by the Council. (Ord. 1972-21 § 4, 1972; Ord. 1970-2 § 1, 1970; prior code § 10.5.50).</text>
+      <text>The department of finance is created. It shall have such powers and duties as may from time to time be provided by the Council and the City Manager. It shall consist of the fiscal director and such assistants as may from time to time be approved by the Council.</text>
+      <annotation doc="Ord. 1972-21" path="§4" type="History"/>
+      <annotation doc="Ord. 1970-2" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.5.50</annotation>
     </section>
     <section>
       <num>2.33.020</num>
       <heading>FISCAL DIRECTOR—CITY TREASURER.</heading>
-      <text>The fiscal director shall be appointed by the City Manager and shall serve at his or her pleasure. He or she shall be the treasurer, ex officio Tax Collector and license collector of the City. He or she shall be the head of the department of finance and shall have such powers and duties as are hereinafter provided and such other powers and duties as may from time to time be prescribed by the Council or city manager. (Ord. 1972-21 § 4, 1972; Ord. 1970-2 § 1, 1970; prior code § 10.5.51).</text>
+      <text>The fiscal director shall be appointed by the City Manager and shall serve at his or her pleasure. He or she shall be the treasurer, ex officio Tax Collector and license collector of the City. He or she shall be the head of the department of finance and shall have such powers and duties as are hereinafter provided and such other powers and duties as may from time to time be prescribed by the Council or city manager.</text>
+      <annotation doc="Ord. 1972-21" path="§4" type="History"/>
+      <annotation doc="Ord. 1970-2" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.5.51</annotation>
     </section>
     <section>
       <num>2.33.030</num>
       <heading>CASH POOL OPERATIONS—CHECK SYSTEM.</heading>
       <text>Municipal obligations of the City shall be financed by cash pool operations, and utilization of a check system rather than a warrant system.</text>
-      <text>Except for those funds restricted by bond indentures, state or federal law, the charter or specific conditions of the legislation creating them, temporary transfers between funds are permitted. (Ord. 1972-21 § 5, 1972).</text>
+      <text>Except for those funds restricted by bond indentures, state or federal law, the charter or specific conditions of the legislation creating them, temporary transfers between funds are permitted.</text>
+      <annotation doc="Ord. 1972-21" path="§5" type="History"/>
     </section>
     <section>
       <num>2.33.040</num>
       <heading>DUTIES—FISCAL DIRECTOR.</heading>
-      <text>The fiscal director shall have the responsibility for the accounting system, accounts and controls, receipts and expenditures, and deposits and investments, receipt and collection of all taxes, assessments, license fees and other revenues of the City, including money receivable from the county, state or federal government, or from any court, office, department or agency of the City or any other source. (Ord. 1972-21 § 5, 1972).</text>
+      <text>The fiscal director shall have the responsibility for the accounting system, accounts and controls, receipts and expenditures, and deposits and investments, receipt and collection of all taxes, assessments, license fees and other revenues of the City, including money receivable from the county, state or federal government, or from any court, office, department or agency of the City or any other source.</text>
+      <annotation doc="Ord. 1972-21" path="§5" type="History"/>
     </section>
     <section>
       <num>2.33.050</num>
       <heading>AUTHORITY TO SIGN NEGOTIABLE INSTRUMENTS.</heading>
       <text>The fiscal director is authorized to sign all general checks and payroll checks drawn in the name of the City; and such signatures may be in facsimile.</text>
       <text>The fiscal director is authorized, in the name of the City, to sign bonds, deposit agreements, notes, negotiable instruments and all other orders for payment of money by affixing his or her personal signature thereto.</text>
-      <text>In the absence of or other inability of the fiscal director to perform his or her duties, the City Manager may deputize an assistant within the finance department to sign checks and such other negotiable instruments as the City Manager shall designate, upon his or her qualification on a surety bond in the same amount as the fiscal director. (Ord. 1972-21 § 5, 1972).</text>
+      <text>In the absence of or other inability of the fiscal director to perform his or her duties, the City Manager may deputize an assistant within the finance department to sign checks and such other negotiable instruments as the City Manager shall designate, upon his or her qualification on a surety bond in the same amount as the fiscal director.</text>
+      <annotation doc="Ord. 1972-21" path="§5" type="History"/>
     </section>
   </container>
   <container>
@@ -386,22 +463,32 @@
     <section>
       <num>2.36.010</num>
       <heading>PERSONNEL.</heading>
-      <text>The fire department shall consist of a chief of the fire department and such officers and employees as may from time to time be appointed in conformity with the merit system provisions codified in Chapter 2.57. (Ord. 1997-19 § 1, 1997; Ord. 1983-10 § 3, 1983; prior code § 10.53).</text>
+      <text>The fire department shall consist of a chief of the fire department and such officers and employees as may from time to time be appointed in conformity with the merit system provisions codified in Chapter 2.57.</text>
+      <annotation doc="Ord. 1997-19" path="§1" type="History"/>
+      <annotation doc="Ord. 1983-10" path="§3" type="History"/>
+      <annotation type="History">prior code § 10.53</annotation>
     </section>
     <section>
       <num>2.36.020</num>
       <heading>POWERS OF MEMBERS.</heading>
-      <text>Each member of the fire department shall have such powers as are now or may hereafter be conferred by State law upon members of fire departments within general law cities. (Prior code § 10.53).</text>
+      <text>Each member of the fire department shall have such powers as are now or may hereafter be conferred by State law upon members of fire departments within general law cities.</text>
+      <annotation type="History">Prior code § 10.53</annotation>
     </section>
     <section>
       <num>2.36.030</num>
       <heading>DIVISION—ESTABLISHED.</heading>
-      <text>There is established within the fire department, a bureau of fire protection and life safety. The purpose of the bureau of fire protection and life safety is to provide an organization for investigation of the cause, origin and circumstances of fires, to devise ways and means for fire prevention, and to assist the Fire Chief in the administration and enforcement of the Uniform Fire Code. (Ord. 1997-19 § 1, 1997; Ord. 1983-10 § 4, 1983; prior code § 80.01).</text>
+      <text>There is established within the fire department, a bureau of fire protection and life safety. The purpose of the bureau of fire protection and life safety is to provide an organization for investigation of the cause, origin and circumstances of fires, to devise ways and means for fire prevention, and to assist the Fire Chief in the administration and enforcement of the Uniform Fire Code.</text>
+      <annotation doc="Ord. 1997-19" path="§1" type="History"/>
+      <annotation doc="Ord. 1983-10" path="§4" type="History"/>
+      <annotation type="History">prior code § 80.01</annotation>
     </section>
     <section>
       <num>2.36.040</num>
       <heading>BUREAU OF FIRE PROTECTION AND LIFE SAFETY—COMPOSITION.</heading>
-      <text>The division shall be composed of the Fire Marshal and such subordinates as may from time to time be approved by the City Council. (Ord. 1997-19 § 1, 1997; Ord. 1983-10 § 5, 1983; prior code § 80.02).</text>
+      <text>The division shall be composed of the Fire Marshal and such subordinates as may from time to time be approved by the City Council.</text>
+      <annotation doc="Ord. 1997-19" path="§1" type="History"/>
+      <annotation doc="Ord. 1983-10" path="§5" type="History"/>
+      <annotation type="History">prior code § 80.02</annotation>
     </section>
     <section>
       <num>2.36.050</num>
@@ -420,8 +507,11 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>The persons with authority to make arrests as described in subsection (a) above, shall have the power to make arrests or issue citations pursuant to Penal Code Section 853.5. (Ord. 1997-19 § 1, 1997; Ord. 1983-10 §§ 6, 7, 1983; prior code § 80.03).</text>
+        <text>The persons with authority to make arrests as described in subsection (a) above, shall have the power to make arrests or issue citations pursuant to Penal Code Section 853.5.</text>
       </para>
+      <annotation doc="Ord. 1997-19" path="§1" type="History"/>
+      <annotation doc="Ord. 1983-10" type="History">Ord. 1983-10 §§ 6, 7, 1983</annotation>
+      <annotation type="History">prior code § 80.03</annotation>
     </section>
   </container>
   <container>
@@ -445,23 +535,33 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>"Regular police officers" means all regular police officer members of the Police Department of city appointed under merit system rules and regulations and duly commissioned and sworn in as provided by law to perform the duties of peace officers, and not retired from active duty, suspended or discharged, under whatever designation they may be elsewhere described. (Ord. 1985-13 § 23, 1985; Ord. 1981-26 §1, 1981; Ord. 1981-5 § 1, 1981; prior code § 10.24(part)).</text>
+        <text>"Regular police officers" means all regular police officer members of the Police Department of city appointed under merit system rules and regulations and duly commissioned and sworn in as provided by law to perform the duties of peace officers, and not retired from active duty, suspended or discharged, under whatever designation they may be elsewhere described.</text>
       </para>
+      <annotation doc="Ord. 1985-13" path="§23" type="History"/>
+      <annotation doc="Ord. 1981-26" path="§1" type="History"/>
+      <annotation doc="Ord. 1981-5" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.24(part)</annotation>
     </section>
     <section>
       <num>2.39.020</num>
       <heading>PERSONNEL.</heading>
-      <text>The police department shall consist of a Chief of Police, and such officers and employees as the City Manager or the Chief of Police may from time to time appoint in conformity with the merit system provisions codified in Chapter 2.57, or otherwise. In addition to such regular officers, the Chief of Police, subject to confirmation by the Council, shall have power to appoint reserve officers to hold office for such length of time as shall be designated in the appointment, whenever the Chief of Police deems any of such officers necessary. No person who is not a regular police officer shall wear an official police officer's badge. (Ord. 1981-5 § 2, 1981; prior code § 10.25).</text>
+      <text>The police department shall consist of a Chief of Police, and such officers and employees as the City Manager or the Chief of Police may from time to time appoint in conformity with the merit system provisions codified in Chapter 2.57, or otherwise. In addition to such regular officers, the Chief of Police, subject to confirmation by the Council, shall have power to appoint reserve officers to hold office for such length of time as shall be designated in the appointment, whenever the Chief of Police deems any of such officers necessary. No person who is not a regular police officer shall wear an official police officer's badge.</text>
+      <annotation doc="Ord. 1981-5" path="§2" type="History"/>
+      <annotation type="History">prior code § 10.25</annotation>
     </section>
     <section>
       <num>2.39.030</num>
       <heading>POWERS OF REGULAR OFFICERS.</heading>
-      <text>Each regular officer shall have the powers that are now conferred by law upon police officers of this state in all matters pertaining to the enforcement of the police regulations of the City, and shall be entitled to the same protection in all respects as is now afforded by law to police officers of this state. It shall be his or her duty to enforce the ordinances of the City, to prevent the commission of any breach of peace, to suppress riots and disorderly assemblages, and to arrest every person found violating any law or ordinance or committing acts injurious to the quiet and good order of the City, or to the person or property of any citizen of the City. He or she shall have such further powers and duties as may be prescribed by the Council or the manager or Chief of Police, by ordinance or order. (Ord. 1981-5 § 3, 1981; prior code § 10.26).</text>
+      <text>Each regular officer shall have the powers that are now conferred by law upon police officers of this state in all matters pertaining to the enforcement of the police regulations of the City, and shall be entitled to the same protection in all respects as is now afforded by law to police officers of this state. It shall be his or her duty to enforce the ordinances of the City, to prevent the commission of any breach of peace, to suppress riots and disorderly assemblages, and to arrest every person found violating any law or ordinance or committing acts injurious to the quiet and good order of the City, or to the person or property of any citizen of the City. He or she shall have such further powers and duties as may be prescribed by the Council or the manager or Chief of Police, by ordinance or order.</text>
+      <annotation doc="Ord. 1981-5" path="§3" type="History"/>
+      <annotation type="History">prior code § 10.26</annotation>
     </section>
     <section>
       <num>2.39.031</num>
       <heading>POWERS OF RESERVE OFFICERS.</heading>
-      <text>Reserve officers have power to perform as peace officers the specific police functions assigned to them by the Chief of Police for the duration of such specific assignment while on duty. (Ord. 1985-13 § 24, 1985; Ord. 1981-5 § 4, 1981).</text>
+      <text>Reserve officers have power to perform as peace officers the specific police functions assigned to them by the Chief of Police for the duration of such specific assignment while on duty.</text>
+      <annotation doc="Ord. 1985-13" path="§24" type="History"/>
+      <annotation doc="Ord. 1981-5" path="§4" type="History"/>
     </section>
     <section>
       <num>2.39.040</num>
@@ -477,26 +577,35 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Assign, sell, give away or authorize the transfer or use of any badge, the issuance of which is prohibited by this chapter. (Ord. 1981-5 § 5, 1981; prior code § 10.27).</text>
+        <text>Assign, sell, give away or authorize the transfer or use of any badge, the issuance of which is prohibited by this chapter.</text>
       </para>
+      <annotation doc="Ord. 1981-5" path="§5" type="History"/>
+      <annotation type="History">prior code § 10.27</annotation>
     </section>
     <section>
       <num>2.39.050</num>
       <heading>RESERVE POLICE OFFICERS' BADGES—ISSUANCE.</heading>
       <text>Reserve police officers' badges shall only be issued by the Chief of Police. The Chief of Police shall keep a record of all badges issued.</text>
-      <text>Each such badge shall be surrendered on the termination of the employment of the reserve officer from the Police Department. (Ord. 1981-26 § 1, 1981; Ord. 1981-5 § 6, 1981; prior code § 10.28).</text>
+      <text>Each such badge shall be surrendered on the termination of the employment of the reserve officer from the Police Department.</text>
+      <annotation doc="Ord. 1981-26" path="§1" type="History"/>
+      <annotation doc="Ord. 1981-5" path="§6" type="History"/>
+      <annotation type="History">prior code § 10.28</annotation>
     </section>
     <section>
       <num>2.39.060</num>
       <heading>SPECIAL POLICE OFFICERS' BADGES—RECALL.</heading>
-      <text>All special police officers' badges heretofore issued are of no further effect and shall be forthwith returned to the Chief of Police. (Ord. 1981-5 § 7, 1981; prior code § 10.46).</text>
+      <text>All special police officers' badges heretofore issued are of no further effect and shall be forthwith returned to the Chief of Police.</text>
+      <annotation doc="Ord. 1981-5" path="§7" type="History"/>
+      <annotation type="History">prior code § 10.46</annotation>
     </section>
     <section>
       <num>2.39.090</num>
       <heading>UNAUTHORIZED POSSESSION OF BADGE OR PRESS IDENTIFICATION CARD.</heading>
       <text>No person shall have in his or her possession any official police badge or special reserve police officer's badge or press identification card which has not been lawfully issued to him or her according to the provisions of this chapter. No person shall possess any such card or badge after his or her right to use such card or badge has been terminated.</text>
       <text>Unless authorized by the Chief of Police, no person shall have in his or her possession any other badge, star, shield, miniature, ring, charm or insignia, regardless of the size, shape or design thereof, which has on it the words "San Mateo Police" or "San Mateo Detective," whether used separately, together or in combination with any other words indicating a connection with the San Mateo police department, or which is identical in design with or which so resembles an official police officer's badge or a reserve police officer's badge that it may be readily mistaken for either of such badges.</text>
-      <text>No person who is not a regular police officer, reserve police officer, honorably retired police officer, police service aid or police cadet shall wear or display any badge, star or insignia calculated to indicate that he or she is a member of, or connected with, the San Mateo police department. (Ord. 1981-5 § 9, 1981; prior code § 10.37).</text>
+      <text>No person who is not a regular police officer, reserve police officer, honorably retired police officer, police service aid or police cadet shall wear or display any badge, star or insignia calculated to indicate that he or she is a member of, or connected with, the San Mateo police department.</text>
+      <annotation doc="Ord. 1981-5" path="§9" type="History"/>
+      <annotation type="History">prior code § 10.37</annotation>
     </section>
     <section>
       <num>2.39.100</num>
@@ -511,38 +620,50 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Any badge mentioned in this section shall be subject to confiscation by the Chief of Police if worn or displayed by any person other than the person authorized to possess it, and shall be returned to the person authorized to possess it only upon a showing that such wearing or display was without his or her consent, express or implied. (Ord. 1981-5 § 10, 1981; prior code § 10.38).</text>
+        <text>Any badge mentioned in this section shall be subject to confiscation by the Chief of Police if worn or displayed by any person other than the person authorized to possess it, and shall be returned to the person authorized to possess it only upon a showing that such wearing or display was without his or her consent, express or implied.</text>
       </para>
+      <annotation doc="Ord. 1981-5" path="§10" type="History"/>
+      <annotation type="History">prior code § 10.38</annotation>
     </section>
     <section>
       <num>2.39.110</num>
       <heading>POLICE UNIFORM—IMITATION PROHIBITED.</heading>
-      <text>No person other than a sworn police officer or reserve police officer shall wear any uniform of a pattern or design, or in the semblance, of the uniform authorized by the Chief of Police for the use of the regular or reserve members of the Police Department, or wear upon any uniform any star, badge, or insignia of a pattern or design that may be mistaken for, or confounded with, the official police officer's badge or the reserve police officer's badge. (Ord. 1981-5 § 11, 1981; prior code § 10.39).</text>
+      <text>No person other than a sworn police officer or reserve police officer shall wear any uniform of a pattern or design, or in the semblance, of the uniform authorized by the Chief of Police for the use of the regular or reserve members of the Police Department, or wear upon any uniform any star, badge, or insignia of a pattern or design that may be mistaken for, or confounded with, the official police officer's badge or the reserve police officer's badge.</text>
+      <annotation doc="Ord. 1981-5" path="§11" type="History"/>
+      <annotation type="History">prior code § 10.39</annotation>
     </section>
     <section>
       <num>2.39.130</num>
       <heading>POLICE IDENTIFICATION CARD—ISSUANCE.</heading>
-      <text>The Chief of Police is authorized to issue an identification card to authorized personnel. No other person shall possess such a card. (Ord. 1981-5 § 12, 1981; prior code § 10.41).</text>
+      <text>The Chief of Police is authorized to issue an identification card to authorized personnel. No other person shall possess such a card.</text>
+      <annotation doc="Ord. 1981-5" path="§12" type="History"/>
+      <annotation type="History">prior code § 10.41</annotation>
     </section>
     <section>
       <num>2.39.160</num>
       <heading>UNCLAIMED PROPERTY—TIME FOR HOLDING.</heading>
-      <text>Any unclaimed property shall be held by the department for a period of at least three months (Ord. 1998-2 § 1, 1998; prior code § 68.01).</text>
+      <text>Any unclaimed property shall be held by the department for a period of at least three months</text>
+      <annotation doc="Ord. 1998-2" path="§1" type="History"/>
+      <annotation type="History">prior code § 68.01</annotation>
     </section>
     <section>
       <num>2.39.170</num>
       <heading>UNCLAIMED PROPERTY—SALE.</heading>
-      <text>If, within said period specified in Section 2.39.160, such bicycle or other property has not been claimed by anyone legally entitled thereto, such bicycle or other property may be sold at public auction to the highest bidder on notice of sale given as set forth in Section 2.39.180. (Prior code § 68.02).</text>
+      <text>If, within said period specified in Section 2.39.160, such bicycle or other property has not been claimed by anyone legally entitled thereto, such bicycle or other property may be sold at public auction to the highest bidder on notice of sale given as set forth in Section 2.39.180.</text>
+      <annotation type="History">Prior code § 68.02</annotation>
     </section>
     <section>
       <num>2.39.180</num>
       <heading>UNCLAIMED PROPERTY—SALE—NOTICE.</heading>
-      <text>Notice of sale of such unclaimed property shall be given by the Chief of Police at least five days before the time fixed for such sale by publishing such notice once in a newspaper of general circulation published in the county. (Prior code § 68.03).</text>
+      <text>Notice of sale of such unclaimed property shall be given by the Chief of Police at least five days before the time fixed for such sale by publishing such notice once in a newspaper of general circulation published in the county.</text>
+      <annotation type="History">Prior code § 68.03</annotation>
     </section>
     <section>
       <num>2.39.190</num>
       <heading>UNCLAIMED PROPERTY—DESTRUCTION.</heading>
-      <text>In the event that any such property is perishable and cannot be sold, or the property has no sale value, or at such auction sale there have been no bids for the property, it shall be destroyed by the Chief of Police at such time as the Chief of Police may determine. (Ord. 1998-2 § 2, 1998; prior code § 68.04).</text>
+      <text>In the event that any such property is perishable and cannot be sold, or the property has no sale value, or at such auction sale there have been no bids for the property, it shall be destroyed by the Chief of Police at such time as the Chief of Police may determine.</text>
+      <annotation doc="Ord. 1998-2" path="§2" type="History"/>
+      <annotation type="History">prior code § 68.04</annotation>
     </section>
   </container>
   <container>
@@ -552,12 +673,23 @@
     <section>
       <num>2.45.010</num>
       <heading>CREATION—POWERS—DUTIES.</heading>
-      <text>The department of parks and recreation is created. It shall have the responsibility for the review of landscaping of proposed development, management, control and general supervision of the public parks, islands and ovals, public facilities landscaping, playgrounds, recreational centers, swimming pools, the municipal golf courses, and all other recreational and human services facilities and programs of the City. It shall consist of the director of parks and recreation and such assistants as may from time to time be approved by the City Council. (Ord. 1990-11, § 1, 1990; Ord. 1984-23, § 1, 1984; Ord. 1979-29 § 2, 1979; Ord. 1973-19 § 1, 1973; prior code § 10.88).</text>
+      <text>The department of parks and recreation is created. It shall have the responsibility for the review of landscaping of proposed development, management, control and general supervision of the public parks, islands and ovals, public facilities landscaping, playgrounds, recreational centers, swimming pools, the municipal golf courses, and all other recreational and human services facilities and programs of the City. It shall consist of the director of parks and recreation and such assistants as may from time to time be approved by the City Council.</text>
+      <annotation doc="Ord. 1990-11" path="§1" type="History"/>
+      <annotation doc="Ord. 1984-23" path="§1" type="History"/>
+      <annotation doc="Ord. 1979-29" path="§2" type="History"/>
+      <annotation doc="Ord. 1973-19" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.88</annotation>
     </section>
     <section>
       <num>2.45.020</num>
       <heading>DIRECTOR OF PARKS AND RECREATION.</heading>
-      <text>The director of parks and recreation shall be appointed by and serve at the pleasure of the City Manager. The director shall be the head of the department of parks and recreation and be responsible for carrying out the duties as may from time to time be prescribed by the City Council or city manager. (Ord. 1990-11, § 2, 1990; Ord. 1985-13 § 26, 1985; Ord. 1984-23, § 2, 1984; Ord. 1979-29 § 2, 1979; Ord. 1973-19 § 1, 1973; prior code § 10.89).</text>
+      <text>The director of parks and recreation shall be appointed by and serve at the pleasure of the City Manager. The director shall be the head of the department of parks and recreation and be responsible for carrying out the duties as may from time to time be prescribed by the City Council or city manager.</text>
+      <annotation doc="Ord. 1990-11" path="§2" type="History"/>
+      <annotation doc="Ord. 1985-13" path="§26" type="History"/>
+      <annotation doc="Ord. 1984-23" path="§2" type="History"/>
+      <annotation doc="Ord. 1979-29" path="§2" type="History"/>
+      <annotation doc="Ord. 1973-19" path="§1" type="History"/>
+      <annotation type="History">prior code § 10.89</annotation>
     </section>
   </container>
   <container>
@@ -567,22 +699,28 @@
     <section>
       <num>2.48.010</num>
       <heading>CREATION—POWERS—DUTIES.</heading>
-      <text>The Department of Public Works is created. It shall perform the functions of engineering, maintenance and traffic and shall have such powers and duties as may from time to time be prescribed by the Council or City Manager. It shall consist of the Director of Public Works and such assistants as may from time to time be approved by the Council provided that three of such assistants shall be: the assistant city engineer; the superintendent of maintenance; and the traffic engineer. (Ord. 1972-5 § 2, 1972; prior code § 10.95).</text>
+      <text>The Department of Public Works is created. It shall perform the functions of engineering, maintenance and traffic and shall have such powers and duties as may from time to time be prescribed by the Council or City Manager. It shall consist of the Director of Public Works and such assistants as may from time to time be approved by the Council provided that three of such assistants shall be: the assistant city engineer; the superintendent of maintenance; and the traffic engineer.</text>
+      <annotation doc="Ord. 1972-5" path="§2" type="History"/>
+      <annotation type="History">prior code § 10.95</annotation>
     </section>
     <section>
       <num>2.48.020</num>
       <heading>DIRECTOR OF PUBLIC WORKS.</heading>
-      <text>The Director of Public Works shall be appointed by the City Manager and be the head of the Department of Public Works and shall have such powers and duties as may from time to time be prescribed by the Council or City Manager. (Ord. 1972-5 § 2, 1972; prior code § 10.96).</text>
+      <text>The Director of Public Works shall be appointed by the City Manager and be the head of the Department of Public Works and shall have such powers and duties as may from time to time be prescribed by the Council or City Manager.</text>
+      <annotation doc="Ord. 1972-5" path="§2" type="History"/>
+      <annotation type="History">prior code § 10.96</annotation>
     </section>
     <section>
       <num>2.48.025</num>
       <heading>CITY ENGINEER—DEFINED.</heading>
-      <text>For purposes of this Code, "City Engineer" shall mean the Director of Public Works or his or her designee. (Ord. 1990-12 § 1, 1990).</text>
+      <text>For purposes of this Code, "City Engineer" shall mean the Director of Public Works or his or her designee.</text>
+      <annotation doc="Ord. 1990-12" path="§1" type="History"/>
     </section>
     <section>
       <num>2.48.030</num>
       <heading>SUPERINTENDENT OF STREETS—DEFINED.</heading>
-      <text>For purposes of this Code, "Superintendent of Streets" means the Director of Public Works or his or her designee. (Ord. 1986-11 § 1, 1986).</text>
+      <text>For purposes of this Code, "Superintendent of Streets" means the Director of Public Works or his or her designee.</text>
+      <annotation doc="Ord. 1986-11" path="§1" type="History"/>
     </section>
   </container>
   <container>
@@ -592,7 +730,8 @@
     <section>
       <num>2.57.010</num>
       <heading>ADOPTION OF PERSONNEL SYSTEM.</heading>
-      <text>In order to establish an equitable and uniform procedure for dealing with personnel matters; to attract to municipal service the best and most competent persons available; to assure that appointments and promotions of employees will be based on merit and fitness; and to provide a reasonable degree of security for qualified employees, the following personnel system is hereby adopted. (Ord. 1978-19 § 2, 1978).</text>
+      <text>In order to establish an equitable and uniform procedure for dealing with personnel matters; to attract to municipal service the best and most competent persons available; to assure that appointments and promotions of employees will be based on merit and fitness; and to provide a reasonable degree of security for qualified employees, the following personnel system is hereby adopted.</text>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.020</num>
@@ -656,8 +795,9 @@
       </para>
       <para>
         <num>(o)</num>
-        <text>"Transfer" means a change of an employee from one position to another position in the same class or in a comparable class. (Ord. 1978-19 § 2, 1978).</text>
+        <text>"Transfer" means a change of an employee from one position to another position in the same class or in a comparable class.</text>
       </para>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.030</num>
@@ -681,16 +821,19 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Provide for the publishing or posting of notices of tests for positions in the competitive service; the receiving of applications therefor; the conducting and grading of tests; the certification to the appointing power of a list of all persons eligible for appointment to the appropriate position in the competitive service. (Ord. 1978-19 § 2, 1978).</text>
+        <text>Provide for the publishing or posting of notices of tests for positions in the competitive service; the receiving of applications therefor; the conducting and grading of tests; the certification to the appointing power of a list of all persons eligible for appointment to the appropriate position in the competitive service.</text>
       </para>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.035</num>
       <heading>PERSONNEL DEPARTMENT—DUTIES, ORGANIZATION.</heading>
       <para>
         <num>(a)</num>
-        <text>Creation—Duties. A Personnel Division is created in the City Manager's Office. It shall assist the Personnel Officer in the administration of all personnel matters of the City and such additional duties as the Council and the City Manager may prescribe from time to time. (Ord. 1996-16 § 1, 1996; Ord. 1987-19 § 1, 1987).</text>
+        <text>Creation—Duties. A Personnel Division is created in the City Manager's Office. It shall assist the Personnel Officer in the administration of all personnel matters of the City and such additional duties as the Council and the City Manager may prescribe from time to time.</text>
       </para>
+      <annotation doc="Ord. 1996-16" path="§1" type="History"/>
+      <annotation doc="Ord. 1987-19" path="§1" type="History"/>
     </section>
     <section>
       <num>2.57.040</num>
@@ -698,13 +841,15 @@
       <text>There is hereby created a personnel board to consist of five members, to be appointed by the City Council as provided in the City Charter.</text>
       <text>The personnel board shall adopt rules of procedure and shall select a chairman from among its members who shall act as presiding officer.</text>
       <text>Vacancies on the personnel board shall be filled by appointment by the City Council for the unexpired term. Each member shall serve until his or her successor is appointed and qualified. A majority vote of the City Council shall be required to appoint or remove a member of the personnel board.</text>
-      <text>Members of the personnel board shall be a resident of this city. No person shall be appointed to the board who holds any salaried office or employment with this city. (Ord. 1978-19 § 2, 1978).</text>
+      <text>Members of the personnel board shall be a resident of this city. No person shall be appointed to the board who holds any salaried office or employment with this city.</text>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.050</num>
       <heading>DUTIES OF THE PERSONNEL BOARD.</heading>
       <text>The personnel board shall determine the order of business for the conduct of its meetings, and shall meet regularly or on call of the chairman or a majority of the members of the board. A majority of the members of the board shall constitute a quorum for the transaction of business.</text>
-      <text>The board, as provided by this chapter and by the rules, shall hear appeals submitted by any person in the competitive service relative to any disciplinary action, dismissal, demotion, charge of discrimination, or alleged violation of this chapter, and to certify its findings and recommendations as provided in the personnel system rules. (Ord. 1978-19 § 2, 1978).</text>
+      <text>The board, as provided by this chapter and by the rules, shall hear appeals submitted by any person in the competitive service relative to any disciplinary action, dismissal, demotion, charge of discrimination, or alleged violation of this chapter, and to certify its findings and recommendations as provided in the personnel system rules.</text>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.060</num>
@@ -744,8 +889,9 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>Employees, other than those listed elsewhere in this section, who are not regularly employed in permanent positions. (Ord. 1978-19 § 2, 1978).</text>
+        <text>Employees, other than those listed elsewhere in this section, who are not regularly employed in permanent positions.</text>
       </para>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.070</num>
@@ -789,8 +935,9 @@
       </para>
       <para>
         <num>(j)</num>
-        <text>The establishment of appeal procedures concerning the interpretation or application of this chapter and any rules adopted hereunder. (Ord. 1978-19 § 2, 1978).</text>
+        <text>The establishment of appeal procedures concerning the interpretation or application of this chapter and any rules adopted hereunder.</text>
       </para>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.080</num>
@@ -798,37 +945,43 @@
       <text>Appointments to vacant positions in the competitive service shall be made in accordance with the personnel rules. Appointments and promotions shall be based on merit and fitness to be ascertained so far as practicable by competitive examination. Examinations may be used and conducted to aid in the selection of qualified employees and shall consist of selection techniques which will test fairly the qualifications of candidates such as achievement and aptitude tests, written tests, personal interview, performance tests, physical agility tests, evaluation of daily work performance, work samples or any combinations of these or other tests. The probationary period shall be considered an extension of the examination process. Physical and medical tests may be given as a part of any examination.</text>
       <text>In any examination the Personnel Officer may include, in addition to competitive tests, a qualifying test or tests, and set minimum standards therefor.</text>
       <text>Appointments shall be made by the City Council, or by the officer in whom the power to make appointments is vested.</text>
-      <text>When appointment is to be made to a vacancy in the competitive service, the Personnel Officer shall transmit to the appointing power the names of all persons on the appropriate certified employment list, in the order in which they appear on the list. (Ord. 1978-19 § 2, 1978).</text>
+      <text>When appointment is to be made to a vacancy in the competitive service, the Personnel Officer shall transmit to the appointing power the names of all persons on the appropriate certified employment list, in the order in which they appear on the list.</text>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.090</num>
       <heading>PROBATIONARY PERIOD.</heading>
       <text>All regular appointments, including promotional appointments, shall be for a probationary period of not less than six months. During the probationary period, the employee may be rejected at any time without the right of appeal or hearing.</text>
       <text>An employee rejected during the probationary period from a position to which he or she has been promoted shall be reinstated to a position in the class from which he or she was promoted unless he or she is discharged from the City service as provided in this chapter and the rules.</text>
-      <text>An employee in the competitive service promoted or transferred to a position not included in the competitive service shall be reinstated to a position in the class from which he or she was promoted or transferred if action is taken to reject him or her unless he or she is discharged in the manner provided in this chapter and the personnel rules for positions in the competitive service. (Ord. 1978-19 § 2, 1978).</text>
+      <text>An employee in the competitive service promoted or transferred to a position not included in the competitive service shall be reinstated to a position in the class from which he or she was promoted or transferred if action is taken to reject him or her unless he or she is discharged in the manner provided in this chapter and the personnel rules for positions in the competitive service.</text>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.100</num>
       <heading>STATUS OF PRESENT EMPLOYEES.</heading>
       <text>Any person holding a position included in the competitive service who, on the effective date of this chapter, shall have served continuously in such position, or in some other position in the competitive service, for a period equal to the probationary period prescribed in the rules for his or her class, shall assume regular status in the competitive service in the position held on such effective date without qualifying test, and shall thereafter be subject in all respects to the provisions of this chapter and the personnel rules.</text>
-      <text>Any other person holding positions in the competitive service shall be regarded as probationers who are serving out the balance of their probationary periods as prescribed in the rules before obtaining regular status. The probationary period shall be computed from the date of appointment or employment. (Ord. 1978-19 § 2, 1978).</text>
+      <text>Any other person holding positions in the competitive service shall be regarded as probationers who are serving out the balance of their probationary periods as prescribed in the rules before obtaining regular status. The probationary period shall be computed from the date of appointment or employment.</text>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.110</num>
       <heading>APPLICABILITY OF RULES TO CERTAIN EXEMPT POSITIONS.</heading>
-      <text>The provisions of the personnel rules relating to attendance and leaves shall apply to the incumbents of full-time exempt positions, unless otherwise specified. (Ord. 1978-19 § 2, 1978).</text>
+      <text>The provisions of the personnel rules relating to attendance and leaves shall apply to the incumbents of full-time exempt positions, unless otherwise specified.</text>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.120</num>
       <heading>DEMOTION, DISMISSAL, REDUCTION IN PAY, SUSPENSION.</heading>
       <text>Any appointing power shall have the right, for due cause, to demote, dismiss, reduce in pay, or suspend without pay for thirty calendar days any regular employee. Notice of such action must be in writing and served personally on such employee, except where an emergency situation exists, in which case the notice shall be served within three working days of the action taken. Such notice shall specify the penalty and contain a statement of the reason or reasons therefor.</text>
-      <text>The provisions of this section shall not apply to reductions in pay which are a part of a general plan to reduce salaries and wages or to eliminate positions. (Ord. 1978-19 § 2, 1978).</text>
+      <text>The provisions of this section shall not apply to reductions in pay which are a part of a general plan to reduce salaries and wages or to eliminate positions.</text>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.130</num>
       <heading>RIGHT OF APPEAL.</heading>
       <text>Any employee in the competitive service shall have the right to appeal to the personnel board any disciplinary action, or alleged violation of this chapter, except in those instances where the right of appeal is specifically prohibited by this chapter or the rules adopted thereunder.</text>
-      <text>All appeals shall be concluded as expeditiously as possible and in accordance with the requirements and procedures as set forth in the personnel rules and regulations adopted pursuant to this chapter. (Ord. 1978-19 § 2, 1978).</text>
+      <text>All appeals shall be concluded as expeditiously as possible and in accordance with the requirements and procedures as set forth in the personnel rules and regulations adopted pursuant to this chapter.</text>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.140</num>
@@ -837,17 +990,20 @@
       <text>The order of layoff of employees shall be established by the Personnel Officer on the recommendation of the department head involved. The department head shall take into consideration the job performance and length of service of employees in preparing a recommended layoff list; provided, however, that no regular or probationary employee shall be laid off from his or her position in any department while any emergency, temporary or provisional employee is serving in the same class in that department.</text>
       <text>Employees to be laid off shall be given at least fourteen days' prior notice.</text>
       <text>The names of regular and probationary employees laid off or demoted in lieu of layoff shall be placed upon reemployment lists for one year for those classes requiring basically the same qualifications, duties and responsibilities of the class from which layoff or demotion in lieu of layoff was made.</text>
-      <text>Persons whose names are placed on reemployment lists in accordance with this section, and who are reemployed within the prescribed period, shall be regarded as having been on leave of absence during this period of absence and entitled to all benefits accruing from such leave. (Ord. 1978-19 § 2, 1978).</text>
+      <text>Persons whose names are placed on reemployment lists in accordance with this section, and who are reemployed within the prescribed period, shall be regarded as having been on leave of absence during this period of absence and entitled to all benefits accruing from such leave.</text>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.150</num>
       <heading>IMPROPER POLITICAL ACTIVITY.</heading>
-      <text>The political activities of city employees shall conform to pertinent provisions of State law. (Ord. 1978-19 § 2, 1978).</text>
+      <text>The political activities of city employees shall conform to pertinent provisions of State law.</text>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.160</num>
       <heading>DISCRIMINATION.</heading>
-      <text>No person in the competitive service, or seeking admission thereto, shall be employed, promoted, demoted or discharged, or in any way favored or discriminated against because of political opinions or affiliations, race, color, ancestry, national origin, religious creed, sex or because of the exercise of his or her rights under Section 3502 of the Government Code. (Ord. 1978-19 § 2, 1978).</text>
+      <text>No person in the competitive service, or seeking admission thereto, shall be employed, promoted, demoted or discharged, or in any way favored or discriminated against because of political opinions or affiliations, race, color, ancestry, national origin, religious creed, sex or because of the exercise of his or her rights under Section 3502 of the Government Code.</text>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
     <section>
       <num>2.57.170</num>
@@ -871,8 +1027,9 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Special and technical services of advisory or informational character on matters relating to personnel administration. (Ord. 1978-19 § 2, 1978).</text>
+        <text>Special and technical services of advisory or informational character on matters relating to personnel administration.</text>
       </para>
+      <annotation doc="Ord. 1978-19" path="§2" type="History"/>
     </section>
   </container>
   <container>
@@ -883,12 +1040,15 @@
       <num>2.58.010</num>
       <heading>PURPOSE.</heading>
       <text>It is the policy of the City to provide equal opportunity in city employment for all qualified persons, to prohibit discrimination in employment because of race, creed, color, religion, sex, national origin, physical or mental disability or medical condition, and to promote the full realization of equal employment opportunity through a positive, continuing program in the City.</text>
-      <text>The program shall include equal opportunity in recruitment, employment, compensation, promotion, demotion, suspension, transfer, layoff or discharge. (Ord. 1992-1 § 1, 1992; Ord. 1974-49 § 1, 1974).</text>
+      <text>The program shall include equal opportunity in recruitment, employment, compensation, promotion, demotion, suspension, transfer, layoff or discharge.</text>
+      <annotation doc="Ord. 1992-1" path="§1" type="History"/>
+      <annotation doc="Ord. 1974-49" path="§1" type="History"/>
     </section>
     <section>
       <num>2.58.020</num>
       <heading>PERSONNEL OFFICER DUTIES.</heading>
-      <text>The City Manager, as chief administrative officer and personnel officer, shall be responsible for the implementation, administration, coordination and enforcement of the City's equal opportunity program. (Ord. 1974-49 § 1, 1974).</text>
+      <text>The City Manager, as chief administrative officer and personnel officer, shall be responsible for the implementation, administration, coordination and enforcement of the City's equal opportunity program.</text>
+      <annotation doc="Ord. 1974-49" path="§1" type="History"/>
     </section>
     <section>
       <num>2.58.030</num>
@@ -900,13 +1060,15 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Exercise prompt, fair and impartial consideration of all complaints of discrimination by all employees or applicants for city employment in accordance with the provisions of Sec. 2.57.170 of this code. (Ord. 1974-49 § 1, 1974).</text>
+        <text>Exercise prompt, fair and impartial consideration of all complaints of discrimination by all employees or applicants for city employment in accordance with the provisions of Sec. 2.57.170 of this code.</text>
       </para>
+      <annotation doc="Ord. 1974-49" path="§1" type="History"/>
     </section>
     <section>
       <num>2.58.040</num>
       <heading>ADOPTION OF PROGRAM.</heading>
-      <text>The City Council, from time to time, may adopt, by resolution, specific policies and programs to be administered by the City Manager to assure implementation of the City's equal opportunity of employment. (Ord. 1974-49 § 1, 1974).</text>
+      <text>The City Council, from time to time, may adopt, by resolution, specific policies and programs to be administered by the City Manager to assure implementation of the City's equal opportunity of employment.</text>
+      <annotation doc="Ord. 1974-49" path="§1" type="History"/>
     </section>
   </container>
   <container>
@@ -917,27 +1079,32 @@
     <section>
       <num>2.66.010</num>
       <heading>ADOPTION OF STATE SYSTEM.</heading>
-      <text>The State Employees' Retirement System for officials and employees of cities is adopted as the retirement system for the officials and employees of the City. (Prior code § 12.01).</text>
+      <text>The State Employees' Retirement System for officials and employees of cities is adopted as the retirement system for the officials and employees of the City.</text>
+      <annotation type="History">Prior code § 12.01</annotation>
     </section>
     <section>
       <num>2.66.020</num>
       <heading>CONTRACT WITH STATE.</heading>
-      <text>The council is vested with the power to take all proceedings provided by law, and to execute a contract with the state, for making the officials and employees of the City members of the State Employees' Retirement System. (Prior code § 12.02).</text>
+      <text>The council is vested with the power to take all proceedings provided by law, and to execute a contract with the state, for making the officials and employees of the City members of the State Employees' Retirement System.</text>
+      <annotation type="History">Prior code § 12.02</annotation>
     </section>
     <section>
       <num>2.66.030</num>
       <heading>ELECTION TO BECOME MEMBER.</heading>
-      <text>The officials and employees to be included therein constitute the classes to consist of the members of all offices and departments, who, by secret ballot, separately as to each class, shall elect to come into the system. (Prior code § 12.03).</text>
+      <text>The officials and employees to be included therein constitute the classes to consist of the members of all offices and departments, who, by secret ballot, separately as to each class, shall elect to come into the system.</text>
+      <annotation type="History">Prior code § 12.03</annotation>
     </section>
     <section>
       <num>2.66.040</num>
       <heading>ADDITIONAL POWERS OF COUNCIL.</heading>
-      <text>The powers vested in the Council constitute and include the authority to apply to the state for such contract, report to the state on the types and terms of service of all officials and employees eligible therefor, the obtaining of all actuarial data necessary for the state to report to the City a quotation of the approximate contribution necessary for maintaining the City's share of said system, the resolution of intention to make the contract, and the approval of the contract by ordinance; the collection of the officials' and employees' share thereof, and the levy of taxes to maintain the City's share; the maintenance of the system, and all matters and things provided by law, whether or not herein mentioned. (Prior code § 12.04).</text>
+      <text>The powers vested in the Council constitute and include the authority to apply to the state for such contract, report to the state on the types and terms of service of all officials and employees eligible therefor, the obtaining of all actuarial data necessary for the state to report to the City a quotation of the approximate contribution necessary for maintaining the City's share of said system, the resolution of intention to make the contract, and the approval of the contract by ordinance; the collection of the officials' and employees' share thereof, and the levy of taxes to maintain the City's share; the maintenance of the system, and all matters and things provided by law, whether or not herein mentioned.</text>
+      <annotation type="History">Prior code § 12.04</annotation>
     </section>
     <section>
       <num>2.66.050</num>
       <heading>EXCEPTION FOR SALARIES OF CITY CLERK AND CITY TREASURER.</heading>
-      <text>Upon the City Clerk or city treasurer becoming included in the City employees' retirement system, pursuant to any act of the state legislature providing therefor, the salary of such officer is fixed thereafter as his or her regular compensation plus the amount required by law to be contributed by the City to the retirement fund by reason of the inclusion of said officer in the system. (Prior code § 12.05).</text>
+      <text>Upon the City Clerk or city treasurer becoming included in the City employees' retirement system, pursuant to any act of the state legislature providing therefor, the salary of such officer is fixed thereafter as his or her regular compensation plus the amount required by law to be contributed by the City to the retirement fund by reason of the inclusion of said officer in the system.</text>
+      <annotation type="History">Prior code § 12.05</annotation>
     </section>
   </container>
   <container>
@@ -947,37 +1114,45 @@
     <section>
       <num>2.69.010</num>
       <heading>OFFICE HOURS OF CITY DEPARTMENTS.</heading>
-      <text>All city departments shall maintain office hours at the City Hall on all business days; provided that all city departments shall be closed all day on Saturdays. (Prior code § 9.14).</text>
+      <text>All city departments shall maintain office hours at the City Hall on all business days; provided that all city departments shall be closed all day on Saturdays.</text>
+      <annotation type="History">Prior code § 9.14</annotation>
     </section>
     <section>
       <num>2.69.020</num>
       <heading>BOOKS—RECORDS.</heading>
-      <text>The books and records of all city offices shall be open at all times during office hours, and any taxpayer of the City may inspect the same, provided such taxpayer specifies the book or record he or she desires to see, and such book or record is not taken from the office. (Prior code § 16.02).</text>
+      <text>The books and records of all city offices shall be open at all times during office hours, and any taxpayer of the City may inspect the same, provided such taxpayer specifies the book or record he or she desires to see, and such book or record is not taken from the office.</text>
+      <annotation type="History">Prior code § 16.02</annotation>
     </section>
     <section>
       <num>2.69.030</num>
       <heading>COPIES OF RECORDS—DUTY TO FURNISH.</heading>
-      <text>In addition to their other duties, city officials or employees shall make and furnish upon application, or when required by law, ordinance or the City charter, statistics or copies of public records, maps or other public documents on file in the department with which they are connected. (Prior code § 9.22).</text>
+      <text>In addition to their other duties, city officials or employees shall make and furnish upon application, or when required by law, ordinance or the City charter, statistics or copies of public records, maps or other public documents on file in the department with which they are connected.</text>
+      <annotation type="History">Prior code § 9.22</annotation>
     </section>
     <section>
       <num>2.69.040</num>
       <heading>COPIES OF RECORDS—FEES.</heading>
-      <text>For making and furnishing such statistics, copies or extracts of such public records, certain fees including state tax shall be charged by the City as established by resolution of the City Council. (Ord. 1975-17 § 1, 1975; prior code § 9.23).</text>
+      <text>For making and furnishing such statistics, copies or extracts of such public records, certain fees including state tax shall be charged by the City as established by resolution of the City Council.</text>
+      <annotation doc="Ord. 1975-17" path="§1" type="History"/>
+      <annotation type="History">prior code § 9.23</annotation>
     </section>
     <section>
       <num>2.69.050</num>
       <heading>COPIES OF RECORDS—FURNISHING ON EMPLOYEE'S OWN TIME FORBIDDEN.</heading>
-      <text>No official or employee of the City shall make or furnish any such statistics, copies or extracts for private parties on his or her own time. (Prior code § 9.24).</text>
+      <text>No official or employee of the City shall make or furnish any such statistics, copies or extracts for private parties on his or her own time.</text>
+      <annotation type="History">Prior code § 9.24</annotation>
     </section>
     <section>
       <num>2.69.070</num>
       <heading>RETENTION OF FEES OR COMMISSIONS FORBIDDEN.</heading>
-      <text>No official or employee shall be authorized to retain any fee or commission to his or her own use by way of compensation, but all such fees shall be deposited with the treasurer in accordance with the provisions of the City charter. (Prior code § 9.26).</text>
+      <text>No official or employee shall be authorized to retain any fee or commission to his or her own use by way of compensation, but all such fees shall be deposited with the treasurer in accordance with the provisions of the City charter.</text>
+      <annotation type="History">Prior code § 9.26</annotation>
     </section>
     <section>
       <num>2.69.080</num>
       <heading>DESTRUCTION OF DUPLICATE RECORDS.</heading>
-      <text>Pursuant to the authority contained in Section 34090.7 of the Government Code, any department head may, with the written concurrence of the City Manager and city attorney, destroy any city records which are not required for the operation of the department and for which a duplicate is retained by a department of the City. (Prior code § 9.27).</text>
+      <text>Pursuant to the authority contained in Section 34090.7 of the Government Code, any department head may, with the written concurrence of the City Manager and city attorney, destroy any city records which are not required for the operation of the department and for which a duplicate is retained by a department of the City.</text>
+      <annotation type="History">Prior code § 9.27</annotation>
     </section>
   </container>
   <container>
@@ -990,42 +1165,52 @@
     <section>
       <num>2.75.010</num>
       <heading>ESTABLISHMENT.</heading>
-      <text>There shall be established and maintained, in addition to any other funds provided by law or ordinance, certain funds as set forth in this chapter to be kept by the treasurer of the City. The treasurer of the City shall keep accurate accounts of such funds and report the condition of each to the Council at the times required by it. Subsidiary accounts may be kept within each fund in the treasury for the purpose of facilitating accounting procedures and assisting the several departments in determining revenues deposited and expenditures made from their respective funds. (Prior code § 11.01).</text>
+      <text>There shall be established and maintained, in addition to any other funds provided by law or ordinance, certain funds as set forth in this chapter to be kept by the treasurer of the City. The treasurer of the City shall keep accurate accounts of such funds and report the condition of each to the Council at the times required by it. Subsidiary accounts may be kept within each fund in the treasury for the purpose of facilitating accounting procedures and assisting the several departments in determining revenues deposited and expenditures made from their respective funds.</text>
+      <annotation type="History">Prior code § 11.01</annotation>
     </section>
     <section>
       <num>2.75.020</num>
       <heading>USE OF MONEYS.</heading>
-      <text>Moneys in any fund established hereunder may be used only for the purpose for which such fund has been established and maintained. (Prior code § 11.24).</text>
+      <text>Moneys in any fund established hereunder may be used only for the purpose for which such fund has been established and maintained.</text>
+      <annotation type="History">Prior code § 11.24</annotation>
     </section>
     <section>
       <num>2.75.030</num>
       <heading>TRANSFER OF FUNDS.</heading>
-      <text>The City Council may appropriate or transfer moneys from any of the funds to any other of the funds in this chapter except as provided by charter or laws limiting the power to make such transfers. (Ord. 1979-5 § 1, 1979; prior code § 11.25).</text>
+      <text>The City Council may appropriate or transfer moneys from any of the funds to any other of the funds in this chapter except as provided by charter or laws limiting the power to make such transfers.</text>
+      <annotation doc="Ord. 1979-5" path="§1" type="History"/>
+      <annotation type="History">prior code § 11.25</annotation>
     </section>
     <section>
       <num>2.75.040</num>
       <heading>PETTY CASH FUNDS.</heading>
-      <text>Such other petty cash funds or revolving funds may be created in the several departments as the Council from time to time may deem necessary or convenient. The expenditures from such funds shall be accurately kept for the permanent record. The City treasurer shall keep an accurate record of each such petty cash fund, showing from which major fund any such petty cash fund was established. (Prior code § 11.23).</text>
+      <text>Such other petty cash funds or revolving funds may be created in the several departments as the Council from time to time may deem necessary or convenient. The expenditures from such funds shall be accurately kept for the permanent record. The City treasurer shall keep an accurate record of each such petty cash fund, showing from which major fund any such petty cash fund was established.</text>
+      <annotation type="History">Prior code § 11.23</annotation>
     </section>
     <section>
       <num>2.75.050</num>
       <heading>BOND PLAN A MAINTENANCE FUND.</heading>
-      <text>Bond plan A maintenance fund is established and shall be maintained for the deposit of all moneys which have been collected under bond plan A of Chapters 21.48 through 21.80 or under the Improvement Bond Act of 1911 for the purpose of administering the handling, issuance of, and accounting for, bonds issued thereunder. (Prior code § 11.21).</text>
+      <text>Bond plan A maintenance fund is established and shall be maintained for the deposit of all moneys which have been collected under bond plan A of Chapters 21.48 through 21.80 or under the Improvement Bond Act of 1911 for the purpose of administering the handling, issuance of, and accounting for, bonds issued thereunder.</text>
+      <annotation type="History">Prior code § 11.21</annotation>
     </section>
     <section>
       <num>2.75.060</num>
       <heading>BOND PLAN E FUNDS.</heading>
-      <text>Bond Plan E funds shall be maintained from time to time for the deposit of all moneys which have been collected from special assessments under plan E proceedings pursuant to this code. The principal and interest due annually to retire bonds issued pursuant to such proceedings shall be paid from this fund. (Prior code § 11.16).</text>
+      <text>Bond Plan E funds shall be maintained from time to time for the deposit of all moneys which have been collected from special assessments under plan E proceedings pursuant to this code. The principal and interest due annually to retire bonds issued pursuant to such proceedings shall be paid from this fund.</text>
+      <annotation type="History">Prior code § 11.16</annotation>
     </section>
     <section>
       <num>2.75.070</num>
       <heading>CAPITAL OUTLAY FUND.</heading>
-      <text>The capital outlay fund is established and shall be maintained for the deposit of cash reserves for future capital expenditures. (Prior code § 11.14).</text>
+      <text>The capital outlay fund is established and shall be maintained for the deposit of cash reserves for future capital expenditures.</text>
+      <annotation type="History">Prior code § 11.14</annotation>
     </section>
     <section>
       <num>2.75.080</num>
       <heading>CITY EMPLOYEES' RETIREMENT FUND.</heading>
-      <text>The City employees' retirement fund is established and shall be maintained for the deposit of moneys collected as taxes to meet the obligations of the City to the state retirement system. (Ord. 1976-14 § 2, 1976; prior code § 11.05).</text>
+      <text>The City employees' retirement fund is established and shall be maintained for the deposit of moneys collected as taxes to meet the obligations of the City to the state retirement system.</text>
+      <annotation doc="Ord. 1976-14" path="§2" type="History"/>
+      <annotation type="History">prior code § 11.05</annotation>
     </section>
     <section>
       <num>2.75.090</num>
@@ -1033,55 +1218,79 @@
       <text>The comprehensive liability fund is established and shall be maintained for the deposit of all moneys budgeted for the self-insurance program. Payments from the fund shall be made for all insurance premiums for all liability, property damage and fire and comprehensive coverage for the City, and all premiums for bonding officials and employees of the City, as authorized by the Council, or otherwise required by law. Payments shall also be made for such claims required to be paid by the City under deductible or self-retention insurance contract obligations, or through self-insurance, in settlement of claims or by any judgment of a court.</text>
       <text>The fund may be charged for personnel costs of administering the self-insurance program, including salaries and benefits for the time expended thereon, cost of investigations, adjustment and outside legal and administrative costs.</text>
       <text>It shall also be the depository for all moneys received, collected or recovered upon liability and property damage claims for the City. All earnings from investments of the fund and all state-mandated benefit costs recovered shall also accrue to the fund. Such earnings shall be credited to the fund at least once annually before the close of the fiscal year.</text>
-      <text>The fund shall be established and maintained at a sum which is comparable to the annual insurance premium rates for full coverage to one million dollars, as established by the Insurance Service Organization, plus twenty-five percent for excess coverage to ten million dollars, plus the reserves established for known claims as of July 1st of each year. (Ord. 1979-5 § 2, 1979; Ord. 1976-14 § 3, 1976).</text>
+      <text>The fund shall be established and maintained at a sum which is comparable to the annual insurance premium rates for full coverage to one million dollars, as established by the Insurance Service Organization, plus twenty-five percent for excess coverage to ten million dollars, plus the reserves established for known claims as of July 1st of each year.</text>
+      <annotation doc="Ord. 1979-5" path="§2" type="History"/>
+      <annotation doc="Ord. 1976-14" path="§3" type="History"/>
     </section>
     <section>
       <num>2.75.100</num>
       <heading>GAS TAX FUND.</heading>
       <text>To comply with the provisions of Article V of Chapter 1 of Division 1 of the Streets and Highways Code, with particular reference to the amendments made thereto by Chapter 642, Statutes of 1935, there shall be maintained in the City treasury the special fund to be known as the "special gas tax street improvement fund" heretofore created.</text>
-      <text>All moneys received by the City from the state under the provisions of the Streets and Highways Code now or hereafter provided by general law, for the acquisition of real property or interests therein, or the construction, maintenance or improvement of streets or highways, other than state highways, in the City, shall be paid into said fund. (Ord. 1975-6 § 2, 1975; prior code § 11.09).</text>
+      <text>All moneys received by the City from the state under the provisions of the Streets and Highways Code now or hereafter provided by general law, for the acquisition of real property or interests therein, or the construction, maintenance or improvement of streets or highways, other than state highways, in the City, shall be paid into said fund.</text>
+      <annotation doc="Ord. 1975-6" path="§2" type="History"/>
+      <annotation type="History">prior code § 11.09</annotation>
     </section>
     <section>
       <num>2.75.110</num>
       <heading>GENERAL FUND.</heading>
-      <text>The general fund shall be maintained for the deposit of all moneys received into the City treasury and not specifically levied for, or appropriated to, any other fund, and of such other moneys as may be apportioned thereto. From it shall be paid such claims as may be allowed thereon. (Ord. 1975-6 § 2, 1975; prior code § 11.02).</text>
+      <text>The general fund shall be maintained for the deposit of all moneys received into the City treasury and not specifically levied for, or appropriated to, any other fund, and of such other moneys as may be apportioned thereto. From it shall be paid such claims as may be allowed thereon.</text>
+      <annotation doc="Ord. 1975-6" path="§2" type="History"/>
+      <annotation type="History">prior code § 11.02</annotation>
     </section>
     <section>
       <num>2.75.120</num>
       <heading>LIBRARY FUND.</heading>
-      <text>The library fund shall be maintained for the deposit of such moneys as may be apportioned thereto from the library tax and collected from fines, dues and other public library receipts. From it shall be paid such claims as may be allowed thereon on recommendation of the library board. (Ord. 1975-6 § 2, 1975; prior code § 11.04).</text>
+      <text>The library fund shall be maintained for the deposit of such moneys as may be apportioned thereto from the library tax and collected from fines, dues and other public library receipts. From it shall be paid such claims as may be allowed thereon on recommendation of the library board.</text>
+      <annotation doc="Ord. 1975-6" path="§2" type="History"/>
+      <annotation type="History">prior code § 11.04</annotation>
     </section>
     <section>
       <num>2.75.130</num>
       <heading>MUNICIPAL BOND FUNDS.</heading>
-      <text>Municipal bond funds shall be established and maintained from time to time when required under state, or other law. Moneys already derived from the sale of municipal bonds shall be retained in the respective funds in which they have been deposited. (Ord. 1975-6 § 2, 1975; prior code § 11.06).</text>
+      <text>Municipal bond funds shall be established and maintained from time to time when required under state, or other law. Moneys already derived from the sale of municipal bonds shall be retained in the respective funds in which they have been deposited.</text>
+      <annotation doc="Ord. 1975-6" path="§2" type="History"/>
+      <annotation type="History">prior code § 11.06</annotation>
     </section>
     <section>
       <num>2.75.140</num>
       <heading>MUNICIPAL BOND REDEMPTION FUNDS.</heading>
-      <text>Municipal bond redemption funds shall be established from time to time as a depository for all moneys received from special levies to meet the payment of principal and interest on general obligation bonds. Moneys already derived from taxes shall be retained in their respective funds. (Ord. 1975-6 § 2, 1975; prior code § 11.07).</text>
+      <text>Municipal bond redemption funds shall be established from time to time as a depository for all moneys received from special levies to meet the payment of principal and interest on general obligation bonds. Moneys already derived from taxes shall be retained in their respective funds.</text>
+      <annotation doc="Ord. 1975-6" path="§2" type="History"/>
+      <annotation type="History">prior code § 11.07</annotation>
     </section>
     <section>
       <num>2.75.150</num>
       <heading>PARK AND BOULEVARD FUND.</heading>
-      <text>The park and boulevard fund shall be maintained as a depository for moneys derived from special revenues and tax levies, for the improvement, care and maintenance of the parks, recreational facilities, and parkways in city and of the trees, shrubs and grass plots upon the public streets thereof. The park and recreation commission shall make recommendations concerning the expenditures of moneys deposited in this fund. (Ord. 1975-6 § 2, 1975; prior code § 11.03).</text>
+      <text>The park and boulevard fund shall be maintained as a depository for moneys derived from special revenues and tax levies, for the improvement, care and maintenance of the parks, recreational facilities, and parkways in city and of the trees, shrubs and grass plots upon the public streets thereof. The park and recreation commission shall make recommendations concerning the expenditures of moneys deposited in this fund.</text>
+      <annotation doc="Ord. 1975-6" path="§2" type="History"/>
+      <annotation type="History">prior code § 11.03</annotation>
     </section>
     <section>
       <num>2.75.160</num>
       <heading>TRAFFIC SAFETY FUND.</heading>
-      <text>The traffic safety fund shall be established and maintained in accordance with the provisions of Section 42200 of the Vehicle Code. All fines and forfeitures collected from any person charged with a misdemeanor under said code shall be deposited in said fund. (Ord. 1985-13 § 30, 1985; Ord. 1976-14 § 2, 1976; Ord. 1975-6 § 2, 1975; prior code § 11.08).</text>
+      <text>The traffic safety fund shall be established and maintained in accordance with the provisions of Section 42200 of the Vehicle Code. All fines and forfeitures collected from any person charged with a misdemeanor under said code shall be deposited in said fund.</text>
+      <annotation doc="Ord. 1985-13" path="§30" type="History"/>
+      <annotation doc="Ord. 1976-14" path="§2" type="History"/>
+      <annotation doc="Ord. 1975-6" path="§2" type="History"/>
+      <annotation type="History">prior code § 11.08</annotation>
     </section>
     <section>
       <num>2.75.170</num>
       <heading>UNAPPORTIONED TAX FUND.</heading>
-      <text>The unapportioned tax fund is established and shall be maintained. All tax funds received shall be placed in the fund. Apportionment to the several funds for which taxes have been levied shall be made from time to time on recommendation of the City Manager. (Ord. 1976-14 § 2, 1976; Ord. 1975-6 § 2, 1975; prior code § 11.18).</text>
+      <text>The unapportioned tax fund is established and shall be maintained. All tax funds received shall be placed in the fund. Apportionment to the several funds for which taxes have been levied shall be made from time to time on recommendation of the City Manager.</text>
+      <annotation doc="Ord. 1976-14" path="§2" type="History"/>
+      <annotation doc="Ord. 1975-6" path="§2" type="History"/>
+      <annotation type="History">prior code § 11.18</annotation>
     </section>
     <section>
       <num>2.75.180</num>
       <heading>WORKERS' COMPENSATION FUND.</heading>
       <text>The workers' compensation fund is established and shall be maintained for the deposit of all moneys budgeted for payment of workers' compensation claims under the City's self-insurance program. It shall also be the depository for temporary disability and medical payments recovered from third parties or received while the employee is disabled and is receiving full salary under the provisions of California Labor Code Section 4850 or the City personnel laws and rules. Payments therefrom shall be made for all excess insurance coverage premiums, all proper industrial injury claims against the City and for all pre employment and post employment physical examinations.</text>
       <text>The fund may be charged for personnel costs of administering the self-insurance program, including contracts for outside administration and legal expenses, salaries and benefits for the time of city personnel expended thereon and other costs directly incurred in said program.</text>
-      <text>Said fund shall be established and maintained at a level that the Council periodically determines to be sufficient to properly discharge the City's obligations under the workers' compensation laws of this state. All earnings from investments of the fund and all state-mandated benefit costs recovered shall also accrue to the fund. Such earnings shall be credited to the fund at least once annually before the close of the fiscal year. (Ord. 1983-14, § 1, 1983; Ord. 1979-5 § 3, 1979; Ord. 1976-14 § 4, 1976).</text>
+      <text>Said fund shall be established and maintained at a level that the Council periodically determines to be sufficient to properly discharge the City's obligations under the workers' compensation laws of this state. All earnings from investments of the fund and all state-mandated benefit costs recovered shall also accrue to the fund. Such earnings shall be credited to the fund at least once annually before the close of the fiscal year.</text>
+      <annotation doc="Ord. 1983-14" path="§1" type="History"/>
+      <annotation doc="Ord. 1979-5" path="§3" type="History"/>
+      <annotation doc="Ord. 1976-14" path="§4" type="History"/>
     </section>
   </container>
   <container>
@@ -1091,12 +1300,16 @@
     <section>
       <num>2.78.010</num>
       <heading>CHAPTER PURPOSES.</heading>
-      <text>The declared purposes of this chapter are to provide for the preparation and carrying out of plans for the protection of persons and property within this city in the event of an emergency; the direction of the emergency organization; and to provide for the coordination of the emergency functions of this city with all other public agencies and affected private persons, corporations, and organizations. Any expenditures made in connection with such emergency activities, including mutual aid activities, shall be deemed conclusively to be for the direct protection and benefit of the inhabitants and property of the City. (Ord. 1980-10 § 1, 1980; prior code § 13.01).</text>
+      <text>The declared purposes of this chapter are to provide for the preparation and carrying out of plans for the protection of persons and property within this city in the event of an emergency; the direction of the emergency organization; and to provide for the coordination of the emergency functions of this city with all other public agencies and affected private persons, corporations, and organizations. Any expenditures made in connection with such emergency activities, including mutual aid activities, shall be deemed conclusively to be for the direct protection and benefit of the inhabitants and property of the City.</text>
+      <annotation doc="Ord. 1980-10" path="§1" type="History"/>
+      <annotation type="History">prior code § 13.01</annotation>
     </section>
     <section>
       <num>2.78.020</num>
       <heading>DEFINITIONS.</heading>
-      <text>As used in this chapter, "emergency" means the actual or threatened existence of conditions of disaster or extreme peril to the safety of persons and property within this city caused by such conditions as air pollution, earthquake, epidemic, extreme and sudden energy shortages, drought, fire, flood, riot, storm, or other conditions, including conditions resulting from war or imminent threat of war, but other than conditions resulting from beyond the control of the services, personnel, equipment, and facilities of this city, requiring the combined efforts of other political subdivisions to respond. (Ord. 1980-10 § 1, 1980; prior code § 13.02).</text>
+      <text>As used in this chapter, "emergency" means the actual or threatened existence of conditions of disaster or extreme peril to the safety of persons and property within this city caused by such conditions as air pollution, earthquake, epidemic, extreme and sudden energy shortages, drought, fire, flood, riot, storm, or other conditions, including conditions resulting from war or imminent threat of war, but other than conditions resulting from beyond the control of the services, personnel, equipment, and facilities of this city, requiring the combined efforts of other political subdivisions to respond.</text>
+      <annotation doc="Ord. 1980-10" path="§1" type="History"/>
+      <annotation type="History">prior code § 13.02</annotation>
     </section>
     <section>
       <num>2.78.030</num>
@@ -1121,8 +1334,11 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>To represent the emergency services organization of this city in all dealings with public or private agencies pertaining to emergency services. (Ord. 2007-14 § 2, 2007; Ord. 1980-10 § 1, 1980; prior code § 13.05).</text>
+        <text>To represent the emergency services organization of this city in all dealings with public or private agencies pertaining to emergency services.</text>
       </para>
+      <annotation doc="Ord. 2007-14" path="§2" type="History"/>
+      <annotation doc="Ord. 1980-10" path="§1" type="History"/>
+      <annotation type="History">prior code § 13.05</annotation>
     </section>
     <section>
       <num>2.78.040</num>
@@ -1146,19 +1362,28 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>To execute all of his or her ordinary powers as city manager, all of the special powers conferred upon him or her by this chapter or by resolution adopted pursuant thereto, all powers conferred upon him or her by any statute, agreement approved by the City Council, or by any other lawful authority, and in conformity with Section 38791 of the Government Code, to exercise complete authority over the City and to exercise all police power vested in the City by the constitution and general laws. (Ord. 2007-14 § 2, 2007; Ord. 1980-10 § 1, 1980; prior code § 13.06).</text>
+        <text>To execute all of his or her ordinary powers as city manager, all of the special powers conferred upon him or her by this chapter or by resolution adopted pursuant thereto, all powers conferred upon him or her by any statute, agreement approved by the City Council, or by any other lawful authority, and in conformity with Section 38791 of the Government Code, to exercise complete authority over the City and to exercise all police power vested in the City by the constitution and general laws.</text>
       </para>
+      <annotation doc="Ord. 2007-14" path="§2" type="History"/>
+      <annotation doc="Ord. 1980-10" path="§1" type="History"/>
+      <annotation type="History">prior code § 13.06</annotation>
     </section>
     <section>
       <num>2.78.050</num>
       <heading>ORGANIZATION—COMPOSITION.</heading>
-      <text>All officers and employees of this city, together with those volunteer forces enrolled to aid them during an emergency, and all groups, organizations and persons who, by agreement or operation of laws, including persons commandeered under the provisions of Section 2.78.040(c), may be charged with duties incident to the protection of life and property in this city during such emergency, shall constitute the emergency services organization of the City. All volunteers shall be registered, and it is intended that they be protected by workers' compensation laws of the state while in training or in active emergency duty. (Ord. 2007-14 § 2, 2007; Ord. 1980-10 § 1, 1980; prior code § 13.07).</text>
+      <text>All officers and employees of this city, together with those volunteer forces enrolled to aid them during an emergency, and all groups, organizations and persons who, by agreement or operation of laws, including persons commandeered under the provisions of Section 2.78.040(c), may be charged with duties incident to the protection of life and property in this city during such emergency, shall constitute the emergency services organization of the City. All volunteers shall be registered, and it is intended that they be protected by workers' compensation laws of the state while in training or in active emergency duty.</text>
+      <annotation doc="Ord. 2007-14" path="§2" type="History"/>
+      <annotation doc="Ord. 1980-10" path="§1" type="History"/>
+      <annotation type="History">prior code § 13.07</annotation>
     </section>
     <section>
       <num>2.78.060</num>
       <heading>ORGANIZATION—DIVISION, SERVICES AND STAFF.</heading>
       <text>The functions and duties of the San Mateo emergency services organization shall be distributed among such divisions, services and special staff as the City Council shall prescribe by resolution.</text>
-      <text>The City Council shall concurrently with the adoption of this chapter, adopt a resolution setting forth the form of organization, establishment and designation of divisions and services, the assignment of functions, duties and powers, and the designation of officers and employees with specific emergency responsibilities. Insofar as possible, the form of organization, titles and terminology shall conform to the recommendations of the federal government and the state office of emergency services. (Ord. 2007-14 § 2, 2007; Ord. 1980-10 § 1, 1980; prior code § 13.08).</text>
+      <text>The City Council shall concurrently with the adoption of this chapter, adopt a resolution setting forth the form of organization, establishment and designation of divisions and services, the assignment of functions, duties and powers, and the designation of officers and employees with specific emergency responsibilities. Insofar as possible, the form of organization, titles and terminology shall conform to the recommendations of the federal government and the state office of emergency services.</text>
+      <annotation doc="Ord. 2007-14" path="§2" type="History"/>
+      <annotation doc="Ord. 1980-10" path="§1" type="History"/>
+      <annotation type="History">prior code § 13.08</annotation>
     </section>
     <section>
       <num>2.78.070</num>
@@ -1174,8 +1399,11 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>To wear, carry or display without authority, any means of identification specified by the state office of emergency services. (Ord. 2007-14 § 2, 2007; Ord. 1980-10 § 1, 1980; prior code § 13.09).</text>
+        <text>To wear, carry or display without authority, any means of identification specified by the state office of emergency services.</text>
       </para>
+      <annotation doc="Ord. 2007-14" path="§2" type="History"/>
+      <annotation doc="Ord. 1980-10" path="§1" type="History"/>
+      <annotation type="History">prior code § 13.09</annotation>
     </section>
   </container>
   <container>
@@ -1203,8 +1431,9 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Protecting public confidence in the political process requires adequate enforcement of the provisions of this article. (Ord. 2005-1 § 1)</text>
+        <text>Protecting public confidence in the political process requires adequate enforcement of the provisions of this article.</text>
       </para>
+      <annotation doc="Ord. 2005-1" path="§1" type="History"/>
     </section>
     <section>
       <num>2.80.020</num>
@@ -1229,8 +1458,9 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>"Organization" means a partnership, corporation, association, firm, business entity, committee, club, union, or company. (Ord. 2005-1 § 1)</text>
+        <text>"Organization" means a partnership, corporation, association, firm, business entity, committee, club, union, or company.</text>
       </para>
+      <annotation doc="Ord. 2005-1" path="§1" type="History"/>
     </section>
     <section>
       <num>2.80.030</num>
@@ -1249,39 +1479,48 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>The limitations imposed by this section shall not apply to contribution of a candidate's personal funds to the candidate's own campaign, or to any loan which is personally guaranteed by the candidate or is secured by property owned by the candidate. (Ord. 2017-2 § 1; Ord. 2005-1 § 1)</text>
+        <text>The limitations imposed by this section shall not apply to contribution of a candidate's personal funds to the candidate's own campaign, or to any loan which is personally guaranteed by the candidate or is secured by property owned by the candidate.</text>
       </para>
+      <annotation doc="Ord. 2017-2" path="§1" type="History"/>
+      <annotation doc="Ord. 2005-1" path="§1" type="History"/>
     </section>
     <section>
       <num>2.80.040</num>
       <heading>CANDIDATE LOANS.</heading>
-      <text>No candidate shall personally loan their campaign an amount the outstanding balance of which exceeds $15,000.00 at any given point in time. (Ord. 2005-1 § 1)</text>
+      <text>No candidate shall personally loan their campaign an amount the outstanding balance of which exceeds $15,000.00 at any given point in time.</text>
+      <annotation doc="Ord. 2005-1" path="§1" type="History"/>
     </section>
     <section>
       <num>2.80.050</num>
       <heading>CANDIDATE CAMPAIGNS ONLY.</heading>
-      <text>The provisions of this chapter apply to election campaigns for candidates only. The provisions of this chapter do not apply to any referendum or initiative election. (Ord. 2005-1 § 1)</text>
+      <text>The provisions of this chapter apply to election campaigns for candidates only. The provisions of this chapter do not apply to any referendum or initiative election.</text>
+      <annotation doc="Ord. 2005-1" path="§1" type="History"/>
     </section>
     <section>
       <num>2.80.060</num>
       <heading>INJUNCTION, OTHER COURT ACTION.</heading>
-      <text>In addition to all other remedies and penalties provided for violation of this chapter, the City Attorney may bring suit in a court of competent jurisdiction to seek an injunction or other appropriate relief, to halt any violation of this chapter. Such action may include seeking a temporary restraining order or temporary injunction and other appropriate temporary relief. Nothing in this chapter shall be deemed to restrict a suit for damages on behalf of the City or on behalf of any other person or entity. (Ord. 2005-1 § 1)</text>
+      <text>In addition to all other remedies and penalties provided for violation of this chapter, the City Attorney may bring suit in a court of competent jurisdiction to seek an injunction or other appropriate relief, to halt any violation of this chapter. Such action may include seeking a temporary restraining order or temporary injunction and other appropriate temporary relief. Nothing in this chapter shall be deemed to restrict a suit for damages on behalf of the City or on behalf of any other person or entity.</text>
+      <annotation doc="Ord. 2005-1" path="§1" type="History"/>
     </section>
     <section>
       <num>2.80.070</num>
       <heading>PENALTIES.</heading>
-      <text>Any person who violates the provisions of this chapter is guilty of a public offense. (Ord. 2012-2 § 5; Ord. 2005-1 § 1)</text>
+      <text>Any person who violates the provisions of this chapter is guilty of a public offense.</text>
+      <annotation doc="Ord. 2012-2" path="§5" type="History"/>
+      <annotation doc="Ord. 2005-1" path="§1" type="History"/>
     </section>
     <section>
       <num>2.80.080</num>
       <heading>POST ELECTION REVIEW.</heading>
       <text>No later than three (3) months after the certification of the results of a City election at which a City Council member is elected, the City Clerk shall calendar for City Council consideration a review of the provisions of this chapter. The purpose of such review is to allow the City Council to consider the ongoing appropriateness of the provisions of this chapter, including, but not limited to, the amount of the contribution and loan limits established in Sections 2.80.030 and 2.80.040.</text>
-      <text>Notwithstanding any other provision of this code, the City Clerk's failure to calendar this review within the time period specified shall not subject the City Clerk to any criminal or civil penalty. (Ord. 2005-1 § 1)</text>
+      <text>Notwithstanding any other provision of this code, the City Clerk's failure to calendar this review within the time period specified shall not subject the City Clerk to any criminal or civil penalty.</text>
+      <annotation doc="Ord. 2005-1" path="§1" type="History"/>
     </section>
     <section>
       <num>2.80.090</num>
       <heading>SEVERABILITY.</heading>
-      <text>Each section and provision of this chapter shall be considered severable and the invalidity of any section or provision of this chapter shall not affect the validity or enforceability of any other section or provision. (Ord. 2005-1 § 1)</text>
+      <text>Each section and provision of this chapter shall be considered severable and the invalidity of any section or provision of this chapter shall not affect the validity or enforceability of any other section or provision.</text>
+      <annotation doc="Ord. 2005-1" path="§1" type="History"/>
     </section>
   </container>
 </container>
