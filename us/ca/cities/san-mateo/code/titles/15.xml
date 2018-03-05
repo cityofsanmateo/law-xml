@@ -3,7 +3,7 @@
   <prefix>Title</prefix>
   <num>15</num>
   <heading>PUBLIC UTILITIES</heading>
-  <annotation>For the statutory provisions regarding public utilities in general see the California Public Utilities Code. For the provisions regarding the granting of franchises by local governments see Cal. Pub. U.C. § 6001 et seq.</annotation>
+  <annotation>For the statutory provisions regarding public utilities in general see the <cite doc="Cal. Pub. Util. Code" proof="true">California Public Utilities Code</cite>. For the provisions regarding the granting of franchises by local governments see Cal. Pub. U.C. § 6001 et seq.</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>15.04</num>
@@ -56,7 +56,7 @@
     <section>
       <num>15.08.030</num>
       <heading>TWO FORMS OF PROCEDURE.</heading>
-      <text>The procedure for the granting of franchises hereunder is set forth in Chapters 15.12 and 15.16. The procedure indicated in Chapter 15.12 shall apply to franchises applied for, for all purposes indicated in Section 15.08.020.</text>
+      <text>The procedure for the granting of franchises hereunder is set forth in Chapters 15.12 and 15.16. The procedure indicated in Chapter 15.12 shall apply to franchises applied for, for all purposes indicated in <cite path="§15.08.020">Section 15.08.020</cite>.</text>
       <text>The procedure for the granting of franchises hereunder as set forth in Chapter 15.16, is an alternate procedure which may be used with reference to the application, hearing and granting or denial of franchises to construct and use, or to lay and use, gas pipe for the purpose of carrying gas or light, heat or power, or to use, or construct and use, poles, wires, conduits and appurtenances for the transmitting of electricity for all purposes, under, along, across or upon the streets of the City, and either the procedure set forth in Chapter 15.12, or the procedure set forth in Chapter 15.16, may be used at the discretion of council for such purposes.</text>
       <text>Chapter 15.12 substantially adopts the provisions of the Statutes of 1905 of the state of California, page 777, as amended, known as the "Franchise Sales Law."</text>
       <text>Chapter 15.16 substantially adopts the provision of the Statutes of 1937 of the state of California, known as "The Franchises Act of 1937."</text>
@@ -285,7 +285,7 @@
     <prefix>Chapter</prefix>
     <num>15.24</num>
     <heading>COMMUNITY ANTENNA TELEVISION FRANCHISE</heading>
-    <annotation>For the statutory authority of cities to franchise or license the construction of a community antennae television system, see Cal. Gov. C.A. Sec. 53066.</annotation>
+    <annotation>For the statutory authority of cities to franchise or license the construction of a community antennae television system, see <cite doc="Cal. Gov’t Code" path="§53066." proof="true">Cal. Gov. C.A. Sec. 53066.</cite></annotation>
     <section>
       <num>15.24.010</num>
       <heading>DEFINITIONS.</heading>
@@ -529,7 +529,7 @@
     <section>
       <num>15.25.010</num>
       <heading>PURPOSES AND IMPLEMENTATION.</heading>
-      <text>The purpose of this chapter is to set forth regulations for the provision of video service by state franchise holders, in accordance with the Digital Infrastructure and Video Competition Act, California Public Utilities Code sections 5800-5970 ("DIVCA"). This chapter applies to video service providers operating within the City pursuant to a valid state franchise.</text>
+      <text>The purpose of this chapter is to set forth regulations for the provision of video service by state franchise holders, in accordance with the Digital Infrastructure and Video Competition Act, <cite doc="Cal. Pub. Util. Code" proof="true">California Public Utilities Code</cite> sections 5800-5970 ("DIVCA"). This chapter applies to video service providers operating within the City pursuant to a valid state franchise.</text>
       <annotation doc="Ord. 2009-8" path="§1" type="History"/>
     </section>
     <section>
@@ -546,31 +546,31 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>"Franchise fee" has the meaning set forth in Public Utilities Code section 5830 or its successor.</text>
+        <text>"Franchise fee" has the meaning set forth in <cite doc="Cal. Pub. Util. Code" path="§5830" proof="true">Public Utilities Code section 5830</cite> or its successor.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>"Gross revenues" has the meaning set forth in Public Utilities Code section 5860 or its successor.</text>
+        <text>"Gross revenues" has the meaning set forth in <cite doc="Cal. Pub. Util. Code" path="§5860" proof="true">Public Utilities Code section 5860</cite> or its successor.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>"Holder" has the meaning set forth in subdivision (j) of Public Utilities Code section 5830 or its successor.</text>
+        <text>"Holder" has the meaning set forth in subdivision (j) of <cite doc="Cal. Pub. Util. Code" path="§5830" proof="true">Public Utilities Code section 5830</cite> or its successor.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>"Material breach" has the meaning set forth in subdivision (j) of Public Utilities Code section 5900 or its successor.</text>
+        <text>"Material breach" has the meaning set forth in subdivision (j) of <cite doc="Cal. Pub. Util. Code" path="§5900" proof="true">Public Utilities Code section 5900</cite> or its successor.</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>"Network" has the meaning set forth in subdivision (l) of Public Utilities Code section 5830 or its successor.</text>
+        <text>"Network" has the meaning set forth in subdivision (l) of <cite doc="Cal. Pub. Util. Code" path="§5830" proof="true">Public Utilities Code section 5830</cite> or its successor.</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>"State franchise" has the meaning set forth in subdivision (p) of Public Utilities Code section 5830.</text>
+        <text>"State franchise" has the meaning set forth in subdivision (p) of <cite doc="Cal. Pub. Util. Code" path="§5830." proof="true">Public Utilities Code section 5830.</cite></text>
       </para>
       <para>
         <num>(i)</num>
-        <text>"Video service" has the meaning set forth in subdivision (s) of Public Utilities Code section 5830 or its successor.</text>
+        <text>"Video service" has the meaning set forth in subdivision (s) of <cite doc="Cal. Pub. Util. Code" path="§5830" proof="true">Public Utilities Code section 5830</cite> or its successor.</text>
       </para>
       <annotation doc="Ord. 2009-8" path="§1" type="History"/>
     </section>
@@ -607,7 +607,7 @@
     <section>
       <num>15.25.050</num>
       <heading>PEG CHANNEL FACILITIES FEE AND PAYMENTS.</heading>
-      <text>In accordance with Public Utilities Code section 5870(n), upon termination of all incumbent cable provider franchises, state franchise holders must pay one percent of gross revenues to the City to support PEG channel facilities. State franchise holders shall remit PEG fees in the same manner as franchise fees as set forth in section 15.25.020 above. The PEG fee may be shown as a separate line item on the regular bill of each subscriber.</text>
+      <text>In accordance with <cite doc="Cal. Pub. Util. Code" path="§5870|(n)" proof="true">Public Utilities Code section 5870(n)</cite>, upon termination of all incumbent cable provider franchises, state franchise holders must pay one percent of gross revenues to the City to support PEG channel facilities. State franchise holders shall remit PEG fees in the same manner as franchise fees as set forth in <cite path="§15.25.020" proof="true">section 15.25.020</cite> above. The PEG fee may be shown as a separate line item on the regular bill of each subscriber., upon termination of all incumbent cable provider franchises, state franchise holders must pay one percent of gross revenues to the City to support PEG channel facilities. State franchise holders shall remit PEG fees in the same manner as franchise fees as set forth in section 15.25.020 above. The PEG fee may be shown as a separate line item on the regular bill of each subscriber.</text>
       <annotation doc="Ord. 2009-8" path="§1" type="History"/>
     </section>
     <section>
@@ -615,7 +615,7 @@
       <heading>CUSTOMER SERVICE AND PROTECTION.</heading>
       <para>
         <num>(a)</num>
-        <text>A state franchise holder shall comply with Sections 53055, 53055.1, 53055.2 and 53088.2 of the California Government Code; the FCC customer service and notice standards set forth in Sections 76.309, 76.1602, 76.1603 and 76.1619 of Title 47 of the Code of Federal Regulations; Section 637.5 of the California Penal Code; the privacy standards of Section 551 of Title 47 of the United States Code; and all other applicable state and federal customer service and consumer protection standards pertaining to the provision of video service, including any such standards hereafter adopted. In case of a conflict, the stricter standard shall apply. All customer service and consumer protection standards under this paragraph shall be interpreted and applied to accommodate newer or different technologies while meeting or exceeding the goals of the standards.</text>
+        <text>A state franchise holder shall comply with Sections 53055, 53055.1, 53055.2 and <cite doc="Cal. Gov’t Code" path="§53088.2" proof="true">53088.2 of the California Government Code</cite>; the FCC customer service and notice standards set forth in Sections 76.309, 76.1602, 76.1603 and 76.1619 of Title 47 of the Code of Federal Regulations; <cite doc="Cal. Penal Code" path="§637.5" proof="true">Section 637.5 of the California Penal Code</cite>; the privacy standards of Section 551 of Title 47 of the United States Code; and all other applicable state and federal customer service and consumer protection standards pertaining to the provision of video service, including any such standards hereafter adopted. In case of a conflict, the stricter standard shall apply. All customer service and consumer protection standards under this paragraph shall be interpreted and applied to accommodate newer or different technologies while meeting or exceeding the goals of the standards.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -626,7 +626,7 @@
     <section>
       <num>15.25.070</num>
       <heading>PENALTIES.</heading>
-      <text>The following monetary penalties, as set forth in Public Utilities Code section 5900, are hereby adopted as the applicable schedule of penalties for any material breach of DIVCA, by a state franchisee, as follows:</text>
+      <text>The following monetary penalties, as set forth in <cite doc="Cal. Pub. Util. Code" path="§5900" proof="true">Public Utilities Code section 5900</cite>, are hereby adopted as the applicable schedule of penalties for any material breach of DIVCA, by a state franchisee, as follows:</text>
       <para>
         <num>(1)</num>
         <text>$500 per day for each material breach, not to exceed $1500 per occurrence of a material breach.</text>
@@ -769,7 +769,7 @@
       <heading>SERVICE AGREEMENT—PRIVATE CONTRACTOR.</heading>
       <para>
         <num>(a)</num>
-        <text>The City is authorized to enter into a service agreement with an alarm system contractor to provide twenty-four (24) hour service to silence nuisance alarms. When such a service agreement is in effect, any employee of that alarm system contractor may utilize the authority granted in section 15.26.070 above if accompanied by a police officer or police service aide.</text>
+        <text>The City is authorized to enter into a service agreement with an alarm system contractor to provide twenty-four (24) hour service to silence nuisance alarms. When such a service agreement is in effect, any employee of that alarm system contractor may utilize the authority granted in <cite path="§15.26.070">section 15.26.070</cite> above if accompanied by a police officer or police service aide.</text>
       </para>
       <para>
         <num>(b)</num>

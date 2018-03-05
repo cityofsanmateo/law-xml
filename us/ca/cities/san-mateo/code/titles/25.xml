@@ -250,7 +250,7 @@
       <text>In the event any section, clause or provision of this Title shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
       <annotation doc="Ord. 2010-8" path="§1" type="History"/>
       <annotation doc="Ord. 2009-2" path="§1" type="History"/>
-      <annotation type="History">prior code § 25.04.030</annotation>
+      <annotation type="History">prior code <cite path="§25.04.030">§ 25.04.030</cite></annotation>
       <annotation doc="Ord. 2001-33" path="§1" type="History"/>
       <annotation doc="Ord. 1994-25" path="§1" type="History"/>
       <annotation doc="Ord. 1991-16" path="§2" type="History"/>
@@ -415,7 +415,7 @@
     <section>
       <num>25.06.020</num>
       <heading>PERMIT DENIAL.</heading>
-      <text>An applicant who has been denied a permit under this title for a sign that is not a prohibited sign under Chapter 25.08 may seek judicial review of the denial in accordance with Code of Civil Procedure Section 1094.8.</text>
+      <text>An applicant who has been denied a permit under this title for a sign that is not a prohibited sign under Chapter 25.08 may seek judicial review of the denial in accordance with <cite doc="Cal. Civ. Proc. Code" path="§1094.8." proof="true">Code of Civil Procedure Section 1094.8.</cite></text>
       <annotation doc="Ord. 2009-2" path="§1" type="History"/>
     </section>
     <section>
@@ -511,7 +511,7 @@
         <text>Permanent Signs. The following types of permanent signs are permitted:</text>
         <para>
           <num>(1)</num>
-          <text>Signs Approved as Part of Planned Signing District. A Planned Signing District shall be reviewed by the Zoning Administrator under Chapter 27.08 and shall be subject to appeal to the Planning Commission pursuant to Section 27.08.090. The Planned Signing District must conform to the following standards:</text>
+          <text>Signs Approved as Part of Planned Signing District. A Planned Signing District shall be reviewed by the Zoning Administrator under Chapter 27.08 and shall be subject to appeal to the Planning Commission pursuant to <cite path="§27.08.090">Section 27.08.090</cite>. The Planned Signing District must conform to the following standards:</text>
           <para>
             <num>(A)</num>
             <text>Be consistent with the applicable restrictions for the zoning district, type of use and zoning plot size.</text>
@@ -523,7 +523,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Freestanding Signs Over Eight Feet in Height. Freestanding signs over eight feet in height shall be reviewed by the Zoning Administrator under Chapter 27.08 and shall be subject to appeal to the Planning Commission pursuant to Section 27.08.090. The freestanding sign shall be subject to the following standards:</text>
+          <text>Freestanding Signs Over Eight Feet in Height. Freestanding signs over eight feet in height shall be reviewed by the Zoning Administrator under Chapter 27.08 and shall be subject to appeal to the Planning Commission pursuant to <cite path="§27.08.090">Section 27.08.090</cite>. The freestanding sign shall be subject to the following standards:</text>
           <para>
             <num>(A)</num>
             <text>The applicable restrictions are based upon the zoning district, type of use and zoning plot size. Any freestanding sign over eight feet in height shall be consistent with these regulations.</text>
@@ -575,11 +575,11 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Motor Vehicle Fuel Service Stations. Motor vehicle fuel service stations shall be permitted to exceed the number of signs otherwise authorized by this chapter in order to erect those signs designated in Business and Professions Code Section 13400 et seq., for motor vehicle fuel prices and services.</text>
+          <text>Motor Vehicle Fuel Service Stations. Motor vehicle fuel service stations shall be permitted to exceed the number of signs otherwise authorized by this chapter in order to erect those signs designated in <cite doc="Cal. Bus. &amp; Prof. Code" path="§13400" proof="true">Business and Professions Code Section 13400</cite> et seq., for motor vehicle fuel prices and services.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>Signs permitted in the applicable zoning district in accordance with Section 25.06.070.</text>
+          <text>Signs permitted in the applicable zoning district in accordance with <cite path="§25.06.070">Section 25.06.070</cite>.</text>
         </para>
       </para>
       <annotation doc="Ord. 2009-2" path="§1" type="History"/>
@@ -589,14 +589,14 @@
       <heading>SIGNS ALLOWED WITHOUT PERMIT (EXEMPT SIGNS).</heading>
       <para>
         <num>(a)</num>
-        <text>Exempt Signs. The following signs are exempt from the permit and fee requirements of this title, but are subject to the other restrictions set forth in this title. Signs allowed by this section shall not be counted against the signage allowed in Section 25.06.070, but may not be added to that signage to create a larger sign.</text>
+        <text>Exempt Signs. The following signs are exempt from the permit and fee requirements of this title, but are subject to the other restrictions set forth in this title. Signs allowed by this section shall not be counted against the signage allowed in <cite path="§25.06.070">Section 25.06.070</cite>, but may not be added to that signage to create a larger sign.</text>
         <para>
           <num>(1)</num>
           <text>Sign Size per Zoning District. Signs up to 10 square feet in R1 and R2 districts and 16 square feet in all other districts. No sign may be larger than six square feet, except as allowed under flags and pennants below.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Window Signs. In addition to signs authorized by Section 25.06.070, each residential unit, nonresidential use or individual business may have the window signs listed below. The square footage may not be combined with that allowed for other residential units, nonresidential use or businesses to exceed the allowed square feet per residential unit, nonresidential use or per business or to create larger signs. Window signs shall not cover more than 25% of the window area of any window within a building.</text>
+          <text>Window Signs. In addition to signs authorized by <cite path="§25.06.070">Section 25.06.070</cite>, each residential unit, nonresidential use or individual business may have the window signs listed below. The square footage may not be combined with that allowed for other residential units, nonresidential use or businesses to exceed the allowed square feet per residential unit, nonresidential use or per business or to create larger signs. Window signs shall not cover more than 25% of the window area of any window within a building.</text>
           <para>
             <num>(A)</num>
             <text>Signs up to four square feet in size.</text>
@@ -608,7 +608,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Address Signs. In addition to signs authorized by Section 25.06.070, each building, unit, or property with an address may place a sign not to exceed one square foot limited to the street address for the building, unit, or property.</text>
+          <text>Address Signs. In addition to signs authorized by <cite path="§25.06.070">Section 25.06.070</cite>, each building, unit, or property with an address may place a sign not to exceed one square foot limited to the street address for the building, unit, or property.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -616,7 +616,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Flags and Pennants. Two flags or any number of pennants totaling 30 square feet in addition to the square footage allowed by Section 25.06.070.</text>
+          <text>Flags and Pennants. Two flags or any number of pennants totaling 30 square feet in addition to the square footage allowed by <cite path="§25.06.070">Section 25.06.070</cite>.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -664,7 +664,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>Legal Nonconforming Signs. Any on-premises advertising display, as that term is defined in Business and Professions Code Section 5490 et seq., which lawfully exists on the effective date of the ordinance codified in this title, but which is not authorized by this title, is a legal nonconforming sign, and may continue as an exception to this title, and to any zoning provisions of this code. However, a legal nonconforming sign shall be removed or brought into conformance with the provisions of this title if such sign meets any of the criteria set forth in Business and Professions Code Section 5497. For the purposes of applying Business and Professions Code Section 5497, an advertising display shall be considered "abandoned" if it has not displayed any message (either commercial or noncommercial) for a period of 90 consecutive days.</text>
+          <text>Legal Nonconforming Signs. Any on-premises advertising display, as that term is defined in <cite doc="Cal. Bus. &amp; Prof. Code" path="§5490" proof="true">Business and Professions Code Section 5490</cite> et seq., which lawfully exists on the effective date of the ordinance codified in this title, but which is not authorized by this title, is a legal nonconforming sign, and may continue as an exception to this title, and to any zoning provisions of this code. However, a legal nonconforming sign shall be removed or brought into conformance with the provisions of this title if such sign meets any of the criteria set forth in <cite doc="Cal. Bus. &amp; Prof. Code" path="§5497." proof="true">Business and Professions Code Section 5497.</cite> For the purposes of applying <cite doc="Cal. Bus. &amp; Prof. Code" path="§5497" proof="true">Business and Professions Code Section 5497</cite>, an advertising display shall be considered "abandoned" if it has not displayed any message (either commercial or noncommercial) for a period of 90 consecutive days.</text>
         </para>
       </para>
       <para>
@@ -702,7 +702,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>For nonresidential uses, as defined in Section 25.02.030, and multiple family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
+          <text>For nonresidential uses, as defined in <cite path="§25.02.030">Section 25.02.030</cite>, and multiple family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -747,7 +747,7 @@
               <td>No internal neon</td>
             </tr>
             <tr>
-              <td>No sign, regardless of type, shall be located above 40 feet above grade, except as provided for high-rise buildings in Section 25.06.050.</td>
+              <td>No sign, regardless of type, shall be located above 40 feet above grade, except as provided for high-rise buildings in <cite path="§25.06.050">Section 25.06.050</cite>.</td>
             </tr>
           </table>
         </text>
@@ -800,7 +800,7 @@
               <td>No neon</td>
             </tr>
             <tr>
-              <td>No sign, regardless of type, shall be located above 40 feet above grade, except as provided for high-rise buildings in Section 25.06.050.</td>
+              <td>No sign, regardless of type, shall be located above 40 feet above grade, except as provided for high-rise buildings in <cite path="§25.06.050">Section 25.06.050</cite>.</td>
             </tr>
           </table>
         </text>
@@ -818,7 +818,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>For nonresidential uses, as defined in Section 25.02.030, and multiple-family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
+          <text>For nonresidential uses, as defined in <cite path="§25.02.030">Section 25.02.030</cite>, and multiple-family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -849,7 +849,7 @@
           </para>
           <para>
             <num>(E)</num>
-            <text>High Rise Buildings with Multiple Tenants. High rise buildings with multiple tenants may have one face sign not to exceed 150 square feet in sign area in addition to the sign area and number of signs allowed in subsections (b)(6)(A) and (b)(6)(B). High rise building face signs are subject to the requirements set forth in Section 25.06.050(b)(3).</text>
+            <text>High Rise Buildings with Multiple Tenants. High rise buildings with multiple tenants may have one face sign not to exceed 150 square feet in sign area in addition to the sign area and number of signs allowed in subsections (b)(6)(A) and (b)(6)(B). High rise building face signs are subject to the requirements set forth in <cite path="§25.06.050|(b)|(3)">Section 25.06.050(b)(3)</cite>.</text>
           </para>
           <text>
             <strong>Table 25.06-3:</strong>
@@ -869,7 +869,7 @@
               </tr>
               <tr>
                 <th>Number of Signs Permitted</th>
-                <td>2 signs per street frontage per business. Only 1 sign per street frontage may be either a freestanding or projecting sign. For multi-tenant buildings see Section 25.06.070(b)(6).</td>
+                <td>2 signs per street frontage per business. Only 1 sign per street frontage may be either a freestanding or projecting sign. For multi-tenant buildings see <cite path="§25.06.070|(b)|(6)">Section 25.06.070(b)(6)</cite>.</td>
               </tr>
               <tr>
                 <th>Types of Permitted Signs</th>
@@ -934,7 +934,7 @@
                 </td>
               </tr>
               <tr>
-                <td>No sign, regardless of type, shall be located above 40 ft. above grade, except as provided for high-rise buildings in Section 25.06.050.</td>
+                <td>No sign, regardless of type, shall be located above 40 ft. above grade, except as provided for high-rise buildings in <cite path="§25.06.050">Section 25.06.050</cite>.</td>
               </tr>
             </table>
           </text>
@@ -953,11 +953,11 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>For nonresidential uses, as defined in Section 25.02.030, and multiple-family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
+          <text>For nonresidential uses, as defined in <cite path="§25.02.030">Section 25.02.030</cite>, and multiple-family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Multiple Tenants. Where a building contains more than one tenant and individual signs are desired, the provisions of Section 25.06.050(b)(6) shall apply.</text>
+          <text>Multiple Tenants. Where a building contains more than one tenant and individual signs are desired, the provisions of <cite path="§25.06.050|(b)|(6)">Section 25.06.050(b)(6)</cite> shall apply.</text>
         </para>
         <text>
           <strong>Table 25.06-4:</strong>
@@ -975,7 +975,7 @@ Frontage Area</strong>
             </tr>
             <tr>
               <th>Number of Signs Permitted</th>
-              <td>2 signs per street frontage per business. Only 1 sign per street frontage may be a projecting sign. For multi-tenant buildings see Section 25.06.050(b)(6).</td>
+              <td>2 signs per street frontage per business. Only 1 sign per street frontage may be a projecting sign. For multi-tenant buildings see <cite path="§25.06.050|(b)|(6)">Section 25.06.050(b)(6)</cite>.</td>
             </tr>
             <tr>
               <th>Types of Permitted Signs</th>
@@ -1028,7 +1028,7 @@ Frontage Area</strong>
               </td>
             </tr>
             <tr>
-              <td>No sign, regardless of type, shall be located above 40 ft. above grade, except as provided for high-rise buildings in Section 25.06.050.</td>
+              <td>No sign, regardless of type, shall be located above 40 ft. above grade, except as provided for high-rise buildings in <cite path="§25.06.050">Section 25.06.050</cite>.</td>
             </tr>
           </table>
         </text>
@@ -1046,11 +1046,11 @@ Frontage Area</strong>
         </para>
         <para>
           <num>(3)</num>
-          <text>For nonresidential uses, as defined in Section 25.02.030, and multiple-family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
+          <text>For nonresidential uses, as defined in <cite path="§25.02.030">Section 25.02.030</cite>, and multiple-family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Multiple Tenants. Where a building contains more than one tenant and individual signs are desired, the provisions of Section 25.06.050(b)(6) shall apply.</text>
+          <text>Multiple Tenants. Where a building contains more than one tenant and individual signs are desired, the provisions of <cite path="§25.06.050|(b)|(6)">Section 25.06.050(b)(6)</cite> shall apply.</text>
         </para>
         <text>
           <strong>Table 25.06-5:</strong>
@@ -1072,7 +1072,7 @@ Frontage Area</strong>
             </tr>
             <tr>
               <th>Number of Signs Permitted</th>
-              <td>2 signs per street frontage per business. Only 1 freestanding sign per zoning plot. For multi-tenant buildings see Section 25.06.050(b)(6).</td>
+              <td>2 signs per street frontage per business. Only 1 freestanding sign per zoning plot. For multi-tenant buildings see <cite path="§25.06.050|(b)|(6)">Section 25.06.050(b)(6)</cite>.</td>
               <td>One sign per building.</td>
             </tr>
             <tr>
@@ -1119,7 +1119,7 @@ Frontage Area</strong>
               </td>
             </tr>
             <tr>
-              <td>No sign, regardless of type, shall be located above 40 ft. above grade, except as provided for high-rise buildings in Section 25.06.050.</td>
+              <td>No sign, regardless of type, shall be located above 40 ft. above grade, except as provided for high-rise buildings in <cite path="§25.06.050">Section 25.06.050</cite>.</td>
             </tr>
           </table>
         </text>
@@ -1133,7 +1133,7 @@ Frontage Area</strong>
         </para>
         <para>
           <num>(2)</num>
-          <text>Multiple Tenants. Where a building contains more than one ground floor tenant and individual signs are desired, the provisions of Section 25.06.050(b)(6) shall apply.</text>
+          <text>Multiple Tenants. Where a building contains more than one ground floor tenant and individual signs are desired, the provisions of <cite path="§25.06.050|(b)|(6)">Section 25.06.050(b)(6)</cite> shall apply.</text>
         </para>
       </para>
       <para>
@@ -1149,11 +1149,11 @@ Frontage Area</strong>
         </para>
         <para>
           <num>(3)</num>
-          <text>For nonresidential uses, as defined in Section 25.02.030, and multiple-family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
+          <text>For nonresidential uses, as defined in <cite path="§25.02.030">Section 25.02.030</cite>, and multiple-family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Multiple Tenants. Where a building contains more than one tenant and individual signs are desired, the provisions of Section 25.06.050(b)(6) shall apply.</text>
+          <text>Multiple Tenants. Where a building contains more than one tenant and individual signs are desired, the provisions of <cite path="§25.06.050|(b)|(6)">Section 25.06.050(b)(6)</cite> shall apply.</text>
         </para>
       </para>
       <annotation doc="Ord. 2014-7" path="§1" type="History"/>
@@ -1177,7 +1177,7 @@ Frontage Area</strong>
         </para>
         <para>
           <num>(2)</num>
-          <text>Banners, except as permitted by Sections 25.04.030 and 25.06.050(a) and there may be permanently displayed on each zoning plot 1 flag that is no larger than 6 feet by 4 feet in dimension, and there is no limit on the number of flags that may be displayed by public agencies on public property;</text>
+          <text>Banners, except as permitted by Sections <cite path="§25.04.030">25.04.030</cite> and <cite path="§25.06.050|(a)">25.06.050(a)</cite> and there may be permanently displayed on each zoning plot 1 flag that is no larger than 6 feet by 4 feet in dimension, and there is no limit on the number of flags that may be displayed by public agencies on public property;</text>
         </para>
         <para>
           <num>(3)</num>

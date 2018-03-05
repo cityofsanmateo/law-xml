@@ -220,7 +220,7 @@
       <text><strong>REPAIR</strong> is the reconstruction or renewal of any part of an existing building, structure or building service equipment for the purpose of its maintenance.</text>
       <text><strong>RESIDENTIAL CODE</strong> is the California Residential Code promulgated by the International Code Council, as adopted by this jurisdiction.</text>
       <text><strong>SHALL</strong>, as used in this code, is mandatory.</text>
-      <text><strong>STRUCTURAL OBSERVATION </strong>means the visual observation of the structural system, for general conformance to the approved plans and specifications, at significant construction stages at completion of the structural system. Structural observation does not include or waive the responsibility for the inspections required by Sections 23.06.110 and 23.06.130.</text>
+      <text><strong>STRUCTURAL OBSERVATION </strong>means the visual observation of the structural system, for general conformance to the approved plans and specifications, at significant construction stages at completion of the structural system. Structural observation does not include or waive the responsibility for the inspections required by Sections <cite path="§23.06.110">23.06.110</cite> and means the visual observation of the structural system, for general conformance to the approved plans and specifications, at significant construction stages at completion of the structural system. Structural observation does not include or waive the responsibility for the inspections required by Sections 23.06.110 and <cite path="§23.06.130">23.06.130</cite>.means the visual observation of the structural system, for general conformance to the approved plans and specifications, at significant construction stages at completion of the structural system. Structural observation does not include or waive the responsibility for the inspections required by Sections 23.06.110 and 23.06.130.</text>
       <text><strong>STRUCTURE</strong> is that which is built or constructed, an edifice or building of any kind, or any piece of work artificially built up or posed of parts joined together in some definite manner.</text>
       <text><strong>TECHNICAL CODES</strong> refer to those codes adopted by this jurisdiction containing the provisions for design, construction, alteration, addition, repair, removal, demolition, use, location, occupancy and maintenance of buildings and structures and building service equipment as herein defined.</text>
       <text><strong>VALUATION</strong> or <strong>VALUE</strong>, as applied to a building and its building service equipment, shall be the estimated cost to replace the building and its building service equipment in kind, based on current replacement costs.</text>
@@ -271,7 +271,7 @@
     <section>
       <num>23.06.017</num>
       <heading>TEMPORARY BUILDING.</heading>
-      <text>Real estate sales and leasing of the building or buildings under construction may be conducted from a temporary structure located on the construction site, subject to the conditions and procedures established in Section 26.04.130 of this code.</text>
+      <text>Real estate sales and leasing of the building or buildings under construction may be conducted from a temporary structure located on the construction site, subject to the conditions and procedures established in <cite path="§26.04.130">Section 26.04.130</cite> of this code.</text>
       <annotation doc="Ord. 2016-10" path="§1" type="History"/>
       <annotation doc="Ord. 2013-13" path="§1" type="History"/>
       <annotation doc="Ord. 2007-11" path="§1" type="History"/>
@@ -365,7 +365,7 @@
       <heading>APPEALS.</heading>
       <para>
         <num>(a)</num>
-        <text>Except as may be required by State or Federal law (including requirements imposed by provisions of the State or Federal constitutions) or by the provisions of Section 2.21.030 of the municipal code, the determinations and actions of the building official interpreting and enforcing the provisions of the technical codes shall be final, and are not subject to appeal.</text>
+        <text>Except as may be required by State or Federal law (including requirements imposed by provisions of the State or Federal constitutions) or by the provisions of <cite path="§2.21.030">Section 2.21.030</cite> of the municipal code, the determinations and actions of the building official interpreting and enforcing the provisions of the technical codes shall be final, and are not subject to appeal.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -431,7 +431,7 @@
     <section>
       <num>23.06.061</num>
       <heading>HOURS OF WORK EXEMPTION.</heading>
-      <text>As a condition of approval of a planning application issued pursuant to Title 26 and Title 27 of this code, a condition may be established which authorizes an exemption from the hours of work designated in Section 23.06.060 if the building official finds that:</text>
+      <text>As a condition of approval of a planning application issued pursuant to Title 26 and Title 27 of this code, a condition may be established which authorizes an exemption from the hours of work designated in <cite path="§23.06.060">Section 23.06.060</cite> if the building official finds that:</text>
       <para>
         <num>(a)</num>
         <text>The following criteria are met:</text>
@@ -667,10 +667,10 @@
       </para>
       <para>
         <num>(e)</num>
-        <text><strong>Inspection and Observation Program.</strong> When special inspection is required by Section 23.06.130, the architect or engineer of record shall prepare an inspection program which shall be submitted to the building official for approval prior to issuance of the building permit. The inspection program shall designate the portions of the work to have special inspection, the name or names of the individuals or firms who are to perform the special inspections and indicate the duties of the special inspectors.</text>
+        <text><strong>Inspection and Observation Program.</strong> When special inspection is required by <cite path="§23.06.130">Section 23.06.130</cite>, the architect or engineer of record shall prepare an inspection program which shall be submitted to the building official for approval prior to issuance of the building permit. The inspection program shall designate the portions of the work to have special inspection, the name or names of the individuals or firms who are to perform the special inspections and indicate the duties of the special inspectors. When special inspection is required by Section 23.06.130, the architect or engineer of record shall prepare an inspection program which shall be submitted to the building official for approval prior to issuance of the building permit. The inspection program shall designate the portions of the work to have special inspection, the name or names of the individuals or firms who are to perform the special inspections and indicate the duties of the special inspectors.</text>
       </para>
       <text>The special inspector shall be employed by the owner, the engineer or architect of record, or an agent of the owner, but not the contractor or any other person responsible for the work.</text>
-      <text>When structural observation is required by Section 23.06.140, the inspection program shall name the individuals or firms who are to perform structural observation and describe the stages of construction at which structural observation is to occur.</text>
+      <text>When structural observation is required by <cite path="§23.06.140">Section 23.06.140</cite>, the inspection program shall name the individuals or firms who are to perform structural observation and describe the stages of construction at which structural observation is to occur.</text>
       <text>The inspection program shall include samples of inspection reports and provide time limits for submission of reports.</text>
       <annotation doc="Ord. 2016-10" path="§1" type="History"/>
       <annotation doc="Ord. 2013-13" path="§1" type="History"/>
@@ -681,7 +681,7 @@
       <heading>PERMITS ISSUANCE.</heading>
       <para>
         <num>(a)</num>
-        <text><strong>Issuance. </strong>The application, plans, specifications, computations and other data filed by an applicant for permit shall be reviewed by the building official or his designees. Such plans may be reviewed by other departments of this jurisdiction to verify compliance with any applicable laws under their jurisdiction. If the building official finds that the work described in an application for a permit and the plans, specifications and other data filed therewith conform to the requirements of this code and the technical codes and other pertinent laws and ordinances, and that the fees specified in Section 23.06.120 have been paid, the building official shall issue a permit therefor to the applicant.</text>
+        <text><strong>Issuance. </strong>The application, plans, specifications, computations and other data filed by an applicant for permit shall be reviewed by the building official or his designees. Such plans may be reviewed by other departments of this jurisdiction to verify compliance with any applicable laws under their jurisdiction. If the building official finds that the work described in an application for a permit and the plans, specifications and other data filed therewith conform to the requirements of this code and the technical codes and other pertinent laws and ordinances, and that the fees specified in <cite path="§23.06.120">Section 23.06.120</cite> have been paid, the building official shall issue a permit therefor to the applicant.The application, plans, specifications, computations and other data filed by an applicant for permit shall be reviewed by the building official or his designees. Such plans may be reviewed by other departments of this jurisdiction to verify compliance with any applicable laws under their jurisdiction. If the building official finds that the work described in an application for a permit and the plans, specifications and other data filed therewith conform to the requirements of this code and the technical codes and other pertinent laws and ordinances, and that the fees specified in Section 23.06.120 have been paid, the building official shall issue a permit therefor to the applicant.</text>
       </para>
       <text>When a permit is issued for required plans, the building official shall endorse in writing or stamp the plans and specifications "APPROVED." Such approved plans and specifications shall not be changed, modified or altered without authorizations from the building official, and all work regulated by this code shall be done in accordance with the approved plans.</text>
       <text>The building official may issue a permit for the construction of part of a building or structure before the entire plans and specifications for the whole building or structure have been submitted or approved, provided adequate information and detailed statements have been filed complying with all pertinent requirements of this code. No building permit for construction of a superstructure shall be issued unless a complete superstructure application is made not later than 90 days after issuance of a foundation permit and a superstructure permit is taken out not later than six months after issuance of the foundation permit. For purposes of this section, the determination of whether a building or structure is a superstructure shall be made by the building official. The holder of a partial permit shall proceed at his own risk without assurance that the permit for the entire building or structure will be granted.</text>
@@ -753,7 +753,7 @@
             <num>(iii)</num>
             <text>Demolition of the structure would have a less significant effect on the neighborhood than allowing the existing dilapidated structure to remain.</text>
           </para>
-          <text>A demolition permit shall not be issued pursuant to this subsection unless notice of the proposed demolition and appeal procedures is posted on the premises in a location visible from off-site at least 15 days before issuance of the demolition permit. Pursuant to Section 2.21.030, the building official's proposal to issue a demolition permit is appealable to the Community Relations Commission within the 15-day posting period by filing a notice of appeal with the City Clerk. If demolition is requested as part of a planning application pursuant to Section 27.68.020, the Planning Commission shall review the request as required by Section 27.68.020 prior to any action by the building official.</text>
+          <text>A demolition permit shall not be issued pursuant to this subsection unless notice of the proposed demolition and appeal procedures is posted on the premises in a location visible from off-site at least 15 days before issuance of the demolition permit. Pursuant to <cite path="§2.21.030">Section 2.21.030</cite>, the building official's proposal to issue a demolition permit is appealable to the Community Relations Commission within the 15-day posting period by filing a notice of appeal with the City Clerk. If demolition is requested as part of a planning application pursuant to <cite path="§27.68.020">Section 27.68.020</cite>, the Planning Commission shall review the request as required by <cite path="§27.68.020">Section 27.68.020</cite> prior to any action by the building official.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -769,7 +769,7 @@
         <text>All demolition permits shall comply with the following conditions:</text>
         <para>
           <num>(1)</num>
-          <text>If the site is a service station or listed on the Hazardous Waste and Substances Sites List (prepared pursuant to Government Code Section 65962.5), or if the City has any other substantial evidence that the site may contain hazardous wastes, the application for a permit must be accompanied by evidence that the soil has been inspected for contamination and, if contamination has been found, that a plan has been submitted to and approved by the San Mateo County Division of Environmental Health.</text>
+          <text>If the site is a service station or listed on the Hazardous Waste and Substances Sites List (prepared pursuant to <cite doc="Cal. Gov’t Code" path="§65962.5" proof="true">Government Code Section 65962.5</cite>), or if the City has any other substantial evidence that the site may contain hazardous wastes, the application for a permit must be accompanied by evidence that the soil has been inspected for contamination and, if contamination has been found, that a plan has been submitted to and approved by the San Mateo County Division of Environmental Health.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -813,7 +813,7 @@
       <heading>INSPECTIONS.</heading>
       <para>
         <num>(a)</num>
-        <text><strong>General.</strong> Construction or work for which a permit is required shall be subject to inspection by the building official and the construction or work shall remain accessible and exposed for inspection purposes until approved by the building official. In addition, certain types of construction shall have continuous inspection as specified in Section 23.06.130.</text>
+        <text><strong>General.</strong> Construction or work for which a permit is required shall be subject to inspection by the building official and the construction or work shall remain accessible and exposed for inspection purposes until approved by the building official. In addition, certain types of construction shall have continuous inspection as specified in <cite path="§23.06.130">Section 23.06.130</cite>. Construction or work for which a permit is required shall be subject to inspection by the building official and the construction or work shall remain accessible and exposed for inspection purposes until approved by the building official. In addition, certain types of construction shall have continuous inspection as specified in Section 23.06.130.</text>
       </para>
       <text>Approval as a result of an inspection shall not be construed to be an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction. Inspections presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
       <text>It shall be the duty of the permit applicant to cause the work to remain accessible and exposed for inspection purposes. Neither the building official nor this jurisdiction shall be liable for expense entailed in the removal or replacement of any material required to allow inspection.</text>
@@ -949,7 +949,7 @@
       <heading>SPECIAL INSPECTIONS.</heading>
       <para>
         <num>(a)</num>
-        <text><strong>General.</strong> In addition to the inspections required by Section 23.06.110, the owner, or the engineer or architect of record acting as the owner's agent, shall employ one or more special inspectors who shall provide inspections during construction on the types of work as specified in the Building Code Section 1705.</text>
+        <text><strong>General.</strong> In addition to the inspections required by <cite path="§23.06.110">Section 23.06.110</cite>, the owner, or the engineer or architect of record acting as the owner's agent, shall employ one or more special inspectors who shall provide inspections during construction on the types of work as specified in the Building Code Section 1705. In addition to the inspections required by Section 23.06.110, the owner, or the engineer or architect of record acting as the owner's agent, shall employ one or more special inspectors who shall provide inspections during construction on the types of work as specified in the Building Code Section 1705.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1137,7 +1137,7 @@
     <section>
       <num>23.07.020</num>
       <heading>SECTION R319.1 SITE ADDRESS NOT ADOPTED.</heading>
-      <text>See Section 23.28.110 – Address Identification.</text>
+      <text>See <cite path="§23.28.110">Section 23.28.110</cite> – Address Identification.</text>
       <annotation doc="Ord. 2016-10" path="§2" type="History"/>
       <annotation doc="Ord. 2013-13" path="§2" type="History"/>
       <annotation doc="Ord. 2010-16" path="§2" type="History"/>
@@ -1145,7 +1145,7 @@
     <section>
       <num>23.07.030</num>
       <heading>SECTION R319.2 ADDRESS NUMBERS—MULTI-TENANT BUILDINGS NOT ADOPTED.</heading>
-      <text>See Section 23.28.120 – Address Identification – Multi-Tenant Buildings.</text>
+      <text>See <cite path="§23.28.120">Section 23.28.120</cite> – Address Identification – Multi-Tenant Buildings.</text>
       <annotation doc="Ord. 2016-10" path="§2" type="History"/>
       <annotation doc="Ord. 2013-13" path="§2" type="History"/>
       <annotation doc="Ord. 2010-16" path="§2" type="History"/>
@@ -1153,7 +1153,7 @@
     <section>
       <num>23.07.040</num>
       <heading>SECTION R319.3 ADDRESS NUMBERS—REAR ADDRESSING NOT ADOPTED.</heading>
-      <text>See Section 23.28.130 – Address Identification – Rear Addressing.</text>
+      <text>See <cite path="§23.28.130">Section 23.28.130</cite> – Address Identification – Rear Addressing.</text>
       <annotation doc="Ord. 2016-10" path="§2" type="History"/>
       <annotation doc="Ord. 2013-13" path="§2" type="History"/>
       <annotation doc="Ord. 2010-16" path="§2" type="History"/>
@@ -1161,7 +1161,7 @@
     <section>
       <num>23.07.060</num>
       <heading>SECTION R313.1 TOWNHOUSE AUTOMATIC FIRE SPRINKLER SYSTEMS—EXCEPTION NOT ADOPTED.</heading>
-      <text>See Sections 23.28.160 through 23.28.180 for Fire Sprinkler Requirements.</text>
+      <text>See Sections <cite path="§23.28.160">23.28.160</cite> through <cite path="§23.28.180">23.28.180</cite> for Fire Sprinkler Requirements.</text>
       <annotation doc="Ord. 2016-10" path="§2" type="History"/>
       <annotation doc="Ord. 2013-13" path="§2" type="History"/>
       <annotation doc="Ord. 2010-16" path="§2" type="History"/>
@@ -1169,7 +1169,7 @@
     <section>
       <num>23.07.070</num>
       <heading>SECTION R313.2 ONE- AND TWO-FAMILY DWELLINGS AUTOMATIC FIRE SPRINKLER SYSTEMS—EXCEPTION NOT ADOPTED.</heading>
-      <text>See Sections 23.28.160 through 23.28.180 for Fire Sprinkler Requirements.</text>
+      <text>See Sections <cite path="§23.28.160">23.28.160</cite> through <cite path="§23.28.180">23.28.180</cite> for Fire Sprinkler Requirements.</text>
       <annotation doc="Ord. 2016-10" path="§2" type="History"/>
       <annotation doc="Ord. 2013-13" path="§2" type="History"/>
       <annotation doc="Ord. 2010-16" path="§2" type="History"/>
@@ -1250,7 +1250,7 @@
     <section>
       <num>23.08.020</num>
       <heading>SECTION 501.2 PREMISES IDENTIFICATION—ADDRESS NUMBERS NOT ADOPTED.</heading>
-      <text>See Section 23.28.110 Address Identification.</text>
+      <text>See <cite path="§23.28.110">Section 23.28.110</cite> Address Identification.</text>
       <annotation doc="Ord. 2016-10" path="§3" type="History"/>
       <annotation doc="Ord. 2013-13" path="§3" type="History"/>
       <annotation doc="Ord. 2010-16" path="§3" type="History"/>
@@ -1259,7 +1259,7 @@
     <section>
       <num>23.08.030</num>
       <heading>SECTION 501.2.1 ADDRESS NUMBERS—MULTI-TENANT BUILDINGS NOT ADOPTED.</heading>
-      <text>See Section 23.28.120 Address Identification – Multi-Tenant Buildings.</text>
+      <text>See <cite path="§23.28.120">Section 23.28.120</cite> Address Identification – Multi-Tenant Buildings.</text>
       <annotation doc="Ord. 2016-10" path="§3" type="History"/>
       <annotation doc="Ord. 2013-13" path="§3" type="History"/>
       <annotation doc="Ord. 2010-16" path="§3" type="History"/>
@@ -1268,7 +1268,7 @@
     <section>
       <num>23.08.040</num>
       <heading>SECTION 501.2.2 ADDRESS NUMBERS—REAR ADDRESSING NOT ADOPTED.</heading>
-      <text>See Section 23.28.130 Address Identification – Rear Addressing.</text>
+      <text>See <cite path="§23.28.130">Section 23.28.130</cite> Address Identification – Rear Addressing.</text>
       <annotation doc="Ord. 2016-10" path="§3" type="History"/>
       <annotation doc="Ord. 2013-13" path="§3" type="History"/>
       <annotation doc="Ord. 2010-16" path="§3" type="History"/>
@@ -1277,14 +1277,14 @@
     <section>
       <num>23.08.045</num>
       <heading>SECTION 903.2 AUTOMATIC SPRINKLER SYSTEMS—WHERE REQUIRED NOT ADOPTED.</heading>
-      <text>See Sections 23.28.160 through 180 for Fire Sprinkler Requirements.</text>
+      <text>See Sections <cite path="§23.28.160">23.28.160</cite> through 180 for Fire Sprinkler Requirements.</text>
       <annotation doc="Ord. 2016-10" path="§3" type="History"/>
       <annotation doc="Ord. 2013-13" path="§3" type="History"/>
     </section>
     <section>
       <num>23.08.090</num>
       <heading>SECTION 905.3 STANDPIPE SYSTEMS—REQUIRED INSTALLATION NOT ADOPTED.</heading>
-      <text>See Section 23.28.200 for Standpipe Systems.</text>
+      <text>See <cite path="§23.28.200">Section 23.28.200</cite> for Standpipe Systems.</text>
       <annotation doc="Ord. 2016-10" path="§3" type="History"/>
       <annotation doc="Ord. 2013-13" path="§3" type="History"/>
       <annotation doc="Ord. 2010-16" path="§3" type="History"/>
@@ -1804,7 +1804,7 @@
     <section>
       <num>23.24.040</num>
       <heading>INFEASIBILITY EXEMPTION.</heading>
-      <text>If an applicant for a Covered Project believes that circumstances exist that makes it infeasible to meet the requirements of this Chapter, the applicant may request an exemption as set forth in Section 23.06.015 of the Municipal Code. In applying for the exemption, the burden is on the Applicant to show infeasibility.</text>
+      <text>If an applicant for a Covered Project believes that circumstances exist that makes it infeasible to meet the requirements of this Chapter, the applicant may request an exemption as set forth in <cite path="§23.06.015">Section 23.06.015</cite> of the Municipal Code. In applying for the exemption, the burden is on the Applicant to show infeasibility.</text>
       <annotation doc="Ord. 2016-5" path="§1" type="History"/>
     </section>
   </container>
@@ -2275,7 +2275,7 @@
     <section>
       <num>23.32.040</num>
       <heading>WATER FLOW REQUIREMENTS.</heading>
-      <text>When any land is to be developed in such a manner that any part of a proposed building or structure at grade level to be located thereon will be in excess of 300 feet from a fire hydrant located, or to be located prior to the completion of the building or structure, in a public street, alley, or place, or when any part of the building or structure is in excess of 150 feet from a public street or approved access roadway for fire apparatus as required by Section 23.30.060, the owner shall provide, at his or her expense, in the public street, alley or place, or on-site, such fire protection facilities and adequate water flow for fire protection as the Fire Chief deems necessary, in accordance with the Uniform Fire Code. All installations made in a public street, alley, or place shall be subject to the inspection of, and approval by, the City Engineer and subject to the conditions of an encroachment permit issued therefor. Whenever fire protection facilities, including but not limited to water mains and hydrant fixture, as required herein have been installed, extended, enlarged or expanded and any portion of the costs of which have been advanced by the City, a charge shall be collected prior to the issuance of a building permit for any building or structure on any parcel, unit, lot or part of any property served by fire protection facilities, which charge shall be computed by the City Engineer in an equitable manner so as to relate benefit received from said facilities to the actual cost thereof.</text>
+      <text>When any land is to be developed in such a manner that any part of a proposed building or structure at grade level to be located thereon will be in excess of 300 feet from a fire hydrant located, or to be located prior to the completion of the building or structure, in a public street, alley, or place, or when any part of the building or structure is in excess of 150 feet from a public street or approved access roadway for fire apparatus as required by <cite path="§23.30.060" proof="true">Section 23.30.060</cite>, the owner shall provide, at his or her expense, in the public street, alley or place, or on-site, such fire protection facilities and adequate water flow for fire protection as the Fire Chief deems necessary, in accordance with the Uniform Fire Code. All installations made in a public street, alley, or place shall be subject to the inspection of, and approval by, the City Engineer and subject to the conditions of an encroachment permit issued therefor. Whenever fire protection facilities, including but not limited to water mains and hydrant fixture, as required herein have been installed, extended, enlarged or expanded and any portion of the costs of which have been advanced by the City, a charge shall be collected prior to the issuance of a building permit for any building or structure on any parcel, unit, lot or part of any property served by fire protection facilities, which charge shall be computed by the City Engineer in an equitable manner so as to relate benefit received from said facilities to the actual cost thereof.</text>
       <annotation doc="Ord. 1983-10" path="§79" type="History"/>
       <annotation doc="Ord. 1971-44" path="§1" type="History"/>
       <annotation type="History">prior code § 89.04</annotation>
@@ -2302,7 +2302,7 @@
     <section>
       <num>23.32.060</num>
       <heading>PLANS—APPROVAL OR DISAPPROVAL.</heading>
-      <text>When any plans are submitted under Section 23.32.050, the Fire Chief shall review the same and determine whether or not the fire protection facilities and water flow for fire protection existing or to be provided are adequate in accordance with the fire prevention code. If the Fire Chief has determined that the facilities and water flow for fire protection existing or to be provided are adequate, he or she shall endorse the plans with his or her approval and return the same to the Building Official. If the Fire Chief shall have determined that the facilities existing or to be provided are not adequate, he or she shall:</text>
+      <text>When any plans are submitted under <cite path="§23.32.050">Section 23.32.050</cite>, the Fire Chief shall review the same and determine whether or not the fire protection facilities and water flow for fire protection existing or to be provided are adequate in accordance with the fire prevention code. If the Fire Chief has determined that the facilities and water flow for fire protection existing or to be provided are adequate, he or she shall endorse the plans with his or her approval and return the same to the Building Official. If the Fire Chief shall have determined that the facilities existing or to be provided are not adequate, he or she shall:</text>
       <para>
         <num>(1)</num>
         <text>Disapprove the plans and indicate in writing to the Building Official wherein they are deficient (in which event the Building Official shall require from the owner revised plans to cure the deficiency, and the revised plans shall be submitted to the Fire Chief); or</text>
@@ -2337,16 +2337,16 @@
     <section>
       <num>23.32.100</num>
       <heading>FIRE PROTECTION FACILITIES—ON-SITE—ALTERATION OR MODIFICATION.</heading>
-      <text>On-site fire protection facilities may be altered or repaired with the written consent of the Fire Chief subject to the provisions of Section 23.32.040.</text>
+      <text>On-site fire protection facilities may be altered or repaired with the written consent of the Fire Chief subject to the provisions of <cite path="§23.32.040">Section 23.32.040</cite>.</text>
       <annotation type="History">Prior code § 89.10</annotation>
     </section>
     <section>
       <num>23.32.110</num>
       <heading>FIRE PROTECTION FACILITIES—ON-SITE—ACCESS REQUIREMENTS.</heading>
-      <text>The access easements provided for in Section 23.32.070 shall be subject to the following provisions:</text>
+      <text>The access easements provided for in <cite path="§23.32.070">Section 23.32.070</cite> shall be subject to the following provisions:</text>
       <para>
         <num>(1)</num>
-        <text>Section 10.16.070 shall be applicable to all on-site hydrants;</text>
+        <text><cite path="§10.16.070" proof="true">Section 10.16.070</cite> shall be applicable to all on-site hydrants;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -2560,7 +2560,7 @@
       </para>
       <para>
         <num>(dd)</num>
-        <text>"Fraud and victimization" as related to Section 23.33.060, Alternate Design Standard Procedure, of this chapter, means that the alternate design standard granted must not cause fraud on or victimization of the public. In examining this requirement, the City will consider the fact that every newly constructed building adds to government responsibilities and remains a part of the community for 50 to 100 years. Buildings that are permitted to be constructed below the base flood elevation are subject during all those years to increased risk of damage from floods, while future owners of the property and the community as a whole are subject to all the costs, inconvenience, danger, and suffering that those increased flood damages bring. In addition, future owners may purchase the property, unaware that it is subject to potential flood damage, and can be insured only at very high flood insurance rates or may purchase the property with knowledge that it is within the special flood hazard area.</text>
+        <text>"Fraud and victimization" as related to <cite path="§23.33.060">Section 23.33.060</cite>, Alternate Design Standard Procedure, of this chapter, means that the alternate design standard granted must not cause fraud on or victimization of the public. In examining this requirement, the City will consider the fact that every newly constructed building adds to government responsibilities and remains a part of the community for 50 to 100 years. Buildings that are permitted to be constructed below the base flood elevation are subject during all those years to increased risk of damage from floods, while future owners of the property and the community as a whole are subject to all the costs, inconvenience, danger, and suffering that those increased flood damages bring. In addition, future owners may purchase the property, unaware that it is subject to potential flood damage, and can be insured only at very high flood insurance rates or may purchase the property with knowledge that it is within the special flood hazard area.</text>
       </para>
       <para>
         <num>(ee)</num>
@@ -2572,7 +2572,7 @@
       </para>
       <para>
         <num>(gg)</num>
-        <text>"Hardship" as related to Section 23.33.060, Alternate Design Standard Procedure, of this chapter means the exceptional hardship that would result from a failure to grant the requested alternate design standard. The City requires that the need for the alternate design standard be exceptional, unusual, and peculiar to the property involved. Mere economic or financial hardship alone is not exceptional. Inconvenience, aesthetic considerations, physical handicaps, personal preferences, or the disapproval of one's neighbors likewise cannot, as a rule, qualify as an exceptional hardship. All of these problems can be resolved through other means without granting an alternate design standard, even if the alternative is more expensive, or requires the property owner to build elsewhere or put the parcel to a different use than originally intended.</text>
+        <text>"Hardship" as related to <cite path="§23.33.060">Section 23.33.060</cite>, Alternate Design Standard Procedure, of this chapter means the exceptional hardship that would result from a failure to grant the requested alternate design standard. The City requires that the need for the alternate design standard be exceptional, unusual, and peculiar to the property involved. Mere economic or financial hardship alone is not exceptional. Inconvenience, aesthetic considerations, physical handicaps, personal preferences, or the disapproval of one's neighbors likewise cannot, as a rule, qualify as an exceptional hardship. All of these problems can be resolved through other means without granting an alternate design standard, even if the alternative is more expensive, or requires the property owner to build elsewhere or put the parcel to a different use than originally intended.</text>
       </para>
       <para>
         <num>(hh)</num>
@@ -2614,19 +2614,19 @@
           <text>An unfinished or flood resistant enclosure below the lowest floor that is usable solely for parking of vehicles, building access or storage in an area other than a basement area, is not considered a building's lowest floor provided it conforms to applicable non-elevation design requirements, including, but not limited to:</text>
           <para>
             <num>(i)</num>
-            <text>The flood openings standard in Section 23.33.050(a)(3)(iv);</text>
+            <text>The flood openings standard in <cite path="§23.33.050|(a)|(3)">Section 23.33.050(a)(3)</cite>(iv);</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>The anchoring standards in Section 23.33.050(a)(1);</text>
+            <text>The anchoring standards in <cite path="§23.33.050|(a)|(1)">Section 23.33.050(a)(1)</cite>;</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>The construction materials and methods standards in Section 23.33.050(a)(2);</text>
+            <text>The construction materials and methods standards in <cite path="§23.33.050|(a)|(2)">Section 23.33.050(a)(2)</cite>;</text>
           </para>
           <para>
             <num>(iv)</num>
-            <text>The standards for utilities in Section 23.33.050(d).</text>
+            <text>The standards for utilities in <cite path="§23.33.050|(d)">Section 23.33.050(d)</cite>.</text>
           </para>
         </para>
         <para>
@@ -2672,7 +2672,7 @@
       </para>
       <para>
         <num>(vv)</num>
-        <text>"Public safety nuisance" as related to Section 23.33.060, Alternate Design Standard Procedure, of this chapter means that the granting of an alternate design standard must not result in anything which is injurious to safety or health of an entire community or neighborhood, or any considerable number of persons, or unlawfully obstructs the free passage or use, in the customary manner, of any navigable lake, or river, bay, stream, canal, or basin.</text>
+        <text>"Public safety nuisance" as related to <cite path="§23.33.060">Section 23.33.060</cite>, Alternate Design Standard Procedure, of this chapter means that the granting of an alternate design standard must not result in anything which is injurious to safety or health of an entire community or neighborhood, or any considerable number of persons, or unlawfully obstructs the free passage or use, in the customary manner, of any navigable lake, or river, bay, stream, canal, or basin.</text>
       </para>
       <para>
         <num>(ww)</num>
@@ -2856,7 +2856,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Review and Use of Any Other Base Flood Data. When base flood elevation data has not been provided, the Floodplain Administrator shall obtain, review, and reasonably utilize any base flood elevation and floodway data available from a federal or state agency, or other source, and adopted by the City in order to administer Section 23.33.050.</text>
+          <text>Review and Use of Any Other Base Flood Data. When base flood elevation data has not been provided, the Floodplain Administrator shall obtain, review, and reasonably utilize any base flood elevation and floodway data available from a federal or state agency, or other source, and adopted by the City in order to administer <cite path="§23.33.050">Section 23.33.050</cite>.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -2895,7 +2895,7 @@
           </para>
           <para>
             <num>(v)</num>
-            <text>Documentation of floodproofing below the elevation recommended under Section 23.33.050(a)(3)(i) so that the structure is watertight with walls substantially impermeable to the passage of water;</text>
+            <text>Documentation of floodproofing below the elevation recommended under <cite path="§23.33.050|(a)|(3)|(i)">Section 23.33.050(a)(3)(i)</cite> so that the structure is watertight with walls substantially impermeable to the passage of water;</text>
           </para>
           <para>
             <num>(vi)</num>
@@ -2908,11 +2908,11 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Map Determinations. Make interpretations where needed, as to the exact location of the boundaries of the areas of special flood hazard where there appears to be a conflict between a mapped boundary and actual field conditions. The person contesting the location of the boundary shall be given a reasonable opportunity to appeal the interpretation as provided in Section 23.33.040(d).</text>
+          <text>Map Determinations. Make interpretations where needed, as to the exact location of the boundaries of the areas of special flood hazard where there appears to be a conflict between a mapped boundary and actual field conditions. The person contesting the location of the boundary shall be given a reasonable opportunity to appeal the interpretation as provided in <cite path="§23.33.040|(d)">Section 23.33.040(d)</cite>.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>Remedial Action. Take action to remedy violations of this chapter as specified in Section 23.33.040(c).</text>
+          <text>Remedial Action. Take action to remedy violations of this chapter as specified in <cite path="§23.33.040|(c)">Section 23.33.040(c)</cite>.</text>
         </para>
       </para>
       <para>
@@ -2962,7 +2962,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Elevation and Floodproofing. (See Section 23.33.020, Definitions, for "basement," "lowest floor," "new construction," "substantial damage" and "substantial improvement.")</text>
+          <text>Elevation and Floodproofing. (See <cite path="§23.33.020">Section 23.33.020</cite>, Definitions, for "basement," "lowest floor," "new construction," "substantial damage" and "substantial improvement.")</text>
           <para>
             <num>(i)</num>
             <text>Residential Construction. All new construction or substantial improvements of residential structures shall have the lowest floor, including basement:</text>
@@ -2976,7 +2976,7 @@
             </para>
             <para>
               <num>(C)</num>
-              <text>In an A zone, without BFEs specified on the FIRM, elevated to or above the base flood elevation; as determined under Section 23.33.040(c)(2).</text>
+              <text>In an A zone, without BFEs specified on the FIRM, elevated to or above the base flood elevation; as determined under <cite path="§23.33.040|(c)|(2)">Section 23.33.040(c)(2)</cite>.</text>
             </para>
           </para>
           <para>
@@ -3053,7 +3053,7 @@
           <text>Detached Garages and Accessory Structures.</text>
           <para>
             <num>(i)</num>
-            <text>"Accessory structures," as defined in Section 23.33.020, "Definitions," may be constructed with a floor below the base flood elevation (BFE), provided the structure is designed and constructed in accordance with the following requirements:</text>
+            <text>"Accessory structures," as defined in <cite path="§23.33.020">Section 23.33.020</cite>, "Definitions," may be constructed with a floor below the base flood elevation (BFE), provided the structure is designed and constructed in accordance with the following requirements:</text>
             <para>
               <num>(A)</num>
               <text>Use of the accessory structure must be limited to parking or limited storage;</text>
@@ -3193,7 +3193,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>Meet the permit requirements of Section 23.33.040 of this chapter and the elevation and anchoring requirements for manufactured homes in subsection (e)(1).</text>
+            <text>Meet the permit requirements of <cite path="§23.33.040">Section 23.33.040</cite> of this chapter and the elevation and anchoring requirements for manufactured homes in subsection (e)(1).</text>
           </para>
         </para>
         <para>
@@ -3219,7 +3219,7 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>Coastal High Hazard Areas. Within coastal high hazard areas as established under Section 23.33.030(b), the following standards shall apply:</text>
+        <text>Coastal High Hazard Areas. Within coastal high hazard areas as established under <cite path="§23.33.030|(b)">Section 23.33.030(b)</cite>, the following standards shall apply:</text>
         <para>
           <num>(1)</num>
           <text>All new construction and substantial improvement shall be elevated on adequately anchored pilings or columns and securely anchored to such pilings or columns so that the lowest horizontal portion of the structural members of the lowest floor (excluding the pilings or columns) is elevated to or above the base flood level. The pile or column foundation and structure attached thereto is anchored to resist flotation, collapse, and lateral movement due to the effects of wind and water loads acting simultaneously on all building components. Water loading values used shall be those associated with the base flood. Wind loading values used shall be those required by applicable state or local building standards.</text>
@@ -3269,7 +3269,7 @@
         <text>Requirements for Alternate Design Standards.</text>
         <para>
           <num>(1)</num>
-          <text>Alternate design standards may be issued for new construction, and substantial improvements to be erected on a lot of one-half acre or less in size contiguous to and surrounded by lots with existing structures constructed below the base flood level, providing that the procedures of Sections 23.33.040 and 23.33.050 of this chapter have been fully considered. As the lot size increases beyond one-half acre, the technical justification required for issuing the alternate design standard increases.</text>
+          <text>Alternate design standards may be issued for new construction, and substantial improvements to be erected on a lot of one-half acre or less in size contiguous to and surrounded by lots with existing structures constructed below the base flood level, providing that the procedures of Sections <cite path="§23.33.040">23.33.040</cite> and <cite path="§23.33.050">23.33.050</cite> of this chapter have been fully considered. As the lot size increases beyond one-half acre, the technical justification required for issuing the alternate design standard increases.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3297,7 +3297,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Failure to grant the alternate design standard would result in exceptional "hardship" (as defined in Section 23.33.020 of this chapter) to the applicant; and</text>
+          <text>Failure to grant the alternate design standard would result in exceptional "hardship" (as defined in <cite path="§23.33.020">Section 23.33.020</cite> of this chapter) to the applicant; and</text>
         </para>
         <para>
           <num>(3)</num>
@@ -3397,7 +3397,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Authority. This chapter is adopted pursuant to Section II of Article XI of the Constitution, the General Laws of the State and the Charter of the City. This chapter is enacted to implement applicable elements of the San Mateo General Plan as may hereafter be adopted. The provisions of this chapter shall apply to all site development on private property within the City as delineated in Section 23.40.030 and may also be used for review of public projects that require a planning application and public review.</text>
+        <text>Authority. This chapter is adopted pursuant to Section II of Article XI of the Constitution, the General Laws of the State and the Charter of the City. This chapter is enacted to implement applicable elements of the San Mateo General Plan as may hereafter be adopted. The provisions of this chapter shall apply to all site development on private property within the City as delineated in <cite path="§23.40.030">Section 23.40.030</cite> and may also be used for review of public projects that require a planning application and public review.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -3660,7 +3660,7 @@
           </para>
           <para>
             <num>(G)</num>
-            <text>The location of all major vegetation and heritage trees as defined by Section 23.40.070 and Section 10.52.020, respectively, together with an indication of those which must be removed;</text>
+            <text>The location of all major vegetation and heritage trees as defined by <cite path="§23.40.070" proof="true">Section 23.40.070</cite> and <cite path="§10.52.020" proof="true">Section 10.52.020</cite>, respectively, together with an indication of those which must be removed;</text>
           </para>
           <para>
             <num>(H)</num>
@@ -3828,7 +3828,7 @@
           </para>
           <para>
             <num>(J)</num>
-            <text>The report from the Director of Parks and Recreation with respect to heritage trees pursuant to Section 10.52.040;</text>
+            <text>The report from the Director of Parks and Recreation with respect to heritage trees pursuant to <cite path="§10.52.040" proof="true">Section 10.52.040</cite>;</text>
           </para>
           <para>
             <num>(K)</num>
@@ -3853,7 +3853,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Planning Application Expiration. Every site development planning application shall expire as provided in San Mateo Municipal Code Section 27.08.060—Approval Expiration (Zoning Code).</text>
+          <text>Planning Application Expiration. Every site development planning application shall expire as provided in San Mateo Municipal Code <cite path="§27.08.060">Section 27.08.060</cite>—Approval Expiration (Zoning Code).</text>
         </para>
       </para>
       <para>
@@ -3949,7 +3949,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>Permit Expiration. Every site development permit shall expire by limitation and become null and void if the work authorized by such permit has not been commenced within one hundred eighty days, or is not completed within one year from date of issue unless the time is specified on the permit or as provided in Section 23.40.050(k)(2), except that the City Engineer may, if the permit holder presents satisfactory evidence that unusual difficulties have prevented work being started or completed within the specified time limits, grant a reasonable extension of time if written application is made before the expiration date of the permit.</text>
+          <text>Permit Expiration. Every site development permit shall expire by limitation and become null and void if the work authorized by such permit has not been commenced within one hundred eighty days, or is not completed within one year from date of issue unless the time is specified on the permit or as provided in <cite path="§23.40.050|(k)|(2)">Section 23.40.050(k)(2)</cite>, except that the City Engineer may, if the permit holder presents satisfactory evidence that unusual difficulties have prevented work being started or completed within the specified time limits, grant a reasonable extension of time if written application is made before the expiration date of the permit.</text>
         </para>
         <para>
           <num>(10)</num>
@@ -3991,7 +3991,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Finished Cuts of Slopes. The exposed or finished cuts or slopes of any fill or excavation shall be smoothly graded and blended with existing contours by rounding off cut or fill edges and shall be screened with vegetation, and no such fill, slope, cut or inclined graded surface shall exceed a vertical height of thirty feet unless intercepting drains or terraces are provided. Such drains or terraces shall be permanently lined or protected with materials approved by the City Engineer and accumulating surface waters shall be conducted to an approved point of discharge. Any such terrace or intercepting drain shall be designed to prevent overflow which may cause erosion. All exposed slopes of any cut or fill subject to erosion shall be protected by approved planting, crib walls, walls and planting, terracing, or a combination thereof. The use of visible retaining walls shall be minimized, and where visible, shall be screened with vegetation. Graded surfaces exceeding an area of five thousand square feet shall be treated as provided in Section 23.40.050(j). The City Engineer may require that corrective measures be taken if he or she finds the material being cut or used for fill is unusually subject to erosion, or if other conditions affect the stability of the slopes.</text>
+          <text>Finished Cuts of Slopes. The exposed or finished cuts or slopes of any fill or excavation shall be smoothly graded and blended with existing contours by rounding off cut or fill edges and shall be screened with vegetation, and no such fill, slope, cut or inclined graded surface shall exceed a vertical height of thirty feet unless intercepting drains or terraces are provided. Such drains or terraces shall be permanently lined or protected with materials approved by the City Engineer and accumulating surface waters shall be conducted to an approved point of discharge. Any such terrace or intercepting drain shall be designed to prevent overflow which may cause erosion. All exposed slopes of any cut or fill subject to erosion shall be protected by approved planting, crib walls, walls and planting, terracing, or a combination thereof. The use of visible retaining walls shall be minimized, and where visible, shall be screened with vegetation. Graded surfaces exceeding an area of five thousand square feet shall be treated as provided in <cite path="§23.40.050|(j)">Section 23.40.050(j)</cite>. The City Engineer may require that corrective measures be taken if he or she finds the material being cut or used for fill is unusually subject to erosion, or if other conditions affect the stability of the slopes.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -4135,7 +4135,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Notwithstanding the appeal provisions contained in Section 23.06.040, the building official's determinations under this section may be appealed to the Planning Commission.</text>
+        <text>Notwithstanding the appeal provisions contained in <cite path="§23.06.040">Section 23.06.040</cite>, the building official's determinations under this section may be appealed to the Planning Commission.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -4151,7 +4151,7 @@
     <section>
       <num>23.46.010</num>
       <heading>PURPOSE AND INTENT.</heading>
-      <text>The purpose of this chapter is to provide an expedited, streamlined solar energy system permitting process that complies with the Solar Rights Act and AB 2188, as codified in Section 65850.5 of the Government Code, in order to achieve timely and cost-effective installations of small residential rooftop solar energy systems. This chapter encourages the use of solar energy systems by removing unreasonable barriers, minimizing costs to property owners and the City, and expanding the ability of property owners to install solar energy systems while protecting the public health and safety.</text>
+      <text>The purpose of this chapter is to provide an expedited, streamlined solar energy system permitting process that complies with the Solar Rights Act and AB 2188, as codified in <cite doc="Cal. Gov’t Code" path="§65850.5" proof="true">Section 65850.5 of the Government Code</cite>, in order to achieve timely and cost-effective installations of small residential rooftop solar energy systems. This chapter encourages the use of solar energy systems by removing unreasonable barriers, minimizing costs to property owners and the City, and expanding the ability of property owners to install solar energy systems while protecting the public health and safety.</text>
       <annotation doc="Ord. 2015-13" path="§1" type="History"/>
     </section>
     <section>
@@ -4199,7 +4199,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>"Feasible method to satisfactorily mitigate or avoid a specific, adverse impact" includes, but is not limited to, any cost-effective method, condition or mitigation imposed by a city on another similarly situated application in a prior successful application for a permit. The city shall use its best efforts to ensure that the selected method, condition, or mitigation meets the conditions of subparagraphs (A) and (B) of paragraph (1) of subdivision (d) of Section 714 of the Civil Code.</text>
+        <text>"Feasible method to satisfactorily mitigate or avoid a specific, adverse impact" includes, but is not limited to, any cost-effective method, condition or mitigation imposed by a city on another similarly situated application in a prior successful application for a permit. The city shall use its best efforts to ensure that the selected method, condition, or mitigation meets the conditions of subparagraphs (A) and (B) of paragraph (1) of subdivision (d) of <cite doc="Cal. Civ. Code" path="§714" proof="true">Section 714 of the Civil Code</cite>.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -4361,7 +4361,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>A City shall not condition approval of an application on the approval of an association, as defined in Section 4080 of the Civil Code.</text>
+        <text>A City shall not condition approval of an application on the approval of an association, as defined in <cite doc="Cal. Civ. Code" path="§4080" proof="true">Section 4080 of the Civil Code</cite>.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -4550,7 +4550,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>the requirements of 23.54.060 concerning exterior lighting shall apply if based upon documented crime statistics and/or calls for police service to the building there is a demonstrated need for improved crime prevention measures, unless the cost of complying with those requirements exceed 10% of the cost of the proposed building alteration, addition, or repair. If the cost of complying with the exterior lighting requirements exceeds 10% of the cost of the proposed building alteration, addition, or repair, the applicant shall spend at least 10% of that cost exterior lighting requirements imposed by Section 23.54.060.</text>
+          <text>the requirements of <cite path="§23.54.060">23.54.060</cite> concerning exterior lighting shall apply if based upon documented crime statistics and/or calls for police service to the building there is a demonstrated need for improved crime prevention measures, unless the cost of complying with those requirements exceed 10% of the cost of the proposed building alteration, addition, or repair. If the cost of complying with the exterior lighting requirements exceeds 10% of the cost of the proposed building alteration, addition, or repair, the applicant shall spend at least 10% of that cost exterior lighting requirements imposed by <cite path="§23.54.060">Section 23.54.060</cite>.</text>
         </para>
       </para>
       <annotation doc="Ord. 2008-8" path="§3" type="History"/>
@@ -4578,7 +4578,7 @@
     <section>
       <num>23.54.040</num>
       <heading>SAFES.</heading>
-      <text>Notwithstanding the provisions of section 23.54.015 and whether or not the building housing a business is existing, those businesses subject to a high risk of robbery shall limit the available cash on hand through use of a time-delay drop type money safe. For the purposes of this section a business shall be deemed to be subject to high risk of robbery if either the business has been robbed on two occasions within a 12-month period, or the business has been robbed on three occasions while under the same ownership. Safes installed shall be rated "Class C" or Class TL-15 minimum.</text>
+      <text>Notwithstanding the provisions of <cite path="§23.54.015">section 23.54.015</cite> and whether or not the building housing a business is existing, those businesses subject to a high risk of robbery shall limit the available cash on hand through use of a time-delay drop type money safe. For the purposes of this section a business shall be deemed to be subject to high risk of robbery if either the business has been robbed on two occasions within a 12-month period, or the business has been robbed on three occasions while under the same ownership. Safes installed shall be rated "Class C" or Class TL-15 minimum.</text>
       <annotation doc="Ord. 2008-8" path="§5" type="History"/>
       <annotation doc="Ord. 1996-4" path="§8" type="History"/>
       <annotation doc="Ord. 1992-12" path="§2" type="History"/>
@@ -4738,7 +4738,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>Jambs for all entry doors shall be constructed or protected to prevent violation of the function of the strike and shall meet the framing requirements of Section 23.54.080 (a)(1)</text>
+          <text>Jambs for all entry doors shall be constructed or protected to prevent violation of the function of the strike and shall meet the framing requirements of <cite path="§23.54.080">Section 23.54.080</cite> (a)(1)</text>
         </para>
       </para>
       <para>
@@ -4791,7 +4791,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Garages. Those multiple-family dwelling complexes providing individual enclosed garage spaces shall meet the same requirements for garages as single-family dwellings as required by section 23.54.080 (b) Floor to ceiling demising walls shall separate individual garage areas having their own entrance.</text>
+        <text>Garages. Those multiple-family dwelling complexes providing individual enclosed garage spaces shall meet the same requirements for garages as single-family dwellings as required by <cite path="§23.54.080">section 23.54.080</cite> (b) Floor to ceiling demising walls shall separate individual garage areas having their own entrance.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -4948,7 +4948,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Exterior sliding commercial entrances shall be secured as in section 2.54.080(a)(2) and shall comply with fire and safety regulations.</text>
+          <text>Exterior sliding commercial entrances shall be secured as in <cite path="§2.54.080|(a)|(2)" proof="true">section 2.54.080(a)(2)</cite> and shall comply with fire and safety regulations.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -5325,7 +5325,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Satisfaction of the entire program allocation required by Section 23.60.060 for the project.</text>
+        <text>Satisfaction of the entire program allocation required by <cite path="§23.60.060">Section 23.60.060</cite> for the project.</text>
       </para>
       <annotation doc="Ord. 2005-13" path="§1" type="History"/>
     </section>
@@ -5472,7 +5472,7 @@
     <section>
       <num>23.60.130</num>
       <heading>ANNUAL REVIEW.</heading>
-      <text>Each year upon receipt of the annual plan referenced in section 23.60.100(a), the City Council will conduct an annual review of the Art in Public Places Program.</text>
+      <text>Each year upon receipt of the annual plan referenced in <cite path="§23.60.100|(a)">section 23.60.100(a)</cite>, the City Council will conduct an annual review of the Art in Public Places Program.</text>
       <annotation doc="Ord. 2005-13" path="§1" type="History"/>
     </section>
     <section>
@@ -5550,7 +5550,7 @@
       </para>
       <para>
         <num>(l)</num>
-        <text>"Low income households" means households with incomes no greater than the maximum income for low income households, defined by the State of California Health and Safety Code Section 50079.5 and as published annually by the City for each household size, based on the California Department of Housing and Community Development (HCD) income limits for San Mateo County.</text>
+        <text>"Low income households" means households with incomes no greater than the maximum income for low income households, defined by the State of <cite doc="Cal. Health &amp; Safety Code" path="§50079.5" proof="true">California Health and Safety Code Section 50079.5</cite> and as published annually by the City for each household size, based on the California Department of Housing and Community Development (HCD) income limits for San Mateo County.</text>
       </para>
       <para>
         <num>(m)</num>
@@ -5562,7 +5562,7 @@
       </para>
       <para>
         <num>(o)</num>
-        <text>"Moderate income households" means households with incomes no greater than the maximum income for moderate income households, defined by the State of California Health and Safety Code Section 50093 and as published annually by the City for each household size, based on the California Department of Housing and Community Development (HCD) income limits for San Mateo County.</text>
+        <text>"Moderate income households" means households with incomes no greater than the maximum income for moderate income households, defined by the State of <cite doc="Cal. Health &amp; Safety Code" path="§50093" proof="true">California Health and Safety Code Section 50093</cite> and as published annually by the City for each household size, based on the California Department of Housing and Community Development (HCD) income limits for San Mateo County.</text>
       </para>
       <para>
         <num>(p)</num>
@@ -5574,7 +5574,7 @@
       </para>
       <para>
         <num>(r)</num>
-        <text>"Very low income households" means households with incomes no greater than the maximum income for very low income households, defined by the State of California Health and Safety Code Section 50105 and as published annually by the City for each household size, the California Department of Housing and Community Development (HCD) income limits for San Mateo County.</text>
+        <text>"Very low income households" means households with incomes no greater than the maximum income for very low income households, defined by the State of <cite doc="Cal. Health &amp; Safety Code" path="§50105" proof="true">California Health and Safety Code Section 50105</cite> and as published annually by the City for each household size, the California Department of Housing and Community Development (HCD) income limits for San Mateo County.</text>
       </para>
       <annotation doc="Ord. 2016-8" path="§2" type="History"/>
     </section>
@@ -5629,7 +5629,7 @@
       <heading>ALTERNATIVES TO PAYMENT OF AFFORDABLE HOUSING COMMERCIAL LINKAGE FEE.</heading>
       <para>
         <num>(a)</num>
-        <text>As an alternative to compliance with the basic provisions included in Section 23.61.030 of this chapter, developers of commercial development projects may propose the construction of affordable units on-site or an alternative mitigation program proposed by the developer and the community development director, such as the provision of off-site affordable units, donation of land for the construction of affordable units, or purchase of existing units for conversion to affordable units.</text>
+        <text>As an alternative to compliance with the basic provisions included in <cite path="§23.61.030">Section 23.61.030</cite> of this chapter, developers of commercial development projects may propose the construction of affordable units on-site or an alternative mitigation program proposed by the developer and the community development director, such as the provision of off-site affordable units, donation of land for the construction of affordable units, or purchase of existing units for conversion to affordable units.</text>
         <para>
           <num>(1)</num>
           <text>The City Council shall adopt, by resolution, the percentage of affordable units needed to mitigate the impact of commercial development projects on the need for affordable housing.</text>
@@ -5858,7 +5858,7 @@
       <heading>INFEASIBILITY EXEMPTION.</heading>
       <para>
         <num>(a)</num>
-        <text>Exemption. If an applicant for a covered project believes that circumstances exist that make it infeasible to meet the requirements of this chapter, the applicant may request an exemption as set forth in Section 23.06.015 of the Municipal Code. In applying for the exemption, the burden is on the applicant to show infeasibility. The following conditions may be considered to determine infeasibility:</text>
+        <text>Exemption. If an applicant for a covered project believes that circumstances exist that make it infeasible to meet the requirements of this chapter, the applicant may request an exemption as set forth in <cite path="§23.06.015">Section 23.06.015</cite> of the Municipal Code. In applying for the exemption, the burden is on the applicant to show infeasibility. The following conditions may be considered to determine infeasibility:</text>
         <para>
           <num>(1)</num>
           <text>Where there is insufficient electrical supply.</text>
@@ -5892,11 +5892,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Existing landscapes, including existing cemeteries and parks, shall only be subject to the provisions for existing landscapes provided for in Section 23.72.180 "Provisions for existing landscapes over one acre in size."</text>
+        <text>Existing landscapes, including existing cemeteries and parks, shall only be subject to the provisions for existing landscapes provided for in <cite path="§23.72.180">Section 23.72.180</cite> "Provisions for existing landscapes over one acre in size."</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>New and rehabilitated cemeteries and parks shall only be subject to the provisions of Sections 23.72.070 "Water budget calculations," 23.72.120 "Landscape and irrigation audit report," and 23.72.140 "Landscape and irrigation maintenance schedule."</text>
+        <text>New and rehabilitated cemeteries and parks shall only be subject to the provisions of Sections <cite path="§23.72.070">23.72.070</cite> "Water budget calculations," <cite path="§23.72.120">23.72.120</cite> "Landscape and irrigation audit report," and <cite path="§23.72.140">23.72.140</cite> "Landscape and irrigation maintenance schedule."</text>
       </para>
       <para>
         <num>(d)</num>
@@ -5950,7 +5950,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>"Certificate of completion" means the document required in Section 23.72.110.</text>
+        <text>"Certificate of completion" means the document required in <cite path="§23.72.110">Section 23.72.110</cite>.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -5966,7 +5966,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>"Common interest developments" means community apartment projects, condominium projects, planned developments, and stock cooperatives per Civil Code Section 1351.</text>
+        <text>"Common interest developments" means community apartment projects, condominium projects, planned developments, and stock cooperatives per <cite doc="Cal. Civ. Code" path="§1351." proof="true">Civil Code Section 1351.</cite></text>
       </para>
       <para>
         <num>(i)</num>
@@ -6006,7 +6006,7 @@
       </para>
       <para>
         <num>(r)</num>
-        <text>"Estimated total water use (ETWU)" means the total water used for the landscape as described in Section 23.72.070 "Water budget calculations."</text>
+        <text>"Estimated total water use (ETWU)" means the total water used for the landscape as described in <cite path="§23.72.070">Section 23.72.070</cite> "Water budget calculations."</text>
       </para>
       <para>
         <num>(s)</num>
@@ -6035,7 +6035,7 @@ controller may also function as a landscape water meter or submeter.</text>
       </para>
       <para>
         <num>(y)</num>
-        <text>"Graywater" means untreated wastewater that has not been contaminated by any toilet discharge, has not been affected by infectious, contaminated, or unhealthy bodily wastes, and does not present a threat from contamination by unhealthful processing, manufacturing, or operating wastes. "Graywater" includes, but is not limited to, wastewater from bathtubs, showers, bathroom washbasins, clothes washing machines, and laundry tubs, but does not include wastewater from kitchen sinks or dishwashers. (Health and Safety Code Section 17922.12.)</text>
+        <text>"Graywater" means untreated wastewater that has not been contaminated by any toilet discharge, has not been affected by infectious, contaminated, or unhealthy bodily wastes, and does not present a threat from contamination by unhealthful processing, manufacturing, or operating wastes. "Graywater" includes, but is not limited to, wastewater from bathtubs, showers, bathroom washbasins, clothes washing machines, and laundry tubs, but does not include wastewater from kitchen sinks or dishwashers. (<cite doc="Cal. Health &amp; Safety Code" path="§17922.12." proof="true">Health and Safety Code Section 17922.12.</cite>)</text>
       </para>
       <para>
         <num>(z)</num>
@@ -6071,7 +6071,7 @@ controller may also function as a landscape water meter or submeter.</text>
       </para>
       <para>
         <num>(hh)</num>
-        <text>"Landscape architect" means a person who holds a license to practice landscape architecture in California as further defined by the California Business and Professions Code Section 5615.</text>
+        <text>"Landscape architect" means a person who holds a license to practice landscape architecture in California as further defined by the <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615." proof="true">California Business and Professions Code Section 5615.</cite></text>
       </para>
       <para>
         <num>(ii)</num>
@@ -6083,7 +6083,7 @@ controller may also function as a landscape water meter or submeter.</text>
       </para>
       <para>
         <num>(kk)</num>
-        <text>"Landscape documentation package" means the documents required under Section 23.72.050.</text>
+        <text>"Landscape documentation package" means the documents required under <cite path="§23.72.050">Section 23.72.050</cite>.</text>
       </para>
       <para>
         <num>(ll)</num>
@@ -6119,7 +6119,7 @@ controller may also function as a landscape water meter or submeter.</text>
       </para>
       <para>
         <num>(tt)</num>
-        <text>"Maximum applied water allowance" or "MAWA" means the upper limit of annual applied water for the established landscaped area as specified in Section 23.72.070 "Water budget calculations." It is based upon the area's reference evapotranspiration, the ET adjustment factor, and the size of the landscape area. The estimated total water use shall not exceed the maximum applied water allowance. Special landscape areas, including recreation areas, areas permanently and solely dedicated to edible plants such as orchards and vegetable gardens, and areas irrigated with recycled water are subject to the MAWA with a ETAF not to exceed 1.0 MAWA = (ETo) (0.62) [(ETAF x LA) + ((1-ETAF) x SLA)].</text>
+        <text>"Maximum applied water allowance" or "MAWA" means the upper limit of annual applied water for the established landscaped area as specified in <cite path="§23.72.070">Section 23.72.070</cite> "Water budget calculations." It is based upon the area's reference evapotranspiration, the ET adjustment factor, and the size of the landscape area. The estimated total water use shall not exceed the maximum applied water allowance. Special landscape areas, including recreation areas, areas permanently and solely dedicated to edible plants such as orchards and vegetable gardens, and areas irrigated with recycled water are subject to the MAWA with a ETAF not to exceed 1.0 MAWA = (ETo) (0.62) [(ETAF x LA) + ((1-ETAF) x SLA)].</text>
       </para>
       <para>
         <num>(uu)</num>
@@ -6171,11 +6171,11 @@ controller may also function as a landscape water meter or submeter.</text>
       </para>
       <para>
         <num>(ggg)</num>
-        <text>"Project applicant" means the individual or entity submitting a project landscape application required under Section 23.72.050, to request a permit, plan check, or design review from the local agency. A project applicant may be the property owner or designee.</text>
+        <text>"Project applicant" means the individual or entity submitting a project landscape application required under <cite path="§23.72.050">Section 23.72.050</cite>, to request a permit, plan check, or design review from the local agency. A project applicant may be the property owner or designee.</text>
       </para>
       <para>
         <num>(hhh)</num>
-        <text>"Prescriptive measures" means the planting restrictions referenced in Section 23.72.010 as developed by the City and kept on file by the Building Division that allow a project applicant to meet the water efficiency goals of this chapter without requiring the completion of the water budget calculation referenced in Section 23.72.070.</text>
+        <text>"Prescriptive measures" means the planting restrictions referenced in <cite path="§23.72.010">Section 23.72.010</cite> as developed by the City and kept on file by the Building Division that allow a project applicant to meet the water efficiency goals of this chapter without requiring the completion of the water budget calculation referenced in <cite path="§23.72.070">Section 23.72.070</cite>.</text>
       </para>
       <para>
         <num>(iii)</num>
@@ -6195,7 +6195,7 @@ controller may also function as a landscape water meter or submeter.</text>
       </para>
       <para>
         <num>(mmm)</num>
-        <text>"Rehabilitated landscape" means any re-landscaping project that requires a permit, plan check, design review, meets the requirements of Section 23.70.010 and the modified landscape area is equal to or greater than 2,500 square feet.</text>
+        <text>"Rehabilitated landscape" means any re-landscaping project that requires a permit, plan check, design review, meets the requirements of <cite path="§23.70.010">Section 23.70.010</cite> and the modified landscape area is equal to or greater than 2,500 square feet.</text>
       </para>
       <para>
         <num>(nnn)</num>
@@ -6556,7 +6556,7 @@ controller may also function as a landscape water meter or submeter.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Each hydrozone shall have plant materials with similar water use, with the exception of hydrozone with plants of mixed water use, as specified in Section 23.72.090.</text>
+          <text>Each hydrozone shall have plant materials with similar water use, with the exception of hydrozone with plants of mixed water use, as specified in <cite path="§23.72.090">Section 23.72.090</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -6692,7 +6692,7 @@ controller may also function as a landscape water meter or submeter.</text>
         </para>
         <para>
           <num>(11)</num>
-          <text>Identify any applicable rain harvesting or catchment technologies as discussed in Section 23.72.150 and their 24-hour retention or infiltration capacity;</text>
+          <text>Identify any applicable rain harvesting or catchment technologies as discussed in <cite path="§23.72.150">Section 23.72.150</cite> and their 24-hour retention or infiltration capacity;</text>
         </para>
         <para>
           <num>(12)</num>
@@ -6704,7 +6704,7 @@ controller may also function as a landscape water meter or submeter.</text>
         </para>
         <para>
           <num>(14)</num>
-          <text>Bear the signature of a licensed landscape architect, licensed landscape contractor, or any other person authorized to design a landscape. (See Sections 5500.1, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, 7027.5 of the Business and Professions Code, Section 832.27 of Title 16 of the California Code of Regulations, and Section 6721 of the Food and Agriculture Code.)</text>
+          <text>Bear the signature of a licensed landscape architect, licensed landscape contractor, or any other person authorized to design a landscape. (See Sections 5500.1, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5" proof="true">7027.5 of the Business and Professions Code</cite>, Section 832.27 of Title 16 of the California Code of Regulations, and Section 6721 of the Food and Agriculture Code.)</text>
         </para>
       </para>
       <annotation doc="Ord. 2016-3" path="§1" type="History"/>
@@ -6721,7 +6721,7 @@ controller may also function as a landscape water meter or submeter.</text>
           <text>System.</text>
           <para>
             <num>(i)</num>
-            <text>Landscape water meters, defined as either a dedicated water service meter or private submeter, shall be installed for all nonresidential irrigated landscapes of 1,000 square feet but not more than 5,000 square feet (the level at which Water Code Section 535 applies) and residential irrigated landscapes of 5,000 square feet or greater. A landscape water meter may be either:</text>
+            <text>Landscape water meters, defined as either a dedicated water service meter or private submeter, shall be installed for all nonresidential irrigated landscapes of 1,000 square feet but not more than 5,000 square feet (the level at which <cite doc="Cal. Water Code" path="§535" proof="true">Water Code Section 535</cite> applies) and residential irrigated landscapes of 5,000 square feet or greater. A landscape water meter may be either:</text>
             <para>
               <num>(A)</num>
               <text>A customer service meter dedicated to landscape use provided by the local water purveyor; or</text>
@@ -6781,7 +6781,7 @@ controller may also function as a landscape water meter or submeter.</text>
           </para>
           <para>
             <num>(xii)</num>
-            <text>The irrigation system must be designed and installed to meet, at a minimum, the irrigation efficiency criteria as described in Section 23.72.070 regarding the maximum applied water allowance.</text>
+            <text>The irrigation system must be designed and installed to meet, at a minimum, the irrigation efficiency criteria as described in <cite path="§23.72.070">Section 23.72.070</cite> regarding the maximum applied water allowance.</text>
           </para>
           <para>
             <num>(xiii)</num>
@@ -6828,7 +6828,7 @@ controller may also function as a landscape water meter or submeter.</text>
             </para>
             <para>
               <num>(C)</num>
-              <text>The irrigation designer specifies an alternative design or technology, as part of the landscape documentation package and clearly demonstrates strict adherence to irrigation system design criteria in Section 23.72.090. Prevention of overspray and runoff must be confirmed during the irrigation audit.</text>
+              <text>The irrigation designer specifies an alternative design or technology, as part of the landscape documentation package and clearly demonstrates strict adherence to irrigation system design criteria in <cite path="§23.72.090">Section 23.72.090</cite>. Prevention of overspray and runoff must be confirmed during the irrigation audit.</text>
             </para>
           </para>
           <para>
@@ -6894,7 +6894,7 @@ controller may also function as a landscape water meter or submeter.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Recycled water irrigation systems as specified in Section 23.72.160;</text>
+          <text>Recycled water irrigation systems as specified in <cite path="§23.72.160">Section 23.72.160</cite>;</text>
         </para>
         <para>
           <num>(6)</num>
@@ -6902,7 +6902,7 @@ controller may also function as a landscape water meter or submeter.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>The signature of a licensed landscape architect, certified irrigation designer, licensed landscape contractor, or any other person authorized to design an irrigation system. (See Sections 5500.1, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, 7027.5 of the Business and Professions Code, Section 832.27 of Title 16 of the California Code of Regulations, and Section 6721 of the Food and Agricultural Code.)</text>
+          <text>The signature of a licensed landscape architect, certified irrigation designer, licensed landscape contractor, or any other person authorized to design an irrigation system. (See Sections 5500.1, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5" proof="true">7027.5 of the Business and Professions Code</cite>, Section 832.27 of Title 16 of the California Code of Regulations, and <cite doc="Cal. Food &amp; Agric. Code" path="§6721" proof="true">Section 6721 of the Food and Agricultural Code</cite>.)</text>
         </para>
       </para>
       <annotation doc="Ord. 2016-3" path="§1" type="History"/>
@@ -7013,15 +7013,15 @@ controller may also function as a landscape water meter or submeter.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Irrigation scheduling parameters used to set the controller (see Section 23.72.130);</text>
+          <text>Irrigation scheduling parameters used to set the controller (see <cite path="§23.72.130">Section 23.72.130</cite>);</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Landscape and irrigation maintenance schedule (see Section 23.72.140);</text>
+          <text>Landscape and irrigation maintenance schedule (see <cite path="§23.72.140">Section 23.72.140</cite>);</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Landscape and irrigation audit report (see Section 23.72.120); and</text>
+          <text>Landscape and irrigation audit report (see <cite path="§23.72.120">Section 23.72.120</cite>); and</text>
         </para>
         <para>
           <num>(6)</num>
@@ -7221,7 +7221,7 @@ controller may also function as a landscape water meter or submeter.</text>
     <section>
       <num>23.72.170</num>
       <heading>GRAYWATER SYSTEMS.</heading>
-      <text>Graywater systems promote the efficient use of water and are encouraged to assist in on-site landscape irrigation. All graywater systems shall conform to the California Plumbing Code (Title 24, Part 5, Chapter 16) and any applicable local ordinance standards. Refer to Section 23.72.010(e) for the applicability of this chapter to landscape areas less than 2,500 square feet with the estimated total water use met entirely by graywater.</text>
+      <text>Graywater systems promote the efficient use of water and are encouraged to assist in on-site landscape irrigation. All graywater systems shall conform to the California Plumbing Code (Title 24, Part 5, Chapter 16) and any applicable local ordinance standards. Refer to <cite path="§23.72.010|(e)">Section 23.72.010(e)</cite> for the applicability of this chapter to landscape areas less than 2,500 square feet with the estimated total water use met entirely by graywater.</text>
       <annotation doc="Ord. 2016-3" path="§1" type="History"/>
     </section>
     <section>
