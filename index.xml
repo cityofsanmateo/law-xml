@@ -2,4 +2,15 @@
 <library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <heading>Cite of San Mateo Law Library</heading>
   <xi:include href="./us/ca/cities/san-mateo/code/index.xml"/>
+  <collection xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" name="ordinances">
+    <heading>Ordinances</heading>
+    <xi:include href="./us/ca/cities/san-mateo/years/2017/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/years/2016/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/years/2015/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/years/2014/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/years/2013/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/years/2012/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/years/2011/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/years/2010/index.xml"/>
+  </collection>
 </library>
