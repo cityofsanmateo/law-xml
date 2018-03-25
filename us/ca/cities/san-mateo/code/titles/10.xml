@@ -12,13 +12,17 @@
       <num>10.04.010</num>
       <heading>DISTURBING THE PEACE.</heading>
       <text>No person shall make in any place or suffer to be made upon his or her premises, or premises within his or her control, any noise, disorder, or tumult, to the disturbance of the public peace within the City.</text>
-      <annotation type="History">Prior code § 59.01</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.04.010">Prior code § 59.01</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.020</num>
       <heading>OBSCENE LANGUAGE.</heading>
       <text>No person shall utter within the hearing of two (2) or more persons any loud, obscene or profane language, words or epithets, or address another, or utter in the presence of another, any words, language or expression, having a tendency to create a breach of the peace.</text>
-      <annotation type="History">Prior code § 59.02</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.04.020">Prior code § 59.02</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.030</num>
@@ -56,19 +60,23 @@
         <num>(h)</num>
         <text>Who lodges in any building, structure or place, whether public or private, without the permission of the owner or person entitled to the possession or in control thereof.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§14" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1998-8" path="§4" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1983-17" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1969-32" path="§1" type="History"/>
-      <annotation type="History">prior code § 59.03</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§14" type="History" codified:original-path="§10.04.030"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-8" path="§4" type="History" codified:original-path="§10.04.030"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1983-17" path="§1" type="History" codified:original-path="§10.04.030"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1969-32" path="§1" type="History" codified:original-path="§10.04.030"/>
+        <annotation type="History" codified:original-path="§10.04.030">prior code § 59.03</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.040</num>
       <heading>PUBLIC PROPERTY—DAMAGE.</heading>
       <text>Irrespective of any other provisions of this code, no person shall willfully or negligently break, injure or damage any real, personal or mixed property belonging to, or owned by, the City.</text>
       <text>The provisions of this section are cumulative and shall not prevent the City from instituting, prosecuting or maintaining any civil action for breaking, injuring or otherwise damaging property owned by, or belonging to, the City, nor is this section intended to, or shall it, repeal, or amend any other section of this code, providing that it is unlawful to break, injure, or damage any specific type or class of property owned by the City.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§15" type="History"/>
-      <annotation type="History">prior code § 59.05</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§15" type="History" codified:original-path="§10.04.040"/>
+        <annotation type="History" codified:original-path="§10.04.040">prior code § 59.05</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.050</num>
@@ -81,9 +89,11 @@
         <num>(b)</num>
         <text>It is unlawful for any person, without permission, express or implied, of the owner or lessee or other person in charge of private property or business premises, to enter upon any such private property or business premises after having been notified by the owner, lessee or other person in charge thereof to keep off or away therefrom.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1970-11" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1970-8" path="§1" type="History"/>
-      <annotation type="History">prior code § 59.07</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1970-11" path="§1" type="History" codified:original-path="§10.04.050"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1970-8" path="§1" type="History" codified:original-path="§10.04.050"/>
+        <annotation type="History" codified:original-path="§10.04.050">prior code § 59.07</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.060</num>
@@ -105,36 +115,46 @@
         <num>(d)</num>
         <text>Allow any gaseous, liquid, or solid substance harmful to trees to come into contact with the roots, leaves, barks, or any part of any street tree or shrub.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1998-8" path="§4" type="History"/>
-      <annotation type="History">prior code § 65.15</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-8" path="§4" type="History" codified:original-path="§10.04.060"/>
+        <annotation type="History" codified:original-path="§10.04.060">prior code § 65.15</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.04.070</num>
       <heading>TEASING, HARMING OR INTERFERING WITH POLICE DOGS.</heading>
       <text>It is unlawful for any person to torture, tease, torment, beat, kick, strike, mutilate, injure, disable, kill, or otherwise interfere with any dog used by the Police Department of the City of San Mateo in the performance of the functions or duties of such department or any officer or member thereof.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1978-16" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1978-16" path="§1" type="History" codified:original-path="§10.04.070"/>
+      </annotations>
     </section>
     <section>
       <num>10.04.080</num>
       <heading>DRINKING—PUBLIC AREAS.</heading>
       <text>It is unlawful for any person to drink or possess any open container of beer, wine, or other intoxicating beverage on any public sidewalk, alley, street or highway. This section shall not be deemed to make punishable any such act or acts which are prohibited by the <cite doc="Cal. Veh. Code" proof="true">Vehicle Code</cite> or by any other law of the State.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1982-3" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1979-19" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1982-3" path="§1" type="History" codified:original-path="§10.04.080"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1979-19" path="§1" type="History" codified:original-path="§10.04.080"/>
+      </annotations>
     </section>
     <section>
       <num>10.04.090</num>
       <heading>DRINKING—PRIVATE PARKING LOTS.</heading>
       <text>It is unlawful for any person to drink or possess any open container of beer, wine, or other intoxicating beverage upon that portion of private property open to the public and within 500 feet of any public sidewalk, alley, street or highway, which is used or intended to be used for the parking or storage of motor vehicles by customers or employees of any business, commercial or industrial establishment without the express written permission of the owner, agent, or person in lawful possession thereof. This section shall not be deemed to make punishable any such act or acts which are prohibited by the <cite doc="Cal. Veh. Code" proof="true">Vehicle Code</cite> or by any other law of the State.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1982-3" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1979-19" path="§2" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1982-3" path="§1" type="History" codified:original-path="§10.04.090"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1979-19" path="§2" type="History" codified:original-path="§10.04.090"/>
+      </annotations>
     </section>
     <section>
       <num>10.04.100</num>
       <heading>URINATION OR DEFECATION IN PUBLIC.</heading>
       <text>It is unlawful for any person to urinate or defecate on public property or in any public place.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§16" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§2" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1985-29" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§16" type="History" codified:original-path="§10.04.100"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§2" type="History" codified:original-path="§10.04.100"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1985-29" path="§1" type="History" codified:original-path="§10.04.100"/>
+      </annotations>
     </section>
     <section>
       <num>10.04.110</num>
@@ -147,21 +167,27 @@
         <num>(b)</num>
         <text>Exceptions. This section does not apply to: (1) the owners or lawful tenants of such building, place, or area provided that they are acting within the scope and authority of their ownership or tenancy; and (2) Federal, State, or local representatives of government acting within the scope of their employment.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§2" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§2" type="History" codified:original-path="§10.04.110"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-1" path="§1" type="History" codified:original-path="§10.04.110"/>
+      </annotations>
     </section>
     <section>
       <num>10.04.120</num>
       <heading>IMPERSONATING A CITY EMPLOYEE, LAW ENFORCEMENT OR FIRE SERVICE OFFICER, OR PUBLIC UTILITY EMPLOYEE.</heading>
       <text>It is unlawful for any person without authorization to wear, display, or use any title, identification card, vehicle, uniform, cap, badge, insignia, or other document or item that causes or would tend to cause a reasonable individual to believe that such a person is an employee of the City, a member of any law enforcement agency or fire service, or an employee of a public utility.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1990-5" path="§14" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-5" path="§14" type="History" codified:original-path="§10.04.120"/>
+      </annotations>
     </section>
     <section>
       <num>10.04.130</num>
       <heading>BLINDER RACKS.</heading>
       <text>Any person who displays, sells, or offers to sell any material that is harmful to minors, as defined by Chapter <cite doc="Cal. Penal Code" path="§7.6" proof="true">7.6 of the California Penal Code</cite>, in a public place, other than a public place from which minors are excluded, shall place devices commonly known as blinder racks in front of the material, so that the lower two-thirds of the material is not exposed to view. The definitions of <cite doc="Cal. Penal Code" proof="true">Penal Code</cite> Chapter 7.6 are incorporated herein including the definition of "harmful matter" which includes the display of photographs or pictorial representations of acts of sodomy, oral copulation, sexual intercourse, masturbation, bestiality, or representation of an exposed penis in an erect and turgid state., in a public place, other than a public place from which minors are excluded, shall place devices commonly known as blinder racks in front of the material, so that the lower two-thirds of the material is not exposed to view. The definitions of Penal Code Chapter 7.6 are incorporated herein including the definition of "harmful matter" which includes the display of photographs or pictorial representations of acts of sodomy, oral copulation, sexual intercourse, masturbation, bestiality, or representation of an exposed penis in an erect and turgid state.</text>
       <text>It is unlawful to fail to comply with this section.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1995-5" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1995-5" path="§1" type="History" codified:original-path="§10.04.130"/>
+      </annotations>
     </section>
     <section>
       <num>10.04.140</num>
@@ -183,8 +209,10 @@
         <num>(b)</num>
         <text>For any person to connect any camp car, motor home, travel trailer or any other vehicle which is equipped for sleeping or cooking or both, to any public utility, such as water, electricity, gas or sewer services, except as may be necessary for the maintenance and preparation of the vehicle. The duration of any such maintenance or preparation connection shall not exceed eight hours in any seven consecutive days.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 2016-2" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1995-7" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2016-2" path="§1" type="History" codified:original-path="§10.04.140"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1995-7" path="§1" type="History" codified:original-path="§10.04.140"/>
+      </annotations>
     </section>
     <section>
       <num>10.04.150</num>
@@ -193,7 +221,9 @@
       <text>55 West Third Avenue</text>
       <text>205 West Hillsdale Blvd.</text>
       <text>1530 Susan Court.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1999-16" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1999-16" path="§1" type="History" codified:original-path="§10.04.150"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -244,35 +274,45 @@
         <num>(g)</num>
         <text>"School" means an elementary school, junior high school, four (4) year high school, senior high school vocational school, continuation high school, regional occupational center or technical high school that is either a public school or a private school operating pursuant to the <cite doc="Cal. Educ. Code" proof="true">California Education Code</cite>.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History" codified:original-path="§10.12.010"/>
+      </annotations>
     </section>
     <section>
       <num>10.12.020</num>
       <heading>LOITERING PROHIBITED.</heading>
       <text>It is unlawful for any minor to loiter about or in any public place within the City between the hours of 11:00 p.m. and 5:00 a.m. Sunday through Thursday nights, 12:00 a.m. to 5:00 a.m. Friday and Saturday nights, and 8:30 a.m. to 2:00 p.m. on days and times when the school in which the student is registered is in session.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History"/>
-      <annotation type="History">prior code § 60.08</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History" codified:original-path="§10.12.020"/>
+        <annotation type="History" codified:original-path="§10.12.020">prior code § 60.08</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.030</num>
       <heading>PERMITTING VIOLATION UNLAWFUL.</heading>
       <text>It is unlawful for a parent, guardian, or other person having the care, custody or control of any minor to permit such minor to violate any provision of this chapter.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History"/>
-      <annotation type="History">prior code § 60.08</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History" codified:original-path="§10.12.030"/>
+        <annotation type="History" codified:original-path="§10.12.030">prior code § 60.08</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.040</num>
       <heading>AIDING—ABETTING.</heading>
       <text>It is unlawful for any person to assist, aid, abet or encourage any minor to violate any provision of this chapter.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History"/>
-      <annotation type="History">prior code § 60.08</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History" codified:original-path="§10.12.040"/>
+        <annotation type="History" codified:original-path="§10.12.040">prior code § 60.08</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.12.050</num>
       <heading>VIOLATION.</heading>
       <text>No person shall violate the provisions of this chapter.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§17" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§17" type="History" codified:original-path="§10.12.050"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History" codified:original-path="§10.12.050"/>
+      </annotations>
     </section>
     <section>
       <num>10.12.060</num>
@@ -314,7 +354,9 @@
         <num>(i)</num>
         <text>Emancipated in accordance with California law.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History" codified:original-path="§10.12.060"/>
+      </annotations>
     </section>
     <section>
       <num>10.12.070</num>
@@ -331,7 +373,9 @@
         <num>(c)</num>
         <text>A peace officer may take enforcement action under this chapter only when the peace officer has cause to believe that neither subsection (a) above nor any other exemption in this chapter applies to the offender.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2010-5" path="§1" type="History" codified:original-path="§10.12.070"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -343,17 +387,21 @@
       <num>10.16.010</num>
       <heading>RUNNING VEHICLE OVER FIRE EQUIPMENT PROHIBITED.</heading>
       <text>No person shall operate any vehicle, locomotive or railroad car, on, over or across any hose, ladders, or other equipment, of the fire department.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1992-11" path="§3" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1983-10" path="§22" type="History"/>
-      <annotation type="History">prior code § 88.05</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1992-11" path="§3" type="History" codified:original-path="§10.16.010"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1983-10" path="§22" type="History" codified:original-path="§10.16.010"/>
+        <annotation type="History" codified:original-path="§10.16.010">prior code § 88.05</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.16.020</num>
       <heading>DEBRIS REMOVAL AFTER FIRE REQUIRED.</heading>
       <text>The owner or person having under his or her control, or in his or her possession, upon any premises in the City, any hay, straw, bales of wool, cotton, paper or other substances which have been rendered useless or unmerchantable by reason of any fire on such premises, or any debris resulting from such fire, must remove the same from the premises as soon as possible.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1992-11" path="§3" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1983-10" path="§23" type="History"/>
-      <annotation type="History">prior code § 88.08</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1992-11" path="§3" type="History" codified:original-path="§10.16.020"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1983-10" path="§23" type="History" codified:original-path="§10.16.020"/>
+        <annotation type="History" codified:original-path="§10.16.020">prior code § 88.08</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.16.030</num>
@@ -404,11 +452,13 @@
         <num>(g)</num>
         <text>Notwithstanding any other provision of this section, the violation of any portion hereof is a misdemeanor or infraction as charged pursuant to Chapter 1.04 and shall be punishable pursuant to the provisions of Chapter 1.04.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1992-11" path="§3" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§10" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1987-5" path="§10" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1983-10" path="§24" type="History"/>
-      <annotation type="History">prior code § 88.03</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1992-11" path="§3" type="History" codified:original-path="§10.16.030"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§10" type="History" codified:original-path="§10.16.030"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1987-5" path="§10" type="History" codified:original-path="§10.16.030"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1983-10" path="§24" type="History" codified:original-path="§10.16.030"/>
+        <annotation type="History" codified:original-path="§10.16.030">prior code § 88.03</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.16.040</num>
@@ -429,9 +479,11 @@
         <num>(d)</num>
         <text>Such "fire zone" shall remain in existence until such time as the fire chief or his or her authorized agent has declared the emergency past.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1992-11" path="§3" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1983-10" path="§27" type="History"/>
-      <annotation type="History">prior code 88.01</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1992-11" path="§3" type="History" codified:original-path="§10.16.040"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1983-10" path="§27" type="History" codified:original-path="§10.16.040"/>
+        <annotation type="History" codified:original-path="§10.16.040">prior code 88.01</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.16.050</num>
@@ -456,8 +508,10 @@
         <num>(e)</num>
         <text>It is unlawful for any person to enter upon or remain in any hazardous fire area that has been declared closed to entry pursuant to this Section or to violate any other condition, restriction, or prohibition contained in such a declaration.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1992-11" path="§3" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1990-23" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1992-11" path="§3" type="History" codified:original-path="§10.16.050"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-23" path="§1" type="History" codified:original-path="§10.16.050"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -468,8 +522,10 @@
       <num>10.26.010</num>
       <heading>DISCHARGE OF FIREARMS—PROHIBITED.</heading>
       <text>No person shall discharge or fire any firearm within the City except as otherwise provided herein. For purposes of this chapter, "firearm" is defined as a gun, pistol, revolver, rifle, shotgun, BB gun, air gun, pellet gun, bow and arrow, crossbow, blow gun, slingshot or any other weapon of a similar nature designed to discharge a projectile propelled by the expansion of a gas or a spring or any other device designed to throw or sling or otherwise project any solid object.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1985-19" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1975-13" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1985-19" path="§1" type="History" codified:original-path="§10.26.010"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1975-13" path="§1" type="History" codified:original-path="§10.26.010"/>
+      </annotations>
     </section>
     <section>
       <num>10.26.020</num>
@@ -487,7 +543,9 @@
         <num>(c)</num>
         <text>To persons discharging or firing such firearms or causing them to be discharged or fired at a firing, shooting or target range authorized, established or maintained by a governmental entity with the consent of the operator and under supervision of a person qualified to be in charge of such range.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1975-13" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1975-13" path="§1" type="History" codified:original-path="§10.26.020"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -498,31 +556,39 @@
       <num>10.34.010</num>
       <heading>PURPOSE AND INTENT.</heading>
       <text>It is the purpose and intent of the Council by enacting this chapter to provide for the issuance of permits to allow charitable organizations to hold bingo games lawfully in the City.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.010"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.010"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.020</num>
       <heading>BINGO—DEFINED.</heading>
       <text>As used in this chapter "bingo" means a game of chance in which prizes are awarded on the basis of designated numbers or symbols on a card which conform to numbers or symbols selected at random. The game of bingo shall include cards having numbers or symbols which are concealed and preprinted in a manner providing for distribution of prizes. The winning cards shall not be known prior to the game by any person participating in the playing or operation of the bingo game. Bingo as defined in this section applies exclusively to this chapter and shall not be applied in the construction or enforcement of any other provision of law.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.020"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.020"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.030</num>
       <heading>BINGO—PROHIBITED.</heading>
       <text>No person, including, but not limited to, an individual, corporation, association, organization or group, shall operate a bingo game within the City without possessing a valid, unexpired and unrevoked permit issued under this chapter and except in conformance with this chapter and all other applicable laws.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§192" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.030"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§192" type="History" codified:original-path="§10.34.030"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.030"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.040</num>
       <heading>ORGANIZATIONS ELIGIBLE FOR PERMIT.</heading>
       <text>Organizations which are exempted from the payment of the bank and corporation tax by Sections 23701a, 23701b, 23701d, 23701e, 23701f, 23701g, and 23701l of the <cite doc="Cal. Rev. &amp; Tax. Code" proof="true">Revenue and Taxation Code</cite>, mobile home park associations and senior citizens organizations shall be eligible to apply for a permit to conduct bingo games in this City; provided that the proceeds of such games are used only for charitable purposes; and further provided, said applicant has owned or leased property within the City of San Mateo that has been used by the applicant for performance of the purposes for which the applicant is organized for at least 12 consecutive months immediately preceding the filing of such application. No other person shall be qualified or eligible to receive a bingo permit.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§193" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.040"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§193" type="History" codified:original-path="§10.34.040"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.040"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.050</num>
@@ -573,9 +639,11 @@
         <text>Such additional information as may be required to show that the operation of the bingo game will not be inimical to the public health, safety, morals, peace, or general welfare.</text>
       </para>
       <text>The Tax Collector may provide uniform application forms.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§194" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.050"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§194" type="History" codified:original-path="§10.34.050"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.050"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.060</num>
@@ -622,45 +690,57 @@
         <text>The issuance of a permit will be inimical to the public health, safety, morals, peace, or general welfare.</text>
       </para>
       <text>The term "applicant" shall include any predecessor or related organization which has been reestablished in order to apply for a bingo permit or which has officers who were responsible for bingo in an organization whose bingo application was denied by City or whose permit was revoked by City or other governmental entity.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.060"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.060"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.070</num>
       <heading>PERMIT—PERIOD OF VALIDITY.</heading>
       <text>Each permit shall only be valid only until the next following August 30. (This section is effective on September 1, 1990.)</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.070"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.070"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.080</num>
       <heading>PERMIT—FEE.</heading>
       <text>The permit fee for each permit issued pursuant to the provisions of this chapter shall be $10.00, one-half of which will be refunded if the application is denied.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.080"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.080"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.090</num>
       <heading>LOCATION OF GAMES.</heading>
       <text>An organization authorized to conduct bingo shall conduct bingo only on property owned or leased by it, or property whose use is donated to the organization, and which property is used by such organization for an office or for performance of the purposes for which the organization is organized. Nothing in this section shall be construed to require that the property owned or leased by or whose use is donated to the organization be used or leased exclusively by or donated exclusively to such organization.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§195" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.090"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§195" type="History" codified:original-path="§10.34.090"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.090"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.100</num>
       <heading>EXCLUSIVE OPERATION BY PERMIT HOLDER.</heading>
       <text>A bingo game shall be operated and staffed only by members of the authorized organization which organized it. It is unlawful for any person to receive a profit, wage, or salary from any bingo game. Nor shall any person operating or staffing bingo receive free or at reduced cost any pulltabs, bingo papers, or the like enabling them to play bingo. Only the organization authorized to conduct a bingo game shall operate such game, or participate in the promotion, supervision, or any other phase of such game. This section does not preclude the employment of security personnel who are not members of the authorized organization at such bingo game by the organization conducting the game, provided that the name of the security company is filed with the City. A violation of this section shall be punishable by a fine not to exceed $10,000.00 which shall be deposited into the general fund of the City.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§196" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.100"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§196" type="History" codified:original-path="§10.34.100"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.100"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.110</num>
       <heading>PROFITS—SECTION 23701d ORGANIZATION.</heading>
       <text>All profits derived from a bingo game shall be kept in a special fund or account and shall not be commingled with any other fund or account. Such profits shall be used only for charitable purposes. The City Council may designate by resolution a percentage of bingo gross receipts that must be used for charitable purposes.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.110"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.110"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.120</num>
@@ -679,66 +759,86 @@
         <text>Such proceeds may be used to pay license fees.</text>
       </para>
       <text>The City Council may designate by resolution a percentage of bingo gross receipts that must be used for charitable purposes.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1986-23" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1982-29" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.120"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1986-23" path="§1" type="History" codified:original-path="§10.34.120"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1982-29" path="§1" type="History" codified:original-path="§10.34.120"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.120"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.130</num>
       <heading>HOURS OF OPERATION.</heading>
       <text>An organization shall not operate or conduct a bingo game between the hours of midnight and 8:00 a.m.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.130"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1977-1" path="§1" type="History" codified:original-path="§10.34.130"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.135</num>
       <heading>ADVERTISING.</heading>
       <text>All advertising for bingo shall designate the name of the bingo permit holder and shall state that bingo proceeds will be used for charitable purposes.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.135"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.140</num>
       <heading>PARTICIPATION—MINORS.</heading>
       <text>Participation in all bingo games shall be open to the general public, and may not be limited to members of the licensed charitable organization. No minors shall be allowed to participate in any bingo game, as a worker or player, except for hall set-up, hall tear-down, and for food serving. No person shall be allowed to participate in a bingo game, unless the person is physically present at the time and place in which said game is being conducted.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.140"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.150</num>
       <heading>FINANCIAL INTEREST—PROHIBITED.</heading>
       <text>No individual, corporation, partnership, or other legal entity except the organization authorized to conduct a bingo game shall hold a financial interest in the conduct of such bingo game.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.150"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.160</num>
       <heading>PRIZES.</heading>
       <text>The total value of prizes awarded during the conduct of any bingo game shall not exceed $250.00 in cash or kind, or both, for each separate game which is held. A bingo game starts when the first ball or number symbol is called and ends when the first ball and all succeeding balls or number symbols are returned to the cage or blower. Each progressive play in a series which continues to utilize and count any number symbols called and utilized in a previous part of said progression shall be deemed part of the same bingo game, even if a separate prize is awarded for each part of said progression. The cumulative prizes awarded for a "progressive" or other similar bingo game shall not exceed the total of $250.00 in cash or kind or both. No other prizes, except for door prizes, may be given, including, but not limited to, bonus line prizes, good neighbor prizes. Door prizes shall not exceed a total of $250.00 for the bingo day and must be awarded during public attendance and in view of the public.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.160"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.170</num>
       <heading>LIMITATION ON FREQUENCY OF BINGO.</heading>
       <text>A permit holder shall not conduct bingo more frequently than one (1) day a week. The total number of games on any one (1) day shall not exceed 25 games. No single location shall be used for bingo more than two (2) days a week. A permit holder may hold one (1) bingo marathon during the period of the annual permit.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.170"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.180</num>
       <heading>RECORDS; AUDIT.</heading>
       <text>A bingo permit holder shall keep full and accurate records of the income and expenses received and disbursed in connection with its operation, conduct, promotion, supervision and any other phase of bingo authorized by this chapter. The permit holder shall keep full and accurate records of all bingo supplies received and used. Records of pulltabs shall include: (1) a designation of the type of pulltab, (2) the serial number of the pulltabs, (3) the number of pulltabs in a deal, (4) the number of deals, (5) the sales value of pulltabs in a deal, (6) the prize value of pulltabs in a deal, (7) the winning tickets.</text>
       <text>All records, ledgers, receipts, and accounts shall be kept for a period of three (3) years and shall be made available to the Tax Collector, or designated representative, for audit. As part of an audit or as a separate action, City may attend any bingo game and observe the operations. Further, City may place a City representative with the bingo permit holder in order to assure that proper receipts are given and that proper accounting of bingo funds is made.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.180"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.190</num>
       <heading>RECEIPTS—SALE OF BINGO CARDS, PULLTABS.</heading>
       <text>A bingo permit holder shall provide a receipt to each and every person who purchases a bingo card/paper, or other bingo supply, except that no receipt is required for the purchase of a pulltab. Such receipt shall be a cash register receipt or other receipt clearly designating the amount of money received by the permit holder. The bingo permit holder shall retain all winning pulltabs paying over $25.00 as a record. Persons selling pulltabs must sign for the number of pulltabs taken by said person for sale.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.190"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.200</num>
       <heading>REPORTING.</heading>
       <text>A permit holder shall report to the Tax Collector annually on or before each July 31st all receipts and expenses, including, but not limited to, prizes, supplies, property rental or payments, from bingo games within the City of San Mateo. The amount disbursed to charities shall be reported. The period to be covered shall be the preceding July 1st to June 30th.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.200"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.210</num>
@@ -757,44 +857,58 @@
         <text>The permit holder has lost its eligible status or has such status suspended.</text>
       </para>
       <text>The Tax Collector shall have the authority to summarily suspend the license by ordering the permit holder to immediately cease and desist any further operations of any bingo game.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.210"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.220</num>
       <heading>CONDUCTING BINGO SESSIONS AFTER SUSPENSION.</heading>
       <text>It is unlawful for any person to continue to conduct bingo after any summary suspension.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.220"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.230</num>
       <heading>ORDER AND SUBSEQUENT HEARING.</heading>
       <text>The Tax Collector's written order shall state the reasons for the suspension and also notify the permit holder in writing that a hearing will be held within 15 working days from the date of the order to determine whether such permit shall be suspended for a longer time period or permanently.</text>
       <text>Any such appeal by the permit holder shall be in writing stating the specific grounds for relief, and shall be filed with the Tax Collector.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.230"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.240</num>
       <heading>APPEAL HEARING.</heading>
       <text>A permit holder may appeal the decision of the Tax Collector within 10 calendar days of the date of the order. The reasons for an appeal shall be stated and the appeal filed with the Tax Collector. Upon timely request, the appeal hearing process and related procedures shall proceed pursuant to the provisions of Chapter 5.18.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.240"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.250</num>
       <heading>RECEIVING BINGO PROCEEDS DURING SUSPENSION OR REVOCATION.</heading>
       <text>An organization whose permit has been suspended or revoked cannot receive bingo proceeds from any source during the period of suspension or revocation. A violation of this subsection shall result in a permanent permit revocation to the organization involved and no subsequent permit shall be issued to any officer responsible.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.250"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.260</num>
       <heading>PURCHASES FROM BINGO SUPPLIERS.</heading>
       <text>All permit holders shall use bingo papers, pulltabs and other supplies purchased from suppliers licensed by the City of San Mateo.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.260"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.270</num>
       <heading>BINGO SUPPLIER—DEFINED.</heading>
       <text>A "bingo supplier" means any person or enterprise which, for a consideration, sells, rents, supplies, provides or furnishes equipment, products, goods, paper or other items for use in the conduct of bingo games, except for food service items, furniture, and office supplies.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.270"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.280</num>
@@ -802,7 +916,9 @@
       <text>No person shall, unless under and by permit authority of a valid, unrevoked and unexpired permit, sell, rent, supply, provide or furnish for a consideration, any equipment, products, good, paper or other items for use in the conduct of bingo games, except for food service items, furniture, and office supplies.</text>
       <text>A bingo supplier shall be deemed to operate or conduct business within the City of San Mateo if representatives of the bingo supplier sell, rent, supply, provide or furnish for a consideration, within the City of San Mateo, any equipment, products, goods, paper or other items for use in the conduct of bingo games, whether or not the bingo supplier operates from a fixed location within another jurisdiction.</text>
       <text>An application fee of $50.00 shall be paid upon application.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.280"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.290</num>
@@ -816,27 +932,35 @@
         <num>(b)</num>
         <text>The bingo supplier has failed to keep adequate records of his or her sales in the City or has refused a request by City to audit those records.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.290"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.300</num>
       <heading>RECORDS—AUDIT.</heading>
       <text>The bingo supplier shall keep full and accurate records of all inventory, income and expenses received and disbursed in connection with the sale, rental, supply, provision or furnishing of any equipment, products, goods, paper or other items for use in the conduct of bingo games in the City of San Mateo. The records shall be of such type and maintained in such manner as may be prescribed by the Tax Collector.</text>
       <text>The Tax Collector or any other authorized representative of the City shall have the right to examine and audit such records at any reasonable time and the bingo supplier shall fully cooperate by making such records available.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.300"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.310</num>
       <heading>LIMITATION ON INVOLVEMENT IN BINGO.</heading>
       <text>The bingo supplier shall not, directly or indirectly, organize, manage, supervise, conduct, control or otherwise participate in or influence either the operation of any bingo game conducted in the City or the promotion thereof.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.310"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.320</num>
       <heading>PROHIBITION OF FINANCIAL INTEREST IN BINGO.</heading>
       <text>With the exception of revenue generated by any business or enterprise for which a permit is required pursuant to this chapter, no bingo supplier shall have a financial interest in the conduct of a bingo game operated in the City of San Mateo.</text>
       <text>A supplier shall be deemed to have a financial interest in the conduct of a bingo game including, but not limited to, the following situations: (1) if the price or cost of bingo supplies is adjusted based on the profits, losses or tax exempt status of any organization licensed under this chapter; or (2) if the supplier absorbs, assumes, shares or otherwise participates in the losses, or profits of any bingo game conducted by any organization permitted under this chapter.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.320"/>
+      </annotations>
     </section>
     <section>
       <num>10.34.330</num>
@@ -882,7 +1006,9 @@
         <num>(g)</num>
         <text>Detailed records of pulltabs sold, including serial numbers, dollar values of pulltabs and pulltab prizes.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-26" path="§1" type="History" codified:original-path="§10.34.330"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -894,13 +1020,17 @@
       <num>10.36.010</num>
       <heading>HAZARDING FOR RETURN OF MONEY.</heading>
       <text>No person, either as owner, lessee, agent, employee, mortgagee, or otherwise, shall operate, keep, maintain, rent, use or conduct any clock, tape, slot or card machine, or any other machine, contrivance or device, upon which money is staked or hazarded upon chance, or into which money is paid, deposited, or played, upon chance or upon result of the action of which money or any other article or thing of value is staked, bet, hazarded, won or lost upon chance.</text>
-      <annotation type="History">Prior code § 62.01</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.36.010">Prior code § 62.01</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.020</num>
       <heading>HAZARDING FOR RETURN OF MERCHANDISE.</heading>
       <text>No person, either as owner, lessee, agent, employee, mortgagee, or otherwise, shall operate, keep, maintain, rent, use or conduct any machine, contrivance, appliance or mechanical device upon the result of the action of which money or other valuable things are staked, or hazarded, and which is operated, or played by placing or depositing therein, any coins, checks, slugs, balls or other articles or device or in any manner, and by means of the action thereof, or as a result of the operation of which, any merchandise, money, representative or article of value, check or token, redeemable in, or exchangeable for, money, or any other thing of value, is won, or lost, or taken from, or obtained from, such machine, when the result of the action or operation of such machine, contrivance, appliance, or mechanical device, is dependent upon hazard or chance.</text>
-      <annotation type="History">Prior code § 62.02</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.36.020">Prior code § 62.02</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.030</num>
@@ -915,25 +1045,33 @@
         <num>(2)</num>
         <text>"Gambling" means the playing of any game not prohibited by the <cite doc="Cal. Penal Code" proof="true">Penal Code</cite> of the state, or by any other law of the state, which is played, conducted, dealt, or carried on with cards, dice, dominoes, or other devices for anything of value.</text>
       </para>
-      <annotation type="History">Prior code § 62.50</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.36.030">Prior code § 62.50</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.040</num>
       <heading>GAMBLING HOUSE.</heading>
       <text>No person, either as principal, or agent, employee or otherwise, shall keep, conduct or maintain within the City, any house, room, apartment or place used in whole or in part as a gambling house or place where gambling shall occur.</text>
-      <annotation type="History">Prior code § 62.51</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.36.040">Prior code § 62.51</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.050</num>
       <heading>PERMITTING GAMBLING.</heading>
       <text>No person, either as principal, or agent, employee or otherwise, shall knowingly permit any house, room, apartment or place owned by him or her or under his or her charge or control, in the City, to be used in whole or in part as a gambling house or place where gambling occurs.</text>
-      <annotation type="History">Prior code § 62.52</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.36.050">Prior code § 62.52</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.060</num>
       <heading>BETTING.</heading>
       <text>No person shall within the City deal, operate, attend, play or bet at or against any game not prohibited by the <cite doc="Cal. Penal Code" proof="true">Penal Code</cite> of the state or by any other law of the state, which is played, conducted, dealt or carried on with cards, dice, dominoes or other devices for anything of value. (Added by Ordinance 5, adopted February 20, 1967.)</text>
-      <annotation type="History">Prior code § 62.53</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.36.060">Prior code § 62.53</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.070</num>
@@ -981,19 +1119,23 @@
         </para>
         <text>The arrest and conviction of anyone for the violation of any statute or ordinance regulating gaming within an excepted premises shall automatically suspend this exception and said gambling house shall cease operation upon notice by the chief of the Police Department.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1998-13" type="History">Ord. 1998-13 §§ 1-3, 1998</annotation>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1987-3" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1986-3" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1972-6" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1970-28" path="§1" type="History"/>
-      <annotation type="History">prior code § 62.54</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-13" type="History" codified:original-path="§10.36.070">Ord. 1998-13 §§ 1-3, 1998</annotation>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1987-3" path="§1" type="History" codified:original-path="§10.36.070"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1986-3" path="§1" type="History" codified:original-path="§10.36.070"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1972-6" path="§1" type="History" codified:original-path="§10.36.070"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1970-28" path="§1" type="History" codified:original-path="§10.36.070"/>
+        <annotation type="History" codified:original-path="§10.36.070">prior code § 62.54</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.080</num>
       <heading>PRIVATE CLUB—EXEMPTION.</heading>
       <text>An incorporated or charter fraternal, labor, benevolent or charitable organization, or religious association, that has been continuously carrying on within the City the activities for which it was organized for a period of not less than five years immediately preceding, that limits access to its own membership and the invited guests of its members and that had a city permit on June 30, 1984, shall be exempt from local gaming ordinances and gaming regulations.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1984-21" path="§1" type="History"/>
-      <annotation type="History">prior code § 62.55(a)</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-21" path="§1" type="History" codified:original-path="§10.36.080"/>
+        <annotation type="History" codified:original-path="§10.36.080">prior code § 62.55(a)</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.090</num>
@@ -1026,7 +1168,9 @@
         <num>3.</num>
         <text>Exceptions and Exemptions. The provisions of this ordinance shall be subject to the same exceptions and exemptions as are set forth in <cite path="§10.36.070">Section 10.36.070</cite> and <cite path="§10.36.080">10.36.080</cite> of the ordinances of San Mateo in effect on January 1, 1995, and this ordinance shall not disallow bingo games allowed under Chapter 10.34 of the ordinances of San Mateo.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1995-18" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1995-18" path="§1" type="History" codified:original-path="§10.36.090"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1037,19 +1181,25 @@
       <num>10.38.010</num>
       <heading>PURPOSE.</heading>
       <text>The purpose of this chapter is to discharge the City's authority to review applications of public convenience and necessity for alcohol beverage sales, both on-site and off-site, that are referred to it by the Alcohol Beverage Control of the State of California.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-9" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-9" path="§1" type="History" codified:original-path="§10.38.010"/>
+      </annotations>
     </section>
     <section>
       <num>10.38.020</num>
       <heading>PUBLIC CONVENIENCE AND NECESSITY.</heading>
       <text>The Director of Community Development or designee shall review applications for public convenience and necessity. The Director's or designee's decision shall be final unless appealed.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-9" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-9" path="§1" type="History" codified:original-path="§10.38.020"/>
+      </annotations>
     </section>
     <section>
       <num>10.38.030</num>
       <heading>NOTICE OF APPLICATION.</heading>
       <text>Notice shall be provided in the same manner that notice is provided for planning applications under Chapter 27.08.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-9" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-9" path="§1" type="History" codified:original-path="§10.38.030"/>
+      </annotations>
     </section>
     <section>
       <num>10.38.040</num>
@@ -1092,19 +1242,25 @@
         <text>Such other criteria that the decision-maker deems relevant.</text>
       </para>
       <text>The Director or designee may approve or approve with conditions if it is found that the application is in the public convenience and necessity of the public. The application shall be denied if it is found that the application is not in the convenience and necessity of the public.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-9" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-9" path="§1" type="History" codified:original-path="§10.38.040"/>
+      </annotations>
     </section>
     <section>
       <num>10.38.050</num>
       <heading>APPEAL.</heading>
       <text>The decision of the Director or designee may be appealed to the Planning Commission and the City Council in the same manner for appeals as set forth in Chapter 27.08.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-9" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-9" path="§1" type="History" codified:original-path="§10.38.050"/>
+      </annotations>
     </section>
     <section>
       <num>10.38.060</num>
       <heading>DIRECT REFERRAL TO PLANNING COMMISSION.</heading>
       <text>If the Director of Community Development or designee finds that any application under this chapter involves an unresolved city policy issue or that there is a public controversy regarding the application, the Director or designee shall refer the application to the Planning Commission for hearing/and action.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-9" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-9" path="§1" type="History" codified:original-path="§10.38.060"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1115,57 +1271,75 @@
       <num>10.40.010</num>
       <heading>DEFINITION.</heading>
       <text>"Handbill" as used in this chapter includes any printed or written advertising matter, any sample or device, dodger, circular, leaflet, pamphlet, newspaper, paper, booklet, or any other printed matter or literature.</text>
-      <annotation type="History">Prior code § 66.33</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.40.010">Prior code § 66.33</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.020</num>
       <heading>DISTRIBUTION ON PUBLIC PROPERTY.</heading>
       <text>No person, either directly or indirectly, shall deposit, place, throw, scatter or cast any handbill in or onto any public street, thoroughfare, park, ground or other public place or depot within the City. The provisions of this section shall not prohibit the handing, transmitting, or distributing, between the hours of eight a.m. and six p.m., of any handbill to any person willing to accept such handbill; provided, however, such handing, transmitting or distribution shall not violate any traffic regulations or interfere with, obstruct, stop or confuse the flow of traffic in, along, or upon such public thoroughfare, park, ground or other public place or depot.</text>
-      <annotation type="History">Prior code § 66.34</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.40.020">Prior code § 66.34</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.030</num>
       <heading>PLACING IN VEHICLES.</heading>
       <text>No person, either directly or indirectly, shall distribute, deposit, place, throw, scatter or cast any handbill in or upon any automobile or other vehicle. The provisions of this section shall not prohibit the handing, transmitting or distributing between the hours of eight a.m. and six p.m. of any handbills to the occupants of any automobile or other vehicle.</text>
-      <annotation type="History">Prior code § 66.35</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.40.030">Prior code § 66.35</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.040</num>
       <heading>DISTRIBUTING ON PRIVATE PROPERTY.</heading>
       <text>No person, either directly or indirectly, shall distribute, deposit, place, throw, scatter or cast any handbills in or upon any private yards, grounds, walk, porch, steps, mailbox, vestibule, house, residence, building, or any other private property. The provisions of this section shall not prohibit the handing, transmitting or distributing between the hours of eight a.m. and six p.m. of any handbills to the owner or other occupant of such private yard, grounds, walk, porch, steps, mailbox, vestibule, house, residence, building or other private property.</text>
-      <annotation type="History">Prior code § 66.36</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.40.040">Prior code § 66.36</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.050</num>
       <heading>POSTED PROPERTY PROHIBITED.</heading>
       <text>The owner, or person entitled to possession, of any property may place or maintain a sign in a conspicuous place near the entrance thereof, indicating that no handbills are desired, in which event it is unlawful for any person to go upon such premises so posted, and distribute, deposit, place, throw, scatter, or cast any handbill.</text>
-      <annotation type="History">Prior code § 66.37</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.40.050">Prior code § 66.37</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.060</num>
       <heading>EXEMPTIONS.</heading>
       <text>The provisions of this chapter shall not be deemed to apply to the distribution of the United States mail nor shall the provisions of Sections <cite path="§10.40.040">10.40.040</cite> and <cite path="§10.40.050">10.40.050</cite> be deemed to apply to the delivery of any handbill upon any such private property when the person entitled to the possession of such property has requested such delivery.</text>
-      <annotation type="History">Prior code § 66.38</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.40.060">Prior code § 66.38</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.070</num>
       <heading>PROHIBITED CONTENTS.</heading>
       <text>Anything in this chapter to the contrary notwithstanding, no person shall distribute any handbill where the contents of such are immoral, obscene, or advocate unlawful, criminal, seditious or treasonable acts.</text>
-      <annotation type="History">Prior code § 66.39</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.40.070">Prior code § 66.39</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.080</num>
       <heading>ADVERTISING MATTER.</heading>
       <text>No person shall distribute any handbill containing any advertising matter without first obtaining a permit for such distribution.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§197" type="History"/>
-      <annotation type="History">prior code § 66.40</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§197" type="History" codified:original-path="§10.40.080"/>
+        <annotation type="History" codified:original-path="§10.40.080">prior code § 66.40</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.40.090</num>
       <heading>ADVERTISING MATTER—PROVISIONS.</heading>
       <text>Application for the permit provided for in <cite path="§10.40.080">Section 10.40.080</cite> shall be made to the business Tax Collector, and shall include the applicant's name, age, address, occupation and principal or employer. The applicant shall attach a copy of the handbill to the application. The Tax Collector shall issue a permit upon the payment of the sum of one dollar for each one thousand handbills or fraction thereof, to be distributed. Permits shall be issued only to the person whose goods, wares, or merchandise are being advertised, or to the person who publishes an advertising medium, or to the person actually distributing such handbill, and a separate permit shall be obtained for each distribution; provided that such permit shall not apply to the distribution, peddling or delivery of any magazine or newspaper of general circulation published for the dissemination of local or telegraphic news or intelligence of a general character which has a bona fide subscription list or paid subscribers, and which is printed and published at regular intervals.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§198" type="History"/>
-      <annotation type="History">prior code § 66.41</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§198" type="History" codified:original-path="§10.40.090"/>
+        <annotation type="History" codified:original-path="§10.40.090">prior code § 66.41</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1187,7 +1361,9 @@
         <num>(c)</num>
         <text>"Sound truck" as used herein means any motor vehicle, or animal-drawn vehicle, having mounted thereon or attached thereto any sound amplifying equipment, including, but not limited to, trailers or other vehicles attached to said motor vehicle or animal propelled vehicle.</text>
       </para>
-      <annotation type="History">Prior code § 73.34</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.48.010">Prior code § 73.34</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.020</num>
@@ -1257,13 +1433,17 @@
           <text>The approximate maximum distance for which sound will be thrown from sound truck.</text>
         </para>
       </para>
-      <annotation type="History">Prior code § 73.35 (a)</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.48.020">Prior code § 73.35 (a)</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.030</num>
       <heading>NONCOMMERCIAL—PERMIT—ISSUANCE—DENIAL.</heading>
       <text>If the Chief of Police finds that said statement shows facts complying with the regulations contained in <cite path="§10.48.070">Section 10.48.070</cite>, he or she shall recommend that a permit be issued and transmit a copy of the statement to the City Manager, who shall thereupon issue a permit for the operation of such sound truck. If the Chief of Police finds that the statement fails to show facts complying with said regulations, he or she shall transmit a copy of the statement to the City Manager with a recommendation that a permit be denied, and the City Manager shall thereupon deny such permit, unless such application is amended so that the operation, if allowed, will conform with the requirements of the regulations for use set forth in <cite path="§10.48.070">Section 10.48.070</cite>.</text>
-      <annotation type="History">Prior code § 73.35 (b)</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.48.030">Prior code § 73.35 (b)</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.040</num>
@@ -1271,19 +1451,25 @@
       <text>In the event that the permit is denied, the applicant may file with the City Clerk a written notice of appeal to the Council from the ruling of the City Manager.</text>
       <text>The City Clerk shall set the hearing of said appeal to the Council at a date not to exceed twenty-one days from the date of filing said notice of appeal. The clerk shall transmit to applicant by United States mail, postage prepaid, written notice of such hearing which shall be mailed at least ten days before the date fixed therefor, and shall be addressed to the applicant at his or her residence address as it appears on his or her registration statement.</text>
       <text>The council may continue the hearing on the application from time to time, but the final decision of council shall be made not later than sixty days after the filing of such appeal. At the hearing on the application, the Council may examine witnesses under oath and take such evidence as it may desire. It may order such permit issued with or without modifications, and council's findings and decision thereon shall be final and conclusive on applicant.</text>
-      <annotation type="History">Prior code § 73.35 (c)</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.48.040">Prior code § 73.35 (c)</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.050</num>
       <heading>NONCOMMERCIAL—REGISTRATION STATEMENT—AMENDMENT.</heading>
       <text>All persons using, or causing to be used, sound trucks for noncommercial purposes shall amend any registration statement filed pursuant to <cite path="§10.48.020">Section 10.48.020</cite> within forty-eight hours after any change in the information therein furnished.</text>
-      <annotation type="History">Prior code § 73.35 (d)</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.48.050">Prior code § 73.35 (d)</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.060</num>
       <heading>NONCOMMERCIAL—REGISTRATION STATEMENT—CERTIFIED COPY.</heading>
       <text>The clerk shall return to each applicant under <cite path="§10.48.020">Section 10.48.020</cite>, one copy of the registration statement duly certified by the clerk as a correct copy of said application. The certified copy of the application shall be in the possession of any person operating the sound truck at all times while the sound truck's sound amplifying equipment is in operation and said copy shall be promptly displayed and shown to any policeman of the City upon request.</text>
-      <annotation type="History">Prior code § 73.35 (e)</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.48.060">Prior code § 73.35 (e)</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.070</num>
@@ -1333,37 +1519,49 @@
         <num>(8)</num>
         <text>No sound amplifying equipment shall be operated with an excess of fifteen watts of power in the last stage of amplification.</text>
       </para>
-      <annotation type="History">Prior code § 73.35 (f)</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.48.070">Prior code § 73.35 (f)</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.080</num>
       <heading>COMMERCIAL—LICENSE—REQUIRED.</heading>
       <text>No person shall operate, or cause to be operated, any advertising vehicle in the City for commercial advertising purposes unless a license has been obtained from the City license collector. The fee for the license shall be one dollar for each day during which such vehicle operates.</text>
-      <annotation type="History">Prior code § 73.36 (a)</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.48.080">Prior code § 73.36 (a)</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.090</num>
       <heading>COMMERCIAL—LICENSE—APPLICATION.</heading>
       <text>Persons applying for the license required under <cite path="§10.48.080">Section 10.48.080</cite> shall file with the Chief of Police an application in writing in quadruplicate, giving in said application the information required in the registration statement under <cite path="§10.48.020">Section 10.48.020</cite>.</text>
-      <annotation type="History">Prior code § 73.36(b)</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.48.090">Prior code § 73.36(b)</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.100</num>
       <heading>COMMERCIAL—LICENSE—ISSUANCE.</heading>
       <text>The Chief of Police shall examine the application, and if he or she finds it in order, he or she shall recommend that a license be issued, and shall transmit a copy of the application to the license collector, who shall issue a license under <cite path="§10.48.080">Section 10.48.080</cite> upon payment of the required license fee; provided that, in the event that the application required in <cite path="§10.48.090">Section 10.48.090</cite> reveals that applicant would violate the regulations prescribed in <cite path="§10.48.070">Section 10.48.070</cite> or the provisions of some other section of this code, the Chief of Police shall recommend the denial thereof, and transmit such recommendation to the license collector, who shall deny the license. The provisions regarding the right to, time and manner of, appeal there from, hearing by the Council and its findings thereon, and the finality thereof, as contained in <cite path="§10.48.040">Section 10.48.040</cite> shall apply to instances in which applicants under this section may appeal from a denial of a license.</text>
-      <annotation type="History">Prior code § 73.36(c)</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.48.100">Prior code § 73.36(c)</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.110</num>
       <heading>COMMERCIAL—LICENSE—POSSESSION AND DISPLAY.</heading>
       <text>A licensee shall keep such license in his or her possession in the advertising vehicle during the time the sound truck's sound amplifying equipment is in operation. The license shall be promptly displayed and shown to any policeman of the City upon request.</text>
-      <annotation type="History">Prior code § 73.36(d)</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.48.110">Prior code § 73.36(d)</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.120</num>
       <heading>COMMERCIAL—USE REGULATIONS.</heading>
       <text>No person shall operate, or cause to be operated, any advertising vehicle for commercial advertising purposes in violation of the regulations set forth in <cite path="§10.48.070">Section 10.48.070</cite>. The words "advertising vehicle" shall be substituted for the purposes of this section for the words "sound truck" as used in <cite path="§10.48.070">Section 10.48.070</cite>.</text>
-      <annotation type="History">Prior code § 73.36(e)</annotation>
+      <annotations>
+        <annotation type="History" codified:original-path="§10.48.120">Prior code § 73.36(e)</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1374,15 +1572,19 @@
       <num>10.56.010</num>
       <heading>MALICIOUS MISCHIEF.</heading>
       <text>Any person who maliciously cuts, tears, defaces, breaks, or injures any book, map, chart, picture, engraving, statue, coin, model, apparatus, or other work of literature, art, mechanics, or objects of curiosity located in any public library or other public building owned, operated or controlled by the City, is guilty of a misdemeanor or infraction as charged pursuant to Chapter 1.04.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§3" type="History"/>
-      <annotation type="History">prior code § 78.01</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§3" type="History" codified:original-path="§10.56.010"/>
+        <annotation type="History" codified:original-path="§10.56.010">prior code § 78.01</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.56.020</num>
       <heading>REFUSAL TO RETURN PROPERTY.</heading>
       <text>Any person who willfully detains any book, newspaper, magazine, pamphlet, manuscript, or other property, belonging to any public library owned, operated or controlled by the City, for thirty days after notice in writing to return the article or property, given after the expiration of the time for which by the rules of the institution the article or property may be kept, is guilty of a misdemeanor or infraction as charged pursuant to Chapter 1.04.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§3" type="History"/>
-      <annotation type="History">prior code § 78.02</annotation>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§3" type="History" codified:original-path="§10.56.020"/>
+        <annotation type="History" codified:original-path="§10.56.020">prior code § 78.02</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1394,7 +1596,9 @@
       <heading>PURPOSE.</heading>
       <text>The City Council, having completed a lengthy study of social services in San Mateo, including issues of child protection, finds that it is necessary and appropriate that non-profit corporations working with children in the City of San Mateo check the criminal backgrounds of their employees and volunteers who will be alone with children and/or who have supervisory or disciplinary control over children.</text>
       <text>The City Council finds that children are vulnerable to adults having authority over them and that it is important for children to be protected and for parents to be better assured that children enrolled in non-profit programs are protected.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History" codified:original-path="§10.65.010"/>
+      </annotations>
     </section>
     <section>
       <num>10.65.020</num>
@@ -1437,49 +1641,63 @@
         <text>Exemptions: The following non-profit corporations shall be exempt from this chapter: (1) corporations that are licensed by the Federal, State, or local government and where the licensing procedures include criminal background checks of persons otherwise covered by this chapter; (2) private and public schools; (3) medical facilities; and (4) religious corporations with respect to programs that are not predominantly sports or recreation programs.</text>
       </para>
       <text>The following employees and volunteers of non-profit corporations shall be exempt from the background check and training requirements; (1) parents or legal guardians who work with, supervise, or discipline only their own children; (2) persons who work with, supervise, or discipline children in the City for less than 5 days in a calendar year.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-5" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-5" path="§1" type="History" codified:original-path="§10.65.020"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History" codified:original-path="§10.65.020"/>
+      </annotations>
     </section>
     <section>
       <num>10.65.030</num>
       <heading>TIME OF CHECKS.</heading>
       <text>In the event that there is a break in the employment or volunteer relationship for a year or more with the non-profit organization, the background check shall again be made within 10 days of the recommencement of employment or volunteering.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History" codified:original-path="§10.65.030"/>
+      </annotations>
     </section>
     <section>
       <num>10.65.040</num>
       <heading>REGULATIONS.</heading>
       <text>The City Council may adopt regulations to implement this chapter.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History" codified:original-path="§10.65.040"/>
+      </annotations>
     </section>
     <section>
       <num>10.65.050</num>
       <heading>ANNUAL STATEMENT.</heading>
       <text>Non-profit corporations shall file an annual statement certifying compliance with <cite path="§10.65.020">Section 10.65.020</cite> and <cite path="§10.65.060">Section 10.65.060</cite>. This statement shall be filed during the month of July of each year to cover the preceding 12 months, and shall be considered as late if not filed by August 1.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1999-2" path="§2" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1999-2" path="§2" type="History" codified:original-path="§10.65.050"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History" codified:original-path="§10.65.050"/>
+      </annotations>
     </section>
     <section>
       <num>10.65.060</num>
       <heading>TRAINING.</heading>
       <text>Non-profit corporations that have employees or volunteers who work with or supervise children shall provide at least two hours of child abuse training within six months of the commencement of employment or volunteering.	The training received by an employee or volunteer shall be valid for a two-year period from the date of the training and notwithstanding the preceding paragraph, shall be transferable to other non-profit corporations without the need for further training during the two-year period.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1999-2" path="§4" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1999-2" path="§4" type="History" codified:original-path="§10.65.060"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History" codified:original-path="§10.65.060"/>
+      </annotations>
     </section>
     <section>
       <num>10.65.070</num>
       <heading>CIVIL PENALTY.</heading>
       <text>There shall be a civil penalty of $100.00 imposed upon the nonprofit corporation for each employee or volunteer subject to a background check under <cite path="§10.65.020">section 10.65.020</cite> who is not checked and/or for each employee or volunteer subject to training under <cite path="§10.65.060">section 10.65.060</cite> who is not trained.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1999-2" path="§3" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1999-2" path="§3" type="History" codified:original-path="§10.65.070"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History" codified:original-path="§10.65.070"/>
+      </annotations>
     </section>
     <section>
       <num>10.65.080</num>
       <heading>PROHIBITED USE OF CITY FACILITIES.</heading>
       <text>Non-profit corporations who are not in compliance with the requirements of <cite path="§10.65.050">Section 10.65.050</cite> and/or Sections <cite path="§10.65.020">10.65.020</cite> and <cite path="§10.65.060">10.65.060</cite> shall not be permitted to use City facilities for the functions of their non-profit corporations. Nothing in this provision shall be construed to prohibit a non-complying, non-profit corporation from applying for or receiving permits for the use of their own property, including property which they rent.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1999-2" path="§5" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1999-2" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1999-2" path="§5" type="History" codified:original-path="§10.65.080"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1999-2" path="§1" type="History" codified:original-path="§10.65.080"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1996-25" path="§1" type="History" codified:original-path="§10.65.080"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -1490,44 +1708,58 @@
       <num>10.80.010</num>
       <heading>PURPOSE.</heading>
       <text>It has been found that leaf blowers cause considerable noise and air pollution and have been the source of numerous complaints by San Mateo citizens living in residential zoning districts. This chapter is intended to regulate the use of leaf blowers to minimize noise and air pollution in the City's residentially zoned neighborhoods and in areas bordering residentially zoned neighborhoods.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History" codified:original-path="§10.80.010"/>
+      </annotations>
     </section>
     <section>
       <num>10.80.020</num>
       <heading>LEAF BLOWER—DEFINITION.</heading>
       <text>Leaf blowers are defined as portable equipment that is powered by a self-contained fuel engine and used in any landscape, maintenance, construction, property repair, or property maintenance for the purpose of blowing, dispersing or redistributing dust, dirt, leaves, grass, clippings, cuttings and trimmings from trees, shrubs or other debris.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History" codified:original-path="§10.80.020"/>
+      </annotations>
     </section>
     <section>
       <num>10.80.030</num>
       <heading>HOURS OF OPERATION.</heading>
       <text>No person shall use or operate a leaf blower in a residential zoning district or in areas bordering a residential zoning district before 8:00 a.m. or after 5:00 p.m. Monday through Friday, nor prior to 9:00 a.m. or after 5:00 p.m. on Saturdays. Use of leaf blowers on Sundays or on the following holidays is prohibited: New Years Day, Martin Luther King, Jr. Birthday, Presidents' Day, Memorial Day, 4th of July, Labor Day, Veterans Day, Thanksgiving, Christmas.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1998-6" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-6" path="§1" type="History" codified:original-path="§10.80.030"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History" codified:original-path="§10.80.030"/>
+      </annotations>
     </section>
     <section>
       <num>10.80.040</num>
       <heading>LIMITATIONS ON USE.</heading>
       <text>Any person who uses or operates a leaf blower in a residential zoning district or in areas bordering a residential zoning district shall use a blower nozzle extension and shall run the blower at a low speed to minimize noise. No more than one blower shall be operated at a residence at any time.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History" codified:original-path="§10.80.040"/>
+      </annotations>
     </section>
     <section>
       <num>10.80.050</num>
       <heading>REMOVAL OF DEBRIS.</heading>
       <text>No material or matter blown by leaf blowers shall be blown upon neighboring properties or onto any portion of the public right-of-way, including but not limited to sidewalks and streets, without being immediately removed.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History" codified:original-path="§10.80.050"/>
+      </annotations>
     </section>
     <section>
       <num>10.80.060</num>
       <heading>VIOLATIONS.</heading>
       <text>It is unlawful for any person or entity to violate the provisions of this chapter.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History" codified:original-path="§10.80.060"/>
+      </annotations>
     </section>
     <section>
       <num>10.80.070</num>
       <heading>CONSTRUCTION.</heading>
       <text>No section of this chapter shall impose a mandatory duty on the City, or on any officer, official, agent, employee, board, council, or commission of the City. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall be deemed to invest the City, and the appropriate officer, official, agent, employee, board, council, or commission with discretion to enforce the section or not to enforce it.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1997-2" path="§1" type="History" codified:original-path="§10.80.070"/>
+      </annotations>
     </section>
   </container>
 </container>

@@ -62,8 +62,10 @@
         <num>(m)</num>
         <text>This chapter exempts worksites subject to the requirements of the Bay Area Air Quality Management District's Regulation 13, Rule 1 from any and all requirements of the Local TSM Ordinance which was set forth prior to July 1, 1994.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1995-19" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-11" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1995-19" path="§1" type="History" codified:original-path="§24.01.010"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-11" path="§1" type="History" codified:original-path="§24.01.010"/>
+      </annotations>
     </section>
     <section>
       <num>24.01.020</num>
@@ -104,8 +106,10 @@
           <text>To encourage and facilitate participation by employers with 25-99 employees in promoting commute alternatives to their employees.</text>
         </para>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1995-19" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-11" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1995-19" path="§1" type="History" codified:original-path="§24.01.020"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-11" path="§1" type="History" codified:original-path="§24.01.020"/>
+      </annotations>
     </section>
     <section>
       <num>24.01.030</num>
@@ -215,15 +219,19 @@
         <num>(t)</num>
         <text>"Employee Transportation Coordinator (ETC)" shall mean a person, who could be an employee or an employer or sponsor, designated to implement a TSM Trip-Reduction Program and to carry out any other requirements of this chapter at a work place.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1995-19" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-11" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1995-19" path="§1" type="History" codified:original-path="§24.01.030"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-11" path="§1" type="History" codified:original-path="§24.01.030"/>
+      </annotations>
     </section>
     <section>
       <num>24.01.040</num>
       <heading>TSM COORDINATOR.</heading>
       <text>The TSM Coordinator shall be employed by the Joint Powers Authority and shall serve as staff in administering the TSM provisions of this chapter as provided in the Inter-City Agreement. Duties shall include, but are not limited to, assisting employers in carrying out TSM responsibilities, providing commute alternatives assistance, preparing summary reports, and developing incentives for employer participation in the TSM program.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1995-19" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-11" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1995-19" path="§1" type="History" codified:original-path="§24.01.040"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-11" path="§1" type="History" codified:original-path="§24.01.040"/>
+      </annotations>
     </section>
     <section>
       <num>24.01.050</num>
@@ -236,8 +244,10 @@
         <num>(b)</num>
         <text>Each employer of 25 or more employees, and every sponsor of 25 or more employees, is encouraged to distribute to its employees on a regular basis, commute alternatives information on ridesharing, transit, bicycling, etc.; and participate when possible in programs, sponsored by the Joint Powers Authority, that may contribute to the reduction of single occupant vehicle commute trips.</text>
       </para>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1995-19" path="§1" type="History"/>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1989-11" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1995-19" path="§1" type="History" codified:original-path="§24.01.050"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-11" path="§1" type="History" codified:original-path="§24.01.050"/>
+      </annotations>
     </section>
   </container>
   <container>
@@ -248,7 +258,9 @@
       <num>24.03.010</num>
       <heading>COUNTY TRANSPORTATION SYSTEM MANAGEMENT—TSM—ADOPTION AUTHORIZED.</heading>
       <text>It is hereby declared to be the policy of the City of San Mateo that the County of San Mateo Transportation System Management (TSM) should apply in the City of San Mateo. The Transportation System Management Plan shall be adopted by the Council by resolution and amended by resolution from time to time to conform to the plan of the County as it may be amended from time to time. In the event that the County plan conflicts in whole or in part with Chapter 24.01, the County plan shall be governing and shall prevail.</text>
-      <annotation doc="City of San Mateo, Cal., Ord. No. 1990-13" path="§1" type="History"/>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-13" path="§1" type="History" codified:original-path="§24.03.010"/>
+      </annotations>
     </section>
   </container>
 </container>
