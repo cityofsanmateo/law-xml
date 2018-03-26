@@ -194,7 +194,7 @@
     <section>
       <num>3.44.040</num>
       <heading>PLACE OF PAYMENT—COLLECTION.</heading>
-      <text>The tax imposed under <cite path="§3.44.020">Section 3.44.020</cite> shall be paid by the person paying for such admission at the time when, and the place at which, such admission charge is paid and the tax shall be collected by the person charging for such admission. The tax imposed under <cite path="§3.44.030">Section 3.44.030</cite> shall be paid by the person admitted at the time of his or her admission to the meeting and shall be collected at the time of said admission by the person conducting such meeting.</text>
+      <text>The tax imposed under <cite path="3.44.020">Section 3.44.020</cite> shall be paid by the person paying for such admission at the time when, and the place at which, such admission charge is paid and the tax shall be collected by the person charging for such admission. The tax imposed under <cite path="3.44.030">Section 3.44.030</cite> shall be paid by the person admitted at the time of his or her admission to the meeting and shall be collected at the time of said admission by the person conducting such meeting.</text>
       <annotations>
         <annotation type="History">Prior code § 33.04</annotation>
       </annotations>
@@ -202,7 +202,7 @@
     <section>
       <num>3.44.050</num>
       <heading>STATEMENT—ACCOUNT.</heading>
-      <text>On Tuesday of each week during the time during which such horse racing meetings or harness racing meetings are held or conducted, the person charging for the admission referred to in <cite path="§3.44.040">Section 3.44.040</cite> shall render an accounting or statement of all persons (except bona fide employees of such person) admitted to such place during the week preceding such accounting, and at such time shall file such accounting or statement with the City treasurer, and shall then pay to him or her all amounts so collected as taxes under this chapter.</text>
+      <text>On Tuesday of each week during the time during which such horse racing meetings or harness racing meetings are held or conducted, the person charging for the admission referred to in <cite path="3.44.040">Section 3.44.040</cite> shall render an accounting or statement of all persons (except bona fide employees of such person) admitted to such place during the week preceding such accounting, and at such time shall file such accounting or statement with the City treasurer, and shall then pay to him or her all amounts so collected as taxes under this chapter.</text>
       <text>Within ten days after the conclusion of such horse racing meeting or such harness racing meeting, such person shall render an accounting or statement of all persons (except bona fide employees of such person) admitted to such place during the entire time during which such meeting was held or conducted, and at such time shall file such accounting or statement with the City treasurer, and shall pay to him or her all amounts collected during the time during which such meeting was conducted, and previously unpaid to him.</text>
       <annotations>
         <annotation type="History">Prior code § 33.05</annotation>
@@ -315,7 +315,7 @@
     <section>
       <num>3.48.020</num>
       <heading>PAYMENT.</heading>
-      <text>The tax imposed by <cite path="§3.48.010">Section 3.48.010</cite> shall be paid by any person who makes, signs or issues any document or instrument subject to the tax, or for whose use or benefit the same is made, signed or issued, and such persons shall be jointly and severally liable for payment thereof; provided, that with respect to a transfer made upon the termination of a partnership within the meaning of Section 708 of Title 26 of the United States Code, as amended, for the purposes of this chapter, it shall be assumed that a document was executed by the partnership whereby there was transferred for market value all realty held by such partnership at the time of such termination; providing further, that with respect to the realty held by such partnership, not more than one tax shall be imposed pursuant to this chapter by reason of such termination and any documents making transfer pursuant thereto.</text>
+      <text>The tax imposed by <cite path="3.48.010">Section 3.48.010</cite> shall be paid by any person who makes, signs or issues any document or instrument subject to the tax, or for whose use or benefit the same is made, signed or issued, and such persons shall be jointly and severally liable for payment thereof; provided, that with respect to a transfer made upon the termination of a partnership within the meaning of Section 708 of Title 26 of the United States Code, as amended, for the purposes of this chapter, it shall be assumed that a document was executed by the partnership whereby there was transferred for market value all realty held by such partnership at the time of such termination; providing further, that with respect to the realty held by such partnership, not more than one tax shall be imposed pursuant to this chapter by reason of such termination and any documents making transfer pursuant thereto.</text>
       <text>All revenues received by the City from the levy of the tax imposed by this chapter shall be deposited and paid into the general fund.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1977-9" path="§2" type="History"/>
@@ -325,7 +325,7 @@
     <section>
       <num>3.48.030</num>
       <heading>EXEMPTIONS.</heading>
-      <text>The tax imposed pursuant to <cite path="§3.48.010">Section 3.48.010</cite> shall not apply to:</text>
+      <text>The tax imposed pursuant to <cite path="3.48.010">Section 3.48.010</cite> shall not apply to:</text>
       <para>
         <num>(1)</num>
         <text>Any document given to secure a debt, or a transfer to a beneficiary or mortgagee when it is taken in lieu of foreclosure;</text>
@@ -882,11 +882,11 @@
       <text>The provisions of this chapter relating to exclusions and exemptions shall become operative as follows:</text>
       <para>
         <num>(a)</num>
-        <text>Sections <cite path="§3.52.060">3.52.060</cite> and <cite path="§3.52.100">3.52.100</cite> shall be operative January 1, 1984.</text>
+        <text>Sections <cite path="3.52.060">3.52.060</cite> and <cite path="3.52.100">3.52.100</cite> shall be operative January 1, 1984.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Sections <cite path="§3.52.065">3.52.065</cite> and <cite path="§3.52.105">3.52.105</cite> shall be operative on the operative date of any act of the Legislature of the State of California which amends or repeals and reenacts <cite doc="Cal. Rev. &amp; Tax. Code" path="§7202" proof="true">Section 7202 of the Revenue and Taxation Code</cite> to provide an exemption from city sales and use taxes for operators of waterborne vessels in the same, or substantially the same, language as that existing in subdivision (i)(7) and (i)(8) of <cite doc="Cal. Rev. &amp; Tax. Code" path="§7202" proof="true">Section 7202 of the Revenue and Taxation Code</cite> as those subdivisions read on October 1, 1983.</text>
+        <text>Sections <cite path="3.52.065">3.52.065</cite> and <cite path="3.52.105">3.52.105</cite> shall be operative on the operative date of any act of the Legislature of the State of California which amends or repeals and reenacts <cite doc="Cal. Rev. &amp; Tax. Code" path="§7202" proof="true">Section 7202 of the Revenue and Taxation Code</cite> to provide an exemption from city sales and use taxes for operators of waterborne vessels in the same, or substantially the same, language as that existing in subdivision (i)(7) and (i)(8) of <cite doc="Cal. Rev. &amp; Tax. Code" path="§7202" proof="true">Section 7202 of the Revenue and Taxation Code</cite> as those subdivisions read on October 1, 1983.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-2" type="History">Ord. 1984-2 §§ 1, 6, 1984</annotation>
@@ -901,7 +901,7 @@
     <section>
       <num>3.54.010</num>
       <heading>PURPOSE.</heading>
-      <text>The purpose and intent of this chapter is to provide for service charges and connection fees to be assessed, according to use, upon each and every parcel of land within the City connected to the sanitary sewer system for the privilege of the use of the system. The revenues generated by these fees shall finance the sewer service fund to be used for the construction, reconstruction, maintenance, and operation of sanitation or sewerage facilities per <cite path="§3.54.080">Section 3.54.080</cite>.</text>
+      <text>The purpose and intent of this chapter is to provide for service charges and connection fees to be assessed, according to use, upon each and every parcel of land within the City connected to the sanitary sewer system for the privilege of the use of the system. The revenues generated by these fees shall finance the sewer service fund to be used for the construction, reconstruction, maintenance, and operation of sanitation or sewerage facilities per <cite path="3.54.080">Section 3.54.080</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-7" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-16" path="§1" type="History"/>
@@ -932,7 +932,7 @@
       <text>	Class B – Standard Strength. Commercial users, including, but not limited to, offices, retail establishments, hotel and motels without restaurants, mixed uses (high strength comprises &lt; 25% of flow).</text>
       <text>	Class C – Moderate Strength. Commercial users, including, but not limited to, hotels and motels with restaurants, industrial laundries, mixed use (high strength comprises 25% to 75% of flow), supermarkets with food preparation, bakeries, meat or seafood counters.</text>
       <text>	Class D – High Strength. Commercial users, including, but not limited to, restaurants, wholesale bakeries, mortuaries, mixed use (high strength comprises &gt;75% of flow).</text>
-      <text>	Class E – Special. Commercial users that may require a determination on a case by case basis as prescribed by <cite path="§3.54.030|(e)">Section 3.54.030(e)</cite>.</text>
+      <text>	Class E – Special. Commercial users that may require a determination on a case by case basis as prescribed by <cite path="3.54.030|(e)">Section 3.54.030(e)</cite>.</text>
       <para>
         <num>(e)</num>
         <text>"Director of Public Work" means Director of Public Works or designee.</text>
@@ -943,7 +943,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>"Inordinately high" means usage in one month that exceeds usage by 150% of the five months of average usage. An example follows. Usage for November is 37, December is 76, January is 20, February is 16, and March is 17. The five month average is 33.20. Usage in any one month in excess of 49.8 (i.e., 150% of 33.2) would be considered inordinately high. Therefore December would be found to be inordinately high and dropped from the calculation as required in <cite path="§3.54.030">Section 3.54.030</cite>.</text>
+        <text>"Inordinately high" means usage in one month that exceeds usage by 150% of the five months of average usage. An example follows. Usage for November is 37, December is 76, January is 20, February is 16, and March is 17. The five month average is 33.20. Usage in any one month in excess of 49.8 (i.e., 150% of 33.2) would be considered inordinately high. Therefore December would be found to be inordinately high and dropped from the calculation as required in <cite path="3.54.030">Section 3.54.030</cite>.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -981,7 +981,7 @@
       <num>3.54.030</num>
       <heading>SEWER SERVICE CHARGES.</heading>
       <text>The Council by ordinance will establish the annual charge to be assessed per 100 cubic feet of water used, upon the users thereof, for the privilege of the use of the sewer system and disposal facilities of the City for each fiscal year, to be effective 30 days after adoption.</text>
-      <text>Each user will be assigned to one of the five customer classes as determined by the Director of Public Works in accordance with the principal activity conducted upon the premises, or in accordance with the use of the premises. Users with the same principal activity will receive the same customer classification. The five customer classes are hereby established as defined in <cite path="§3.54.020|(d)">Section 3.54.020(d)</cite> Definitions, and will be assessed a sewer service charge as described below. The purpose of the classification is to establish a sewer service charge system based upon flow and waste strength that will insure an equitable recovery of capital and operating costs.</text>
+      <text>Each user will be assigned to one of the five customer classes as determined by the Director of Public Works in accordance with the principal activity conducted upon the premises, or in accordance with the use of the premises. Users with the same principal activity will receive the same customer classification. The five customer classes are hereby established as defined in <cite path="3.54.020|(d)">Section 3.54.020(d)</cite> Definitions, and will be assessed a sewer service charge as described below. The purpose of the classification is to establish a sewer service charge system based upon flow and waste strength that will insure an equitable recovery of capital and operating costs.</text>
       <text>The sewer service charge is based on a rate and annual water usage. The total revenue raised will be determined based on winter water consumption. The "base sewer service charge rate" is established by adopting a rate based on the fund's financial plan and will be per 100 cubic feet of annual water used except as qualified as follows:</text>
       <para>
         <num>(a)</num>
@@ -1006,7 +1006,7 @@
       <text>Annual water usage, for the purpose of establishing this charge, shall be determined by computing the average monthly metered flow billed to each parcel, to the nearest 10 cubic feet, during the immediately past five months of November, December, January, February, and March, and multiplying this monthly average by 12, the total months in a year. The metered flow data billed for those months shall be that contained in the official records of the California Water Service Company, Estero Municipal Improvement District, Belmont Water District, or any entity or successor that provides water service to that particular parcel.</text>
       <text>In the event that billings show no water usage during any one or more of the specified five months, the average shall be computed by using the remaining months' usage and number that do show water usage.</text>
       <text>In the event that one month of the five specified months shows an inordinately high or low usage, that month shall be dropped from the calculation and the remaining four months' usage shall be averaged and multiplied by 12 to establish the charge.</text>
-      <text>The water usage for each user shall be determined after March 31st of each year, but sufficiently prior to the Council's review pursuant to <cite path="§3.54.070">Section 3.54.070</cite>, to allow for public and Council study prior to the review.</text>
+      <text>The water usage for each user shall be determined after March 31st of each year, but sufficiently prior to the Council's review pursuant to <cite path="3.54.070">Section 3.54.070</cite>, to allow for public and Council study prior to the review.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-6" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-7" path="§1" type="History"/>
@@ -1033,7 +1033,7 @@
     <section>
       <num>3.54.050</num>
       <heading>LIEN FOR CHARGES.</heading>
-      <text>The amount of the sewer service charge shall constitute a lien against the lot or parcel of land against which the charge has been imposed as of noon on the first Monday in March immediately preceding the date of the levy. Thereafter, unless otherwise provided by agreement pursuant to <cite path="§3.54.040">Section 3.54.040</cite>, the amount of the charges shall be collected at the same time and in the same manner and by the same persons as, together with and not separately from, the general taxes on the property, and shall be delinquent at the same time and thereafter be subject to the same delinquency penalties.</text>
+      <text>The amount of the sewer service charge shall constitute a lien against the lot or parcel of land against which the charge has been imposed as of noon on the first Monday in March immediately preceding the date of the levy. Thereafter, unless otherwise provided by agreement pursuant to <cite path="3.54.040">Section 3.54.040</cite>, the amount of the charges shall be collected at the same time and in the same manner and by the same persons as, together with and not separately from, the general taxes on the property, and shall be delinquent at the same time and thereafter be subject to the same delinquency penalties.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-7" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-16" path="§1" type="History"/>
@@ -1057,7 +1057,7 @@
       <heading>PROTESTS—ANNUAL MEETINGS—RATE PROTESTS.</heading>
       <para>
         <num>(a)</num>
-        <text>Annually, the Council shall meet to hear protests relating to sewer service charges. The Council shall meet to adjust and equalize sewer service rates, based upon water usage as calculated pursuant to <cite path="§3.54.030">Section 3.54.030</cite>, adjust and equalize rates for the same or similar sewer connections, and set the annual base rate to be charged per 100 cubic feet of water used, all as required to raise the revenues for the sewer service fund.</text>
+        <text>Annually, the Council shall meet to hear protests relating to sewer service charges. The Council shall meet to adjust and equalize sewer service rates, based upon water usage as calculated pursuant to <cite path="3.54.030">Section 3.54.030</cite>, adjust and equalize rates for the same or similar sewer connections, and set the annual base rate to be charged per 100 cubic feet of water used, all as required to raise the revenues for the sewer service fund.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1095,7 +1095,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The rupture caused the reported water flow for one or more of the months designated in <cite path="§3.54.030">Section 3.54.030</cite> to be abnormally high; and</text>
+          <text>The rupture caused the reported water flow for one or more of the months designated in <cite path="3.54.030">Section 3.54.030</cite> to be abnormally high; and</text>
         </para>
         <para>
           <num>(3)</num>
@@ -1103,7 +1103,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The applicant became the owner and occupant of the residential property after the consumption period used to calculate the charge in <cite path="§3.54.030">Section 3.54.030</cite> and the average water consumption during the following year for the period used to calculate the charge is lower than the previous year's consumption period by at least 25 percent; or</text>
+          <text>The applicant became the owner and occupant of the residential property after the consumption period used to calculate the charge in <cite path="3.54.030">Section 3.54.030</cite> and the average water consumption during the following year for the period used to calculate the charge is lower than the previous year's consumption period by at least 25 percent; or</text>
         </para>
         <para>
           <num>(5)</num>
@@ -1303,7 +1303,7 @@
     <section>
       <num>3.56.035</num>
       <heading>SPECIAL TAX.</heading>
-      <text>In addition to the general transient occupancy tax imposed pursuant to <cite path="§3.56.030">Section 3.56.030</cite>, there shall be imposed a two percent (2%) special tax for the purpose of financing capital improvements within the City; provided that the special tax proceeds shall first be expended for the following police and fire facilities:</text>
+      <text>In addition to the general transient occupancy tax imposed pursuant to <cite path="3.56.030">Section 3.56.030</cite>, there shall be imposed a two percent (2%) special tax for the purpose of financing capital improvements within the City; provided that the special tax proceeds shall first be expended for the following police and fire facilities:</text>
       <para>
         <num>(a)</num>
         <text>Police Station. Seismic upgrading, gender modifications, Americans with Disabilities Act modifications, remodel lobby and an addition of approximately 7,500 square feet, and related works and structures necessary or convenient for said improvements; and</text>
@@ -1411,7 +1411,7 @@
     <section>
       <num>3.56.090</num>
       <heading>FAILURE TO COLLECT AND REPORT—TAX DETERMINATION.</heading>
-      <text>If any operator fails or refuses to collect the tax and to make, within the time provided in this chapter, any report and remittance of the tax or any portion thereof required by this chapter, the Tax Collector shall proceed in such manner as he or she may deem best to obtain facts and information on which to base his or her estimate of the tax due. As soon as the Tax Collector procures such facts and information as he or she is able to obtain upon which to base the assessment of any tax imposed by this chapter and payable by any operator who has failed or refused to collect the same and to make such report and remittance, the Tax Collector shall proceed to determine and assess against such operator the tax, interest and penalties provided for by this chapter. In case such determination is made, the Tax Collector shall give a notice of the amount so assessed by serving it personally or by depositing it in the United States mail, postage prepaid, addressed to the operator so assessed at his or her last known place of address. Such operator may within 10 days after the serving or mailing of such notice make application in writing to the Tax Collector for a hearing on the amount assessed. If application by the operator for a hearing is not made within the time prescribed, the tax, interest and penalties, if any, determined by the Tax Collector, shall become final and conclusive and immediately due and payable. If such application is made, the Tax Collector shall give not less than five (5) days' written notice in the manner prescribed herein to the operator to show cause at a time and place fixed in said notice why said amount specified therein should not be fixed for such tax, interest and penalties. At such hearing, the operator may appear and offer evidence why such specified tax, interest and penalties should not be so fixed. After such hearing the Tax Collector shall determine the proper tax to be remitted and shall thereafter give written notice to the person in the manner prescribed herein of such determination and the amount of such tax, interest and penalties. The amount determined to be due shall be payable after 15 days unless an appeal is taken as provided in <cite path="§3.56.130">Section 3.56.130</cite>.</text>
+      <text>If any operator fails or refuses to collect the tax and to make, within the time provided in this chapter, any report and remittance of the tax or any portion thereof required by this chapter, the Tax Collector shall proceed in such manner as he or she may deem best to obtain facts and information on which to base his or her estimate of the tax due. As soon as the Tax Collector procures such facts and information as he or she is able to obtain upon which to base the assessment of any tax imposed by this chapter and payable by any operator who has failed or refused to collect the same and to make such report and remittance, the Tax Collector shall proceed to determine and assess against such operator the tax, interest and penalties provided for by this chapter. In case such determination is made, the Tax Collector shall give a notice of the amount so assessed by serving it personally or by depositing it in the United States mail, postage prepaid, addressed to the operator so assessed at his or her last known place of address. Such operator may within 10 days after the serving or mailing of such notice make application in writing to the Tax Collector for a hearing on the amount assessed. If application by the operator for a hearing is not made within the time prescribed, the tax, interest and penalties, if any, determined by the Tax Collector, shall become final and conclusive and immediately due and payable. If such application is made, the Tax Collector shall give not less than five (5) days' written notice in the manner prescribed herein to the operator to show cause at a time and place fixed in said notice why said amount specified therein should not be fixed for such tax, interest and penalties. At such hearing, the operator may appear and offer evidence why such specified tax, interest and penalties should not be so fixed. After such hearing the Tax Collector shall determine the proper tax to be remitted and shall thereafter give written notice to the person in the manner prescribed herein of such determination and the amount of such tax, interest and penalties. The amount determined to be due shall be payable after 15 days unless an appeal is taken as provided in <cite path="3.56.130">Section 3.56.130</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 58.5.09</annotation>
       </annotations>
@@ -1564,7 +1564,7 @@
     <section>
       <num>3.58.060</num>
       <heading>ESTABLISHMENT OF STANDARDS AND PROCEDURES.</heading>
-      <text>The council may be resolution provide for further standards and procedures by which the amount of credit allowable under <cite path="§3.58.050">Section 3.58.050</cite> may be ascertained.</text>
+      <text>The council may be resolution provide for further standards and procedures by which the amount of credit allowable under <cite path="3.58.050">Section 3.58.050</cite> may be ascertained.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1972-1" path="§1" type="History"/>
       </annotations>
@@ -1602,7 +1602,7 @@
     <section>
       <num>3.60.030</num>
       <heading>BIDS AND SPECIFICATIONS.</heading>
-      <text>Bids shall be obtained for purchases and contracts within the awarding authority of the City Council, except as exempted by <cite path="§3.60.050">Section 3.60.050</cite>. For other purchases and contracts, wherever possible at least two quotations shall be obtained, provided that the failure to obtain quotations shall not be deemed mandatory so as to invalidate a purchase or contract.</text>
+      <text>Bids shall be obtained for purchases and contracts within the awarding authority of the City Council, except as exempted by <cite path="3.60.050">Section 3.60.050</cite>. For other purchases and contracts, wherever possible at least two quotations shall be obtained, provided that the failure to obtain quotations shall not be deemed mandatory so as to invalidate a purchase or contract.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2000-3" path="§1" type="History"/>
       </annotations>
@@ -1678,7 +1678,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>to purchases where a bid of the State of California is used or a bid from another city, provided that the terms of <cite path="§3.60.070">Section 3.60.070</cite> (a), (b) are met.</text>
+        <text>to purchases where a bid of the State of California is used or a bid from another city, provided that the terms of <cite path="3.60.070">Section 3.60.070</cite> (a), (b) are met.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2000-3" path="§1" type="History"/>
@@ -1737,7 +1737,7 @@
     <section>
       <num>3.60.065</num>
       <heading>APPEAL FROM DENIAL OF PREQUALIFICATION.</heading>
-      <text>If a person disputes a prequalification denial under <cite path="§3.60.060">Section 3.60.060</cite>, an appeal may be filed with the City Manager or designee not later than 10 calendar days after the decision. Notice of the prequalification denial shall be provided by certified mail to the address provided by the bidder on its application for prequalification, along with designation of the time period for dispute. A bidder may request the basis for the denial and any evidence relied upon by the City. The decision shall be final if no timely appeal is filed. An appeal shall be in writing specifying the particular grounds for appeal. All matters not set forth in the written request for reconsideration shall be deemed waived.</text>
+      <text>If a person disputes a prequalification denial under <cite path="3.60.060">Section 3.60.060</cite>, an appeal may be filed with the City Manager or designee not later than 10 calendar days after the decision. Notice of the prequalification denial shall be provided by certified mail to the address provided by the bidder on its application for prequalification, along with designation of the time period for dispute. A bidder may request the basis for the denial and any evidence relied upon by the City. The decision shall be final if no timely appeal is filed. An appeal shall be in writing specifying the particular grounds for appeal. All matters not set forth in the written request for reconsideration shall be deemed waived.</text>
       <text>The City Manager or designee shall designate a time to receive evidence and further shall establish the procedures for the appeal. The City Manager or designee shall allow a disqualified bidder to rebut any evidence previously received by the City and to submit additional evidence of qualification.</text>
       <text>The decision of the City Manager or designee shall be made prior to the receipt of bids to which the prequalification applies and shall be final.</text>
       <annotations>
@@ -1820,7 +1820,7 @@
     <section>
       <num>3.61.010</num>
       <heading>PAYMENT OF PREVAILING WAGES FOR PUBLIC WORKS PROJECTS.</heading>
-      <text>Except as provided in <cite path="§3.61.020">Section 3.61.020</cite>, the City shall require the payment of prevailing wages for all of its public works projects to the same extent and in the same manner such wages would be required to be paid, if the City was subject to the requirements imposed upon contracts entered into by general law cities pursuant to the provisions of Article 2, Chapter 1, Part 7, Division 2 of the <cite doc="Cal. Lab. Code" proof="true">California Labor Code</cite>, as those provisions may be amended from time to time. Any notice inviting bids for such public works projects shall include notification of the provisions of this section.</text>
+      <text>Except as provided in <cite path="3.61.020">Section 3.61.020</cite>, the City shall require the payment of prevailing wages for all of its public works projects to the same extent and in the same manner such wages would be required to be paid, if the City was subject to the requirements imposed upon contracts entered into by general law cities pursuant to the provisions of Article 2, Chapter 1, Part 7, Division 2 of the <cite doc="Cal. Lab. Code" proof="true">California Labor Code</cite>, as those provisions may be amended from time to time. Any notice inviting bids for such public works projects shall include notification of the provisions of this section.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2014-5" path="§1" type="History"/>
       </annotations>

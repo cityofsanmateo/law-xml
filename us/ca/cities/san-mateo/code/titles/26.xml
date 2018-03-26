@@ -446,7 +446,7 @@
     <section>
       <num>26.16.050</num>
       <heading>PUBLIC FACILITY SITES.</heading>
-      <text>Where the site for a proposed public school is located within a proposed subdivision, the City may, as a condition of approval, require the subdivider to offer to sell the school site to the school district under the terms and conditions set forth in the Subdivision Map Act. Where the site for a park or recreational facility is located within a proposed subdivision, the provisions of section 26.64.0l0 shall apply. In cases where the proposed park and recreational facilities or other public facilities should be located within a proposed subdivision in order to serve that subdivision and adjacent lands, and these reservations would be in excess of the requirements of <cite path="§26.64.010">section 26.64.010</cite>, the subdivider shall reserve the excess site area in an amount and location as may be specified by the City. All of these reserved areas shall be held by the subdivider for a period of not less than one year to afford the City or other applicable public agency the opportunity to purchase the site for the purpose specified.</text>
+      <text>Where the site for a proposed public school is located within a proposed subdivision, the City may, as a condition of approval, require the subdivider to offer to sell the school site to the school district under the terms and conditions set forth in the Subdivision Map Act. Where the site for a park or recreational facility is located within a proposed subdivision, the provisions of section 26.64.0l0 shall apply. In cases where the proposed park and recreational facilities or other public facilities should be located within a proposed subdivision in order to serve that subdivision and adjacent lands, and these reservations would be in excess of the requirements of <cite path="26.64.010">section 26.64.010</cite>, the subdivider shall reserve the excess site area in an amount and location as may be specified by the City. All of these reserved areas shall be held by the subdivider for a period of not less than one year to afford the City or other applicable public agency the opportunity to purchase the site for the purpose specified.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§12" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
@@ -668,7 +668,7 @@
     <section>
       <num>26.28.010</num>
       <heading>RIGHTS-OF-WAY—PAVEMENT WIDTHS.</heading>
-      <text>Except as otherwise required, or as may be incorporated in the general plan, or such specific plans as may have been adopted, street rights-of-way and pavement widths shall conform to the minimum standards set forth in the design standards and specifications. The types of streets referred to therein are set forth and defined in Sections <cite path="§26.28.020">26.28.020</cite> through <cite path="§26.28.060">26.28.060</cite>.</text>
+      <text>Except as otherwise required, or as may be incorporated in the general plan, or such specific plans as may have been adopted, street rights-of-way and pavement widths shall conform to the minimum standards set forth in the design standards and specifications. The types of streets referred to therein are set forth and defined in Sections <cite path="26.28.020">26.28.020</cite> through <cite path="26.28.060">26.28.060</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation type="History">prior code § 139.20(c)(3)(part)</annotation>
@@ -924,7 +924,7 @@
     <section>
       <num>26.40.020</num>
       <heading>DEPOSITS—SERVICE CHARGES.</heading>
-      <text>In addition to the filing fees set forth in <cite path="§26.40.010">Section 26.40.010</cite>, the subdivider shall pay the actual costs of reviewing preliminary maps, tentative maps, for checking of the final maps and parcel maps, for recording of final maps, parcel maps, and any associated documents, and of such investigations and inspections as are required by law and this title.</text>
+      <text>In addition to the filing fees set forth in <cite path="26.40.010">Section 26.40.010</cite>, the subdivider shall pay the actual costs of reviewing preliminary maps, tentative maps, for checking of the final maps and parcel maps, for recording of final maps, parcel maps, and any associated documents, and of such investigations and inspections as are required by law and this title.</text>
       <text>The cost of reviewing and checking subdivision maps and related materials, and necessary investigations or inspections shall be based on hourly charges for actual time required for checking plus the actual cost of any tests that may be required. The method of charging for such services shall be as established by the Council.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§16A" type="History"/>
@@ -1073,7 +1073,7 @@
       <text>A subdivider wishing to file a tentative map shall submit the map, the information specified in this code and in lists compiled for the purpose and such other material necessary for environmental review and all other permits required for the contemplated project and any other material as he or she deems necessary, together with the filing fees and deposits required, to the Zoning Administrator, who shall receive such maps and supporting data and review the same for completeness and adequacy of the information as required by this code and the compiled lists. If the application is complete, the Zoning Administrator shall report the same to the subdivider or applicant in writing within thirty days of its receipt, specifying those parts of the application which are incomplete and indicating the manner in which they can be made complete. If the written determination is not made within thirty days of receipt, the application shall be deemed complete. Once an application is complete, or deemed complete, no new information shall be required of the applicant which was not specified on the compiled lists at the time the application is complete or deemed complete, unless it is to clarify, amplify the information submitted, or needed to comply with the California Environmental Quality Act.</text>
       <text>The date an application is determined or deemed to be complete shall begin the period for review under the California Environmental Quality Act. It shall also vest relocation rights in the tenants then residing on the project site who will be displaced by it and who have not given voluntary notice of termination.</text>
       <text>The subdivider shall provide such additional prints of the documents and map as are necessary for environmental and planning review by the City and one reproducible copy thereof.</text>
-      <text>The map shall be placed on the next Planning Commission agenda following completion of environmental review and processed according to <cite path="§27.08.040">Section 27.08.040</cite> of this code.</text>
+      <text>The map shall be placed on the next Planning Commission agenda following completion of environmental review and processed according to <cite path="27.08.040">Section 27.08.040</cite> of this code.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§23" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1983-3" path="§5" type="History"/>
@@ -1173,7 +1173,7 @@
     <section>
       <num>26.48.090</num>
       <heading>HEARING—ACTION—GENERALLY.</heading>
-      <text>If the Planning Commission finds compliance with this Title and other applicable ordinances, policies and standards in effect on the date the application is complete pursuant to <cite path="§26.48.030">Section 26.48.030</cite>, it shall take action on the map within fifty days of the application being complete, unless such time is extended by mutual agreement of subdivider and the Planning Commission. Failure to act within such period of time shall be deemed approval of said map in accordance with the provisions of <cite doc="Cal. Gov’t Code" path="§66452.4" proof="true">Section 66452.4 of the Government Code</cite>. If the Planning Commission finds that the map does not meet requirements, it shall disapprove, or conditionally approve, the map within said time. In cases of conditional approval, the Commission shall require such changes as are necessary to secure compliance with requirements unless specific exceptions have been granted or recommended pursuant to <cite path="§26.68.020" proof="true">Section 26.68.020</cite>. The Planning Commission action shall be noted on the tentative map and shall be final unless appealed as herein provided.. If the Planning Commission finds that the map does not meet requirements, it shall disapprove, or conditionally approve, the map within said time. In cases of conditional approval, the Commission shall require such changes as are necessary to secure compliance with requirements unless specific exceptions have been granted or recommended pursuant to Section 26.68.020. The Planning Commission action shall be noted on the tentative map and shall be final unless appealed as herein provided.</text>
+      <text>If the Planning Commission finds compliance with this Title and other applicable ordinances, policies and standards in effect on the date the application is complete pursuant to <cite path="26.48.030">Section 26.48.030</cite>, it shall take action on the map within fifty days of the application being complete, unless such time is extended by mutual agreement of subdivider and the Planning Commission. Failure to act within such period of time shall be deemed approval of said map in accordance with the provisions of <cite doc="Cal. Gov’t Code" path="§66452.4" proof="true">Section 66452.4 of the Government Code</cite>. If the Planning Commission finds that the map does not meet requirements, it shall disapprove, or conditionally approve, the map within said time. In cases of conditional approval, the Commission shall require such changes as are necessary to secure compliance with requirements unless specific exceptions have been granted or recommended pursuant to <cite path="26.68.020" proof="true">Section 26.68.020</cite>. The Planning Commission action shall be noted on the tentative map and shall be final unless appealed as herein provided.. If the Planning Commission finds that the map does not meet requirements, it shall disapprove, or conditionally approve, the map within said time. In cases of conditional approval, the Commission shall require such changes as are necessary to secure compliance with requirements unless specific exceptions have been granted or recommended pursuant to Section 26.68.020. The Planning Commission action shall be noted on the tentative map and shall be final unless appealed as herein provided.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§29" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1983-3" path="§7" type="History"/>
@@ -1202,7 +1202,7 @@
     <section>
       <num>26.48.110</num>
       <heading>REVISED MAP.</heading>
-      <text>The subdivider may file a revised tentative map showing substantive changes in the design, number of lots, or shape of lots. Such revised tentative map shall comply with the requirements in effect at the time such revised map is considered by the Planning Commission. Such revised tentative map shall show all of the information and requirements of <cite path="§26.48.020">Section 26.48.020</cite> insofar as necessary to support any changes that may have been made. The approval or conditional approval by the Planning Commission of any revised tentative map shall supersede previous decisions thereof only to the extent of the substantive changes under consideration.</text>
+      <text>The subdivider may file a revised tentative map showing substantive changes in the design, number of lots, or shape of lots. Such revised tentative map shall comply with the requirements in effect at the time such revised map is considered by the Planning Commission. Such revised tentative map shall show all of the information and requirements of <cite path="26.48.020">Section 26.48.020</cite> insofar as necessary to support any changes that may have been made. The approval or conditional approval by the Planning Commission of any revised tentative map shall supersede previous decisions thereof only to the extent of the substantive changes under consideration.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation type="History">prior code § 139.34</annotation>
@@ -1211,7 +1211,7 @@
     <section>
       <num>26.48.120</num>
       <heading>CHANGE IN ESSENTIAL INFORMATION.</heading>
-      <text>When any change is made by the subdivider in the statements provided pursuant to <cite path="§26.48.020">section 26.48.020</cite>, that change shall be submitted to the Planning Commission for approval prior to any action on the final map.</text>
+      <text>When any change is made by the subdivider in the statements provided pursuant to <cite path="26.48.020">section 26.48.020</cite>, that change shall be submitted to the Planning Commission for approval prior to any action on the final map.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§22" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
@@ -1231,7 +1231,7 @@
       <num>26.48.130</num>
       <heading>WITHDRAWAL.</heading>
       <text>Any subdivider or record owner of property upon which a tentative map has been filed may withdraw such a map at any time prior to the final action thereon by the Planning Commission. Notice of such a withdrawal shall be made to the director of community development who shall notify all persons who have previously received copies of the map for review and recommendation. Upon completion of notification to the director of community development, the tentative map shall be considered withdrawn. No refund in filing fee for any withdrawn map shall be made, but all deposits shall be refunded.</text>
-      <text>The provisions of <cite path="§27.08.090">section 27.08.090</cite> of this code shall govern the refiling of maps withdrawn under this section.</text>
+      <text>The provisions of <cite path="27.08.090">section 27.08.090</cite> of this code shall govern the refiling of maps withdrawn under this section.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§23" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§12" type="History"/>
@@ -1271,7 +1271,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The approval of a vesting tentative map expires if no final map is filed within the time limits specified for expiration of tentative maps in the state Subdivision Map Act and <cite path="§26.48.135">Section 26.48.135</cite> of this Code and the vesting tentative map is not extended in accordance with the state Subdivision Map Act, codified at <cite doc="Cal. Gov’t Code" proof="true">Government Code</cite> sections 66410 and following.</text>
+        <text>The approval of a vesting tentative map expires if no final map is filed within the time limits specified for expiration of tentative maps in the state Subdivision Map Act and <cite path="26.48.135">Section 26.48.135</cite> of this Code and the vesting tentative map is not extended in accordance with the state Subdivision Map Act, codified at <cite doc="Cal. Gov’t Code" proof="true">Government Code</cite> sections 66410 and following.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1759,7 +1759,7 @@
       <section>
         <num>26.56.030</num>
         <heading>FILING.</heading>
-        <text>A subdivider wishing to file a tentative parcel map shall submit the map, the required information, and such other material according to <cite path="§26.48.030">Section 26.48.030</cite> which shall apply to parcel maps.</text>
+        <text>A subdivider wishing to file a tentative parcel map shall submit the map, the required information, and such other material according to <cite path="26.48.030">Section 26.48.030</cite> which shall apply to parcel maps.</text>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§16" type="History"/>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
@@ -1769,7 +1769,7 @@
       <section>
         <num>26.56.040</num>
         <heading>DISTRIBUTION.</heading>
-        <text>The zoning administrator shall follow the distribution procedures of <cite path="§26.48.040">Section 26.48.040</cite>.</text>
+        <text>The zoning administrator shall follow the distribution procedures of <cite path="26.48.040">Section 26.48.040</cite>.</text>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§18" type="History"/>
         </annotations>
@@ -1777,7 +1777,7 @@
       <section>
         <num>26.56.050</num>
         <heading>REPORTS.</heading>
-        <text>Reports from outside agencies and consultants shall be governed by <cite path="§26.48.050">Section 26.48.050</cite>.</text>
+        <text>Reports from outside agencies and consultants shall be governed by <cite path="26.48.050">Section 26.48.050</cite>.</text>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§20" type="History"/>
         </annotations>
@@ -1786,7 +1786,7 @@
         <num>26.56.060</num>
         <heading>ACTION.</heading>
         <text>On the date set for consideration of the tentative parcel map, the Zoning Administrator shall hear the comments and the opinions of the subdivider and of his or her engineer, and any such other officers, agencies and utilities as may have submitted a report. After giving due consideration to all such reports, recommendations, comments and opinions, the Zoning Administrator shall, if compliance with this Title is found, approve, or conditionally approve the tentative parcel map. If the Zoning Administrator finds that the map does not meet the requirements of this title, he/she shall disapprove, or conditionally approve the map. In case of conditional approval, the Zoning Administrator shall require such changes as are necessary to secure compliance with this Title. The action of the Zoning Administrator shall be noted on the tentative parcel map and shall be final unless appealed as herein provided.</text>
-        <text>The Zoning Administrator shall be guided in its review and action by the requirements of Sections <cite path="§26.48.060">26.48.060</cite> and <cite path="§26.48.070">26.48.070</cite> to the extent they are applicable.</text>
+        <text>The Zoning Administrator shall be guided in its review and action by the requirements of Sections <cite path="26.48.060">26.48.060</cite> and <cite path="26.48.070">26.48.070</cite> to the extent they are applicable.</text>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§27" type="History"/>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
@@ -1815,7 +1815,7 @@
       <section>
         <num>26.56.080</num>
         <heading>WITHDRAWAL.</heading>
-        <text>The provisions of <cite path="§26.48.130">Section 26.48.130</cite> of this code shall govern the withdrawal of parcel maps.</text>
+        <text>The provisions of <cite path="26.48.130">Section 26.48.130</cite> of this code shall govern the withdrawal of parcel maps.</text>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§22" type="History"/>
         </annotations>
@@ -1836,7 +1836,7 @@
       <section>
         <num>26.56.087</num>
         <heading>EXPIRATION OF TENTATIVE PARCEL MAPS.</heading>
-        <text>The approval of a tentative parcel map expires if no final parcel map is filed within the time limits specified for expiration of tentative maps by <cite path="§26.48.135">Section 26.48.135</cite> of this Code.</text>
+        <text>The approval of a tentative parcel map expires if no final parcel map is filed within the time limits specified for expiration of tentative maps by <cite path="26.48.135">Section 26.48.135</cite> of this Code.</text>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§4" type="History"/>
         </annotations>
@@ -1924,7 +1924,7 @@
       <section>
         <num>26.56.125</num>
         <heading>SURVEY REQUIREMENTS.</heading>
-        <text>A complete and accurate survey meeting the requirements of <cite path="§26.52.060">Section 26.52.060</cite> shall be completed before the final parcel map is filed with the City Engineer.</text>
+        <text>A complete and accurate survey meeting the requirements of <cite path="26.52.060">Section 26.52.060</cite> shall be completed before the final parcel map is filed with the City Engineer.</text>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§32" type="History"/>
         </annotations>
@@ -1966,7 +1966,7 @@
       <section>
         <num>26.56.135</num>
         <heading>INFORMATION REQUIRED.</heading>
-        <text>The final parcel map shall show clearly and legibly the same information, as applicable, as required for a final subdivision map by <cite path="§26.52.050">Section 26.52.050</cite>.</text>
+        <text>The final parcel map shall show clearly and legibly the same information, as applicable, as required for a final subdivision map by <cite path="26.52.050">Section 26.52.050</cite>.</text>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§34" type="History"/>
         </annotations>
@@ -2140,7 +2140,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>A final decision of the Director of Community Development or the City Engineer under this Section may be appealed to the Planning Commission pursuant to <cite path="§27.08.070|(a)" proof="true">Section 27.08.070(a)</cite>.</text>
+        <text>A final decision of the Director of Community Development or the City Engineer under this Section may be appealed to the Planning Commission pursuant to <cite path="27.08.070|(a)" proof="true">Section 27.08.070(a)</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§34" type="History"/>
@@ -2412,7 +2412,7 @@
     <section>
       <num>26.64.040</num>
       <heading>EXISTING UNITS—CALCULATION.</heading>
-      <text>In determining the land to be dedicated or the fees to be paid pursuant to this chapter, units that have been in existence for five years or more on the date of approval of the tentative subdivision or tentative parcel map shall be excluded from the calculations under <cite path="§26.64.010">Section 26.64.010</cite>.</text>
+      <text>In determining the land to be dedicated or the fees to be paid pursuant to this chapter, units that have been in existence for five years or more on the date of approval of the tentative subdivision or tentative parcel map shall be excluded from the calculations under <cite path="26.64.010">Section 26.64.010</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-9" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-12" path="§1" type="History"/>
@@ -2489,7 +2489,7 @@
       <heading>NOTICE.</heading>
       <para>
         <num>(a)</num>
-        <text>Each of the tenants of the proposed condominium, community apartment project, or stock cooperative project shall receive written notification by registered mail from the subdivider of the intention to convert at least ninety (90) days prior to the filing of a tentative map application. This notification shall include the information provided by the department of community development regarding relocation, right to purchase, and lease benefits available under <cite path="§26.65.060">section 26.65.060</cite>.</text>
+        <text>Each of the tenants of the proposed condominium, community apartment project, or stock cooperative project shall receive written notification by registered mail from the subdivider of the intention to convert at least ninety (90) days prior to the filing of a tentative map application. This notification shall include the information provided by the department of community development regarding relocation, right to purchase, and lease benefits available under <cite path="26.65.060">section 26.65.060</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2574,7 +2574,7 @@
       </para>
       <para>
         <num>(11)</num>
-        <text>"Eligible tenant" means a tenant who was a tenant at the time the notice of intention to convert was mailed pursuant to <cite path="§26.65.025|(a)">section 26.65.025(a)</cite> or to whom the subdivider did not provide a notice concerning the proposed conversion required by this chapter or State law.</text>
+        <text>"Eligible tenant" means a tenant who was a tenant at the time the notice of intention to convert was mailed pursuant to <cite path="26.65.025|(a)">section 26.65.025(a)</cite> or to whom the subdivider did not provide a notice concerning the proposed conversion required by this chapter or State law.</text>
       </para>
       <para>
         <num>(12)</num>
@@ -2794,7 +2794,7 @@
     <section>
       <num>26.65.070</num>
       <heading>APPEAL.</heading>
-      <text>The applicant or any citizen or taxpayer may appeal the decision of the Planning Commission to the City Council on any conversion project. The procedures for appeal set forth in <cite path="§26.72.030" proof="true">Section 26.72.030</cite> shall be applicable.</text>
+      <text>The applicant or any citizen or taxpayer may appeal the decision of the Planning Commission to the City Council on any conversion project. The procedures for appeal set forth in <cite path="26.72.030" proof="true">Section 26.72.030</cite> shall be applicable.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-22" path="§9" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1975-8" path="§1" type="History"/>
