@@ -118,7 +118,7 @@
     <section>
       <num>2.15.030</num>
       <heading>ACQUISITIONS OF BOOKS AND MATERIALS.</heading>
-      <text>The library board of trustees shall establish, by rules and regulations, the policy for the selection of books, reading, visual, auditory and like materials peculiar to the library in accordance with the contract-purchasing procedure in Chapter 3.60 of this code, and subject to limitations of the budget for such purposes.</text>
+      <text>The library board of trustees shall establish, by rules and regulations, the policy for the selection of books, reading, visual, auditory and like materials peculiar to the library in accordance with the contract-purchasing procedure in <cite path="3.60">Chapter 3.60</cite> of this code, and subject to limitations of the budget for such purposes.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1974-26" path="§2" type="History"/>
       </annotations>
@@ -179,15 +179,15 @@
       <text>The Community Relations Commission shall have the following powers and duties:</text>
       <para>
         <num>(a)</num>
-        <text>To conduct public hearings pursuant to Chapter 7.16.</text>
+        <text>To conduct public hearings pursuant to <cite path="7.16">Chapter 7.16</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>To hear appeals from any notice and order or any action of the building official issued pursuant to Chapter 7.14.</text>
+        <text>To hear appeals from any notice and order or any action of the building official issued pursuant to <cite path="7.14">Chapter 7.14</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>To hear requests from the building official, zoning administrator, or senior code enforcement officer for orders to abate violations of Title 25 or Title 27, as provided in Chapter 7.16.</text>
+        <text>To hear requests from the building official, zoning administrator, or senior code enforcement officer for orders to abate violations of <cite path="25">Title 25</cite> or <cite path="27">Title 27</cite>, as provided in <cite path="7.16">Chapter 7.16</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -233,7 +233,7 @@
     <section>
       <num>2.21.050</num>
       <heading>APPEALS.</heading>
-      <text>Decisions of the Community Relations Commission regarding violations of the ordinances on housing maintenance and public nuisances may be appealed to the City Council as set forth in Chapter 7.16.</text>
+      <text>Decisions of the Community Relations Commission regarding violations of the ordinances on housing maintenance and public nuisances may be appealed to the City Council as set forth in <cite path="7.16">Chapter 7.16</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-2" path="§2" type="History"/>
       </annotations>
@@ -538,16 +538,16 @@
     <prefix>Chapter</prefix>
     <num>2.36</num>
     <heading>FIRE DEPARTMENT</heading>
-    <annotation>For provisions relating to burning outside, see Chapter 10.24.</annotation>
-    <annotation>For provisions relating to combustible containers, see Chapter 7.32.</annotation>
-    <annotation>For provisions relating to fire prevention, see Chapter 10.16.</annotation>
-    <annotation>For provisions relating to fireworks, see Chapter 10.28.</annotation>
-    <annotation>For provisions relating to fire protection facilities, see Chapter 23.32.</annotation>
-    <annotation>For provisions relating to building fire standards, see Chapter 23.28.</annotation>
+    <annotation>For provisions relating to burning outside, see <cite path="10.24" proof="true">Chapter 10.24</cite>.</annotation>
+    <annotation>For provisions relating to combustible containers, see <cite path="7.32">Chapter 7.32</cite>.</annotation>
+    <annotation>For provisions relating to fire prevention, see <cite path="10.16">Chapter 10.16</cite>.</annotation>
+    <annotation>For provisions relating to fireworks, see <cite path="10.28" proof="true">Chapter 10.28</cite>.</annotation>
+    <annotation>For provisions relating to fire protection facilities, see <cite path="23.32">Chapter 23.32</cite>.</annotation>
+    <annotation>For provisions relating to building fire standards, see <cite path="23.28">Chapter 23.28</cite>.</annotation>
     <section>
       <num>2.36.010</num>
       <heading>PERSONNEL.</heading>
-      <text>The fire department shall consist of a chief of the fire department and such officers and employees as may from time to time be appointed in conformity with the merit system provisions codified in Chapter 2.57.</text>
+      <text>The fire department shall consist of a chief of the fire department and such officers and employees as may from time to time be appointed in conformity with the merit system provisions codified in <cite path="2.57">Chapter 2.57</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-19" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1983-10" path="§3" type="History"/>
@@ -591,7 +591,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>In any case in which a person is arrested pursuant to subdivision (a) and the person arrested does not demand to be taken before a magistrate, the arresting officer shall prepare a written notice to appear and release the person on his or her promise to appear as prescribed by Chapter 5C, "Citations for Misdemeanors" (commencing with Section 853.6), of Title 3 of Part 2 of the <cite doc="Cal. Penal Code" proof="true">California Penal Code</cite>. The provisions of said Chapter 5C shall thereafter apply with reference to any proceeding based on the issuance of a written notice to appear.</text>
+        <text>In any case in which a person is arrested pursuant to subdivision (a) and the person arrested does not demand to be taken before a magistrate, the arresting officer shall prepare a written notice to appear and release the person on his or her promise to appear as prescribed by Chapter 5C, "Citations for Misdemeanors" (commencing with Section 853.6), of <cite path="3">Title 3</cite> of Part 2 of the <cite doc="Cal. Penal Code" proof="true">California Penal Code</cite>. The provisions of said Chapter 5C shall thereafter apply with reference to any proceeding based on the issuance of a written notice to appear.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -613,8 +613,8 @@
     <num>2.39</num>
     <heading>POLICE DEPARTMENT</heading>
     <annotation>For the relevant provisions of the City charter see §§ 3.04 and 4.01.</annotation>
-    <annotation>For provisions relating to private patrols, see Chapter 5.57.</annotation>
-    <annotation>For provisions relating to press identification cards, see Chapter 5.54.</annotation>
+    <annotation>For provisions relating to private patrols, see <cite path="5.57">Chapter 5.57</cite>.</annotation>
+    <annotation>For provisions relating to press identification cards, see <cite path="5.54" proof="true">Chapter 5.54</cite>.</annotation>
     <section>
       <num>2.39.010</num>
       <heading>DEFINITIONS.</heading>
@@ -641,7 +641,7 @@
     <section>
       <num>2.39.020</num>
       <heading>PERSONNEL.</heading>
-      <text>The police department shall consist of a Chief of Police, and such officers and employees as the City Manager or the Chief of Police may from time to time appoint in conformity with the merit system provisions codified in Chapter 2.57, or otherwise. In addition to such regular officers, the Chief of Police, subject to confirmation by the Council, shall have power to appoint reserve officers to hold office for such length of time as shall be designated in the appointment, whenever the Chief of Police deems any of such officers necessary. No person who is not a regular police officer shall wear an official police officer's badge.</text>
+      <text>The police department shall consist of a Chief of Police, and such officers and employees as the City Manager or the Chief of Police may from time to time appoint in conformity with the merit system provisions codified in <cite path="2.57">Chapter 2.57</cite>, or otherwise. In addition to such regular officers, the Chief of Police, subject to confirmation by the Council, shall have power to appoint reserve officers to hold office for such length of time as shall be designated in the appointment, whenever the Chief of Police deems any of such officers necessary. No person who is not a regular police officer shall wear an official police officer's badge.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-5" path="§2" type="History"/>
         <annotation type="History">prior code § 10.25</annotation>
@@ -1364,8 +1364,8 @@
     <num>2.75</num>
     <heading>FUNDS</heading>
     <annotation>For the relevant provision of the City charter with regard to handling of city funds see §§ 5.08 and 5.10.</annotation>
-    <annotation>For provisions relating to street fund—Vehicle tax, see Chapter 5.78 of this code.</annotation>
-    <annotation>For provisions relating to general fund—Dog licenses, see Chapter 8.16 of this code.</annotation>
+    <annotation>For provisions relating to street fund—Vehicle tax, see <cite path="5.78" proof="true">Chapter 5.78</cite> of this code.</annotation>
+    <annotation>For provisions relating to general fund—Dog licenses, see <cite path="8.16" proof="true">Chapter 8.16</cite> of this code.</annotation>
     <section>
       <num>2.75.010</num>
       <heading>ESTABLISHMENT.</heading>

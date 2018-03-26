@@ -191,7 +191,7 @@
     <section>
       <num>26.04.130</num>
       <heading>TEMPORARY REAL ESTATE SALES OFFICE.</heading>
-      <text>Temporary real estate sales or leasing offices housed in temporary structures may be permitted on the property being subdivided without affecting the subdivision map, or parcel map under which the division occurs. Permission for the temporary structure shall be limited to the period of construction, and the structure shall be removed within thirty (30) days after the complete sale or leasing of the subdivision, or within thirty (30) days after the certification of occupancy of a structure or a portion thereof of the subdivision, whichever is earlier. Such a permit for temporary sales use and temporary structures shall be subject to the conditions and procedures of title 27 of this code.</text>
+      <text>Temporary real estate sales or leasing offices housed in temporary structures may be permitted on the property being subdivided without affecting the subdivision map, or parcel map under which the division occurs. Permission for the temporary structure shall be limited to the period of construction, and the structure shall be removed within thirty (30) days after the complete sale or leasing of the subdivision, or within thirty (30) days after the certification of occupancy of a structure or a portion thereof of the subdivision, whichever is earlier. Such a permit for temporary sales use and temporary structures shall be subject to the conditions and procedures of <cite path="27">title 27</cite> of this code.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-23" path="§3" type="History"/>
@@ -319,7 +319,7 @@
       <heading>LOT LINE ADJUSTMENTS.</heading>
       <para>
         <num>(a)</num>
-        <text>Where an owner or owners propose to adjust the lot lines between two or more lots and the result will be neither a greater nor a lesser number of lots, the procedures contained in Chapter 26.58 shall be complied with if:</text>
+        <text>Where an owner or owners propose to adjust the lot lines between two or more lots and the result will be neither a greater nor a lesser number of lots, the procedures contained in <cite path="26.58">Chapter 26.58</cite> shall be complied with if:</text>
         <para>
           <num>(1)</num>
           <text>The adjustment will not cause any lot to become nonconforming with respect to any provision of this Code nor cause any increase in any existing nonconformance with this Code of any lot;</text>
@@ -345,7 +345,7 @@
       <heading>UNDER FIVE LOTS—UNDER FIVE ACRES.</heading>
       <para>
         <num>(a)</num>
-        <text>A subdivider proposing a subdivision that would create the following shall apply for either a tentative parcel map pursuant to Chapter 26.56 or a tentative map pursuant to Chapter 26.48:</text>
+        <text>A subdivider proposing a subdivision that would create the following shall apply for either a tentative parcel map pursuant to <cite path="26.56">Chapter 26.56</cite> or a tentative map pursuant to <cite path="26.48">Chapter 26.48</cite>:</text>
         <para>
           <num>(1)</num>
           <text>Four or fewer lots;</text>
@@ -487,7 +487,7 @@
     <section>
       <num>26.16.070</num>
       <heading>SITE DEVELOPMENT.</heading>
-      <text>All grading and other aspects of site development covered by Chapter 23.40 shall be carried out in accordance with the provisions of said chapter.</text>
+      <text>All grading and other aspects of site development covered by <cite path="23.40">Chapter 23.40</cite> shall be carried out in accordance with the provisions of said chapter.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
         <annotation type="History">prior code § 139.20(m)</annotation>
@@ -516,7 +516,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Subdivisions that result in new parcels which are not in compliance with the requirements of Chapter 23.40 are prohibited and may not receive an exception under this chapter.</text>
+        <text>Subdivisions that result in new parcels which are not in compliance with the requirements of <cite path="23.40">Chapter 23.40</cite> are prohibited and may not receive an exception under this chapter.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-4" path="§2" type="History"/>
@@ -1162,7 +1162,7 @@
     <section>
       <num>26.48.080</num>
       <heading>HEARING—NOTICE.</heading>
-      <text>The zoning administrator shall cause such notices of time and place of hearing to be mailed or posted and advertised in the same manner as other items set for hearing before the Planning Commission according to the provisions of title 27 of this code.</text>
+      <text>The zoning administrator shall cause such notices of time and place of hearing to be mailed or posted and advertised in the same manner as other items set for hearing before the Planning Commission according to the provisions of <cite path="27">title 27</cite> of this code.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§21" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§10" type="History"/>
@@ -1173,7 +1173,7 @@
     <section>
       <num>26.48.090</num>
       <heading>HEARING—ACTION—GENERALLY.</heading>
-      <text>If the Planning Commission finds compliance with this Title and other applicable ordinances, policies and standards in effect on the date the application is complete pursuant to <cite path="26.48.030">Section 26.48.030</cite>, it shall take action on the map within fifty days of the application being complete, unless such time is extended by mutual agreement of subdivider and the Planning Commission. Failure to act within such period of time shall be deemed approval of said map in accordance with the provisions of <cite doc="Cal. Gov’t Code" path="§66452.4" proof="true">Section 66452.4 of the Government Code</cite>. If the Planning Commission finds that the map does not meet requirements, it shall disapprove, or conditionally approve, the map within said time. In cases of conditional approval, the Commission shall require such changes as are necessary to secure compliance with requirements unless specific exceptions have been granted or recommended pursuant to <cite path="26.68.020" proof="true">Section 26.68.020</cite>. The Planning Commission action shall be noted on the tentative map and shall be final unless appealed as herein provided.. If the Planning Commission finds that the map does not meet requirements, it shall disapprove, or conditionally approve, the map within said time. In cases of conditional approval, the Commission shall require such changes as are necessary to secure compliance with requirements unless specific exceptions have been granted or recommended pursuant to Section 26.68.020. The Planning Commission action shall be noted on the tentative map and shall be final unless appealed as herein provided.</text>
+      <text>If the Planning Commission finds compliance with this Title and other applicable ordinances, policies and standards in effect on the date the application is complete pursuant to <cite path="26.48.030">Section 26.48.030</cite>, it shall take action on the map within fifty days of the application being complete, unless such time is extended by mutual agreement of subdivider and the Planning Commission. Failure to act within such period of time shall be deemed approval of said map in accordance with the provisions of <cite doc="Cal. Gov’t Code" path="§66452.4" proof="true">Section 66452.4 of the Government Code</cite>. If the Planning Commission finds that the map does not meet requirements, it shall disapprove, or conditionally approve, the map within said time. In cases of conditional approval, the Commission shall require such changes as are necessary to secure compliance with requirements unless specific exceptions have been granted or recommended pursuant to <cite path="26.68.020" proof="true">Section 26.68.020</cite>. The Planning Commission action shall be noted on the tentative map and shall be final unless appealed as herein provided.. If the Planning Commission finds that the map does not meet requirements, it shall disapprove, or conditionally approve, the map within said time. In cases of conditional approval, the Commission shall require such changes as are necessary to secure compliance with requirements unless specific exceptions have been granted or recommended pursuant to <cite path="26.68.020">Section 26.68.020</cite>. The Planning Commission action shall be noted on the tentative map and shall be final unless appealed as herein provided.. The Planning Commission action shall be noted on the tentative map and shall be final unless appealed as herein provided.. If the Planning Commission finds that the map does not meet requirements, it shall disapprove, or conditionally approve, the map within said time. In cases of conditional approval, the Commission shall require such changes as are necessary to secure compliance with requirements unless specific exceptions have been granted or recommended pursuant to Section 26.68.020. The Planning Commission action shall be noted on the tentative map and shall be final unless appealed as herein provided.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§29" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1983-3" path="§7" type="History"/>
@@ -1194,7 +1194,7 @@
     <section>
       <num>26.48.105</num>
       <heading>COUNCIL REVIEW.</heading>
-      <text>If the tentative map is accompanied by an application for a planning approval subject to Council action pursuant to Title 27 or site development permit subject to Council action pursuant to Title 23, the tentative map shall not be final with the Planning Commission, but shall instead be forwarded by the Commission with its recommendations to the Council for action by the Council on both the tentative map and the planning or site development permit application.</text>
+      <text>If the tentative map is accompanied by an application for a planning approval subject to Council action pursuant to <cite path="27">Title 27</cite> or site development permit subject to Council action pursuant to <cite path="23">Title 23</cite>, the tentative map shall not be final with the Planning Commission, but shall instead be forwarded by the Commission with its recommendations to the Council for action by the Council on both the tentative map and the planning or site development permit application.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§15" type="History"/>
       </annotations>
@@ -1672,7 +1672,7 @@
       <section>
         <num>26.56.020</num>
         <heading>INFORMATION REQUIRED.</heading>
-        <text>Unless included in the submittal for the site development permit pursuant to Chapter 23.40, the tentative parcel map shall contain, or be accompanied by the following information:</text>
+        <text>Unless included in the submittal for the site development permit pursuant to <cite path="23.40">Chapter 23.40</cite>, the tentative parcel map shall contain, or be accompanied by the following information:</text>
         <para>
           <num>(1)</num>
           <text>The tract name and number (if assigned); date of preparation; northpoint and scale;</text>
@@ -1806,7 +1806,7 @@
       <section>
         <num>26.56.075</num>
         <heading>PLANNING COMMISSION AND COUNCIL REVIEW.</heading>
-        <text>If the tentative parcel map is accompanied by an application for a planning approval subject to Planning Commission or Council action pursuant to Title 27 or site development permit subject to Planning Commission or Council action pursuant to Title 23, the tentative map shall not be final with the Zoning Administrator, but shall instead be forwarded by the Zoning Administrator with recommendations to the Commission for action by the Commission on both the tentative parcel map and the planning or site development application, and if required by Title 27, forwarding to the Council for its action.</text>
+        <text>If the tentative parcel map is accompanied by an application for a planning approval subject to Planning Commission or Council action pursuant to <cite path="27">Title 27</cite> or site development permit subject to Planning Commission or Council action pursuant to <cite path="23">Title 23</cite>, the tentative map shall not be final with the Zoning Administrator, but shall instead be forwarded by the Zoning Administrator with recommendations to the Commission for action by the Commission on both the tentative parcel map and the planning or site development application, and if required by <cite path="27">Title 27</cite>, forwarding to the Council for its action.</text>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§31" type="History"/>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§27" type="History"/>
@@ -1823,7 +1823,7 @@
       <section>
         <num>26.56.085</num>
         <heading>WAIVER OF TENTATIVE PARCEL MAP.</heading>
-        <text>If the City approves a planning action pursuant to Title 27 subject to a condition that the applicant file and record a parcel map, the City Engineer may waive the preparation and filing of a tentative parcel map if the City Engineer determines that the planning approval has already fulfilled the requirements contained in this chapter for delineation and disclosure of information about the affected property.</text>
+        <text>If the City approves a planning action pursuant to <cite path="27">Title 27</cite> subject to a condition that the applicant file and record a parcel map, the City Engineer may waive the preparation and filing of a tentative parcel map if the City Engineer determines that the planning approval has already fulfilled the requirements contained in this chapter for delineation and disclosure of information about the affected property.</text>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§28" type="History"/>
         </annotations>
@@ -2031,15 +2031,15 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The review of the drawing described above shall satisfy the requirement for review of a tentative parcel map under Chapter 26.56. If the drawing is approved or conditionally approved by the Zoning Administrator and City Engineer, the applicant shall then submit the final parcel map with the required checklist and fee to the City Engineer for processing.</text>
+        <text>The review of the drawing described above shall satisfy the requirement for review of a tentative parcel map under <cite path="26.56">Chapter 26.56</cite>. If the drawing is approved or conditionally approved by the Zoning Administrator and City Engineer, the applicant shall then submit the final parcel map with the required checklist and fee to the City Engineer for processing.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>The City Engineer shall then review and process the final parcel map pursuant to Chapter 26.56 of this Code.</text>
+        <text>The City Engineer shall then review and process the final parcel map pursuant to <cite path="26.56">Chapter 26.56</cite> of this Code.</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>A final decision of the Zoning Administrator or the City Engineer under this chapter may be appealed to the Planning Commission pursuant to Chapter 26.72.</text>
+        <text>A final decision of the Zoning Administrator or the City Engineer under this chapter may be appealed to the Planning Commission pursuant to <cite path="26.72">Chapter 26.72</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§33" type="History"/>
@@ -2056,7 +2056,7 @@
       <heading>PROCEDURE</heading>
       <para>
         <num>(a)</num>
-        <text>Where a lot line adjustment is permitted by Chapter 26.12, the following procedures shall be followed:</text>
+        <text>Where a lot line adjustment is permitted by <cite path="26.12">Chapter 26.12</cite>, the following procedures shall be followed:</text>
         <para>
           <num>(1)</num>
           <text>A scale drawing, showing the existing and proposed lot or parcel lines, lot and tract numbers, and location of existing improvements, easements, and reservations, if any, shall be prepared by licensed land surveyor or registered civil engineer licensed by the State to perform such work and filed accompanied by any required fees with the City Engineer;</text>
@@ -2131,11 +2131,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Approval of the drawing as described above shall satisfy any requirement for a tentative parcel map pursuant to Chapter 26.56. If the drawing is approved or conditionally approved by the Director of Community Development, the applicant shall then submit the final parcel map with the required checklist and fee to the City Engineer for processing as follows. No tentative parcel map will be required.</text>
+          <text>Approval of the drawing as described above shall satisfy any requirement for a tentative parcel map pursuant to <cite path="26.56">Chapter 26.56</cite>. If the drawing is approved or conditionally approved by the Director of Community Development, the applicant shall then submit the final parcel map with the required checklist and fee to the City Engineer for processing as follows. No tentative parcel map will be required.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>The City Engineer shall then review and process the final parcel map pursuant to Chapter 26.56 of this Code.</text>
+          <text>The City Engineer shall then review and process the final parcel map pursuant to <cite path="26.56">Chapter 26.56</cite> of this Code.</text>
         </para>
       </para>
       <para>
@@ -2171,7 +2171,7 @@
         <num>(d)</num>
         <text>No improvement work shall be commenced until improvement plans and specifications have been submitted to and approved by the City engineer, the fire chief, and the assistant city manager, or his or her representative.</text>
       </para>
-      <text>Improvements shall be installed in accordance with the approved plans and specifications to permanent line and grade to the satisfaction of the City engineer who shall supervise the work. All work shall be subject to such inspections as he or she may deem necessary to protect the interest of the City. In no case shall the improvements be less substantial than required by the design standards and specifications and the City standard specifications in effect at the time the plans and specifications are approved, and all grading and major vegetation removal in connection therewith shall conform to all requirements of chapter 23.40.</text>
+      <text>Improvements shall be installed in accordance with the approved plans and specifications to permanent line and grade to the satisfaction of the City engineer who shall supervise the work. All work shall be subject to such inspections as he or she may deem necessary to protect the interest of the City. In no case shall the improvements be less substantial than required by the design standards and specifications and the City standard specifications in effect at the time the plans and specifications are approved, and all grading and major vegetation removal in connection therewith shall conform to all requirements of <cite path="23.40">chapter 23.40</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§31" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
@@ -2618,7 +2618,7 @@
       </para>
       <para>
         <num>(22)</num>
-        <text>"Subdivision ordinance" means Title 26 of this code.</text>
+        <text>"Subdivision ordinance" means <cite path="26">Title 26</cite> of this code.</text>
       </para>
       <para>
         <num>(23)</num>
@@ -2762,7 +2762,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>Parking for each unit shall be the same as that required for new multiple residential structures specified per bedroom count in Chapter 27.64 of this code, except that, upon proper qualification, a variance therefrom may be granted under the provisions of Chapter 27.78 of this code. The parking for each unit shall be within an enclosed garage for at least one space, or, alternatively, a covered parking area with adequate security may be substituted.</text>
+        <text>Parking for each unit shall be the same as that required for new multiple residential structures specified per bedroom count in <cite path="27.64">Chapter 27.64</cite> of this code, except that, upon proper qualification, a variance therefrom may be granted under the provisions of <cite path="27.78">Chapter 27.78</cite> of this code. The parking for each unit shall be within an enclosed garage for at least one space, or, alternatively, a covered parking area with adequate security may be substituted.</text>
       </para>
       <para>
         <num>(7)</num>
@@ -2864,7 +2864,7 @@
     <section>
       <num>26.72.010</num>
       <heading>ACTION OF ADMINISTRATIVE OFFICIALS.</heading>
-      <text>If any person is dissatisfied with any action or decision of any administrative official in the administration of this Title, he/she may appeal to the Planning Commission by filing an appeal in writing, with the required fees, with the director of community development within ten (10) days of the action or decision. The director of community development shall set the appeal on the agenda of the next regular meeting of the Planning Commission that is fifteen (l5) days or more after the date on which the appeal was filed. Notice of the hearing shall be given in the same manner as notices of hearings of the Planning Commission under Title 27.</text>
+      <text>If any person is dissatisfied with any action or decision of any administrative official in the administration of this Title, he/she may appeal to the Planning Commission by filing an appeal in writing, with the required fees, with the director of community development within ten (10) days of the action or decision. The director of community development shall set the appeal on the agenda of the next regular meeting of the Planning Commission that is fifteen (l5) days or more after the date on which the appeal was filed. Notice of the hearing shall be given in the same manner as notices of hearings of the Planning Commission under <cite path="27">Title 27</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§37" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§42" type="History"/>
@@ -2876,7 +2876,7 @@
     <section>
       <num>26.72.020</num>
       <heading>PLANNING COMMISSION.</heading>
-      <text>If any person is dissatisfied with any action or decision of the Planning Commission pursuant to this title, he or she may appeal to the City Council by filing an appeal in writing, accompanied by the required fees, with the City Clerk within ten (l0) days of the action or decision. The City Clerk shall set the appeal on the agenda of the next regular meeting of the City Council that is fifteen (l5) days or more after the date on which the appeal was filed. Notice of the hearing shall be given in the same manner as notices of hearings of the City Council under title 27.</text>
+      <text>If any person is dissatisfied with any action or decision of the Planning Commission pursuant to this title, he or she may appeal to the City Council by filing an appeal in writing, accompanied by the required fees, with the City Clerk within ten (l0) days of the action or decision. The City Clerk shall set the appeal on the agenda of the next regular meeting of the City Council that is fifteen (l5) days or more after the date on which the appeal was filed. Notice of the hearing shall be given in the same manner as notices of hearings of the City Council under <cite path="27">title 27</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§43" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>

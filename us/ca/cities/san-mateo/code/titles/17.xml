@@ -8,8 +8,8 @@
     <prefix>Chapter</prefix>
     <num>17.08</num>
     <heading>OBSTRUCTIONS—LITTER</heading>
-    <annotation>For provisions relating to street standards, see Chapter 21.36 of this code.</annotation>
-    <annotation>For the statutory provisions regarding the prevention by a city of encroachments on city streets, see <cite doc="Cal. Gov’t Code" path="§38775." proof="true">Gov. Code § 38775.</cite> For provisions relating to liability for injury, see Chapter 15.20.</annotation>
+    <annotation>For provisions relating to street standards, see <cite path="21.36" proof="true">Chapter 21.36</cite> of this code.</annotation>
+    <annotation>For the statutory provisions regarding the prevention by a city of encroachments on city streets, see <cite doc="Cal. Gov’t Code" path="§38775." proof="true">Gov. Code § 38775.</cite> For provisions relating to liability for injury, see <cite path="15.20" proof="true">Chapter 15.20</cite>. For provisions relating to liability for injury, see Chapter 15.20.</annotation>
     <section>
       <num>17.08.010</num>
       <heading>DIRT OR RUBBISH.</heading>
@@ -174,7 +174,7 @@
       <text>No person, owner or occupant of any store, shop, office or other place of business, shall use, authorize, or cause the use of any part of the sidewalk of any public street for the display of fruit or vegetables, or of any goods, wares or merchandise of any kind whatsoever, except temporary sidewalk sales or displays may be allowed in commercial districts only with a special permit of the City Manager subject to meeting the following terms and conditions:</text>
       <para>
         <num>(a)</num>
-        <text>Permits may be granted only to organized merchant groups which have existed as such for at least one year and who can furnish the required insurance coverage and be held legally accountable for meeting all conditions of the permit, except that special features may be allowed, such as art shows, refreshment stands and entertainment, provided they are sponsored by the merchant groups, included in their insurance coverage, and comply with Title 5 of this code by obtaining the additional permits and pay the required business license fees.</text>
+        <text>Permits may be granted only to organized merchant groups which have existed as such for at least one year and who can furnish the required insurance coverage and be held legally accountable for meeting all conditions of the permit, except that special features may be allowed, such as art shows, refreshment stands and entertainment, provided they are sponsored by the merchant groups, included in their insurance coverage, and comply with <cite path="5">Title 5</cite> of this code by obtaining the additional permits and pay the required business license fees.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -190,7 +190,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Signs may be permitted in such type, size and manner of display as in the discretion of the City Manager shall be reasonably necessary and justifiable, as exceptions to the requirements of Title 25 of this code.</text>
+        <text>Signs may be permitted in such type, size and manner of display as in the discretion of the City Manager shall be reasonably necessary and justifiable, as exceptions to the requirements of <cite path="25">Title 25</cite> of this code.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -341,7 +341,7 @@
       <text><strong>Director. </strong>The Director of Public Works or designee.</text>
       <text><strong>Downtown Area.</strong> The area included within the Downtown Retail Core and Downtown Retail Core Support areas as designated on the Downtown Land Use Plan included as figure 11 in the Downtown Specific Plan.</text>
       <text><strong>Freestanding Newsrack.</strong> Any self-service or coin-operated box, container, storage unit, fixture or other dispenser placed, installed, or maintained, for the display and sale or other distribution of a single Publication but excluding Modular Newsracks.</text>
-      <text><strong>Harmful Matter.</strong> Matter defined as harmful matter under <cite doc="Cal. Penal Code" path="§313" proof="true">Section 313 of the California penal Code</cite>, and as said section may be amended. Matter defined as harmful matter under Section 313 of the California penal Code, and as said section may be amended.</text>
+      <text><strong>Harmful Matter.</strong> Matter defined as harmful matter under <cite doc="Cal. Penal Code" path="§313" proof="true">Section 313 of the California penal Code</cite>, and as said section may be amended. Matter defined as harmful matter under <cite doc="Cal. Penal Code" path="§313" proof="true">Section 313 of the California penal Code</cite>, and as said section may be amended., and as said section may be amended. Matter defined as harmful matter under Section 313 of the California penal Code, and as said section may be amended.</text>
       <text><strong>Matter.</strong> Any book, magazine, newspaper, video recording, or other printed or written material or any picture, drawing, photograph, motion picture, or other pictorial representation or any statue or other figure, or any recording, transcription, or mechanical, chemical, or electrical reproduction or any other articles, equipment, machines, or materials.</text>
       <text><strong>Mandatory Modular Area.</strong> The area included within the Downtown Area as defined in this section.</text>
       <text><strong>Modular Newsrack.</strong> A News Dispenser containing two (2) or more Compartments within a single unit mounted at a fixed location but otherwise having the characteristics of a Freestanding Newsrack.</text>
@@ -799,7 +799,7 @@
     <section>
       <num>17.12.170</num>
       <heading>NUISANCE; CUMULATIVE REMEDIES.</heading>
-      <text>The placement, installation or maintenance of any News Dispenser or use of a Compartment in violation of the provisions of this chapter shall be, and the same is declared to be, a public nuisance. The provisions of this chapter shall not be deemed a limitation upon any other remedies of the City authorized by law with respect to the matter herein specified. In addition to any and all remedies available in connection with violations of this chapter, any violation of this chapter shall be punishable pursuant to Chapter 1.04 of this Code.</text>
+      <text>The placement, installation or maintenance of any News Dispenser or use of a Compartment in violation of the provisions of this chapter shall be, and the same is declared to be, a public nuisance. The provisions of this chapter shall not be deemed a limitation upon any other remedies of the City authorized by law with respect to the matter herein specified. In addition to any and all remedies available in connection with violations of this chapter, any violation of this chapter shall be punishable pursuant to <cite path="1.04">Chapter 1.04</cite> of this Code.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-2" path="§1" type="History"/>
       </annotations>
@@ -899,7 +899,7 @@
     <prefix>Chapter</prefix>
     <num>17.20</num>
     <heading>STREET SIGNS</heading>
-    <annotation>For provisions relating to street sign standards, see Chapter 21.36.</annotation>
+    <annotation>For provisions relating to street sign standards, see <cite path="21.36" proof="true">Chapter 21.36</cite>.</annotation>
     <section>
       <num>17.20.010</num>
       <heading>DEFACING PROHIBITED.</heading>
@@ -928,7 +928,7 @@
       <text>For the purpose of this chapter, the following words and phrases shall have the meanings set forth below. Unless in direct conflict with terms defined herein, other words and phrases shall be interpreted as defined in the <cite doc="Cal. Sts. &amp; High. Code" proof="true">Streets and Highways Code</cite>:</text>
       <text><strong>Director of Public Works</strong>. Director of Public Works or his or her designee.</text>
       <text><strong>Driveway Approach.</strong> The concrete structure located in the public right-of-way between the public street and a driveway or parking area on private property.</text>
-      <text><strong>Heritage Tree. </strong>A tree as defined in Chapter 13.52 as being a heritage tree subject to the provisions of that chapter.</text>
+      <text><strong>Heritage Tree. </strong>A tree as defined in <cite path="13.52">Chapter 13.52</cite> as being a heritage tree subject to the provisions of that chapter.A tree as defined in Chapter 13.52 as being a heritage tree subject to the provisions of that chapter.</text>
       <text><strong>Planting strip</strong>. The area of the street lying between the curb line and the street line or edge of right-of-way along any street; including the sidewalk.</text>
       <text><strong>Property Owner. </strong>Without limitation, the fee owner of real property and the person or persons in possession of the real property.</text>
       <text><strong>Sidewalk</strong>. Any area provided for the use of pedestrians, including planting areas, driveway approaches or parking strips, between the public vehicular roadway and the edge of right-of-way bordering adjacent private property.</text>
@@ -956,7 +956,7 @@
     <section>
       <num>17.24.050</num>
       <heading>CONTENTS OF NOTICE.</heading>
-      <text>The notice shall direct the Property Owner to repair the Sidewalk and specify what work is required to be done, how the work is to be done, and what materials shall be used in such repair, and shall further specify that, if the Property Owner chooses not to repair the Sidewalk after 90 days notice, the Director of Public Works may schedule such repair to be made at Property Owner expense and obtain a lien against the property in accordance with Municipal Code Chapter 7.42 if the Property Owner fails to reimburse the City for repair costs.</text>
+      <text>The notice shall direct the Property Owner to repair the Sidewalk and specify what work is required to be done, how the work is to be done, and what materials shall be used in such repair, and shall further specify that, if the Property Owner chooses not to repair the Sidewalk after 90 days notice, the Director of Public Works may schedule such repair to be made at Property Owner expense and obtain a lien against the property in accordance with Municipal Code <cite path="7.42">Chapter 7.42</cite> if the Property Owner fails to reimburse the City for repair costs.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-4" path="§1" type="History"/>
       </annotations>
@@ -964,7 +964,7 @@
     <section>
       <num>17.24.060</num>
       <heading>DIRECTOR OF PUBLIC WORKS TO REPAIR IF OWNER FAILS TO DO SO.</heading>
-      <text>If the repair is not commenced and prosecuted to completion as required by the notice, the Director of Public Works may repair said sidewalk. The cost of such repair shall be an obligation to the City owed by the adjacent Property Owner. If the Property Owner fails to reimburse City costs of repair within 60 days of completion of the repairs, the City shall obtain a lien on the adjacent property in accordance with Municipal Code Chapter 7.42.</text>
+      <text>If the repair is not commenced and prosecuted to completion as required by the notice, the Director of Public Works may repair said sidewalk. The cost of such repair shall be an obligation to the City owed by the adjacent Property Owner. If the Property Owner fails to reimburse City costs of repair within 60 days of completion of the repairs, the City shall obtain a lien on the adjacent property in accordance with Municipal Code <cite path="7.42">Chapter 7.42</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-4" path="§1" type="History"/>
       </annotations>
@@ -996,7 +996,7 @@
     <section>
       <num>17.24.100</num>
       <heading>RECORDING OF LIEN.</heading>
-      <text>After the 60-day delinquent period, the Director of Public Works will place a lien on the adjacent property in accordance with Municipal Code Chapter 7.42.</text>
+      <text>After the 60-day delinquent period, the Director of Public Works will place a lien on the adjacent property in accordance with Municipal Code <cite path="7.42">Chapter 7.42</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-4" path="§1" type="History"/>
       </annotations>
@@ -1012,7 +1012,7 @@
     <section>
       <num>17.24.120</num>
       <heading>REMOVAL OR PLANTING OF STREET OR HERITAGE TREE.</heading>
-      <text>If the Property Owner wishes to remove or plant a street or heritage tree in relation to the sidewalk repairs, he or she must apply for a permit as prescribed under Title 13 of this Code relating to Heritage Trees, and Street Trees.</text>
+      <text>If the Property Owner wishes to remove or plant a street or heritage tree in relation to the sidewalk repairs, he or she must apply for a permit as prescribed under <cite path="13">Title 13</cite> of this Code relating to Heritage Trees, and Street Trees.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-4" path="§1" type="History"/>
       </annotations>
@@ -1623,7 +1623,7 @@
     <section>
       <num>17.34.040</num>
       <heading>SPECIAL EVENT PERMIT REQUIRED.</heading>
-      <text>A special event permit must be obtained from the City to stage a special event. However, spontaneous events may be conducted at the locations specified in municipal code Chapter 13.10 without obtaining a special event permit.</text>
+      <text>A special event permit must be obtained from the City to stage a special event. However, spontaneous events may be conducted at the locations specified in municipal code <cite path="13.10">Chapter 13.10</cite> without obtaining a special event permit.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-5" path="§1" type="History"/>
       </annotations>
