@@ -3,7 +3,7 @@
   <prefix>Title</prefix>
   <num>5</num>
   <heading>BUSINESS LICENSES AND REGULATIONS</heading>
-  <annotation>For statutory provisions authorizing cities to license for revenue and regulations purposes, see <cite doc="Cal. Gov’t Code" path="§37101." proof="true">Cal. Gov. C.A. § 37101.</cite> For the statutory provisions authorizing cities to license in the exercise of the police power and for purposes of regulation, see <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Cal. Bus. &amp; Prof. C.A.</cite> §§ 16000-16003.</annotation>
+  <annotation>For statutory provisions authorizing cities to license for revenue and regulations purposes, see <cite doc="Cal. Gov't Code" path="§37101">Cal. Gov. C.A. § 37101</cite>. For the statutory provisions authorizing cities to license in the exercise of the police power and for purposes of regulation, see <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Cal. Bus. &amp; Prof. C.A.</cite> §§ <cite doc="Cal. Bus. &amp; Prof. Code" path="§16000">16000</cite>-<cite doc="Cal. Bus. &amp; Prof. Code" path="§16003">16003</cite>.</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>5.03</num>
@@ -481,7 +481,7 @@
       <heading>NON-PROFIT ORGANIZATIONS.</heading>
       <para>
         <num>(a)</num>
-        <text>Non-profit organizations that are exempt from business taxes pursuant to <cite doc="Cal. Gov’t Code" path="§37101|(c)" proof="true">Government Code Section 37101(c)</cite> shall file, prior to the commencement of their activities in San Mateo and annually thereafter on a date as requested by the Finance Department, the following information on forms provided by the City: organization name; address; mailing address; phone number; names of owners/directors/manager; person to contact in emergencies; basis of tax exemption and I.D. number; zoning information; and such other information as required by the Finance Department or City Manager.</text>
+        <text>Non-profit organizations that are exempt from business taxes pursuant to <cite doc="Cal. Gov't Code" path="§37101|(c)">Government Code Section 37101(c)</cite> shall file, prior to the commencement of their activities in San Mateo and annually thereafter on a date as requested by the Finance Department, the following information on forms provided by the City: organization name; address; mailing address; phone number; names of owners/directors/manager; person to contact in emergencies; basis of tax exemption and I.D. number; zoning information; and such other information as required by the Finance Department or City Manager.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -501,7 +501,7 @@
     <prefix>Chapter</prefix>
     <num>5.09</num>
     <heading>BUREAU OF BUSINESS TAXES AND PERMITS</heading>
-    <annotation>For the statutory provisions regarding the legislative power of cities to license for revenue and regulation every kind of lawful business transacted within the City, see <cite doc="Cal. Gov’t Code" path="§37101." proof="true">Cal. Gov. C.A. § 37101.</cite></annotation>
+    <annotation>For the statutory provisions regarding the legislative power of cities to license for revenue and regulation every kind of lawful business transacted within the City, see <cite doc="Cal. Gov't Code" path="§37101">Cal. Gov. C.A. § 37101</cite>.</annotation>
     <section>
       <num>5.09.010</num>
       <heading>CONTINUED—BOARD OF REVIEW ESTABLISHED.</heading>
@@ -2197,7 +2197,7 @@
           </para>
           <para>
             <num>(D)</num>
-            <text>The occurrence of acts of lewdness, assignation, or prostitution, including any conduct constituting violations of Sections 315, 316 or 318, or Subdivision b of <cite doc="Cal. Penal Code" path="§647" proof="true">Section 647 of the California Penal Code</cite>.</text>
+            <text>The occurrence of acts of lewdness, assignation, or prostitution, including any conduct constituting violations of Sections 315, 316 or 318, or Subdivision b of <cite doc="Cal. Penal Code" path="§647">Section 647 of the California Penal Code</cite>.</text>
           </para>
         </para>
         <para>
@@ -2248,7 +2248,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>If the Police Chief's decision is affirmed on appeal, the applicant or permittee may seek prompt judicial review of such administrative action pursuant to <cite doc="Cal. Civ. Proc. Code" path="§1094.5" proof="true">California Code of Civil Procedure Section 1094.5</cite> or 1094.8 (if that Section is applicable). The City shall make all reasonable efforts to expedite judicial review, if sought by the permittee.</text>
+          <text>If the Police Chief's decision is affirmed on appeal, the applicant or permittee may seek prompt judicial review of such administrative action pursuant to <cite doc="Cal. Civ. Proc. Code" path="§1094.5">California Code of Civil Procedure Section 1094.5</cite> or 1094.8 (if that Section is applicable). The City shall make all reasonable efforts to expedite judicial review, if sought by the permittee.</text>
         </para>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
@@ -2654,7 +2654,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>"California Massage Therapy Council" or "CAMTC" means the massage therapy organization formed pursuant to <cite doc="Cal. Bus. &amp; Prof. Code" path="§4600.5." proof="true">Business and Professions Code Section 4600.5.</cite></text>
+        <text>"California Massage Therapy Council" or "CAMTC" means the massage therapy organization formed pursuant to <cite doc="Cal. Bus. &amp; Prof. Code" path="§4600.5">Business and Professions Code Section 4600.5</cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2819,7 +2819,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>For all owners, a signed statement that all of the information contained in the application is true and correct; that all owners shall be responsible for the conduct of the business's employees or independent contractors providing massage services; and acknowledging that failure to comply with the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">California Business and Professions Code</cite> Sections 4600 et seq., and local, state, or federal law, or the provisions of <cite path="5.44" proof="true">this chapter</cite> may result in revocation of the business's City registration certificate.</text>
+          <text>For all owners, a signed statement that all of the information contained in the application is true and correct; that all owners shall be responsible for the conduct of the business's employees or independent contractors providing massage services; and acknowledging that failure to comply with the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">California Business and Professions Code</cite> Sections 4600 et seq., and local, state, or federal law, or the provisions of <cite path="5.44">this chapter</cite> may result in revocation of the business's City registration certificate.</text>
         </para>
       </para>
       <para>
@@ -3060,7 +3060,7 @@
     <section>
       <num>5.44.090</num>
       <heading>UNLAWFUL BUSINESS PRACTICES MAY BE ENJOINED; REMEDIES CUMULATIVE.</heading>
-      <text>Any massage business operated, conducted or maintained contrary to the provisions of <cite path="5.44">this chapter</cite> shall constitute an unlawful business practice pursuant to <cite doc="Cal. Bus. &amp; Prof. Code" path="§17200" proof="true">Business and Professions Code Section 17200</cite> et seq., and the City Attorney or District Attorney may, in the exercise of discretion, in addition to or in lieu of taking any other action permitted by <cite path="5.44" proof="true">this chapter</cite>, commence an action or actions, proceeding or proceedings in the Superior Court of San Mateo County, seeking an injunction prohibiting the unlawful business practice and/or any other remedy available at law, including but not limited to fines, attorneys fees and costs. All remedies provided for in <cite path="5.44" proof="true">this chapter</cite> are cumulative.</text>
+      <text>Any massage business operated, conducted or maintained contrary to the provisions of <cite path="5.44">this chapter</cite> shall constitute an unlawful business practice pursuant to <cite doc="Cal. Bus. &amp; Prof. Code" path="§17200">Business and Professions Code Section 17200</cite> et seq., and the City Attorney or District Attorney may, in the exercise of discretion, in addition to or in lieu of taking any other action permitted by <cite path="5.44">this chapter</cite>, commence an action or actions, proceeding or proceedings in the Superior Court of San Mateo County, seeking an injunction prohibiting the unlawful business practice and/or any other remedy available at law, including but not limited to fines, attorneys fees and costs. All remedies provided for in <cite path="5.44">this chapter</cite> are cumulative.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-12" path="§1" type="History"/>
       </annotations>
@@ -3092,7 +3092,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>An owner or sole proprietor fails to register under the provisions of <cite doc="Cal. Penal Code" path="§290" proof="true">California Penal Code Section 290</cite> (sex offender registration), is convicted of <cite doc="Cal. Penal Code" proof="true">California Penal Code</cite> Sections 266i (pandering), 315 (keeping or residing in a house of ill-fame), 316 (keeping disorderly house), 318 (prevailing upon person to visit a place for prostitution), 647(b) (engaging in or soliciting prostitution), 653.22 (loitering with intent to commit prostitution), 653.23 (supervision of prostitute); has a business permit or license denied, revoked, restricted, or suspended by any agency, board, city, county, territory, or state; is subject to an injunction for nuisance pursuant to <cite doc="Cal. Penal Code" proof="true">California Penal Code</cite> Sections 11225-11235 (red light abatement); is convicted of a felony offense involving the sale of a controlled substance; is convicted of any crime involving dishonesty, fraud, deceit, violence, or moral turpitude; or is convicted in any other state of an offense which, if committed in this state, would have been punishable as one or more referenced offenses in this subsection.</text>
+          <text>An owner or sole proprietor fails to register under the provisions of <cite doc="Cal. Penal Code" path="§290" proof="true">California Penal Code Section 290</cite> (sex offender registration), is convicted of <cite doc="Cal. Penal Code" proof="true">California Penal Code</cite> Sections 266i (pandering), 315 (keeping or residing in a house of ill-fame), 316 (keeping disorderly house), 318 (prevailing upon person to visit a place for prostitution), 647(b) (engaging in or soliciting prostitution), 653.22 (loitering with intent to commit prostitution), 653.23 (supervision of prostitute); has a business permit or license denied, revoked, restricted, or suspended by any agency, board, city, county, territory, or state; is subject to an injunction for nuisance pursuant to <cite doc="Cal. Penal Code" proof="true">California Penal Code</cite> Sections <cite doc="Cal. Penal Code" path="§11225">11225</cite>-<cite doc="Cal. Penal Code" path="§11235">11235</cite> (red light abatement); is convicted of a felony offense involving the sale of a controlled substance; is convicted of any crime involving dishonesty, fraud, deceit, violence, or moral turpitude; or is convicted in any other state of an offense which, if committed in this state, would have been punishable as one or more referenced offenses in this subsection.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -3100,7 +3100,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Violations of any of the following occurred on the premises of a massage business or were committed by a massage practitioner: <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">California Business and Professions Code</cite> Sections 4600 et seq.; any local, state, or federal law; or the provisions of <cite path="5.44" proof="true">this chapter</cite>.</text>
+          <text>Violations of any of the following occurred on the premises of a massage business or were committed by a massage practitioner: <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">California Business and Professions Code</cite> Sections 4600 et seq.; any local, state, or federal law; or the provisions of <cite path="5.44">this chapter</cite>.</text>
         </para>
       </para>
       <para>
@@ -3168,7 +3168,7 @@
     <prefix>Chapter</prefix>
     <num>5.45</num>
     <heading>PAWNBROKERS—SECONDHAND DEALERS</heading>
-    <annotation>For the statutory provisions regarding pawnbrokers generally see <cite doc="Cal. Fin. Code" path="§21000" proof="true">Cal. Fin. 21000</cite> et seq. For the license fee for a pawnbroker or secondhand dealer, see <cite path="5.24.320" proof="true">Section 5.24.320</cite>.</annotation>
+    <annotation>For the statutory provisions regarding pawnbrokers generally see <cite doc="Cal. Fin. Code" path="§21000">Cal. Fin. 21000</cite> et seq. For the license fee for a pawnbroker or secondhand dealer, see <cite path="5.24.320" proof="true">Section 5.24.320</cite>.</annotation>
     <section>
       <num>5.45.005</num>
       <heading>PERMIT REQUIRED.</heading>
@@ -3349,7 +3349,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>"Tanning facility" means any establishment meeting the definition of <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702" proof="true">Section 22702 of the Business and Professions Code</cite> of the State of California. A facility shall be a "tanning facility" if it provides tanning services whether as the principal or minor function of the business.</text>
+        <text>"Tanning facility" means any establishment meeting the definition of <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702">Section 22702 of the Business and Professions Code</cite> of the State of California. A facility shall be a "tanning facility" if it provides tanning services whether as the principal or minor function of the business.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -3424,7 +3424,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>All convictions for any crime involving conduct which requires registration under <cite doc="Cal. Penal Code" path="§290" proof="true">California Penal Code Section 290</cite>, or convictions of <cite doc="Cal. Penal Code" proof="true">California Penal Code</cite> Sections 314, 415, 316, 318, 647(a), (b), (as now written or as amended), or convictions of crimes designated in <cite doc="Cal. Gov’t Code" path="§51032|(b)" proof="true">Government Code Section 51032(b)</cite> or <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702" proof="true">Business and Professions Code Section 22702</cite> et. seq., or any crime involving dishonesty, fraud, deceit, violence or moral turpitude. Convictions under the laws of other states or countries which proscribe the same conduct or similar conduct as the adore-designated California crimes shall be provided. Convictions that have been expunged must be reported. All injunctions for nuisances under <cite doc="Cal. Penal Code" path="§11225" proof="true">Penal Code Section 11225</cite> or similar laws.</text>
+          <text>All convictions for any crime involving conduct which requires registration under <cite doc="Cal. Penal Code" path="§290" proof="true">California Penal Code Section 290</cite>, or convictions of <cite doc="Cal. Penal Code" proof="true">California Penal Code</cite> Sections <cite doc="Cal. Penal Code" path="§314">314</cite>, <cite doc="Cal. Penal Code" path="§415">415</cite>, <cite doc="Cal. Penal Code" path="§316">316</cite>, <cite doc="Cal. Penal Code" path="§318">318</cite>, <cite doc="Cal. Penal Code" path="§647">647</cite>(a), (b), (as now written or as amended), or convictions of crimes designated in <cite doc="Cal. Gov't Code" path="§51032|(b)">Government Code Section 51032(b)</cite> or <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702">Business and Professions Code Section 22702</cite> et. seq., or any crime involving dishonesty, fraud, deceit, violence or moral turpitude. Convictions under the laws of other states or countries which proscribe the same conduct or similar conduct as the adore-designated California crimes shall be provided. Convictions that have been expunged must be reported. All injunctions for nuisances under <cite doc="Cal. Penal Code" path="§11225">Penal Code Section 11225</cite> or similar laws.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -3504,7 +3504,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The applicant, if an individual, or any of the stockholders of the corporation, or any officers or director, if the applicant is a corporation; or a partner if the applicant is a partnership, or the managing responsible officer has not been convicted within 5 years preceding application in a court of competent jurisdiction of an offense involving conduct which requires registration under <cite doc="Cal. Penal Code" path="§290" proof="true">California Penal Code Section 290</cite>, or of conduct which is a violation of the provisions of <cite doc="Cal. Penal Code" proof="true">California Penal code</cite> Sections 314, 315, 316, 318, 647(a), (b), (as now written or as amended), violation of Chapter 5.44 of the Municipal Code or of crimes that are designated in <cite doc="Cal. Gov’t Code" path="§51032|(b)" proof="true">Government Code Section 51032(b)</cite> or <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702" proof="true">Business and Professions Code Section 22702</cite> et. seq., or any other crime involving dishonest, fraud, deceit, violence or moral turpitude; or that an injunction has not been issued under <cite doc="Cal. Penal Code" path="§11225." proof="true">Penal Code Section 11225.</cite> Convictions under the laws of other states or countries which proscribe the same or similar conduct as the adore-designated California crimes shall be considered.</text>
+          <text>The applicant, if an individual, or any of the stockholders of the corporation, or any officers or director, if the applicant is a corporation; or a partner if the applicant is a partnership, or the managing responsible officer has not been convicted within 5 years preceding application in a court of competent jurisdiction of an offense involving conduct which requires registration under <cite doc="Cal. Penal Code" path="§290" proof="true">California Penal Code Section 290</cite>, or of conduct which is a violation of the provisions of <cite doc="Cal. Penal Code" proof="true">California Penal code</cite> Sections <cite doc="Cal. Penal Code" path="§314">314</cite>, <cite doc="Cal. Penal Code" path="§315">315</cite>, <cite doc="Cal. Penal Code" path="§316">316</cite>, <cite doc="Cal. Penal Code" path="§318">318</cite>, <cite doc="Cal. Penal Code" path="§647">647</cite>(a), (b), (as now written or as amended), violation of <cite path="5.44">Chapter 5.44</cite> of the Municipal Code or of crimes that are designated in <cite doc="Cal. Gov't Code" path="§51032|(b)">Government Code Section 51032(b)</cite> or <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702">Business and Professions Code Section 22702</cite> et. seq., or any other crime involving dishonest, fraud, deceit, violence or moral turpitude; or that an injunction has not been issued under <cite doc="Cal. Penal Code" path="§11225">Penal Code Section 11225</cite>. Convictions under the laws of other states or countries which proscribe the same or similar conduct as the adore-designated California crimes shall be considered.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -3560,7 +3560,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Records. Every establishment shall keep a written record of the name and address of each patron and the date and hour of service, and of all hours worked by employees. Such written record, as well as those required by <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite> Sections 22700 et seq. shall be open to inspection only by officials charged with the enforcement of <cite path="5.49" proof="true">this chapter</cite> and for no other purpose. Such records will be kept on the premises of the establishment for a period of two years.</text>
+          <text>Records. Every establishment shall keep a written record of the name and address of each patron and the date and hour of service, and of all hours worked by employees. Such written record, as well as those required by <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite> Sections 22700 et seq. shall be open to inspection only by officials charged with the enforcement of <cite path="5.49">this chapter</cite> and for no other purpose. Such records will be kept on the premises of the establishment for a period of two years.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -3739,7 +3739,7 @@
     <prefix>Chapter</prefix>
     <num>5.60</num>
     <heading>PUBLIC DANCES</heading>
-    <annotation>For the statutory provisions directing the mayor or Chief of Police to provide a sufficient number of police to attend and keep the peace at public meetings see <cite doc="Cal. Gov’t Code" path="§38638." proof="true">Cal. Gov. C.A. § 38638.</cite> For the license fee for a public dance, see <cite path="5.24.210" proof="true">Section 5.24.210</cite>.</annotation>
+    <annotation>For the statutory provisions directing the mayor or Chief of Police to provide a sufficient number of police to attend and keep the peace at public meetings see <cite doc="Cal. Gov't Code" path="§38638">Cal. Gov. C.A. § 38638</cite>. For the license fee for a public dance, see <cite path="5.24.210">Section 5.24.210</cite>.</annotation>
     <section>
       <num>5.60.010</num>
       <heading>DEFINITIONS.</heading>
@@ -4218,7 +4218,7 @@
     <prefix>Chapter</prefix>
     <num>5.75</num>
     <heading>TAXICABS—PUBLIC VEHICLES</heading>
-    <annotation>For the statutory authority of local authorities within the reasonable exercise of their police power to license and regulate the operation of any vehicle for hire and the drivers of passenger vehicles for hire see <cite doc="Cal. Veh. Code" path="§16501." proof="true">Cal. Veh. C.A. § 16501.</cite> For the provisions regarding carriers generally see Cal. C. C.A. § 2085 et seq. See also Cal. Pub. U. C.A. §§ 200 et seq. For the provisions regarding financial responsibility see <cite doc="Cal. Veh. Code" proof="true">Cal. Veh. C.A.</cite> §§ 16550 et seq.</annotation>
+    <annotation>For the statutory authority of local authorities within the reasonable exercise of their police power to license and regulate the operation of any vehicle for hire and the drivers of passenger vehicles for hire see <cite doc="Cal. Veh. Code" path="§16501">Cal. Veh. C.A. § 16501</cite>. For the provisions regarding carriers generally see Cal. C. C.A. § 2085 et seq. See also Cal. Pub. U. C.A. §§ 200 et seq. For the provisions regarding financial responsibility see <cite doc="Cal. Veh. Code" proof="true">Cal. Veh. C.A.</cite> §§ 16550 et seq.</annotation>
     <section>
       <num>5.75.010</num>
       <heading>DEFINITIONS.</heading>
@@ -4623,7 +4623,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Able to provide the City with negative test results for alcohol and controlled substances pursuant to <cite doc="Cal. Gov’t Code" path="§53075.5" proof="true">Government Code Section 53075.5</cite>;</text>
+        <text>Able to provide the City with negative test results for alcohol and controlled substances pursuant to <cite doc="Cal. Gov't Code" path="§53075.5" proof="true">Government Code Section 53075.5</cite>;</text>
       </para>
       <para>
         <num>(6)</num>
@@ -4640,7 +4640,7 @@
     <section>
       <num>5.75.175</num>
       <heading>DRIVER'S PERMIT—RENEWAL.</heading>
-      <text>Drivers are required to renew their permit prior to expiration on June 30th of each year. Renewal of the permit is conditioned on the Police Department receiving evidence of a driver's negative test results for alcohol and controlled substances as outlined in <cite doc="Cal. Gov’t Code" path="§53075.5" proof="true">Government Code Section 53075.5</cite>, and a copy of the applicant's State driver's license status that is dated no more than 10 days before presentation to the Police Department. Drivers who fail to present the mandatory test results and license status report before August 30th may be subject to a $25.00 late fee and eventual revocation of the permit.</text>
+      <text>Drivers are required to renew their permit prior to expiration on June 30th of each year. Renewal of the permit is conditioned on the Police Department receiving evidence of a driver's negative test results for alcohol and controlled substances as outlined in <cite doc="Cal. Gov't Code" path="§53075.5" proof="true">Government Code Section 53075.5</cite>, and a copy of the applicant's State driver's license status that is dated no more than 10 days before presentation to the Police Department. Drivers who fail to present the mandatory test results and license status report before August 30th may be subject to a $25.00 late fee and eventual revocation of the permit.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-28" path="§11" type="History"/>
       </annotations>
@@ -4740,7 +4740,7 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>The driver tests positive for alcohol or controlled substances as outlined in <cite doc="Cal. Gov’t Code" path="§53075.5" proof="true">Government Code Section 53075.5</cite>;</text>
+        <text>The driver tests positive for alcohol or controlled substances as outlined in <cite doc="Cal. Gov't Code" path="§53075.5" proof="true">Government Code Section 53075.5</cite>;</text>
       </para>
       <para>
         <num>(7)</num>
@@ -5195,7 +5195,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>The applicant has not been convicted of a violation of <cite doc="Cal. Penal Code" path="§311" proof="true">California Penal Code Section 311</cite> through 311.7, 314 through 316, 318, or 647 (a), (b), (d) or (h), or <cite doc="Cal. Health &amp; Safety Code" path="§11351" proof="true">California Health and Safety Code Section 11351</cite> through 11354, 11358 through 11363, 11378 through 11380 or 11383;</text>
+        <text>The applicant has not been convicted of a violation of <cite doc="Cal. Penal Code" path="§311">California Penal Code Section 311</cite> through 311.7, 314 through 316, 318, or 647 (a), (b), (d) or (h), or <cite doc="Cal. Health &amp; Safety Code" path="§11351">California Health and Safety Code Section 11351</cite> through 11354, 11358 through 11363, 11378 through 11380 or 11383;</text>
       </para>
       <para>
         <num>(4)</num>
@@ -5299,7 +5299,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>A retail establishment may provide one or more recycled paper bags at no cost to any of the following individuals; a customer participating in the California Special Supplement Food Program for Women, Infants, and Children pursuant to Article 2 (commencing with Section 123275) of Chapter 1 of Part 2 of Division <cite doc="Cal. Health &amp; Safety Code" path="§106" proof="true">106 of the Health and Safety Code</cite>; a customer participating in the Supplemental Food Program pursuant to Chapter 10 (commencing with Section 15500) of Part 3 of Division 9 of the <cite doc="Cal. Welf. &amp; Inst. Code" proof="true">California Welfare and Institutions Code</cite>; and a customer participating in CalFresh pursuant to Chapter 10 (commencing with Section 18900) of Part 6 of Division 9 of the <cite doc="Cal. Welf. &amp; Inst. Code" proof="true">California Welfare and Institutions Code</cite>.</text>
+        <text>A retail establishment may provide one or more recycled paper bags at no cost to any of the following individuals; a customer participating in the California Special Supplement Food Program for Women, Infants, and Children pursuant to Article 2 (commencing with Section 123275) of Chapter 1 of Part 2 of Division <cite doc="Cal. Health &amp; Safety Code" path="§106">106 of the Health and Safety Code</cite>; a customer participating in the Supplemental Food Program pursuant to Chapter 10 (commencing with Section 15500) of Part 3 of Division <cite doc="Cal. Welf. &amp; Inst. Code" path="§9">9 of the California Welfare and Institutions Code</cite>; and a customer participating in CalFresh pursuant to Chapter 10 (commencing with Section 18900) of Part 6 of Division <cite doc="Cal. Welf. &amp; Inst. Code" path="§9">9 of the California Welfare and Institutions Code</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-7" path="§1" type="History"/>
@@ -5555,7 +5555,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Qualifies as an employee entitled to payment of a minimum wage from any employer under the California Minimum Wage Law, as provided under <cite doc="Cal. Lab. Code" path="§1197" proof="true">Section 1197 of the California Labor Code</cite> and wage orders published by the State of California Industrial Welfare Commission. Employees shall include learners, as defined by the California Industrial Welfare Commission.</text>
+          <text>Qualifies as an employee entitled to payment of a minimum wage from any employer under the California Minimum Wage Law, as provided under <cite doc="Cal. Lab. Code" path="§1197">Section 1197 of the California Labor Code</cite> and wage orders published by the State of California Industrial Welfare Commission. Employees shall include learners, as defined by the California Industrial Welfare Commission.</text>
         </para>
       </para>
       <para>
@@ -5679,7 +5679,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>Interest on all due and unpaid wages at the rate of interest specified in subsection (b) of <cite doc="Cal. Civ. Code" path="§3289" proof="true">Section 3289 of the California Civil Code</cite>, which shall accrue from the date that the wages were due and payable as provided in Part 1 (commencing with Section 200) of Division 2 of the <cite doc="Cal. Lab. Code" proof="true">California Labor Code</cite>, to the date the wages are paid in full.</text>
+            <text>Interest on all due and unpaid wages at the rate of interest specified in subsection (b) of <cite doc="Cal. Civ. Code" path="§3289">Section 3289 of the California Civil Code</cite>, which shall accrue from the date that the wages were due and payable as provided in Part 1 (commencing with Section 200) of Division <cite doc="Cal. Lab. Code" path="§2">2 of the California Labor Code</cite>, to the date the wages are paid in full.</text>
           </para>
           <para>
             <num>(C)</num>

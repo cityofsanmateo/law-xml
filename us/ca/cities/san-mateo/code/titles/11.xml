@@ -7,7 +7,7 @@
     <prefix>Chapter</prefix>
     <num>11.04</num>
     <heading>GENERAL PROVISIONS</heading>
-    <annotation>For statutory provisions regarding the regulation of traffic by local authorities, see <cite doc="Cal. Veh. Code" path="§21100" proof="true">Cal. Veh. C.A. § 21100</cite> et seq. For the general State laws regarding the use an operation of motor vehicles upon the highways of the state see the <cite doc="Cal. Veh. Code" proof="true">California Vehicle Code</cite>.</annotation>
+    <annotation>For statutory provisions regarding the regulation of traffic by local authorities, see <cite doc="Cal. Veh. Code" path="§21100">Cal. Veh. C.A. § 21100</cite> et seq. For the general State laws regarding the use an operation of motor vehicles upon the highways of the state see the <cite doc="Cal. Veh. Code" proof="true">California Vehicle Code</cite>.</annotation>
     <section>
       <num>11.04.010</num>
       <heading>POLICE OFFICERS—DUTIES.</heading>
@@ -197,7 +197,7 @@
     <prefix>Chapter</prefix>
     <num>11.12</num>
     <heading>DRIVING RULES</heading>
-    <annotation>For statutory provisions prohibiting driving on sidewalks, see <cite doc="Cal. Veh. Code" path="§21663" proof="true">Cal. Veh. C.A. § 21663</cite>; for the provisions regarding interference with Fire Apparatus, see <cite doc="Cal. Veh. Code" proof="true">Cal. Veh. C.A.</cite> §§ 21706-21708; for the provision regarding the seating of passengers on a motorcycle, see <cite doc="Cal. Veh. Code" path="§27800." proof="true">Cal. Veh. C.A. § 27800.</cite></annotation>
+    <annotation>For statutory provisions prohibiting driving on sidewalks, see <cite doc="Cal. Veh. Code" path="§21663">Cal. Veh. C.A. § 21663</cite>; for the provisions regarding interference with Fire Apparatus, see <cite doc="Cal. Veh. Code" proof="true">Cal. Veh. C.A.</cite> §§ <cite doc="Cal. Veh. Code" path="§21706">21706</cite>-<cite doc="Cal. Veh. Code" path="§21708">21708</cite>; for the provision regarding the seating of passengers on a motorcycle, see <cite doc="Cal. Veh. Code" path="§27800">Cal. Veh. C.A. § 27800</cite>.</annotation>
     <section>
       <num>11.12.010</num>
       <heading>DRIVING THROUGH FUNERAL PROCESSION.</heading>
@@ -270,7 +270,7 @@
     <prefix>Chapter</prefix>
     <num>11.16</num>
     <heading>TURNING—STOPPING</heading>
-    <annotation>For statutory provisions regarding turning and stopping signals, see <cite doc="Cal. Veh. Code" path="§22100" proof="true">Cal. Veh. C.A. § 22100</cite> et seq. For the statutory authority of local authorities to prohibit the making of any turning movement by any vehicle at any intersection or between any designated intersections, see <cite doc="Cal. Veh. Code" path="§22113." proof="true">Cal. Veh. C.A. § 22113.</cite> For the provisions regarding special stops, see <cite doc="Cal. Veh. Code" path="§22450" proof="true">Cal. Veh. C.A. § 22450</cite> et seq.</annotation>
+    <annotation>For statutory provisions regarding turning and stopping signals, see <cite doc="Cal. Veh. Code" path="§22100">Cal. Veh. C.A. § 22100</cite> et seq. For the statutory authority of local authorities to prohibit the making of any turning movement by any vehicle at any intersection or between any designated intersections, see <cite doc="Cal. Veh. Code" path="§22113">Cal. Veh. C.A. § 22113</cite>. For the provisions regarding special stops, see <cite doc="Cal. Veh. Code" path="§22450">Cal. Veh. C.A. § 22450</cite> et seq.</annotation>
     <section>
       <num>11.16.010</num>
       <heading>PROHIBITED LEFT TURN—SIGNS.</heading>
@@ -397,7 +397,7 @@
     <prefix>Chapter</prefix>
     <num>11.20</num>
     <heading>TRAFFIC—CONTROL DEVICES</heading>
-    <annotation>For the statutory provisions regarding the erection and maintenance of traffic control devices, see <cite doc="Cal. Veh. Code" path="§21350" proof="true">Cal. Veh. C.A. § 21350</cite> et seq. For the provisions regarding the description of traffic control devices see <cite doc="Cal. Veh. Code" path="§21400" proof="true">Cal. Veh. C.A. § 21400</cite> et seq. For the provisions relating to traffic control devices see <cite doc="Cal. Veh. Code" path="§21450" proof="true">Cal. Veh. C.A. § 21450</cite> et seq.</annotation>
+    <annotation>For the statutory provisions regarding the erection and maintenance of traffic control devices, see <cite doc="Cal. Veh. Code" path="§21350">Cal. Veh. C.A. § 21350</cite> et seq. For the provisions regarding the description of traffic control devices see <cite doc="Cal. Veh. Code" path="§21400">Cal. Veh. C.A. § 21400</cite> et seq. For the provisions relating to traffic control devices see <cite doc="Cal. Veh. Code" path="§21450">Cal. Veh. C.A. § 21450</cite> et seq.</annotation>
     <section>
       <num>11.20.010</num>
       <heading>ERECTION AUTHORITY.</heading>
@@ -559,7 +559,7 @@
     <prefix>Chapter</prefix>
     <num>11.28</num>
     <heading>RESTRICTED USE OF STREETS</heading>
-    <annotation>For statutory provisions regarding size, weight and load restrictions see <cite doc="Cal. Veh. Code" path="§35000" proof="true">Cal. Veh. C.A. § 35000</cite> et seq. For the statutory authority of cities to set by ordinance a maximum gross weight allowable on certain streets see <cite doc="Cal. Veh. Code" path="§35701." proof="true">Cal. Veh. C.A. § 35701.</cite></annotation>
+    <annotation>For statutory provisions regarding size, weight and load restrictions see <cite doc="Cal. Veh. Code" path="§35000">Cal. Veh. C.A. § 35000</cite> et seq. For the statutory authority of cities to set by ordinance a maximum gross weight allowable on certain streets see <cite doc="Cal. Veh. Code" path="§35701">Cal. Veh. C.A. § 35701</cite>.</annotation>
     <section>
       <num>11.28.010</num>
       <heading>CENTRAL TRAFFIC DISTRICT—PROHIBITED VEHICLES.</heading>
@@ -764,7 +764,7 @@
       <text>The following words and phrases, whenever used in <cite path="11.32.030">Section 11.32.030</cite>, shall be construed as defined in this section:</text>
       <para>
         <num>(a)</num>
-        <text>"Commercial vehicle" shall have the meaning set forth in State <cite doc="Cal. Veh. Code" path="§260." proof="true">Vehicle Code Section 260.</cite></text>
+        <text>"Commercial vehicle" shall have the meaning set forth in State <cite doc="Cal. Veh. Code" path="§260">Vehicle Code Section 260</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -796,7 +796,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>"Recreational vehicle" shall have the meaning set forth in <cite doc="Cal. Health &amp; Safety Code" path="§18010." proof="true">Health and Safety Code Section 18010.</cite></text>
+        <text>"Recreational vehicle" shall have the meaning set forth in <cite doc="Cal. Health &amp; Safety Code" path="§18010">Health and Safety Code Section 18010</cite>.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -804,11 +804,11 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>"Trailer" shall have the meaning set forth in <cite doc="Cal. Veh. Code" path="§630." proof="true">Vehicle Code Section 630.</cite></text>
+        <text>"Trailer" shall have the meaning set forth in <cite doc="Cal. Veh. Code" path="§630">Vehicle Code Section 630</cite>.</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>"Vehicle" shall have the meaning set forth in <cite doc="Cal. Veh. Code" path="§670." proof="true">Vehicle Code Section 670.</cite></text>
+        <text>"Vehicle" shall have the meaning set forth in <cite doc="Cal. Veh. Code" path="§670">Vehicle Code Section 670</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-8" path="§1" type="History"/>
@@ -1242,7 +1242,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Pursuant to the authority granted by <cite doc="Cal. Veh. Code" path="§22651" proof="true">Section 22651 of the Vehicle Code</cite> of the state, any officer of the Police Department of the City or any regularly employed or salaried employee who is engaged in directing traffic or enforcing parking laws and regulations of the City may remove a vehicle from any street, alley or other public way within the City to the nearest public garage or other place of safety, or to a garage designated or maintained by the City, under the following circumstances:</text>
+        <text>Pursuant to the authority granted by <cite doc="Cal. Veh. Code" path="§22651">Section 22651 of the Vehicle Code</cite> of the state, any officer of the Police Department of the City or any regularly employed or salaried employee who is engaged in directing traffic or enforcing parking laws and regulations of the City may remove a vehicle from any street, alley or other public way within the City to the nearest public garage or other place of safety, or to a garage designated or maintained by the City, under the following circumstances:</text>
         <para>
           <num>(1)</num>
           <text>When a vehicle is parked or left standing upon a street, alley or other public way, for 72 or more consecutive hours in violation of this section.</text>
@@ -1802,7 +1802,7 @@
     <prefix>Chapter</prefix>
     <num>11.56</num>
     <heading>BICYCLES</heading>
-    <annotation>For the statutory provisions regarding the regulation of the operation of bicycles, see <cite doc="Cal. Veh. Code" path="§21200" proof="true">Veh. Code § 21200</cite> et seq. For the provision granting local authorities the power to provide additional consistent regulations by ordinance, see <cite doc="Cal. Veh. Code" path="§21206." proof="true">Veh. Code § 21206.</cite></annotation>
+    <annotation>For the statutory provisions regarding the regulation of the operation of bicycles, see <cite doc="Cal. Veh. Code" path="§21200">Veh. Code § 21200</cite> et seq. For the provision granting local authorities the power to provide additional consistent regulations by ordinance, see <cite doc="Cal. Veh. Code" path="§21206">Veh. Code § 21206</cite>.</annotation>
     <section>
       <num>11.56.010</num>
       <heading>LICENSE—REQUIRED—DEFINITION.</heading>
@@ -1912,7 +1912,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge, subject to the provisions of <cite doc="Cal. Veh. Code" path="§21656." proof="true">California Vehicle Code Section 21656.</cite> For purposes of this section, a "substandard width lane" is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.</text>
+          <text>When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge, subject to the provisions of <cite doc="Cal. Veh. Code" path="§21656">California Vehicle Code Section 21656</cite>. For purposes of this section, a "substandard width lane" is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.</text>
         </para>
       </para>
       <para>
