@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2016-3">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2016-3">
   <num>2016-3</num>
   <heading>AN ORDINANCE OF THE CITY OF SAN MATEO AMENDING MUNICIPAL CODE CHAPTER 23.72 RELATING TO WATER CONSERVATION IN LANDSCAPING REGULATIONS</heading>
   <meta>
@@ -9,4 +9,1415 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2016-3</citation>
     </citations>
   </meta>
+  <text>THIS ORDINANCE is adopted in light of the following facts and circumstances, which are hereby found and declared by the City Council.</text>
+  <text>WHEREAS, a reliable minimum supply of potable water is essential to the public health, safety and welfare of the people and economy of the City of San Mateo, California.</text>
+  <text>WHEREAS, the California Water Conservation in Landscaping Act, also known as the State Landscape Model Ordinance ("Model Ordinance"), has been implemented by a Statewide Landscape Task Force which was overseen by the California Urban Water Conservation Council.  The California Water Conservation in Landscaping Act was amended pursuant to AB 2717 (Chapter 682, Stats. 2004) and AB 1881 (Chapter 559, Stats. 2006).</text>
+  <text>WHEREAS, AB 1881 required cities and counties, no later than January 1, 2010, to adopt the updated Model Ordinance or an equivalent document which is "at least as effective as" the Model Ordinance in conserving water.  In the event cities and counties did not take such action, the State's Model Ordinance were deemed to be automatically adopted by statute.</text>
+  <text>WHEREAS, The City Council adopted a Water Conservation in Landscaping Ordinance on February 17, 2015 to comply with the requirement of AB 1881.</text>
+  <text>WHEREAS, Governor Brown issued Executive Order B-29 on April 1, 2015 which directed State agencies to implement immediate measures to save water, increase enforcement against water waste, and streamline government response to ongoing drought conditions.</text>
+  <text>WHEREAS, Executive Order B-29 directed the Department of Water Resources ("DWR") to update the State Model Ordinance through expedited regulation to increase water efficiency standards for new and existing landscapes through more efficient standards, greywater usage, onsite storm water capture, and limitations of the portions of landscape that can be covered in turf.</text>
+  <text>WHEREAS, the California Water Commission approved the proposed revisions to the State Model Ordinance on July 15, 2015.</text>
+  <text>WHEREAS, local agencies are required to adopt the revised State Model Ordinance or adopt a local or regional ordinance at least as effective in conserving water.</text>
+  <text>WHEREAS, the City of San Mateo has developed this regional Water Conservation In Landscaping Ordinance in conjunction with the Bay Area Water Supply and Conservation Agency and other local agencies to meet the requirements and guidelines of the Model Ordinance and to address the unique physical characteristics, including average landscaped areas, within the City of San Mateo jurisdiction in order to ensure that this Ordinance will be "at least as effective as" the Model Ordinance in conserving water.</text>
+  <text>WHEREAS, although this Water Conservation in Landscaping Ordinance is more streamlined and simplified than the Model Ordinance, the City Council finds that it is "at least as effective as" the Model Ordinance for the following reasons: (1) this Ordinance applies to more accounts than the Model Ordinance does because it lowers the size threshold for applicable rehabilitated landscapes from 2,500 square feet to 1,000 square feet, to better reflect the typical landscaped areas located within this City's boundaries; (2) this Ordinance includes a default turf restriction of no turf or high water use plants in the irrigated area and requires that at least 80% of the plants in non-turf landscape areas be native plants, low-water using plants, or no-water using plants (unless the applicant elects to perform a water budget); (3) this Ordinance requires covers on newly constructed pools and spas.  The Model Ordinance does not contain any such default turf restrictions or specified plant requirements.</text>
+  <text>WHEREAS, although this Water Conservation in Landscaping Ordinance is more streamlined and simplified than the Model Ordinance, the City Council further finds that it is "at least as effective as" the Model Ordinance because this Ordinance includes water budget parameters and values and landscape parameters that are consistent with the Model Ordinance. By using the same water budget parameters as the Model Ordinance (e.g., plant factors, irrigation efficiency), this Ordinance will be as effective as the Model Ordinance in developing landscape water budgets.  By using the same landscape parameters as the Model Ordinance for, among other things, slope restrictions and width restrictions for turf, irrigation times, and minimum mulch requirements, this Ordinance will be at least as effective as the Model Ordinance in achieving water savings.</text>
+  <text>WHEREAS, Article X, Section 2 of the California Constitution and Section 100 of the California Water Code declare that the general welfare requires water resources be put to beneficial use, waste or unreasonable use or unreasonable method of use of water be prevented, and conservation of water be fully exercised with a view to the reasonable and beneficial use thereof.</text>
+  <text>WHEREAS, the City Council finds and determines that this Ordinance is consistent with the provisions requiring reductions in outdoor water use for landscaping in the California Green Building Standards Code, as such provisions will be implemented in the coming years.  Such requirements include the development of a water budget for landscape irrigation in accordance with methodology outlined in either the Model Ordinance or pursuant to a locally adopted ordinance.</text>
+  <text>WHEREAS, the State Legislature has identified the provision of a more reliable water supply and the protection, restoration and enhancement of the Delta ecosystem as a high priority for the state.  Pursuant to this, in November 2009, the State Legislature passed Senate Bill 7 (7th Extraordinary Session) requiring certain urban water suppliers to reduce per capita urban water use by 20% by the year 2020.  Accordingly, the City Council finds that implementation of this Ordinance is consistent with the policies and goals established by the State Legislature in enacting SB 7 (7th Extraordinary Session).</text>
+  <text>WHEREAS, for Cities Article XI, Section 7 of the California Constitution declares that a city or county may make and enforce within its limits all local, policy, sanitary, and other ordinances and regulations not in conflict with general laws.</text>
+  <text>WHEREAS, for Cities who are not water purveyors pursuant to AB 1881, enforcement of the landscape conservation ordinance adopted by the City of San Mateo will require supportive measures by California Water Company, the local water provider within these jurisdictions, so as to ensure the successful implementation and enforcement of this Ordinance.</text>
+  <text>WHEREAS, the adoption and enforcement of this Ordinance is necessary to manage the City's potable water supply in the short and long-term and to avoid or minimize the effects of drought and shortage within City.  This Ordinance is essential to ensure a reliable and sustainable minimum supply of water for the public health, safety and welfare.</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO DOES ORDAIN AS FOLLOWS:</text>
+  <section>
+    <num>1</num>
+    <text>Chapter 23.72, of Title 23, "Water Conservation in Landscaping," of Title 23 of the San Mateo Municipal Code is amended to read as follows:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>23.72</num>
+        <heading>WATER CONSERVATION IN LANDSCAPING</heading>
+        <section>
+          <num>23.72.010</num>
+          <heading>APPLICABILITY.</heading>
+          <para>
+            <num>(a)</num>
+            <text>This Chapter shall apply to the following landscape projects:</text>
+            <para>
+              <num>(1)</num>
+              <text>New construction projects with an aggregate landscape area equal to or</text>
+            </para>
+            <text>greater than 500 square feet requiring a building or landscape permit, plan check or design review; and</text>
+            <para>
+              <num>(2)</num>
+              <text>Rehabilitated landscape projects with an aggregate landscape area equal to or greater than 1,000 square feet requiring a building or landscape permit, plan check, or design review;</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Existing landscapes, including existing cemeteries and parks, shall only be subject to the provisions for existing landscapes provided for in Section 23.72.180, "Provisions for existing landscapes over one acre in size."</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>New and rehabilitated cemeteries and parks shall only be subject to the provisions of Sections 23.72.070, "Water budget calculations," 23.72.120 "Landscape audit report," and 23.72.140, "Landscape and irrigation maintenance schedule."</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Any project with an aggregate landscape area of 2,500 square feet or less may comply either with the performance requirements of this Chapter or conform to the Prescriptive Measures developed by staff and on file with the City's Building Division</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>For projects using treated or untreated graywater or rainwater captured on site, any lot or parcel within the project that has less than 2,500 sq. ft. of landscape and meets the lot or parcel's landscape water requirement (Estimated Total Water Use) entirely with treated or untreated graywater or through stored rainwater captured on site is subject only to the irrigation system requirements of the Prescriptive Measures as developed by staff and on file with the City's Building Division.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The provisions of this Chapter shall not apply to:</text>
+            <para>
+              <num>(1)</num>
+              <text>New construction with irrigated landscape areas less than 500 square feet or landscapes that do not require a building or landscape permit, plan check or design review, or new or expanded water service;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Landscapes, or portions of landscapes, that are only irrigated for an establishment period;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Registered local, state or federal historical sites where landscaping establishes a historical landscape style, as determined by a public board or commission responsible for architectural review or historic preservation;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Ecological restoration or mined-land reclamation projects that do not require a permanent irrigation system; or</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Community gardens or plant collections, as part of botanical gardens and arboretums open to the public, agricultural uses, commercial nurseries and sod farms. (Ord. 2015-3 § 1)</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.72.020</num>
+          <heading>DEFINITIONS.</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>"Applied water"</strong> means the portion of water supplied by the irrigation system to the landscape.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>"Automatic irrigation controller"</strong> means an automatic timing device used to remotely control valves that operate an irrigation system. Automatic irrigation controllers schedule irrigation events using either evapotranspiration (weather-based) or soil moisture data.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>"Backflow prevention device"</strong> means a safety device used to prevent pollution or contamination of the water supply due to the reverse flow of water from the irrigation system.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>"Certificate of Completion"</strong> means the document required in Section 23.72.110.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><strong>"Certified irrigation designer"</strong> means a person certified to design irrigation systems by an accredited academic institution, a professional trade organization or other program such as the U.S. Environmental Protection Agency's WaterSense irrigation designer certification program and Irrigation Association's Certified Irrigation Designer program.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><strong>"Certified landscape irrigation auditor"</strong> means a person certified to perform landscape irrigation audits by an accredited academic institution, a professional trade organization or other program such as the U.S. Environmental Protection Agency's WaterSense irrigation auditor certification program and Irrigation Association's Certified Landscape Irrigation Auditor program.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><strong>"Check valve"</strong> or <strong>"anti-drain valve"</strong> means a valve located under a sprinkler head, or other location in the irrigation system, to hold water in the system to prevent drainage from sprinkler heads when the sprinkler is off.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text><strong>"Common interest developments"</strong> means community apartment projects, condominium projects, planned developments, and stock cooperatives per Civil Code Section 1351.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><strong>"Compost"</strong> means the safe and stable product of controlled biologic decomposition of organic materials that is beneficial to plant growth.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text><strong>"Conversion factor (0.62)"</strong> means the number that converts acre-inches per acre per year to gallons per square foot per year.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text><strong>"Distribution uniformity"</strong> means the measure of the uniformity of irrigation water over a defined area.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text><strong>"Drip irrigation"</strong> means any non-spray low volume irrigation system utilizing emission devices with a flow rate measured in gallons per hour. Low volume irrigation systems are specifically designed to apply small volumes of water slowly at or near the root zone of plants.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text><strong>"Ecological restoration"</strong> means a project where the site is intentionally altered to establish a defined, indigenous, historic ecosystem.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text><strong>"Effective precipitation (Eppt)"</strong> or<strong> "usable rainfall" </strong>means the portion of total precipitation which becomes available for plant growth.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text><strong>"Emitter"</strong> means a drip irrigation emission device that delivers water slowly from the system to the soil.</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text><strong>"Established landscape"</strong> means the point at which plants in the landscape have developed significant root growth into the soil. Typically, most plants are established after one or two years of growth.</text>
+          </para>
+          <para>
+            <num>(q)</num>
+            <text><strong>"Establishment period"</strong> means the length of time necessary for a plant to become established as set forth in 23 Cal Code of Rqs. §491.</text>
+          </para>
+          <para>
+            <num>(r)</num>
+            <text><strong>"Estimated total water use (ETWU)"</strong> means the total water used for the landscape as described in Section 23.72.070 "Water budget calculations."</text>
+          </para>
+          <para>
+            <num>(s)</num>
+            <text><strong>"ETAF"</strong> or <strong>"ET adjustment factor"</strong> means a factor of 0.55 for residential areas and 0.45 for non-residential areas, that, when applied to reference evapotranspiration, adjusts for plant factors and irrigation efficiency, two major influences upon the amount of water that needs to be applied to the landscape. ETAF for new and existing (non-rehabilitated) Special Landscape Areas shall not exceed 1.0. ETAF for existing non-rehabilitated landscapes is 0.8.</text>
+          </para>
+          <para>
+            <num>(t)</num>
+            <text><strong>"Evapotranspiration rate"</strong> means the quantity of water evaporated from adjacent soil and other surfaces and transpired by plants during a specified time.</text>
+          </para>
+          <para>
+            <num>(u)</num>
+            <text><strong>"Flow rate"</strong> means the rate at which water flows through pipes, valves and emission devices, measured in gallons per minute, gallons per hour, or cubic feet per second.</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text><strong>"Flow sensor"</strong> means an inline device installed at the supply point of the irrigation system that produces a repeatable signal proportional to flow rate. Flow sensors must be connected to an automatic irrigation controller, or flow monitor capable of receiving flow signals and operating master valves. This combination flow sensor/controller may also function as a landscape water meter or submeter.</text>
+          </para>
+          <para>
+            <num>(w)</num>
+            <text><strong>"Friable"</strong> means a soil condition that is easily crumbled or loosely compacted down to a minimum depth per planting material requirements, whereby the root structure of newly planted material will be allowed to spread unimpeded.</text>
+          </para>
+          <para>
+            <num>(x)</num>
+            <text><strong>"Fuel Modification Plan Guideline"</strong> means guidelines from a local fire authority to assist residents and businesses that are developing land or building structures in a fire hazard severity zone.</text>
+          </para>
+          <para>
+            <num>(y)</num>
+            <text><strong>"Graywater"</strong> means untreated wastewater that has not been contaminated by any toilet discharge, has not been affected by infectious, contaminated, or unhealthy bodily wastes, and does not present a threat from contamination by unhealthful processing, manufacturing, or operating wastes. "Graywater" includes, but is not limited to, wastewater from bathtubs, showers, bathroom washbasins, clothes washing machines, and laundry tubs, but does not include wastewater from kitchen sinks or dishwashers. (Health and Safety Code Section 17922.12.)</text>
+          </para>
+          <para>
+            <num>(z)</num>
+            <text><strong>"Hardscapes"</strong> means any durable material (pervious and non-pervious).</text>
+          </para>
+          <para>
+            <num>(aa)</num>
+            <text><strong>"Hydrozone"</strong> means a portion of the landscaped area having plants with similar water needs and rooting depth. A hydrozone may be irrigated or non-irrigated.</text>
+          </para>
+          <para>
+            <num>(bb)</num>
+            <text><strong>"Infiltration rate" </strong>means the rate of water entry into the soil expressed as a depth of water per unit of time (e.g., inches per hour).</text>
+          </para>
+          <para>
+            <num>(cc)</num>
+            <text><strong>"Invasive plant species"</strong> means species of plants not historically found in California that spread outside cultivated areas and can damage environmental or economic resources. Invasive species may be regulated by county agricultural agencies as noxious species. Lists of invasive plants are maintained at the California Invasive Plant Inventory and USDA invasive and noxious weeds database.</text>
+          </para>
+          <para>
+            <num>(dd)</num>
+            <text><strong>"Irrigation audit"</strong> means an in-depth evaluation of the performance of an irrigation system conducted by a Certified Landscape Irrigation Auditor. An irrigation audit includes, but is not limited to: inspection, system tune-up, system test with distribution uniformity or emission uniformity, reporting overspray or runoff that causes overland flow, and preparation of an irrigation schedule. The audit must be conducted in a manner consistent with the Irrigation Association's Landscape Irrigation Auditor Certification program or other U.S. Environmental Protection Agency "Watersense" labeled auditing program.</text>
+          </para>
+          <para>
+            <num>(ee)</num>
+            <text><strong>"Irrigation efficiency</strong> or <strong>"IE"</strong> means the measurement of the amount of water beneficially used divided by the amount of water applied. Irrigation efficiency is derived from measurements and estimates of irrigation system characteristics and management practices. The irrigation efficiency for purposes of this chapter are 0.75 for overhead spray devices and 0.81 for drip systems.</text>
+          </para>
+          <para>
+            <num>(ff)</num>
+            <text><strong>"Irrigation survey"</strong> means an evaluation of an irrigation system that is less detailed than an irrigation audit. An irrigation survey includes, but is not limited to: inspection, system test, and written recommendations to improve performance of the irrigation system.</text>
+          </para>
+          <para>
+            <num>(gg)</num>
+            <text><strong>"Irrigation water use analysis"</strong> means an analysis of water use data based on meter readings and billing data.</text>
+          </para>
+          <para>
+            <num>(hh)</num>
+            <text><strong>"Landscape architect"</strong> means a person who holds a license to practice landscape architecture in California as further defined by the California Business and Professions Code, Section 5615.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text><strong>"Landscape area"</strong> means all the planting areas, turf areas, and water features in a landscape design plan subject to the Maximum Applied Water Allowance calculation. The landscape area does not include footprints of buildings or structures, sidewalks, driveways, parking lots, decks, patios, gravel or stone walks, other pervious or non-pervious hardscapes, other non-irrigated areas designated for non-development (e.g., open spaces and existing native vegetation).</text>
+          </para>
+          <para>
+            <num>(jj)</num>
+            <text><strong>"Landscape contractor"</strong> means a person licensed by the State of California to construct, maintain, repair, install, or subcontract the development of landscape systems.</text>
+          </para>
+          <para>
+            <num>(kk)</num>
+            <text><strong>"Landscape Documentation Package"</strong> means the documents required under Section 23.72.050.</text>
+          </para>
+          <para>
+            <num>(ll)</num>
+            <text><strong>"Landscape project"</strong> means the total area of landscape in a project as defined in "landscape area" for the purposes of this Chapter.</text>
+          </para>
+          <para>
+            <num>(mm)</num>
+            <text><strong>"Landscape water meter"</strong> means an inline device installed at the irrigation supply point that measures the flow of water into the irrigation system and is connected to a totalizer to record water use.</text>
+          </para>
+          <para>
+            <num>(nn)</num>
+            <text><strong>"Lateral line"</strong> means the water delivery pipeline that supplies water to the emitters or sprinklers from the valve.</text>
+          </para>
+          <para>
+            <num>(oo)</num>
+            <text><strong>"Local water purveyor"</strong> means any entity, including a public agency, city, county, district or private water company that provides retail water service.</text>
+          </para>
+          <para>
+            <num>(pp)</num>
+            <text><strong>"Low volume irrigation"</strong> means the application of irrigation water at low pressure through a system of tubing or lateral lines and low-volume emitters such as drip, drip lines, and bubblers. Low volume irrigation systems are specifically designed to apply small volumes of water slowly at or near the root zone of plants.</text>
+          </para>
+          <para>
+            <num>(qq)</num>
+            <text><strong>"Low water use plant"</strong> means a plant species whose water needs are compatible with local climate and soil conditions. Species classified as "very low water use" and "low water use" by WUCOLS, having a regionally adjusted plant factor of 0.0 through 0.3, shall be considered low water use plants.</text>
+          </para>
+          <para>
+            <num>(rr)</num>
+            <text><strong>"Main line"</strong> means the pressurized pipeline that delivers water from the water source to the valve or outlet.</text>
+          </para>
+          <para>
+            <num>(ss)</num>
+            <text><strong>"Master shut-off valve"</strong> is an automatic valve installed at the irrigation supply point which controls water flow into the irrigation system. When this valve is closed water will not be supplied to the irrigation system. A master valve will greatly reduce any water loss due to a leaky station valve.</text>
+          </para>
+          <para>
+            <num>(tt)</num>
+            <text><strong>"Maximum applied water allowance"</strong> or <strong>"MAWA"</strong> means the upper limit of annual applied water for the established landscaped area as specified in Section 23.72.070 "Water budget calculations. "It is based upon the area's reference evapotranspiration, the ET Adjustment Factor, and the size of the landscape area. The Estimated Total Water Use shall not exceed the Maximum Applied Water Allowance. Special Landscape Areas, including recreation areas, areas permanently and solely dedicated to edible plants such as orchards and vegetable gardens, and areas irrigated with recycled water are subject to the MAWA with a ETAF not to exceed 1.0 MAWA= (ETo) (0.62) [(ETAF x LA) + ((1-ETAF) x SLA)].</text>
+          </para>
+          <para>
+            <num>(uu)</num>
+            <text><strong>"Median"</strong> is an area between opposing lanes of traffic that may be unplanted or planted with trees, shrubs, perennials, and ornamental grasses.</text>
+          </para>
+          <para>
+            <num>(vv)</num>
+            <text><strong>"Mined-land reclamation projects"</strong> means any surface mining operation with a reclamation plan approved in accordance with the Surface Mining and Reclamation Act of 1975.</text>
+          </para>
+          <para>
+            <num>(ww)</num>
+            <text><strong>"Mulch"</strong> means any organic material such as leaves, bark, straw, compost, or inorganic mineral materials such as rocks, gravel, and decomposed granite left loose and applied to the soil surface for the beneficial purposes of reducing evaporation, suppressing weeds, moderating soil temperature, and preventing soil erosion.</text>
+          </para>
+          <para>
+            <num>(xx)</num>
+            <text><strong>"Native plant"</strong> means a plant indigenous to a specific area of consideration. For the purposes of these guidelines, the term shall refer to plants indigenous to the coastal ranges of Central and Northern California, and more specifically to such plants that are suited to the ecology of the present or historic natural community (ies) of the project's vicinity.</text>
+          </para>
+          <para proof="true">
+            <num>(aaa)</num>
+            <text><strong>"New construction"</strong> means, for the purposes of this chapter, a new building with landscape, or other new landscape such as a park, playground, or greenbelt without an associated building.</text>
+          </para>
+          <para>
+            <num>(bbb)</num>
+            <text><strong>"Non-residential landscape"</strong> means landscapes in commercial, institutional, industrial and public settings that may have areas designated for recreation or public assembly. It also includes portions of common areas of common interest developments with designated recreational areas and multifamily homes where landscaping is managed by a homeowners association or other common interest development.</text>
+          </para>
+          <para>
+            <num>(ccc)</num>
+            <text><strong>"No-water using plant"</strong> means a plant species with water needs that are compatible with local climate and soil conditions such that regular supplemental irrigation is not required to sustain the plant after it has become established.</text>
+          </para>
+          <para>
+            <num>(ddd)</num>
+            <text><strong>"Operating pressure"</strong> means the pressure at which the parts of an irrigation system are designed by the manufacturer to operate.</text>
+          </para>
+          <para>
+            <num>(eee)</num>
+            <text><strong>"Overspray"</strong> means the irrigation water which is delivered beyond the target area.</text>
+          </para>
+          <para>
+            <num>(fff)</num>
+            <text><strong>"Permit"</strong> means an authorizing document issued by local agencies for new construction or rehabilitated landscapes.</text>
+          </para>
+          <para>
+            <num>(ggg)</num>
+            <text><strong>"Pervious"</strong> means any surface or material that allows the passage of water through the material and into the underlying soil.</text>
+          </para>
+          <para>
+            <num>(hhh)</num>
+            <text><strong>"Plant factor"</strong> or <strong>"plant water use factor"</strong> is a factor, when multiplied by ETo, that estimates the amount of water needed by plants. For purposes of this chapter, the plant factor range for very low water use plants is 0 to 0.1, the plant factor range for low water use plants is 0.1 to 0.3. The plant factor range for moderate water use plants is 0.4 to 0.6, and the plant factor range for high water use plants is 0.7 to 1.0. Plant factors cited in this ordinance are derived from the publication "Water Use Classification of Landscape Species". Plant factors may also be obtained from horticultural researchers from academic institutions or professional associations as approved by the California Department of Water Resources (DWR).</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text><strong>"Project applicant"</strong> means the individual or entity submitting a project landscape application required under Section 23.72.050, to request a permit, plan check, or design review from the local agency. A Project Applicant may be the property owner or his or her designee.</text>
+          </para>
+          <para>
+            <num>(jjj)</num>
+            <text><strong>"Prescriptive measures"</strong> means the planting restrictions referenced in Section 23.72.010 as developed by the City and kept on file by the Building Division that allow a project applicant to meet the water efficiency goals of this chapter without requiring the completion of the water budget calculation referenced in Section 23.72.070.</text>
+          </para>
+          <para>
+            <num>(kkk)</num>
+            <text><strong>"Record drawing"</strong> or <strong>"as-builts"</strong> means a set of reproducible drawings which show significant changes in the work made during construction and which are usually based on drawings marked up in the field and other data furnished by the contractor.</text>
+          </para>
+          <para>
+            <num>(lll)</num>
+            <text><strong>"Recreational area"</strong> means areas, excluding private single family residential areas, designated for active play, recreation, or public assembly in parks, sports fields, picnic grounds, amphitheaters or golf course tees, fairway, roughs, surrounds and greens.</text>
+          </para>
+          <para>
+            <num>(mmm)</num>
+            <text><strong>"Recycled water"</strong> means treated or recycled waste water or reused water of a quality suitable for nonpotable uses such as landscape irrigation and water features. This water is not intended for human consumption.</text>
+          </para>
+          <para>
+            <num>(nnn)</num>
+            <text><strong>"Reference evapotranspiration"</strong> or <strong>"ETo"</strong> means a standard measurement of environmental parameters which affect the water use of plants. ETo is expressed in inches per day, month, or year, and is an estimate of the evapotranspiration of a large field of four-to-seven-inch tall, cool-season grass that is well watered. Reference evapotranspiration is used as the basis of determining the Maximum Applied Water Allowances so that regional differences in climate can be accommodated.</text>
+          </para>
+          <para>
+            <num>(ooo)</num>
+            <text><strong>"Rehabilitated landscape"</strong> means any re-landscaping project that requires a permit, plan check, design review, meets the requirements of Section 23.70.010 and the modified landscape area is equal to or greater than 2,500 square feet.</text>
+          </para>
+          <para>
+            <num>(ppp)</num>
+            <text><strong>"Residential landscape"</strong> means landscape surrounding single family homes or multifamily homes where landscapes are managed by individual homeowners.</text>
+          </para>
+          <para>
+            <num>(qqq)</num>
+            <text><strong>"Runoff"</strong> means water which is not absorbed by the soil or landscape to which it is applied and flows from the landscape area. For example, run off may result from water that is applied at too great a rate (application rate exceeds infiltration rate) or when there is a slope.</text>
+          </para>
+          <para>
+            <num>(rrr)</num>
+            <text><strong>"Soil moisture sensor"</strong> means a device that measures the amount of water in the soil. The device may also suspend or initiate an irrigation event.</text>
+          </para>
+          <para>
+            <num>(sss)</num>
+            <text><strong>"Soil texture"</strong> means the classification of soil based on its percentage of sand, silt, and clay.</text>
+          </para>
+          <para>
+            <num>(ttt)</num>
+            <text><strong>"Special landscape area</strong>" or <strong>"SLA"</strong> means an area of the landscape dedicated solely to edible plants, recreational areas, areas irrigated with recycled water, or water features using recycled water.</text>
+          </para>
+          <para>
+            <num>(uuu)</num>
+            <text><strong>"Sprinkler head"</strong> or <strong>"spray head"</strong> means a device which delivers water through a nozzle.</text>
+          </para>
+          <para>
+            <num>(vvv)</num>
+            <text><strong>"Static water pressure"</strong> means the pipeline or municipal water supply pressure when water is not flowing.</text>
+          </para>
+          <para proof="true">
+            <num>(aaaa)</num>
+            <text><strong>"Station"</strong> means an area served by one valve or by a set of valves that operate simultaneously.</text>
+          </para>
+          <para>
+            <num>(bbbb)</num>
+            <text><strong>"Swimming pool"</strong> means any structure intended for swimming, recreational bathing, or wading that contains water over 24 inches (610 mm) deep. This includes in-ground, above ground, and on-ground pools; but hot tubs; spa and fixed in place wading pools.</text>
+          </para>
+          <para>
+            <num>(cccc)</num>
+            <text><strong>"Swing joint"</strong> means an irrigation component that provides a flexible, leak-free connection between the emission device and lateral pipeline to allow movement in any direction and to prevent equipment damage.</text>
+          </para>
+          <para>
+            <num>(dddd)</num>
+            <text><strong>"Submeter"</strong> means a metering device to measure water applied to the landscape that is installed after the primary utility water meter.</text>
+          </para>
+          <para>
+            <num>(eeee)</num>
+            <text><strong>"Turf"</strong> means a groundcover surface of mowed grass. Annual bluegrass, Kentucky bluegrass, Perennial ryegrass, Red fescue, and Tall fescue are cool-season grasses. Bermuda grass, Kikuyu grass, Seashore Paspalum, St. Augustine grass, Zoysia grass, and Buffalo grass are warm-season grasses.</text>
+          </para>
+          <para>
+            <num>(ffff)</num>
+            <text><strong>"Valve"</strong> means a device used to control the flow of water in the irrigation system.</text>
+          </para>
+          <para>
+            <num>(gggg)</num>
+            <text><strong>"Water feature"</strong> means a design element where open water performs an aesthetic or recreational function. Water features include ponds, lakes, waterfalls, fountains, artificial streams, spas, and swimming pools (where water is artificially supplied). The surface area of water features is included in the high water use hydrozone of the landscape area. Constructed wetlands used for on-site wastewater treatment or stormwater best management practices that are not irrigated and used solely for water treatment or stormwater retention are not water features and, therefore, are not subject to the water budget calculation.</text>
+          </para>
+          <para>
+            <num>(hhhh)</num>
+            <text><strong>"Watering window"</strong> means the time of day irrigation is allowed.</text>
+          </para>
+          <para>
+            <num>(iiii)</num>
+            <text><strong>"WUCOLS"</strong> means the current version of the Water Use Classification of Landscape Species published by the University of California Cooperative Extension, the Department of Water Resources.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.72.030</num>
+          <heading>WATER CONSERVATION IN LANDSCAPING ORDINANCE REQUIREMENTS.</heading>
+          <para>
+            <num>(a)</num>
+            <text>All Project Applicants of new construction and rehabilitated landscapes covered by this Chapter shall: (1) complete the Landscape Project Application and Documentation Package; and (2) comply with the Landscape and Irrigation Maintenance Schedule requirements of this Chapter.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All owners of existing landscapes over one acre in size, even if installed before enactment of the ordinance codified in this Chapter, shall: (1) comply with local water purveyor programs that may be instituted relating to irrigation audits, surveys and water use analysis; and (2) maintain landscape irrigation facilities to prevent water waste and runoff. (Ord. 2015-3 § 1)</text>
+          </para>
+        </section>
+        <section>
+          <num>23.72.040</num>
+          <heading>REQUIREMENTS FOR COVERED PROJECTS.</heading>
+          <text>Project Applicants for covered projects shall:</text>
+          <para>
+            <num>(a)</num>
+            <text>Submit a Landscape Documentation Package with building permit application for approval by the Building Official.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Upon completion of the work, submit a Certification of Completion to the City.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.72.050</num>
+          <heading>LANDSCAPE PROJECT APPLICATION AND DOCUMENTATION PACKAGE.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The elements of a landscape must be designed to achieve water efficiency and comply with the criteria described in this Chapter. In completing the Landscape Project Application, Project Applicants must demonstrate that planting restriction will result in efficient water use by satisfying either of the following criteria:</text>
+            <para>
+              <num>(1)</num>
+              <text>The landscape areas may include no turf or high-water using plants, and</text>
+            </para>
+            <text>At least 80% of the plants in non-turf landscape areas shall be native plants, low-water using plants, or n o-water using plants; or (2) Provide a water budget calculation option that demonstrates project is within the Maximum Approved Water Allowance.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The landscape project application shall include the following elements:</text>
+            <para>
+              <num>(1)</num>
+              <text>Project information:</text>
+            </para>
+            <text>Date;</text>
+            <text>Project Applicant;</text>
+            <text>Project address (if available, parcel and/or lot numbers);</text>
+            <text>Project type (e.g. new, rehabilitated, public, private, cemetery, homeowner-installed);</text>
+            <text>Total landscape area (Square feet);</text>
+            <text>Water supply type (e.g. potable, recycle, well) and identify the local retail water purveyor if the applicant is not served by a private well;</text>
+            <text>Completed checklist of all documents in Landscape Documentation Package</text>
+            <text>Project contacts to include contact information for the project applicant and property owner;</text>
+            <text>Applicant signature and date with statement, "I agree to comply with the requirements of the water efficient landscape ordinance and submit a complete Landscape Documentation Package."</text>
+            <para>
+              <num>(2)</num>
+              <text>Water budget calculations, if Project Applicant project elects to use a water budget approach rather than comply with the turf area limitations or specified plant type restrictions;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Soil Management Report or Soil Management Survey;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Landscape Design Plans; and</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Irrigation System Design Plans; and</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Grading Design Plan or Grading Design Survey.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.72.060</num>
+          <heading>SOIL MANAGEMENT REPORT.</heading>
+          <para>
+            <num>(a)</num>
+            <text>In order to reduce runoff and encourage healthy plant growth, a soil management report   shall be completed by the Project Applicant. The soil management report shall be completed as follows:</text>
+            <para>
+              <num>(1)</num>
+              <text>Submit soil samples to a laboratory for analysis and recommendations.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Soil sampling shall be conducted in accordance with laboratory protocol, including protocols regarding adequate sampling depth for the intended plants.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The soil analysis shall include:</text>
+              <para>
+                <num>a.</num>
+                <text>soil texture;</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>infiltration rate determined by laboratory test or soil texture infiltration rate table;</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>pH;</text>
+              </para>
+              <para>
+                <num>d.</num>
+                <text>total soluble salts;</text>
+              </para>
+              <para>
+                <num>e.</num>
+                <text>sodium;</text>
+              </para>
+              <para>
+                <num>f.</num>
+                <text>percent organic matter; and</text>
+              </para>
+              <para>
+                <num>g.</num>
+                <text>recommendations.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Projects with multiple landscape installations (i.e. production home developments) a soil sampling rate of 1 in 7 lots or approximately 15% will satisfy this requirement. Large landscape projects shall sample at a rate equivalent to 1 in 7 lots.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Project Applicant shall comply with one of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>If significant mass grading is not planned, the soil analysis report shall be submitted to the local agency as part of the Landscape Documentation Package; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>If significant mass grading is planned, the soil analysis report shall be submitted to the local agency as part of the Certificate of Completion.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The soil analysis report shall be made available, in a timely manner, to the   professionals preparing the landscape design plans and irrigation design plans to make any necessary adjustments to the design plans.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The Project Applicant shall submit documentation verifying implementation of soil analysis report recommendation to the local agency with Certificate of Completion.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.72.070</num>
+          <heading>WATER BUDGET CALCULATIONS.</heading>
+          <text>Project Applicant may elect to complete a water budget calculation for the landscape project. Water budget calculations, if prepared, shall adhere to the following requirements:</text>
+          <para>
+            <num>(a)</num>
+            <text>The plant factor used shall be from WUCOLS or from horticultural researchers with academic institutions or professional associations as approved by the California Department of Water Resources (DWR).  The plant factor ranges from 0.0 to 0.3 for low water use plants, from 0.4 to 0.6 for moderate water use plants, and from 0.7 to 1.0 for high water use plants.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All water features shall be included in the high water use hydrozone.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>All Special Landscape Areas shall be identified and their water use included in the water budget</text>
+          </para>
+          <text>calculations.</text>
+          <para>
+            <num>(d)</num>
+            <text>The reference Evapotranspiration Adjustment Factor for special landscape areas shall not exceed 1.0. The ETAF for all other landscaped areas shall not exceed 0.55 for residential areas and 0.45 for non-residential areas. ETo values from the reference Evapotranspiration Table, as provided by the City, shall be used in calculating the Maximum Applied Water Allowance (MAWA) and Estimated Total Water Use (ETWU).</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>For the purpose of determining Estimated Total Water use, average irrigation efficiency is assumed to be 0.75 for overhead spray devices and 0.81 for drip system devices.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Maximum applied water allowance (MAWA) shall be calculated using the equation below:</text>
+            <para>
+              <num>(1)</num>
+              <text>MAWA = (ETo) (0.62) [(0.7 x LA) + (0.3 x SLA)]</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>MAWA= (ETo) [(0.45 xLA) = (0.55 x SLA)] for non-residential areas.</text>
+            </para>
+            <text>Where:</text>
+            <text>MAWA = Maximum Applied Water Allowance (gallons per year)</text>
+            <text>ETo     = Reference Evapotranspiration (inches per year)</text>
+            <text proof="true">0.62     = Conversion Factor (to gallons)</text>
+            <text proof="true">0.55     = Reference Evapotranspiration Adjustment Factor (ETAF) for residential area</text>
+            <text proof="true">0.45     = Reference Evapotranspiration Adjustment Factor (ETAF) for non-residential areas</text>
+            <text>LA       = Landscape Area including SLA in residential areas</text>
+            <text proof="true">0.3       = Additional Water Allowance for SLA in non-residential areas</text>
+            <text>SLA    = Special Landscape Area (square feet).</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>A local agency or project applicant may consider effective precipitation (25% of annual precipitation) in tracking water use and may use the following equation to calculate the MAWA:</text>
+            <para>
+              <num>(1)</num>
+              <text>MAWA= (ETo - Eppt) (0.62) [(0.55 x LA) + (0.45 x SLA)] for residential areas</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>MAWA= (ETo - Eppt) (0.62) [(0.45 x LA) + (0.55 x SLA)] for non-residential areas</text>
+            </para>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>Estimated total water use (ETWU) will be calculated using the equation below. The sum of the ETWU calculated for all hydrozones will not exceed the MAWA.</text>
+          </para>
+          <text>ETWU = (ETo)(0.62)<strong>(</strong>PF x HA<strong>)</strong> + SLA]</text>
+          <text>IE</text>
+          <text>Where:</text>
+          <text>ETWU= Estimated Total Water Use per year (gallons)</text>
+          <text>ETo     = Reference Evapotranspiration (inches)</text>
+          <text>PF       = Plant Factor from WUCOLS</text>
+          <text>HA      = Hydrozone Area (high, medium, and low water use areas] (square feet)</text>
+          <text>SLA    = Special Landscape Area (square feet)</text>
+          <text proof="true">0.62     = Conversion Factor</text>
+          <text>IE        = Irrigation Efficiency (minimum 0.70) equals 0.75 for overhead spray devices and 0.81 for drip system devices</text>
+        </section>
+        <section>
+          <num>23.72.080</num>
+          <heading>LANDSCAPE DESIGN PLAN.</heading>
+          <para>
+            <num>(a)</num>
+            <text>For the efficient use of water, a landscape shall be carefully designed and planned for the intended function of the project. A landscape design plan meeting the following design criteria shall be submitted as part of the Landscape Documentation Package:</text>
+            <para>
+              <num>(1)</num>
+              <text>Any plant may be selected for the landscape, providing the Estimated Total Water Use in the landscape area does not exceed the Maximum Applied Water Allowance. Methods to achieve water efficiency shall include one or more of the following:</text>
+              <para>
+                <num>a.</num>
+                <text>Protection and preservation of native species and natural vegetation</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>Selection of water-conserving plant, tree and turf species, especially local native plants;</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>Selection of plants based on local climate suitability, disease and pest resistance;</text>
+              </para>
+              <para>
+                <num>d.</num>
+                <text>Selection of trees based on applicable local tree ordinances or tree shading guidelines, and size at maturity as appropriate for the planting area; and</text>
+              </para>
+              <para>
+                <num>e.</num>
+                <text>Selection of plants from local and regional landscape program plant lists;</text>
+              </para>
+              <para>
+                <num>f.</num>
+                <text>Selection of plants from local Fuel Modification Plan Guidelines.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Each hydrozone shall have plant materials with similar water use, with the exception of hydrozone with plants of mixed water use, as specified in Section 23.72.090.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Plants shall be selected and planted appropriately based upon their adaptability to the climatic, geologic, and topographical conditions of the project site. Methods to achieve water efficiency shall include one or more of the following:</text>
+              <para>
+                <num>a.</num>
+                <text>Use the Sunset Western Climate Zone System which takes into account temperature, humidity, elevation, terrain, latitude, and varying degrees of   continental and marine influence on local climate;</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>Recognize the horticultural attributes of plants (i.e. mature plant size,  invasive surface roots) to minimize damage to property or infrastructure (e.g.. buildings, sidewalks, power lines); allow for adequate soil volume for healthy root growth;</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>Consider the solar orientation for plant placement to maximize summer share and winter solar gain.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Turf is not allowed on slopes greater than 25% where the toe of the slope is adjacent to an impermeable hardscape and where 25% means 1 foot of vertical elevation change for every 4 feet of horizontal length (rise divided by run x 100 = slope percent.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>High water use plants, characterized by a plant factor of 0.7 to 1.0, are prohibited in street medians.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>A landscape design plan for projects in fire-prone areas shall address fire safety and prevention. A defensible space or zone around a building or structure is required per Public Resource Code Section 4291, subsections (a) and (b). Avoid fire-prone plant materials and highly flammable mulches. Refer to the local Fuel Modification Plan Guideline.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>The use of invasive plant species, such as those listed by the California Invasive Plant Council, is prohibited.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>The architectural guidelines of a common interest development, which include community apartment projects, condominiums, planned developments, and stock cooperative, shall not prohibit or include conditions that have the effect of prohibiting the use of low-water use plants as a group.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Water Features</text>
+            <para>
+              <num>(1)</num>
+              <text>Recirculating water systems shall be used for water features.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Where available, recycled water shall be used as a source for decorative water features.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Surface area of a water feature shall be included in the high water use hydrozone area of the water budget calculation.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Pool and spa covers are required on any newly constructed pool or spa.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Soil Preparation, Mulch and Amendments</text>
+            <para>
+              <num>(1)</num>
+              <text>Prior to the planting of any materials, compacted soils shall be transformed to a friable condition. On engineered slopes, only amended planting holes need meet this requirement.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Soil amendments shall be incorporated according to recommendations of the soil report.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>For landscape installations, compost at a rate of minimum of four cubic yards per 1,000 square feet of permeable area shall be incorporated to a depth of six inches into the soil. Soils with greater than 6% organic matter in the top six inches of soil are exempt from adding compost and tilling.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>A minimum three inch (3") layer of mulch shall be applied on all exposed soil surfaces of planting areas except in turf areas, creeping or rooting groundcovers, or direct seeding applications where mulch is contraindicated. To provide habitat for beneficial insects and other wildlife, up to 5% of the landscape area may be left without mulch. Designated insect habitat must be included in the landscape design plan.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Stabilizing mulching products shall be used on slopes that meet current engineering standards.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The mulching portion of the seed/mulch slurry to hydro-seeded applications shall meet the mulching requirement.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Organic mulch made from recycled or post-consumer materials shall take precedence over inorganic materials or virgin forest products unless the recycled post-consumer organic products are not locally available. Organic mulches are not required where prohibited by local Fuel Modification Plan Guidelines or other applicable local ordinances</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The landscape design plan, at a minimum, shall;</text>
+            <para>
+              <num>(1)</num>
+              <text>Delineate and label each hydrozone by number, letter, or other  method;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Identify each hydrozone as low, moderate, high water, or mixed water use. Temporarily irrigated areas of the landscape shall be included in the low water use by hydrozone for the water budget calculation;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Identify recreational areas;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Identify areas permanently and solely dedicated to edible plants;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Identify areas irrigated with recycled water;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Identify type of mulch and application depth;</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Identify soil amendments, type, and quantity,</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Identify type and surface area of water features;</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Identify hardscape (pervious and non-pervious);</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text>Identify location, installation details, and 24-hour retention or infiltration capacity of any  applicable stormwater best management practices that encourage on-site retention and infiltration of stormwater;</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <text>Identify any applicable rain harvesting or catchment technologies  as discussed in Section   23.72.150 and their 24-hour retention or infiltration capacity;</text>
+            </para>
+            <para>
+              <num>(12)</num>
+              <text>Identify any applicable graywater discharge piping, system  components and area(s) of distribution;</text>
+            </para>
+            <para>
+              <num>(13)</num>
+              <text>Contain the following statement: "I have complied with the criteria of the ordinance and applied them for the efficient use of water in the landscape design plan; and</text>
+            </para>
+            <para>
+              <num>(14)</num>
+              <text>Bear the signature of a licensed landscape architect, licensed landscape contractor, or any other person authorized to design a landscape (See Sections 5500.1, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, 7027.5 of the Business and Professions Code. Section 832.27 of Title 16 of the California Code of Regulations, and Section 6721 of the Food and Agriculture Code.)</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.72.090</num>
+          <heading>IRRIGATION DESIGN PLAN.</heading>
+          <para>
+            <num>(a)</num>
+            <text>This section applies to landscaped areas requiring permanent irrigation; not areas that require temporary irrigation solely for the plant establishment period. For the efficient use of water, an irrigation system shall meet all the requirements listed in this Section and the manufacturers' recommendations. The irrigation system and its related components shall be planned and designed to allow for proper installation, management, and maintenance. An irrigation design plan meeting the following design criteria shall be submitted as part of the Landscape Documentation Package.</text>
+            <para>
+              <num>(1)</num>
+              <text>System</text>
+              <para>
+                <num>a.</num>
+                <text>Landscape water meters, defined as either a dedicated water service meter or private submeter, shall be installed for all non-residential irrigated landscapes of 1,000 sq. ft. but not more than 5,000 sq.ft. (the level at which Water Code 535 applies) and residential irrigated landscapes of 5,000 sq. ft. or greater. A landscape water meter may be either:</text>
+                <para>
+                  <num>i.</num>
+                  <text>A customer service meter dedicated to landscape use provided by the local water purveyor; or</text>
+                </para>
+                <para>
+                  <num>ii.</num>
+                  <text>A privately owned meter or submeter.</text>
+                </para>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>Automatic irrigation controllers utilizing either evapotranspiration or soil moisture sensor data utilizing non-volatile memory shall be required for irrigation scheduling in all irrigation systems.</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>If the water pressure is below or exceeds the recommended pressure of the specified irrigation devices, the installation of a pressure regulating device is required to ensure that the dynamic pressure at each emission device is within the manufacturer's recommended pressure range for optimal performance.</text>
+                <para>
+                  <num>i.</num>
+                  <text>If the static pressure is above or below the required dynamic pressure of the irrigation system, pressure-regulating devices such as inline pressure regulators, booster pumps, or other devices shall be installed to meet the required dynamic pressure of the irrigation system.</text>
+                </para>
+                <para>
+                  <num>ii.</num>
+                  <text>Static water pressure, dynamic or operating pressure, and flow reading of the water supply shall be measured at the point of connection. These pressure and flow measurements shall be conducted at the design stage. If the measurements are not available at the design stage, the measurements shall be conducted at installation.</text>
+                </para>
+              </para>
+              <para>
+                <num>d.</num>
+                <text>Sensors (rain, freeze, wind, etc.), either integral or auxiliary, that suspend or alter irrigation operation during unfavorable weather conditions shall be required on all irrigation systems, as appropriate for local climatic conditions. Irrigation should be avoided during windy or freezing weather or during rain.</text>
+              </para>
+              <para>
+                <num>e.</num>
+                <text>Manual shut-off valves (such as a gate valve, ball valve, or butterfly valve) shall be required, as close as possible to the point of connection of the water supply, to minimize water loss in case of an emergency (such as a main line break) or routine repair.</text>
+              </para>
+              <para>
+                <num>f.</num>
+                <text>Backflow prevention devices shall be required to protect the water supply from contamination by the irrigation system. A project applicant shall refer to the applicable local agency code (i.e., public health) for additional backflow prevention requirements.</text>
+              </para>
+              <para>
+                <num>g.</num>
+                <text>Flow sensors that detect high flow conditions created by system damage or malfunction are required for all non-residential landscapes and residential landscapes of 5000 sq. ft. or larger.</text>
+              </para>
+              <para>
+                <num>h.</num>
+                <text>Master shut-off valves are required on all projects except landscapes that make use of technologies that allow for the individual control of sprinklers that are individually pressurized in a system equipped with low pressure shut down features.</text>
+              </para>
+              <para>
+                <num>i.</num>
+                <text>The irrigation system shall be designed to prevent runoff, low head drainage, overspray, or other similar conditions where irrigation water flows onto non-targeted areas, such as adjacent property, non-irrigated areas, hardscapes, roadways, or structures.</text>
+              </para>
+              <para>
+                <num>j.</num>
+                <text>Relevant information from the soil management plan, such as soil type and infiltration rate, shall be utilized when designing irrigation systems.</text>
+              </para>
+              <para>
+                <num>k.</num>
+                <text>The design of the irrigation system shall conform to the hydrozones of the landscape design plan.</text>
+              </para>
+              <para>
+                <num>l.</num>
+                <text>The irrigation system must be designed and installed to meet, at a minimum, the irrigation efficiency criteria as described in Section 23.72.070 regarding the Maximum Applied Water Allowance.</text>
+              </para>
+              <para>
+                <num>m.</num>
+                <text>All irrigation emission devices must meet the requirements set in the American National Standards Institute (ANSI) standard, American Society of Agricultural and Biological Engineers'/International Code Council's (ASABE/ICC) 802-2014 "Landscape Irrigation Sprinkler and Emitter Standard, All sprinkler heads installed in the landscape must document a distribution uniformity low quarter of 0.65 or higher using the protocol defined in ASABE/ICC 802-2014.</text>
+              </para>
+              <para>
+                <num>n.</num>
+                <text>The Project Applicant must inquire with the local water purveyor about peak water operating demands (on the water supply system) or water restrictions that may impact the effectiveness of the irrigation system.</text>
+              </para>
+              <para>
+                <num>o.</num>
+                <text>In mulched planting areas, the use of low volume irrigation is required to maximize water infiltration into the root zone.</text>
+              </para>
+              <para>
+                <num>p.</num>
+                <text>Sprinkler heads and other emission devices shall have matched precipitation rates, unless otherwise directed by the manufacturer's recommendations.</text>
+              </para>
+              <para>
+                <num>q.</num>
+                <text>Head to head coverage is recommended. However, sprinkler spacing shall be designed to achieve the highest possible distribution uniformity using the manufacturer's recommendations.</text>
+              </para>
+              <para>
+                <num>r.</num>
+                <text>Swing joints or other riser-protection components are required on all risers subject to damage that are adjacent to hardscapes or in high traffic areas of turfgrass.</text>
+              </para>
+              <para>
+                <num>s.</num>
+                <text>Check valves or anti-drain valves are required on all sprinkler heads where low point drainage could occur.</text>
+              </para>
+              <para>
+                <num>t.</num>
+                <text>Areas less than ten (10) feet in width in any direction shall be irrigated with subsurface irrigation or other means that produces no runoff or overspray.</text>
+              </para>
+              <para>
+                <num>u.</num>
+                <text>Overhead irrigation shall not be permitted within 24 inches of any non-permeable surface. Allowable irrigation within the setback from non-permeable surfaces may include drip, drip line, or other low flow non-spray technology. The setback area may be planted or unplanted. The surfacing of the setback may be mulch, gravel, or other porous material. These restrictions may be modified if:</text>
+                <para>
+                  <num>i.</num>
+                  <text>The landscape area is adjacent to permeable surfacing and no runoff occurs; or</text>
+                </para>
+                <para>
+                  <num>ii.</num>
+                  <text>The adjacent non-permeable surfaces are designed and constructed to drain entirely to landscaping; or</text>
+                </para>
+                <para>
+                  <num>iii.</num>
+                  <text>The irrigation designer specifies an alternative design or technology, as part of the Landscape Documentation Package and clearly demonstrates strict adherence to irrigation system design criteria in Section 23.72.090. Prevention of overspray and runoff must be confirmed during the irrigation audit.</text>
+                </para>
+              </para>
+              <para>
+                <num>v.</num>
+                <text>Slopes greater than 25% shall not be irrigated with an irrigation system with an application rate exceeding 0.75 inches per hour. This restriction may be modified if the landscape designer specifies an alternative design or technology, as part of the Landscape Documentation Package, and clearly demonstrates no runoff or erosion will occur. Prevention of runoff and erosion must be confirmed during the irrigation audit.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Hydrozone</text>
+              <para>
+                <num>a.</num>
+                <text>Each valve shall irrigate a hydrozone with similar site, slope, sun exposure, soil conditions, and plant materials with similar water use.</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>Sprinkler heads and other emission devices shall be selected based on what is appropriate for the plant type within that hydrozone.</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>Where physically feasible, trees shall be placed on separate valves from shrubs, groundcovers, and turf to facilitate the appropriate irrigation of trees. The mature size and extent of the root zone shall be considered when designing irrigation for the tree.</text>
+              </para>
+              <para>
+                <num>d.</num>
+                <text>Individual hydrozones that mix plants of moderate and low water use, or moderate and high water use, may be allowed if:</text>
+                <para>
+                  <num>i.</num>
+                  <text>Plant factor calculation is based on the proportions of the respective plant water uses and their plant factor; or</text>
+                </para>
+                <para>
+                  <num>ii.</num>
+                  <text>The plant factor of the higher water using plant is used for calculations.</text>
+                </para>
+              </para>
+              <para>
+                <num>e.</num>
+                <text>Individual hydrozones that mix high and low water use plants shall not be permitted.</text>
+              </para>
+              <para>
+                <num>f.</num>
+                <text>On the landscape design plan and irrigation design plan, hydrozone areas shall be designated by number, letter, or other designation. On the irrigation design plan, designate the areas irrigated by each valve, and assign a number to each valve. Use the valve number in the Hydrozone Information Table on file with the City's Building Division. This table can also assist with the irrigation audit and programming the controller.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Irrigation Design Plan, at a minimum, shall contain:</text>
+            <para>
+              <num>(1)</num>
+              <text>Location and size of separate water meters for landscape;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Location, type and size of all components of the irrigation system, including controllers, main and lateral lines, valves, sprinkler heads, moisture sensing devices, rain switches, quick couplers, pressure regulators, and backflow prevention devices;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Static water pressure at the point of connection to the public water supply;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Flow rate (gallons per minute), application rate (inches per hour), and design operating pressure (pressure per square inch) for each station;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Recycled Water irrigation systems as specified in Section 23.72.160;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The following statement: "I have complied with the criteria of the ordinance and applied them accordingly for the efficient use of water in the irrigation design plan"; and</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>The signature of a licensed landscape architect, certified irrigation designer, licensed landscape contractor, or any other person authorized to design an irrigation system. (See Sections 5500.1, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, 7027.5 of the Business and Professions Code, Section 832.27 of Title 16 of the California Code of Regulations, and Section 6721 of the Food and Agricultural Code.)</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.72.100</num>
+          <heading>GRADING DESIGN PLAN.</heading>
+          <para>
+            <num>(a)</num>
+            <text>For the efficient use of water, grading of a project site shall be designed to minimize soil erosion, runoff, and water waste. A grading plan or completed grading design survey shall be submitted as part of the Landscape Documentation Package. A comprehensive grading plan prepared by a civil engineer for other local agency permits satisfies this requirement.</text>
+            <para>
+              <num>(1)</num>
+              <text>The project applicant shall submit a landscape grading plan that indicates finished configurations and elevations of the landscape area including:</text>
+              <para>
+                <num>a.</num>
+                <text>Height of graded slopes;</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>Drainage patterns;</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>Pad elevations;</text>
+              </para>
+              <para>
+                <num>d.</num>
+                <text>Finish grade; and</text>
+              </para>
+              <para>
+                <num>e.</num>
+                <text>Storm water retention improvements, if applicable</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>To prevent excessive erosion and runoff, project applicants shall, where physically feasible:</text>
+              <para>
+                <num>a.</num>
+                <text>Grade so that all irrigation and normal rainfall remains within property lines and does not drain on to non-permeable hardscapes;</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>Avoid disruption of natural drainage patterns and undisturbed soil; and</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>Avoid soil compaction in landscape areas.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.72.110</num>
+          <heading>CERTIFICATE OF COMPLETION.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Project Applicant shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>Submit the signed Certificate of Completion to the local agency for review;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Ensure that copies of the approved Certificate of Completion are submitted to the local water purveyor and property owner or his or her designee.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Certificate of Completion shall include the following six elements:</text>
+            <para>
+              <num>(1)</num>
+              <text>Project information sheet that contains:</text>
+              <para>
+                <num>a.</num>
+                <text>Date;</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>Project name;</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>Project Applicant name, telephone, and mailing address;</text>
+              </para>
+              <para>
+                <num>d.</num>
+                <text>Project address and location; and</text>
+              </para>
+              <para>
+                <num>e.</num>
+                <text>Property owner name, telephone, and mailing address.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Certification by either the signer of the landscape design plan, the signer of the irrigation design plan, or the licensed landscape contractor that the landscape project has been installed per the approved Landscape Documentation Package;</text>
+              <para>
+                <num>a.</num>
+                <text>Where there have been significant changes made in the field during construction, these "as-built" or record drawings shall be included with the certification;</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>A diagram of the irrigation plan showing hydrozones shall be kept with the irrigation controller for subsequent management purposes.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Irrigation scheduling parameters used to set the controller (see Section 23.72.130);</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Landscape and irrigation maintenance schedule (see Section 23.72.140);</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Landscape and Irrigation audit report (see Section 23.72.120); and</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Soil analysis report or soil management survey, if not submitted with Landscape Documentation Package, and documentation verifying implementation of soil report recommendations.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.72.120</num>
+          <heading>LANDSCAPE AND IRRIGATION AUDIT REPORT.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The landscape audit report shall include, but is not limited to, inspection to confirm that the landscaping and irrigation system were installed as specified in the landscape and irrigation design plan, system tune-up, system test with distribution uniformity, reporting overspray or runoff that causes overland flow, and preparation of an irrigation schedule.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The landscape audit report shall include the following statement: "The landscape and irrigation system has been installed as specified in the Landscape and Irrigation Design Plan and complies with the criteria of the City's landscape water efficiency Ordinance and the permit."</text>
+          </para>
+        </section>
+        <section>
+          <num>23.72.130</num>
+          <heading>IRRIGATION SCHEDULING.</heading>
+          <para>
+            <num>(a)</num>
+            <text>For the efficient use of water, all irrigation schedules shall be developed, managed, and evaluated to utilize the minimum amount of water required to maintain plant health. Irrigation schedules shall meet the following criteria:</text>
+            <para>
+              <num>(1)</num>
+              <text>Irrigation scheduling shall be regulated by automatic irrigation controllers.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Overhead irrigation shall be scheduled between 8:00 p.m. and 10:00 a.m. unless weather conditions prevent it. If allowable hours of irrigation differ from the local water purveyor, the stricter of the two shall apply. Operation of the irrigation system outside the normal watering window is allowed for auditing and system maintenance.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>For implementation of the irrigation schedule, particular attention must be paid to irrigation run times, emission device, flow rate, and current reference evapotranspiration, so that applied water meets the Estimated Total Water Use. Total annual applied water shall be less than or equal to Maximum Applied Water Allowance (MAWA). Actual irrigation schedules shall be regulated by automatic irrigation controllers using current reference evapotranspiration data (e.g., CIMIS) or soil moisture sensor data.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Parameters used to set the automatic controller shall be developed and submitted for each of the following:</text>
+              <para>
+                <num>a.</num>
+                <text>The plant establishment period;</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>The established landscape; and</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>Temporarily irrigated areas</text>
+              </para>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Each irrigation schedule shall consider for each station all of the following that apply:</text>
+              <para>
+                <num>a.</num>
+                <text>Irrigation interval (days between irrigation);</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>Irrigation run times (hours or minutes per irrigation event to avoid runoff);</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>Number of cycle starts required for each irrigation event to avoid runoff;</text>
+              </para>
+              <para>
+                <num>d.</num>
+                <text>Amount of applied water scheduled to be applied on a monthly basis;</text>
+              </para>
+              <para>
+                <num>e.</num>
+                <text>Application rate setting;</text>
+              </para>
+              <para>
+                <num>f.</num>
+                <text>Root depth setting;</text>
+              </para>
+              <para>
+                <num>g.</num>
+                <text>Plant type setting;</text>
+              </para>
+              <para>
+                <num>h.</num>
+                <text>Soil type;</text>
+              </para>
+              <para>
+                <num>i.</num>
+                <text>Slope factor setting;</text>
+              </para>
+              <para>
+                <num>j.</num>
+                <text>Shade factor setting; and</text>
+              </para>
+              <para>
+                <num>k.</num>
+                <text>Irrigation uniformity or efficiency setting.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.72.140</num>
+          <heading>LANDSCAPE AND IRRIGATION MAINTENANCE SCHEDULE.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Landscapes shall be maintained to ensure water use efficiency. A regular maintenance schedule shall be submitted with the Certificate of Completion.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A regular maintenance schedule shall include, but not be limited to, routine inspection; auditing; adjustment and repair of the irrigation system and its components; aerating and dethatching turf areas; topdressing with compost; replenishing mulch; fertilizing; pruning; weeding in all landscape areas; and removing obstructions to emission devices. Operation of the irrigation system outside the normal watering window is allowed for auditing and system maintenance.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Repair of all irrigation equipment shall be done with the originally installed components or their equivalents or with components with greater efficiency.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.72.150</num>
+          <heading>STORMWATER MANAGEMENT AND RAINWATER RETENTION.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Implementing stormwater best management practices into the landscape and grading design plans to minimize runoff and to increase on-site rainwater retention and infiltration are required and must be consistent with City stormwater management requirements.</text>
+          </para>
+          <para proof="true">
+            <num>(a)</num>
+            <text>Project Applicants shall refer to the local agency or Regional Water Quality Control Board for information on any applicable stormwater technical requirements.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All planted landscape areas are required to have friable soil to maximize water retention and infiltration.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Where physically feasible, landscape areas shall be designed for capture and infiltration capacity that is sufficient to prevent runoff from impervious surfaces (i.e. roof and paved areas) from either: the one inch, 24-hour rain event or (2) the 85th percentile, 24-hour rain event, and/or additional capacity as required by any applicable local, regional, state or federal regulation.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Storm water projects shall  incorporate the following elements to improve on-site storm water and dry weather runoff capture and use:</text>
+            <para>
+              <num>(1)</num>
+              <text>Grade impervious surfaces, such as driveways, during construction to drain to vegetated areas.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Minimize the area of impervious surfaces such as paved areas, roof and concrete driveways.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Incorporate pervious or porous surfaces (e.g., gravel, permeable pavers or blocks, pervious or porous concrete) that minimize runoff.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Direct runoff from paved surfaces and roof areas into planting beds or landscaped areas to maximize site water capture and reuse.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Incorporate rain gardens, cisterns, and other rain harvesting or catchment systems.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Incorporate infiltration beds, swales, basins and drywells to capture storm water and dry weather runoff and increase percolation into the soil.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Consider constructed wetlands and ponds that retain water, equalize excess flow, and filter pollutants.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.72.160</num>
+          <heading>RECYCLED WATER.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The installation of recycle water irrigation systems shall allow for the current and future use of</text>
+          </para>
+          <text>recycled water.</text>
+          <para>
+            <num>(b)</num>
+            <text>All recycled water irrigation systems shall be designed and operated in accordance with all</text>
+          </para>
+          <text>applicable local and state laws.</text>
+          <para>
+            <num>(c)</num>
+            <text>Landscapes using recycled water are considered Special Landscape Areas. The ET Adjustment</text>
+          </para>
+          <text>Factor for new and existing (non-rehabilitated) Special Landscape Areas shall not exceed 1.0.</text>
+        </section>
+        <section>
+          <num>23.72.170</num>
+          <heading>GRAYWATER SYSTEMS.</heading>
+          <text>Graywater systems promote the efficient use of water and are encouraged to assist in on-site landscape irrigation. All graywater systems shall conform to the California Plumbing Code (Title 24, Part 5, Chapter 16) and any applicable local ordinance standards. Refer to Section 23.72.010(e) for the applicability of this Chapter to landscape areas less than 2,500 square feet with the Estimated Total Water use met entirely by graywater.</text>
+        </section>
+        <section>
+          <num>23.72.180</num>
+          <heading>PROVISIONS FOR EXISTING LANDSCAPES OVER ONE ACRE IN SIZE.</heading>
+          <text>This section shall apply to all existing landscapes that were installed before the effective date of this Chapter and are over one acre in size.</text>
+          <para>
+            <num>(a)</num>
+            <text>Irrigation Audit, Irrigation Survey, and Irrigation Water Use Analysis.</text>
+            <para>
+              <num>(1)</num>
+              <text>For landscapes that have a water meter, the local water purveyor shall administer programs that may include, but not be limited to, irrigation water use analyses, irrigation surveys, and irrigation audits to evaluate water use and provide recommendations as necessary to reduce landscape water use to a level that does not exceed the MAWA for existing landscapes. The MAWA for existing landscapes shall be calculated as:   MAWA = (0.8)(ETo)(LA)(0.62).</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>For landscapes that do not have a meter, the local water purveyor shall administer programs that may include, but need not be limited to, irrigation surveys and irrigation audits to evaluate water use and provide recommendations as necessary in order to prevent water waste.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>All landscape irrigation audits for existing landscapes that are greater than one acre in size shall be conducted by a certified landscape irrigation auditor.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Water Waste Prevention.</text>
+            <para>
+              <num>(1)</num>
+              <text>It is prohibited to have runoff leaving the target landscape due to low head drainage overspray, or other similar conditions where water flows onto adjacent property, non-irrigated areas, walks, roadways, parking lots, or structures.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Restrictions regarding overspray and runoff may be modified if:</text>
+              <para>
+                <num>a.</num>
+                <text>The landscape area is adjacent to permeable surfacing and no runoff occurs; or</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>The adjacent non-permeable surfaces are designed and constructed to drain entirely to landscaping.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.72.190</num>
+          <heading>PUBLIC EDUCATION.</heading>
+          <para>
+            <num>(a)</num>
+            <text>All model homes that are landscaped shall use signs and written information to demonstrate the principals of water-efficient landscapes that are described in this Chapter.</text>
+          </para>
+          <para proof="true">
+            <num>(a)</num>
+            <text>Signs must be used to identify the model as an example of a water efficient landscape featuring elements such as hydrozones, irrigation equipment, and others that contribute to the overall water efficient theme. Signage shall include information about site water use as designed per the local ordinance; specify who designed and installed the water efficient landscape; and demonstrate low water use approaches to landscaping such as using native plants, graywater systems, and rainwater catchment systems. Information must be included about designing, installing, managing, and maintaining water efficient landscapes.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.72.200</num>
+          <heading>PENALTIES.</heading>
+          <text>Violation and Notice of Correction. It is unlawful for any person, firm, partnership, association, or corporation subject to the requirements of this chapter to fail to comply with the outdoor water use efficiency requirements of this chapter. The City of San Mateo has the authority to conduct such inquiries, audits or surveys to ensure compliance with the requirements of this Chapter. Whenever the City of San Mateo determines that a violation of this Chapter has occurred, the City of San Mateo may utilize any of the code enforcement methods set forth in Title 1 of the City's Municipal Code in addition to any other available legal remedies.</text>
+          <text>(Ord. 2015-3 § 1)</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>SEVERABILITY.</heading>
+    <text>If any section, subsection, provision or part of this Chapter or its application to any person or circumstance, is held to be unconstitutional or otherwise invalid, the remainder of this Chapter, and the application of such provision to other person or circumstances, shall not be affected thereby and shall remain in full force and effect and, to that end, the provisions of the Chapter are severable.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>EFFECTIVE DATE.</heading>
+    <text>This ordinance shall become effective thirty days after adoption.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in the Examiner Peninsula Edition, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the Chapter.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>This Ordinance is not subject to the California Environmental Quality Act (Public Resources Code Section 2100 e seq.) ("CEQA") pursuant to Section 15307 (the activity assures the maintenance, restoration, enhancement, or protection of a natural resource) of the State CEQA Guidelines, California Code of Regulations, Title 14, Chapter 3, since it makes and implements policies and procedures to ensure that water resources are conserved by reducing water consumption through the establishment of a structure for planning, designing, installing, maintaining and managing water-efficient landscapes.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on February 1, 2016, and adopted on February 16, 2016, and shall be effective thirty days after its date of adoption.</text>
+  </section>
 </document>

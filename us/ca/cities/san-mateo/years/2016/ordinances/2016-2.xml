@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2016-2">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2016-2">
   <num>2016-2</num>
-  <heading>AMENDING CHAPTER 10.04.140, “PROHIBITING VEHICLE USE FOR HABITATION AND SLEEP,” OF THE SAN MATEO MUNICIPAL CODE</heading>
+  <heading>AMENDING CHAPTER 10.04.140, "PROHIBITING VEHICLE USE FOR HABITATION AND SLEEP," OF THE SAN MATEO MUNICIPAL CODE</heading>
   <meta>
     <effective>2016-01-01</effective>
     <citations>
@@ -9,4 +9,56 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2016-2</citation>
     </citations>
   </meta>
+  <text>WHEREAS,	the use of vehicles for habitation poses a risk to the health, safety, and welfare of persons habituating in the vehicle as well as the general public; and</text>
+  <text>WHEREAS, the City of San Mateo has historically prohibited the use of vehicles for habitation purposes, or "lodging";</text>
+  <text>WHEREAS, in June 2014 the Ninth Circuit Court of Appeals recently invalidated a City of Los Angeles vehicle habitation ordinance as unconstitutionally vague (Desertrain v. City of Los Angeles, 754 F. 3d 1147); and</text>
+  <text>WHEREAS, City Staff analyzed the San Mateo's vehicle habitation ordinance in light of the "Desertrain" decision and recommends certain amendments to provide a clearer and more comprehensive definition of "lodging"; and</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+  <section>
+    <num>1</num>
+    <text>Chapter 10.04.140 of the San Mateo Municipal Code is amended to read as follows:</text>
+    <include>
+      <section>
+        <num>10.04.140</num>
+        <heading>PROHIBITING VEHICLE USE FOR HABITATION AND SLEEP</heading>
+        <text>It is unlawful:</text>
+        <para>
+          <num>(a)</num>
+          <text>For any person to use a vehicle as defined in the California Vehicle Code, for lodging in the City of San Mateo.  For the purpose of this section, "lodging" means the combination of one or more activities in Subdivision (1) with one or more activities in Subdivision (2) where it reasonably appears, in light of all the circumstances, that a person is using a vehicle for habitation.</text>
+          <para>
+            <num>(1)</num>
+            <text>Storing of contents inside a vehicle that are not associated with ordinary vehicle use, such as a sleeping bag, bedroll, blanket, sheet, pillow, kitchen utensils, cookware, cooking equipment, bodily fluids, or the storing of personal possessions or belongings that obscure some or all of the vehicle's windows; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Engaging or engaged in one or more of the following inside a vehicle: preparing or cooking meals or sleeping.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For any person to connect any camp car, motor home, travel trailer or any other vehicle which is equipped for sleeping or cooking or both, to any public utility, such as water, electricity, gas or sewer services, except as may be necessary for the maintenance and preparation of the vehicle. The duration of any such maintenance or preparation connection shall not exceed eight hours in any seven consecutive days.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.  It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines section 15378(b)(5), this action is categorically exempt from (CEQA) as an administrative activity that will not result in a potentially significant physical impact on the environment.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on January 4, 2016, and adopted on January 19, 2016, and shall be effective thirty days after its date of adoption.</text>
+  </section>
 </document>

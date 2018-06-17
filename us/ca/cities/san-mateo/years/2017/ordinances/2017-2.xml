@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-2">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-2">
   <num>2017-2</num>
-  <heading>AMENDING CHAPTER 2.80.030, “LIMITATIONS ON CONTRIBUTIONS,” OF THE SAN MATEO MUNICIPAL CODE</heading>
+  <heading>AMENDING CHAPTER 2.80.030, "LIMITATIONS ON CONTRIBUTIONS," OF THE SAN MATEO MUNICIPAL CODE</heading>
   <meta>
     <effective>2017-01-01</effective>
     <citations>
@@ -9,4 +9,54 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-2</citation>
     </citations>
   </meta>
+  <text>WHEREAS, in 2004 the City council added Chapter 2.80 to the San Mateo Municipal Code entitled "Contributions and Loans to City Candidate Campaigns"; and</text>
+  <text>WHEREAS, Section 2.80.080 requires that the City Council conduct a post-election review of the requirements of Chapter 2.80 to allow the Council to consider the ongoing appropriateness of the provisions of this chapter; and</text>
+  <text>WHEREAS, following the November 2015 election Council reviewed and analyzed the contribution limitations for effectiveness on January 19, 2016 and again on September 19, 2016 and directed staff to double the limitations on contributions for candidate elections from $250 for an individual to $500; and from $500 for an organization to $1,000 for all future candidate elections based on current economic conditions; and</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+  <section>
+    <num>1</num>
+    <text>Chapter 2.80.030 of the San Mateo Municipal Code is amended to read as follows:</text>
+    <include>
+      <section>
+        <num>2.80.030</num>
+        <heading>LIMITATIONS ON CONTRIBUTIONS.</heading>
+        <para>
+          <num>(a)</num>
+          <text>For any particular election, including a recall election, no individual shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any individual any contribution which will cause the total amount contributed by such individual to exceed $500.00.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For any particular election, including a recall election, no organization shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any organization any contribution which will cause the total amount contributed by such organization to exceed $1,000.00.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any contribution or portion thereof that exceeds the limits in this section shall be returned to the contributor within 72 hours of receipt.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The limitations imposed by this section shall not apply to contribution of a candidate's personal funds to the candidate's own campaign, or to any loan which is personally guaranteed by the candidate or is secured by property owned by the candidate.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.  It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines section 15378(b)(5), this action is categorically exempt from (CEQA) as an administrative activity that will not result in a potentially significant physical impact on the environment.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on January 3, 2017, and adopted on January 17,2017 and shall be effective thirty days after its date of adoption.</text>
+  </section>
 </document>

@@ -1,12 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2016-9">
-  <num>2016-9</num>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2016-9">
+  <num>2016 -9</num>
   <heading>AN EMERGENCY ORDINANCE OF THE CITY OF SAN MATEO IMPOSING A MORATORIUM ON THE USE OF ANY PROPERTY IN THE CITY OF SAN MATEO FOR THE CULTIVATION, PROCESSING, OR SALE OF MARIJUANA AND PROHIBITING THE OUTDOOR CULTIVATION OF MARIJUANA ON THE GROUNDS OF A PRIVATE RESIDENCE</heading>
   <meta>
     <effective>2016-01-01</effective>
     <citations>
-      <citation type="ord" url="https://www.cityofsanmateo.org/DocumentCenter/View/50906">Ord. No. 2016-9</citation>
-      <citation type="bb">City of San Mateo, Cal., Ord. No. 2016-9</citation>
+      <citation type="ord" url="https://www.cityofsanmateo.org/DocumentCenter/View/50906">Ord. No. 2016 -9</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2016 -9</citation>
     </citations>
   </meta>
+  <text>WHEREAS, on November 8, 2016, California voters will determine whether to approve Proposition 64 entitled "The Control, Regulate and Tax Adult Use of Marijuana Act" which, if enacted, would legalize the possession and use of marijuana by persons 21 years of age and older, and would make lawful, subject to state licensing, the cultivation, testing, and sale of nonmedical marijuana; and</text>
+  <text>WHEREAS, Proposition 64 would add Section 26200 to the California Business and Professions Code which would authorize the City of San Mateo "to completely prohibit the establishment or operation of one or more types of [marijuana] businesses" made lawful by the proposition; and</text>
+  <text>WHEREAS, Proposition 64 would add Section 11362.2 to the California Health and Safety Code which would, among other things, permit individuals to grow for their personal use marijuana at their homes, but authorizes the city to prohibit the cultivation of marijuana outdoors upon the grounds of a private residence; and</text>
+  <text>WHEREAS, the City Council has serious concerns about the cultivation, processing and sale of marijuana and marijuana products within the community and the outdoor cultivation of marijuana at private residences, including but not limited to, compatibility of these uses with sensitive neighboring uses, and potential security concerns with the open and obvious cultivation and sale of marijuana; and</text>
+  <text>WHEREAS, the San Mateo City Council is concerned that without carefully crafted, comprehensive local regulation these uses might have serious deleterious effects on the public peace, health, safety and general welfare of the city's residents, and the council has determined it needs sufficient time to study and consider the potential impacts of commercial marijuana enterprises before deciding whether to allow such uses within the community; and</text>
+  <text>WHEREAS, pending the City's study of these issues, the City wishes to impose a moratorium on the establishment of commercial marijuana enterprises and the outdoor cultivations of marijuana at private residences; and</text>
+  <text>WHEREAS, the City of San Mateo is a charter city; and</text>
+  <text>WHEREAS, City Charter section 2.16 provides that any ordinance declared by the City Council to be necessary as an emergency measure for preserving the public peace, health, safety, or welfare and containing the reasons for its urgency, may be introduced and passed at one meeting.</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO FINDS AND ORDAINS AS FOLLOWS:</text>
+  <section>
+    <num>1</num>
+    <text>
+      <strong>Findings.</strong>
+    </text>
+    <text>In accordance with City Charter Section 2.15, this Ordinance is necessary as an emergency measure to preserve the public health, safety, and welfare. If California voters approve Proposition 64, the commercial cultivation, processing, and sale of marijuana, as well as the cultivation for personal use of marijuana in one's private yard will be legal in the state.  These uses have the potential to have serious adverse impacts on the use of neighboring properties, including, the emission of nuisance odors, fire safety associated with the use of high intensity lighting, and security and public safety concerns associated with the open cultivation and sale of marijuana which has, and in the near term will continue to have, high dollar value in illicit markets.  In addition, these uses could have serious adverse impacts on the consumption of limited resources including excessive use of water and energy.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text><strong>Moratorium.  </strong>Notwithstanding any provision of the San Mateo Municipal Code to the contrary, this ordinance imposes a moratorium on:</text>
+    <para>
+      <num>a.</num>
+      <text>the use of any property within the city for the cultivation, storage, manufacturing, processing, or sale of nonmedical marijuana for adults 21 years of age and over;</text>
+    </para>
+    <para>
+      <num>b.</num>
+      <text>the possession, planting, cultivation, harvesting, drying, or processing of marijuana outdoors upon the grounds of a private residence; and</text>
+    </para>
+    <para>
+      <num>c.</num>
+      <text>the issuance of any permit, license, or certificate for the operation of any such uses shall be prohibited.</text>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <text>If the voters approve Proposition 64, nothing in this ordinance shall create any criminal liability for any individual who for personal use is processing, planting, possessing, cultivating, harvesting, or drying marijuana or marijuana products as defined in the proposition, so long as such activities occur indoors.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text><strong>Severability Clause.  </strong>The City Council of the City of San Mateo hereby declares that should any section, paragraph, sentence, phrase, term or word of this Ordinance, hereby adopted, be declared for any reason to be invalid, it is the intent of the City Council that it would have adopted all other portions of this ordinance irrespective of any such portioned declared invalid.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>CEQA.</heading>
+    <text>In accordance with CEQA Guidelines section 15378(a), adoption of this ordinance is not a "project" subject to CEQA, because the ordinance has no potential to result in either a direct physical change in the environment, or a reasonably foreseeable indirect physical change in the environment.  Even if adoption of this ordinance did constitute a "project," it would be exempt from CEQA in accordance with CEQA Guidelines section 15061(b)(3), because it can be seen with certainty that there is no possibility that the activity in question may have a significant impact on the environment.  The purpose of this urgency ordinance is to preserve the status quo while the City studies the potential adverse impacts of commercial marijuana enterprises and the outdoor cultivation of marijuana at private residences.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>EFFECTIVE DATE.</heading>
+    <text>This Ordinance shall take effect immediately upon passage by a 4/5ths vote of the City Council, and shall automatically be repealed on the 91st day after the date the ordinance is adopted, unless extended.  In addition, if Proposition 64 is not approved by the voters, this ordinance shall be of no effect.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>PUBLICATION.</heading>
+    <text>In accordance with City Charter Section 2.16, as soon as practicable after its passage, this Ordinance shall be published in summary in the official city newspaper.</text>
+    <text><strong>Section 8 	LEGISLATIVE HISTORY AND EFFECTIVE DATE.  </strong>PASSED AND ADOPTED by the City Council of the City of San Mateo, California at a regular City Council meeting held this 7th day of November 2016 by the following vote:</text>
+  </section>
 </document>

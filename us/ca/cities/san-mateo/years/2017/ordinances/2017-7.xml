@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-7">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-7">
   <num>2017-7</num>
   <heading>SETTING THE 2017-2018 SEWER SERVICE CHARGE</heading>
   <meta>
@@ -9,4 +9,38 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-7</citation>
     </citations>
   </meta>
+  <text>WHEREAS, the procedures set forth in Article XIIID § 6 of the California State Constitution (Proposition 218) for property-related fees apply to sewer service charge increases; and</text>
+  <text>WHEREAS, the City is following the procedure set forth in Article XIIID § 6 for this Sewer Service Charge increase; and</text>
+  <text>WHEREAS, notice of the proposed Sewer Service Charge increase was mailed to ratepayers and property owners on May 1, 2017; and</text>
+  <text>WHEREAS, a public hearing regarding the proposed Sewer Service Charge is scheduled for June 19, 2017, at 7:00 p.m. in the San Mateo City Hall Council Chambers, located at 330 West 20th Avenue, San Mateo, at which all protests against the rate increase and other comments will be considered; and</text>
+  <text>WHEREAS, in accordance with Article XIIID § 6 of the California Constitution:</text>
+  <text>The revenues derived from the Sewer Service Charge do not exceed the funds required to provide sewer service because the rate increase is needed to fund ongoing sewer system operation and maintenance and meet capital expenditures,</text>
+  <text>The revenues derived from the Sewer Service Charge will not be used for any purpose other than the provision of sewer service,</text>
+  <text>The Sewer Service Charge will not exceed the cost of sewer service attributable to each parcel,</text>
+  <text>The Sewer Service Charge is only charged for sewer service that is actually used by or currently available to the parcel in question,</text>
+  <text>The Sewer Service Charge pays for the provision of sewer service and not for general governmental services; and</text>
+  <text>WHEREAS, San Mateo Municipal Code section 3.54.030 provides the Council shall annually establish the Sewer Service Charge by ordinance.</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS THAT:</text>
+  <section>
+    <num>1</num>
+    <text>In accordance with California Environmental Quality Act guidelines section 15378(b)(4), introduction and adoption of this Ordinance is not a project subject to CEQA because the sewer service charge is a funding mechanism for the City sewer operations and capital projects.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Pursuant to San Mateo Municipal Code section 3.54.030, the 2017-2018 sewer service base rate is set at $12.31 per hundred cubic feet (CCF) of average winter water consumption.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Pursuant to San Mateo County requirements, the City Council authorizes collection of the Sewer Service Charge, which shall be billed on the real property tax roll for Fiscal Year 2017-2018, with the actual total to be updated for the County rolls when the calculation process is completed in late July 2017.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in the San Francisco Examiner, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the Charter and shall be effective 30 days after the date of adoption.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on June 5, 2017 and adopted on June 19, 2017 and shall be effective thirty days after its date of adoption<strong>.</strong></text>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-10">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-10">
   <num>2017-10</num>
   <heading>AMEND CHAPTER 7.40 SMOKING CONTROL SECTION 7.40.020(e), DELETE SECTION 7.40.070, AND UPDATE TABLE OF CONTENTS OF SAN MATEO MUNICIPAL CODE</heading>
   <meta>
@@ -9,4 +9,223 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-10</citation>
     </citations>
   </meta>
+  <text>WHEREAS, citizens and numerous organizations have expressed concerns and complaints associated with the harm caused by second-hand smoke from Medical Marijuana in multi-unit residences; and</text>
+  <text>WHEREAS, health hazards related to smoking, and breathing second-hand smoke, can include certain cancers and adverse respiratory effects and worsen the quality of life for citizens with existing allergies and respiratory diseases; and</text>
+  <text>WHEREAS, City finds it necessary to improve the definition of "multi-use residence" based on interpretation issues in the current code;</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+  <section>
+    <num>1</num>
+    <text>Chapter 7.40 of the San Mateo Municipal Code is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>7.40</num>
+        <heading>SMOKING CONTROL</heading>
+        <section>
+          <num>7.40.010</num>
+          <heading>FINDINGS AND PURPOSE.</heading>
+          <text>The City Council of the City of San Mateo hereby finds that:</text>
+          <para>
+            <num>(a)</num>
+            <text>Numerous studies have found that tobacco smoke is a major contributor to indoor air pollution; and</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Reliable studies have shown that breathing second-hand smoke, which has been classified as a carcinogen, is a significant health hazard for all persons; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Health hazards induced by breathing second-hand smoke include lung cancer, respiratory function, bronchoconstriction, and bronchospasm; and</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Nonsmokers with allergies, respiratory diseases and those who suffer other ill effects of breathing second-hand smoke may experience a loss of job productivity or may be forced to take periodic sick leave because of adverse reactions to same; and</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>There have been some studies that indicate that there are second-hand effects to those exposed to electronic cigarette vapors; and</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Accordingly, the City Council finds and declares that the purpose of this Chapter is to protect the public health and welfare by prohibiting smoking in public places, places of employment, and multi-unit residences as set forth herein.  (Ord. 2015-15 § 1; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
+          </para>
+        </section>
+        <section>
+          <num>7.40.020</num>
+          <heading>DEFINITIONS.</heading>
+          <text>The following words and phrases, whenever used in this article, shall be construed as defined in this section:</text>
+          <para>
+            <num>(a)</num>
+            <text><strong>"Dining Area"</strong> means any indoor or outdoor area which is available to, or customarily used by, the general public and which is designed, established or regularly used for consuming food or drink.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>"Employee"</strong> means any person who is employed by any employer in consideration for direct or indirect monetary wages or profit, and any person who volunteers his or her services for a non-profit entity.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>"Employer"</strong> means any person, partnership, corporation, or non-profit entity, including a municipal corporation, who employs the services of one or more persons.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>"Enclosed"</strong> means closed in by a roof and four walls with appropriate openings for ingress, egress, and windows.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><strong>"Multi-Unit Residence"</strong> means residential property containing two or more units, with one or more shared wall, floor, ceiling, roof, or ventilation system, including apartments, condominiums, duplexes or townhomes and their patios and balconies.  A multi-unit residence does not include:</text>
+            <para>
+              <num>(1)</num>
+              <text>A hotel or motel that meets the requirements set forth in California Civil Code section 1940(b)(2);</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>A residential care facility or assisted living facility governed by federal or state community care licensing regulations;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>A detached single-family residence.</text>
+            </para>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><strong>"Multi-Unit Residence Common Area"</strong> means any indoor or outdoor common area of a multi-unit residence accessible to and usable by residents of different units, including halls and paths, lobbies, laundry rooms, common cooking areas, outdoor eating areas, play areas, shared patios, shared balconies, shared restrooms, elevators and stairwells, swimming pools, carports, garages and parking areas.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><strong>"Non-Profit Entity"</strong> means any corporation, unincorporated association, or other entity created for charitable, educational, political, social, or other similar purposes, the net proceeds from the operations of which are committed to the promotion of the objects or purposes of the organization and not to private financial gain. A public agency is not a "non-profit entity" within the meaning of this section.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text><strong>"Public Place"</strong> means any enclosed or unenclosed area to which the public is invited or in which the public is permitted, including banks, bars, educational facilities, health facilities, public transportation facilities, reception areas, restaurants, retail food production and marketing establishments, retail service establishments, retail stores, streets and sidewalks, theaters, and waiting rooms.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><strong>"Retail Tobacco Store"</strong> means a retail store utilized primarily for the sale of tobacco products and accessories.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text><strong>"Service Area"</strong> means any publicly or privately owned area, including streets and sidewalks, that is designed to be used or is regularly used by one or more persons to receive a service, wait to receive a service or to make a transaction, whether or not such a service or transaction includes the exchange of money. The term "service area" includes but is not limited to information kiosks, automatic teller machines (ATMs), ticket lines, bus stops, train stations, mobile vendor lines or taxi stands.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text><strong>"Smoking"</strong> means possessing a lighted or ignited tobacco, nicotine or marijuana product or paraphernalia; or engaging in an act that generates smoke (including, but not limited to, possessing a lighted or ignited pipe, hookah pipe, cigar, electronic cigarette or cigarette of any kind); or lighting or igniting a pipe, hookah pipe, cigar, electronic cigarette or a cigarette of any kind.  Smoking includes the use of any product which emits smoke in the form of gases, particles, vapors or other byproducts released by electronic cigarettes, tobacco cigarettes, herbal cigarettes, marijuana cigarettes and any other type of cigarette, pipe or other implement for the purpose of inhalation of vapors, gases, particles or their byproducts released as a result of combustion or ignition.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text><strong>"Tobacco product"</strong> means any substance containing tobacco leaf, including cigarettes, cigars, loose tobacco, snuff or any other preparation of tobacco which may be used for smoking, chewing, inhalation or other means of ingestion; and any electronic cigarette or other electronic device used to generate smoke; and any product or formulation or matter containing biologically active amounts of nicotine that is manufactured, sold, offered for sale, or otherwise distributed with the expectation that the product or matter will be introduce3d into the human body, but does not include any cessation product specifically approved by the United States Food and Drug Administration for the use in treating nicotine or tobacco dependence.  (Ord. 2015-15 § 1; Ord. 1995-24 § 3; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
+          </para>
+        </section>
+        <section>
+          <num>7.40.030</num>
+          <heading>PROHIBITION OF SMOKING IN CITY FACILITIES AND ON CITY PROPERTY.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Smoking is prohibited in all buildings, vehicles and other enclosed areas owned or leased by the City of San Mateo or otherwise operated by the City of San Mateo.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Smoking is prohibited in all outdoor areas owned or leased by the City of San Mateo, including parking lots, park properties and facilities, golf courses, and any of the grounds surrounding the buildings, facilities or areas owned or leased by the City of San Mateo, excluding streets and sidewalks.  (Ord. 2015-15 § 1; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
+          </para>
+        </section>
+        <section>
+          <num>7.40.040</num>
+          <heading>PROHIBITION OF SMOKING IN PUBLIC PLACES.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Smoking is prohibited in all enclosed public places except hotel and motel lodging rooms rented to guests, provided that not more than 50% of the rooms may be designated as rooms where smoking is allowed.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Smoking is prohibited in the following unenclosed public places:</text>
+            <para>
+              <num>(1)</num>
+              <text>Service areas.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Dining areas.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Lagoons and waterways. (Ord. 2015-15 § 1; Ord. 2003-15 § 1; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>7.40.050</num>
+          <heading>PROHIBITION OF SMOKING IN MULTI-UNIT RESIDENCES.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Smoking is prohibited inside any multi-unit residence or within 40 feet of a multi-unit residence.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Smoking is prohibited within any enclosed or unenclosed multi-unit residence common area. (Ord. 2015-15 § 1; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
+          </para>
+        </section>
+        <section>
+          <num>7.40.060</num>
+          <heading>WHERE SMOKING NOT REGULATED.</heading>
+          <text>Notwithstanding any other provisions of this chapter to the contrary, private vehicles and detached single-family residences, except during the time that the residence is used as a child care or a health care facility, shall not be subject to the smoking restrictions of this Chapter.  (Ord. 2015-15 § 1; Ord. 2003-15 § 2; Ord. 1995-10 § 1; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
+        </section>
+        <section>
+          <num>7.40.080</num>
+          <heading>VIOLATIONS AND ENFORCEMENT.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any violation of this Chapter is punishable as specified in Title 1 of the San Mateo Municipal Code.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Causing, permitting, aiding, abetting or concealing a violation of any provisions of this Chapter shall also constitute a violation of this Chapter.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Any violation of the provisions of this Chapter are declared to be a public nuisance and may be abated by appropriate civil action, including injunction.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The remedies provided by this section are cumulative and are in addition to any other remedy existing at law or in equity.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Any aggrieved person under this Chapter may bring a civil action as a private enforcer to compel compliance with this Chapter, provided that the aggrieved person shall have first requested in writing</text>
+          </para>
+          <text>that the City of San Mateo take enforcement action and the City of San Mateo shall have failed to do so after forty-five days. Upon proof of violations by the private enforcer in a civil action, a court shall grant all appropriate relief, including (1) awarding damages and/or (2) issuing an injunction.  (Ord. 2015-15 § 1; Ord. 1996-8 § 1; Ord. 1995-24 § 4; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
+        </section>
+        <section>
+          <num>7.40.090</num>
+          <heading>NONDISCRIMINATION.</heading>
+          <text>No person shall discharge, refuse to hire, or in any manner discriminate against any employee or applicant for employment because such employee or applicant exercises any rights afforded by this chapter. (Ord. 2015-15 § 1; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
+        </section>
+        <section>
+          <num>7.40.100</num>
+          <heading>Vending Machines—Sales Prohibited.</heading>
+          <text>No cigarette or other tobacco product may be sold, offered for sale, or distributed by or from a vending machine or appliance, or other device designed or used for vending purposes, whether such sale or distribution is by cash, pre-paid ticket/card, or otherwise.  (Ord. 2015-15 § 1; Ord. 1995-24 § 1)</text>
+        </section>
+        <section>
+          <num>7.40.110</num>
+          <heading>Self-Service Displays Prohibited.</heading>
+          <para>
+            <num>(a)</num>
+            <text>No person, firm, association, or corporation shall sell, permit to be sold, or offer for sale any cigarette or other tobacco product by means of self-service displays or by any means other than vendor-assisted sales.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Self-service display shall mean an open display of tobacco products that the public has access to without the intervention or assistance of an employee. Vendor assisted shall mean that only a store employee has access to the tobacco product and assists the customer by supplying the product.  (Ord. 2015-15 § 1; Ord. 1995-24 § 2)</text>
+          </para>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on June 19, 2017 and adopted on July 17, 2017, and shall be effective thirty days after its date of adoption.</text>
+  </section>
 </document>

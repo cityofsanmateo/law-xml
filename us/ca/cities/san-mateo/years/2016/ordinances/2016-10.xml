@@ -1,12 +1,1378 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2016-10">
-  <num>2016-10</num>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2016-10">
+  <num>2016–10</num>
   <heading>AMENDING TITLE 23 OF THE SAN MATEO MUNICIPAL CODE TO AMEND CHAPTER 23.06 ADMINISTRATIVE CODE, ADOPT THE 2016 EDITION OF THE CALIFORNIA BUILDING, RESIDENTIAL, ELECTRICAL, MECHANICAL, PLUMBING AND EXISTING BUILDING CODES WITH LOCAL AMENDMENTS; AND REPEAL CHAPTER 23.44 SWIMMING POOLS</heading>
   <meta>
     <effective>2016-01-01</effective>
     <citations>
-      <citation type="ord" url="https://www.cityofsanmateo.org/DocumentCenter/View/50950">Ord. No. 2016-10</citation>
-      <citation type="bb">City of San Mateo, Cal., Ord. No. 2016-10</citation>
+      <citation type="ord" url="https://www.cityofsanmateo.org/DocumentCenter/View/50950">Ord. No. 2016–10</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2016–10</citation>
     </citations>
   </meta>
+  <text>The City Council of the City of San Mateo, California, ordains as follows:</text>
+  <section>
+    <num>1</num>
+    <text>Chapter 23.06 (Administrative Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>23.06</num>
+        <heading>– Administration</heading>
+        <section>
+          <num>23.06.010</num>
+          <heading>ADOPTION</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>Purpose</strong>. The purpose of this code is to provide for the administration and enforcement of the technical codes embodied in Chapters 23.07, 23.08, 23.09, 23.10, 23.12, 23.16, 23.20, 23.24, 23.44, 23.46, 23.54, 23.56, 23.58, 23.70.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>Scope</strong>. The provisions of this code shall serve as the administrative, organizational and enforcement rules and regulations for the technical codes which regulate site preparation and construction, alteration, moving, demolition, repair, use and occupancy of buildings, structures and building service equipment within this jurisdiction.</text>
+            <text>Exceptions:</text>
+            <para>
+              <num>(1)</num>
+              <text>No section of this Chapter shall impose a mandatory duty of enforcement on the city, or on any officer, official, agent, employee, board, council, or commission thereof.  Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the city, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section, or not to enforce it.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A copy of this Chapter shall at all times be kept on file in the office of the City Clerk.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.06.011</num>
+          <heading>APPLICATION TO EXISTING BUILDINGS AND BUILDING SERVICE EQUIPMENT</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>General</strong>. Buildings, structures and their building service equipment to which additions, alterations or repairs are made shall comply with all the requirements of the Existing Building Codes in Chapter 23.09, except as specifically provided in this section.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>Existing Structures.</strong> The legal occupancy of any structure existing on the date of adoption of this code shall be continue without change, except as otherwise specifically provided in this code, the Existing Building Code, the Property Maintenance Code or the Fire Code.</text>
+            <para>
+              <num>(1)</num>
+              <text><strong>Buildings not previously occupied</strong>. A building or portion of a building that has not been previously occupied or used for its intended purpose in accordance to the laws in existence at the time of its completion shall comply with the provisions of the Building Code or Residential Code, as applicable, for new construction or with any current permit for such occupancy.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><strong>Buildings previously occupied</strong>. The legal occupancy of any existing building on the date of adoption of this code shall be permitted to continue without change, except otherwise specifically provided in the Building Code, Existing Building Code, Property Maintenance Code or the Fire Code or as is deemed necessary by the building official for the general safety and welfare of the occupants and the public.</text>
+            </para>
+            <text>A change in the use or occupancy of any existing building or structure shall comply with the provisions of Chapter 23.09 of this code.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>Existing Installations</strong>. Building service equipment lawfully in existence at the time of the adoption of the technical codes may have their use, maintenance or repair continued if the use, maintenance or repair is in accordance with the original design and a hazard to life, health or property has not been created by such building service equipment.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>Maintenance</strong>. Buildings, structures and building service equipment, existing and new, and parts thereof shall be maintained in a safe and sanitary condition. Devices or safeguards which are required by the technical codes shall be maintained in conformance with the technical code under which installed. The owner or the owner's designated agent shall be responsible for the maintenance of buildings, structures and their building service equipment. To determine compliance with this section, the building official may cause a structure to be re-inspected.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><strong>Moved Buildings</strong>. Buildings, structures and their building service equipment moved into or within this jurisdiction shall comply with the provisions of the technical codes for new building or structures and their building service equipment.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><strong>Temporary Structures</strong>. Temporary structures such as reviewing stands and other miscellaneous structures, sheds, canopies or fences used for the protection of the public around and in conjunction with construction work may be erected by special permit from the building official for a limited period of time. Buildings or structures erected under a special permit need not comply with the type of construction or fire-resistive time periods required by the Building Code. Temporary buildings or structures shall be completely removed upon the expiration of the time limit state in the permit.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><strong>Historic Buildings</strong>.  Repairs, alterations and additions necessary for the preservation, restoration, rehabilitation or continued use of a building, structure, or its building service equipment may be made without conforming to the requirements of the technical codes when authorized by the building official, provided:</text>
+            <para>
+              <num>(1)</num>
+              <text>The building or structure has been designated by official action of the legally constituted authority of this jurisdiction as having special historical or architectural significance.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Unsafe conditions as described in this code are corrected.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The restored building or structure and its building service equipment will be no more hazardous based on life safety, fire-safety and sanitation than the existing building.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.06.012</num>
+          <heading>DEFINITIONS</heading>
+          <text>For the purpose of this code, certain terms, phrases, words and their derivatives shall be construed as specified in this section. Where terms are not defined, they shall have their ordinarily accepted meanings within the context with which they are used. Webster's Third New International Dictionary of the English Language, Unabridged, copyright 1986, shall be considered as providing ordinarily accepted meanings. Words used in the singular include the plural and the plural the singular. Words used in the masculine gender include the feminine and the feminine the masculine.</text>
+          <text><strong>ADDITION </strong>is an extension or increase in floor area or height of a building or structure.</text>
+          <text><strong>ALTER or ALTERATION </strong>is a change or modification in construction or building service equipment.</text>
+          <text><strong>APPROVED, </strong>as to materials, types of construction, equipment and systems, refers to approval by the building official as the result of investigation and tests conducted by the building official, or by reason of accepted principles or tests by recognized authorities, technical or scientific organizations.</text>
+          <text><strong>APPROVED AGENCY </strong>is an established and recognized agency regularly engaged in conducting tests or furnishing inspection services, when the agency has been approved by the building official.</text>
+          <text><strong>BUILDING </strong>is a structure used or intended for supporting or sheltering a use or occupancy.</text>
+          <text><strong>BUILDING CODE </strong>is the California Building Code promulgated by the International Code Council, as adopted by this jurisdiction.</text>
+          <text><strong>BUILDING, EXISTING </strong>is a building erected prior to the adoption of this code, or one for which a legal building permit has been issued.</text>
+          <text><strong>BUILDING OFFICIAL </strong>is the officer or other designated authority charged with the administration and enforcement of this code, or a regularly authorized deputy.</text>
+          <text><strong>BUILDING SERVICE EQUIPMENT </strong>refers to the plumbing, mechanical, electrical and elevator equipment including piping, wiring, fixtures and other accessories which provide sanitation, lighting, heating, ventilation, cooling, refrigeration, fire-fighting and transportation facilities essential to the occupancy of the building or structure for its designated use.</text>
+          <text><strong>ELECTRICAL CODE</strong> is the California Electrical Code promulgated by the National Fire Protection Association, as adopted by this jurisdiction.</text>
+          <text><strong>ELEVATOR CODE</strong> is the safety code for elevators, dumbwaiters, escalators and moving walks as adopted by this jurisdiction.</text>
+          <text><strong>GREEN BUILDING CODE </strong>is the California Green Building Standards Code promulgated by the International Code Council, as adopted by this jurisdiction.</text>
+          <text><strong>JURISDICTION</strong>, as used in this code, is a state or political subdivision which adopts this code for administrative regulations in its area of authority.</text>
+          <text><strong>LISTED and LISTING</strong> are terms referring to equipment and materials included in a list published by an approved testing laboratory, inspection agency, or other organization concerned with product evaluation that maintains periodic inspection of current productions of listed equipment or materials. The published list shall state that the material or equipment complies with approved nationally recognized codes, standards or tests and has been tested or evaluated and found suitable for use in a specified manner.</text>
+          <text><strong>MECHANICAL CODE</strong> is the California Mechanical Code promulgated by the International Association of Plumbing and Mechanical Officials, adopted by this jurisdiction.</text>
+          <text><strong>OCCUPANCY</strong> is the purpose for which a building, or part thereof, is used or intended to be used.</text>
+          <text><strong>OWNER</strong> is any person, agent, firm or corporation having a legal or equitable interest in the property.</text>
+          <text><strong>PERMIT</strong> is an official document or certificate issued by the building official authorizing performance of a specified activity.</text>
+          <text><strong>PERSON</strong> is a natural person, heirs, executors, administrators or assigns, and also includes a firm, partnership or corporation, its or their successors or assigns, or the agent of any of the aforesaid.</text>
+          <text><strong>PLUMBING CODE</strong> is the California Plumbing Code, as adopted by this jurisdiction.</text>
+          <text><strong>PROPERTY MAINTENANCE CODE</strong> is the International Property Maintenance Code, promulgated by the International Code Council, as adopted by this jurisdiction.</text>
+          <text><strong>REPAIR</strong> is the reconstruction or renewal of any part of an existing building, structure or building service equipment for the purpose of its maintenance.</text>
+          <text><strong>RESIDENTIAL CODE </strong>is the California Residential Code promulgated by the International Code Council, as adopted by this jurisdiction.</text>
+          <text><strong>SHALL</strong>, as used in this code, is mandatory.</text>
+          <text><strong>STRUCTURAL OBSERVATION</strong> means the visual observation of the structural system, for general conformance to the approved plans and specifications, at significant construction stages at completion of the structural system. Structural observation does not include or waive the responsibility for the inspections required by Sections 23.06.110 and 23.06.130.</text>
+          <text><strong>STRUCTURE</strong> is that which is built or constructed, an edifice or building of any kind, or any piece of work artificially built up or posed of parts joined together in some definite manner.</text>
+          <text><strong>TECHNICAL CODES</strong> refer to those codes adopted by this jurisdiction containing the provisions for design, construction, alteration, addition, repair, removal, demolition, use, location, occupancy and maintenance of buildings and structures and building service equipment as herein defined.</text>
+          <text><strong>VALUATION or VALUE</strong>, as applied to a building and its building service equipment, shall be the estimated cost to replace the building and its building service equipment in kind, based on current replacement costs.</text>
+        </section>
+        <section>
+          <num>23.06.013</num>
+          <heading>CONFLICTING PROVISIONS</heading>
+          <text>When conflicting provisions or requirements occur between this code, the technical codes and other codes or laws, the most restrictive shall govern.</text>
+          <text>When conflicts occur between the technical codes, those provisions providing the greater safety to life shall govern. In other conflicts where sanitation, life safety or fire safety are not involved, the most restrictive provisions shall govern.</text>
+          <text>Where in a specific case, different sections of the technical codes specify different materials, methods of construction or other requirements, the most restrictive shall govern. When there is a conflict between a general requirement and a specific requirement, the specific requirement shall govern.</text>
+          <text>When conflicts occur between specific provisions of this code and administrative provisions in a technical code which is then applicable within this jurisdiction, those provisions becoming the law most recently shall govern.</text>
+        </section>
+        <section>
+          <num>23.06.014</num>
+          <heading>ALTERNATE MATERIALS, METHODS OF DESIGN AND METHODS OF CONSTRUCTION</heading>
+          <text>The provisions of the technical codes are not intended to prevent the use of any material, method of design or method of construction not specifically prescribed by the technical codes, provided an alternate has been approved and its use authorized by the building official.</text>
+          <text>The building official may approve an alternate, provided the building official finds that the proposed design is satisfactory and complies with the provisions of the technical codes and that the material, method or work offered is, for the purpose intended, at least the equivalent of that prescribed in the technical codes in suitability, strength, effectiveness, life resistance, durability, safety and sanitation.</text>
+          <text>The building official shall require that sufficient evidence or proof be submitted to substantiate claims that may be made regarding its use.  The details of an action granting approval of an alternate shall be recorded and entered in the files of the code enforcement agency.</text>
+        </section>
+        <section>
+          <num>23.06.015</num>
+          <heading>MODIFICATIONS</heading>
+          <text>Whenever there are practical difficulties involved in carrying out provisions of the technical codes, the building official may grant modifications for individual cases. The building official shall first find that a special and unique reason makes the strict letter of the technical code impractical, the modification is in conformity with the intent and purpose of the technical code, and that such modification does not lessen health, life safety and fire safety requirements or any degree of structural integrity. The details of actions granting modifications shall be recorded and entered in the files of the building division.</text>
+        </section>
+        <section>
+          <num>23.06.016</num>
+          <heading>TESTS</heading>
+          <text>Whenever there is insufficient evidence of compliance with the provisions of the technical codes or evidence that materials or construction do not conform to the requirements of the technical codes, the building official may require tests as evidence of compliance to be made at no expense to the jurisdiction.</text>
+          <text>Test methods shall be as specified by the technical codes or by other recognized test standards. In the absence of recognized and accepted test methods, the building official shall determine test procedures.</text>
+          <text>Tests shall be made by an approved agency. Reports of such tests shall be retained by the building official for the period required for the retention of public records.</text>
+        </section>
+        <section>
+          <num>23.06.017</num>
+          <heading>TEMPORARY BUILDING</heading>
+          <text>Real estate sales and leasing of the building or buildings under construction may be conducted from a temporary structure located on the construction site, subject to the conditions and procedures established in Section 26.04.130 of this code.</text>
+        </section>
+        <section>
+          <num>23.06.020</num>
+          <heading>AUTHORITY</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>Creation of Enforcement Agency</strong>. There is hereby established in this jurisdiction a permit and inspection agency which shall be under the administrative and operational control of the building official.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>General</strong>. Whenever the term or title "administrative authority" "responsible official," "building official," "plan examiners,", "related technical officers," or other similar designation is used herein or in any of the technical codes, it shall be construed to mean the building official designated them due to his appointing authority in this jurisdiction.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.06.021</num>
+          <heading>POWERS AND DUTIES OF BUILDING OFFICIAL</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>General</strong>. The building official is hereby authorized and directed to enforce all the provisions of this code and the referred technical codes. For such purposes, the building official shall have the powers of a law enforcement officer.</text>
+          </para>
+          <text>The building official shall have the power to render interpretations of this code and the referenced technical codes, and to adopt and enforce rules and regulations supplemental to this code as may be deemed necessary to clarify the application of the provisions of this code. Such interpretations, rules and regulations shall be in conformity with the intent and purpose of this code.</text>
+          <para>
+            <num>(b)</num>
+            <text><strong>Deputies</strong>. In accordance with prescribed procedures and with the approval of the appointing authority, the building official may appoint such number of technical officers and inspectors and other employees as shall be authorized from time to time. The building official may deputize such inspectors or employees as may be necessary to carry out the functions of the code enforcement agency.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>Right of Entry</strong>. When necessary to make an inspection to enforce any of the provisions of this code and the technical codes, or when the building official has reasonable cause to believe that there exists in any building or upon a premises a condition which is contrary to or in violation of this code which makes the building or premises unsafe, dangerous or hazardous, the building official may enter the building or premises at all reasonable times to inspect or to perform the duties imposed by this code, provided that such building or premises be occupied, that credentials be presented to the occupant and entry requested. If such building or premises be unoccupied, the building official shall first make a reasonable effort to locate the owner or other persons having charge or control of the building or premises and request entry. Should entry be refused, the building official shall have recourse the remedies provided by law to secure entry.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>Stop Orders</strong>. When work is being done contrary to the provisions of this code, the technical codes, or other pertinent laws or ordinances implemented through the enforcement of this code, the building official may order the work stopped by notice in writing served on persons engaged in the doing or causing such work to be done, and such persons shall forthwith stop the work until authorized by the building official to proceed with the work.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><strong>Occupancy Violations</strong>. When a building or structure or building service equipment therein regulated by this code and the technical codes is being used contrary to the provisions of such codes, the building official may order such use discontinued by written notice served on any person causing such use to be continued.  Such person shall discontinue the use within the time prescribed by the building official after receipt of such notice to make the structure, or portion thereof, comply with the requirements of such codes.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><strong>Authority to Disconnect Utilities</strong>. The building official or the building official's authorized representative shall have the authority to disconnect a utility service or energy supplied to the building, structure or building service equipment therein regulated by this code or the technical codes in case of emergency where necessary to eliminate an immediate hazard to life or property. The building official shall whenever possible notify the serving utility, the owner and occupant of the building, structure or building service equipment of the decision to disconnect prior to taking such action, and shall notify such serving utility, owner and occupant of the building, structure or building service equipment, in writing, of such disconnection immediately thereafter.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><strong>Authority to Condemn Building Service Equipment</strong>. When the building official ascertains that building service equipment regulated in the technical codes has become hazardous to life, health or property, or has become unsanitary, the building official shall order in writing that such equipment either be removed or restored to a safe or sanitary condition, as appropriate. The written notice itself shall fix a time limit for compliance with such order. Defective building service equipment shall not be maintained after receiving such notice.</text>
+          </para>
+          <text>When such equipment or installation is to be disconnected, a written notice of such disconnection and causes therefore shall be given within 24 hours to the serving utility, the owner and occupant of such building, structure or premises.</text>
+          <text>When any building service equipment is maintained in violation of the technical codes and in violation of a notice issued pursuant to the provisions of this section, the building official shall institute appropriate action to prevent, restrain, correct or abate the violation.</text>
+          <para>
+            <num>(h)</num>
+            <text><strong>Connection after Order to Disconnect</strong>. Persons shall not make connections from an energy, fuel or power supply nor supply energy or fuel to building service equipment which has been disconnected, ordered to be disconnected, or the use of which has been ordered to be discontinued by the building official until the building official authorizes the reconnection and use of such equipment.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><strong>Liability</strong>. The building official charged with the enforcement of this code and the technical codes, acting in good faith and without malice in the discharge of his duties, shall not thereby be rendered personally liable for damage that may accrue to persons or property as a result of an act or omission in the discharge of the assigned duties. A suit brought against the building official or any city employee because of such act or omission performed by the building official or employee in the enforcement of the provisions of such codes or other pertinent laws or ordinances implemented through the enforcement of this code or enforced by the code enforcement agency shall be defended by this jurisdiction until final termination of such proceedings, and any judgment resulting there from, shall be assumed by this jurisdiction.</text>
+          </para>
+          <text>This code shall not be construed to relieve from or lessen the responsibility of any person owning, operating or controlling a building, structure or building service equipment therein for damages to persons or property caused by defects, nor shall the code enforcement agency or the City be held as assuming such liability by reason of the inspections authorized by this code or permits or the certificates issued under this code.</text>
+          <para>
+            <num>(j)</num>
+            <text><strong>Cooperation of Other Officials and Officers</strong>. The building official may request, and shall receive, the assistance and cooperation of other officials of this jurisdiction so far as is required in the discharge of the duties required by this code or other pertinent laws and ordinances.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.06.030</num>
+          <heading>UNSAFE BUILDINGS, STRUCTURES OR BUILDING SERVICE EQUIPMENT</heading>
+          <text>Buildings or structures regulated by this code and the technical codes which are structurally inadequate or have inadequate egress, or which constitute a fire hazard, or are otherwise dangerous to human life are, for the purpose of this section, unsafe buildings.</text>
+          <text>Building service equipment regulated by such codes, which constitutes a fire, electrical or health hazard, an unsanitary condition, or is otherwise dangerous to human life is, for the purpose of this section, unsafe. Use of buildings, structures or building service equipment constituting a hazard to safety, health or public welfare by reason of inadequate maintenance, dilapidation, obsolescence, fire hazard, disaster, damage or abandonment is, for the purpose of this section, an unsafe use.</text>
+          <text>Parapet walls, cornices, spires, towers, tanks, statuary and other appendages or structural members which are supported by, attached to, or a part of a building and which are in a deteriorated condition or otherwise unable to sustain the design loads which are specified in the Building Code are hereby designated as unsafe building appendages.</text>
+          <text>Unsafe buildings, structures or appendages and building service equipment are hereby declared to be public nuisances and shall be abated by repair, rehabilitation, demolition or removal in accordance with the procedures set forth in the Property Maintenance Code or such alternate procedure as may be adopted by this jurisdiction.  As an alternative, the building official or other employee or official of this jurisdiction as designated by the city manager may institute other appropriate</text>
+          <text>action to prevent, correct or abate the violation.</text>
+        </section>
+        <section>
+          <num>23.06.040</num>
+          <heading>APPEALS</heading>
+          <para>
+            <num>(a)</num>
+            <text>Except as may be required by state or federal law (including requirements imposed by</text>
+          </para>
+          <text>provisions of the state or federal constitutions) or by the provisions of section 2.21.030 of</text>
+          <text>the Municipal Code, the determinations and actions of the building official interpreting and enforcing the provisions of the technical codes shall be final, and are not subject to appeal.</text>
+          <para>
+            <num>(b)</num>
+            <text>Appeals brought pursuant to subsection (a) are subject to the following requirements:</text>
+            <para>
+              <num>(1)</num>
+              <text>The appellant shall file a notice of appeal with the City Clerk within 30 days of the building official's action or determination.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The notice of appeal shall state the basis upon which the appeal is made, including a reference to the provision of law requiring the appeal opportunity.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The appellant shall pay the appeal fee provided for in the City's adopted fee manual.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Appeals brought under subsection (a) shall be heard by the Community Relations Commission. The appeals shall be processed as expeditiously as is reasonably possible under the circumstances.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.06.050</num>
+          <heading>VIOLATIONS and PENALTIES</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>Unlawful acts.</strong> It shall be unlawful for any person, firm or corporation to erect, construct, alter, extend, repair, move, remove, demolish or occupy any building, structure or equipment regulated by this code, or cause same to be done, in conflict with or in violation of any of the provisions of this code.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>Notice of violation.</strong> The building official is authorized to serve a notice of violation or order on the person responsible for the erection, construction, alteration, extension, repair, moving, removal, demolition or occupancy of a building or structure in violation of the provisions of this code, or in violation of a permit or certificate issued under the provisions of this code. Such order shall direct the discontinuance of the illegal action or condition and the abatement of the violation.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>Prosecution of violation.</strong> If the notice of violation is not complied with promptly, the building official is authorized to request the city attorney to institute the appropriate proceeding at law or in equity to restrain, correct or abate such violation, or to require the removal or termination of the unlawful occupancy of the building or structure in violation of the provisions of this code or of the order or direction made pursuant thereto.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>Violation penalties.</strong> Any person who violates a provision of this code or fails to comply with any of the requirements thereof or who erects, constructs, alters or repairs a building or structure in violation of the approved construction documents or directive of the building official, or of a permit or certificate issued under the provisions of this code, shall be subject to penalties as prescribed by law.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.06.060</num>
+          <heading>HOURS OF WORK</heading>
+          <text>No work regulated by this code shall be permitted between the hours of 7 p.m. and 7 a.m., Monday through Friday, nor prior to 9 a.m. or after 5 p.m. on Saturday, nor prior to 12 noon or after 4 p.m. on Sundays and holidays.  These hours do not apply to construction work that takes place inside a completely enclosed building and does not exceed the exterior ambient noise level as measured ten feet from the exterior property lines.</text>
+        </section>
+        <section>
+          <num>23.06.061</num>
+          <heading>HOURS OF WORK EXEMPTION</heading>
+          <text>As a condition of approval of a planning application issued pursuant to Title 26 and Title 27 of this code, a condition may be established which authorizes an exemption from the hours of work designated in Section 23.06.060 if the Building Official finds that:</text>
+          <para>
+            <num>(a)</num>
+            <text>The following criteria are met:</text>
+            <para>
+              <num>1.</num>
+              <text>Permitting extended hours of construction will decrease the total time needed to complete the project thus mitigating the total amount of noise associated with the project as a whole; or</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>An emergency situation exists where the construction is necessary to correct an unsafe or dangerous condition resulting in obvious and eminent peril to public health and safety.  If such a condition exists, the City may waive any of the remaining requirements outlined below.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The exemption will not conflict with any other conditions of approval required by the City to mitigate significant impacts.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The contractor or owner of the property will notify residential and commercial occupants of property adjacent to the construction site of the hours of construction activity which may impact the area.  This notification must be provided at least three days prior to the start of the construction activity.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The approved hours of construction activity will be posted at the construction site in a place and manner that can be easily viewed by an interested member of the public.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The Building Official may revoke the exemption at any time if the contractor or owner of the property fails to abide by the conditions of the exemption or if it is determined that the peace, comfort and tranquility of the occupants of adjacent residential or commercial properties are impaired because of the location and nature of the construction.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.06.070</num>
+          <heading>PERMITS</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>Permits Required</strong>.  Except as specified in Section 23.06.070(b) no building, structure or building service equipment regulated by this code and the technical codes shall be erected, constructed, enlarged, altered, repaired, moved, improved, removed, converted or demolished unless a separate, appropriate permit for each building, structure or building service equipment has first been obtained from the building official.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>Work Exempt from Permit</strong>.  A permit shall not be required for the types of work listed below. Exemption from the permit requirements of this code shall not be deemed to grant authorization for any work to be done in violation of the provisions of the technical codes or any other laws or ordinances of this jurisdiction.</text>
+            <para>
+              <num>(1)</num>
+              <text><strong>Building permits</strong>.  A building permit shall not be required for the following:</text>
+              <para>
+                <num>(i)</num>
+                <text>One-story detached accessory structures used as tool and storage sheds, playhouses and similar uses, provided the floor area does not exceed 120 square feet (11 m2).</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Fences not over 7 feet (2134 mm) high.</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>Oil derricks.</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>Retaining walls that are not over 4 feet (1219 mm) in height measured from the bottom of the footing to the top of the wall, unless supporting a surcharge or impounding Class I, II or IIIA liquids.</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>Water tanks supported directly on grade if the capacity is not greater than 5,000 gallons (18,925 L) and the ratio of height to diameter or width is not greater than 2:1.</text>
+              </para>
+              <para>
+                <num>(vi)</num>
+                <text>Platforms, sidewalks and driveways not more than 18" inches (457 mm) above adjacent grade and not over any basement or story below and are not part of an accessible route, if located other than in the front or street side yard as defined by Title 27 (Zoning Code). (Ord. 1999-8 § 2, 1999; Ord. 1992-16 § 20, 1992).</text>
+              </para>
+              <para>
+                <num>(vii)</num>
+                <text>Painting, papering, tiling, carpeting, cabinets, counter tops and similar finish work.</text>
+              </para>
+              <para>
+                <num>(viii)</num>
+                <text>Temporary motion picture, television and theater stage sets and scenery.</text>
+              </para>
+              <para>
+                <num>(ix)</num>
+                <text>Prefabricated swimming pools accessory to a Group R-3 occupancy that are less than 24 inches (610 mm) deep, and are not greater than 5,000 gallons (18 925 L) and are installed entirely above ground.</text>
+              </para>
+              <para>
+                <num>(x)</num>
+                <text>Shade cloth structures constructed for nursery or agricultural purposes, not including service systems.</text>
+              </para>
+              <para>
+                <num>(xi)</num>
+                <text>Swings and other playground equipment accessory to detached one- and two-family dwellings.</text>
+              </para>
+              <para>
+                <num>(xii)</num>
+                <text>Window awnings in Group R-3 and U occupancies, supported by an exterior wall that do not project more than 54 inches (1372 mm) from the exterior wall and do not require additional support.</text>
+              </para>
+              <para>
+                <num>(xiii)</num>
+                <text>Non-fixed and movable fixtures, cases, racks, counters and partitions not over 5 feet 9 inches (1753 mm) in height.</text>
+              </para>
+              <text>Unless otherwise exempted by this code, separate plumbing, electrical and mechanical permits will be required for the above exempted items.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><strong>Plumbing permits</strong>.  A plumbing permit shall not be required for the following:</text>
+              <para>
+                <num>(i)</num>
+                <text>The stopping of leaks in drains, water, soil, waste or vent pipes, provided, however, that if any concealed trap, drain pipe, water, soil, waste or vent pipes become defective and it becomes necessary to remove and replace the same with new material, the same shall be considered new work and a permit shall be procured and inspection made as provided in this code.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>The clearing of stoppages or the repairing of leaks in pipes, valves or fixtures, or the removal and reinstallation of water closets, provided such repairs do not involve or require the replacement or rearrangement of valves, pipes or fixtures.</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>Replacement of any minor part that does not alter approval of equipment or make such equipment unsafe.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><strong>Electrical permits</strong>.  An electrical permit shall not be required for the following:</text>
+            </para>
+            <text><strong>Repair and maintenance:</strong> Minor repair work, including the replacement of lamps or the connection of approved portable electrical equipment to approved permanently installed receptacles.</text>
+            <text><strong>Radio and television transmitting stations</strong>: The provision to this code shall not apply to electrical equipment used for radio and television transmissions, but do apply to equipment and wiring for a power supply and the installations of towers and antennas.</text>
+            <text><strong>Temporary testing systems:</strong> A permit shall not be required for the installation of any temporary system required for the testing or servicing of electrical equipment or apparatus.</text>
+            <para>
+              <num>(4)</num>
+              <text><strong>Mechanical permits</strong>.  A mechanical permit shall not be required for the following:</text>
+              <para>
+                <num>(i)</num>
+                <text>Portable heating appliance.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Portable ventilation equipment.</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>Portable cooling unit.</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>Steam, hot or chilled water piping within heating or cooling equipment regulated by the Mechanical Code.</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>Replacement of any part that does not alter its original approval or make it unsafe.</text>
+              </para>
+              <para>
+                <num>(vi)</num>
+                <text>Portable evaporative cooler.</text>
+              </para>
+              <para>
+                <num>(vii)</num>
+                <text>Self-contained refrigeration system containing 10 pounds (5kg) or less of refrigerant and actuated by motors of 1 horsepower (746 W) or less.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.06.080</num>
+          <heading>APPLICATION FOR PERMIT</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>Application</strong>.  To obtain a permit, the applicant shall first file an application therefore in writing on a form furnished by the building division for that purpose. Every such application shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>Identify and describe the work to be covered by the permit for which the application is made.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Describe the land on which the proposed work is to be done by legal description, street address or similar description that will readily identify and definitely locate the proposed building or work.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Indicate the use or occupancy for which the proposed work is intended.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Be accompanied by plans, diagrams, computations and specifications, and other data as required in Section 23.06.080(b).</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>State the valuation of any new building or structure or any addition, remodeling or alteration to an existing building.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Be signed by the applicant, or the applicant's authorized agent.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Give such other data and information as may be required by the building official.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>Submittal Documents</strong>.  Plans, specifications, engineering calculations, diagrams, soil investigation reports, special inspection and structural observation programs and other data shall constitute the submittal documents and shall be submitted in one or more sets with each application for a permit. When such plans are not prepared by an architect or engineer, the building official may require the applicant submitting such plans or other data to demonstrate that state law does not require that the plans be prepared by a licensed architect or engineer. The building official may require plans, computations and specifications to be prepared and designed by an engineer or architect licensed by the state to practice as such even if not required by state law.</text>
+          </para>
+          <text><strong>EXCEPTION:</strong> The building official may waive the submission of plans, calculations, construction inspection requirements and other data if it is found that the nature of the work applied for is such that reviewing of plans is not necessary to obtain compliance with this code.</text>
+          <para>
+            <num>(c)</num>
+            <text><strong>Information on Plans and Specifications</strong>.  Plans and specifications shall be drawn to scale on substantial paper or cloth and shall be of sufficient clarity to indicate the location, nature and extent of the work proposed and show in detail that it will conform to the provisions of this code and all relevant laws, ordinances, rules and regulations.</text>
+          </para>
+          <text>Plans for buildings of other than Group R, Division 3 and Group U Occupancies shall indicate how required structural and fire-resistive integrity will be maintained where penetrations will be made for electrical, mechanical, plumbing and communication conduits, pipes and similar systems.</text>
+          <para>
+            <num>(d)</num>
+            <text>
+              <strong>Architect or Engineer of Record.</strong>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text><strong>General</strong>.  When it is required that documents be prepared by an architect or engineer, the building official may require the owner to engage and designate on the building permit application an architect or engineer who shall act as the architect or engineer of record.  If the circumstances require, the owner may designate a substitute architect or engineer of record who shall perform all the duties required of the original architect or engineer of record.  The building official shall be notified in writing by the owner if the architect or engineer of record is changed or is unable to continue to perform the duties.</text>
+            </para>
+            <text>The architect or engineer of record shall be responsible for reviewing and coordinating all submittal documents prepared by others, including deferred submittal items, for compatibility with the design of the building.</text>
+            <para>
+              <num>(2)</num>
+              <text><strong>Deferred submittals</strong>.  For the purposes of this section, deferred submittals are defined as those portions of the design which are not submitted at the time of the application and which are to be submitted to the building official within a specified period.</text>
+            </para>
+            <text>Deferral of any submittal items shall have prior approval of the building official. The architect or engineer of record shall list the deferred submittals on the plans and shall submit the deferred submittal documents for review by the building official.</text>
+            <text>Submittal documents for deferred submittal items shall be submitted to the architect or engineer of record who shall review them and forward them to the building official with a notation indicating that the deferred submittal documents have been reviewed and that they have been found to be in general conformance with the design of the building. The deferred submittal items shall not be installed until their design and submittal documents have been approved by the building official.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><strong>Inspection and Observation Program</strong>. When special inspection is required by Section 23.06.130, the architect or engineer of record shall prepare an inspection program which shall be submitted to the building official for approval prior to issuance of the building permit. The inspection program shall designate the portions of the work to have special inspection, the name or names of the individuals or firms who are to perform the special inspections and indicate the duties of the special inspectors.</text>
+          </para>
+          <text>The special inspector shall be employed by the owner, the engineer or architect of record, or an agent of the owner, but not the contractor or any other person responsible for the work.</text>
+          <text>When structural observation is required by Section 23.06.140, the inspection program shall name the individuals or firms who are to perform structural observation and describe the stages of construction at which structural observation is to occur.</text>
+          <text>The inspection program shall include samples of inspection reports and provide time limits for submission of reports.</text>
+        </section>
+        <section>
+          <num>23.06.090</num>
+          <heading>PERMIT ISSUANCE</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>Issuance</strong>.  The application, plans, specifications, computations and other data filed by an applicant for permit shall be reviewed by the building official or his designees.  Such plans may be reviewed by other departments of this jurisdiction to verify compliance with any applicable laws under their jurisdiction. If the building official finds that the work described in an application for a permit and the plans, specifications and other data filed therewith conform to the requirements of this code and the technical codes and other pertinent laws and ordinances, and that the fees specified in Section 23.06.120 have been paid, the building official shall issue a permit therefore to the applicant.</text>
+          </para>
+          <text>When a permit is issued for required plans, the building official shall endorse in writing or stamp the plans and specifications "APPROVED."  Such approved plans and specifications shall not be changed, modified or altered without authorizations from the building official, and all work regulated by this code shall be done in accordance with the approved plans.</text>
+          <text>The building official may issue a permit for the construction of part of a building or structure before the entire plans and specifications for the whole building or structure have been submitted or approved, provided adequate information and detailed statements have been filed complying with all pertinent requirements of this code.  No building permit for construction of a superstructure shall be issued unless a complete superstructure application is made not later than 90 days after issuance of a foundation permit and a superstructure permit is taken out not later than 6 months after issuance of the foundation permit.  For purposes of this section, the determination of whether a building or structure is a superstructure shall be made by the building official.  The holder of a partial permit shall proceed at his own risk without assurance that the permit for the entire building or structure will be granted.</text>
+          <para>
+            <num>(b)</num>
+            <text><strong>Retention of Plans</strong>.  One set of approved plans, specifications and computations shall be retained by the building official for a period of not less than 90 days from the date of completion of the work covered therein; and one set of approved plans and specifications shall be returned to the applicant and shall be kept on the site of the building or work at all times during which the work authorized thereby is in progress.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>Validity of Permit</strong>.  The issuance of a permit or approval of plans, specifications and computations shall not be construed to be a permit for, or an approval of, a violation of any of the provisions of this code or the technical codes, or of any other ordinance of the jurisdiction.  Permits presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
+          </para>
+          <text>The issuance of a permit based on plans, specifications and other data shall not prevent the building official from thereafter requiring the correction of errors in said plans, specifications and other data, or from preventing building operations being carried on thereunder when in violation of these codes or of any other ordinance of this jurisdiction.</text>
+          <para>
+            <num>(d)</num>
+            <text><strong>Expiration</strong>.  Every permit issued by the building official under the provisions of the technical codes shall expire by limitation and become null and void, if the building or work authorized by such permit is not commenced within 180 days from the date of such permit, or if the building or work authorized by such permit is suspended or abandoned at any time after the work is commenced for a period of 180 days.  Before such work can be recommenced, a new permit shall be first obtained to do so, and the fee therefore shall be one half the amount required for a new permit for such work, provided no changes have been made or will be made in the original plans and specifications for such work and provided further that such suspension or abandonment has not exceeded one year. In order to renew action on a permit over one year after expiration, the permittee shall pay a new full permit fee.</text>
+          </para>
+          <text>A foundation permit shall expire by limitation and become null and void, unless a complete superstructure application is made not later than 90 days after issuance of a foundation permit and a superstructure permit is taken out not later than 6 months after issuance of the foundation permit.</text>
+          <text>A permittee holding an unexpired permit may apply for an extension of the time within which work may commence under that permit when the permittee is unable to commence work within the time required by this section for good and satisfactory reasons. The building official may extend the time for action by the permittee for a period not exceeding 180 days upon written request by the permittee showing that circumstances beyond the control of the permittee have prevented action from being taken and that extension will not result in violation of this code or any other laws. Permits shall not be extended more than two times.</text>
+          <para>
+            <num>(e)</num>
+            <text><strong>Suspension or Revocation.</strong>  The building official may, in writing, suspend or revoke a permit issued under the provisions of this code and the technical codes when the permit is issued in error or on the basis of incorrect information supplied, or in violation of an ordinance or regulation or the provisions of these codes.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.06.100</num>
+          <heading>DEMOLITION PERMIT CONDITIONS</heading>
+          <para>
+            <num>(a)</num>
+            <text>Demolition permits may be issued if at least one of the following is applicable:</text>
+            <para>
+              <num>(1)</num>
+              <text>Demolition has been ordered by the building official because of major structural damage or a condition resulting in imminent or immediate danger to public health or safety; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>A building permit or site development permit has been issued authorizing work to be performed which requires the prior removal of an existing structure to accomplish the new construction; or</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The city has determined that demolition is necessary in order to perform appropriate soil tests for a proposed project; or</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Demolition is required by the city as a condition of approval of a planning application under Title 27 or a subdivision under Title 26 of this code, and the application for the demolition permit complies with the time frame set in the condition of approval.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>The demolition involves a nonresidential structure of 3,000 square feet or less.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The building official finds that:</text>
+              <para>
+                <num>(i)</num>
+                <text>The structure is not habitable due to violations of Property Maintenance Code or the Building Standards Code as adopted by the City of San Mateo or local, state or federal laws; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Substantial evidence has been provided that repair of the structure is not feasible.  As used in this subsection "feasible" means capable of being accomplished in a successful manner within a reasonable period of time, taking into account economic, legal, social and technological factors.  Evidence provided by the applicant may be independently reviewed by consultants hired by the City at the applicant's expense; and</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>Demolition of the structure would have a less significant effect on the neighborhood than allowing the existing dilapidated structure to remain.</text>
+              </para>
+              <text>A demolition permit shall not be issued pursuant to this subsection unless notice of the proposed demolition and appeal procedures is posted on the premises in a location visible from off-site at least fifteen (15) days before issuance of the demolition permit.  Pursuant to Section 2.21.030, the building official's proposal to issue a demolition permit is appealable to the Community Relations Commission within the 15-day posting period by filing a notice of appeal with the City Clerk.  If demolition is requested as part of a planning application pursuant to Section 27.68.020, the Planning Commission shall review the request as required by Section 27.68.020 prior to any action by the building official.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>The demolition involves a non-required accessory building.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>The demolition of structures where a master plan or specific plan has been approved for development of the site provided that (1) the building official receives written confirmation that the demolition is needed to facilitate the timely construction of new structures under the approved master plan, (2) the structures are substantially vacant, (3) there is written documentation from a lending institution that the project (at least in substantial part) is capable of being financed and the applicant is credit worthy.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All demolition permits shall comply with the following conditions:</text>
+            <para>
+              <num>(1)</num>
+              <text>If the site is a service station or listed on the Hazardous Waste and Substances Sites List (prepared pursuant to Government Code Section 65962.5), or if the City has any other substantial evidence that the site may contain hazardous wastes, the application for a permit must be accompanied by evidence that the soil has been inspected for contamination and, if contamination has been found, that a plan has been submitted to and approved by the San Mateo County Division of Environmental Health.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The site shall be fenced when open holes in the ground exist, if required by the building official because of other hazards or to ensure maintenance of the site.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>All debris, weeds, and other nuisances shall be removed from the site, and the site shall be leveled unless requirements regarding hazardous wastes make leveling infeasible.  If planting is not required by subsection 23.06.100(b)(4), and construction does not commence within 30 days after demolition, the soil shall be treated with a weed inhibitor approved by the City.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>If deemed appropriate, the City may require that the entire site be planted and maintained with a drought tolerant ground cover that will fully cover all exposed soil within six months of planting, or covered to a minimum depth of 2" with crushed rock.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>That the site be fenced according to code, or if deemed appropriate, the City may require that any driveway curb cuts not used be provided with bollards and chains, located and installed so as to prevent vehicular entry into the site.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The applicant shall comply with all other conditions that may be attached by the building official to ensure maintenance of the site, including but not limited to vacant lot maintenance requirements contained in Chapter 7.48 of the San Mateo Municipal Code.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.06.110</num>
+          <heading>INSPECTIONS</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>General</strong>.  Construction or work for which a permit is required shall be subject to inspection by the building official and the construction or work shall remain accessible and exposed for inspection purposes until approved by the building official.  In addition, certain types of construction shall have continuous inspection as specified in Section 23.06.130.</text>
+          </para>
+          <text>Approval as a result of an inspection shall not be construed to be an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction.  Inspections presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
+          <text>It shall be the duty of the permit applicant to cause the work to remain accessible and exposed for inspection purposes. Neither the building official nor this jurisdiction shall be liable for expense entailed in the removal or replacement of any material required to allow inspection.</text>
+          <text>A survey of the lot may be required by the building official to verify that the structure is located in accordance with the approved plans.</text>
+          <para>
+            <num>(b)</num>
+            <text><strong>Inspection Record Card</strong>.  Work requiring a permit shall not be commenced until the permit holder or the agent of the permit holder shall have posted or otherwise made available an inspection record card such as to allow the building official conveniently to make the required entries thereon regarding inspection of the work. This card shall be maintained available by the permit holder until final approval has been granted by the building official.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>Inspection Requests</strong>.  It shall be the duty of the person doing the work authorized by a permit to notify the building official that such work is ready for inspection.  The building official may require that every request for inspection be filed at least one working day before such inspection is desired. Such request may be in writing or by telephone at the option of the building official.</text>
+          </para>
+          <text>It shall be the duty of the person requesting any inspections required either by this code or the technical codes to provide access to and means for inspection of the work.</text>
+          <para>
+            <num>(d)</num>
+            <text><strong>Approval Required</strong>.  Work shall not be done beyond the point indicated in each successive inspection without first obtaining the approval of the building official.  The building official, upon notification, shall make the requested inspections and shall either indicate that that portion of the construction is satisfactory as completed or shall notify the permit holder or an agent of the permit holder wherein the same fails to comply with this code.  Any portions which do not comply shall be corrected and such portion shall not be covered or concealed until authorized by the building official.</text>
+          </para>
+          <text>There shall be a final inspection and approval of all buildings and structures when completed and ready for occupancy and use.</text>
+          <para>
+            <num>(e)</num>
+            <text><strong>Required Building Inspections</strong>.  Reinforcing steel or structural framework of a building or structure shall not be covered or concealed without first obtaining the approval of the building official.  Protection of joints and penetrations in fire resistive assemblies shall not be concealed from view until inspected and approved.</text>
+            <text>The building official, upon notification, shall make the following inspections:</text>
+            <para>
+              <num>(1)</num>
+              <text><strong>Foundation inspection.</strong>  To be made after excavations for footings are complete and required reinforcing steel is in place.  For concrete foundations, required forms shall be in place prior to inspection.  All materials for the foundation shall be on the job, except when concrete is ready-mixed in accordance with approved nationally recognized standards, the concrete need not be on the job.  When the foundation is to be constructed of approved treated wood, additional inspections may be required by the building official.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><strong>Concrete slab or under-floor inspection.</strong>  To be made after in-slab or under-floor building service equipment, conduit, piping accessories and other ancillary equipment items are in place but before any concrete is placed or floor sheathing installed, including the subfloor.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><strong>Frame inspection.</strong>  To be made after the roof, framing, fire blocking and bracing are in place and all pipes, chimneys and vents are complete and the rough electrical, plumbing, and heating wires, pipes, and ducts are approved.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text><strong>Lath and/or wallboard inspection.</strong>  To be made after lathing and wallboard, interior and exterior, is in place but before plaster is applied or before wallboard joints and fasteners are taped and finished.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text><strong>Final inspection.</strong>  To be made after finish grading and the building is completed and ready for occupancy.</text>
+            </para>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>
+              <strong>Required Building Service Equipment Inspections.</strong>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text><strong>General</strong>.  Building service equipment for which a permit is required by this code shall be inspected by the building official.  Building service equipment intended to be concealed by a permanent portion of the building shall not be concealed until inspected and approved.  When the installation of building service equipment is complete, an additional and final inspection shall be made.  Building service equipment regulated by the technical codes shall not be connected to the water, fuel or power supply, or sewer system until authorized by the building official.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><strong>Operation of building service equipment</strong>.  The requirements of this section shall not be considered to prohibit the operation of building service equipment installed to replace existing building service equipment serving an occupied portion of the building in the event a request for inspection of such building service equipment has been filed with the building official not more than 48 hours after the replacement work is completed, and before any portion of such building service equipment is concealed by permanent portions of the building.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><strong>Other Inspections.  </strong>In addition to the explicit inspections specified above, the building official may make or require other inspections of construction work to ascertain compliance with the provisions of this code or technical codes and other laws which are enforced by the code enforcement agency.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text><strong>Reinspections.  </strong>A reinspection fee may be assessed for each inspection or reinspection when such portion of work for which inspection is called is not complete or when corrections called for are not made<strong>.</strong></text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>This section is not to be interpreted as requiring reinspection fees the first time a job is rejected for failure to comply with the requirements of the technical codes, but as controlling the practice of calling for inspections before the job is ready for such inspection or reinspection.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Reinspection fees may be assessed when the inspection record card is not posted or otherwise available on the work site, the approved plans are not readily available to the inspector, for failure to provide access on the date for which inspection is requested, or for deviating from plans requiring the approval of the building official.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>To obtain a reinspection, the applicant shall file an application therefore in writing upon a form furnished for that purpose, and pay the reinspection fee in accordance with the fee schedule adopted by this jurisdiction.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>In instances where reinspection fees have been assessed, additional inspection of the work will not be performed until the required fees have been paid.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.06.120</num>
+          <heading>FEES</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>General.</strong> All permit fees, surcharges, plan checking fees, fees for inspections and reinspections, and all other fees, shall be those established by resolution of the City Council.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>Expiration of Plan Review</strong>.  Applications for which no permit is issued within 180 days following the date of application shall expire by limitation, and plans and other data submitted for review may thereafter be returned to the applicant or destroyed by the building official. The building official may extend the time for action by the applicant for a period not exceeding 180 days on written request by the applicant showing that circumstances beyond the control of the applicant have prevented action from being taken and that extension will not result in violation of this code or any other laws. An application shall not be extended more than two times. An application shall not be extended if this code or any other pertinent laws or ordinances have been amended subsequent to the date of the application.  In order to renew action on an application after expiration, the applicant shall resubmit plans and pay a new plan review fee.</text>
+            <para>
+              <num>(1)</num>
+              <text>Planning Applications.  For applications for which a planning application was approved, a completed building permit application shall be filed before the two-year expiration date of the planning approval; and a building permit shall be issued no later than six months after the expiration date.  Extension for issuance of a building permit may be granted by the Building Official only if the applicant demonstrates that the delay in performance was caused by action or inaction of governmental permitting agencies other than the City of San Mateo, and that the applicant has diligently pursued approval of the permit.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <strong>Investigation Fees:  Work without a Permit.</strong>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text><strong>Investigation</strong>.  Whenever work for which a permit is required by this code has been commenced without first obtaining a permit, a special investigation shall be made before a permit may be issued for such work.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><strong>Fee.</strong> An investigation fee, in addition to the permit fee, shall be collected whether or not a permit is then or subsequently issued.  The amount of the investigation fee shall be adopted by resolution of the city council.  The payment of such investigation fee shall not exempt an applicant from compliance with all other provisions of either this code or the technical codes nor from the penalty prescribed by law.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>Fee Refunds</strong>. The building official may authorize refunding of a fee paid hereunder which was erroneously paid or collected.</text>
+          </para>
+          <text>The building official may authorize refunding of not more than 80 percent of the permit fee paid when no work has been done under a permit issued in accordance with this code.</text>
+          <text>The building official may authorize refunding of not more than 80 percent of the plan review fee paid when an application for a permit for which a plan review fee has been paid is withdrawn or canceled before any examination time has been expended.</text>
+          <text>The building official shall not authorize the refunding of any fee paid except upon written application filed by the original permittee not later than 180 days after the date of fee payment.</text>
+        </section>
+        <section>
+          <num>23.06.130</num>
+          <heading>SPECIAL INSPECTIONS</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>General</strong>.  In addition to the inspections required by Section 23.06.110, the owner, or the engineer or architect of record acting as the owner's agent, shall employ one or more special inspectors who shall provide inspections during construction on the types of work as specified in the Building Code Section 1705.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>Inspection agencies</strong>.  The building official is authorized to accept reports of approved inspection agencies, provided such agencies satisfy the requirements as to qualifications and reliability.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>Inspection requests</strong>. It shall be the duty of the holder of the building permit or their duly authorized agent to notify the building official when work is ready for inspection. It shall be the duty of the permit holder to provide access to and means for inspections of such work that are required by this code.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>Approval required</strong>.  Work shall not be done beyond the point indicated in each successive inspection without first obtaining the approval of the building official.  The building official, upon notification, shall make the requested inspections and shall either indicate the portion of the construction that is satisfactory as completed, or notify the permit holder or his or her agent wherein the same fails to comply with this code.  Any portions that do not comply shall be corrected and such portion shall not be covered or concealed until authorized by the building official.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>
+              <strong>Continuous and Periodic Special Inspection.</strong>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text><strong>Continuous special inspection</strong>. Continuous special inspection means that the special inspector is on the site at all times observing the work requiring special inspection.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><strong>Periodic special inspection</strong>.  Some inspections may be made on a periodic basis and satisfy the requirements of continuous inspection, provided this periodic scheduled inspection is performed as outlined in the project plans and specifications and approved by the building official.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.06.140</num>
+          <heading>STRUCTURAL OBSERVATION</heading>
+          <text>Structural observation shall be provided in accordance to the Building Code Section 1710 1704.6.</text>
+        </section>
+        <section>
+          <num>23.06.150</num>
+          <heading>CONNECTION TO UTILITIES</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>Energy Connections</strong>.  Persons shall not make connections from a source of energy, fuel or power to building service equipment which is regulated by the technical codes and for which a permit is required by this code, until approved by the building official.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>Temporary Connections</strong>.  The building official may authorize the temporary connection of the building service equipment to the source of energy, fuel or power for the purpose of testing building service equipment, or for use under a temporary certificate of occupancy.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.06.160</num>
+          <heading>CERTIFICATE OF OCCUPANCY</heading>
+          <para>
+            <num>(a)</num>
+            <text><strong>Use or Occupancy</strong>.  Buildings or structures shall not be used or occupied nor shall a change in the existing occupancy classification of a building or structure or portion thereof be made until the building official has issued a certificate of occupancy therefore as provided herein.</text>
+          </para>
+          <text><strong>EXCEPTION:</strong>  Group R, Division 3, and Group U Occupancies.</text>
+          <text>Issuance of a certificate of occupancy shall not be construed as an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction.  Certificates presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
+          <para>
+            <num>(b)</num>
+            <text><strong>Change in Use</strong>.  Changes in the character or use of a building shall not be made except as specifically provided for in the Building Code.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>Certificate Issued</strong>.  After the building official inspects the building or structure and finds no violations of the provisions of this code or other laws which are enforced by the code enforcement agency, the building official shall issue a certificate of occupancy which shall contain the following:</text>
+            <para>
+              <num>1.</num>
+              <text>The building permit number.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>The address of the structure.</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>The name and address of the owner or the owner's authorized agent.</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>A description of that portion of the building for which the certificate is issued.</text>
+            </para>
+            <para>
+              <num>5.</num>
+              <text>A statement that the described portion of the building has been inspected for compliance with the requirements of this code for the group and division of occupancy and the use for which the proposed occupancy is classified.</text>
+            </para>
+            <para>
+              <num>6.</num>
+              <text>The name of the building official.</text>
+            </para>
+            <para>
+              <num>7.</num>
+              <text>The edition of the code under which the permit was issued.</text>
+            </para>
+            <para>
+              <num>8.</num>
+              <text>The use and occupancy, in accordance with the provisions of Chapter 3 of the California Building Code.</text>
+            </para>
+            <para>
+              <num>9.</num>
+              <text>The type of construction as defined in Chapter 6 of the California Building Code.</text>
+            </para>
+            <text>10. The design occupant load.</text>
+            <text>11. If an automatic sprinkler system is provided, whether the sprinkler system is required.</text>
+            <text>12. Any special stipulations and conditions of the building permit.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>Temporary Certificate</strong>. If the building official finds that substantial hazard will not result from occupancy of a building or portion thereof before the same is completed, a temporary certificate of occupancy for the use of a portion or portions of a building or structure may be issued prior to the completion of the entire building or structure.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><strong>Posting.</strong>  The certificate of occupancy shall be posted in a conspicuous place on the premises and shall not be removed except by the building official.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><strong>Revocation</strong>.  The building official may, in writing, suspend or revoke a certificate of occupancy issued under the provisions of this code when the certificate is issued in error, or on the basis of incorrect information, or when it is determined that the building or structure or portion thereof is in violation of an ordinance, regulation or the provisions of this code.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.06.170</num>
+          <heading>FIRE AND HEALTH PROTECTION</heading>
+          <text>Fire and Health Protection. The chief of the fire department and the health officer that has jurisdiction shall have concurrent jurisdiction, respectively, with the building official in the enforcement of all those provisions of this code relating to or involving protection against fire, or the maintenance of public health.  The building official, fire chief, and/or health officer, or their authorized representative, may enter any building or premises for the purpose of inspection or enforcing the provisions of this code.</text>
+          <text>Whenever any building work is being done contrary to the provisions of this code, the building official, or his authorized representative, may order the work stopped by notice in writing served on the contractor, or his representative, or any persons engaged in doing or causing that work to be done, and any such persons shall forthwith stop that work until authorized by the building official to resume the work.</text>
+          <text>In case the work is being done in such a manner as to increase the fire hazard or jeopardize the public health, the fire chief and the health officer shall have concurrent jurisdiction with the building official to stop the work as provided above.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Chapter 23.07 (Residential Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>23.07</num>
+        <heading>RESIDENTIAL CODE</heading>
+        <section>
+          <num>23.07.010</num>
+          <heading>ADOPTION.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The code published by the International Code Council entitled California Residential Code, 2016 Edition, as adopted and amended by the State of California, are hereinafter called "residential code," and are adopted as the rules, regulations and standards within this city as to all matters therein contained except that:</text>
+            <para>
+              <num>(1)</num>
+              <text>Sections R105.2 Building items 1 – 10 are not adopted. Instead, chapter 23.06 (Administration) applies to this chapter on permit exemption. Sections R109.1 – R109.1.6 are not adopted. Instead, Chapter 23.06 (Administration) applies to the inspection.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Certain sections of the Residential Code have heretofore been amended and may hereafter be amended. As amended, they are adopted;</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No section of the residential code shall impose a mandatory duty of enforcement on the city, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the city, and the appropriate officer, official, agent, employee, board, council, or commission with discretion to enforce the section, or not to enforce it.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>One copy of the Residential Code shall at all times be kept on file in the office of the City Clerk.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.07.020</num>
+          <heading>SECTION R319.1  Site Address NOT ADOPTED.</heading>
+          <text>See Section 23.28.110 – Address Identification.</text>
+        </section>
+        <section>
+          <num>23.07.030</num>
+          <heading>SECTION R319.2  Address Numbers - Multi-Tenant Buildings NOT ADOPTED.</heading>
+          <text>See Section 23.28.120 – Address Identification – Multi-Tenant Buildings.</text>
+        </section>
+        <section>
+          <num>23.07.040</num>
+          <heading>SECTION R319.3 Address Numbers - Rear Addressing  NOT ADOPTED.</heading>
+          <text>See Section 23.28.130 – Address Identification – Rear Addressing.</text>
+        </section>
+        <section>
+          <num>23.07.060</num>
+          <heading>SECTION R313.1 Townhouse Automatic Fire Sprinkler Systems –</heading>
+          <text>
+            <strong>Exception NOT ADOPTED.</strong>
+          </text>
+          <text>See Sections 23.28.160 through 23.28 180 for Fire Sprinkler Requirements</text>
+        </section>
+        <section>
+          <num>23.07.070</num>
+          <heading>SECTION R313.2 One-and-two-family Dwellings Automatic Fire Sprinkler Systems – Exception NOT ADOPTED.</heading>
+          <text>See Sections 23.28.160 through 23.28 180 for Fire Sprinkler Requirements</text>
+        </section>
+        <section>
+          <num>23.07.080</num>
+          <heading>SECTIONS R902.1, R902.1.1, R902.1.3 Roofing Requirements AMENDED</heading>
+          <text><strong>Section R902.1 Roofing covering materials.</strong> Roofs shall be covered with materials as set forth in Sections R904 and R905. A minimum Class A or B roofing shall be installed in areas designated by this section or where the edge of the roof is less than 3 feet from a lot line. Classes A or B roofing required by this section to be listed shall be tested in accordance with UL 790 or ASTM E 108.</text>
+        </section>
+        <section>
+          <num>23.07.110</num>
+          <heading>Table R602.10.3(3) and Section R602.10.4.4 Prohibit the Use of Gypsum Board and Limit the Use of Portland Cement Plaster as Prescriptive Wall Bracing Materials in Seismic Design Categories D0, D1 and D2 AMENDED</heading>
+          <para>
+            <num>(1)</num>
+            <text>Add a new footnote "f" to the end of CRC Table R602.10.3(3), to read:</text>
+          </para>
+          <text proof="true">f. In Seismic Design Categories D0, D1, and D2, Method GB is not permitted and the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
+          <para>
+            <num>(2)</num>
+            <text>Add the "f" footnote notation in the title of Table R602.10.3(3), to read:   TABLE R602.10.3(3)f</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Add a new subsection R602.10.4.4, to read:</text>
+          </para>
+          <text><strong>R602.10.4.4 Limits on methods GB and PCP</strong>.  In Seismic Design Categories D0, D1, and D2, Method GB is not permitted for use as intermittent braced wall panels, but gypsum board is permitted to be installed when required by this Section to be placed on the opposite side of the studs from other types of braced wall panel sheathing.   In Seismic Design Categories D0, D1, and D2, the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Chapter 23.08 (Building Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>23.08</num>
+        <heading>BUILDING CODE</heading>
+        <section>
+          <num>23.08.010</num>
+          <heading>ADOPTION.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Codes published in two volumes by the International Code Council, entitled California Building Code, 2016 Edition, Section 3109, Section 3301-3308 and Appendix C, as adopted and as amended by the State of California, hereinafter collectively called the "Building Code", are adopted as the rules, regulations, and standards within this city as to all matters therein contained, except as otherwise provided in this chapter.</text>
+            <text>The following sections are not adopted:</text>
+            <para>
+              <num>(1)</num>
+              <text>Sections 105.2 items 1 - 13 are not adopted. Instead, Chapter 23.06 (Administration) applies to this chapter.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No section of the Building Code shall impose a mandatory duty of enforcement on the city, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the city, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section, or not to enforce it.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A copy of the Building Code shall at all times be kept on file in the office of the City Clerk.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.08.020</num>
+          <heading>SECTION 501.2	Premises Identification - Address numbers NOT ADOPTED.</heading>
+          <text>See Section 23.28.110 – Address Identification</text>
+        </section>
+        <section>
+          <num>23.08.030</num>
+          <heading>SECTION 501.2.1  Address Numbers - Multi-Tenant Buildings NOT ADOPTED.</heading>
+          <text>See Section 23.28.120 – Address Identification – Multi-Tenant Buildings</text>
+        </section>
+        <section>
+          <num>23.08.040</num>
+          <heading>SECTION 501.2.2  Address Numbers - Rear Addressing NOT ADOPTED.</heading>
+          <text>See Section 23.28.130 – Address Identification – Rear Addressing</text>
+        </section>
+        <section>
+          <num>23.08.045</num>
+          <heading>SECTION 903.2 Automatic Sprinkler Systems - Where required NOT ADOPTED.</heading>
+          <text>See Sections 23.28.160 through 180 for Fire Sprinkler Requirements</text>
+        </section>
+        <section>
+          <num>23.08.090</num>
+          <heading>SECTION 905.3  Standpipe Systems – Required installation NOT ADOPTED.</heading>
+          <text>See Sections 23.28.200 for Standpipe Systems</text>
+        </section>
+        <section>
+          <num>23.08.100</num>
+          <heading>SECTIONS 1505.1, 1505.1.3 Roofing Requirements AMENDED</heading>
+          <text>The roof covering or roofing assembly on any structure regulated by this code shall be minimum Class B fire retardant as specified in Table 1505.1 and as classified in Section 1505.</text>
+          <text>
+            <table>
+              <caption>TABLE 1505.1  Minimum Covering Classification For Types Of Construction.  AMENDED TABLE 1505.1 MINIMUM ROOF COVERING CLASSIFICATION FOR TYPES OF CONSTRUCTION</caption>
+              <tr proof="true">
+                <th>IA</th>
+                <th>IB</th>
+                <th>IIA</th>
+                <th>IIB</th>
+                <th>IIIA</th>
+                <th>IIIB</th>
+                <th>IV</th>
+                <th>VA</th>
+                <th>VB</th>
+              </tr>
+              <tr>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+              </tr>
+            </table>
+          </text>
+        </section>
+        <section>
+          <num>23.08.120</num>
+          <heading>SECTION  1705.3 Concrete Construction AMENDED</heading>
+          <text>Section 1705.3 is amended to read as follows:</text>
+          <text proof="true"><strong>1705.3 Concrete construction. </strong>The special inspections and verifications for concrete construction shall be as required by this section and Table 1705.3.</text>
+          <text><strong>Exception: </strong>Special inspections shall not be required for:</text>
+          <para>
+            <num>(1)</num>
+            <text>Isolated spread concrete footings of buildings three stories or less above grade plane that are fully supported on earth or rock, where the structural design of the footing is based on a specified compressive strength, f'c, no greater than 2,500 pound per square inch (psi) (17.2 Mpa).</text>
+          </para>
+        </section>
+        <section>
+          <num>23.08.130</num>
+          <heading>Section 1905.1.7, Plain Concrete in Earthquake Resisting Structures aMended</heading>
+          <text proof="true"><strong>1905.1.8 ACI 318, Section 14.1.4. </strong>Delete ACI 318, Section 14.1.4, and replace with the following:</text>
+          <text proof="true">14.1.4 - Plain concrete in structures assigned to Seismic Design Category C, D, E or F.</text>
+          <text proof="true">14.1.4.1- Structures assigned to Seismic Design Category C, D, E or F shall not have elements of structural plain concrete, except as follows:</text>
+          <para>
+            <num>(a)</num>
+            <text>. Structural plain concrete basement, foundation or other walls below the base are permitted in detached one and two-family dwellings three stories or less in height constructed with stud bearing walls. In dwellings assigned to seismic design category D or E, the height of the wall shall not exceed 8 feet (2438 mm), the thickness shall not be less than 71/2 inches (190 mm), and the wall shall retain no more than 4 feet (1219 mm) of unbalanced fill. Walls shall have reinforcement in accordance with 22.6.6.5.</text>
+          </para>
+          <para proof="true">
+            <num>(a)</num>
+            <text>Isolated footings of plain concrete supporting pedestals or columns are permitted,provided the projection of the footing beyond the face of the supported member does not	exceed the footing thickness.</text>
+          </para>
+          <text>Exception: In detached one- and two-family dwelling three stories or less in height, the projection of the footing beyond the face of the supported member is permitted to exceed the footing thickness.</text>
+          <para>
+            <num>(b)</num>
+            <text>Plain concrete footing supporting walls are permitted, provided the footings have at least two continuous longitudinal reinforcing bars. Bars shall not be smaller than No. 4 and shall have a total area of not less than 0.002 times the gross cross-sectional area of the footing. A minimum of one bar shall be provided at the top and bottom of the footing. Continuity of reinforcement shall be provided at corners and intersections.</text>
+          </para>
+          <text>Exception:</text>
+          <text>In detached one-and two-family dwellings three stories or less in height and constructed with stud bearing walls, plain concrete footings with at least two continuous longitudinal reinforcing bars not smaller than No. 4 are permitted to have a total area of less than 0.002 times the gross cross–sectional area of the footing.</text>
+        </section>
+        <section>
+          <num>23.08.140</num>
+          <heading>SECTION 2308.9.3 Bracing REPEALED.</heading>
+        </section>
+        <section>
+          <num>23.08.150</num>
+          <heading>SECTIONS 3109.1 Swimming Pool Enclosures And Safety Devices AMENDED</heading>
+          <text>Section 3109.1 is amended to read as shown below:</text>
+          <text><strong>Section 3109.1 General.</strong> Swimming pools shall comply with the requirements of Sections 3109.2 through 3109.6 and other applicable sections of this code.</text>
+          <text><strong>Section 3109.1.1 Location.</strong> A swimming pool may be placed or constructed in any of the required yard areas provided the pool is constructed at ground level and provided the following setbacks are maintained:</text>
+          <para>
+            <num>(a)</num>
+            <text>For single family dwellings, the inside face of the pool shall not be less than four feet from any property boundary of the lot or parcel on which the pool is located.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>For multifamily dwellings, the inside face of an outdoor pool shall be not less than twenty feet from any property boundary. Indoor swimming pool structures for multifamily dwellings shall also be subject to the setback requirements for accessory buildings, as designated in Chapter 27.70 of the Zoning Code, with the exception that the minimum clearance of 4 feet to the property line and 5 feet to surrounding buildings shall still apply.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>No portion of a swimming pool may be constructed in any public utility easement or drainage easement or utility right-of-way. There shall be not less than five feet of open space between the inside face of the pool and any structure.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>No part of a swimming pool (water area) shall be located or constructed directly under permanently-installed electric power lines. Pools shall be located in such a manner that overhead conductor clearances meet the requirements of the Electrical Code, Chapter 23.12 of the San Mateo Municipal Code. No pool shall be constructed in any location that violates any State law or Public Utility Commission rules for location in relation to electric power lines, service drops and/or communication lines.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Swimming pools located on slopes must comply with setback requirements as prescribed in chapter 23.40 of the Site Development Code.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.08.160</num>
+          <heading>SECTION 3109.4.1 amended - Barrier height and clearances.</heading>
+          <text><strong>Barrier height and clearances. </strong>The top of the barrier shall be not less than 60 inches above grade measured on the side of the barrier that faces away from the swimming pool. The vertical clearance between grade and the bottom of the barrier shall not be greater than 2 inches (51mm) measured on the side of the barrier faces away from the swimming pool. Where the top of the structure is above grade, the barrier is authorized to be at the ground level or mounted on top of the pool structure, and the vertical clearance between the top of the pool structure and the bottom of the barrier shall not be greater than 4 inches (102mm).</text>
+        </section>
+        <section>
+          <num>23.08.170</num>
+          <heading>SECTION 3109.6 added – Pool Equipment Enclosure.</heading>
+          <text><strong>Pool Equipment Enclosure</strong>. Pumps and other swimming pool equipment which produce sound above the level of 35 dba shall not be located within twenty-five feet of any neighboring property unless such equipment is enclosed in an enclosure that will reduce the sound at the property line to a level of 35 dba or less. Swimming pool heaters need not be enclosed in a pool equipment enclosure.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Chapter 23.09 EXISTING BUILDING CODE of the San Mateo Municipal code is hereby amended to read:</text>
+    <include>
+      <section>
+        <num>23.09.010</num>
+        <heading>ADOPTION.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The code published by the International Code Council entitled California Existing Building Code, 2016 Edition, as adopted and amended by the State of California, are hereinafter called "existing building code," and are adopted as the rules, regulations and standards within this city as to all matters therein contained except that:</text>
+        </para>
+        <text>Chapter 23.06 (Administration) applies to this chapter on administrative requirements.</text>
+        <text>Certain sections of the Existing Code have heretofore been amended and may hereafter be amended. As amended, they are adopted;</text>
+        <para>
+          <num>(b)</num>
+          <text>No section of the Existing Building Code shall imply a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section or not to enforce it.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A copy of the Existing Building Code shall at all times be kept on file in the office of the City Clerk.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text>Chapter 23.10 (Earthquake Hazard Reduction Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>23.10</num>
+        <heading>EARTHQUAKE HAZARD REDUCTION CODE</heading>
+        <section>
+          <num>23.10.010</num>
+          <heading>ADOPTION.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The code published by International Code Council entitled California Existing Building Code 2016 Appendix Chapter A1 is adopted as the rules, regulations and standards within this city as to all matters therein contained, except as otherwise provided in this Chapter.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No section of this appendix shall impose a mandatory duty of enforcement on the city, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the city, and the appropriate officer, official, agent, employee, board, council, or commission with discretion to enforce the section, or not to enforce it.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A copy of the California Existing Building Code shall at all times be kept on file in the Office of the City Clerk.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.10.012</num>
+          <heading>Section A103 – DEFINITIONS</heading>
+          <para>
+            <num>(a)</num>
+            <text>HIGH RISK BUILDING: Any building (except essential and hazardous facilities listed in Section A102.2) having an occupant load of 100 or more, as determined by 2016 CBC Section 1004.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>LOW RISK BUILDING: Any building (except essential and hazardous facilities listed in Section A102.2) having an occupant load of less than 100 occupants as determined by 2016 CBC Section 1004.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.10.014</num>
+          <heading>ADMINISTRATION.</heading>
+          <text>Section A105 is modified by adding the following:</text>
+          <text>In addition to the procedures set forth in Chapter 23.06 Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in this Chapter.</text>
+          <text><strong>Administration. </strong>In addition to the Administration Chapter 23.06, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in this Chapter.</text>
+          <text>Service of Order. The building official shall issue an order as described in (b) below to the owner of each building known to the building official to be within the scope of this Chapter. The order shall be in writing and shall be served either personally or by certified mail upon the owner as shown on the last equalized assessment roll. A copy of such order shall also be given by the building official by first-class mail to known tenants of each building and the owner of each building shall thereafter provide the order to succeeding tenants.</text>
+          <text>Contents of Order. The order shall specify that the building has been determined by the building official to be within the scope of this Chapter and is required to meet minimum seismic standards. The order shall inform the owner(s) of alternatives and time limits for compliance.</text>
+          <text>Appeal. The building owner may appeal the building official's initial determination that the building is within the scope of this Chapter to the building official. Such appeal shall be filed with the building official within 60 days from the service date of the order. Any such appeal shall be decided by the building official no later than 60 days after the date that the appeal is filed. The basis for the appeal shall be evidence that the building does not fall within the scope of Appendix Chapter 1 of the California Existing Building Code as defined in Section A102. Any appeal shall be made in writing.</text>
+          <text>Recordation. Upon service of the order, the building official shall file with the office of the county recorder a certificate stating that the subject building is within the scope of Chapter 23.10 of the San Mateo Municipal Code. The certificate shall also state that the owner has been ordered to structurally analyze the building and to alter it to comply with this Chapter. If the building is found not to be within the scope of this Chapter, or as a result of analysis and/or structural alterations is found to be capable of resisting minimum seismic forces required by this Chapter, the building official shall file with the office of the county recorder a certificate terminating the status of the subject building as being classified within the scope of this Chapter.</text>
+          <text>Enforcement. If the owner of the subject building fails to comply with any order issued by the building official pursuant to this Chapter within any of the time limits set forth in Section A105.1 the building official may seek compliance through any means authorized by California statute or San Mateo Municipal Codes.</text>
+        </section>
+        <section>
+          <num>23.10.016</num>
+          <heading>TIME LIMITS FOR COMPLIANCE.</heading>
+          <text>Section A105.1 is amended by adding the following:</text>
+          <text><strong>Time Limits for Compliance.</strong> In addition to the provisions set forth in Chapter 23.06 Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in this Chapter.</text>
+          <text>Structural analysis and upgrade. The owner of each building within the scope of this chapter shall cause a structural analysis of the building to be made by a civil or structural engineer or architect licensed by the State of California. If the building does not meet the minimum earthquake standards specified in this Chapter, the owner shall cause it to be structurally altered to conform to such standards.</text>
+          <text>Time limits. The owner of a building within the scope of this Chapter shall comply with the requirements set forth above by submitting the following to the building official for review within the stated time limits:</text>
+          <text>Within one year after the service of the order, a structural analysis, which is subject to approval by the building official, and which shall demonstrate that the building meets the minimum requirements of this Chapter; or</text>
+          <text>Within one year after the service of the order, a structural analysis and plans for the proposed structural alterations of the building necessary to comply with the minimum requirements of this chapter. After plans are submitted and approved by the building official, the owner shall obtain a building permit, commence and complete the required construction within four years from service of the order, for high-risk buildings, and within six years from service of the order for low-risk buildings.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text>Chapter 23.12 (Electrical Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>23.12</num>
+        <heading>ELECTRICAL CODE</heading>
+        <section>
+          <num>23.12.010</num>
+          <heading>ADOPTION.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The code of rules and regulations known and designated as the California Electrical Code 2016 Edition (and the appendices printed therein), as published by the National Fire Protection Association as adopted and amended by the State of California, is adopted as and for the rules, regulations and standards within this city as to all matters contained except as hereinafter modified or amended.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All electrical work in or on any building or other structure, pumping plant, exterior electrical wiring on private property, or similar installations within the city shall be in conformance with the requirements set forth in said California Electrical Code except as hereinafter modified or amended.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The provisions of Chapter 23.06 Administration, shall apply to this chapter.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>No section of the California Electrical Code shall impose a mandatory duty of enforcement on the city, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, said section shall be deemed to invest the city, and the appropriate officer, official, agent, employee, board, council, or commission thereof with discretion to enforce the section, or not to enforce it.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>A copy of the California Electrical Code shall at all times be kept on file in the office of the City Clerk.</text>
+          </para>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text>Chapter 23.16 (Plumbing Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>23.16</num>
+        <heading>PLUMBING CODE</heading>
+        <section>
+          <num>23.16.010</num>
+          <heading>ADOPTION.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The code published by the International Association of Plumbing and Mechanical Officials entitled California Plumbing Code, 2016 Edition, including appendices printed herein except appendices E, F and L, as adopted and amended by the State of California, are hereinafter called "plumbing code," and are adopted as the rules, regulations and standards within this city as to all matters therein contained except that:</text>
+            <para>
+              <num>(1)</num>
+              <text>Sections 104.2 and subsections are not adopted. Instead, chapter 23.06 (Administration) applies to this chapter.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Certain sections of the plumbing code have heretofore been amended and may hereafter be amended. As amended, they are adopted;</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No section of the plumbing code shall impose a mandatory duty of enforcement on the city, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the city, and the appropriate officer, official, agent, employee, board, council, or commission with discretion to enforce the section, or not to enforce it.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>One copy of the Plumbing Code shall at all times be kept on file in the office of the City Clerk.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.16.020</num>
+          <heading>SECTION 719.7 CLEANOUTS.</heading>
+          <text>Section 719.0 is amended by adding Section 719.7 as follows:</text>
+          <text proof="true"><strong>719.7 Cleanout. </strong>Cleanouts shall be installed adjacent to the property line where the private sewer system connects to the public sanitary sewer lateral and in conformance with the California Plumbing Code. All such line cleanouts shall be extended to grade with materials and according to specifications approved by the Director of Public Works, or his designee, and terminate within a concrete box.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <text>Chapter 23.20 (Mechanical Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>23.20</num>
+        <heading>MECHANICAL CODE</heading>
+        <section>
+          <num>23.20.010</num>
+          <heading>ADOPTION.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The code by the International Code Council entitled California Mechanical Code, 2016 Edition, as adopted and amended by the State of California, hereinafter called "mechanical code," is adopted as the rules, regulations and standards within this city as to all matters contained therein, except as otherwise provided in this chapter.</text>
+            <text>
+              <strong>EXCEPTIONS:</strong>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>Sections 104.2 are not adopted. Instead, Chapter 23.06 applies to this chapter;</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No section of the mechanical code shall impose a mandatory duty of enforcement on the city, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, said section shall be deemed to invest the City, and the appropriate officer, official, agent, employee, board, council or commission thereof with discretion to enforce the section or not enforce it.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A copy of the mechanical code shall at all times be kept on file in the office of the City Clerk.</text>
+          </para>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>9</num>
+    <text>Chapter 23.44 (Swimming Pools) of the San Mateo Municipal code is hereby repealed.</text>
+  </section>
+  <section>
+    <num>10</num>
+    <text>The Council adopts the finding for the local amendments to the California Building Standards Code, 2016 Edition, attached hereto as Exhibit A and incorporated herein by reference.</text>
+  </section>
+  <section>
+    <num>11</num>
+    <heading>SEVERABILITY.</heading>
+    <text>If any section, subsection, clause, or phrase of this Ordinance is for any reason held to be invalid, such decision shall not affect the validity of the remaining portion or sections of the Ordinance. The Council hereby declares that it should have adopted the Ordinance and each section, subsection, clause, or phrase thereof irrespective of the fact that any one or more sections, subsections, clauses, or phrases be held invalid.</text>
+  </section>
+  <section>
+    <num>12</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>The Council finds that this Ordinance is exempt from the provisions of the California Environmental Quality Act pursuant to section 15601 of the CEQA Guidelines because it can be seen with certainty that there is no possibility that the amendments herein adopted will have a significant effect on the environment.</text>
+  </section>
+  <section>
+    <num>13</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+  </section>
+  <section>
+    <num>14</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on November 7, 2016 and adopted on November 21, 2016 and shall be effective January 1, 2017.</text>
+  </section>
+  <section>
+    <num>15</num>
+    <text>The City Clerk is directed to send this Ordinance to the California Building Standards Commission.</text>
+  </section>
+  <text>
+    <text>
+      <strong>EXHIBIT A</strong>
+    </text>
+  </text>
+  <num>23.07.080</num>
+  <heading>SECTIONS R902.1 AMENDED--ROOFING REQUIREMENTS.</heading>
+  <num>23.08.100</num>
+  <heading>SECTIONS 1505.1, 1505.1.3 AMENDED--ROOFING REQUIREMENTS,</heading>
+  <text>FINDINGS:</text>
+  <text>Local Climatic Conditions - The weather patterns within the City of San Mateo are considered to be moderately affected by westerly winds that can average from 10-15 mph and gusts that can exceed 40 mph which are experienced almost year round.  An average year's rainfall is approximately 22.95 inches, while summer conditions are hot and dry.  These summer conditions create hazardous fuel situations that have caused grassland and brush land fires in recent years.  Year round average temperatures range from 58 in the winter to 81 degrees during the summer, however high temperatures have ranged from 75 in the winter to 110 degrees in the summer.  Low humidity, high temperatures and gusting winds can move a fire quickly in the hillsides and canyon areas of the City and can tax the capabilities of its urban designed fire department. Lower water pressure in these areas also affects the abilities to quickly suppress any fires.</text>
+  <text>Because of the unpredictable weather patterns, drought and water rationing can be expected, causing dry vegetation and hazardous fire conditions.  Weather patterns can go to the other extreme with heavy rains creating higher fuel load in the hillsides.  A heavy rain pattern would also impact a flood plain area located in the northeast portion of the City.  This condition has the potential of causing additional barriers in this area when flooding blocks streets and underpasses.</text>
+  <text>The conditions described in this section make it reasonably necessary for the City to adopt the following ordinance section as modifications to the 2016 California Residential and Building Codes and these findings are specifically intended to satisfy the requirements of California Health and Safety Code Section 17958.7 in that regard:  San Mateo Municipal Code Section 23.07.080 and 23.08.100<strong>.</strong></text>
+  <num>23.07.110</num>
+  <heading>SECTION R Section R602.10.3(3) and Table R602.10.4.4 AMENDED— prohibit the use of gypsum board and limit the use of Portland cement plaster as prescriptive wall bracing materials in Seismic Design Categories D0, D1 and D2</heading>
+  <text>FINDINGS:</text>
+  <text>Local Geological Conditions – San Mateo is located near a vast array of fault systems capable of producing major earthquakes, including but not limited to, the recent 1989 Loma Prieta. Gypsum wallboard and exterior Portland cement plaster have performed poorly during recent California seismic events. The shear values for gypsum wallboard and portland cement stucco contained in the code are based on mono-directional testing. It is appropriate to limit the use of these products until cyclic loading testing are performed and evaluated.</text>
+  <num>23.08.120</num>
+  <heading>SECTION 1705.3 Concrete Construction – Amended</heading>
+  <num>23.08.130</num>
+  <heading>SECTION 1905.1.7, ACI 318 Section 14.1.4 – Amended</heading>
+  <text>FINDINGS:</text>
+  <text>Local Geological Conditions – San Mateo is located near a vast array of fault systems capable of producing major earthquakes, including but not limited to, the recent 1989 Loma Prieta. Results from studies after the 1994 Northridge earthquake indicated that a lot of the damages were attributed to lack of quality control during construction. The proposed amendment improves quality control during construction and therefore needs to be incorporated into the Code. Revise CBC Section 1705.3 exception No. 1 to allow special inspection not to be required for isolated spread footing where the structural design of the footing is based on a specified compressive strength, f'c, no greater than 2,500 psi. This proposed amendment is a continuation of an amendment adopted during the previous code adoption cycle.</text>
+  <text proof="true"><strong>23.16.020 SECTION 719.0 AMENDED--CLEANOUTS</strong>.</text>
+  <text>FINDINGS:</text>
+  <text>Local Geological Conditions – San Mateo soils are expansive in nature. These expansive soils create unstable conditions which increase the potential of breaks in sewer laterals. To maintain health and sanitary services, it is necessary to gain access and to periodically maintain public sanitary laterals. This is accomplished by the additional cleanout as required above.</text>
 </document>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2016-4">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2016-4">
   <num>2016-4</num>
-  <heading>AMENDING MUNICIPAL CODE CHAPTER 11.40, “PROHIBITED OR LIMITED PARKING” TO REMOVE SECTION 11.40.050 “ALL NIGHT PARKING PROHIBITED” AND SUBSECTION (d) OF 11.40.080, “PEDDLERS-VENDORS-LIMITATION”</heading>
+  <heading>AMENDING MUNICIPAL CODE CHAPTER 11.40, "PROHIBITED OR LIMITED PARKING" TO REMOVE SECTION 11.40.050 "ALL NIGHT PARKING PROHIBITED" AND SUBSECTION (d) OF 11.40.080, "PEDDLERS-VENDORS-LIMITATION"</heading>
   <meta>
     <effective>2016-01-01</effective>
     <citations>
@@ -9,4 +9,37 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2016-4</citation>
     </citations>
   </meta>
+  <text>WHEREAS, Municipal Code section 11.40.050 currently prohibits parking on any street for longer than 30 minutes between the hour of two a.m. and four a.m. of any day; and</text>
+  <text>WHEREAS, overnight street parking has historically been permitted in the City of San Mateo; and</text>
+  <text>WHEREAS, subsection (d) of Municipal Code section 11.40.080 currently prohibits any person from standing or parking a vehicle upon any street for the purpose of displaying such vehicle for sale by sign or otherwise; and</text>
+  <text>WHEREAS, the court decision of <em>People v. Moon</em>, 89 Cal. App 3d Supp.1 (1978) and <em>Burkow v. City of Los Angeles, </em>119 F.Supp.2d 1076 (2000)<em>, </em>have ruled that such ordinances are unconstitutional violation of the First Amendment right to free speech;</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS AS FOLLOWS:</text>
+  <section>
+    <num>1</num>
+    <text>Section 11.40.050, "All Night Parking Prohibited", is deleted.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Subsection (d) of Section 11.40.080 "Peddlers-Vendors-Limitation," is deleted and replaced with subsection (e).</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect. It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>ENVIRONMENTAL REVIEW.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines Section 15061(c)(3), this Ordinance is not a project in that there is no possiblity that it will have a significant effect upon the environment.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in the Examiner Peninsula Edition, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the Charter and shall be effective 30 days after the date of adoption.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on April 18, 2016 and adopted on May 2, 2016 and shall be effective thirty days after its date of adoption.</text>
+  </section>
 </document>

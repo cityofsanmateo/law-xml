@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-8">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-8">
   <num>2017-8</num>
-  <heading>AMENDING OF CHAPTER 3.62, “ACQUISITION-LEASING-DISPOSITION-CITY PROPERTY” OF THE SAN MATEO MUNICIPAL CODE</heading>
+  <heading>AMENDING OF CHAPTER 3.62, "ACQUISITION-LEASING-DISPOSITION-CITY PROPERTY" OF THE SAN MATEO MUNICIPAL CODE</heading>
   <meta>
     <effective>2017-01-01</effective>
     <citations>
@@ -9,4 +9,36 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-8</citation>
     </citations>
   </meta>
+  <text>WHEREAS, the City of San Mateo adopted a First Time Homebuyer (FTB) program in 1988 with the opening of 78 condominium units at Meadow Court, followed by 96 units at Gateway Commons the following year; and</text>
+  <text>WHEREAS, in 1992, the City's Below Market Rate (BMR) inclusionary Program was adopted, which expanded opportunities for first time buyers and has provided 128 additional ownership units to the City's portfolio; and</text>
+  <text>WHEREAS, the purpose of these programs is to promote home ownership opportunities for low and moderate income households and to preserve ongoing affordability for future buyers upon resale of the units; and</text>
+  <text>WHEREAS, units in both the FTB and BMR programs rely on recorded affordability restriction documents which set sales price restrictions and give the City the first option to purchase upon resale in order to ensure another eligible buyer purchases the units at an affordable price; and</text>
+  <text>WHEREAS, the City's existing purchasing ordinance requires City Council approval for the purchase of real property; and</text>
+  <text>WHEREAS, staff recommends revising the City's purchasing ordinance to codify a provision authorizing the City Manager or his or her designee to purchase affordable units for purposes of resale to qualified buyers;</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, HEREBY ORDAINS that:</text>
+  <section>
+    <num>1</num>
+    <text>An additional paragraph is inserted as the second paragraph to Section 3.62.020, "Acquisition," to read as follows:</text>
+    <text>"The City Manager or his or her designee is authorized to purchase affordable ownership residential units in the City, at the purchase price prescribed in the applicable affordability agreement, for purposes of resale to a qualified buyer, as defined in the applicable affordability agreement."</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines section 15378(b)(5), adoption of this Ordinance is categorically exempt from CEQA as an administrative activity that will not result in a potentially significant physical impact on the environment.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.  It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in the Examiner Peninsula Edition, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on June 19, 2017 and adopted on July 17, 2017 and shall be effective thirty days after its adoption.</text>
+  </section>
 </document>

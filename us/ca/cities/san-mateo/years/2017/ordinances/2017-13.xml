@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-13">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-13">
   <num>2017-13</num>
-  <heading>AMEND CHAPTER 8.28, “BEES” OF THE SAN MATEO MUNICIPAL CODE</heading>
+  <heading>AMEND CHAPTER 8.28, "BEES" OF THE SAN MATEO MUNICIPAL CODE</heading>
   <meta>
     <effective>2017-01-01</effective>
     <citations>
@@ -9,4 +9,59 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-13</citation>
     </citations>
   </meta>
+  <text>WHEREAS, San Mateo Municipal Code Chapter 8.28, "Bees, renders it difficult to maintain beekeeping and apiaries within the City on single family properties and is in conflict with the increased interest of members of the public; and</text>
+  <text>WHEREAS, the proposed amendments to Chapter 8.28, Bees, of the San Mateo Municipal Code are intended to make it easier to maintain bees in the City; and</text>
+  <text>WHEREAS, on September 14, 2017, the San Mateo Sustainability Commission held a duly noticed public hearing and recommended that the proposed amendment to Chapter 8.28 of the San Mateo Municipal Code be adopted by City Council; and</text>
+  <text>WHEREAS, on October 16, 2017 the City Council considered the proposed amendments;</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+  <section>
+    <num>1</num>
+    <text>Chapter 8.28 of the San Mateo Municipal Code is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>8.28</num>
+        <heading>BEES</heading>
+        <section>
+          <num>8.28.010</num>
+          <heading>KEEPING OF BEES - CONDITIONS.</heading>
+          <para>
+            <num>A.</num>
+            <text>Adequate Water Source Required</text>
+          </para>
+          <text>All properties on which beehives are kept must provide for adequate water sources on the property at all times of year and must ensure that they do not become a mosquito-breeding site. Adequate sources are ones that provide both an amount of fresh water necessary for the amount of bees or beehives and a method for the bees to be able to gain a good footing to obtain the water.</text>
+          <para>
+            <num>B.</num>
+            <text>Flyway Required.</text>
+          </para>
+          <text>Beekeepers shall manage the direction and angle of the bee flyway from the entrance of the hive by properly siting and orienting the hives and by using flyway barriers as needed to modify the angle in order to keep the flyway over the beekeeper's property until the bees are flying eight or more feet above the ground</text>
+        </section>
+        <section>
+          <num>8.28.020</num>
+          <heading>NUISANCE WHEN.</heading>
+          <text>No person shall manage bees under such conditions as to create a source of constant annoyance or discomfort to any person.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, and posted in the City Clerk's Office and on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this chapter shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with California Public Resources Code 21065 adoption of this Ordinance is not a "project" subject to CEQA because it can be seen with certainty that it will not cause a change in the environment.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on October 16, 2017 and adopted on November 6, 2017, and will take effect thirty days after its date of adoption.</text>
+  </section>
 </document>

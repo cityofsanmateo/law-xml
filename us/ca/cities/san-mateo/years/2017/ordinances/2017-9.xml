@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-9">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-9">
   <num>2017-9</num>
-  <heading>AMEND CHAPTER 7.22 “UNRULY GATHERINGS”</heading>
+  <heading>AMEND CHAPTER 7.22 "UNRULY GATHERINGS"</heading>
   <meta>
     <effective>2017-01-01</effective>
     <citations>
@@ -9,4 +9,194 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-9</citation>
     </citations>
   </meta>
+  <text>WHEREAS, pursuant to San Mateo Municipal Code Chapter 7.22 it is a public nuisance to create, cause, commit or maintain an unruly gathering; and</text>
+  <text>WHEREAS, providing for the summary abatement of unruly gatherings at the expense of the persons creating, causing, committing or maintaining them, minimizes the frequency of occurrences requiring calls for service to unruly gatherings; and</text>
+  <text>WHEREAS, minimizing the frequency of unruly gatherings will promote the public peace, health, safety and welfare; and</text>
+  <text>WHEREAS, the City Council has expressed support to move forward with amending Chapter 7.22 to include Social Host responsibility; and</text>
+  <text>WHEREAS, the Social Host ordinance is an additional tool intended to hold adults accountable for knowingly allowing underage drinking that occurs in their home by creating a process by which the City can seek reimbursement for police response;</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+  <section>
+    <num>1</num>
+    <text>Chapter 7.22 of the San Mateo Municipal Code is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>7.22</num>
+        <heading>UNRULY GATHERINGS</heading>
+        <section>
+          <num>7.22.010</num>
+          <heading>PURPOSE.</heading>
+          <text>This chapter is enacted pursuant to the authority provided in Government Code Sections 38771 through 38773.5 and pursuant to the City's police powers. The purpose of this chapter is to identify activity which constitutes a public nuisance, to provide for the summary abatement of such a nuisance at the expense of the persons creating, causing, committing or maintaining it, and to promote the public peace, health, safety and welfare by minimizing the frequency of occurrences requiring calls for service to unruly gatherings which disturb the public peace and threaten the general welfare and to promote the reduction of underage drinking by imposing penalties upon responsible persons for unruly gatherings where alcohol is consumed by, served to or in the possession of underage persons. (Ord. 2004-15 § 1, 2004; Ord. 1991-17 § 1, 1991).</text>
+        </section>
+        <section>
+          <num>7.22.020</num>
+          <heading>DEFINITIONS.</heading>
+          <para>
+            <num>(a)</num>
+            <text>"Unruly gathering" means a gathering of three or more people where such persons are engaged in activities that constitute a violation of:</text>
+            <para>
+              <num>(1)</num>
+              <text>Penal Code Section 407; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Penal Code Section 415(2); o</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Section 7.30.100(b) of this Code.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Emergency response" means the dispatch of three or more police officers, fire personnel or other City emergency response providers in response to a call for service.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Alcohol" and "Alcoholic Beverage" include any form of ethyl alcohol, from whatever source by whatever process produced, spirits, liquor, wine, beer, and every liquid or solid containing alcohol, spirits, liquor, wine or beer, and which contains one-half of one percent or more alcohol by volume and which is fit for beverage purposes either alone or when diluted, mixed or combined with other substances.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Juvenile" means any person less than eighteen years of age.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"Minor" and "underage person" means any person less than twenty-one years of age.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>"Public safety services" or "response costs" means the direct costs associated with responses by law enforcement, fire and other City emergency response providers to unruly gatherings, including but not limited to:</text>
+            <para>
+              <num>(1)</num>
+              <text>The portion of the cost of salaries and benefits of any law enforcement, fire or other City emergency response personnel for the amount of time spent responding to, remaining at, or otherwise dealing with an unruly gathering, and the administrative costs attributable to such response;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The cost of any medical treatment to or for any law enforcement, fire or other City emergency response personnel injured responding to, remaining at or leaving the scene of an unruly gathering; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The cost of the use of any City of San Mateo equipment or property, and the cost of repairing such equipment or property damaged, in responding to, remaining at or leaving the scene of an unruly gathering.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>7.22.025</num>
+          <heading>NUISANCE DECLARED.</heading>
+          <text>It is declared that unruly gatherings constitute a public nuisance as defined by Chapter 7.16. No person, firm, corporation, association, or other legal entity owning, leasing, renting, or occupying real property in the City shall create, cause, commit, maintain, or permit such a public nuisance to occur on such property.</text>
+        </section>
+        <section>
+          <num>7.22.030</num>
+          <heading>RESPONSE TO UNRULY GATHERINGS.</heading>
+          <para>
+            <num>(a)</num>
+            <text>First Response. Upon a report of an unruly or potentially unruly gathering, a duly authorized officer or employee of the City may respond to the incident and make a preliminary determination as to whether the incident constitutes or may constitute an unruly gathering. If the officer or employee determines that the incident constitutes or may constitute an unruly gathering, the officer or employee may issue a written warning to the person apparently in charge of the gathering that contains information in substantial conformance to the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>The conduct of the gathering constitutes or may constitute an unruly gathering under the Municipal Code or State law; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Unless the conduct of the gathering is adjusted, the continuance at the level or in the manner determined may result in the arrest or citation of persons participating in the gathering; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>If an officer or employee responds to the gathering again in order to seek the abatement of the conduct or manner of the gathering, the full costs to the City of that response or any further response may be charged to the owner, tenant or occupant of the property on which the gathering is occurring, as well as to the person in charge of the property and the person who organized the gathering.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Second and Further Responses. If, after a first notice has been given as provided above, a duly authorized officer or employee of the City responds to a gathering that is then an unruly gathering, the officer or employee may take such further abatement steps as the officer or employee believes reasonable to abate the unruly gathering as provided by State and City laws. The response costs of those abatement steps may be compiled and reported to the City Manager for hearing and assessment of the response costs against the property owner as provided in Chapter 7.42.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The issuance of an entertainment permit under Chapter 5.43 of this Code shall constitute the issuance of a written warning for the purposes of this section, if the permit states on its face that the permittee is warned that the permittee shall be responsible for the costs of any emergency response if such response is required to abate an unruly gathering at the location for which the entertainment permit was issued. Accordingly, if an entertainment permit contains the warning stated herein, the permittee shall be liable under the provisions of this chapter for the costs of responding to and abating an unruly gathering at a permitted establishment if the abatement requires an emergency response. (Ord. 2004-15 § 1, 2004; Ord. 1991-17 § 1, 1991).</text>
+          </para>
+        </section>
+        <section>
+          <num>7.22.040</num>
+          <heading>JOINT AND SEVERAL LIABILITY OF PARTICIPANTS AND ORGANIZERS OF UNRULY GATHERING.</heading>
+          <text>In addition to any other remedy under law, the City may bill the costs incurred in seeking abatement of the unruly gathering provided in Section 7.22.030(b) to each and every person who created, caused, committed, or maintained the unruly gathering. Evidence that a person was requested to leave such a gathering and refused or failed to do so shall be rebuttable proof that that person committed and maintained an unruly gathering. In establishing the costs and liability incurred as to persons who are not owners of the real property involved, the City shall provide a notice and hearing process before the City Council in substantial conformance to that provided to the owners of real property pursuant to Chapter 7.42. (Ord. 2004-15 § 1, 2004; Ord. 1991-17 § 1, 1991).</text>
+        </section>
+        <section>
+          <num>7.22.045</num>
+          <heading>CUMULATIVE FIRST RESPONSES.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Notwithstanding any other provision of this chapter and in addition to any other remedy provided in this chapter, the owner of any premises at which a first response to an unruly gathering is provided, shall be liable for the costs incurred in providing such first response if:</text>
+            <para>
+              <num>(1)</num>
+              <text>the unruly gathering occurs at premises at which there have been two previous first responses to unruly gatherings, and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the premises are owned by the same individual or legal entity at the time of the two previously provided first responses, and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>the owner was provided notice of the two previous first responses via personal delivery or U.S. Mail.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Notwithstanding any other provision of this chapter and in addition to any other remedy provided in this chapter, the tenant or occupant of any premises at which a first response to an unruly gathering is provided, shall be liable for the costs incurred in providing such first response if:</text>
+            <para>
+              <num>(1)</num>
+              <text>the unruly gathering occurs at premises at which there have been two previous first responses to unruly gatherings, and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the premises are occupied by the same individual or legal entity at the time of the two previously provided first responses, an</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>the tenant or occupant was provided notice of the two previous first responses via personal delivery or U.S. Mail. (Ord. 2004-15 § 1, 2004).</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>7.22.050</num>
+          <heading>CIVIL OR CRIMINAL ACTIONS NOT AFFECTED.</heading>
+          <text>Any abatement process undertaken pursuant to this Title shall not prejudice or adversely affect any other action, civil or criminal, that may be brought to abate an unruly gathering or to seek compensation for damages suffered. A civil or criminal action may be brought concurrently with any other abatement process regarding the same unruly gathering. (Ord. 2004-15 § 1, 2004; Ord. 1991-17 § 1, 1991).</text>
+        </section>
+        <section>
+          <num>7.22.055</num>
+          <heading>SOCIAL HOST LIABILITY</heading>
+          <para>
+            <num>(a)</num>
+            <text>No person shall knowingly suffer, permit or host a gathering at his or her place of residence or other private property, place or premises or host a gathering at a public place under his or her control where two or more persons under the age of twenty-one are present, where the gathering is unruly as defined by SMMC 7.22.020(a), and alcoholic beverages are in the possession of, being consumed by, or served to any underage person.</text>
+          </para>
+          <text>In addition to any other remedy for violation of subdivision (a) of this section, any person who owns or has control of the premises where the gathering occurs, rents the premises where the gathering occurs, or organized the gathering shall be jointly and severally liable for response costs incurred when public safety services were utilized in responding to an unruly gathering where alcohol was served to, consumed by or in the possession of underage persons. No prior warning or notification shall be required before the assessment of the response costs.  If a person who has control of the premises where the unruly gathering occurs or the person who organizes the gathering is a juvenile, the juvenile and the parents or guardians of the juvenile will be jointly and severally liable for the response costs incurred when public safety services were utilized in responding to an unruly gathering where alcohol was served to, consumed by or in the possession of underage persons.</text>
+          <text>The response costs of those abatement steps may be compiled and reported to the City Manager for hearing and assessment against the property owner as provided in Chapter 7.42</text>
+          <text>In addition to any other remedy under law, the City may bill the costs incurred in seeking abatement of an unruly gathering where alcohol was served to, consumed by or in the possession of underage persons, to any person who has control of the premises where the gathering occurs, rents the premises where the gathering occurs, or organized the gathering. In establishing the costs and liability incurred as to persons who are not owners of the real property involved, the City shall provide a notice and hearing process before the City Council in substantial conformance to that provided to the owners of real property pursuant to Chapter 7.42.</text>
+          <text>No person may be prosecuted in any criminal or administrative proceeding for a violation of subdivision (a) of this section, if the evidence of the violation was obtained as a result of the person seeking medical assistance for themselves or someone else.  No person may be held liable for the cost of responding to an unruly gathering under subdivision (b) of this section, if the evidence that the person was responsible for the unruly gathering was obtained as a result of the person seeking medical assistance for themselves or someone else.</text>
+        </section>
+        <section>
+          <num>7.22.060</num>
+          <heading>CONSTRUCTION.</heading>
+          <text>No section of this chapter shall impose a mandatory duty on the City, or on any officer, official, agent, employee, board, council, or commission of the City. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall be deemed to invest the City, and the appropriate officer, official, agent, employee, board, council, or commission with discretion to enforce the section or not to enforce. (Ord. 2004-15 § 1, 2004; Ord. 1991-17 § 1, 1991).</text>
+        </section>
+        <section>
+          <num>7.22.070</num>
+          <heading>SEVERABILITY.</heading>
+          <text>In the event any section, clause or provision of this chapter shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect. (Ord. 2004-15 § 1, 2004).</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines section 15378(b)(5), this action is categorically exempt from (CEQA) as an administrative activity that will not result in a potentially significant physical impact on the environment.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on April 17, 2017 and adopted on July 17, 2017, and shall be effective thirty days after its date of adoption.</text>
+  </section>
 </document>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-11">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-11">
   <num>2017-11</num>
-  <heading>ADOPTING AN UNCODIFIED ORDINANCE AMENDING APPLICATION OF CHAPTER 23.61, “AFFORDABLE HOUSING COMMERCIAL LINKAGE FEE,” TO CERTAIN COMMERCIAL DEVELOPMENT PROJECTS</heading>
+  <heading>ADOPTING AN UNCODIFIED ORDINANCE AMENDING APPLICATION OF CHAPTER 23.61, "AFFORDABLE HOUSING COMMERCIAL LINKAGE FEE," TO CERTAIN COMMERCIAL DEVELOPMENT PROJECTS</heading>
   <meta>
     <effective>2017-01-01</effective>
     <citations>
@@ -9,4 +9,35 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-11</citation>
     </citations>
   </meta>
+  <text>WHEREAS, the City of San Mateo adopted an affordable housing commercial linkage fee on September 6, 2016 (the "Fee"), which took effect on November 5, 2016; and</text>
+  <text>WHEREAS, the Fee applies to commercial development of more than 5,000 square feet; and</text>
+  <text>WHEREAS, the City did not receive comments from affected commercial developers on the proposed Fee prior to its adoption or effective date; and</text>
+  <text>WHEREAS, several commercial developers had completed the City's pre-application process and submitted planning applications on proposed projects prior to the Fee's effective date; and</text>
+  <text>WHEREAS, after the Fee's effective date, the City received comments from the developer of a significant project, who had completed a neighborhood meeting and Planning Commission study session and filed a planning application, that the Fee will substantially impact the project budget in a way unanticipated at the time the project was initiated; and</text>
+  <text>WHEREAS, in the interest of equity and fairness, the City wishes to reduce the Fee for those commercial developers who had completed the City's pre-application process and submitted planning applications prior to the Fee's effective date;</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, HEREBY ORDAINS that:</text>
+  <section>
+    <num>1</num>
+    <text>For commercial development projects that had completed the City's pre-application process and submitted a planning application prior to the November 5, 2016, the amount of the Fee shall be reduced by 50%.  This reduction shall be applied to the amount of the Fee due after the application of any other Fee reduction provided for in San Mateo Municipal Code Chapter 23.61.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines section 15378(b)(5), adoption of this Ordinance is categorically exempt from CEQA as an administrative activity that will not result in a potentially significant physical impact on the environment.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.  It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in the Examiner Peninsula Edition, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on June 19, 2017, and adopted on July 17, 2017, and shall be effective thirty days after its adoption.</text>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-4">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-4">
   <num>2017-4</num>
   <heading>ADDING CHAPTER 7.45 TO THE SAN MATEO MUNICIPAL CODE TO PROHIBIT THE CULTIVATION, PROCESSING, OR SALE OF MARIJUANA</heading>
   <meta>
@@ -9,4 +9,74 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-4</citation>
     </citations>
   </meta>
+  <text>WHEREAS, on November 8, 2016, California voters approved Proposition 64 entitled "The Control, Regulate and Tax Adult Use of Marijuana Act" which legalized the possession and use of marijuana by persons 21 years of age and older, and made lawful, subject to state licensing, the cultivation, testing, and sale of nonmedical marijuana; and</text>
+  <text>WHEREAS, Proposition 64 added Section 26200 to the California Business and Professions Code which authorizes the City of San Mateo "to completely prohibit the establishment or operation of one or more types of [marijuana] businesses" made lawful by the proposition; and</text>
+  <text>WHEREAS, Proposition 64 added Section 11362.2 to the California Health and Safety Code which, among other things, permits individuals to grow for their personal use marijuana at their homes, but authorizes the City to prohibit the cultivation of marijuana outdoors upon the grounds of a private residence; and</text>
+  <text>WHEREAS, the City Council has concerns about the cultivation, processing and sale of marijuana and marijuana products within the community and the outdoor cultivation of marijuana at private residences, including but not limited to, compatibility of these uses with sensitive neighboring uses, and potential security concerns with the open and obvious cultivation and sale of marijuana and before enacting regulations regarding this conduct would like to study the experience of other jurisdictions to consider best practices and determine what conduct should be authorized; and</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO FINDS AND ORDAINS AS FOLLOWS:</text>
+  <section>
+    <num>1</num>
+    <heading>PURPOSE AND INTENT.</heading>
+    <text>This Chapter is enacted to address the serious health and safety concerns regarding the cultivation, processing and sale of marijuana and marijuana products within the community and the outdoor cultivation of marijuana at private residences, including but not limited to, compatibility of these uses with sensitive neighboring uses and potential security concerns with the open and obvious cultivation and sale of marijuana.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>
+      <strong>Chapter 7.45 is added to read as follows:</strong>
+    </text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>7.45</num>
+        <heading>PROHIBITION OF THE CULTIVATION, PROCESSING, OR SALE OF MARIJUANA</heading>
+        <section>
+          <num>7.45.010</num>
+          <heading>Purpose.</heading>
+          <text>This Chapter is enacted to address the health and safety concerns regarding the cultivation, processing and sale of marijuana and marijuana products within the community and the outdoor cultivation of marijuana at private residences, including but not limited to, compatibility of these uses with sensitive neighboring uses and potential security concerns with the open and obvious cultivation and sale of marijuana, resulting from the approval of Proposition 64 entitled "The Control, Regulate and Tax Adult Use of Marijuana Act" by California voters on November 8, 2016, which legalized the possession and use of marijuana by persons 21 years of age and older, and made lawful, subject to state licensing, the cultivation, testing, and sale of nonmedical marijuana</text>
+        </section>
+        <section>
+          <num>7.45.020</num>
+          <heading>Prohibition.</heading>
+          <text>Notwithstanding any provision of the San Mateo Municipal Code to the contrary, this section prohibits:</text>
+          <para>
+            <num>(a)</num>
+            <text>the use of any property within the city for the cultivation, storage, manufacturing, processing, or sale of nonmedical marijuana for adults 21 years of age and over;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>the possession, planting, cultivation, harvesting, drying, or processing of marijuana outdoors upon the grounds of a private residence; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>the issuance of any permit, license, or certificate for the operation of any such uses.</text>
+          </para>
+        </section>
+        <section>
+          <num>7.45.030</num>
+          <heading>. Permissible Activity.</heading>
+          <text>Nothing in this Chapter shall create criminal liability for any individual who is processing, planting, possessing, cultivating, harvesting, or drying marijuana or marijuana products for personal use as defined in the Proposition 64, so long as such activities occur indoors.</text>
+        </section>
+        <section>
+          <num>7.45.040</num>
+          <heading>. Severability Clause.</heading>
+          <text>The City Council of the City of San Mateo hereby declares that should any section, paragraph, sentence, phrase, term or word of this Chapter, hereby adopted, be declared for any reason to be invalid, it is the intent of the City Council that it would have adopted all other portions of this Chapter irrespective of any such portion declared invalid.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with CEQA Guidelines section 15378(a), adoption of this ordinance is not a "project" subject to CEQA, because the ordinance has no potential to result in either a direct physical change in the environment, or a reasonably foreseeable indirect physical change in the environment. Even if adoption of this ordinance did constitute a "project," it would be exempt from CEQA in accordance with CEQA Guidelines section 15061(b)(3), because it can be seen with certainty that there is no possibility that the activity in question may have a significant impact on the environment. The purpose of this urgency ordinance is to preserve the status quo while the City studies the potential adverse impacts of commercial marijuana enterprises and the outdoor cultivation of marijuana at private residences.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on February 6, 2017 and adopted on February 21, 2017, and shall be effective thirty days after its date of adoption.</text>
+  </section>
 </document>

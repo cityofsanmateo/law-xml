@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-5">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-5">
   <num>2017-5</num>
-  <heading>AMENDING TITLE 27 OF THE SAN MATEO MUNICIPAL CODE REGARDING ACCESSORY DWELLING UNITS AND JUNIOR ACCESSORY DWELLING UNITS IN R1 RESIDENTIAL DISTRICTS AND OTHER MINOR ZONING CODE AMENDMENTS</heading>
+  <heading/>
   <meta>
     <effective>2017-01-01</effective>
     <citations>
@@ -9,4 +9,498 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-5</citation>
     </citations>
   </meta>
+  <text>WHEREAS, the availability of housing is a substantial concern for individuals of all demographics, ages, and economic backgrounds in communities throughout the State of California; and</text>
+  <text>WHEREAS, accessory dwelling units and junior accessory dwelling units offer lower cost housing to meet the needs of existing and future residents within existing neighborhoods, while respecting architectural character; and</text>
+  <text>WHEREAS, in September 2016, the Legislature passed new laws including AB 2299, SB 1069, and AB 2406 intended to increase the number of accessory dwelling units and junior accessory dwelling units by simplifying the approval process and reducing costs associated with their creation, developing new standards and regulations, and modifying the City's ability to regulate accessory dwelling units; and</text>
+  <text>WHEREAS, the State of California has established that a local agency may, by ordinance, provide for the creation of accessory dwelling units and junior accessory dwelling units in single family residential zones and that that ordinance must designate areas within its jurisdiction where accessory dwelling units may be permitted; and</text>
+  <text>WHEREAS, accessory dwelling units and junior accessory dwelling units are residential uses consistent with existing residential zoning and General Plan designations; and</text>
+  <text>WHEREAS, the proposed accessory dwelling unit and junior accessory dwelling unit provisions and standards would implement Housing Element, Goal 2, "Provide a diversity of housing types, responsive to household size, income and age needs;" and</text>
+  <text>WHEREAS, the proposed accessory dwelling unit and junior accessory dwelling unit provisions and standards would implement Housing Element, Policy H2.7, "Allow creation of secondary units on residentially zoned properties to provide opportunities for affordable rental units or to allow housing for the extended families.  Require that the design of secondary units be compatible with the main residence and neighborhood, provide adequate on-site usable open space and parking, and not infringe upon the privacy of adjoining properties"; and</text>
+  <text>WHEREAS, the proposed Zoning Code amendments comply with the legislative amendments made in 2016 to Government Code Section 65852.2 which establishes standards for the development of accessory dwelling units and junior accessory dwelling units so as to increase the supply of smaller and affordable housing while ensuring that they remain compatible with the existing neighborhood; and</text>
+  <text>WHEREAS, on December 13, 2016, the Planning Commission held a duty noticed public hearing, received the staff report and reviewed a presentation by the Planning Division, and received comments from the public and interested parties; and</text>
+  <text>WHEREAS, on February 6, 2017, City Council of the City of San Mateo introduced Ordinance No. 2017- ---, 'Amending Title 27 of the San Mateo Municipal Code, Related to Accessory Dwelling Units and Junior Accessory Dwelling Units in Residential Districts; and</text>
+  <text>WHEREAS, the proposed Ordinance also includes minor edits to clarify other Zoning Code provisions; and</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, HEREBY ORDAINS that:</text>
+  <section>
+    <num>1</num>
+    <text>Chapter 27.04, "Definitions", of the San Mateo Municipal Code is amended to amend Sections 27.04.133, "Cooking Facility/Kitchen," and 27.04.165, "Dwelling," and to add new Sections 27.04.172, "Efficiency Food Preparation Area," and 27.04.494, " "Wetbar," as follows:</text>
+    <include>
+      <section>
+        <num>27.04.133</num>
+        <heading>COOKING FACILITY/KITCHEN.</heading>
+        <text>"Cooking facility/kitchen" means a room or portion thereof designated and/or customarily used as a place for the preparation and sanitation of food and containing a sink, stove, refrigerator, oven, microwave, freezer, or any other customarily used appliance or fixture for the preparation and sanitation of food as determined by the Zoning Administrator. A "cooking facility/kitchen" does not include a "wetbar" or "efficiency food preparation area."</text>
+      </section>
+      <section>
+        <num>27.04.165</num>
+        <heading>DWELLING.</heading>
+        <text>"Dwelling" means a building or portion thereof, designed or used exclusively for residential occupancy, including a one-family dwelling unit, an accessory dwelling unit, a junior accessory unit, a two-family dwelling unit, and a multiple-family dwelling units but does not include a hotel, motel, boarding or lodging houses or other lodging facilities, or a vessel or boat, or a house trailer.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Accessory dwelling unit" means an attached or detached residential dwelling unit which provides complete independent living facilities for one or more persons, is accessory to the primary single family residential dwelling unit, and includes permanent provisions for living, sleeping, eating, cooking facility and sanitation on the same parcel as the primary residential dwelling unit.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Bachelor, efficiency or studio unit" means a dwelling unit consisting of one principal room used for living and sleeping purposes, plus cooking facilities, a bathroom, and closets.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Junior accessory dwelling unit" means an additional, independent living unit created through the conversion of an existing bedroom in a single-family dwelling subject to defined standards, as specified in Chapter 27.19 of this Title.  Junior accessory dwelling units are distinguished from  accessory dwelling units in that they: 1) must include the conversion of an existing legally permitted bedroom(s) within an existing  single-family dwelling (no new or additional building area); 2) are smaller in size (maximum size of 500 square feet); 3) contain either independent or shared bathroom facilities with the existing primary residence; 4) contain a small "efficiency food preparation area"; and 5) are subject to unique standards that are not applicable to accessory dwelling units, as specified in Chapter 27.19.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Multiple-family dwelling" means a building or portion thereof, designed or altered for occupancy by three or more families living independently of each other.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"One-family dwelling" means a building containing one cooking facility only and designed exclusively for use and occupancy by one family, including the provision of interior access to all bedrooms, and may include a junior accessory dwelling unit within the principal dwelling.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Two-family dwelling" means a building(s) designed or altered to provide attached (duplex) or detached dwelling units for occupancy by two families living independently of each other.</text>
+        </para>
+      </section>
+      <section>
+        <num>27.04.172</num>
+        <heading>EFFICIENCY FOOD PREPARATION AREA.</heading>
+        <text>"Efficiency Food Preparation Area" means a small food preparation area for a junior accessory dwelling unit which includes sink dimensions with a maximum width of 16 inches and length of 16 inches, waste line diameter of 1.5 inches; food preparation with appliances that do not require electrical service greater than 120 volts, or natural or propane gas; a food preparation counter and storage cabinets which do not exceed six (6) feet in length.</text>
+      </section>
+      <section>
+        <num>27.04.494</num>
+        <heading>WETBAR.</heading>
+        <text>"Wetbar" means a counter surface located within a common living area room in a dwelling unit that is equipped with one sink of any size but no other appliances or fixtures typically used in food preparation.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Subsection (h)(10) is deleted from Section 27.06.020, "Zoning Administrator – Powers and Duties," of Chapter 27.06, "Administration."</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Subsection (b) of Section 27.18.020, "Permitted Uses", of Chapter 27.18, "R1 Districts – One Family Dwellings", is amended to read as follows:</text>
+    <text>"(b) 	Accessory dwelling units and junior accessory dwelling units subject to the provisions of Chapter 27.19."</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Chapter 27.19, "Secondary Units – Residential Zones", is amended to read as follows:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>27.19</num>
+        <heading>ACCESSORY DWELLING UNIT AND JUNIOR ACCESSORY DWELLING UNIT -RESIDENTIAL ZONES</heading>
+        <container>
+          <prefix>Article</prefix>
+          <num>I</num>
+          <heading>Accessory Dwelling Unit 2</heading>
+          <section>
+            <num>27.19.010</num>
+            <heading>PURPOSE.</heading>
+            <text>The purpose of this Chapter is to set forth regulations to permit accessory dwelling units on residential zoned properties (R1-A, R1-B, R1-C, R2, R3, R4, R5, R4D, R5D, R6D and BMSP) with a single-family residential use.  A parcel with a single family residential use, may have only one accessory dwelling unit (ADU) or one junior accessory dwelling unit (JADU), but not both.</text>
+          </section>
+          <section>
+            <num>27.19.020</num>
+            <heading>PROHIBITION ON SUBDIVISION.</heading>
+            <text>Properties with approved accessory dwelling units may not be subdivided at the time the units are approved or thereafter.</text>
+          </section>
+          <section>
+            <num>27.19.030</num>
+            <heading>PROHIBITION ON SALE AND LIMITATION ON RENTAL.</heading>
+            <para>
+              <num>(a)</num>
+              <text>An accessory dwelling unit shall not be sold separately from the primary residence.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>If an accessory dwelling unit is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
+            </para>
+          </section>
+          <section>
+            <num>27.19.040</num>
+            <heading>MINISTERIAL PERMIT REQUIRED.</heading>
+            <text>An accessory dwelling unit permit application for either an attached or a detached accessory dwelling unit is required in order to demonstrate that a unit is in compliance with the provisions of this Chapter. If the accessory dwelling unit is in full compliance with the provisions of this Chapter, a ministerial, non-discretionary permit will be issued.</text>
+          </section>
+          <section>
+            <num>27.19.050</num>
+            <heading>DEVELOPMENT STANDARDS.</heading>
+            <text>An accessory dwelling unit, as defined in Section 27.04.165, shall comply with the following development standards:</text>
+            <para>
+              <num>(a)</num>
+              <text>Permitted Zoning Districts.  Accessory dwelling units shall only be constructed on residential zoned properties, specifically R1-A, R1-B, R1-C, R2, R3, R4, R5, R4D, R5D, R6D and BMSP, that have been developed with a single family dwelling unit or an accessory dwelling unit is proposed to be built in conjunction with a single family dwelling unit, where the single family dwelling is the primary residential dwelling unit. The residential property shall not be part of a condominium, townhouse, or other multi-family development.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Number of Units.  No more than one accessory dwelling unit may be constructed on any site.  An accessory dwelling unit shall not be allowed on a site with more than one unit.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Owner Occupancy.  One of the dwelling units on the site shall be owner-occupied.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Maximum Unit Size.  The floor area of an accessory dwelling unit shall not exceed six hundred and forty (640) square feet including attic and basement areas as defined in Section 27.04.200 for the applicable underlying zoning district, provided that the total floor area for the parcel or lot does not exceed the maximum allowable floor area.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Setback and Other Zoning Regulations.  For purposes of setbacks and other zoning regulations, the accessory dwelling unit (both attached and detached) shall be considered to be a part of the principal use of subject site and shall be subject to the same requirements of the underlying zoning district, including standards for lot coverage, setbacks, and height, unless otherwise provided in this Chapter.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>Maximum Coverage of Rear Yard.  Accessory buildings shall not occupy more than fifty (50) percent of a required rear yard.</text>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text>Existing Accessory Structure.  When any accessory dwelling unit is proposed to be attached to an existing accessory structure, the entire structure must comply with all standards for the principal use of the subject site and underlying zoning district, and not those standards for an accessory structure.</text>
+            </para>
+            <para>
+              <num>(h)</num>
+              <text>Separate Entry, Cooking Facility/Kitchen and Bathroom.  The accessory dwelling unit, attached or detached, shall contain a separate entrance, cooking facility/kitchen, and bathroom.</text>
+            </para>
+            <para>
+              <num>(i)</num>
+              <text>Wetbar.  One wetbar is permitted in a dwelling unit in a common living area room only.  A single half-size or small refrigerator is permitted, but a microwave is not.</text>
+            </para>
+            <para>
+              <num>(j)</num>
+              <text>Location of Accessory Dwelling Unit.  The accessory dwelling unit may be within, attached to, or detached from the primary dwelling unit.</text>
+              <para>
+                <num>1.</num>
+                <text>Setback Exceptions.</text>
+                <para>
+                  <num>a.</num>
+                  <text>No setback shall be required for an existing legally permitted garage or accessory structure that is converted to an accessory dwelling unit.</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>A minimum setback of five (5) feet shall be required from the side and rear lot lines for an accessory dwelling unit that is constructed above an existing legally permitted garage.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(k)</num>
+              <text>Number and Type of Required Parking.</text>
+              <para>
+                <num>1.</num>
+                <text>General Requirements. There shall be a minimum of one (1) standard size off-street parking space for an accessory dwelling unit with up to one (1) bedroom and one (1) standard size parking space shall be required for each additional bedroom. The required accessory dwelling unit parking may be located in a garage, carport, uncovered or tandem space.  In addition, the required parking for the primary residential dwelling unit must comply with current code standards, as specified by the underlying zoning district.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Location of Required Parking for Accessory Dwelling Unit. The required parking for the accessory dwelling unit may be located on the rear one-third (1/3) of the property, including the required rear yard setback and a portion of the required side yard and street side yard setback areas.  The required parking shall not be located within the required front, interior side yard, or street side yard setback areas outside of the rear one-third (1/3) of the property.</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Replacement Parking for Primary Dwelling.  When a garage, carport, or covered parking structure is demolished or converted in conjunction with the construction of an accessory dwelling unit, and the required off-street parking spaces for the primary single-family dwelling unit must be replaced, the replacement spaces shall be located on the same parcel as the accessory dwelling unit in the following configurations, or a combination thereof:</text>
+                <text>garage parking spaces,</text>
+                <text>carport parking spaces,</text>
+                <text>uncovered parking spaces, or</text>
+                <text>tandem parking spaces.</text>
+                <para>
+                  <num>a.</num>
+                  <text>The required replacement parking may be located within the required front yard setback, street side setback, and rear yard setback areas.  It may also be located within a portion of the interior side yard setback provided that minimum five-foot wide side yard clearance with no obstruction is maintained.</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>Landscape and Limits on Paving Standards.  The required replacement parking located on the subject property shall be designed to comply with the landscape and paving standards set forth in Chapter 27.18.070 (d) and 27.18.080 (b)(4).  "Limits on paving" standards.</text>
+                </para>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>All required parking spaces shall be a minimum of 10 feet wide by 18 feet length without any obstructions.</text>
+              </para>
+              <para>
+                <num>5.</num>
+                <text>Parking Exemptions.  No additional parking shall be required for an accessory dwelling unit in the following instances:</text>
+                <para>
+                  <num>a.</num>
+                  <text>The accessory dwelling unit is located within one-half (1/2) mile of public transit stop;</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>The accessory dwelling unit is located within an architecturally and historically significant historic district;</text>
+                </para>
+                <para>
+                  <num>c.</num>
+                  <text>The accessory dwelling unit is in part of the existing legally permitted primary residence or an existing legally permitted accessory structure;</text>
+                </para>
+                <para>
+                  <num>d.</num>
+                  <text>In an area requiring on-street parking, permits are required but not offered to the occupant of the accessory dwelling unit.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(l)</num>
+              <text>Architectural Standards. New accessory dwelling units and conversions of an existing legally permitted structure shall be designed to comply with the following standards:</text>
+              <para>
+                <num>1.</num>
+                <text>Attached Accessory Dwelling Units. Accessory dwelling units that are attached to the primary residential dwelling unit shall:</text>
+                <para>
+                  <num>a.</num>
+                  <text>locate the primary entrance to the accessory dwelling unit no closer to the street than the primary residential dwelling unit;</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>be of the same architectural style as the primary structure;</text>
+                </para>
+                <para>
+                  <num>c.</num>
+                  <text>be constructed of the similar exterior materials, finishes, and family of colors as the primary residential dwelling unit; and</text>
+                </para>
+                <para>
+                  <num>d.</num>
+                  <text>Offset windows from neighbor's windows to maximize privacy.</text>
+                </para>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Detached Accessory Dwelling Units. Accessory dwelling units that are detached from the primary residential dwelling unit shall:</text>
+                <para>
+                  <num>a.</num>
+                  <text>comply with the architectural standards listed above under attached accessory dwelling units;</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>be designed to minimize the visibility of the accessory dwelling unit from the street(s), with the exception that corner lots are excluded from this requirement; and</text>
+                </para>
+                <para>
+                  <num>c.</num>
+                  <text>offset windows from neighbor's windows to maximize privacy.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(m)</num>
+              <text>Heritage Tree Standards.  New accessory dwelling units and conversions of an existing legally permitted structure shall be designed to comply with the standards for the preservation of heritage trees in Chapter 13.52.  "Heritage Trees."</text>
+            </para>
+            <para>
+              <num>(n)</num>
+              <text>Utility Service.  A separate water connection, a separate sewer service connection, and power connection as water, sewer, and power service is not required for an accessory dwelling unit.</text>
+            </para>
+            <para>
+              <num>(o)</num>
+              <text>Utility Fees.	Accessory dwelling units shall not be considered new residential uses for the purposes of calculating city connection fees or capacity charges for utilities, including water and sewer service.  For an accessory dwelling unit located within an existing structure, neither the installation of a new or separate utility connection nor the payment of a connection fee or capacity charge is required.  For an accessory dwelling unit that is separate from an existing structure, the city will require a new or separate utility connection directly between the accessory dwelling and the utility.</text>
+            </para>
+            <para>
+              <num>(p)</num>
+              <text>Other Requirements. All other zoning requirements shall be complied with unless an authorized variance is approved.</text>
+            </para>
+          </section>
+          <section>
+            <num>27.19.060</num>
+            <heading>RECORDATION OF DEED RESTRICTION.</heading>
+            <para>
+              <num>(a)</num>
+              <text>A deed restriction shall be recorded to run with the land and submitted to the City prior to building permit issuance which indicates the following:</text>
+              <para>
+                <num>1.</num>
+                <text>Only one unit may be occupied solely by persons other than the owner or owners of record.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>If an accessory dwelling unit is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Sale of the Accessory Dwelling Unit separately from the sale of the single family residence is prohibited.</text>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>The approved size and attributes of the Accessory Dwelling Unit.</text>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>A copy of this deed restriction must be given to each prospective occupant.</text>
+            </para>
+          </section>
+        </container>
+        <container>
+          <prefix>Article</prefix>
+          <num>II</num>
+          <heading>Junior Accessory Dwelling Unit</heading>
+          <section>
+            <num>27.19.070</num>
+            <heading>PURPOSE.</heading>
+            <text>The purpose of this chapter is to set forth regulations to permit junior accessory dwelling units on one and two-family residential zoned properties (R1-A, R1-B, R1-C, and R2). A parcel with an existing legally permitted single-family use may have only one accessory dwelling unit or one junior accessory dwelling unit, but, not both.</text>
+          </section>
+          <section>
+            <num>27.19.080</num>
+            <heading>PROHIBITION ON SUBDIVISION.</heading>
+            <text>Properties with approved junior accessory dwelling units may not be subdivided at the time said unit is approved or thereafter.</text>
+          </section>
+          <section>
+            <num>27.19.090</num>
+            <heading>PROHIBITION ON SALE AND LIMITATION ON RENTAL.</heading>
+            <para>
+              <num>(a)</num>
+              <text>A junior accessory dwelling unit shall not be sold separately from the primary residence.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>If a junior accessory dwelling unit is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
+            </para>
+          </section>
+          <section>
+            <num>27.19.0100</num>
+            <heading>MINISTERIAL PERMIT REQUIRED.</heading>
+            <text>A junior accessory dwelling unit permit application is required in order to demonstrate that the unit is in compliance with the provisions of this section.  If the junior accessory dwelling unit is in full compliance with the provisions of this section, a ministerial, non-discretionary permit shall be issued.</text>
+          </section>
+          <section>
+            <num>27.19.110</num>
+            <heading>DEVELOPMENT STANDARDS.</heading>
+            <text>A "Junior accessory dwelling unit", as defined in Section 27.04.165, must comply with the following development standards:</text>
+            <para>
+              <num>(a)</num>
+              <text>Permitted Zoning Districts. Junior accessory dwelling units shall only be constructed on one and two-family residential zoned properties, specifically R1-A, R1-B, R1-C, and R2, with an existing legally permitted single-family dwelling. The residential property shall not be part of a condominium, townhouse, or other multi-family development.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Limit to the Number of Junior Accessory Dwelling Units. The number of junior accessory dwelling units is limited to one per residential parcel zoned for one-family dwelling unit or two-family dwelling units with a single-family dwelling already built on the parcel.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Setback and Other Zoning Regulations. For purposes of setbacks and other zoning regulations, the junior accessory dwelling unit shall be considered to be a part of the principal use of subject site and shall be subject to the same requirements of the underlying zoning district.</text>
+            </para>
+            <para>
+              <num>(d)</num>
+              <text>Maximum Unit Size. The floor area of a junior accessory dwelling unit shall not exceed five hundred (500) square feet, including attic and basement areas as defined in Section 27.04.200 for the applicable zoning district, provided that the total floor area for the parcel or lot does not exceed the maximum allowable floor area.</text>
+            </para>
+            <para>
+              <num>(e)</num>
+              <text>Construct within Existing Structure. The junior accessory dwelling unit shall be constructed within the existing walls of an existing, legally permitted single-family dwelling unit and must include the conversion of an existing, legally permitted bedroom.</text>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>Unit Access.</text>
+              <para>
+                <num>1.</num>
+                <text>A separate exterior entry from the main entrance to the one-family dwelling, which shall be provided to serve the junior accessory dwelling unit only; and</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>An interior entry access between the junior accessory dwelling unit and 		the one-family dwelling that is located off of the common living area of the primary residence, such as the living room, family room, dining room, den, office, home gym, kitchen, or an interior hallway leading to these common living areas. This interior entry access may be a door equipped with a double lock. A permitted junior accessory dwelling unit may include a second interior door for sound attenuation.</text>
+              </para>
+            </para>
+            <para>
+              <num>(g)</num>
+              <text>Efficiency Food Preparation Area.  A junior accessory dwelling unit shall include a small efficiency food preparation area that is limited to the following components:</text>
+              <para>
+                <num>1.</num>
+                <text>A sink with a maximum width and length dimensions of sixteen (16) inches and with a maximum waste line diameter of one-and-one-half (1.5) inches;</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Food preparation appliances that do not require electrical service greater than one-hundred-twenty (120) volts or natural or propane gas;</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>A food preparation counter and storage cabinets which do not exceed six (6) feet in total length.</text>
+              </para>
+            </para>
+            <para>
+              <num>(h)</num>
+              <text>Wetbar.  One wetbar is permitted in a dwelling unit in a common living area room only.  A single half-size or smaller refrigerator is permitted, but a microwave is not.</text>
+            </para>
+            <para>
+              <num>(i)</num>
+              <text>Building and Fire Requirements.</text>
+            </para>
+            <text>No fire wall separation or noise attenuation measures are required between the main dwelling and the junior accessory dwelling unit.  No fire sprinklers are required for the junior accessory dwelling unit, unless the associated improvements meet the threshold for a "substantial remodel" as defined by Chapter 23, Building and Construction, of the San Mateo Municipal Code. The junior accessory dwelling unit shall have an adjoining door connected to the main living area for fire separation.  A smoke alarm shall be required in the junior accessory dwelling unit and shall be connected to the smoke alarm in the main residence.</text>
+            <text>The junior accessory dwelling unit shall be equipped with a carbon monoxide detector.</text>
+            <para>
+              <num>(j)</num>
+              <text>Utility Service.  A separate water connection, a separate sewer service connection, and power connection as water, sewer, and power service is not required for a junior accessory dwelling unit.</text>
+            </para>
+            <para>
+              <num>(k)</num>
+              <text>Parking.  No additional off-street parking is required for a junior accessory dwelling unit.</text>
+            </para>
+          </section>
+          <section>
+            <num>27.19.120</num>
+            <heading>RECORDATION OF DEED RESTRICTON.</heading>
+            <para>
+              <num>(a)</num>
+              <text>A deed restriction shall be recorded to run with the land and submitted to the City prior to building permit issuance which indicates the following:</text>
+              <para>
+                <num>1.</num>
+                <text>Only one unit may be occupied solely by persons other than the owner or owners of record.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>If a junior accessory dwelling unit is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Sale of the Junior Accessory Dwelling Unit separately from the single family residence is prohibited.</text>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>The approved size and attributes of the Junior Accessory Dwelling Unit.</text>
+              </para>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>A copy of this deed restriction must be given to each prospective occupant.</text>
+            </para>
+          </section>
+        </container>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text>The heading of Section 27.64.160, "Schedules Generally." of Chapter 27.64, "Off-Street Parking and Loading," of the San Mateo Municipal Code is amended to read:</text>
+    <text>"Parking Schedules Generally," and subsection (1)(b) of the table is amended to read as follows and subsections (c) and (d) are renumbered:</text>
+    <text>
+      <table>
+        <tr>
+          <th>USES</th>
+          <th>MINIMUM PARKING STALLS REQUIRED</th>
+        </tr>
+        <tr>
+          <td>1. <strong>Residential Uses</strong>:</td>
+          <td proof="true"/>
+        </tr>
+        <tr>
+          <td>USES</td>
+          <td>MINIMUM PARKING STALLS REQUIRED</td>
+        </tr>
+        <tr>
+          <td>b. Accessory Dwelling Unit</td>
+          <td proof="true">
+            <p>1 parking space for an accessory dwelling unit with up to 1 bedroom and 1 additional parking space is required for each additional bedroom, except for the following instances when parking is exempt:</p>
+            <p>a.	The accessory dwelling unit is located within one-half (1/2) mile of a public transit stop;</p>
+            <p>b.	The accessory dwelling unit is located within an architecturally and historically significant historic district;</p>
+            <p>c.	The accessory dwelling unit is in part of the existing primary residence or an existing accessory structure;</p>
+            <p>d.	In an area requiring on-street parking, permits are required but not offered to the occupant of the accessory dwelling unit; or</p>
+            <p>e.	The Accessory Dwelling Unit (ADU) is located within one block of a car-share vehicle (car-sharing pick-up/drop-off location).</p>
+          </td>
+        </tr>
+        <tr>
+          <td>c.  Junior Accessory Dwelling Unit</td>
+          <td>No additional parking</td>
+        </tr>
+        <tr>
+          <td>d. Multiple-Family Dwelling (two-family, townhouse, condominium, apartments and apartment hotels)</td>
+          <td>Resident parking shall include at least 1 covered stall per dwelling unit.</td>
+        </tr>
+      </table>
+    </text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event that any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.  It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with the California Environmental Quality Act (CEQA) Guidelines, Section 21080.17, the proposed amendments to Chapter 27.19 are categorically exempt from CEQA as an amendment to implement the provisions of Section 65852.2 of the Government Code.  In accordance with Public Resources Code section 21080, the minor amendments proposed to the City's Zoning Code are not a "project" subject to CEQA in that they will not impact the environment.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>PUBLICATION AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's office and posted on the City's Website, all in accord with Section 2.15 of the City Charter.</text>
+    <text>This Ordinance was introduced on February 6, 2017, and adopted on March 6, 2017, and shall be effective 30 days after adoption.</text>
+  </section>
 </document>

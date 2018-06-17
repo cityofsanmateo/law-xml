@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-12">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-12">
   <num>2017-12</num>
   <heading>AMENDING TITLE 23 BUILDING AND CONSTRUCTION OF THE SAN MATEO MUNICIPAL CODE TO ADD CHAPTER 23.44, ELECTRIC VEHICLE CHARGING STATIONS</heading>
   <meta>
@@ -9,4 +9,116 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-12</citation>
     </citations>
   </meta>
+  <text>WHEREAS, in 2015 the California State Legislature adopted AB 1236, amending the Government Code to require local agencies to adopt ordinances creating an expedited an streamlined permitting process for electric vehicle charges stations; and</text>
+  <text>WHEREAS, the City of San Mateo's Climate Action Plan, as adopted in April 2015, calls for increased support for alternative fuels and recommends a number of actions to increase the adoption of electric vehicles in the City, and specifically recommends offering expedited permitting for electric vehicle charging stations;</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO DOES ORDAINS AS FOLLOWS:</text>
+  <section>
+    <num>1</num>
+    <heading>PURPOSE AND INTENT.</heading>
+    <text>Adopt an expedited, streamlined permitting process for electric vehicle charging stations that complies with AB 1236 (Chapter 598, Statutes 2015, Cal. Gov't Code § 65850.7) to achieve timely and cost-effective installations of electric vehicle charging stations.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>AMEND AND ADD.</heading>
+    <text>Title 23 of the San Mateo Municipal Code is hereby amended to add Chapter 23.44, Electric Vehicle Charging Stations, to read as follows:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>23.44</num>
+        <heading>ELECTRIC VEHICLE CHARGING STATIONS</heading>
+        <section>
+          <num>23.44.020</num>
+          <heading>DEFINITIONS.</heading>
+          <para>
+            <num>(a)</num>
+            <text>"Electric vehicle charging station(s)" or "charging station(s)" means any level of electric vehicle supply equipment station that is designed and built in compliance with California Code of Regulations, Title 24 Part 3 California Electrical Code Article 625, as it reads on the effective date of this chapter or as it may be amended, and delivers electricity from a source outside an electric vehicle into a plug-in electric vehicle.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Electronic submittal" means the use email, the internet, or facsimile to submit a permit application required by this chapter.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Feasible method to satisfactorily mitigate or avoid the specific, adverse impact" includes, but is not limited to, any cost-effective method, condition, or mitigation imposed by the city on another similarly situated application in a prior successful application for a permit.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Specific, adverse impact" means a significant, quantifiable, direct, and unavoidable impact, based on objective, identified, and written public health or safety standards, policies, or conditions as they existed on the date the application was deemed complete.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.44.030</num>
+          <heading>APPLICABILITY.</heading>
+          <text>This chapter applies to the permitting of all electric vehicle charging stations in the City of San Mateo. Electric vehicle charging stations legally established or permitted prior to the effective date of this chapter are not subject to the requirements of this chapter unless physical modifications or alterations are undertaken that materially change the size, type, or components of an electric vehicle charging station in such a way as to require new permitting.  Routine operation and maintenance shall not require a permit.</text>
+        </section>
+        <section>
+          <num>23.44.040</num>
+          <heading>ELECTRIC VEHICLE CHARGING STATION REQUIREMENTS.</heading>
+          <text>All electric vehicle charging stations shall meet applicable health and safety standards and requirements imposed by the State and the City.</text>
+          <text>Electric vehicle charging stations shall meet all applicable safety and performance standards established by the California Electrical Code, the Society of Automotive Engineers, the National Electrical Manufacturers Association, and accredited testing laboratories such as Underwriters Laboratories and where applicable, rules of the Public Utilities Commission regarding safety and reliability.</text>
+        </section>
+        <section>
+          <num>23.44.050</num>
+          <heading>SUBMITTAL PROCESS.</heading>
+          <para>
+            <num>(a)</num>
+            <text>All documents required for the submission of an electric vehicle charging station permit application shall be made available on the City's website.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Electronic submittal of the required permit application and documents shall be made available to all electric vehicle charging station permit applicants. An applicant's electronic signature shall be accepted on all forms, applications, and other documents in lieu of a wet signature.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The City's building division shall adopt a checklist of all requirements with which the electric vehicle charging stations shall comply to be eligible for expedited review. The electric vehicle permit process, standard(s) and checklist(s) may substantially conform to recommendations for permitting, including the checklist and standards contained in the "Plug-In Electric Vehicle Infrastructure Permitting Checklist" of the "Zero-Emission Vehicles in California: Community Readiness Guidebook" published by the Office of Planning and Research.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.44.060</num>
+          <heading>SUBMITTAL REVIEW, PREMIT, AND INSPECTION.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The building official shall implement an administrative review process to expedite review of electric vehicle charging station permit applications, plans, and related documents. No permit or approval shall be issued which does not conform to all applicable provisions of Title 23, Buildings and Construction and Title 27, Zoning Code. The determination of conformance shall be made by the Community Development Director or designated staff members of the Community Development Department.</text>
+          </para>
+          <text>Where the application meets the requirements of the approved checklist and standards and there are no specific, adverse impacts upon public health or safety, the building division shall complete the building permit approval process, which is nondiscretionary. Review of the application for electric vehicle charging stations shall be limited to the building official's review of whether the application meets local, state, and federal health and safety requirements. If an application is deemed incomplete, a written correction notice detailing all deficiencies in the application and any additional information or documentation required to be eligible for expedited permit issuance shall be sent to the applicant for resubmission.</text>
+          <para>
+            <num>(b)</num>
+            <text>The building official may only deny an application for the electric vehicle charging station permit if the official makes written findings based upon substantial evidence in the record that the proposed installation would have a specific, adverse impact upon public health or safety and there is no feasible method to satisfactorily mitigate or avoid the adverse impact. Such findings shall include the basis for the rejection of the potential feasible alternative for preventing the adverse impact.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The building official may require an applicant to apply for an "electric vehicle charging station use permit" if the building official finds, based on the initial application submittal, that the electric vehicle charging stations could have a specific, adverse impact upon the public health and safety.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Notwithstanding the appeal provisions contained in section 23.06.040, the building official's determinations under this section may be appealed to the Planning Commission.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>A separate fire inspection may be performed by the City of San Mateo Fire Department, if required.</text>
+          </para>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.  It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>This ordinance is exempt from the provisions of the California Environmental Quality Act ("CEQA"), pursuant to Section 15601 of the CEQA Guidelines, because it can be seen with certainty that there is no possibility that the amendments herein adopted will have a significant effect on the environment.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on September 5, 2017 and adopted on September 18, 2017, and shall be effective thirty days after its date of adoption.</text>
+  </section>
 </document>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-6">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-6">
   <num>2017-6</num>
   <heading>AUTHORIZING THE USE OF DIGITAL SIGNATURES</heading>
   <meta>
@@ -9,4 +9,34 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-6</citation>
     </citations>
   </meta>
+  <text>WHEREAS, the City of San Mateo has investigated options to provide for the use of digital signatures to cut down on the paper, time and costs associated with transmitting and approving physical documents and to offer an easily accessible audit trail of when documents were modified and when they were signed; and</text>
+  <text>WHEREAS, California Government Code §16.5 and California Code of Regulations sections §22000 to §22005 allow and regulate the use of digital signatures for public entities when certain conditions are met; and</text>
+  <text>WHEREAS, San Mateo Charter section 5.20 provides that the City Manager is charged with purchasing and contracting in a manner prescribed by ordinance; and</text>
+  <text>WHEREAS, the City desires to accept digital signatures on city documents;</text>
+  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+  <section>
+    <num>1</num>
+    <heading>AUTHORIZATION TO IMPLEMENT A DIGITAL SIGNATURE SYSTEM.</heading>
+    <text>In order to provide greater efficiencies in business practices, the City Council of the City of San Mateo authorizes the use of digital signatures on city documents.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect. It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>This ordinance is exempt from the requirements of the California Environmental Quality Act (CEQA) pursuant to the CEQA Guidelines, as it is not a "project" as it has no potential to result in a direct or reasonably foreseeable indirect physical change to the environment (14 Cal. Code Regs. § 15378(b)(5)).</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be in full force and effective 30 days after its adoption, and shall be published and posted as required by law.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on May 1, 2017, and adopted on May 15, 2017, and shall be effective thirty days after its date of adoption.</text>
+  </section>
 </document>
