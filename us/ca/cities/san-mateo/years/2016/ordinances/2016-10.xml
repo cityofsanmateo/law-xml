@@ -1,29 +1,127 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2016-10">
-  <num>2016–10</num>
+  <num>2016-10</num>
   <heading>AMENDING TITLE 23 OF THE SAN MATEO MUNICIPAL CODE TO AMEND CHAPTER 23.06 ADMINISTRATIVE CODE, ADOPT THE 2016 EDITION OF THE CALIFORNIA BUILDING, RESIDENTIAL, ELECTRICAL, MECHANICAL, PLUMBING AND EXISTING BUILDING CODES WITH LOCAL AMENDMENTS; AND REPEAL CHAPTER 23.44 SWIMMING POOLS</heading>
   <meta>
     <effective>2016-01-01</effective>
     <citations>
-      <citation type="ord" url="https://www.cityofsanmateo.org/DocumentCenter/View/50950">Ord. No. 2016–10</citation>
-      <citation type="bb">City of San Mateo, Cal., Ord. No. 2016–10</citation>
+      <citation type="ord" url="https://www.cityofsanmateo.org/DocumentCenter/View/50950">Ord. No. 2016-10</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2016-10</citation>
     </citations>
   </meta>
   <text>The City Council of the City of San Mateo, California, ordains as follows:</text>
   <section>
     <num>1</num>
-    <text>Chapter 23.06 (Administrative Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06 (Administrative Code) of the San Mateo Municipal code</cite> is hereby amended to read:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
         <num>23.06</num>
         <heading>– Administration</heading>
+        <toc>
+          <section>
+            <num>23.06.010</num>
+            <heading>Adoption</heading>
+          </section>
+          <section>
+            <num>23.06.011</num>
+            <heading>Application to Existing Buildings and Building Service Equipment</heading>
+          </section>
+          <section>
+            <num>23.06.012</num>
+            <heading>Definition</heading>
+          </section>
+          <section>
+            <num>23.06.013</num>
+            <heading>Conflicting Provisions</heading>
+          </section>
+          <section>
+            <num>23.06.014</num>
+            <heading>Alternate Materials, Methods of Design and Methods of Construction</heading>
+          </section>
+          <section>
+            <num>23.06.015</num>
+            <heading>Modifications</heading>
+          </section>
+          <section>
+            <num>23.06.016</num>
+            <heading>Tests</heading>
+          </section>
+          <section>
+            <num>23.06.020</num>
+            <heading>Authority</heading>
+          </section>
+          <section>
+            <num>23.06.021</num>
+            <heading>Power and Duties of Building Official</heading>
+          </section>
+          <section>
+            <num>23.06.030</num>
+            <heading>Unsafe Buildings, Structures or Building Service Equipment</heading>
+          </section>
+          <section>
+            <num>23.06.040</num>
+            <heading>Appeals</heading>
+          </section>
+          <section>
+            <num>23.06.050</num>
+            <heading>Violations</heading>
+          </section>
+          <section>
+            <num>23.06.060</num>
+            <heading>Hours of Work</heading>
+          </section>
+          <section>
+            <num>23.06.070</num>
+            <heading>Permits</heading>
+          </section>
+          <section>
+            <num>23.06.080</num>
+            <heading>Application for Permit</heading>
+          </section>
+          <section>
+            <num>23.06.090</num>
+            <heading>Permits Issuance</heading>
+          </section>
+          <section>
+            <num>23.06.100</num>
+            <heading>Demolition Permit Conditions</heading>
+          </section>
+          <section>
+            <num>23.06.110</num>
+            <heading>Inspections</heading>
+          </section>
+          <section>
+            <num>23.06.120</num>
+            <heading>Fees</heading>
+          </section>
+          <section>
+            <num>23.06.130</num>
+            <heading>Special Inspection</heading>
+          </section>
+          <section>
+            <num>23.06.140</num>
+            <heading>Structural Observation</heading>
+          </section>
+          <section>
+            <num>23.06.150</num>
+            <heading>Connection to Utilities</heading>
+          </section>
+          <section>
+            <num>23.06.160</num>
+            <heading>Certificate of Occupancy</heading>
+          </section>
+          <section>
+            <num>23.06.170</num>
+            <heading>Fire and Health Protection</heading>
+          </section>
+        </toc>
         <section>
           <num>23.06.010</num>
           <heading>ADOPTION</heading>
           <para>
             <num>(a)</num>
-            <text><strong>Purpose</strong>. The purpose of this code is to provide for the administration and enforcement of the technical codes embodied in Chapters 23.07, 23.08, 23.09, 23.10, 23.12, 23.16, 23.20, 23.24, 23.44, 23.46, 23.54, 23.56, 23.58, 23.70.</text>
+            <text><strong>Purpose</strong>. The purpose of this code is to provide for the administration and enforcement of the technical codes embodied in Chapters <cite doc="City of San Mateo, Cal., Code" path="23.07">23.07</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08">23.08</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.09">23.09</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.10">23.10</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.12">23.12</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.16">23.16</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.20">23.20</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.24">23.24</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.44">23.44</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.46">23.46</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.54">23.54</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.56">23.56</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.58">23.58</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.70">23.70</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -31,12 +129,12 @@
             <text>Exceptions:</text>
             <para>
               <num>(1)</num>
-              <text>No section of this Chapter shall impose a mandatory duty of enforcement on the city, or on any officer, official, agent, employee, board, council, or commission thereof.  Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the city, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section, or not to enforce it.</text>
+              <text>No section of <cite doc="City of San Mateo, Cal., Code" path="23.06">this Chapter</cite> shall impose a mandatory duty of enforcement on the city, or on any officer, official, agent, employee, board, council, or commission thereof.  Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the city, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section, or not to enforce it.</text>
             </para>
           </para>
           <para>
             <num>(c)</num>
-            <text>A copy of this Chapter shall at all times be kept on file in the office of the City Clerk.</text>
+            <text>A copy of <cite doc="City of San Mateo, Cal., Code" path="23.06">this Chapter</cite> shall at all times be kept on file in the office of the City Clerk.</text>
           </para>
         </section>
         <section>
@@ -44,7 +142,7 @@
           <heading>APPLICATION TO EXISTING BUILDINGS AND BUILDING SERVICE EQUIPMENT</heading>
           <para>
             <num>(a)</num>
-            <text><strong>General</strong>. Buildings, structures and their building service equipment to which additions, alterations or repairs are made shall comply with all the requirements of the Existing Building Codes in Chapter 23.09, except as specifically provided in this section.</text>
+            <text><strong>General</strong>. Buildings, structures and their building service equipment to which additions, alterations or repairs are made shall comply with all the requirements of the Existing Building Codes in <cite doc="City of San Mateo, Cal., Code" path="23.09">Chapter 23.09</cite>, except as specifically provided in this section.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -57,7 +155,7 @@
               <num>(2)</num>
               <text><strong>Buildings previously occupied</strong>. The legal occupancy of any existing building on the date of adoption of this code shall be permitted to continue without change, except otherwise specifically provided in the Building Code, Existing Building Code, Property Maintenance Code or the Fire Code or as is deemed necessary by the building official for the general safety and welfare of the occupants and the public.</text>
             </para>
-            <text>A change in the use or occupancy of any existing building or structure shall comply with the provisions of Chapter 23.09 of this code.</text>
+            <text>A change in the use or occupancy of any existing building or structure shall comply with the provisions of <cite doc="City of San Mateo, Cal., Code" path="23.09">Chapter 23.09</cite> of this code.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -120,7 +218,7 @@
           <text><strong>REPAIR</strong> is the reconstruction or renewal of any part of an existing building, structure or building service equipment for the purpose of its maintenance.</text>
           <text><strong>RESIDENTIAL CODE </strong>is the California Residential Code promulgated by the International Code Council, as adopted by this jurisdiction.</text>
           <text><strong>SHALL</strong>, as used in this code, is mandatory.</text>
-          <text><strong>STRUCTURAL OBSERVATION</strong> means the visual observation of the structural system, for general conformance to the approved plans and specifications, at significant construction stages at completion of the structural system. Structural observation does not include or waive the responsibility for the inspections required by Sections 23.06.110 and 23.06.130.</text>
+          <text><strong>STRUCTURAL OBSERVATION</strong> means the visual observation of the structural system, for general conformance to the approved plans and specifications, at significant construction stages at completion of the structural system. Structural observation does not include or waive the responsibility for the inspections required by Sections <cite doc="City of San Mateo, Cal., Code" path="23.06.110">23.06.110</cite> and <cite doc="City of San Mateo, Cal., Code" path="23.06.130">23.06.130</cite>.</text>
           <text><strong>STRUCTURE</strong> is that which is built or constructed, an edifice or building of any kind, or any piece of work artificially built up or posed of parts joined together in some definite manner.</text>
           <text><strong>TECHNICAL CODES</strong> refer to those codes adopted by this jurisdiction containing the provisions for design, construction, alteration, addition, repair, removal, demolition, use, location, occupancy and maintenance of buildings and structures and building service equipment as herein defined.</text>
           <text><strong>VALUATION or VALUE</strong>, as applied to a building and its building service equipment, shall be the estimated cost to replace the building and its building service equipment in kind, based on current replacement costs.</text>
@@ -155,7 +253,7 @@
         <section>
           <num>23.06.017</num>
           <heading>TEMPORARY BUILDING</heading>
-          <text>Real estate sales and leasing of the building or buildings under construction may be conducted from a temporary structure located on the construction site, subject to the conditions and procedures established in Section 26.04.130 of this code.</text>
+          <text>Real estate sales and leasing of the building or buildings under construction may be conducted from a temporary structure located on the construction site, subject to the conditions and procedures established in <cite doc="City of San Mateo, Cal., Code" path="26.04.130">Section 26.04.130</cite> of this code.</text>
         </section>
         <section>
           <num>23.06.020</num>
@@ -233,7 +331,7 @@
             <num>(a)</num>
             <text>Except as may be required by state or federal law (including requirements imposed by</text>
           </para>
-          <text>provisions of the state or federal constitutions) or by the provisions of section 2.21.030 of</text>
+          <text>provisions of the state or federal constitutions) or by the provisions of <cite doc="City of San Mateo, Cal., Code" path="2.21.030">section 2.21.030</cite> of</text>
           <text>the Municipal Code, the determinations and actions of the building official interpreting and enforcing the provisions of the technical codes shall be final, and are not subject to appeal.</text>
           <para>
             <num>(b)</num>
@@ -284,7 +382,7 @@
         <section>
           <num>23.06.061</num>
           <heading>HOURS OF WORK EXEMPTION</heading>
-          <text>As a condition of approval of a planning application issued pursuant to Title 26 and Title 27 of this code, a condition may be established which authorizes an exemption from the hours of work designated in Section 23.06.060 if the Building Official finds that:</text>
+          <text>As a condition of approval of a planning application issued pursuant to <cite doc="City of San Mateo, Cal., Code" path="26">Title 26</cite> and <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite> of this code, a condition may be established which authorizes an exemption from the hours of work designated in <cite doc="City of San Mateo, Cal., Code" path="23.06.060">Section 23.06.060</cite> if the Building Official finds that:</text>
           <para>
             <num>(a)</num>
             <text>The following criteria are met:</text>
@@ -319,7 +417,7 @@
           <heading>PERMITS</heading>
           <para>
             <num>(a)</num>
-            <text><strong>Permits Required</strong>.  Except as specified in Section 23.06.070(b) no building, structure or building service equipment regulated by this code and the technical codes shall be erected, constructed, enlarged, altered, repaired, moved, improved, removed, converted or demolished unless a separate, appropriate permit for each building, structure or building service equipment has first been obtained from the building official.</text>
+            <text><strong>Permits Required</strong>.  Except as specified in <cite doc="City of San Mateo, Cal., Code" path="23.06.070|(b)">Section 23.06.070(b)</cite> no building, structure or building service equipment regulated by this code and the technical codes shall be erected, constructed, enlarged, altered, repaired, moved, improved, removed, converted or demolished unless a separate, appropriate permit for each building, structure or building service equipment has first been obtained from the building official.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -349,7 +447,7 @@
               </para>
               <para>
                 <num>(vi)</num>
-                <text>Platforms, sidewalks and driveways not more than 18" inches (457 mm) above adjacent grade and not over any basement or story below and are not part of an accessible route, if located other than in the front or street side yard as defined by Title 27 (Zoning Code). (Ord. 1999-8 § 2, 1999; Ord. 1992-16 § 20, 1992).</text>
+                <text>Platforms, sidewalks and driveways not more than 18" inches (457 mm) above adjacent grade and not over any basement or story below and are not part of an accessible route, if located other than in the front or street side yard as defined by <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite> (Zoning Code). (Ord. 1999-8 § 2, 1999; Ord. 1992-16 § 20, 1992).</text>
               </para>
               <para>
                 <num>(vii)</num>
@@ -458,7 +556,7 @@
             </para>
             <para>
               <num>(4)</num>
-              <text>Be accompanied by plans, diagrams, computations and specifications, and other data as required in Section 23.06.080(b).</text>
+              <text>Be accompanied by plans, diagrams, computations and specifications, and other data as required in <cite doc="City of San Mateo, Cal., Code" path="23.06.080|(b)">Section 23.06.080(b)</cite>.</text>
             </para>
             <para>
               <num>(5)</num>
@@ -502,10 +600,10 @@
           </para>
           <para>
             <num>(e)</num>
-            <text><strong>Inspection and Observation Program</strong>. When special inspection is required by Section 23.06.130, the architect or engineer of record shall prepare an inspection program which shall be submitted to the building official for approval prior to issuance of the building permit. The inspection program shall designate the portions of the work to have special inspection, the name or names of the individuals or firms who are to perform the special inspections and indicate the duties of the special inspectors.</text>
+            <text><strong>Inspection and Observation Program</strong>. When special inspection is required by <cite doc="City of San Mateo, Cal., Code" path="23.06.130">Section 23.06.130</cite>, the architect or engineer of record shall prepare an inspection program which shall be submitted to the building official for approval prior to issuance of the building permit. The inspection program shall designate the portions of the work to have special inspection, the name or names of the individuals or firms who are to perform the special inspections and indicate the duties of the special inspectors.</text>
           </para>
           <text>The special inspector shall be employed by the owner, the engineer or architect of record, or an agent of the owner, but not the contractor or any other person responsible for the work.</text>
-          <text>When structural observation is required by Section 23.06.140, the inspection program shall name the individuals or firms who are to perform structural observation and describe the stages of construction at which structural observation is to occur.</text>
+          <text>When structural observation is required by <cite doc="City of San Mateo, Cal., Code" path="23.06.140">Section 23.06.140</cite>, the inspection program shall name the individuals or firms who are to perform structural observation and describe the stages of construction at which structural observation is to occur.</text>
           <text>The inspection program shall include samples of inspection reports and provide time limits for submission of reports.</text>
         </section>
         <section>
@@ -513,7 +611,7 @@
           <heading>PERMIT ISSUANCE</heading>
           <para>
             <num>(a)</num>
-            <text><strong>Issuance</strong>.  The application, plans, specifications, computations and other data filed by an applicant for permit shall be reviewed by the building official or his designees.  Such plans may be reviewed by other departments of this jurisdiction to verify compliance with any applicable laws under their jurisdiction. If the building official finds that the work described in an application for a permit and the plans, specifications and other data filed therewith conform to the requirements of this code and the technical codes and other pertinent laws and ordinances, and that the fees specified in Section 23.06.120 have been paid, the building official shall issue a permit therefore to the applicant.</text>
+            <text><strong>Issuance</strong>.  The application, plans, specifications, computations and other data filed by an applicant for permit shall be reviewed by the building official or his designees.  Such plans may be reviewed by other departments of this jurisdiction to verify compliance with any applicable laws under their jurisdiction. If the building official finds that the work described in an application for a permit and the plans, specifications and other data filed therewith conform to the requirements of this code and the technical codes and other pertinent laws and ordinances, and that the fees specified in <cite doc="City of San Mateo, Cal., Code" path="23.06.120">Section 23.06.120</cite> have been paid, the building official shall issue a permit therefore to the applicant.</text>
           </para>
           <text>When a permit is issued for required plans, the building official shall endorse in writing or stamp the plans and specifications "APPROVED."  Such approved plans and specifications shall not be changed, modified or altered without authorizations from the building official, and all work regulated by this code shall be done in accordance with the approved plans.</text>
           <text>The building official may issue a permit for the construction of part of a building or structure before the entire plans and specifications for the whole building or structure have been submitted or approved, provided adequate information and detailed statements have been filed complying with all pertinent requirements of this code.  No building permit for construction of a superstructure shall be issued unless a complete superstructure application is made not later than 90 days after issuance of a foundation permit and a superstructure permit is taken out not later than 6 months after issuance of the foundation permit.  For purposes of this section, the determination of whether a building or structure is a superstructure shall be made by the building official.  The holder of a partial permit shall proceed at his own risk without assurance that the permit for the entire building or structure will be granted.</text>
@@ -557,7 +655,7 @@
             </para>
             <para>
               <num>(4)</num>
-              <text>Demolition is required by the city as a condition of approval of a planning application under Title 27 or a subdivision under Title 26 of this code, and the application for the demolition permit complies with the time frame set in the condition of approval.</text>
+              <text>Demolition is required by the city as a condition of approval of a planning application under <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite> or a subdivision under <cite doc="City of San Mateo, Cal., Code" path="26">Title 26</cite> of this code, and the application for the demolition permit complies with the time frame set in the condition of approval.</text>
             </para>
             <para>
               <num>(5)</num>
@@ -578,7 +676,7 @@
                 <num>(iii)</num>
                 <text>Demolition of the structure would have a less significant effect on the neighborhood than allowing the existing dilapidated structure to remain.</text>
               </para>
-              <text>A demolition permit shall not be issued pursuant to this subsection unless notice of the proposed demolition and appeal procedures is posted on the premises in a location visible from off-site at least fifteen (15) days before issuance of the demolition permit.  Pursuant to Section 2.21.030, the building official's proposal to issue a demolition permit is appealable to the Community Relations Commission within the 15-day posting period by filing a notice of appeal with the City Clerk.  If demolition is requested as part of a planning application pursuant to Section 27.68.020, the Planning Commission shall review the request as required by Section 27.68.020 prior to any action by the building official.</text>
+              <text>A demolition permit shall not be issued pursuant to this subsection unless notice of the proposed demolition and appeal procedures is posted on the premises in a location visible from off-site at least fifteen (15) days before issuance of the demolition permit.  Pursuant to <cite doc="City of San Mateo, Cal., Code" path="2.21.030">Section 2.21.030</cite>, the building official's proposal to issue a demolition permit is appealable to the Community Relations Commission within the 15-day posting period by filing a notice of appeal with the City Clerk.  If demolition is requested as part of a planning application pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.68.020">Section 27.68.020</cite>, the Planning Commission shall review the request as required by <cite doc="City of San Mateo, Cal., Code" path="27.68.020">Section 27.68.020</cite> prior to any action by the building official.</text>
             </para>
             <para>
               <num>(7)</num>
@@ -602,7 +700,7 @@
             </para>
             <para>
               <num>(3)</num>
-              <text>All debris, weeds, and other nuisances shall be removed from the site, and the site shall be leveled unless requirements regarding hazardous wastes make leveling infeasible.  If planting is not required by subsection 23.06.100(b)(4), and construction does not commence within 30 days after demolition, the soil shall be treated with a weed inhibitor approved by the City.</text>
+              <text>All debris, weeds, and other nuisances shall be removed from the site, and the site shall be leveled unless requirements regarding hazardous wastes make leveling infeasible.  If planting is not required by sub<cite doc="City of San Mateo, Cal., Code" path="23.06.100|(b)|(4)">section 23.06.100(b)(4)</cite>, and construction does not commence within 30 days after demolition, the soil shall be treated with a weed inhibitor approved by the City.</text>
             </para>
             <para>
               <num>(4)</num>
@@ -614,7 +712,7 @@
             </para>
             <para>
               <num>(6)</num>
-              <text>The applicant shall comply with all other conditions that may be attached by the building official to ensure maintenance of the site, including but not limited to vacant lot maintenance requirements contained in Chapter 7.48 of the San Mateo Municipal Code.</text>
+              <text>The applicant shall comply with all other conditions that may be attached by the building official to ensure maintenance of the site, including but not limited to vacant lot maintenance requirements contained in <cite doc="City of San Mateo, Cal., Code" path="7.48">Chapter 7.48 of the San Mateo Municipal Code</cite>.</text>
             </para>
           </para>
         </section>
@@ -623,7 +721,7 @@
           <heading>INSPECTIONS</heading>
           <para>
             <num>(a)</num>
-            <text><strong>General</strong>.  Construction or work for which a permit is required shall be subject to inspection by the building official and the construction or work shall remain accessible and exposed for inspection purposes until approved by the building official.  In addition, certain types of construction shall have continuous inspection as specified in Section 23.06.130.</text>
+            <text><strong>General</strong>.  Construction or work for which a permit is required shall be subject to inspection by the building official and the construction or work shall remain accessible and exposed for inspection purposes until approved by the building official.  In addition, certain types of construction shall have continuous inspection as specified in <cite doc="City of San Mateo, Cal., Code" path="23.06.130">Section 23.06.130</cite>.</text>
           </para>
           <text>Approval as a result of an inspection shall not be construed to be an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction.  Inspections presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
           <text>It shall be the duty of the permit applicant to cause the work to remain accessible and exposed for inspection purposes. Neither the building official nor this jurisdiction shall be liable for expense entailed in the removal or replacement of any material required to allow inspection.</text>
@@ -748,7 +846,7 @@
           <heading>SPECIAL INSPECTIONS</heading>
           <para>
             <num>(a)</num>
-            <text><strong>General</strong>.  In addition to the inspections required by Section 23.06.110, the owner, or the engineer or architect of record acting as the owner's agent, shall employ one or more special inspectors who shall provide inspections during construction on the types of work as specified in the Building Code Section 1705.</text>
+            <text><strong>General</strong>.  In addition to the inspections required by <cite doc="City of San Mateo, Cal., Code" path="23.06.110">Section 23.06.110</cite>, the owner, or the engineer or architect of record acting as the owner's agent, shall employ one or more special inspectors who shall provide inspections during construction on the types of work as specified in the Building Code Section 1705.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -875,12 +973,50 @@
   </section>
   <section>
     <num>2</num>
-    <text>Chapter 23.07 (Residential Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.07">Chapter 23.07 (Residential Code) of the San Mateo Municipal code</cite> is hereby amended to read:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
         <num>23.07</num>
         <heading>RESIDENTIAL CODE</heading>
+        <toc>
+          <section>
+            <num>23.07.010</num>
+            <heading>Adoption.</heading>
+          </section>
+          <section>
+            <num>23.07.020</num>
+            <heading>SECTION R319.1  Site Address NOT ADOPTED.</heading>
+          </section>
+          <section>
+            <num>23.07.030</num>
+            <heading>SECTION R319.2  Address Numbers - Multi-Tenant Buildings NOT ADOPTED.</heading>
+          </section>
+          <section>
+            <num>23.07.040</num>
+            <heading>SECTION R319.3 Address Numbers - Rear Addressing NOT ADOPTED.</heading>
+          </section>
+          <section>
+            <num>23.07.060</num>
+            <heading>SECTION R313.1 Townhouse automatic fire sprinkler Systems -  Exception NOT ADOPTED.</heading>
+          </section>
+          <section>
+            <num>23.07.070</num>
+            <heading>SECTION R313.2 One-and-two-family dwellings automatic fire sprinkler systems – Exception NOT ADOPTED.</heading>
+          </section>
+          <section>
+            <num>23.07.080</num>
+            <heading>SECTIONS R902.1   Roofing Requirements AMENDED.</heading>
+          </section>
+          <section>
+            <num>23.07.100</num>
+            <heading>Section R401.1.3 Seismic reinforcing on footing REPEALED.</heading>
+          </section>
+          <section>
+            <num>23.07.110</num>
+            <heading>Table R602.10.3(3) and Section R602.10.4.4 prohibit the use of gypsum board and limit the use of Portland cement plaster as prescriptive wall bracing materials in Seismic Design Categories D0, D1 and D2 AMENDED.</heading>
+          </section>
+        </toc>
         <section>
           <num>23.07.010</num>
           <heading>ADOPTION.</heading>
@@ -889,7 +1025,7 @@
             <text>The code published by the International Code Council entitled California Residential Code, 2016 Edition, as adopted and amended by the State of California, are hereinafter called "residential code," and are adopted as the rules, regulations and standards within this city as to all matters therein contained except that:</text>
             <para>
               <num>(1)</num>
-              <text>Sections R105.2 Building items 1 – 10 are not adopted. Instead, chapter 23.06 (Administration) applies to this chapter on permit exemption. Sections R109.1 – R109.1.6 are not adopted. Instead, Chapter 23.06 (Administration) applies to the inspection.</text>
+              <text>Sections R105.2 Building items 1 – 10 are not adopted. Instead, <cite doc="City of San Mateo, Cal., Code" path="23.06">chapter 23.06</cite> (Administration) applies to <cite doc="City of San Mateo, Cal., Code" path="23.07">this chapter</cite> on permit exemption. Sections R109.1 – R109.1.6 are not adopted. Instead, <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> (Administration) applies to the inspection.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -908,17 +1044,17 @@
         <section>
           <num>23.07.020</num>
           <heading>SECTION R319.1  Site Address NOT ADOPTED.</heading>
-          <text>See Section 23.28.110 – Address Identification.</text>
+          <text>See <cite doc="City of San Mateo, Cal., Code" path="23.28.110">Section 23.28.110</cite> – Address Identification.</text>
         </section>
         <section>
           <num>23.07.030</num>
           <heading>SECTION R319.2  Address Numbers - Multi-Tenant Buildings NOT ADOPTED.</heading>
-          <text>See Section 23.28.120 – Address Identification – Multi-Tenant Buildings.</text>
+          <text>See <cite doc="City of San Mateo, Cal., Code" path="23.28.120">Section 23.28.120</cite> – Address Identification – Multi-Tenant Buildings.</text>
         </section>
         <section>
           <num>23.07.040</num>
           <heading>SECTION R319.3 Address Numbers - Rear Addressing  NOT ADOPTED.</heading>
-          <text>See Section 23.28.130 – Address Identification – Rear Addressing.</text>
+          <text>See <cite doc="City of San Mateo, Cal., Code" path="23.28.130">Section 23.28.130</cite> – Address Identification – Rear Addressing.</text>
         </section>
         <section>
           <num>23.07.060</num>
@@ -926,12 +1062,12 @@
           <text>
             <strong>Exception NOT ADOPTED.</strong>
           </text>
-          <text>See Sections 23.28.160 through 23.28 180 for Fire Sprinkler Requirements</text>
+          <text>See Sections <cite doc="City of San Mateo, Cal., Code" path="23.28.160">23.28.160</cite> through 23.28 180 for Fire Sprinkler Requirements</text>
         </section>
         <section>
           <num>23.07.070</num>
           <heading>SECTION R313.2 One-and-two-family Dwellings Automatic Fire Sprinkler Systems – Exception NOT ADOPTED.</heading>
-          <text>See Sections 23.28.160 through 23.28 180 for Fire Sprinkler Requirements</text>
+          <text>See Sections <cite doc="City of San Mateo, Cal., Code" path="23.28.160">23.28.160</cite> through 23.28 180 for Fire Sprinkler Requirements</text>
         </section>
         <section>
           <num>23.07.080</num>
@@ -961,22 +1097,76 @@
   </section>
   <section>
     <num>3</num>
-    <text>Chapter 23.08 (Building Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.08">Chapter 23.08 (Building Code) of the San Mateo Municipal code</cite> is hereby amended to read:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
         <num>23.08</num>
         <heading>BUILDING CODE</heading>
+        <toc>
+          <section>
+            <num>23.08.010</num>
+            <heading>Adoption.</heading>
+          </section>
+          <section>
+            <num>23.08.020</num>
+            <heading>Section 501.2 Premises Identification - Address numbers NOT ADOPTED.</heading>
+          </section>
+          <section>
+            <num>23.08.030</num>
+            <heading>Section 501.2.1 Address Numbers - Multi-Tenant Buildings NOT ADOPTED.</heading>
+          </section>
+          <section>
+            <num>23.08.040</num>
+            <heading>Section 501.2.2 Address Numbers - Rear Addressing NOT ADOPTED.</heading>
+          </section>
+          <section>
+            <num>23.08.045</num>
+            <heading>Section 903.2 Automatic Sprinkler Systems – Where required NOT ADOPTED.</heading>
+          </section>
+          <section>
+            <num>23.08.090</num>
+            <heading>Section 905.3 Standpipe Systems – Required Installation NOT ADOPTED.</heading>
+          </section>
+          <section>
+            <num>23.08.100</num>
+            <heading>Sections 1505.1, 1505.1.3 Amended--Roofing Requirements. AMENDED.</heading>
+          </section>
+          <section>
+            <num>23.08.120</num>
+            <heading>Section 1705.3 Concrete Construction AMENDED.</heading>
+          </section>
+          <section>
+            <num>23.08.130</num>
+            <heading>Section 1905.1.7, Plain concrete in Earthquake Resisting Structures AMENDED.</heading>
+          </section>
+          <section>
+            <num>23.08.140</num>
+            <heading>Section 2308.9.3 Bracing REPEALED.</heading>
+          </section>
+          <section>
+            <num>23.08.150</num>
+            <heading>Section 3109 Swimming Pool Enclosures AMENDED.</heading>
+          </section>
+          <section>
+            <num>23.08.160</num>
+            <heading>SECTION 3109.4.1 Barrier height and clearances AMENDED.</heading>
+          </section>
+          <section>
+            <num>23.08.170</num>
+            <heading>SECTION 3109.6 Pool Equipment Enclosure ADDED.</heading>
+          </section>
+        </toc>
         <section>
           <num>23.08.010</num>
           <heading>ADOPTION.</heading>
           <para>
             <num>(a)</num>
-            <text>Codes published in two volumes by the International Code Council, entitled California Building Code, 2016 Edition, Section 3109, Section 3301-3308 and Appendix C, as adopted and as amended by the State of California, hereinafter collectively called the "Building Code", are adopted as the rules, regulations, and standards within this city as to all matters therein contained, except as otherwise provided in this chapter.</text>
+            <text>Codes published in two volumes by the International Code Council, entitled California Building Code, 2016 Edition, Section 3109, Section 3301-3308 and Appendix C, as adopted and as amended by the State of California, hereinafter collectively called the "Building Code", are adopted as the rules, regulations, and standards within this city as to all matters therein contained, except as otherwise provided in <cite doc="City of San Mateo, Cal., Code" path="23.08">this chapter</cite>.</text>
             <text>The following sections are not adopted:</text>
             <para>
               <num>(1)</num>
-              <text>Sections 105.2 items 1 - 13 are not adopted. Instead, Chapter 23.06 (Administration) applies to this chapter.</text>
+              <text>Sections 105.2 items 1 - 13 are not adopted. Instead, <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> (Administration) applies to <cite doc="City of San Mateo, Cal., Code" path="23.08">this chapter</cite>.</text>
             </para>
           </para>
           <para>
@@ -991,27 +1181,27 @@
         <section>
           <num>23.08.020</num>
           <heading>SECTION 501.2	Premises Identification - Address numbers NOT ADOPTED.</heading>
-          <text>See Section 23.28.110 – Address Identification</text>
+          <text>See <cite doc="City of San Mateo, Cal., Code" path="23.28.110">Section 23.28.110</cite> – Address Identification</text>
         </section>
         <section>
           <num>23.08.030</num>
           <heading>SECTION 501.2.1  Address Numbers - Multi-Tenant Buildings NOT ADOPTED.</heading>
-          <text>See Section 23.28.120 – Address Identification – Multi-Tenant Buildings</text>
+          <text>See <cite doc="City of San Mateo, Cal., Code" path="23.28.120">Section 23.28.120</cite> – Address Identification – Multi-Tenant Buildings</text>
         </section>
         <section>
           <num>23.08.040</num>
           <heading>SECTION 501.2.2  Address Numbers - Rear Addressing NOT ADOPTED.</heading>
-          <text>See Section 23.28.130 – Address Identification – Rear Addressing</text>
+          <text>See <cite doc="City of San Mateo, Cal., Code" path="23.28.130">Section 23.28.130</cite> – Address Identification – Rear Addressing</text>
         </section>
         <section>
           <num>23.08.045</num>
           <heading>SECTION 903.2 Automatic Sprinkler Systems - Where required NOT ADOPTED.</heading>
-          <text>See Sections 23.28.160 through 180 for Fire Sprinkler Requirements</text>
+          <text>See Sections <cite doc="City of San Mateo, Cal., Code" path="23.28.160">23.28.160</cite> through 180 for Fire Sprinkler Requirements</text>
         </section>
         <section>
           <num>23.08.090</num>
           <heading>SECTION 905.3  Standpipe Systems – Required installation NOT ADOPTED.</heading>
-          <text>See Sections 23.28.200 for Standpipe Systems</text>
+          <text>See Sections <cite doc="City of San Mateo, Cal., Code" path="23.28.200">23.28.200</cite> for Standpipe Systems</text>
         </section>
         <section>
           <num>23.08.100</num>
@@ -1094,7 +1284,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>For multifamily dwellings, the inside face of an outdoor pool shall be not less than twenty feet from any property boundary. Indoor swimming pool structures for multifamily dwellings shall also be subject to the setback requirements for accessory buildings, as designated in Chapter 27.70 of the Zoning Code, with the exception that the minimum clearance of 4 feet to the property line and 5 feet to surrounding buildings shall still apply.</text>
+            <text>For multifamily dwellings, the inside face of an outdoor pool shall be not less than twenty feet from any property boundary. Indoor swimming pool structures for multifamily dwellings shall also be subject to the setback requirements for accessory buildings, as designated in <cite doc="City of San Mateo, Cal., Code" path="27.70">Chapter 27.70</cite> of the Zoning Code, with the exception that the minimum clearance of 4 feet to the property line and 5 feet to surrounding buildings shall still apply.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -1102,11 +1292,11 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>No part of a swimming pool (water area) shall be located or constructed directly under permanently-installed electric power lines. Pools shall be located in such a manner that overhead conductor clearances meet the requirements of the Electrical Code, Chapter 23.12 of the San Mateo Municipal Code. No pool shall be constructed in any location that violates any State law or Public Utility Commission rules for location in relation to electric power lines, service drops and/or communication lines.</text>
+            <text>No part of a swimming pool (water area) shall be located or constructed directly under permanently-installed electric power lines. Pools shall be located in such a manner that overhead conductor clearances meet the requirements of the Electrical Code, <cite doc="City of San Mateo, Cal., Code" path="23.12">Chapter 23.12 of the San Mateo Municipal Code</cite>. No pool shall be constructed in any location that violates any State law or Public Utility Commission rules for location in relation to electric power lines, service drops and/or communication lines.</text>
           </para>
           <para>
             <num>(e)</num>
-            <text>Swimming pools located on slopes must comply with setback requirements as prescribed in chapter 23.40 of the Site Development Code.</text>
+            <text>Swimming pools located on slopes must comply with setback requirements as prescribed in <cite doc="City of San Mateo, Cal., Code" path="23.40">chapter 23.40</cite> of the Site Development Code.</text>
           </para>
         </section>
         <section>
@@ -1124,7 +1314,7 @@
   </section>
   <section>
     <num>4</num>
-    <text>Chapter 23.09 EXISTING BUILDING CODE of the San Mateo Municipal code is hereby amended to read:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.09">Chapter 23.09 EXISTING BUILDING CODE of the San Mateo Municipal code</cite> is hereby amended to read:</text>
     <include>
       <section>
         <num>23.09.010</num>
@@ -1133,7 +1323,7 @@
           <num>(a)</num>
           <text>The code published by the International Code Council entitled California Existing Building Code, 2016 Edition, as adopted and amended by the State of California, are hereinafter called "existing building code," and are adopted as the rules, regulations and standards within this city as to all matters therein contained except that:</text>
         </para>
-        <text>Chapter 23.06 (Administration) applies to this chapter on administrative requirements.</text>
+        <text><cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> (Administration) applies to <cite doc="City of San Mateo, Cal., Code" path="23.09">this chapter</cite> on administrative requirements.</text>
         <text>Certain sections of the Existing Code have heretofore been amended and may hereafter be amended. As amended, they are adopted;</text>
         <para>
           <num>(b)</num>
@@ -1148,18 +1338,36 @@
   </section>
   <section>
     <num>5</num>
-    <text>Chapter 23.10 (Earthquake Hazard Reduction Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.10">Chapter 23.10 (Earthquake Hazard Reduction Code) of the San Mateo Municipal code</cite> is hereby amended to read:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
         <num>23.10</num>
         <heading>EARTHQUAKE HAZARD REDUCTION CODE</heading>
+        <toc>
+          <section>
+            <num>23.10.010</num>
+            <heading>Adoption.</heading>
+          </section>
+          <section>
+            <num>23.10.012</num>
+            <heading>Definitions.</heading>
+          </section>
+          <section>
+            <num>23.10.014</num>
+            <heading>Administration.</heading>
+          </section>
+          <section>
+            <num>23.10.016</num>
+            <heading>Time Limits for Compliance.</heading>
+          </section>
+        </toc>
         <section>
           <num>23.10.010</num>
           <heading>ADOPTION.</heading>
           <para>
             <num>(a)</num>
-            <text>The code published by International Code Council entitled California Existing Building Code 2016 Appendix Chapter A1 is adopted as the rules, regulations and standards within this city as to all matters therein contained, except as otherwise provided in this Chapter.</text>
+            <text>The code published by International Code Council entitled California Existing Building Code 2016 Appendix Chapter A1 is adopted as the rules, regulations and standards within this city as to all matters therein contained, except as otherwise provided in <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -1186,35 +1394,41 @@
           <num>23.10.014</num>
           <heading>ADMINISTRATION.</heading>
           <text>Section A105 is modified by adding the following:</text>
-          <text>In addition to the procedures set forth in Chapter 23.06 Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in this Chapter.</text>
-          <text><strong>Administration. </strong>In addition to the Administration Chapter 23.06, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in this Chapter.</text>
-          <text>Service of Order. The building official shall issue an order as described in (b) below to the owner of each building known to the building official to be within the scope of this Chapter. The order shall be in writing and shall be served either personally or by certified mail upon the owner as shown on the last equalized assessment roll. A copy of such order shall also be given by the building official by first-class mail to known tenants of each building and the owner of each building shall thereafter provide the order to succeeding tenants.</text>
-          <text>Contents of Order. The order shall specify that the building has been determined by the building official to be within the scope of this Chapter and is required to meet minimum seismic standards. The order shall inform the owner(s) of alternatives and time limits for compliance.</text>
-          <text>Appeal. The building owner may appeal the building official's initial determination that the building is within the scope of this Chapter to the building official. Such appeal shall be filed with the building official within 60 days from the service date of the order. Any such appeal shall be decided by the building official no later than 60 days after the date that the appeal is filed. The basis for the appeal shall be evidence that the building does not fall within the scope of Appendix Chapter 1 of the California Existing Building Code as defined in Section A102. Any appeal shall be made in writing.</text>
-          <text>Recordation. Upon service of the order, the building official shall file with the office of the county recorder a certificate stating that the subject building is within the scope of Chapter 23.10 of the San Mateo Municipal Code. The certificate shall also state that the owner has been ordered to structurally analyze the building and to alter it to comply with this Chapter. If the building is found not to be within the scope of this Chapter, or as a result of analysis and/or structural alterations is found to be capable of resisting minimum seismic forces required by this Chapter, the building official shall file with the office of the county recorder a certificate terminating the status of the subject building as being classified within the scope of this Chapter.</text>
-          <text>Enforcement. If the owner of the subject building fails to comply with any order issued by the building official pursuant to this Chapter within any of the time limits set forth in Section A105.1 the building official may seek compliance through any means authorized by California statute or San Mateo Municipal Codes.</text>
+          <text>In addition to the procedures set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>.</text>
+          <text><strong>Administration. </strong>In addition to the Administration <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite>, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in this Chapter.</text>
+          <text>Service of Order. The building official shall issue an order as described in (b) below to the owner of each building known to the building official to be within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>. The order shall be in writing and shall be served either personally or by certified mail upon the owner as shown on the last equalized assessment roll. A copy of such order shall also be given by the building official by first-class mail to known tenants of each building and the owner of each building shall thereafter provide the order to succeeding tenants.</text>
+          <text>Contents of Order. The order shall specify that the building has been determined by the building official to be within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> and is required to meet minimum seismic standards. The order shall inform the owner(s) of alternatives and time limits for compliance.</text>
+          <text>Appeal. The building owner may appeal the building official's initial determination that the building is within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> to the building official. Such appeal shall be filed with the building official within 60 days from the service date of the order. Any such appeal shall be decided by the building official no later than 60 days after the date that the appeal is filed. The basis for the appeal shall be evidence that the building does not fall within the scope of Appendix Chapter 1 of the California Existing Building Code as defined in Section A102. Any appeal shall be made in writing.</text>
+          <text>Recordation. Upon service of the order, the building official shall file with the office of the county recorder a certificate stating that the subject building is within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">Chapter 23.10 of the San Mateo Municipal Code</cite>. The certificate shall also state that the owner has been ordered to structurally analyze the building and to alter it to comply with <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>. If the building is found not to be within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>, or as a result of analysis and/or structural alterations is found to be capable of resisting minimum seismic forces required by <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>, the building official shall file with the office of the county recorder a certificate terminating the status of the subject building as being classified within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>.</text>
+          <text>Enforcement. If the owner of the subject building fails to comply with any order issued by the building official pursuant to <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> within any of the time limits set forth in Section A105.1 the building official may seek compliance through any means authorized by California statute or San Mateo Municipal Codes.</text>
         </section>
         <section>
           <num>23.10.016</num>
           <heading>TIME LIMITS FOR COMPLIANCE.</heading>
           <text>Section A105.1 is amended by adding the following:</text>
-          <text><strong>Time Limits for Compliance.</strong> In addition to the provisions set forth in Chapter 23.06 Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in this Chapter.</text>
-          <text>Structural analysis and upgrade. The owner of each building within the scope of this chapter shall cause a structural analysis of the building to be made by a civil or structural engineer or architect licensed by the State of California. If the building does not meet the minimum earthquake standards specified in this Chapter, the owner shall cause it to be structurally altered to conform to such standards.</text>
-          <text>Time limits. The owner of a building within the scope of this Chapter shall comply with the requirements set forth above by submitting the following to the building official for review within the stated time limits:</text>
-          <text>Within one year after the service of the order, a structural analysis, which is subject to approval by the building official, and which shall demonstrate that the building meets the minimum requirements of this Chapter; or</text>
-          <text>Within one year after the service of the order, a structural analysis and plans for the proposed structural alterations of the building necessary to comply with the minimum requirements of this chapter. After plans are submitted and approved by the building official, the owner shall obtain a building permit, commence and complete the required construction within four years from service of the order, for high-risk buildings, and within six years from service of the order for low-risk buildings.</text>
+          <text><strong>Time Limits for Compliance.</strong> In addition to the provisions set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in this Chapter.</text>
+          <text>Structural analysis and upgrade. The owner of each building within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this chapter</cite> shall cause a structural analysis of the building to be made by a civil or structural engineer or architect licensed by the State of California. If the building does not meet the minimum earthquake standards specified in <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>, the owner shall cause it to be structurally altered to conform to such standards.</text>
+          <text>Time limits. The owner of a building within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> shall comply with the requirements set forth above by submitting the following to the building official for review within the stated time limits:</text>
+          <text>Within one year after the service of the order, a structural analysis, which is subject to approval by the building official, and which shall demonstrate that the building meets the minimum requirements of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>; or</text>
+          <text>Within one year after the service of the order, a structural analysis and plans for the proposed structural alterations of the building necessary to comply with the minimum requirements of <cite doc="City of San Mateo, Cal., Code" path="23.10">this chapter</cite>. After plans are submitted and approved by the building official, the owner shall obtain a building permit, commence and complete the required construction within four years from service of the order, for high-risk buildings, and within six years from service of the order for low-risk buildings.</text>
         </section>
       </container>
     </include>
   </section>
   <section>
     <num>6</num>
-    <text>Chapter 23.12 (Electrical Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.12">Chapter 23.12 (Electrical Code) of the San Mateo Municipal code</cite> is hereby amended to read:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
         <num>23.12</num>
         <heading>ELECTRICAL CODE</heading>
+        <toc>
+          <section>
+            <num>23.12.010</num>
+            <heading>Adoption</heading>
+          </section>
+        </toc>
         <section>
           <num>23.12.010</num>
           <heading>ADOPTION.</heading>
@@ -1228,7 +1442,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>The provisions of Chapter 23.06 Administration, shall apply to this chapter.</text>
+            <text>The provisions of <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> Administration, shall apply to <cite doc="City of San Mateo, Cal., Code" path="23.12">this chapter</cite>.</text>
           </para>
           <para>
             <num>(d)</num>
@@ -1244,12 +1458,22 @@
   </section>
   <section>
     <num>7</num>
-    <text>Chapter 23.16 (Plumbing Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.16">Chapter 23.16 (Plumbing Code) of the San Mateo Municipal code</cite> is hereby amended to read:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
         <num>23.16</num>
         <heading>PLUMBING CODE</heading>
+        <toc>
+          <section>
+            <num>23.16.010</num>
+            <heading>Adoption.</heading>
+          </section>
+          <section>
+            <num>23.16.020</num>
+            <heading>Section 719.0 Cleanouts.</heading>
+          </section>
+        </toc>
         <section>
           <num>23.16.010</num>
           <heading>ADOPTION.</heading>
@@ -1258,7 +1482,7 @@
             <text>The code published by the International Association of Plumbing and Mechanical Officials entitled California Plumbing Code, 2016 Edition, including appendices printed herein except appendices E, F and L, as adopted and amended by the State of California, are hereinafter called "plumbing code," and are adopted as the rules, regulations and standards within this city as to all matters therein contained except that:</text>
             <para>
               <num>(1)</num>
-              <text>Sections 104.2 and subsections are not adopted. Instead, chapter 23.06 (Administration) applies to this chapter.</text>
+              <text>Sections 104.2 and subsections are not adopted. Instead, <cite doc="City of San Mateo, Cal., Code" path="23.06">chapter 23.06</cite> (Administration) applies to <cite doc="City of San Mateo, Cal., Code" path="23.16">this chapter</cite>.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -1285,24 +1509,30 @@
   </section>
   <section>
     <num>8</num>
-    <text>Chapter 23.20 (Mechanical Code) of the San Mateo Municipal code is hereby amended to read:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.20">Chapter 23.20 (Mechanical Code) of the San Mateo Municipal code</cite> is hereby amended to read:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
         <num>23.20</num>
         <heading>MECHANICAL CODE</heading>
+        <toc>
+          <section>
+            <num>23.20.010</num>
+            <heading>Adoption.</heading>
+          </section>
+        </toc>
         <section>
           <num>23.20.010</num>
           <heading>ADOPTION.</heading>
           <para>
             <num>(a)</num>
-            <text>The code by the International Code Council entitled California Mechanical Code, 2016 Edition, as adopted and amended by the State of California, hereinafter called "mechanical code," is adopted as the rules, regulations and standards within this city as to all matters contained therein, except as otherwise provided in this chapter.</text>
+            <text>The code by the International Code Council entitled California Mechanical Code, 2016 Edition, as adopted and amended by the State of California, hereinafter called "mechanical code," is adopted as the rules, regulations and standards within this city as to all matters contained therein, except as otherwise provided in <cite doc="City of San Mateo, Cal., Code" path="23.20">this chapter</cite>.</text>
             <text>
               <strong>EXCEPTIONS:</strong>
             </text>
             <para>
               <num>(1)</num>
-              <text>Sections 104.2 are not adopted. Instead, Chapter 23.06 applies to this chapter;</text>
+              <text>Sections 104.2 are not adopted. Instead, <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> applies to <cite doc="City of San Mateo, Cal., Code" path="23.20">this chapter</cite>;</text>
             </para>
           </para>
           <para>
@@ -1319,7 +1549,7 @@
   </section>
   <section>
     <num>9</num>
-    <text>Chapter 23.44 (Swimming Pools) of the San Mateo Municipal code is hereby repealed.</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.44">Chapter 23.44 (Swimming Pools) of the San Mateo Municipal code</cite> is hereby repealed.</text>
   </section>
   <section>
     <num>10</num>
@@ -1361,7 +1591,7 @@
   <text>FINDINGS:</text>
   <text>Local Climatic Conditions - The weather patterns within the City of San Mateo are considered to be moderately affected by westerly winds that can average from 10-15 mph and gusts that can exceed 40 mph which are experienced almost year round.  An average year's rainfall is approximately 22.95 inches, while summer conditions are hot and dry.  These summer conditions create hazardous fuel situations that have caused grassland and brush land fires in recent years.  Year round average temperatures range from 58 in the winter to 81 degrees during the summer, however high temperatures have ranged from 75 in the winter to 110 degrees in the summer.  Low humidity, high temperatures and gusting winds can move a fire quickly in the hillsides and canyon areas of the City and can tax the capabilities of its urban designed fire department. Lower water pressure in these areas also affects the abilities to quickly suppress any fires.</text>
   <text>Because of the unpredictable weather patterns, drought and water rationing can be expected, causing dry vegetation and hazardous fire conditions.  Weather patterns can go to the other extreme with heavy rains creating higher fuel load in the hillsides.  A heavy rain pattern would also impact a flood plain area located in the northeast portion of the City.  This condition has the potential of causing additional barriers in this area when flooding blocks streets and underpasses.</text>
-  <text>The conditions described in this section make it reasonably necessary for the City to adopt the following ordinance section as modifications to the 2016 California Residential and Building Codes and these findings are specifically intended to satisfy the requirements of California Health and Safety Code Section 17958.7 in that regard:  San Mateo Municipal Code Section 23.07.080 and 23.08.100<strong>.</strong></text>
+  <text>The conditions described in this section make it reasonably necessary for the City to adopt the following ordinance section as modifications to the 2016 California Residential and Building Codes and these findings are specifically intended to satisfy the requirements of California Health and Safety Code Section 17958.7 in that regard:  <cite doc="City of San Mateo, Cal., Code" path="23.07.080">San Mateo Municipal Code Section 23.07.080</cite> and 23.08.100<strong>.</strong></text>
   <num>23.07.110</num>
   <heading>SECTION R Section R602.10.3(3) and Table R602.10.4.4 AMENDED— prohibit the use of gypsum board and limit the use of Portland cement plaster as prescriptive wall bracing materials in Seismic Design Categories D0, D1 and D2</heading>
   <text>FINDINGS:</text>

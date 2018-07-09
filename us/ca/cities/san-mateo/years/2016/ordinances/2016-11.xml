@@ -20,12 +20,34 @@
         <prefix>Chapter</prefix>
         <num>23.70</num>
         <heading>– Green Building Code</heading>
+        <toc>
+          <section>
+            <num>23.70.010</num>
+            <heading>Adoption</heading>
+          </section>
+          <section>
+            <num>23.70.020</num>
+            <heading>Local Amendment for Laundry-to-Landscape Ready Infrastructure</heading>
+          </section>
+          <section>
+            <num>23.70.030</num>
+            <heading>Local Amendment for Electric Vehicle Charging for New Multifamily Residential</heading>
+          </section>
+          <section>
+            <num>23.70.040</num>
+            <heading>Local Amendment for Electric Vehicle Charging for New Non-Residential</heading>
+          </section>
+          <section>
+            <num>23.70.050</num>
+            <heading>Infeasibility Exemption</heading>
+          </section>
+        </toc>
         <section>
           <num>23.70.010</num>
           <heading>ADOPTION.</heading>
           <para>
             <num>(a)</num>
-            <text>The California Green Building Standards Code, 2016 Edition, Title 24, Part 11 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Green Building Code," are adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended;</text>
+            <text>The California Green Building Standards Code, 2016 Edition, <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Part 11 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Green Building Code," are adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended;</text>
           </para>
           <para>
             <num>(b)</num>
@@ -99,7 +121,7 @@
         <section>
           <num>23.70.050</num>
           <heading>INFEASIBILITY EXEMPTION</heading>
-          <text>Exemption. If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of this Chapter, the applicant may request an exemption as set forth in Section 23.06.015 of the Municipal Code.  In applying for the</text>
+          <text>Exemption. If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite>, the applicant may request an exemption as set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06.015">Section 23.06.015</cite> of the Municipal Code.  In applying for the</text>
           <text>exemption, the burden is on the Applicant to show infeasibility. The following conditions may be considered to determine infeasibility:</text>
           <text>Where there is insufficient electrical supply.</text>
           <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of these requirements, may adversely impact the construction cost of the project.</text>

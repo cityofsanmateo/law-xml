@@ -21,12 +21,31 @@
         <prefix>Chapter</prefix>
         <num>23.24</num>
         <heading>– Energy Code</heading>
+        <toc>
+          <heading>Sections:</heading>
+          <section>
+            <num>23.24.010</num>
+            <heading>Adoption</heading>
+          </section>
+          <section>
+            <num>23.24.020</num>
+            <heading>Local Amendment for Cool Roofs</heading>
+          </section>
+          <section>
+            <num>23.24.030</num>
+            <heading>Local Amendment for Mandatory Solar Installations</heading>
+          </section>
+          <section>
+            <num>23.24.040</num>
+            <heading>Infeasibility Exemption</heading>
+          </section>
+        </toc>
         <section>
           <num>23.24.010</num>
           <heading>ADOPTION.</heading>
           <para>
             <num>(a)</num>
-            <text>The Building Energy Efficiency Standards for Residential and Non-residential Buildings, 2016 Edition, Title 24, Part 6 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Energy Code," are adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended;</text>
+            <text>The Building Energy Efficiency Standards for Residential and Non-residential Buildings, 2016 Edition, <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Part 6 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Energy Code," are adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended;</text>
           </para>
           <para>
             <num>(b)</num>
@@ -115,7 +134,7 @@
           <heading>INFEASIBILITY EXEMPTION</heading>
           <para>
             <num>A.</num>
-            <text>Exemption. If an applicant for a Covered Project believes that circumstances exist that makes it infeasible to meet the requirements of this Chapter, the applicant may request an exemption as set forth in Section 23.06.015 of the Municipal Code.  In applying for the</text>
+            <text>Exemption. If an applicant for a Covered Project believes that circumstances exist that makes it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite>, the applicant may request an exemption as set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06.015">Section 23.06.015</cite> of the Municipal Code.  In applying for the</text>
           </para>
           <text>exemption, the burden is on the Applicant to show infeasibility.</text>
         </section>

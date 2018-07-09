@@ -18,12 +18,12 @@
   <text>WHEREAS, the proposed accessory dwelling unit and junior accessory dwelling unit provisions and standards would implement Housing Element, Policy H2.7, "Allow creation of secondary units on residentially zoned properties to provide opportunities for affordable rental units or to allow housing for the extended families.  Require that the design of secondary units be compatible with the main residence and neighborhood, provide adequate on-site usable open space and parking, and not infringe upon the privacy of adjoining properties"; and</text>
   <text>WHEREAS, the proposed Zoning Code amendments comply with the legislative amendments made in 2016 to Government Code Section 65852.2 which establishes standards for the development of accessory dwelling units and junior accessory dwelling units so as to increase the supply of smaller and affordable housing while ensuring that they remain compatible with the existing neighborhood; and</text>
   <text>WHEREAS, on December 13, 2016, the Planning Commission held a duty noticed public hearing, received the staff report and reviewed a presentation by the Planning Division, and received comments from the public and interested parties; and</text>
-  <text>WHEREAS, on February 6, 2017, City Council of the City of San Mateo introduced Ordinance No. 2017- ---, 'Amending Title 27 of the San Mateo Municipal Code, Related to Accessory Dwelling Units and Junior Accessory Dwelling Units in Residential Districts; and</text>
+  <text>WHEREAS, on February 6, 2017, City Council of the City of San Mateo introduced Ordinance No. 2017- ---, 'Amending <cite doc="City of San Mateo, Cal., Code" path="27">Title 27 of the San Mateo Municipal Code</cite>, Related to Accessory Dwelling Units and Junior Accessory Dwelling Units in Residential Districts; and</text>
   <text>WHEREAS, the proposed Ordinance also includes minor edits to clarify other Zoning Code provisions; and</text>
   <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, HEREBY ORDAINS that:</text>
   <section>
     <num>1</num>
-    <text>Chapter 27.04, "Definitions", of the San Mateo Municipal Code is amended to amend Sections 27.04.133, "Cooking Facility/Kitchen," and 27.04.165, "Dwelling," and to add new Sections 27.04.172, "Efficiency Food Preparation Area," and 27.04.494, " "Wetbar," as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04, "Definitions", of the San Mateo Municipal Code</cite> is amended to amend Sections 27.04.133, "Cooking Facility/Kitchen," and 27.04.165, "Dwelling," and to add new Sections 27.04.172, "Efficiency Food Preparation Area," and 27.04.494, " "Wetbar," as follows:</text>
     <include>
       <section>
         <num>27.04.133</num>
@@ -44,7 +44,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>"Junior accessory dwelling unit" means an additional, independent living unit created through the conversion of an existing bedroom in a single-family dwelling subject to defined standards, as specified in Chapter 27.19 of this Title.  Junior accessory dwelling units are distinguished from  accessory dwelling units in that they: 1) must include the conversion of an existing legally permitted bedroom(s) within an existing  single-family dwelling (no new or additional building area); 2) are smaller in size (maximum size of 500 square feet); 3) contain either independent or shared bathroom facilities with the existing primary residence; 4) contain a small "efficiency food preparation area"; and 5) are subject to unique standards that are not applicable to accessory dwelling units, as specified in Chapter 27.19.</text>
+          <text>"Junior accessory dwelling unit" means an additional, independent living unit created through the conversion of an existing bedroom in a single-family dwelling subject to defined standards, as specified in <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite> of <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite>.  Junior accessory dwelling units are distinguished from  accessory dwelling units in that they: 1) must include the conversion of an existing legally permitted bedroom(s) within an existing  single-family dwelling (no new or additional building area); 2) are smaller in size (maximum size of 500 square feet); 3) contain either independent or shared bathroom facilities with the existing primary residence; 4) contain a small "efficiency food preparation area"; and 5) are subject to unique standards that are not applicable to accessory dwelling units, as specified in <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite>.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -88,6 +88,65 @@
         <prefix>Chapter</prefix>
         <num>27.19</num>
         <heading>ACCESSORY DWELLING UNIT AND JUNIOR ACCESSORY DWELLING UNIT -RESIDENTIAL ZONES</heading>
+        <toc>
+          <heading>Sections:</heading>
+          <article>
+            <num>I</num>
+            <heading>Accessory Dwelling Unit</heading>
+          </article>
+          <section>
+            <num>27.19.010</num>
+            <heading>Purpose.</heading>
+          </section>
+          <section>
+            <num>27.19.020</num>
+            <heading>Prohibition on Subdivision.</heading>
+          </section>
+          <section>
+            <num>27.19.030</num>
+            <heading>Prohibition on Sale and Limitation on Rental.</heading>
+          </section>
+          <section>
+            <num>27.19.040</num>
+            <heading>Ministerial Permit Required.</heading>
+          </section>
+          <section>
+            <num>27.19.050</num>
+            <heading>Development Standards.</heading>
+          </section>
+          <section>
+            <num>27.19.060</num>
+            <heading>Recordation of Deed Restriction.</heading>
+          </section>
+          <article>
+            <num>II</num>
+            <heading>Junior Accessory Dwelling Unit</heading>
+          </article>
+          <section>
+            <num>27.19.070</num>
+            <heading>Purpose.</heading>
+          </section>
+          <section>
+            <num>27.19.080</num>
+            <heading>Prohibition on Subdivision.</heading>
+          </section>
+          <section>
+            <num>27.19.090</num>
+            <heading>Prohibition on Sale and Limitation on Rental.</heading>
+          </section>
+          <section>
+            <num>27.19.100</num>
+            <heading>Ministerial Permit Required.</heading>
+          </section>
+          <section>
+            <num>27.19.110</num>
+            <heading>Development Standards.</heading>
+          </section>
+          <section>
+            <num>27.19.120</num>
+            <heading>Recordation of Deed Restriction.</heading>
+          </section>
+        </toc>
         <container>
           <prefix>Article</prefix>
           <num>I</num>
@@ -95,7 +154,7 @@
           <section>
             <num>27.19.010</num>
             <heading>PURPOSE.</heading>
-            <text>The purpose of this Chapter is to set forth regulations to permit accessory dwelling units on residential zoned properties (R1-A, R1-B, R1-C, R2, R3, R4, R5, R4D, R5D, R6D and BMSP) with a single-family residential use.  A parcel with a single family residential use, may have only one accessory dwelling unit (ADU) or one junior accessory dwelling unit (JADU), but not both.</text>
+            <text>The purpose of <cite doc="City of San Mateo, Cal., Code" path="27.19">this Chapter</cite> is to set forth regulations to permit accessory dwelling units on residential zoned properties (R1-A, R1-B, R1-C, R2, R3, R4, R5, R4D, R5D, R6D and BMSP) with a single-family residential use.  A parcel with a single family residential use, may have only one accessory dwelling unit (ADU) or one junior accessory dwelling unit (JADU), but not both.</text>
           </section>
           <section>
             <num>27.19.020</num>
@@ -117,12 +176,12 @@
           <section>
             <num>27.19.040</num>
             <heading>MINISTERIAL PERMIT REQUIRED.</heading>
-            <text>An accessory dwelling unit permit application for either an attached or a detached accessory dwelling unit is required in order to demonstrate that a unit is in compliance with the provisions of this Chapter. If the accessory dwelling unit is in full compliance with the provisions of this Chapter, a ministerial, non-discretionary permit will be issued.</text>
+            <text>An accessory dwelling unit permit application for either an attached or a detached accessory dwelling unit is required in order to demonstrate that a unit is in compliance with the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.19">this Chapter</cite>. If the accessory dwelling unit is in full compliance with the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.19">this Chapter</cite>, a ministerial, non-discretionary permit will be issued.</text>
           </section>
           <section>
             <num>27.19.050</num>
             <heading>DEVELOPMENT STANDARDS.</heading>
-            <text>An accessory dwelling unit, as defined in Section 27.04.165, shall comply with the following development standards:</text>
+            <text>An accessory dwelling unit, as defined in <cite doc="City of San Mateo, Cal., Code" path="27.04.165">Section 27.04.165</cite>, shall comply with the following development standards:</text>
             <para>
               <num>(a)</num>
               <text>Permitted Zoning Districts.  Accessory dwelling units shall only be constructed on residential zoned properties, specifically R1-A, R1-B, R1-C, R2, R3, R4, R5, R4D, R5D, R6D and BMSP, that have been developed with a single family dwelling unit or an accessory dwelling unit is proposed to be built in conjunction with a single family dwelling unit, where the single family dwelling is the primary residential dwelling unit. The residential property shall not be part of a condominium, townhouse, or other multi-family development.</text>
@@ -137,11 +196,11 @@
             </para>
             <para>
               <num>(d)</num>
-              <text>Maximum Unit Size.  The floor area of an accessory dwelling unit shall not exceed six hundred and forty (640) square feet including attic and basement areas as defined in Section 27.04.200 for the applicable underlying zoning district, provided that the total floor area for the parcel or lot does not exceed the maximum allowable floor area.</text>
+              <text>Maximum Unit Size.  The floor area of an accessory dwelling unit shall not exceed six hundred and forty (640) square feet including attic and basement areas as defined in <cite doc="City of San Mateo, Cal., Code" path="27.04.200">Section 27.04.200</cite> for the applicable underlying zoning district, provided that the total floor area for the parcel or lot does not exceed the maximum allowable floor area.</text>
             </para>
             <para>
               <num>(e)</num>
-              <text>Setback and Other Zoning Regulations.  For purposes of setbacks and other zoning regulations, the accessory dwelling unit (both attached and detached) shall be considered to be a part of the principal use of subject site and shall be subject to the same requirements of the underlying zoning district, including standards for lot coverage, setbacks, and height, unless otherwise provided in this Chapter.</text>
+              <text>Setback and Other Zoning Regulations.  For purposes of setbacks and other zoning regulations, the accessory dwelling unit (both attached and detached) shall be considered to be a part of the principal use of subject site and shall be subject to the same requirements of the underlying zoning district, including standards for lot coverage, setbacks, and height, unless otherwise provided in <cite doc="City of San Mateo, Cal., Code" path="27.19">this Chapter</cite>.</text>
             </para>
             <para>
               <num>(f)</num>
@@ -199,7 +258,7 @@
                 </para>
                 <para>
                   <num>b.</num>
-                  <text>Landscape and Limits on Paving Standards.  The required replacement parking located on the subject property shall be designed to comply with the landscape and paving standards set forth in Chapter 27.18.070 (d) and 27.18.080 (b)(4).  "Limits on paving" standards.</text>
+                  <text>Landscape and Limits on Paving Standards.  The required replacement parking located on the subject property shall be designed to comply with the landscape and paving standards set forth in <cite doc="City of San Mateo, Cal., Code" path="27.18">Chapter 27.18</cite>.070 (d) and <cite doc="City of San Mateo, Cal., Code" path="27.18.080">27.18.080</cite> (b)(4).  "Limits on paving" standards.</text>
                 </para>
               </para>
               <para>
@@ -269,7 +328,7 @@
             </para>
             <para>
               <num>(m)</num>
-              <text>Heritage Tree Standards.  New accessory dwelling units and conversions of an existing legally permitted structure shall be designed to comply with the standards for the preservation of heritage trees in Chapter 13.52.  "Heritage Trees."</text>
+              <text>Heritage Tree Standards.  New accessory dwelling units and conversions of an existing legally permitted structure shall be designed to comply with the standards for the preservation of heritage trees in <cite doc="City of San Mateo, Cal., Code" path="13.52">Chapter 13.52</cite>.  "Heritage Trees."</text>
             </para>
             <para>
               <num>(n)</num>
@@ -320,7 +379,7 @@
           <section>
             <num>27.19.070</num>
             <heading>PURPOSE.</heading>
-            <text>The purpose of this chapter is to set forth regulations to permit junior accessory dwelling units on one and two-family residential zoned properties (R1-A, R1-B, R1-C, and R2). A parcel with an existing legally permitted single-family use may have only one accessory dwelling unit or one junior accessory dwelling unit, but, not both.</text>
+            <text>The purpose of <cite doc="City of San Mateo, Cal., Code" path="27.19">this chapter</cite> is to set forth regulations to permit junior accessory dwelling units on one and two-family residential zoned properties (R1-A, R1-B, R1-C, and R2). A parcel with an existing legally permitted single-family use may have only one accessory dwelling unit or one junior accessory dwelling unit, but, not both.</text>
           </section>
           <section>
             <num>27.19.080</num>
@@ -347,7 +406,7 @@
           <section>
             <num>27.19.110</num>
             <heading>DEVELOPMENT STANDARDS.</heading>
-            <text>A "Junior accessory dwelling unit", as defined in Section 27.04.165, must comply with the following development standards:</text>
+            <text>A "Junior accessory dwelling unit", as defined in <cite doc="City of San Mateo, Cal., Code" path="27.04.165">Section 27.04.165</cite>, must comply with the following development standards:</text>
             <para>
               <num>(a)</num>
               <text>Permitted Zoning Districts. Junior accessory dwelling units shall only be constructed on one and two-family residential zoned properties, specifically R1-A, R1-B, R1-C, and R2, with an existing legally permitted single-family dwelling. The residential property shall not be part of a condominium, townhouse, or other multi-family development.</text>
@@ -362,7 +421,7 @@
             </para>
             <para>
               <num>(d)</num>
-              <text>Maximum Unit Size. The floor area of a junior accessory dwelling unit shall not exceed five hundred (500) square feet, including attic and basement areas as defined in Section 27.04.200 for the applicable zoning district, provided that the total floor area for the parcel or lot does not exceed the maximum allowable floor area.</text>
+              <text>Maximum Unit Size. The floor area of a junior accessory dwelling unit shall not exceed five hundred (500) square feet, including attic and basement areas as defined in <cite doc="City of San Mateo, Cal., Code" path="27.04.200">Section 27.04.200</cite> for the applicable zoning district, provided that the total floor area for the parcel or lot does not exceed the maximum allowable floor area.</text>
             </para>
             <para>
               <num>(e)</num>
@@ -449,7 +508,7 @@
   </section>
   <section>
     <num>5</num>
-    <text>The heading of Section 27.64.160, "Schedules Generally." of Chapter 27.64, "Off-Street Parking and Loading," of the San Mateo Municipal Code is amended to read:</text>
+    <text>The heading of Section 27.64.160, "Schedules Generally." of <cite doc="City of San Mateo, Cal., Code" path="27.64">Chapter 27.64, "Off-Street Parking and Loading," of the San Mateo Municipal Code</cite> is amended to read:</text>
     <text>"Parking Schedules Generally," and subsection (1)(b) of the table is amended to read as follows and subsections (c) and (d) are renumbered:</text>
     <text>
       <table>

@@ -15,12 +15,54 @@
   <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
   <section>
     <num>1</num>
-    <text>Chapter 7.40 of the San Mateo Municipal Code is hereby amended to read:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.40">Chapter 7.40 of the San Mateo Municipal Code</cite> is hereby amended to read:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
         <num>7.40</num>
         <heading>SMOKING CONTROL</heading>
+        <toc>
+          <section>
+            <num>7.40.010</num>
+            <heading>Findings and purpose.</heading>
+          </section>
+          <section>
+            <num>7.40.020</num>
+            <heading>Definitions.</heading>
+          </section>
+          <section>
+            <num>7.40.030</num>
+            <heading>Prohibition of smoking in city facilities and on city property.</heading>
+          </section>
+          <section>
+            <num>7.40.040</num>
+            <heading>Prohibition of smoking in public places.</heading>
+          </section>
+          <section>
+            <num>7.40.050</num>
+            <heading>Prohibition of smoking in multi-unit residences.</heading>
+          </section>
+          <section>
+            <num>7.40.060</num>
+            <heading>Where smoking not regulated.</heading>
+          </section>
+          <section>
+            <num>7.40.080</num>
+            <heading>Violations and enforcement.</heading>
+          </section>
+          <section>
+            <num>7.40.090</num>
+            <heading>Nondiscrimination.</heading>
+          </section>
+          <section>
+            <num>7.40.100</num>
+            <heading>Vending machines—sales prohibited.</heading>
+          </section>
+          <section>
+            <num>7.40.110</num>
+            <heading>Self-service displays prohibited.</heading>
+          </section>
+        </toc>
         <section>
           <num>7.40.010</num>
           <heading>FINDINGS AND PURPOSE.</heading>
@@ -47,7 +89,7 @@
           </para>
           <para>
             <num>(f)</num>
-            <text>Accordingly, the City Council finds and declares that the purpose of this Chapter is to protect the public health and welfare by prohibiting smoking in public places, places of employment, and multi-unit residences as set forth herein.  (Ord. 2015-15 § 1; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
+            <text>Accordingly, the City Council finds and declares that the purpose of <cite doc="City of San Mateo, Cal., Code" path="7.40">this Chapter</cite> is to protect the public health and welfare by prohibiting smoking in public places, places of employment, and multi-unit residences as set forth herein.  (Ord. 2015-15 § 1; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
           </para>
         </section>
         <section>
@@ -166,22 +208,22 @@
         <section>
           <num>7.40.060</num>
           <heading>WHERE SMOKING NOT REGULATED.</heading>
-          <text>Notwithstanding any other provisions of this chapter to the contrary, private vehicles and detached single-family residences, except during the time that the residence is used as a child care or a health care facility, shall not be subject to the smoking restrictions of this Chapter.  (Ord. 2015-15 § 1; Ord. 2003-15 § 2; Ord. 1995-10 § 1; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
+          <text>Notwithstanding any other provisions of <cite doc="City of San Mateo, Cal., Code" path="7.40">this chapter</cite> to the contrary, private vehicles and detached single-family residences, except during the time that the residence is used as a child care or a health care facility, shall not be subject to the smoking restrictions of <cite doc="City of San Mateo, Cal., Code" path="7.40">this Chapter</cite>.  (Ord. 2015-15 § 1; Ord. 2003-15 § 2; Ord. 1995-10 § 1; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
         </section>
         <section>
           <num>7.40.080</num>
           <heading>VIOLATIONS AND ENFORCEMENT.</heading>
           <para>
             <num>(a)</num>
-            <text>Any violation of this Chapter is punishable as specified in Title 1 of the San Mateo Municipal Code.</text>
+            <text>Any violation of <cite doc="City of San Mateo, Cal., Code" path="7.40">this Chapter</cite> is punishable as specified in <cite doc="City of San Mateo, Cal., Code" path="1">Title 1 of the San Mateo Municipal Code</cite>.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>Causing, permitting, aiding, abetting or concealing a violation of any provisions of this Chapter shall also constitute a violation of this Chapter.</text>
+            <text>Causing, permitting, aiding, abetting or concealing a violation of any provisions of <cite doc="City of San Mateo, Cal., Code" path="7.40">this Chapter</cite> shall also constitute a violation of <cite doc="City of San Mateo, Cal., Code" path="7.40">this Chapter</cite>.</text>
           </para>
           <para>
             <num>(c)</num>
-            <text>Any violation of the provisions of this Chapter are declared to be a public nuisance and may be abated by appropriate civil action, including injunction.</text>
+            <text>Any violation of the provisions of <cite doc="City of San Mateo, Cal., Code" path="7.40">this Chapter</cite> are declared to be a public nuisance and may be abated by appropriate civil action, including injunction.</text>
           </para>
           <para>
             <num>(d)</num>
@@ -189,14 +231,14 @@
           </para>
           <para>
             <num>(e)</num>
-            <text>Any aggrieved person under this Chapter may bring a civil action as a private enforcer to compel compliance with this Chapter, provided that the aggrieved person shall have first requested in writing</text>
+            <text>Any aggrieved person under <cite doc="City of San Mateo, Cal., Code" path="7.40">this Chapter</cite> may bring a civil action as a private enforcer to compel compliance with <cite doc="City of San Mateo, Cal., Code" path="7.40">this Chapter</cite>, provided that the aggrieved person shall have first requested in writing</text>
           </para>
           <text>that the City of San Mateo take enforcement action and the City of San Mateo shall have failed to do so after forty-five days. Upon proof of violations by the private enforcer in a civil action, a court shall grant all appropriate relief, including (1) awarding damages and/or (2) issuing an injunction.  (Ord. 2015-15 § 1; Ord. 1996-8 § 1; Ord. 1995-24 § 4; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
         </section>
         <section>
           <num>7.40.090</num>
           <heading>NONDISCRIMINATION.</heading>
-          <text>No person shall discharge, refuse to hire, or in any manner discriminate against any employee or applicant for employment because such employee or applicant exercises any rights afforded by this chapter. (Ord. 2015-15 § 1; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
+          <text>No person shall discharge, refuse to hire, or in any manner discriminate against any employee or applicant for employment because such employee or applicant exercises any rights afforded by <cite doc="City of San Mateo, Cal., Code" path="7.40">this chapter</cite>. (Ord. 2015-15 § 1; Ord. 1993-3 § 1; Ord. 1986-27 § 1)</text>
         </section>
         <section>
           <num>7.40.100</num>

@@ -20,22 +20,48 @@
   <section>
     <num>2</num>
     <heading>AMEND AND ADD.</heading>
-    <text>Title 23 of the San Mateo Municipal Code is hereby amended to add Chapter 23.44, Electric Vehicle Charging Stations, to read as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23">Title 23 of the San Mateo Municipal Code</cite> is hereby amended to add Chapter 23.44, Electric Vehicle Charging Stations, to read as follows:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
         <num>23.44</num>
         <heading>ELECTRIC VEHICLE CHARGING STATIONS</heading>
+        <toc>
+          <section>
+            <num>23.44.010</num>
+            <heading>Purpose and Intent.</heading>
+          </section>
+          <section>
+            <num>23.44.020</num>
+            <heading>Definitions.</heading>
+          </section>
+          <section>
+            <num>23.44.030</num>
+            <heading>Applicability.</heading>
+          </section>
+          <section>
+            <num>23.44.040</num>
+            <heading>Electric vehicle charging station requirements.</heading>
+          </section>
+          <section>
+            <num>23.44.050</num>
+            <heading>Submittal process.</heading>
+          </section>
+          <section>
+            <num>23.44.060</num>
+            <heading>Submittal review, permit, and inspection requirements.</heading>
+          </section>
+        </toc>
         <section>
           <num>23.44.020</num>
           <heading>DEFINITIONS.</heading>
           <para>
             <num>(a)</num>
-            <text>"Electric vehicle charging station(s)" or "charging station(s)" means any level of electric vehicle supply equipment station that is designed and built in compliance with California Code of Regulations, Title 24 Part 3 California Electrical Code Article 625, as it reads on the effective date of this chapter or as it may be amended, and delivers electricity from a source outside an electric vehicle into a plug-in electric vehicle.</text>
+            <text>"Electric vehicle charging station(s)" or "charging station(s)" means any level of electric vehicle supply equipment station that is designed and built in compliance with California Code of Regulations, <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite> Part 3 California Electrical Code Article 625, as it reads on the effective date of <cite doc="City of San Mateo, Cal., Code" path="23.44">this chapter</cite> or as it may be amended, and delivers electricity from a source outside an electric vehicle into a plug-in electric vehicle.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>"Electronic submittal" means the use email, the internet, or facsimile to submit a permit application required by this chapter.</text>
+            <text>"Electronic submittal" means the use email, the internet, or facsimile to submit a permit application required by <cite doc="City of San Mateo, Cal., Code" path="23.44">this chapter</cite>.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -49,7 +75,7 @@
         <section>
           <num>23.44.030</num>
           <heading>APPLICABILITY.</heading>
-          <text>This chapter applies to the permitting of all electric vehicle charging stations in the City of San Mateo. Electric vehicle charging stations legally established or permitted prior to the effective date of this chapter are not subject to the requirements of this chapter unless physical modifications or alterations are undertaken that materially change the size, type, or components of an electric vehicle charging station in such a way as to require new permitting.  Routine operation and maintenance shall not require a permit.</text>
+          <text><cite doc="City of San Mateo, Cal., Code" path="23.44">This chapter</cite> applies to the permitting of all electric vehicle charging stations in the City of San Mateo. Electric vehicle charging stations legally established or permitted prior to the effective date of <cite doc="City of San Mateo, Cal., Code" path="23.44">this chapter</cite> are not subject to the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.44">this chapter</cite> unless physical modifications or alterations are undertaken that materially change the size, type, or components of an electric vehicle charging station in such a way as to require new permitting.  Routine operation and maintenance shall not require a permit.</text>
         </section>
         <section>
           <num>23.44.040</num>
@@ -78,7 +104,7 @@
           <heading>SUBMITTAL REVIEW, PREMIT, AND INSPECTION.</heading>
           <para>
             <num>(a)</num>
-            <text>The building official shall implement an administrative review process to expedite review of electric vehicle charging station permit applications, plans, and related documents. No permit or approval shall be issued which does not conform to all applicable provisions of Title 23, Buildings and Construction and Title 27, Zoning Code. The determination of conformance shall be made by the Community Development Director or designated staff members of the Community Development Department.</text>
+            <text>The building official shall implement an administrative review process to expedite review of electric vehicle charging station permit applications, plans, and related documents. No permit or approval shall be issued which does not conform to all applicable provisions of <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite>, Buildings and Construction and <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>, Zoning Code. The determination of conformance shall be made by the Community Development Director or designated staff members of the Community Development Department.</text>
           </para>
           <text>Where the application meets the requirements of the approved checklist and standards and there are no specific, adverse impacts upon public health or safety, the building division shall complete the building permit approval process, which is nondiscretionary. Review of the application for electric vehicle charging stations shall be limited to the building official's review of whether the application meets local, state, and federal health and safety requirements. If an application is deemed incomplete, a written correction notice detailing all deficiencies in the application and any additional information or documentation required to be eligible for expedited permit issuance shall be sent to the applicant for resubmission.</text>
           <para>
@@ -91,7 +117,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text>Notwithstanding the appeal provisions contained in section 23.06.040, the building official's determinations under this section may be appealed to the Planning Commission.</text>
+            <text>Notwithstanding the appeal provisions contained in <cite doc="City of San Mateo, Cal., Code" path="23.06.040">section 23.06.040</cite>, the building official's determinations under this section may be appealed to the Planning Commission.</text>
           </para>
           <para>
             <num>(e)</num>
