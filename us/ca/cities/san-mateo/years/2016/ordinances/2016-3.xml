@@ -9,25 +9,84 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2016-3</citation>
     </citations>
   </meta>
-  <text>THIS ORDINANCE is adopted in light of the following facts and circumstances, which are hereby found and declared by the City Council.</text>
-  <text>WHEREAS, a reliable minimum supply of potable water is essential to the public health, safety and welfare of the people and economy of the City of San Mateo, California.</text>
-  <text>WHEREAS, the California Water Conservation in Landscaping Act, also known as the State Landscape Model Ordinance ("Model Ordinance"), has been implemented by a Statewide Landscape Task Force which was overseen by the California Urban Water Conservation Council.  The California Water Conservation in Landscaping Act was amended pursuant to AB 2717 (Chapter 682, Stats. 2004) and AB 1881 (Chapter 559, Stats. 2006).</text>
-  <text>WHEREAS, AB 1881 required cities and counties, no later than January 1, 2010, to adopt the updated Model Ordinance or an equivalent document which is "at least as effective as" the Model Ordinance in conserving water.  In the event cities and counties did not take such action, the State's Model Ordinance were deemed to be automatically adopted by statute.</text>
-  <text>WHEREAS, The City Council adopted a Water Conservation in Landscaping Ordinance on February 17, 2015 to comply with the requirement of AB 1881.</text>
-  <text>WHEREAS, Governor Brown issued Executive Order B-29 on April 1, 2015 which directed State agencies to implement immediate measures to save water, increase enforcement against water waste, and streamline government response to ongoing drought conditions.</text>
-  <text>WHEREAS, Executive Order B-29 directed the Department of Water Resources ("DWR") to update the State Model Ordinance through expedited regulation to increase water efficiency standards for new and existing landscapes through more efficient standards, greywater usage, onsite storm water capture, and limitations of the portions of landscape that can be covered in turf.</text>
-  <text>WHEREAS, the California Water Commission approved the proposed revisions to the State Model Ordinance on July 15, 2015.</text>
-  <text>WHEREAS, local agencies are required to adopt the revised State Model Ordinance or adopt a local or regional ordinance at least as effective in conserving water.</text>
-  <text>WHEREAS, the City of San Mateo has developed this regional Water Conservation In Landscaping Ordinance in conjunction with the Bay Area Water Supply and Conservation Agency and other local agencies to meet the requirements and guidelines of the Model Ordinance and to address the unique physical characteristics, including average landscaped areas, within the City of San Mateo jurisdiction in order to ensure that this Ordinance will be "at least as effective as" the Model Ordinance in conserving water.</text>
-  <text>WHEREAS, although this Water Conservation in Landscaping Ordinance is more streamlined and simplified than the Model Ordinance, the City Council finds that it is "at least as effective as" the Model Ordinance for the following reasons: (1) this Ordinance applies to more accounts than the Model Ordinance does because it lowers the size threshold for applicable rehabilitated landscapes from 2,500 square feet to 1,000 square feet, to better reflect the typical landscaped areas located within this City's boundaries; (2) this Ordinance includes a default turf restriction of no turf or high water use plants in the irrigated area and requires that at least 80% of the plants in non-turf landscape areas be native plants, low-water using plants, or no-water using plants (unless the applicant elects to perform a water budget); (3) this Ordinance requires covers on newly constructed pools and spas.  The Model Ordinance does not contain any such default turf restrictions or specified plant requirements.</text>
-  <text>WHEREAS, although this Water Conservation in Landscaping Ordinance is more streamlined and simplified than the Model Ordinance, the City Council further finds that it is "at least as effective as" the Model Ordinance because this Ordinance includes water budget parameters and values and landscape parameters that are consistent with the Model Ordinance. By using the same water budget parameters as the Model Ordinance (e.g., plant factors, irrigation efficiency), this Ordinance will be as effective as the Model Ordinance in developing landscape water budgets.  By using the same landscape parameters as the Model Ordinance for, among other things, slope restrictions and width restrictions for turf, irrigation times, and minimum mulch requirements, this Ordinance will be at least as effective as the Model Ordinance in achieving water savings.</text>
-  <text>WHEREAS, Article X, Section 2 of the California Constitution and Section 100 of the California Water Code declare that the general welfare requires water resources be put to beneficial use, waste or unreasonable use or unreasonable method of use of water be prevented, and conservation of water be fully exercised with a view to the reasonable and beneficial use thereof.</text>
-  <text>WHEREAS, the City Council finds and determines that this Ordinance is consistent with the provisions requiring reductions in outdoor water use for landscaping in the California Green Building Standards Code, as such provisions will be implemented in the coming years.  Such requirements include the development of a water budget for landscape irrigation in accordance with methodology outlined in either the Model Ordinance or pursuant to a locally adopted ordinance.</text>
-  <text>WHEREAS, the State Legislature has identified the provision of a more reliable water supply and the protection, restoration and enhancement of the Delta ecosystem as a high priority for the state.  Pursuant to this, in November 2009, the State Legislature passed Senate Bill 7 (7th Extraordinary Session) requiring certain urban water suppliers to reduce per capita urban water use by 20% by the year 2020.  Accordingly, the City Council finds that implementation of this Ordinance is consistent with the policies and goals established by the State Legislature in enacting SB 7 (7th Extraordinary Session).</text>
-  <text>WHEREAS, for Cities Article XI, Section 7 of the California Constitution declares that a city or county may make and enforce within its limits all local, policy, sanitary, and other ordinances and regulations not in conflict with general laws.</text>
-  <text>WHEREAS, for Cities who are not water purveyors pursuant to AB 1881, enforcement of the landscape conservation ordinance adopted by the City of San Mateo will require supportive measures by California Water Company, the local water provider within these jurisdictions, so as to ensure the successful implementation and enforcement of this Ordinance.</text>
-  <text>WHEREAS, the adoption and enforcement of this Ordinance is necessary to manage the City's potable water supply in the short and long-term and to avoid or minimize the effects of drought and shortage within City.  This Ordinance is essential to ensure a reliable and sustainable minimum supply of water for the public health, safety and welfare.</text>
-  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO DOES ORDAIN AS FOLLOWS:</text>
+  <recitals>
+    <recital>
+      <conjunction>THIS ORDINANCE</conjunction>
+      <text>is adopted in light of the following facts and circumstances, which are hereby found and declared by the City Council.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a reliable minimum supply of potable water is essential to the public health, safety and welfare of the people and economy of the City of San Mateo, California.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the California Water Conservation in Landscaping Act, also known as the State Landscape Model Ordinance ("Model Ordinance"), has been implemented by a Statewide Landscape Task Force which was overseen by the California Urban Water Conservation Council.  The California Water Conservation in Landscaping Act was amended pursuant to AB 2717 (Chapter 682, Stats. 2004) and AB 1881 (Chapter 559, Stats. 2006).</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>AB 1881 required cities and counties, no later than January 1, 2010, to adopt the updated Model Ordinance or an equivalent document which is "at least as effective as" the Model Ordinance in conserving water.  In the event cities and counties did not take such action, the State's Model Ordinance were deemed to be automatically adopted by statute.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City Council adopted a Water Conservation in Landscaping Ordinance on February 17, 2015 to comply with the requirement of AB 1881.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Governor Brown issued Executive Order B-29 on April 1, 2015 which directed State agencies to implement immediate measures to save water, increase enforcement against water waste, and streamline government response to ongoing drought conditions.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Executive Order B-29 directed the Department of Water Resources ("DWR") to update the State Model Ordinance through expedited regulation to increase water efficiency standards for new and existing landscapes through more efficient standards, greywater usage, onsite storm water capture, and limitations of the portions of landscape that can be covered in turf.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the California Water Commission approved the proposed revisions to the State Model Ordinance on July 15, 2015.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>local agencies are required to adopt the revised State Model Ordinance or adopt a local or regional ordinance at least as effective in conserving water.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo has developed this regional Water Conservation In Landscaping Ordinance in conjunction with the Bay Area Water Supply and Conservation Agency and other local agencies to meet the requirements and guidelines of the Model Ordinance and to address the unique physical characteristics, including average landscaped areas, within the City of San Mateo jurisdiction in order to ensure that this Ordinance will be "at least as effective as" the Model Ordinance in conserving water.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>although this Water Conservation in Landscaping Ordinance is more streamlined and simplified than the Model Ordinance, the City Council finds that it is "at least as effective as" the Model Ordinance for the following reasons: (1) this Ordinance applies to more accounts than the Model Ordinance does because it lowers the size threshold for applicable rehabilitated landscapes from 2,500 square feet to 1,000 square feet, to better reflect the typical landscaped areas located within this City's boundaries; (2) this Ordinance includes a default turf restriction of no turf or high water use plants in the irrigated area and requires that at least 80% of the plants in non-turf landscape areas be native plants, low-water using plants, or no-water using plants (unless the applicant elects to perform a water budget); (3) this Ordinance requires covers on newly constructed pools and spas.  The Model Ordinance does not contain any such default turf restrictions or specified plant requirements.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>although this Water Conservation in Landscaping Ordinance is more streamlined and simplified than the Model Ordinance, the City Council further finds that it is "at least as effective as" the Model Ordinance because this Ordinance includes water budget parameters and values and landscape parameters that are consistent with the Model Ordinance. By using the same water budget parameters as the Model Ordinance (e.g., plant factors, irrigation efficiency), this Ordinance will be as effective as the Model Ordinance in developing landscape water budgets.  By using the same landscape parameters as the Model Ordinance for, among other things, slope restrictions and width restrictions for turf, irrigation times, and minimum mulch requirements, this Ordinance will be at least as effective as the Model Ordinance in achieving water savings.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Article X, Section 2 of the California Constitution and Section 100 of the California Water Code declare that the general welfare requires water resources be put to beneficial use, waste or unreasonable use or unreasonable method of use of water be prevented, and conservation of water be fully exercised with a view to the reasonable and beneficial use thereof.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council finds and determines that this Ordinance is consistent with the provisions requiring reductions in outdoor water use for landscaping in the California Green Building Standards Code, as such provisions will be implemented in the coming years.  Such requirements include the development of a water budget for landscape irrigation in accordance with methodology outlined in either the Model Ordinance or pursuant to a locally adopted ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the State Legislature has identified the provision of a more reliable water supply and the protection, restoration and enhancement of the Delta ecosystem as a high priority for the state.  Pursuant to this, in November 2009, the State Legislature passed Senate Bill 7 (7th Extraordinary Session) requiring certain urban water suppliers to reduce per capita urban water use by 20% by the year 2020.  Accordingly, the City Council finds that implementation of this Ordinance is consistent with the policies and goals established by the State Legislature in enacting SB 7 (7th Extraordinary Session).</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>for Cities Article XI, Section 7 of the California Constitution declares that a city or county may make and enforce within its limits all local, policy, sanitary, and other ordinances and regulations not in conflict with general laws.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>for Cities who are not water purveyors pursuant to AB 1881, enforcement of the landscape conservation ordinance adopted by the City of San Mateo will require supportive measures by California Water Company, the local water provider within these jurisdictions, so as to ensure the successful implementation and enforcement of this Ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the adoption and enforcement of this Ordinance is necessary to manage the City's potable water supply in the short and long-term and to avoid or minimize the effects of drought and shortage within City.  This Ordinance is essential to ensure a reliable and sustainable minimum supply of water for the public health, safety and welfare.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO DOES ORDAIN AS FOLLOWS:</text>
+    </recital>
+  </recitals>
   <section>
     <num>1</num>
     <text>Chapter 23.72, of <cite doc="City of San Mateo, Cal., Code" path="23">Title 23, "Water Conservation in Landscaping," of Title 23 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
@@ -126,9 +185,8 @@
             <text><cite doc="City of San Mateo, Cal., Code" path="23.72">This Chapter</cite> shall apply to the following landscape projects:</text>
             <para>
               <num>(1)</num>
-              <text>New construction projects with an aggregate landscape area equal to or</text>
+              <text>New construction projects with an aggregate landscape area equal to or greater than 500 square feet requiring a building or landscape permit, plan check or design review; and</text>
             </para>
-            <text>greater than 500 square feet requiring a building or landscape permit, plan check or design review; and</text>
             <para>
               <num>(2)</num>
               <text>Rehabilitated landscape projects with an aggregate landscape area equal to or greater than 1,000 square feet requiring a building or landscape permit, plan check, or design review;</text>
@@ -546,16 +604,43 @@
             <para>
               <num>(1)</num>
               <text>Project information:</text>
+              <para>
+                <num>a.</num>
+                <text>Date;</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>Project Applicant;</text>
+              </para>
+              <para>
+                <num>c.</num>
+                <text>Project address (if available, parcel and/or lot numbers);</text>
+              </para>
+              <para>
+                <num>d.</num>
+                <text>Project type (e.g. new, rehabilitated, public, private, cemetery, homeowner-installed);</text>
+              </para>
+              <para>
+                <num>e.</num>
+                <text>Total landscape area (Square feet);</text>
+              </para>
+              <para>
+                <num>f.</num>
+                <text>Water supply type (e.g. potable, recycle, well) and identify the local retail water purveyor if the applicant is not served by a private well;</text>
+              </para>
+              <para>
+                <num>g.</num>
+                <text>Completed checklist of all documents in Landscape Documentation Package</text>
+              </para>
+              <para>
+                <num>h.</num>
+                <text>Project contacts to include contact information for the project applicant and property owner;</text>
+              </para>
+              <para>
+                <num>i.</num>
+                <text>Applicant signature and date with statement, "I agree to comply with the requirements of the water efficient landscape ordinance and submit a complete Landscape Documentation Package."</text>
+              </para>
             </para>
-            <text>Date;</text>
-            <text>Project Applicant;</text>
-            <text>Project address (if available, parcel and/or lot numbers);</text>
-            <text>Project type (e.g. new, rehabilitated, public, private, cemetery, homeowner-installed);</text>
-            <text>Total landscape area (Square feet);</text>
-            <text>Water supply type (e.g. potable, recycle, well) and identify the local retail water purveyor if the applicant is not served by a private well;</text>
-            <text>Completed checklist of all documents in Landscape Documentation Package</text>
-            <text>Project contacts to include contact information for the project applicant and property owner;</text>
-            <text>Applicant signature and date with statement, "I agree to comply with the requirements of the water efficient landscape ordinance and submit a complete Landscape Documentation Package."</text>
             <para>
               <num>(2)</num>
               <text>Water budget calculations, if Project Applicant project elects to use a water budget approach rather than comply with the turf area limitations or specified plant type restrictions;</text>
@@ -711,8 +796,8 @@
           <para>
             <num>(h)</num>
             <text>Estimated total water use (ETWU) will be calculated using the equation below. The sum of the ETWU calculated for all hydrozones will not exceed the MAWA.</text>
+            <text>ETWU = (ETo)(0.62)<strong>(</strong>PF x HA<strong>)</strong> + SLA]</text>
           </para>
-          <text>ETWU = (ETo)(0.62)<strong>(</strong>PF x HA<strong>)</strong> + SLA]</text>
           <text>IE</text>
           <text>Where:</text>
           <text>ETWU= Estimated Total Water Use per year (gallons)</text>

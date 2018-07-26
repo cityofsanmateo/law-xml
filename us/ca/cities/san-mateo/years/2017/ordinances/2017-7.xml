@@ -9,18 +9,45 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-7</citation>
     </citations>
   </meta>
-  <text>WHEREAS, the procedures set forth in Article XIIID § 6 of the California State Constitution (Proposition 218) for property-related fees apply to sewer service charge increases; and</text>
-  <text>WHEREAS, the City is following the procedure set forth in Article XIIID § 6 for this Sewer Service Charge increase; and</text>
-  <text>WHEREAS, notice of the proposed Sewer Service Charge increase was mailed to ratepayers and property owners on May 1, 2017; and</text>
-  <text>WHEREAS, a public hearing regarding the proposed Sewer Service Charge is scheduled for June 19, 2017, at 7:00 p.m. in the San Mateo City Hall Council Chambers, located at 330 West 20th Avenue, San Mateo, at which all protests against the rate increase and other comments will be considered; and</text>
-  <text>WHEREAS, in accordance with Article XIIID § 6 of the California Constitution:</text>
-  <text>The revenues derived from the Sewer Service Charge do not exceed the funds required to provide sewer service because the rate increase is needed to fund ongoing sewer system operation and maintenance and meet capital expenditures,</text>
-  <text>The revenues derived from the Sewer Service Charge will not be used for any purpose other than the provision of sewer service,</text>
-  <text>The Sewer Service Charge will not exceed the cost of sewer service attributable to each parcel,</text>
-  <text>The Sewer Service Charge is only charged for sewer service that is actually used by or currently available to the parcel in question,</text>
-  <text>The Sewer Service Charge pays for the provision of sewer service and not for general governmental services; and</text>
-  <text>WHEREAS, <cite doc="City of San Mateo, Cal., Code" path="3.54.030">San Mateo Municipal Code section 3.54.030</cite> provides the Council shall annually establish the Sewer Service Charge by ordinance.</text>
-  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS THAT:</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the procedures set forth in Article XIIID § 6 of the California State Constitution (Proposition 218) for property-related fees apply to sewer service charge increases; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City is following the procedure set forth in Article XIIID § 6 for this Sewer Service Charge increase; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>notice of the proposed Sewer Service Charge increase was mailed to ratepayers and property owners on May 1, 2017; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a public hearing regarding the proposed Sewer Service Charge is scheduled for June 19, 2017, at 7:00 p.m. in the San Mateo City Hall Council Chambers, located at 330 West 20th Avenue, San Mateo, at which all protests against the rate increase and other comments will be considered; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in accordance with Article XIIID § 6 of the California Constitution:</text>
+      <text>
+        <ul proof="true">
+          <li>The revenues derived from the Sewer Service Charge do not exceed the funds required to provide sewer service because the rate increase is needed to fund ongoing sewer system operation and maintenance and meet capital expenditures,</li>
+          <li>The revenues derived from the Sewer Service Charge will not be used for any purpose other than the provision of sewer service,</li>
+          <li>The Sewer Service Charge will not exceed the cost of sewer service attributable to each parcel,</li>
+          <li>The Sewer Service Charge is only charged for sewer service that is actually used by or currently available to the parcel in question,</li>
+          <li>The Sewer Service Charge pays for the provision of sewer service and not for general governmental services; and</li>
+        </ul>
+      </text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Code" path="3.54.030">San Mateo Municipal Code section 3.54.030</cite> provides the Council shall annually establish the Sewer Service Charge by ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS THAT:</text>
+    </recital>
+  </recitals>
   <section>
     <num>1</num>
     <text>In accordance with California Environmental Quality Act guidelines section 15378(b)(4), introduction and adoption of this Ordinance is not a project subject to CEQA because the sewer service charge is a funding mechanism for the City sewer operations and capital projects.</text>

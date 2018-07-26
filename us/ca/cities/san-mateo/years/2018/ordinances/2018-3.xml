@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2018-3">
+  <num>2018-3</num>
+  <heading/>
+  <meta>
+    <effective>2018-01-01</effective>
+    <citations>
+      <citation type="ord" url="https://www.cityofsanmateo.org/DocumentCenter/View/64934">Ord. No. 2018-3</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2018-3</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Municipal Code section 27.06.080 currently incorporates State Planning and Zoning Law into the City's Zoning Code, with several exceptions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Senate Bill 166 recently amended Government Code section 65863, which is part of the State Planning and Zoning Law; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as amended, Government Code Section 65863 provides that if a reduction in residential density for any parcel would result in the remaining sites in the housing element not being adequate to accommodate the jurisdiction's share of the regional housing need pursuant to Section 65584, the jurisdiction may reduce the density on that parcel if it identifies sufficient additional, adequate, and available sites with an equal or greater residential density in the jurisdiction so that there is no net loss of residential unit capacity for each income category; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>where the approval of a development project results in fewer units by income category than identified in the housing element for that parcel and the remaining sites in the housing element are not adequate to accommodate the jurisdiction's share of the regional housing need by income category, Government Code section 65863, as amended, will require a city to identify and make available additional adequate sites within 180 days; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo is a charter city but has incorporated Government Code section 65863 by ordinance and is therefore subject to its requirements unless the City amends its Zoning Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Government Code Section 65863 does not apply to charter cities such as the City of San Mateo unless incorporated by reference; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>staff recommends excluding Government Code Section 65863 from the State Planning and Zoning Laws that have been incorporated into the Municipal Code by reference in order to provide the City with more flexibility in how the City addresses its Regional Housing Needs Allocation (RHNA); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>with regard to density bonuses, the State Legislature has amended Government Code section 65915 to change the grounds upon which a requested incentive or concession may be denied; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>staff recommends amending the City's density bonus ordinance to match the state law amendments; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>for ease of reference, staff recommends that the City's density bonus ordinance be located in its own Chapter of the Zoning Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>staff recommends making other minor adjustments to the City's density bonus ordinance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Assembly Bill 494 amends Government Code Section 65852.2 effective January 1, 2018; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as amended, Government Code Section 65852.2 provides that parking requirements for accessory dwelling units cannot exceed one parking space per unit or per bedroom, whichever is less; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as amended, Government Code Section 65852.2 provides that parking cannot be required when a car share vehicle is located within one block of an accessory dwelling unit; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as amended, Government Code Section 65852.2 provides that any local ordinance in conflict with the Bill's provisions is void; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it is necessary to amend the City's Accessory Dwelling Unit Ordinance in order to make it conform with Government Code Section 65852.2, as amended; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, HEREBY ORDAINS that:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Section 27.06.080, "State Planning and Zoning Regulations," is amended to read as follows:</text>
+    <text>(a.) Chapters 3 and 4 of Title 7 of the California Government Code, commencing with Section 65100 thereof, are incorporated into this Title and made a part hereof by this reference, with the following exceptions:</text>
+    <para>
+      <num>(1)</num>
+      <text>Amendments to the general plan may be processed simultaneously with related zoning amendments and/or discretionary permits; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>There shall be no limit on the number of times the general plan may be amended in a calendar year;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>No notice required to be published need be published in more than one issue of any newspaper;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Procedures for the enactment of zoning ordinances, including interim zoning ordinances/moratoria, are not incorporated; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Government Code section 65863 is not incorporated by reference.</text>
+    </para>
+    <text>(b.) In the event of conflicts now or in the future, between these provisions of the California Government Code and City ordinances, resolutions, or Council policy, the latter shall prevail."</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Section 27.16.060, "Density Bonus," of Chapter 27.16, "Residence Districts," is relocated to a new Chapter 27.15, "Density Bonus," of <cite doc="City of San Mateo, Cal., Code" path="27">Title 27 of the San Mateo Municipal Code</cite> and will read as follows:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>27.15</num>
+        <heading>DENSITY BONUS</heading>
+        <toc>
+          <heading>Sections:</heading>
+          <section>
+            <num>27.15.010</num>
+            <heading>Purpose.</heading>
+          </section>
+          <section>
+            <num>27.15.020</num>
+            <heading>Applicability.</heading>
+          </section>
+          <section>
+            <num>27.15.030</num>
+            <heading>Definitions.</heading>
+          </section>
+          <section>
+            <num>27.15.050</num>
+            <heading>Waivers and Modifications of Development Standards.</heading>
+          </section>
+          <section>
+            <num>27.15.060</num>
+            <heading>Application Procedure.</heading>
+          </section>
+          <section>
+            <num>27.15.070</num>
+            <heading>Affordable Housing Agreement.</heading>
+          </section>
+        </toc>
+        <section>
+          <num>27.15.010</num>
+          <heading>Purpose.</heading>
+          <text>The purpose of this section is to comply with the state density bonus law (California Government Code section 65915) and to implement the housing element of the San Mateo General Plan, by providing increased residential densities for projects that guarantee that a portion of the housing units will be affordable to very low, low, or moderate-income households, provide senior citizen housing, or include child care facilities.</text>
+        </section>
+        <section>
+          <num>27.15.020</num>
+          <heading>Applicability.</heading>
+          <text>The provisions of this section apply to the construction of five or more housing units that satisfy one or more of the following criteria:</text>
+          <para>
+            <num>(a)</num>
+            <text>At least ten percent of the total units are designated for low income households.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>At least five percent of the total units are designated for very low income households.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A senior citizen housing development as defined in Section 51.3 of the Civil Code.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>At least ten percent of the total units in a condominium project as defined in subdivision (e) of, or in a planned development as defined in subdivision (k) of, Section 1351 of the Civil Code, are designated for moderate income households, provided that all units in the development are offered to the public for purchase.</text>
+          </para>
+        </section>
+        <section>
+          <num>27.15.030</num>
+          <heading>Definitions.</heading>
+          <text>The following terms are defined for purpose of this section:</text>
+          <para>
+            <num>(a)</num>
+            <text>"Density bonus" means a density increase, in the amount prescribed by Government Code section 65915, over the otherwise maximum allowable residential density as of the date the application is accepted as complete.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Low income household" has the meaning set forth in Health and Safety Code section 50079.5 and is a household whose income is equal to or less than eighty percent of the area median income, as published by the California Department of Housing and Community Development.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Moderate income household" has the meaning set forth in Health and Safety Code section 50093 and is a household whose income is equal to or less than one hundred twenty percent of the area median income, as published by the California Department of Housing and Community Development.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Senior citizens" means qualifying residents as defined in Section 51.3 of the Civil Code.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"Very low income household" has the meaning set forth in Health and Safety Code section 50105 and means a household whose income is equal to or less than fifty percent of the area median income, as published by the California Department of Housing and Community Development.</text>
+          </para>
+        </section>
+        <section>
+          <num>27.15.040</num>
+          <heading>Incentives and Concessions.</heading>
+          <para>
+            <num>(a)</num>
+            <text>City to grant. When an applicant qualifies for a density bonus as prescribed by Government Code section 65915, the City will grant the number of incentives or concessions required by that section unless it makes one of the following findings:</text>
+            <para>
+              <num>(1)</num>
+              <text>The concession or incentive does not result in identifiable and actual cost reductions to provide for affordable housing costs, as defined in Section 50052.3 of the Health and Safety Code, or for rents for the targeted units to be set as specified in Section 65915(c) of the Government Code.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The concession or incentive would have a specific adverse impact, as defined in Government Code Section 65589.5 (d)(2), upon public health and safety or the physical environment or on any real property that is listed in the California Register of Historical Resources and there is no feasible method to satisfactorily mitigate or avoid the specific adverse impact without rendering the development unaffordable to low- and moderate-income households.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The concession or incentive would be contrary to state or federal law.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The following incentives and concessions are deemed not to have the adverse impact set forth in section (a)(2) above:</text>
+            <para>
+              <num>(1)</num>
+              <text>Reduced setbacks or buffers so long as the project remains consistent with the City's General Plan and any applicable design guidelines;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Increased maximum lot coverage so long as the project remains consistent with the City's General Plan and any applicable design guidelines;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Increased maximum Floor Area Ratio so long as the project remains consistent with the City's General Plan and any applicable design guidelines;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Reduction in parking standards for residential units beyond that set forth in Government Code section 65915(p); and</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>In addition to the additional density bonus provided in accordance with Government Code section 65915(g) for land donations within ¼ mile of an applicant's project, provision of the additional density bonus set forth in Government Code section 65915(g) for land dedicated to the City that is located within ½ mile of the applicant's project so long as the applicant demonstrates to the City's satisfaction that building the requisite number of affordable units on-site is infeasible and there is an identified source of funding for the very low income units.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The City will not, however, provide any direct financial assistance, waive fees or dedication requirements, or provide publicly owned land for a housing development as an incentive or concession.</text>
+          </para>
+        </section>
+        <section>
+          <num>27.15.050</num>
+          <heading>Waivers and Modifications of Development Standards.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Proposal. In accordance with Government Code section 65915(e), an applicant may propose waiver or modification of development standards if they would physically preclude the construction of a development meeting the criteria of section 65915(b) at the densities or with the concessions or incentives permitted by section 65915.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Grounds for Denial. In accordance with Government Code section 65915(e), the City may deny an applicant's request to waive or modify the City's development standards in any of the following circumstances:</text>
+            <para>
+              <num>(1)</num>
+              <text>The application does not conform with the requirements of this section or Government Code section 65915.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The applicant fails to demonstrate that the City's development standards physically preclude the utilization of a density bonus on a specific site.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The waiver or reduction would have a specific, adverse impact, as defined in Government Code section 65589.5(d)(2), upon health, safety, or the physical environment, and there is no feasible method to satisfactorily mitigate or avoid the specific adverse impact.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The waiver or reduction would have an adverse impact on any real property that is listed in the California Register of Historical Resources.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>27.15.060</num>
+          <heading>Application Procedure.</heading>
+          <para>
+            <num>(a)</num>
+            <text>An applicant requesting a density bonus, incentive or concession, or waiver or modification of development standards, in accordance with this section must submit a written request with any application for a planning approval at the time the planning application is filed. The written request must include the following information:</text>
+            <para>
+              <num>(1)</num>
+              <text>The number of proposed affordable housing units;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Whether or not the applicant is proposing the use of state density bonus law parking standards;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>the specific incentive(s) or concession(s) sought, if any;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>the specific waiver or modification to development standards sought, if any;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>if seeking an incentive or concession, documentation required by the Director of Community Development or his or her designee regarding the identifiable and actual cost reduction to provide affordable housing costs or rents;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>if seeking a waiver or modification of development standards, documentation required by the Director of Community Development or his or her designee regarding the necessity of the waiver or modification, including documentation demonstrating that the City's development standards physically preclude the utilization of a density bonus;</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>If requesting a density bonus based on land donation in accordance with Government Code section 65915(g), the applicant must submit information sufficient to permit the City to determine that the proposed donation conforms with the requirements of section 65915(g) and this Code;</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>If requesting a density bonus based on the provision of a child care facility, the applicant must:</text>
+              <para>
+                <num>(A)</num>
+                <text>Provide the location of the proposed child care facility and the proposed operator;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Agree to operate the child care facility for a period of time that is as long as or longer than the period of time during which the density bonus units are required to remain affordable;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Agree to have contracted with a child care facility operator for operation of the child care facility before the first building permit is issued; and</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Agree that the child care facility will be in operation when the first certificate of occupancy is issued.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Action on Application. The density bonus request will be processed with the planning application and the body with approval authority for the planning approval sought will approve, deny or modify the incentive or concession as a part of the overall project approval.</text>
+          </para>
+        </section>
+        <section>
+          <num>27.15.070</num>
+          <heading>Affordable Housing Agreement.</heading>
+          <text>Prior to the issuance of a building permit for any dwelling unit in a development for which a density bonus has been awarded, the developer must enter into an Affordable Housing Agreement. The Agreement will run with the land, be binding upon successors in interest, and be recorded with the County Recorder. (Ord. 2009-1 § 1, 2009; Ord. 2002-3 § 1, 2002).</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Subsection (k)(1) of Section 27.19.050, "Development Standards," of Chapter 27.19, "Accessory Dwelling Unit and Junior Accessory Dwelling Unit – Residential Zones," is amended to read as follows:</text>
+    <para>
+      <num>1.</num>
+      <text>General Requirements. There shall be a minimum of one (1) standard size off-street parking space for each accessory dwelling unit or bedroom, whichever is less. The required accessory dwelling unit parking may be located in a garage, carport, uncovered or tandem space.  In addition, the required parking for the primary residential dwelling unit must comply with current code standards, as specified by the underlying zoning district. "</text>
+    </para>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Subsection (k)(5) of Section 27.19.050, "Development Standards," is amended to read as follows:</text>
+    <include proof="true">
+      <para>
+        <num>5.</num>
+        <text>Parking Exemptions.  No additional parking shall be required for an accessory dwelling unit in the following instances:</text>
+        <para>
+          <num>a.</num>
+          <text>The accessory dwelling unit is located within one-half (1/2) mile of public transit stop;</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The accessory dwelling unit is located within an architecturally and historically significant historic district;</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The accessory dwelling unit is in part of the existing legally permitted primary residence or an existing legally permitted accessory structure;</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>In an area requiring on-street parking, permits are required but not offered to the occupant of the accessory dwelling unit;</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>When the accessory dwelling unit is located within one block of a car sharing pick-up/drop-off location.</text>
+        </para>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><strong>Severability.</strong>  In the event that any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.  It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <text><strong>Environmental Determination.</strong> In accordance with the California Environmental Quality Act (CEQA) Guidelines, Section 21080.17, the proposed amendments to Chapter 27.19 are statutorily exempt from CEQA as an amendment to implement the provisions of Section 65852.2 of the Government Code.  In accordance with Public Resources Code section 21080, the other amendments proposed to the City's Zoning Code are not a "project" subject to CEQA in that they will not impact the environment.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <text><strong>Publication and Effective Date.  </strong>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's office and posted on the City's Website, all in accord with Section 2.15 of the City Charter.  This Ordinance was introduced on March 19, 2018 and adopted on April 16, 2018 and shall be effective 30 days after adoption.</text>
+  </section>
+</document>

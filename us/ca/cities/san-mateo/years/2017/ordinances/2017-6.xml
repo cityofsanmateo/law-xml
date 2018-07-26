@@ -9,11 +9,28 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-6</citation>
     </citations>
   </meta>
-  <text>WHEREAS, the City of San Mateo has investigated options to provide for the use of digital signatures to cut down on the paper, time and costs associated with transmitting and approving physical documents and to offer an easily accessible audit trail of when documents were modified and when they were signed; and</text>
-  <text>WHEREAS, California Government Code §16.5 and California Code of Regulations sections §22000 to §22005 allow and regulate the use of digital signatures for public entities when certain conditions are met; and</text>
-  <text>WHEREAS, San Mateo Charter section 5.20 provides that the City Manager is charged with purchasing and contracting in a manner prescribed by ordinance; and</text>
-  <text>WHEREAS, the City desires to accept digital signatures on city documents;</text>
-  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo has investigated options to provide for the use of digital signatures to cut down on the paper, time and costs associated with transmitting and approving physical documents and to offer an easily accessible audit trail of when documents were modified and when they were signed; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>California Government Code §16.5 and California Code of Regulations sections §22000 to §22005 allow and regulate the use of digital signatures for public entities when certain conditions are met; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>San Mateo Charter section 5.20 provides that the City Manager is charged with purchasing and contracting in a manner prescribed by ordinance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City desires to accept digital signatures on city documents;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+    </recital>
+  </recitals>
   <section>
     <num>1</num>
     <heading>AUTHORIZATION TO IMPLEMENT A DIGITAL SIGNATURE SYSTEM.</heading>

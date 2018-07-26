@@ -9,11 +9,28 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2016-7</citation>
     </citations>
   </meta>
-  <text>WHEREAS,	the State of California has enacted a minimum wage that will reach $15.00 per hour in January of 2022; and</text>
-  <text>WHEREAS, 	in an effort to help working households achieve economic security and acknowledging the higher relative cost of living on the Peninsula, the City Council of the City of San Mateo wishes to enact a citywide minimum wage to reach $15.00 per hour before 2022; and</text>
-  <text>WHEREAS, 	a higher minimum wage rate protects public health, safety and welfare by requiring that employees are compensated in such a manner as to enable and facilitate their individual self-reliance within the City of San Mateo; and</text>
-  <text>WHEREAS,	the City of San Mateo may adopt a higher minimum wage pursuant to the powers vested in the City under the laws and Constitution of the State of California including but not limited to the police powers vested in the City pursuant to Article XI, Section 7, of the California Constitution;</text>
-  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the State of California has enacted a minimum wage that will reach $15.00 per hour in January of 2022; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in an effort to help working households achieve economic security and acknowledging the higher relative cost of living on the Peninsula, the City Council of the City of San Mateo wishes to enact a citywide minimum wage to reach $15.00 per hour before 2022; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a higher minimum wage rate protects public health, safety and welfare by requiring that employees are compensated in such a manner as to enable and facilitate their individual self-reliance within the City of San Mateo; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo may adopt a higher minimum wage pursuant to the powers vested in the City under the laws and Constitution of the State of California including but not limited to the police powers vested in the City pursuant to Article XI, Section 7, of the California Constitution;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+    </recital>
+  </recitals>
   <section>
     <num>1</num>
     <heading>PURPOSE AND INTENT.</heading>
@@ -177,38 +194,53 @@
           <para>
             <num>(b)</num>
             <text>Private Rights of Action.</text>
-            <text>An Employee claiming harm from a violation of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite> may bring an action against the Employer in court to enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite> and shall be entitled to all remedies available to correct any violation of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>, including but not limited to, back pay, reinstatement, injunctive relief, or civil penalties as provided herein.  An Employee who is a prevailing party in an action to enforce <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite> is entitled to an award of reasonable attorney fees, witness fees, and costs.</text>
+          </para>
+          <text>An Employee claiming harm from a violation of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite> may bring an action against the Employer in court to enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite> and shall be entitled to all remedies available to correct any violation of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>, including but not limited to, back pay, reinstatement, injunctive relief, or civil penalties as provided herein.  An Employee who is a prevailing party in an action to enforce <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite> is entitled to an award of reasonable attorney fees, witness fees, and costs.</text>
+          <para>
+            <num>(c)</num>
             <text>Remedies.</text>
-            <text>The remedies for violation of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite> include but are not limited to:</text>
             <para>
-              <num>(A)</num>
-              <text>Reinstatement, the payment of back wages unlawfully withheld, and payment of an additional sum as a civil penalty in the amount of $50 to each Employee whose rights under <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite> were violated for each day or portion thereof that the violation occurred or continued, and fines imposed pursuant to other provisions of this Code or state law.</text>
+              <num>(1)</num>
+              <text>The remedies for violation of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite> include but are not limited to:</text>
+              <para>
+                <num>(A)</num>
+                <text>Reinstatement, the payment of back wages unlawfully withheld, and payment of an additional sum as a civil penalty in the amount of $50 to each Employee whose rights under <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite> were violated for each day or portion thereof that the violation occurred or continued, and fines imposed pursuant to other provisions of this Code or state law.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Interest on all due and unpaid wages at the rate of interest specified in subdivision (b) of Section 3289 of the California Civil Code, which shall accrue from the date that the wages were due and payable as provided in Part 1 (commencing with Section 200) of Division 2 of the California Labor Code, to the date the wages are paid in full.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Reimbursement of the City's administrative costs of enforcement and reasonable attorney fees.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>The City may require the Employer to pay an additional sum as a civil penalty in the amount of $50 to the City for each Employee or person whose rights, under <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>, were violated for each day or portion thereof that the violation occurred or continued, and fines imposed pursuant to other provisions of this Code or state law, where there has been a previous violation of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>.</text>
+              </para>
             </para>
             <para>
-              <num>(B)</num>
-              <text>Interest on all due and unpaid wages at the rate of interest specified in subdivision (b) of Section 3289 of the California Civil Code, which shall accrue from the date that the wages were due and payable as provided in Part 1 (commencing with Section 200) of Division 2 of the California Labor Code, to the date the wages are paid in full.</text>
-            </para>
-            <para>
-              <num>(C)</num>
-              <text>Reimbursement of the City's administrative costs of enforcement and reasonable attorney fees.</text>
-            </para>
-            <para>
-              <num>(D)</num>
-              <text>The City may require the Employer to pay an additional sum as a civil penalty in the amount of $50 to the City for each Employee or person whose rights, under <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>, were violated for each day or portion thereof that the violation occurred or continued, and fines imposed pursuant to other provisions of this Code or state law, where there has been a previous violation of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>.</text>
+              <num>(2)</num>
               <text>The remedies, penalties and procedures provided under <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite> are cumulative and are not intended to be exclusive of any other available remedies, penalties and procedures established by law which may be pursued to address violations of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>.  Actions taken pursuant to <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite> shall not prejudice or adversely affect any other action, administrative or judicial, that may be brought to abate a violation or to seek compensation for damages suffered.</text>
-              <text>Retaliation Barred.</text>
-              <para>
-                <num>(1)</num>
-                <text>An Employer shall not discharge, reduce the compensation or otherwise retaliate against any Employee for making a complaint to the City, participating in any of the City's proceedings, using any civil remedies to enforce his or her rights, or otherwise asserting his or her rights under <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>.  Within 120 days of an Employer being notified of such activity, it shall be unlawful for the Employer to discharge any Employee who engaged in such activity unless the Employer has clear and convincing evidence of just cause for such discharge.</text>
-              </para>
-              <para>
-                <num>(2)</num>
-                <text>No Employer may fund increases in compensation required by <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>, nor otherwise respond to the requirements of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>, by reducing the wage rate paid to any Employee, nor by increasing charges to them for parking, meals, uniforms or other items, nor by reducing the citation or other non-wage benefits of any such Employee, except to the extent such prohibition would be pre-empted by the Federal Employee Retirement Income Security Act.</text>
-              </para>
-              <text>Retention of Records.</text>
-              <text>Each Employer shall maintain for at least three years for each Employee, a record of his or her name, hours worked and pay rate.  Each Employer shall provide each Employee a copy of the records relating to such Employee upon the Employee's reasonable request.</text>
             </para>
           </para>
+          <para>
+            <num>(d)</num>
+            <text>Retaliation Barred.</text>
+            <para>
+              <num>(1)</num>
+              <text>An Employer shall not discharge, reduce the compensation or otherwise retaliate against any Employee for making a complaint to the City, participating in any of the City's proceedings, using any civil remedies to enforce his or her rights, or otherwise asserting his or her rights under <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>.  Within 120 days of an Employer being notified of such activity, it shall be unlawful for the Employer to discharge any Employee who engaged in such activity unless the Employer has clear and convincing evidence of just cause for such discharge.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>No Employer may fund increases in compensation required by <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>, nor otherwise respond to the requirements of <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>, by reducing the wage rate paid to any Employee, nor by increasing charges to them for parking, meals, uniforms or other items, nor by reducing the citation or other non-wage benefits of any such Employee, except to the extent such prohibition would be pre-empted by the Federal Employee Retirement Income Security Act.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Retention of Records.</text>
+          </para>
+          <text>Each Employer shall maintain for at least three years for each Employee, a record of his or her name, hours worked and pay rate.  Each Employer shall provide each Employee a copy of the records relating to such Employee upon the Employee's reasonable request.</text>
         </section>
         <section>
           <num>5.92.060</num>

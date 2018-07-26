@@ -9,11 +9,28 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2016-2</citation>
     </citations>
   </meta>
-  <text>WHEREAS,	the use of vehicles for habitation poses a risk to the health, safety, and welfare of persons habituating in the vehicle as well as the general public; and</text>
-  <text>WHEREAS, the City of San Mateo has historically prohibited the use of vehicles for habitation purposes, or "lodging";</text>
-  <text>WHEREAS, in June 2014 the Ninth Circuit Court of Appeals recently invalidated a City of Los Angeles vehicle habitation ordinance as unconstitutionally vague (Desertrain v. City of Los Angeles, 754 F. 3d 1147); and</text>
-  <text>WHEREAS, City Staff analyzed the San Mateo's vehicle habitation ordinance in light of the "Desertrain" decision and recommends certain amendments to provide a clearer and more comprehensive definition of "lodging"; and</text>
-  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the use of vehicles for habitation poses a risk to the health, safety, and welfare of persons habituating in the vehicle as well as the general public; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo has historically prohibited the use of vehicles for habitation purposes, or "lodging";</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in June 2014 the Ninth Circuit Court of Appeals recently invalidated a City of Los Angeles vehicle habitation ordinance as unconstitutionally vague (Desertrain v. City of Los Angeles, 754 F. 3d 1147); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>City Staff analyzed the San Mateo's vehicle habitation ordinance in light of the "Desertrain" decision and recommends certain amendments to provide a clearer and more comprehensive definition of "lodging"; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+    </recital>
+  </recitals>
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="10.04">Chapter 10.04.140 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>

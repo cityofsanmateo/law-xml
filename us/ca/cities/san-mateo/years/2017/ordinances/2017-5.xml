@@ -9,18 +9,56 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-5</citation>
     </citations>
   </meta>
-  <text>WHEREAS, the availability of housing is a substantial concern for individuals of all demographics, ages, and economic backgrounds in communities throughout the State of California; and</text>
-  <text>WHEREAS, accessory dwelling units and junior accessory dwelling units offer lower cost housing to meet the needs of existing and future residents within existing neighborhoods, while respecting architectural character; and</text>
-  <text>WHEREAS, in September 2016, the Legislature passed new laws including AB 2299, SB 1069, and AB 2406 intended to increase the number of accessory dwelling units and junior accessory dwelling units by simplifying the approval process and reducing costs associated with their creation, developing new standards and regulations, and modifying the City's ability to regulate accessory dwelling units; and</text>
-  <text>WHEREAS, the State of California has established that a local agency may, by ordinance, provide for the creation of accessory dwelling units and junior accessory dwelling units in single family residential zones and that that ordinance must designate areas within its jurisdiction where accessory dwelling units may be permitted; and</text>
-  <text>WHEREAS, accessory dwelling units and junior accessory dwelling units are residential uses consistent with existing residential zoning and General Plan designations; and</text>
-  <text>WHEREAS, the proposed accessory dwelling unit and junior accessory dwelling unit provisions and standards would implement Housing Element, Goal 2, "Provide a diversity of housing types, responsive to household size, income and age needs;" and</text>
-  <text>WHEREAS, the proposed accessory dwelling unit and junior accessory dwelling unit provisions and standards would implement Housing Element, Policy H2.7, "Allow creation of secondary units on residentially zoned properties to provide opportunities for affordable rental units or to allow housing for the extended families.  Require that the design of secondary units be compatible with the main residence and neighborhood, provide adequate on-site usable open space and parking, and not infringe upon the privacy of adjoining properties"; and</text>
-  <text>WHEREAS, the proposed Zoning Code amendments comply with the legislative amendments made in 2016 to Government Code Section 65852.2 which establishes standards for the development of accessory dwelling units and junior accessory dwelling units so as to increase the supply of smaller and affordable housing while ensuring that they remain compatible with the existing neighborhood; and</text>
-  <text>WHEREAS, on December 13, 2016, the Planning Commission held a duty noticed public hearing, received the staff report and reviewed a presentation by the Planning Division, and received comments from the public and interested parties; and</text>
-  <text>WHEREAS, on February 6, 2017, City Council of the City of San Mateo introduced Ordinance No. 2017- ---, 'Amending <cite doc="City of San Mateo, Cal., Code" path="27">Title 27 of the San Mateo Municipal Code</cite>, Related to Accessory Dwelling Units and Junior Accessory Dwelling Units in Residential Districts; and</text>
-  <text>WHEREAS, the proposed Ordinance also includes minor edits to clarify other Zoning Code provisions; and</text>
-  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, HEREBY ORDAINS that:</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the availability of housing is a substantial concern for individuals of all demographics, ages, and economic backgrounds in communities throughout the State of California; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>accessory dwelling units and junior accessory dwelling units offer lower cost housing to meet the needs of existing and future residents within existing neighborhoods, while respecting architectural character; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in September 2016, the Legislature passed new laws including AB 2299, SB 1069, and AB 2406 intended to increase the number of accessory dwelling units and junior accessory dwelling units by simplifying the approval process and reducing costs associated with their creation, developing new standards and regulations, and modifying the City's ability to regulate accessory dwelling units; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the State of California has established that a local agency may, by ordinance, provide for the creation of accessory dwelling units and junior accessory dwelling units in single family residential zones and that that ordinance must designate areas within its jurisdiction where accessory dwelling units may be permitted; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>accessory dwelling units and junior accessory dwelling units are residential uses consistent with existing residential zoning and General Plan designations; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed accessory dwelling unit and junior accessory dwelling unit provisions and standards would implement Housing Element, Goal 2, "Provide a diversity of housing types, responsive to household size, income and age needs;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed accessory dwelling unit and junior accessory dwelling unit provisions and standards would implement Housing Element, Policy H2.7, "Allow creation of secondary units on residentially zoned properties to provide opportunities for affordable rental units or to allow housing for the extended families.  Require that the design of secondary units be compatible with the main residence and neighborhood, provide adequate on-site usable open space and parking, and not infringe upon the privacy of adjoining properties"; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed Zoning Code amendments comply with the legislative amendments made in 2016 to Government Code Section 65852.2 which establishes standards for the development of accessory dwelling units and junior accessory dwelling units so as to increase the supply of smaller and affordable housing while ensuring that they remain compatible with the existing neighborhood; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on December 13, 2016, the Planning Commission held a duty noticed public hearing, received the staff report and reviewed a presentation by the Planning Division, and received comments from the public and interested parties; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on February 6, 2017, City Council of the City of San Mateo introduced Ordinance No. 2017- ---, 'Amending <cite doc="City of San Mateo, Cal., Code" path="27">Title 27 of the San Mateo Municipal Code</cite>, Related to Accessory Dwelling Units and Junior Accessory Dwelling Units in Residential Districts; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed Ordinance also includes minor edits to clarify other Zoning Code provisions; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, HEREBY ORDAINS that:</text>
+    </recital>
+  </recitals>
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04, "Definitions", of the San Mateo Municipal Code</cite> is amended to amend Sections 27.04.133, "Cooking Facility/Kitchen," and 27.04.165, "Dwelling," and to add new Sections 27.04.172, "Efficiency Food Preparation Area," and 27.04.494, " "Wetbar," as follows:</text>
@@ -78,7 +116,9 @@
   <section>
     <num>3</num>
     <text>Subsection (b) of Section 27.18.020, "Permitted Uses", of Chapter 27.18, "R1 Districts – One Family Dwellings", is amended to read as follows:</text>
-    <text>"(b) 	Accessory dwelling units and junior accessory dwelling units subject to the provisions of Chapter 27.19."</text>
+    <include proof="true">
+      <text>"(b) 	Accessory dwelling units and junior accessory dwelling units subject to the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite>."</text>
+    </include>
   </section>
   <section>
     <num>4</num>
@@ -462,9 +502,13 @@
             <para>
               <num>(i)</num>
               <text>Building and Fire Requirements.</text>
+              <text>
+                <ul proof="true">
+                  <li>No fire wall separation or noise attenuation measures are required between the main dwelling and the junior accessory dwelling unit.  No fire sprinklers are required for the junior accessory dwelling unit, unless the associated improvements meet the threshold for a "substantial remodel" as defined by Chapter 23, Building and Construction, of the San Mateo Municipal Code. The junior accessory dwelling unit shall have an adjoining door connected to the main living area for fire separation.  A smoke alarm shall be required in the junior accessory dwelling unit and shall be connected to the smoke alarm in the main residence.</li>
+                  <li>The junior accessory dwelling unit shall be equipped with a carbon monoxide detector.</li>
+                </ul>
+              </text>
             </para>
-            <text>No fire wall separation or noise attenuation measures are required between the main dwelling and the junior accessory dwelling unit.  No fire sprinklers are required for the junior accessory dwelling unit, unless the associated improvements meet the threshold for a "substantial remodel" as defined by Chapter 23, Building and Construction, of the San Mateo Municipal Code. The junior accessory dwelling unit shall have an adjoining door connected to the main living area for fire separation.  A smoke alarm shall be required in the junior accessory dwelling unit and shall be connected to the smoke alarm in the main residence.</text>
-            <text>The junior accessory dwelling unit shall be equipped with a carbon monoxide detector.</text>
             <para>
               <num>(j)</num>
               <text>Utility Service.  A separate water connection, a separate sewer service connection, and power connection as water, sewer, and power service is not required for a junior accessory dwelling unit.</text>
@@ -560,6 +604,5 @@
     <num>8</num>
     <heading>PUBLICATION AND EFFECTIVE DATE.</heading>
     <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's office and posted on the City's Website, all in accord with Section 2.15 of the City Charter.</text>
-    <text>This Ordinance was introduced on February 6, 2017, and adopted on March 6, 2017, and shall be effective 30 days after adoption.</text>
   </section>
 </document>

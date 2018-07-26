@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2018-1">
+  <num>2018-1</num>
+  <heading>ESTABLISHING THE SEWER SERVICE CHARGE FOR FISCAL YEARS 2018-2019 THROUGH 2022-2023 AND AMENDING CHAPTER 3.54 OF THE SAN MATEO MUNICIPAL CODE</heading>
+  <meta>
+    <effective>2018-01-01</effective>
+    <citations>
+      <citation type="ord" url="https://www.cityofsanmateo.org/DocumentCenter/View/64932">Ord. No. 2018-1</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2018-1</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the procedures set forth in Article XIIID § 6 of the California State Constitution (Proposition 218) for property-related fees apply to sewer service charge increases; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City is following the procedure set forth in Article XIIID § 6 for this Sewer Service Charge increase; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>notice of the proposed Sewer Service Charge increase was mailed to ratepayers and property owners on January 11 and 12, 2018, 53 and 52 days respectively prior to the scheduled public hearing on the proposed increase; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a public hearing regarding the proposed Sewer Service Charge is scheduled for March 5, 2018, at 7:00 p.m. in the San Mateo City Hall Council Chambers, located at 330 West 20th Avenue, San Mateo, at which all protests against the rate increase and other comments will be considered; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in accordance with Article XIIID § 6 of the California Constitution, the Council finds that:</text>
+      <para>
+        <num>a.</num>
+        <text>The revenues derived from the Sewer Service Charge do not exceed the funds required to provide sewer service because the rate increase is needed to fund ongoing sewer system and wastewater treatment plant operation and maintenance and meet capital expenditures,</text>
+      </para>
+      <para>
+        <num>b.</num>
+        <text>The revenues derived from the Sewer Service Charge will not be used for any purpose other than the provision of sewer and wastewater treatment service,</text>
+      </para>
+      <para>
+        <num>c.</num>
+        <text>The Sewer Service Charge will not exceed the cost of sewer and wastewater treatment service attributable to each parcel,</text>
+      </para>
+      <para>
+        <num>d.</num>
+        <text>The Sewer Service Charge is only charged for sewer and wastewater treatment service that is actually used by or currently available to the parcel in question,</text>
+      </para>
+      <para>
+        <num>e.</num>
+        <text>The Sewer Service Charge pays for the provision of sewer and wastewater treatment service and not for general governmental services; and</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Code" path="3.54.030">San Mateo Municipal Code section 3.54.030</cite> provides the Council shall establish the annual Sewer Service Charge by ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS THAT:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Chapter 3.54 of the Municipal Code is hereby amended as follows:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>3.54</num>
+        <heading>SEWER SERVICE CHARGES AND CONNECTION CHARGES</heading>
+        <toc>
+          <heading>Sections:</heading>
+          <section>
+            <num>3.54.010</num>
+            <heading>Purpose; Administration.</heading>
+          </section>
+          <section>
+            <num>3.54.020</num>
+            <heading>Definitions.</heading>
+          </section>
+          <section>
+            <num>3.54.030</num>
+            <heading>Sewer service charges.</heading>
+          </section>
+          <section>
+            <num>3.54.040</num>
+            <heading>Collection of charges.</heading>
+          </section>
+          <section>
+            <num>3.54.050</num>
+            <heading>Lien for charges.</heading>
+          </section>
+          <section>
+            <num>3.54.060</num>
+            <heading>Sewer connection charge.</heading>
+          </section>
+          <section>
+            <num>3.54.070</num>
+            <heading>Sewer service fund.</heading>
+          </section>
+          <section>
+            <num>3.54.080</num>
+            <heading>South Trunk Sewer Area impact fee.</heading>
+          </section>
+        </toc>
+        <section>
+          <num>3.54.010</num>
+          <heading>PURPOSE; ADMINISTRATION.</heading>
+          <text>The purpose and intent of <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite> is to provide for sewer service charges and connection charges to be imposed upon the owner(s) of every parcel of land within the City served by the City's sanitary sewer system and wastewater treatment plant.</text>
+          <text><cite doc="City of San Mateo, Cal., Code" path="3.54">This chapter</cite> shall be interpreted and administered in accordance with the provisions of Article XIIID of the Constitution of the State of California and sections 53750 through 53758 of the Government Code.</text>
+          <text>The Director of Public Works is authorized to administer and enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite> and shall adopt regulations necessary to effectuate such authority.</text>
+        </section>
+        <section>
+          <num>3.54.020</num>
+          <heading>DEFINITIONS.</heading>
+          <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite>, the following words and phrases shall have the following meanings:</text>
+          <para>
+            <num>(a)</num>
+            <text>"Commercial" means all uses other than residential.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Connection" means each separate residential, lodging, or commercial and industrial, and institutional unit connected to an internal plumbing drainage system or external sewer lateral.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Customer class" means or represents the structure or designation by which a user is classified based on industry standards for wastewater strength, as measured by biochemical oxygen demand (BOD) and suspended solids (SS). There are five customer classes, one for residential and four for commercial customers. Customer classes are further defined as shown below.</text>
+            <para>
+              <num>(1)</num>
+              <text>Class A – Standard Strength. All residential users including, but not limited to, single-family dwelling units, duplex units, and multi-family dwelling units.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Class B – Standard Strength. Commercial users, including, but not limited to, offices, retail establishments, hotel and motels without restaurants, mixed uses (high strength comprises &lt; 25% of flow).</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Class C – Moderate Strength. Commercial users, including, but not limited to, hotels and motels with restaurants, industrial laundries, mixed use (high strength comprises 25% to 75% of flow), supermarkets with food preparation, bakeries, meat or seafood counters.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Class D – High Strength. Commercial users, including, but not limited to, restaurants, wholesale bakeries, mortuaries, mixed use (high strength comprises &gt;75% of flow).</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Class E – Special. Commercial users that may require a determination on a case by case basis as prescribed by <cite doc="City of San Mateo, Cal., Code" path="3.54.030|(e)">Section 3.54.030(e)</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Director of Public Works" means Director of Public Works or designee.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"Fixture unit" means a unit of measurement for computing waste flow volumes for each plumbing fixture as set forth in the Uniform Plumbing Code as then adopted by the City in <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> of this code.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>"Institutional" means uses by churches, clubs, hospitals, lodges, community care facilities, schools, and public buildings, whether privately or publicly owned, and whether profit or nonprofit in operation. Such entities shall be considered commercial.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>"Residential" means a place designed or used for residence or dwelling, whether permanent or temporary in nature. Residential does not include hotels or motels.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>"Restaurant" means restaurant, fast-food, and drive-in establishments, as defined in the Zoning Code.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>"User" means any person or persons, a legal entity, or a business, commercial or manufacturing enterprise, which uses the sewer system and disposal facilities of the City in any manner, and whether a property owner or tenant.</text>
+          </para>
+        </section>
+        <section>
+          <num>3.54.030</num>
+          <heading>SEWER SERVICE CHARGES.</heading>
+          <text>The Council shall, by ordinance, establish the sewer service charge, to be imposed on the owner(s) of every parcel of land within the City served by the City's sanitary sewer system and wastewater treatment plant. The sewer service charges shall be based on customer class. For governmental entities, or other users whose operations have unusual or unique circumstances related to the return of water to the sewer system, the City may enter into a contract to provide sewer service at a charge different from that calculated based on customer class. Such a contract shall be subject to approval by the Director of Public Works and may be proposed at any time.</text>
+        </section>
+        <section>
+          <num>3.54.040</num>
+          <heading>COLLECTION OF CHARGES.</heading>
+          <text>The sewer service charges provided for in <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite> shall be collected on tax rolls in the same manner and by the same persons and at the same time as, together with and not separately from, City general property taxes as provided in <cite doc="City of San Mateo, Cal., Code" path="3.38">Chapter 3.38</cite>. Irrigation meters shall be exempt from the sewer service charge. In addition, the City may, by agreement, provide that individual charges for specified parcels shall be collected apart from the tax roll when unusual circumstances warrant such a collection process.</text>
+        </section>
+        <section>
+          <num>3.54.050</num>
+          <heading>LIEN FOR CHARGES.</heading>
+          <text>The amount of the sewer service charge shall constitute a lien against the parcel of land against which the charge has been imposed as of noon on the first Monday in March immediately preceding the date of the levy. Thereafter, unless otherwise provided by agreement pursuant to <cite doc="City of San Mateo, Cal., Code" path="3.54.040">Section 3.54.040</cite>, the amount of the charges shall be collected at the same time and in the same manner and by the same persons as, together with and not separately from, the general taxes on the property, and shall be delinquent at the same time and thereafter be subject to the same delinquency penalties.</text>
+        </section>
+        <section>
+          <num>3.54.060</num>
+          <heading>SEWER CONNECTION CHARGES.</heading>
+          <text>Before making a connection to the sanitary sewer system, a permit shall be obtained from the Building Official. No connection permit shall be issued except upon payment of the applicable sewer connection charge. The sewer connection charge shall be established by resolution of the City Council.</text>
+        </section>
+        <section>
+          <num>3.54.070</num>
+          <heading>SEWER SERVICE FUND.</heading>
+          <text>There is established the "Sewer Service Fund" to which the Finance Director shall transfer all sewer service charges and connection charges collected. This fund shall only be used for the costs associated with providing sanitary sewer and wastewater treatment service, including construction, reconstruction, maintenance, operation, and direct and indirect financing costs, and for accumulation of a depreciation reserve fund for such purposes in an amount as the Council may determine is appropriate.</text>
+        </section>
+        <section>
+          <num>3.54.080</num>
+          <heading>SOUTH TRUNK SEWER AREA IMPACT FEE.</heading>
+          <para>
+            <num>(a)</num>
+            <text>As of March 1, 2008, there is hereby imposed on all development, whether new development or redevelopment, in the South Trunk Sewer Area (generally that area extending south from the Dale Avenue Pump Station utility corridor parallel to Highway 101, and upstream in or parallel to East 16th Avenue, South Delaware Street through the Bay Meadows area, and Railroad Avenue and South El Camino Real, and extending up Borel Avenue, West Hillsdale Boulevard, and Saratoga Drive but excluding Bay Meadows Phase I and Phase II) a sewer area development impact fee for each type of sewer connection.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The impact fee shall be collected at the same time the sewer connection charge imposed under <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite> is collected and shall be placed in the sewer service fund established pursuant to <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The amount of impact fee charged shall be established by resolution of the City Council and based upon dwelling unit equivalents as follows:</text>
+            <text>
+              <table>
+                <caption>Dwelling Unit Equivalents</caption>
+                <tr>
+                  <th>Development Type</th>
+                  <th>Unit</th>
+                  <th>EDUs</th>
+                </tr>
+                <tr>
+                  <td>Single-family dwelling</td>
+                  <td>Dwelling unit</td>
+                  <td>1</td>
+                </tr>
+                <tr>
+                  <td>Multi-family dwelling, 1 bedroom</td>
+                  <td>Dwelling unit</td>
+                  <td>0.5</td>
+                </tr>
+                <tr>
+                  <td>Multi-family dwelling, 2 bedroom</td>
+                  <td>Dwelling unit</td>
+                  <td>0.75</td>
+                </tr>
+                <tr>
+                  <td>Multi-family dwelling, 3 bedroom</td>
+                  <td>Dwelling unit</td>
+                  <td>1</td>
+                </tr>
+                <tr>
+                  <td>Hotels or motels</td>
+                  <td>Room</td>
+                  <td>0.5</td>
+                </tr>
+                <tr>
+                  <td>Nonresidential</td>
+                  <td>Fixture unit</td>
+                  <td>0.05</td>
+                </tr>
+              </table>
+            </text>
+          </para>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Under <cite doc="City of San Mateo, Cal., Code" path="3.54.030">San Mateo Municipal Code section 3.54.030</cite>, the sewer service charge for fiscal years 2018-2019 through 2022-2023 is established as follows:</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text><strong>Environmental Determination. </strong>In accordance with California Environmental Quality Act guidelines section 15378(b)(4), introduction and adoption of this Ordinance is not a project subject to CEQA because the establishing the annual sewer service charge is a funding mechanism only and does not commit the City to any specific project which may result in a potentially significant physical impact on the environment.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text><strong>Severability.</strong>   If any section, subsection, sentence, clause or phrase of this ordinance is for any reason held to be invalid, such decision shall not affect the validity of the remaining portions of this ordinance.  The City Council hereby declares that it should have adopted the ordinance and each section, subsection, sentence, clause or phrase thereof, irrespective of the fact that any one or more sections, subsections, sentences, clauses or phrases be declared invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <text>As required by the County of San Mateo, the City Council authorizes collection of the Sewer Service Charge, which shall be billed on the real property tax rolls for Fiscal Years 2018-2019 through 2022-2023, with the actual total to be updated for the County rolls after the calculation process is completed each year.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <text><strong>Publication. </strong>This ordinance shall be published in summary in the San Francisco Examiner, posted in the City Clerk's Office, and posted on the City's website, all in accordance with Section 2.15 of the City Charter.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <text><strong>Legislative History and Effective Date. </strong>This ordinance was introduced on February 20, 2018, and adopted on March 5, 2018, and shall be effective on the commencement of the thirty-first day after its adoption.</text>
+  </section>
+</document>

@@ -10,6 +10,7 @@
     </citations>
   </meta>
   <text>The City Council of the City of San Mateo, California, ordains as follows:</text>
+  <recitals/>
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06 (Administrative Code) of the San Mateo Municipal code</cite> is hereby amended to read:</text>
@@ -154,8 +155,8 @@
             <para>
               <num>(2)</num>
               <text><strong>Buildings previously occupied</strong>. The legal occupancy of any existing building on the date of adoption of this code shall be permitted to continue without change, except otherwise specifically provided in the Building Code, Existing Building Code, Property Maintenance Code or the Fire Code or as is deemed necessary by the building official for the general safety and welfare of the occupants and the public.</text>
+              <text>A change in the use or occupancy of any existing building or structure shall comply with the provisions of <cite doc="City of San Mateo, Cal., Code" path="23.09">Chapter 23.09</cite> of this code.</text>
             </para>
-            <text>A change in the use or occupancy of any existing building or structure shall comply with the provisions of <cite doc="City of San Mateo, Cal., Code" path="23.09">Chapter 23.09</cite> of this code.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -477,8 +478,8 @@
                 <num>(xiii)</num>
                 <text>Non-fixed and movable fixtures, cases, racks, counters and partitions not over 5 feet 9 inches (1753 mm) in height.</text>
               </para>
-              <text>Unless otherwise exempted by this code, separate plumbing, electrical and mechanical permits will be required for the above exempted items.</text>
             </para>
+            <text>Unless otherwise exempted by this code, separate plumbing, electrical and mechanical permits will be required for the above exempted items.</text>
             <para>
               <num>(2)</num>
               <text><strong>Plumbing permits</strong>.  A plumbing permit shall not be required for the following:</text>
@@ -574,8 +575,8 @@
           <para>
             <num>(b)</num>
             <text><strong>Submittal Documents</strong>.  Plans, specifications, engineering calculations, diagrams, soil investigation reports, special inspection and structural observation programs and other data shall constitute the submittal documents and shall be submitted in one or more sets with each application for a permit. When such plans are not prepared by an architect or engineer, the building official may require the applicant submitting such plans or other data to demonstrate that state law does not require that the plans be prepared by a licensed architect or engineer. The building official may require plans, computations and specifications to be prepared and designed by an engineer or architect licensed by the state to practice as such even if not required by state law.</text>
+            <text><strong>EXCEPTION:</strong> The building official may waive the submission of plans, calculations, construction inspection requirements and other data if it is found that the nature of the work applied for is such that reviewing of plans is not necessary to obtain compliance with this code.</text>
           </para>
-          <text><strong>EXCEPTION:</strong> The building official may waive the submission of plans, calculations, construction inspection requirements and other data if it is found that the nature of the work applied for is such that reviewing of plans is not necessary to obtain compliance with this code.</text>
           <para>
             <num>(c)</num>
             <text><strong>Information on Plans and Specifications</strong>.  Plans and specifications shall be drawn to scale on substantial paper or cloth and shall be of sufficient clarity to indicate the location, nature and extent of the work proposed and show in detail that it will conform to the provisions of this code and all relevant laws, ordinances, rules and regulations.</text>
@@ -898,9 +899,9 @@
           <para>
             <num>(a)</num>
             <text><strong>Use or Occupancy</strong>.  Buildings or structures shall not be used or occupied nor shall a change in the existing occupancy classification of a building or structure or portion thereof be made until the building official has issued a certificate of occupancy therefore as provided herein.</text>
+            <text><strong>EXCEPTION:</strong>  Group R, Division 3, and Group U Occupancies.</text>
+            <text>Issuance of a certificate of occupancy shall not be construed as an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction.  Certificates presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
           </para>
-          <text><strong>EXCEPTION:</strong>  Group R, Division 3, and Group U Occupancies.</text>
-          <text>Issuance of a certificate of occupancy shall not be construed as an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction.  Certificates presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
           <para>
             <num>(b)</num>
             <text><strong>Change in Use</strong>.  Changes in the character or use of a building shall not be made except as specifically provided for in the Building Code.</text>
@@ -1080,8 +1081,8 @@
           <para>
             <num>(1)</num>
             <text>Add a new footnote "f" to the end of CRC Table R602.10.3(3), to read:</text>
+            <text proof="true">f. In Seismic Design Categories D0, D1, and D2, Method GB is not permitted and the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
           </para>
-          <text proof="true">f. In Seismic Design Categories D0, D1, and D2, Method GB is not permitted and the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
           <para>
             <num>(2)</num>
             <text>Add the "f" footnote notation in the title of Table R602.10.3(3), to read:   TABLE R602.10.3(3)f</text>
@@ -1089,8 +1090,8 @@
           <para>
             <num>(3)</num>
             <text>Add a new subsection R602.10.4.4, to read:</text>
+            <text><strong>R602.10.4.4 Limits on methods GB and PCP</strong>.  In Seismic Design Categories D0, D1, and D2, Method GB is not permitted for use as intermittent braced wall panels, but gypsum board is permitted to be installed when required by this Section to be placed on the opposite side of the studs from other types of braced wall panel sheathing.   In Seismic Design Categories D0, D1, and D2, the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
           </para>
-          <text><strong>R602.10.4.4 Limits on methods GB and PCP</strong>.  In Seismic Design Categories D0, D1, and D2, Method GB is not permitted for use as intermittent braced wall panels, but gypsum board is permitted to be installed when required by this Section to be placed on the opposite side of the studs from other types of braced wall panel sheathing.   In Seismic Design Categories D0, D1, and D2, the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
         </section>
       </container>
     </include>
@@ -1322,9 +1323,13 @@
         <para>
           <num>(a)</num>
           <text>The code published by the International Code Council entitled California Existing Building Code, 2016 Edition, as adopted and amended by the State of California, are hereinafter called "existing building code," and are adopted as the rules, regulations and standards within this city as to all matters therein contained except that:</text>
+          <text>
+            <ul proof="true">
+              <li><cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> (Administration) applies to <cite doc="City of San Mateo, Cal., Code" path="23.09">this chapter</cite> on administrative requirements.</li>
+              <li>Certain sections of the Existing Code have heretofore been amended and may hereafter be amended. As amended, they are adopted;</li>
+            </ul>
+          </text>
         </para>
-        <text><cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> (Administration) applies to <cite doc="City of San Mateo, Cal., Code" path="23.09">this chapter</cite> on administrative requirements.</text>
-        <text>Certain sections of the Existing Code have heretofore been amended and may hereafter be amended. As amended, they are adopted;</text>
         <para>
           <num>(b)</num>
           <text>No section of the Existing Building Code shall imply a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section or not to enforce it.</text>
@@ -1395,22 +1400,30 @@
           <heading>ADMINISTRATION.</heading>
           <text>Section A105 is modified by adding the following:</text>
           <text>In addition to the procedures set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>.</text>
-          <text><strong>Administration. </strong>In addition to the Administration <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite>, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in this Chapter.</text>
-          <text>Service of Order. The building official shall issue an order as described in (b) below to the owner of each building known to the building official to be within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>. The order shall be in writing and shall be served either personally or by certified mail upon the owner as shown on the last equalized assessment roll. A copy of such order shall also be given by the building official by first-class mail to known tenants of each building and the owner of each building shall thereafter provide the order to succeeding tenants.</text>
-          <text>Contents of Order. The order shall specify that the building has been determined by the building official to be within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> and is required to meet minimum seismic standards. The order shall inform the owner(s) of alternatives and time limits for compliance.</text>
-          <text>Appeal. The building owner may appeal the building official's initial determination that the building is within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> to the building official. Such appeal shall be filed with the building official within 60 days from the service date of the order. Any such appeal shall be decided by the building official no later than 60 days after the date that the appeal is filed. The basis for the appeal shall be evidence that the building does not fall within the scope of Appendix Chapter 1 of the California Existing Building Code as defined in Section A102. Any appeal shall be made in writing.</text>
-          <text>Recordation. Upon service of the order, the building official shall file with the office of the county recorder a certificate stating that the subject building is within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">Chapter 23.10 of the San Mateo Municipal Code</cite>. The certificate shall also state that the owner has been ordered to structurally analyze the building and to alter it to comply with <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>. If the building is found not to be within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>, or as a result of analysis and/or structural alterations is found to be capable of resisting minimum seismic forces required by <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>, the building official shall file with the office of the county recorder a certificate terminating the status of the subject building as being classified within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>.</text>
-          <text>Enforcement. If the owner of the subject building fails to comply with any order issued by the building official pursuant to <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> within any of the time limits set forth in Section A105.1 the building official may seek compliance through any means authorized by California statute or San Mateo Municipal Codes.</text>
+          <text>
+            <ul proof="true">
+              <li><strong>Administration. </strong>In addition to the Administration <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite>, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in this Chapter.</li>
+              <li>Service of Order. The building official shall issue an order as described in (b) below to the owner of each building known to the building official to be within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>. The order shall be in writing and shall be served either personally or by certified mail upon the owner as shown on the last equalized assessment roll. A copy of such order shall also be given by the building official by first-class mail to known tenants of each building and the owner of each building shall thereafter provide the order to succeeding tenants.</li>
+              <li>Contents of Order. The order shall specify that the building has been determined by the building official to be within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> and is required to meet minimum seismic standards. The order shall inform the owner(s) of alternatives and time limits for compliance.</li>
+              <li>Appeal. The building owner may appeal the building official's initial determination that the building is within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> to the building official. Such appeal shall be filed with the building official within 60 days from the service date of the order. Any such appeal shall be decided by the building official no later than 60 days after the date that the appeal is filed. The basis for the appeal shall be evidence that the building does not fall within the scope of Appendix Chapter 1 of the California Existing Building Code as defined in Section A102. Any appeal shall be made in writing.</li>
+              <li>Recordation. Upon service of the order, the building official shall file with the office of the county recorder a certificate stating that the subject building is within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">Chapter 23.10 of the San Mateo Municipal Code</cite>. The certificate shall also state that the owner has been ordered to structurally analyze the building and to alter it to comply with <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>. If the building is found not to be within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>, or as a result of analysis and/or structural alterations is found to be capable of resisting minimum seismic forces required by <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>, the building official shall file with the office of the county recorder a certificate terminating the status of the subject building as being classified within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>.</li>
+              <li>Enforcement. If the owner of the subject building fails to comply with any order issued by the building official pursuant to <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> within any of the time limits set forth in Section A105.1 the building official may seek compliance through any means authorized by California statute or San Mateo Municipal Codes.</li>
+            </ul>
+          </text>
         </section>
         <section>
           <num>23.10.016</num>
           <heading>TIME LIMITS FOR COMPLIANCE.</heading>
           <text>Section A105.1 is amended by adding the following:</text>
-          <text><strong>Time Limits for Compliance.</strong> In addition to the provisions set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in this Chapter.</text>
-          <text>Structural analysis and upgrade. The owner of each building within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this chapter</cite> shall cause a structural analysis of the building to be made by a civil or structural engineer or architect licensed by the State of California. If the building does not meet the minimum earthquake standards specified in <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>, the owner shall cause it to be structurally altered to conform to such standards.</text>
-          <text>Time limits. The owner of a building within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> shall comply with the requirements set forth above by submitting the following to the building official for review within the stated time limits:</text>
-          <text>Within one year after the service of the order, a structural analysis, which is subject to approval by the building official, and which shall demonstrate that the building meets the minimum requirements of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>; or</text>
-          <text>Within one year after the service of the order, a structural analysis and plans for the proposed structural alterations of the building necessary to comply with the minimum requirements of <cite doc="City of San Mateo, Cal., Code" path="23.10">this chapter</cite>. After plans are submitted and approved by the building official, the owner shall obtain a building permit, commence and complete the required construction within four years from service of the order, for high-risk buildings, and within six years from service of the order for low-risk buildings.</text>
+          <text>
+            <ul proof="true">
+              <li><strong>Time Limits for Compliance.</strong> In addition to the provisions set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in this Chapter.</li>
+              <li>Structural analysis and upgrade. The owner of each building within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this chapter</cite> shall cause a structural analysis of the building to be made by a civil or structural engineer or architect licensed by the State of California. If the building does not meet the minimum earthquake standards specified in <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>, the owner shall cause it to be structurally altered to conform to such standards.</li>
+              <li>Time limits. The owner of a building within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> shall comply with the requirements set forth above by submitting the following to the building official for review within the stated time limits:</li>
+              <li>Within one year after the service of the order, a structural analysis, which is subject to approval by the building official, and which shall demonstrate that the building meets the minimum requirements of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>; or</li>
+              <li>Within one year after the service of the order, a structural analysis and plans for the proposed structural alterations of the building necessary to comply with the minimum requirements of <cite doc="City of San Mateo, Cal., Code" path="23.10">this chapter</cite>. After plans are submitted and approved by the building official, the owner shall obtain a building permit, commence and complete the required construction within four years from service of the order, for high-risk buildings, and within six years from service of the order for low-risk buildings.</li>
+            </ul>
+          </text>
         </section>
       </container>
     </include>

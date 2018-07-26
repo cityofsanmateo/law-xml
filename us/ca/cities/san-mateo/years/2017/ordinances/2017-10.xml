@@ -9,10 +9,24 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2017-10</citation>
     </citations>
   </meta>
-  <text>WHEREAS, citizens and numerous organizations have expressed concerns and complaints associated with the harm caused by second-hand smoke from Medical Marijuana in multi-unit residences; and</text>
-  <text>WHEREAS, health hazards related to smoking, and breathing second-hand smoke, can include certain cancers and adverse respiratory effects and worsen the quality of life for citizens with existing allergies and respiratory diseases; and</text>
-  <text>WHEREAS, City finds it necessary to improve the definition of "multi-use residence" based on interpretation issues in the current code;</text>
-  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>citizens and numerous organizations have expressed concerns and complaints associated with the harm caused by second-hand smoke from Medical Marijuana in multi-unit residences; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>health hazards related to smoking, and breathing second-hand smoke, can include certain cancers and adverse respiratory effects and worsen the quality of life for citizens with existing allergies and respiratory diseases; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>City finds it necessary to improve the definition of "multi-use residence" based on interpretation issues in the current code;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+    </recital>
+  </recitals>
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.40">Chapter 7.40 of the San Mateo Municipal Code</cite> is hereby amended to read:</text>

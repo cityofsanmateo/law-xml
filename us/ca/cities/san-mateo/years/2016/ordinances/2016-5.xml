@@ -9,10 +9,24 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2016-5</citation>
     </citations>
   </meta>
-  <text>WHEREAS, the California Energy Code, 2016 Edition, Title 24, Part 6 of the California Code of Regulations has been released by the State and needs to be adopted by local jurisdictions; and</text>
-  <text>WHEREAS, the City's Climate Action Plan recommended that the City review local amendments to the Energy Code to promote increased energy efficiency and the use of renewable energy sources; and</text>
-  <text>WHEREAS, the City has completed an analysis and has determined that the requirements of the local amendments to the Energy Code would provide a positive cost benefit to new construction within the City of San Mateo.</text>
-  <text>NOW, THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO DOES ORDAIN AS FOLLOWS:</text>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the California Energy Code, 2016 Edition, Title 24, Part 6 of the California Code of Regulations has been released by the State and needs to be adopted by local jurisdictions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City's Climate Action Plan recommended that the City review local amendments to the Energy Code to promote increased energy efficiency and the use of renewable energy sources; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City has completed an analysis and has determined that the requirements of the local amendments to the Energy Code would provide a positive cost benefit to new construction within the City of San Mateo.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO DOES ORDAIN AS FOLLOWS:</text>
+    </recital>
+  </recitals>
   <section>
     <num>1</num>
     <text>Chapter 23.24, Energy Code, is hereby incorporated to adopt California Energy Code, 2016 Edition with Local Amendments to read:</text>
@@ -65,9 +79,15 @@
               <para>
                 <num>a.</num>
                 <text>Low-sloped roofs shall have:</text>
+                <para>
+                  <num>1.</num>
+                  <text>A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
+                </para>
+                <para>
+                  <num>2.</num>
+                  <text>A minimum Solar Reflectance Index (SRI) of 85.</text>
+                </para>
               </para>
-              <text proof="true">1. A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
-              <text proof="true">2. A minimum Solar Reflectance Index (SRI) of 85.</text>
               <text><strong>Exception 1: </strong>Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
               <text><strong>Exception 2: </strong>An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</text>
             </para>
@@ -77,18 +97,24 @@
               <para>
                 <num>a.</num>
                 <text>Low-sloped roofs shall have:</text>
+                <para>
+                  <num>1.</num>
+                  <text>A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
+                </para>
+                <para>
+                  <num>2.</num>
+                  <text>A minimum Solar Reflectance Index (SRI) of 85.</text>
+                </para>
               </para>
-              <text proof="true">1. A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
-              <text proof="true">2. A minimum Solar Reflectance Index (SRI) of 85.</text>
               <text><strong>Exception 1:</strong> Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
               <text><strong>Exception 2: </strong>Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
             </para>
             <para>
               <num>iii.</num>
               <text>Low-rise residential buildings with low-sloped roofs shall have a minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85 or a minimum SRI of 85.</text>
+              <text><strong>Exception 1:</strong> Roof constructions that have thermal mass over the roof membrane with a weight of at least 25 lb/ft2 are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
+              <text><strong>Exception 2: </strong>Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
             </para>
-            <text><strong>Exception 1:</strong> Roof constructions that have thermal mass over the roof membrane with a weight of at least 25 lb/ft2 are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
-            <text><strong>Exception 2: </strong>Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
           </para>
         </section>
         <section>
@@ -125,9 +151,9 @@
                 <num>c.</num>
                 <text>New multi-family buildings containing 17 or more units shall provide a minimum of a 3 kilowatt photovoltaic system.</text>
               </para>
-              <text><strong>Exception to Section A:</strong>  As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</text>
             </para>
           </para>
+          <text><strong>Exception to Section A:</strong>  As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</text>
         </section>
         <section>
           <num>23.24.040</num>

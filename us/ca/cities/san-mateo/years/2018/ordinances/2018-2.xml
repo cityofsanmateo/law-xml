@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2018-2">
+  <num>2018-2</num>
+  <heading>AN URGENCY ORDINANCE OF THE CITY OF SAN MATEO IMPOSING A MORATORIUM ON SPECIFIED RENTAL HOUSING DEVELOPMENT PROJECTS</heading>
+  <meta>
+    <effective>2018-01-01</effective>
+    <citations>
+      <citation type="ord" url="https://www.cityofsanmateo.org/DocumentCenter/View/64933">Ord. No. 2018-2</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2018-2</citation>
+    </citations>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on November 5, 1991, City of San Mateo voters approved an initiative amending the City's General Plan ("Measure H"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Measure H amended the City's General Plan to require that the City adopt an inclusionary housing ordinance requiring residential development projects to include ten percent of the residential units as affordable housing units; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>by the enactment of Measure H, the City's voters enshrined within the City's land use constitution the principle that all housing projects within the City should provide opportunities for purchase and rent of such housing to households with incomes less than those necessary to support the costs of housing in the Bay Area real estate market; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Measure H further advanced this principle by requiring, subject to narrow exceptions, provision of affordable units on site within each project, and also prohibited the use of fees to satisfy the City's affordable housing requirement; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Measure H provided that it was to remain in effect through the year 2005; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on November 2, 2004, City of San Mateo voters approved an initiative extending the provisions of Measure H, with some modifications, for another fifteen years ("Measure P"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Measure P retained the General Plan requirement that the City require development projects to provide a minimum of ten percent of residential units for exclusive use as affordable units and carried forward the requirement that affordable units be provided on site within each project; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Measure P also retained the General Plan prohibition against the use of fees to satisfy the City's affordable housing requirement; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in accordance with Measures H and P, the City of San Mateo has adopted a Below Market Rate Housing Program (the "BMR Program"), which requires, among other things, that developers of new rental housing include 15% of units affordable to low-income households or 10% of units affordable to very low-income households;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 2009, a Los Angeles appellate court decided the case of Palmer v. City of Los Angeles, 175 Cal.App.4th 1396 (2009) (the "Palmer decision"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Palmer decision brought into question the City's ability to require that a percentage of a residential rental development project's units be affordable in that the Palmer court concluded that the provisions of the Costa Hawkins Act preempted the application of inclusionary housing ordinances to rental housing development projects; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in September 2017, the California Legislature enacted AB 1505 to address the Palmer decision by reaffirming the authority of local jurisdictions to adopt and impose inclusionary housing ordinances on rental housing projects, subject to certain limitations specified in the statute; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>AB 1505 authorizes the adoption of inclusionary housing ordinances, but requires that such ordinances "provide alternative means of compliance that may include, but are not limited to, in lieu fees, land dedication, off-site construction, or acquisition and rehabilitation of existing units;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council is concerned that the current provisions of the city's General Plan as approved by the voters in passing Measure P may not allow for "alternative means of compliance" as required by AB 1505; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council would like to explore means of providing affordable housing that would be an alternative to providing on-site affordable units and to determine whether the provisions of the General Plan adopted in Measure P should be amended to resolve the potential conflict between AB 1505 and the current General Plan,</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Measure P requires a vote of the people to amend the terms of the General Plan approved by the voters in the measure; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council has determined that the inability to provide rental housing opportunities to lower income households through its current BMR program or through other alternative means would adversely impact the public health, safety, and general welfare; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in order to ensure that affordable housing continues to be provided, the City Council needs to study the issues raised by the enactment of AB 1505, develop alternative means to provide affordable housing and perform the necessary environmental analysis as part of this effort, to allow it to present a ballot measure amending the City's General Plan to the voters at a future election;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pending the City's study of these issues, the City wishes to impose a moratorium on the development of specified residential rental units; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>applicants for rental housing projects may choose to agree to comply with the City's BMR Program; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City does not wish to delay the processing of applications for residential ownership units or for residential rental units in which the applicant voluntarily commits to complying with the City's BMR Program as part of an agreement for financial assistance from the City, or entry into an agreement to comply with the City's BMR Program; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo is a charter city; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>City Charter section 2.16 provides that any ordinance declared by the City Council to be necessary as an emergency measure for preserving the public peace, health, safety, or welfare and containing the reasons for its urgency, may be introduced and passed at one meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>notwithstanding the City's status as a charter city, the City is also electing to comply with procedural requirements of Government Code section 65858; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Government Code section 65858 provides that a city may adopt an interim ordinance to protect the public health, safety, and welfare that prohibits any uses that may be in conflict with a contemplated general plan amendment; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Municipal Code section 27.02.120 also authorizes the adoption of interim moratoria to prohibit any uses that may be in conflict with a contemplated general plan amendment;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO FINDS AND ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>
+      <strong>Findings.</strong>
+    </text>
+    <para>
+      <num>a.</num>
+      <text>In accordance with City Charter Section 2.16 and Government Code section 65858, this Ordinance is necessary as an emergency measure to preserve the public health, safety, and welfare. The enactment of AB 1505 threatens the City's ability to require that a percentage of units in residential rental development projects be affordable.  The development of residential rental units without affordable rental units is in conflict with the City's existing General Plan and BMR Program. As a result, the City is considering an amendment to its General Plan and BMR Program to implement alternative means of complying with the BMR requirement, which will require approval by San Mateo voters. Therefore, absent amendment of Measure P at an election, the City might not be able to require residential developers of rental housing to provide affordable housing.</text>
+    </para>
+    <para>
+      <num>b.</num>
+      <text>The approval of additional rental housing projects pending voter consideration of an amendment to Measure P will contribute to this threat to the public health, safety, or welfare, because, unless amended, the city's inclusionary housing ordinance could be subject to a legal challenge and a court could determine that residential rental projects need not comply with the city's BMR requirement or provide any other means of increasing the supply of affordable housing.  It is a public purpose of the City and a policy of the State to achieve a diverse and balanced community with housing available for households of all income levels.  Economic diversity fosters social and environmental conditions that protect and enhance the social fabric of the City and are beneficial to the health, safety, and welfare of its residents.  State law pertaining to general plans and the Housing Element of the City's General Plan require that the City regulate land use development and use its authority to provide an adequate supply of housing for all economic segments of the community.  Located within one of the country's most expensive housing markets, the City is experiencing, and has for many years experienced, a shortage of rental housing affordable to very low and low income households as evidenced by a City-maintained waiting list of over 700 people for affordable rental housing.  A significant number of persons in low and very low income households live in overcrowded or substandard housing and devote an overly large percentage of their income to pay for rental housing.  As a result, this segment of the City's population is exposed to conditions that threaten their physical safety, as well as their physical and mental health.  The amount of land available in the City for residential rental housing is limited, because the City is built out and there is limited infill property available.  The consumption of this remaining land for residential rental development without providing affordable units will impede the City's goal of providing adequate affordable housing in the City.  Persons from low and very low income families who work in the City will be unable to find affordable rental housing and will be forced into longer commutes resulting in increased traffic and air and noise pollution, or into overcrowded and unsafe homes.  Therefore, to implement the General Plan and the Housing Element, to carry out the policies of the state, to ensure the benefits of economic diversity in the City, and to provide safe and healthy living conditions for all segments of the City's population, it is imperative that there be a moratorium on specified residential rental development pending the voters' consideration of an amendment to Measure P.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <text><strong>Moratorium.</strong>  This ordinance imposes a moratorium on the development of residential rental units, excepting projects in which the applicant is:</text>
+    <para>
+      <num>a.</num>
+      <text>receiving financial assistance from the City; or</text>
+    </para>
+    <para>
+      <num>b.</num>
+      <text>voluntarily agreeing to comply with the City's Below Market Rate Housing Program.</text>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <text><strong>Severability Clause.  </strong>The City Council of the City of San Mateo hereby declares that should any section, paragraph, sentence, phrase, term or word of this Ordinance, hereby adopted, be declared for any reason to be invalid, it is the intent of the City Council that it would have adopted all other portions of this ordinance irrespective of any such portioned declared invalid.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>CEQA.</heading>
+    <text>In accordance with CEQA Guidelines section 15378(a), adoption of this ordinance is not a "project" subject to CEQA, because the ordinance has no potential to result in either a direct physical change in the environment, or a reasonably foreseeable indirect physical change in the environment.  Even if adoption of this ordinance did constitute a "project," it would be exempt from CEQA in accordance with CEQA Guidelines section 15061(b)(3),  because it can be seen with certainty that there is no possibility that the activity in question may have a significant impact on the environment.  The purpose of this urgency ordinance is to preserve the status quo while the City studies the issue raised by the enactment of AB1505, develops alternative means of providing affordable housing, considers a General Plan amendment to preserve the City's ability to provide affordable rental housing, and seeks voter approval of such a General Plan amendment as required by Measure P.  Projects already in compliance with the City's existing BMR Program will not be affected and the urgency ordinance does not authorize any additional development activity.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>EFFECTIVE DATE.</heading>
+    <text>This Ordinance shall take effect immediately upon passage by a 4/5ths vote of the City Council.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>PUBLICATION.</heading>
+    <text>In accordance with City Charter Section 2.16, as soon as practicable after its passage, this Ordinance shall be published in summary in the official city newspaper.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>PASSED AND ADOPTED by the City Council of the City of San Mateo, California at a regular City Council meeting held this 5th day of March 2018 by the following vote:</text>
+  </section>
+</document>
