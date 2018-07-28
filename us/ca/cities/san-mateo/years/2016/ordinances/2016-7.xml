@@ -38,8 +38,8 @@
   </section>
   <section>
     <num>2</num>
-    <heading>ADDING CHAPTER 5.</heading>
-    <text><strong>92 TO <cite doc="City of San Mateo, Cal., Code" path="5">TITLE 5 OF THE SAN MATEO MUNICIPAL CODE</cite>.</strong><cite doc="City of San Mateo, Cal., Code" path="5.92">Chapter 5.92</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="5">Title 5 of the San Mateo Municipal Code</cite> to read as follows:</text>
+    <heading>ADDING CHAPTER 5.92 TO TITLE 5 OF THE SAN MATEO MUNICIPAL CODE.</heading>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.92">Chapter 5.92</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="5">Title 5 of the San Mateo Municipal Code</cite> to read as follows:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>

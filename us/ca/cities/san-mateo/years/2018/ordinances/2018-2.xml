@@ -121,9 +121,7 @@
   </recitals>
   <section>
     <num>1</num>
-    <text>
-      <strong>Findings.</strong>
-    </text>
+    <heading>Findings.</heading>
     <para>
       <num>a.</num>
       <text>In accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.16">City Charter Section 2.16</cite> and <cite doc="Cal. Gov't Code" path="§65858">Government Code section 65858</cite>, this Ordinance is necessary as an emergency measure to preserve the public health, safety, and welfare. The enactment of AB 1505 threatens the City's ability to require that a percentage of units in residential rental development projects be affordable.  The development of residential rental units without affordable rental units is in conflict with the City's existing General Plan and BMR Program. As a result, the City is considering an amendment to its General Plan and BMR Program to implement alternative means of complying with the BMR requirement, which will require approval by San Mateo voters. Therefore, absent amendment of Measure P at an election, the City might not be able to require residential developers of rental housing to provide affordable housing.</text>
@@ -135,7 +133,8 @@
   </section>
   <section>
     <num>2</num>
-    <text><strong>Moratorium.</strong>  This ordinance imposes a moratorium on the development of residential rental units, excepting projects in which the applicant is:</text>
+    <heading>Moratorium.</heading>
+    <text>This ordinance imposes a moratorium on the development of residential rental units, excepting projects in which the applicant is:</text>
     <para>
       <num>a.</num>
       <text>receiving financial assistance from the City; or</text>
@@ -147,7 +146,8 @@
   </section>
   <section>
     <num>3</num>
-    <text><strong>Severability Clause.  </strong>The City Council of the City of San Mateo hereby declares that should any section, paragraph, sentence, phrase, term or word of this Ordinance, hereby adopted, be declared for any reason to be invalid, it is the intent of the City Council that it would have adopted all other portions of this ordinance irrespective of any such portioned declared invalid.</text>
+    <heading>Severability Clause.</heading>
+    <text>The City Council of the City of San Mateo hereby declares that should any section, paragraph, sentence, phrase, term or word of this Ordinance, hereby adopted, be declared for any reason to be invalid, it is the intent of the City Council that it would have adopted all other portions of this ordinance irrespective of any such portioned declared invalid.</text>
   </section>
   <section>
     <num>4</num>

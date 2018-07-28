@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2018-3">
   <num>2018-3</num>
-  <heading/>
+  <heading>AMENDING SECTION 27.06.080, "STATE PLANNING AND ZONING REGULATIONS," OF CHAPTER 27.06, "ADMINISTRATION," SECTION 27.16.060, "DENSITY BONUS," OF CHAPTER 27.16, "RESIDENCE DISTRICTS," AND SECTION 27.19.050 OF CHAPTER 27.19, "ACCESSORY DWELLING UNIT AND JUNIOR ACCESSORY DWELLING UNIT—RESIDENTIAL ZONES," OF THE SAN MATEO MUNICIPAL CODE</heading>
   <meta>
     <effective>2018-01-01</effective>
     <citations>
@@ -375,14 +375,17 @@
   </section>
   <section>
     <num>5</num>
-    <text><strong>Severability.</strong>  In the event that any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.  It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+    <heading>Severability.</heading>
+    <text>In the event that any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.  It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
   </section>
   <section>
     <num>6</num>
-    <text><strong>Environmental Determination.</strong> In accordance with the California Environmental Quality Act (CEQA) Guidelines, Section 21080.17, the proposed amendments to <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite> are statutorily exempt from CEQA as an amendment to implement the provisions of <cite doc="Cal. Gov't Code" path="§65852.2">Section 65852.2 of the Government Code</cite>.  In accordance with Public Resources Code section 21080, the other amendments proposed to the City's Zoning Code are not a "project" subject to CEQA in that they will not impact the environment.</text>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with the California Environmental Quality Act (CEQA) Guidelines, Section 21080.17, the proposed amendments to <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite> are statutorily exempt from CEQA as an amendment to implement the provisions of <cite doc="Cal. Gov't Code" path="§65852.2">Section 65852.2 of the Government Code</cite>.  In accordance with <cite doc="Cal. Pub. Res. Code" path="§21080">Public Resources Code section 21080</cite>, the other amendments proposed to the City's Zoning Code are not a "project" subject to CEQA in that they will not impact the environment.</text>
   </section>
   <section>
     <num>7</num>
-    <text><strong>Publication and Effective Date.  </strong>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's office and posted on the City's Website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.  This Ordinance was introduced on March 19, 2018 and adopted on April 16, 2018 and shall be effective 30 days after adoption.</text>
+    <heading>Publication and Effective Date.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's office and posted on the City's Website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.  This Ordinance was introduced on March 19, 2018 and adopted on April 16, 2018 and shall be effective 30 days after adoption.</text>
   </section>
 </document>

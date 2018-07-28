@@ -49,9 +49,7 @@
   </recitals>
   <section>
     <num>1</num>
-    <text>
-      <strong>Findings.</strong>
-    </text>
+    <heading>Findings.</heading>
     <text>
       <ul proof="true">
         <li>In accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.15">City Charter Section 2.15</cite>, this Ordinance is necessary as an emergency measure to preserve the public health, safety, and welfare. If California voters approve Proposition 64, the commercial cultivation, processing, and sale of marijuana, as well as the cultivation for personal use of marijuana in one's private yard will be legal in the state.  These uses have the potential to have serious adverse impacts on the use of neighboring properties, including, the emission of nuisance odors, fire safety associated with the use of high intensity lighting, and security and public safety concerns associated with the open cultivation and sale of marijuana which has, and in the near term will continue to have, high dollar value in illicit markets.  In addition, these uses could have serious adverse impacts on the consumption of limited resources including excessive use of water and energy.</li>
@@ -60,7 +58,8 @@
   </section>
   <section>
     <num>2</num>
-    <text><strong>Moratorium.  </strong>Notwithstanding any provision of the San Mateo Municipal Code to the contrary, this ordinance imposes a moratorium on:</text>
+    <heading>Moratorium.</heading>
+    <text>Notwithstanding any provision of the San Mateo Municipal Code to the contrary, this ordinance imposes a moratorium on:</text>
     <para>
       <num>a.</num>
       <text>the use of any property within the city for the cultivation, storage, manufacturing, processing, or sale of nonmedical marijuana for adults 21 years of age and over;</text>
@@ -80,7 +79,8 @@
   </section>
   <section>
     <num>4</num>
-    <text><strong>Severability Clause.  </strong>The City Council of the City of San Mateo hereby declares that should any section, paragraph, sentence, phrase, term or word of this Ordinance, hereby adopted, be declared for any reason to be invalid, it is the intent of the City Council that it would have adopted all other portions of this ordinance irrespective of any such portioned declared invalid.</text>
+    <heading>Severability Clause.</heading>
+    <text>The City Council of the City of San Mateo hereby declares that should any section, paragraph, sentence, phrase, term or word of this Ordinance, hereby adopted, be declared for any reason to be invalid, it is the intent of the City Council that it would have adopted all other portions of this ordinance irrespective of any such portioned declared invalid.</text>
   </section>
   <section>
     <num>5</num>
