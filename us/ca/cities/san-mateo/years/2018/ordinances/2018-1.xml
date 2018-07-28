@@ -1,13 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2018-1">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2018-1" codify:doc="City of San Mateo, Cal., Code">
   <num>2018-1</num>
   <heading>ESTABLISHING THE SEWER SERVICE CHARGE FOR FISCAL YEARS 2018-2019 THROUGH 2022-2023 AND AMENDING CHAPTER 3.54 OF THE SAN MATEO MUNICIPAL CODE</heading>
   <meta>
-    <effective>2018-01-01</effective>
+    <effective>2018-04-05</effective>
     <citations>
       <citation type="ord" url="https://www.cityofsanmateo.org/DocumentCenter/View/64932">Ord. No. 2018-1</citation>
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2018-1</citation>
     </citations>
+    <history>
+      <introduced>2018-02-20</introduced>
+      <adopted>2018-03-05</adopted>
+    </history>
   </meta>
   <recitals>
     <recital>
@@ -104,12 +108,14 @@
         </toc>
         <section>
           <num>3.54.010</num>
+          <codify:replace path="3.54.010"/>
           <heading>PURPOSE; ADMINISTRATION.</heading>
           <text>The purpose and intent of <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite> is to provide for sewer service charges and connection charges to be imposed upon the owner(s) of every parcel of land within the City served by the City's sanitary sewer system and wastewater treatment plant.</text>
           <text><cite doc="City of San Mateo, Cal., Code" path="3.54">This chapter</cite> shall be interpreted and administered in accordance with the provisions of Article XIIID of the Constitution of the State of California and sections 53750 through <cite doc="Cal. Gov't Code" path="§53758">53758 of the Government Code</cite>.</text>
           <text>The Director of Public Works is authorized to administer and enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite> and shall adopt regulations necessary to effectuate such authority.</text>
         </section>
         <section>
+          <codify:replace path="3.54.020"/>
           <num>3.54.020</num>
           <heading>DEFINITIONS.</heading>
           <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite>, the following words and phrases shall have the following meanings:</text>
@@ -171,31 +177,39 @@
           </para>
         </section>
         <section>
+          <codify:replace path="3.54.030"/>
           <num>3.54.030</num>
           <heading>SEWER SERVICE CHARGES.</heading>
           <text>The Council shall, by ordinance, establish the sewer service charge, to be imposed on the owner(s) of every parcel of land within the City served by the City's sanitary sewer system and wastewater treatment plant. The sewer service charges shall be based on customer class. For governmental entities, or other users whose operations have unusual or unique circumstances related to the return of water to the sewer system, the City may enter into a contract to provide sewer service at a charge different from that calculated based on customer class. Such a contract shall be subject to approval by the Director of Public Works and may be proposed at any time.</text>
         </section>
         <section>
+          <codify:replace path="3.54.040"/>
           <num>3.54.040</num>
           <heading>COLLECTION OF CHARGES.</heading>
           <text>The sewer service charges provided for in <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite> shall be collected on tax rolls in the same manner and by the same persons and at the same time as, together with and not separately from, City general property taxes as provided in <cite doc="City of San Mateo, Cal., Code" path="3.38">Chapter 3.38</cite>. Irrigation meters shall be exempt from the sewer service charge. In addition, the City may, by agreement, provide that individual charges for specified parcels shall be collected apart from the tax roll when unusual circumstances warrant such a collection process.</text>
         </section>
         <section>
+          <codify:replace path="3.54.050"/>
           <num>3.54.050</num>
           <heading>LIEN FOR CHARGES.</heading>
           <text>The amount of the sewer service charge shall constitute a lien against the parcel of land against which the charge has been imposed as of noon on the first Monday in March immediately preceding the date of the levy. Thereafter, unless otherwise provided by agreement pursuant to <cite doc="City of San Mateo, Cal., Code" path="3.54.040">Section 3.54.040</cite>, the amount of the charges shall be collected at the same time and in the same manner and by the same persons as, together with and not separately from, the general taxes on the property, and shall be delinquent at the same time and thereafter be subject to the same delinquency penalties.</text>
         </section>
         <section>
+          <codify:replace path="3.54.060"/>
           <num>3.54.060</num>
           <heading>SEWER CONNECTION CHARGES.</heading>
           <text>Before making a connection to the sanitary sewer system, a permit shall be obtained from the Building Official. No connection permit shall be issued except upon payment of the applicable sewer connection charge. The sewer connection charge shall be established by resolution of the City Council.</text>
         </section>
+        <codify:remove path="3.54.070" warning="false"/>
+        <codify:remove path="3.54.071" warning="false"/>
         <section>
+          <codify:replace path="3.54.080" warning="false"/>
           <num>3.54.070</num>
           <heading>SEWER SERVICE FUND.</heading>
           <text>There is established the "Sewer Service Fund" to which the Finance Director shall transfer all sewer service charges and connection charges collected. This fund shall only be used for the costs associated with providing sanitary sewer and wastewater treatment service, including construction, reconstruction, maintenance, operation, and direct and indirect financing costs, and for accumulation of a depreciation reserve fund for such purposes in an amount as the Council may determine is appropriate.</text>
         </section>
         <section>
+          <codify:replace path="3.54.090" warning="false"/>
           <num>3.54.080</num>
           <heading>SOUTH TRUNK SEWER AREA IMPACT FEE.</heading>
           <para>

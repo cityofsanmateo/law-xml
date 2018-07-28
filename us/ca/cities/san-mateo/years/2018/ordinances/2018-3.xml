@@ -1,13 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2018-3">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2018-3" codify:doc="City of San Mateo, Cal., Code">
   <num>2018-3</num>
   <heading>AMENDING SECTION 27.06.080, "STATE PLANNING AND ZONING REGULATIONS," OF CHAPTER 27.06, "ADMINISTRATION," SECTION 27.16.060, "DENSITY BONUS," OF CHAPTER 27.16, "RESIDENCE DISTRICTS," AND SECTION 27.19.050 OF CHAPTER 27.19, "ACCESSORY DWELLING UNIT AND JUNIOR ACCESSORY DWELLING UNIT—RESIDENTIAL ZONES," OF THE SAN MATEO MUNICIPAL CODE</heading>
   <meta>
-    <effective>2018-01-01</effective>
+    <effective>2018-05-16</effective>
     <citations>
       <citation type="ord" url="https://www.cityofsanmateo.org/DocumentCenter/View/64934">Ord. No. 2018-3</citation>
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2018-3</citation>
     </citations>
+    <history>
+      <introduced>2018-03-19</introduced>
+      <adopted>2018-04-16</adopted>
+    </history>
   </meta>
   <recitals>
     <recital>
@@ -82,34 +86,45 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="27.06.080">Section 27.06.080</cite>, "State Planning and Zoning Regulations," is amended to read as follows:</text>
-    <text>(a.) Chapters 3 and 4 of Title <cite doc="Cal. Gov't Code" path="§7">7 of the California Government Code</cite>, commencing with Section 65100 thereof, are incorporated into <cite doc="City of San Mateo, Cal., Code" path="1">this Title</cite> and made a part hereof by this reference, with the following exceptions:</text>
-    <para>
-      <num>(1)</num>
-      <text>Amendments to the general plan may be processed simultaneously with related zoning amendments and/or discretionary permits; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>There shall be no limit on the number of times the general plan may be amended in a calendar year;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>No notice required to be published need be published in more than one issue of any newspaper;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Procedures for the enactment of zoning ordinances, including interim zoning ordinances/moratoria, are not incorporated; and</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text><cite doc="Cal. Gov't Code" path="§65863">Government Code section 65863</cite> is not incorporated by reference.</text>
-    </para>
-    <text>(b.) In the event of conflicts now or in the future, between these provisions of the <cite doc="Cal. Gov't Code" proof="true">California Government Code</cite> and City ordinances, resolutions, or Council policy, the latter shall prevail."</text>
+    <include>
+      <codify:replace-content path="27.06.080"/>
+      <para>
+        <num codify:value="(a)">(a.)</num>
+        <text>Chapters 3 and 4 of Title <cite doc="Cal. Gov't Code" path="§7">7 of the California Government Code</cite>, commencing with Section 65100 thereof, are incorporated into <cite doc="City of San Mateo, Cal., Code" path="1">this Title</cite> and made a part hereof by this reference, with the following exceptions:</text>
+        <para>
+          <num>(1)</num>
+          <text>Amendments to the general plan may be processed simultaneously with related zoning amendments and/or discretionary permits; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>There shall be no limit on the number of times the general plan may be amended in a calendar year;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>No notice required to be published need be published in more than one issue of any newspaper;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Procedures for the enactment of zoning ordinances, including interim zoning ordinances/moratoria, are not incorporated; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text><cite doc="Cal. Gov't Code" path="§65863">Government Code section 65863</cite> is not incorporated by reference.</text>
+        </para>
+      </para>
+      <para>
+        <num codify:value="(b)">(b.)</num>
+        <text>In the event of conflicts now or in the future, between these provisions of the <cite doc="Cal. Gov't Code">California Government Code</cite> and City ordinances, resolutions, or Council policy, the latter shall prevail."</text>
+      </para>
+    </include>
   </section>
+  <codify:remove path="27.16.060" warning="false"/>
   <section>
     <num>2</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="27.16.060">Section 27.16.060</cite>, "Density Bonus," of <cite doc="City of San Mateo, Cal., Code" path="27.16">Chapter 27.16</cite>, "Residence Districts," is relocated to a new <cite doc="City of San Mateo, Cal., Code" path="27.15" proof="true">Chapter 27.15</cite>, "Density Bonus," of <cite doc="City of San Mateo, Cal., Code" path="27">Title 27 of the San Mateo Municipal Code</cite> and will read as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.16.060">Section 27.16.060</cite>, "Density Bonus," of <cite doc="City of San Mateo, Cal., Code" path="27.16">Chapter 27.16</cite>, "Residence Districts," is relocated to a new <cite doc="City of San Mateo, Cal., Code" path="27.15">Chapter 27.15</cite>, "Density Bonus," of <cite doc="City of San Mateo, Cal., Code" path="27">Title 27 of the San Mateo Municipal Code</cite> and will read as follows:</text>
     <include>
       <container>
+        <codify:insert path="27" before="27.16" history="false"/>
         <prefix>Chapter</prefix>
         <num>27.15</num>
         <heading>DENSITY BONUS</heading>
@@ -144,6 +159,10 @@
           <num>27.15.010</num>
           <heading>Purpose.</heading>
           <text>The purpose of this section is to comply with the state density bonus law (<cite doc="Cal. Gov't Code" path="§65915">California Government Code section 65915</cite>) and to implement the housing element of the San Mateo General Plan, by providing increased residential densities for projects that guarantee that a portion of the housing units will be affordable to very low, low, or moderate-income households, provide senior citizen housing, or include child care facilities.</text>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2002-3" path="§1" type="History"/>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
+          <annotation type="History">Prior codification § 27.16.060</annotation>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
         </section>
         <section>
           <num>27.15.020</num>
@@ -165,6 +184,10 @@
             <num>(d)</num>
             <text>At least ten percent of the total units in a condominium project as defined in subdivision (e) of, or in a planned development as defined in subdivision (k) of, <cite doc="Cal. Civ. Code" path="§1351">Section 1351 of the Civil Code</cite>, are designated for moderate income households, provided that all units in the development are offered to the public for purchase.</text>
           </para>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2002-3" path="§1" type="History"/>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
+          <annotation type="History">Prior codification § 27.16.060</annotation>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
         </section>
         <section>
           <num>27.15.030</num>
@@ -190,6 +213,10 @@
             <num>(e)</num>
             <text>"Very low income household" has the meaning set forth in <cite doc="Cal. Health &amp; Safety Code" path="§50105">Health and Safety Code section 50105</cite> and means a household whose income is equal to or less than fifty percent of the area median income, as published by the California Department of Housing and Community Development.</text>
           </para>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2002-3" path="§1" type="History"/>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
+          <annotation type="History">Prior codification § 27.16.060</annotation>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
         </section>
         <section>
           <num>27.15.040</num>
@@ -238,6 +265,10 @@
             <num>(c)</num>
             <text>The City will not, however, provide any direct financial assistance, waive fees or dedication requirements, or provide publicly owned land for a housing development as an incentive or concession.</text>
           </para>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2002-3" path="§1" type="History"/>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
+          <annotation type="History">Prior codification § 27.16.060</annotation>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
         </section>
         <section>
           <num>27.15.050</num>
@@ -266,6 +297,10 @@
               <text>The waiver or reduction would have an adverse impact on any real property that is listed in the California Register of Historical Resources.</text>
             </para>
           </para>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2002-3" path="§1" type="History"/>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
+          <annotation type="History">Prior codification § 27.16.060</annotation>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
         </section>
         <section>
           <num>27.15.060</num>
@@ -326,29 +361,57 @@
             <num>(b)</num>
             <text>Action on Application. The density bonus request will be processed with the planning application and the body with approval authority for the planning approval sought will approve, deny or modify the incentive or concession as a part of the overall project approval.</text>
           </para>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2002-3" path="§1" type="History"/>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
+          <annotation type="History">Prior codification § 27.16.060</annotation>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
         </section>
         <section>
           <num>27.15.070</num>
           <heading>Affordable Housing Agreement.</heading>
           <text>Prior to the issuance of a building permit for any dwelling unit in a development for which a density bonus has been awarded, the developer must enter into an Affordable Housing Agreement. The Agreement will run with the land, be binding upon successors in interest, and be recorded with the County Recorder. (Ord. 2009-1 § 1, 2009; Ord. 2002-3 § 1, 2002).</text>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2002-3" path="§1" type="History"/>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
+          <annotation type="History">Prior codification § 27.16.060</annotation>
+          <annotation doc="City of San Mateo, Cal., Ord. No. 2018-3" path="§2" type="History"/>
         </section>
       </container>
     </include>
+    <codify:find-replace path="27.30.027|(a)" count="1">
+      <find>
+        <cite path="27.16.060">Section 27.16.060</cite>
+      </find>
+      <replace>
+        <cite path="27.16">Section 27.16</cite>
+      </replace>
+    </codify:find-replace>
+    <codify:find-replace path="27.04.010|(b)|(9)" count="1">
+      <find>
+        <cite path="27.16.060">Section 27.16.060</cite>
+      </find>
+      <replace>
+        <cite path="27.86.030">Section 27.86.030</cite>
+      </replace>
+    </codify:find-replace>
   </section>
   <section>
     <num>3</num>
     <text>Subsection (k)(1) of <cite doc="City of San Mateo, Cal., Code" path="27.19.050">Section 27.19.050</cite>, "Development Standards," of <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite>, "Accessory Dwelling Unit and Junior Accessory Dwelling Unit – Residential Zones," is amended to read as follows:</text>
-    <para>
-      <num>1.</num>
-      <text>General Requirements. There shall be a minimum of one (1) standard size off-street parking space for each accessory dwelling unit or bedroom, whichever is less. The required accessory dwelling unit parking may be located in a garage, carport, uncovered or tandem space.  In addition, the required parking for the primary residential dwelling unit must comply with current code standards, as specified by the underlying zoning district. "</text>
-    </para>
+    <include>
+      <para>
+        <codify:replace path="27.19.050|(k)|(1)"/>
+        <num codify:value="(1)">1.</num>
+        <text>General Requirements. There shall be a minimum of one (1) standard size off-street parking space for each accessory dwelling unit or bedroom, whichever is less. The required accessory dwelling unit parking may be located in a garage, carport, uncovered or tandem space.  In addition, the required parking for the primary residential dwelling unit must comply with current code standards, as specified by the underlying zoning district.</text>
+      </para>
+    </include>
   </section>
   <section>
     <num>4</num>
     <text>Subsection (k)(5) of <cite doc="City of San Mateo, Cal., Code" path="27.19.050">Section 27.19.050</cite>, "Development Standards," is amended to read as follows:</text>
-    <include proof="true">
+    <include>
       <para>
-        <num>5.</num>
+        <codify:replace path="27.19.050|(k)|(5)"/>
+        <num codify:value="(5)">5.</num>
         <text>Parking Exemptions.  No additional parking shall be required for an accessory dwelling unit in the following instances:</text>
         <para>
           <num>a.</num>

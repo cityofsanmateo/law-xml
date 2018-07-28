@@ -1,13 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2018-4">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2018-4" codify:doc="City of San Mateo, Cal., Code">
   <num>2018-4</num>
   <heading>REPEAL CHAPTER 2.26, "SUSTAINABILITY COMMISSION" OF THE SAN MATEO MUNICIPAL CODE AND AMEND CHAPTER 2.28 "PUBLIC WORKS COMMISSION," TO ESTABLISH THE SUSTAINABILITY AND INFRASTRUCTURE COMMISSION</heading>
   <meta>
-    <effective>2018-01-01</effective>
+    <effective>2018-07-04</effective>
     <citations>
       <citation type="ord" url="https://www.cityofsanmateo.org/DocumentCenter/View/64935">Ord. No. 2018-4</citation>
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2018-4</citation>
     </citations>
+    <history>
+      <introduced>2018-05-21</introduced>
+      <adopted>2018-06-04</adopted>
+    </history>
   </meta>
   <recitals>
     <recital>
@@ -34,6 +38,7 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="2.26">Chapter 2.26, "Sustainability Commission," of the San Mateo Municipal Code</cite> is hereby repealed.</text>
+    <codify:remove path="2.26" warning="false"/>
   </section>
   <section>
     <num>2</num>
@@ -43,6 +48,9 @@
         <prefix>Chapter</prefix>
         <num>2.28</num>
         <heading>SUSTAINABILITY AND INFRASTRUCTURE COMMISSION</heading>
+        <codify:replace path="2.28|heading">
+          <heading>SUSTAINABILITY AND INFRASTRUCTURE COMMISSION</heading>
+        </codify:replace>
         <toc>
           <heading>Sections:</heading>
           <section>
@@ -59,6 +67,7 @@
           </section>
         </toc>
         <section>
+          <codify:replace path="2.28.010"/>
           <num>2.28.010</num>
           <heading>ORGANIZATION.</heading>
           <para>
@@ -71,11 +80,13 @@
           </para>
         </section>
         <section>
+          <codify:replace path="2.28.020"/>
           <num>2.28.020</num>
           <heading>MEETINGS.</heading>
           <text>The commission shall meet within one month of its formation and establish itself by electing a chairman, vice-chairman and secretary to serve at the pleasure of the commission. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided.</text>
         </section>
         <section>
+          <codify:replace path="2.28.030"/>
           <num>2.28.030</num>
           <heading>POWERS—DUTIES.</heading>
           <text>It shall be the duty of the sustainability and infrastructure commission, as an advisory body to the City Council, to advise on policies and programs related to environmental sustainability, transportation and infrastructure.</text>
@@ -88,21 +99,41 @@
   <section>
     <num>3</num>
     <text>The following Sections of the San Mateo Municipal Code are hereby amended to replace the term "Public Works Commission," wherever it appears, with the term "Sustainability and Infrastructure Commission":</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="5.75.430">5.75.430</cite> Rates-Application-Hearing;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="7.38.410">7.38.410</cite> Appeals and Hearing Procedures;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="7.39.200">7.39.200</cite> Appeals and Hearing Procedures;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="11.16.050">11.16.050</cite> Stop Sign Installation or Removal;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="11.16.060">11.16.060</cite> Appeals of Stop Sign Installation or Removal Decisions;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="11.16.070">11.16.070</cite> Required Noticing for Stop Sign Installation or Removal;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="11.32.120">11.32.120</cite> Residential Parking Permit Policies and Procedures;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="11.44.110">11.44.110</cite> Temporary Permits for Exclusive Use of Metered Parking Spaces;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="13.25.080">13.25.080</cite> Encroachments;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="17.08.115">17.08.115</cite> Curb Address Painting;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="17.08.130">17.08.130</cite> Permit-Issuance-Modification-Denial-Revocation-Appeal-Hearing;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="17.24.080">17.24.080</cite> Appeals Process;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="17.30.070">17.30.070</cite> Appeal;</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="17.30.080">17.30.080</cite> Revocation and Suspension of Permits; and</text>
-    <text proof="true"><cite doc="City of San Mateo, Cal., Code" path="23.40.040">23.40.040</cite> Procedures.</text>
+    <text>
+      <ul style="list-style-type: none;">
+        <li><cite doc="City of San Mateo, Cal., Code" path="5.75.430">5.75.430</cite> Rates-Application-Hearing;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="7.38.410">7.38.410</cite> Appeals and Hearing Procedures;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="7.39.200">7.39.200</cite> Appeals and Hearing Procedures;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="11.16.050">11.16.050</cite> Stop Sign Installation or Removal;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="11.16.060">11.16.060</cite> Appeals of Stop Sign Installation or Removal Decisions;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="11.16.070">11.16.070</cite> Required Noticing for Stop Sign Installation or Removal;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="11.32.120">11.32.120</cite> Residential Parking Permit Policies and Procedures;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="11.44.110">11.44.110</cite> Temporary Permits for Exclusive Use of Metered Parking Spaces;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="13.25.080">13.25.080</cite> Encroachments;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="17.08.115">17.08.115</cite> Curb Address Painting;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="17.08.130">17.08.130</cite> Permit-Issuance-Modification-Denial-Revocation-Appeal-Hearing;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="17.24.080">17.24.080</cite> Appeals Process;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="17.30.070">17.30.070</cite> Appeal;`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="17.30.080">17.30.080</cite> Revocation and Suspension of Permits; and`</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="23.40.040">23.40.040</cite> Procedures.`</li>
+      </ul>
+    </text>
+    <codify:find-replace path="5.75.430" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="7.38.410" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="7.39.200" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="11.16.050" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="11.16.060" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="11.16.070" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="11.32.120" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="11.44.110" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="13.25.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="17.08.115" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="17.08.130" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="17.24.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="17.30.070" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="17.30.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <!-- No instances of "Public Works Commission" in 23.40.040 -->
+    <!-- <codify:find-replace path="23.40.040" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/> -->
   </section>
   <section>
     <num>4</num>
