@@ -40,7 +40,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the proposed Zoning Code amendments comply with the legislative amendments made in 2016 to Government Code Section 65852.2 which establishes standards for the development of accessory dwelling units and junior accessory dwelling units so as to increase the supply of smaller and affordable housing while ensuring that they remain compatible with the existing neighborhood; and</text>
+      <text>the proposed Zoning Code amendments comply with the legislative amendments made in 2016 to <cite doc="Cal. Gov't Code" path="§65852.2">Government Code Section 65852.2</cite> which establishes standards for the development of accessory dwelling units and junior accessory dwelling units so as to increase the supply of smaller and affordable housing while ensuring that they remain compatible with the existing neighborhood; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -61,7 +61,7 @@
   </recitals>
   <section>
     <num>1</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04, "Definitions", of the San Mateo Municipal Code</cite> is amended to amend Sections 27.04.133, "Cooking Facility/Kitchen," and 27.04.165, "Dwelling," and to add new Sections 27.04.172, "Efficiency Food Preparation Area," and 27.04.494, " "Wetbar," as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04, "Definitions", of the San Mateo Municipal Code</cite> is amended to amend Sections <cite doc="City of San Mateo, Cal., Code" path="27.04.133">27.04.133</cite>, "Cooking Facility/Kitchen," and <cite doc="City of San Mateo, Cal., Code" path="27.04.165">27.04.165</cite>, "Dwelling," and to add new Sections <cite doc="City of San Mateo, Cal., Code" path="27.04.172">27.04.172</cite>, "Efficiency Food Preparation Area," and <cite doc="City of San Mateo, Cal., Code" path="27.04.494">27.04.494</cite>, " "Wetbar," as follows:</text>
     <include>
       <section>
         <num>27.04.133</num>
@@ -111,18 +111,18 @@
   </section>
   <section>
     <num>2</num>
-    <text>Subsection (h)(10) is deleted from Section 27.06.020, "Zoning Administrator – Powers and Duties," of Chapter 27.06, "Administration."</text>
+    <text>Subsection (h)(10) is deleted from <cite doc="City of San Mateo, Cal., Code" path="27.06.020">Section 27.06.020</cite>, "Zoning Administrator – Powers and Duties," of <cite doc="City of San Mateo, Cal., Code" path="27.06">Chapter 27.06</cite>, "Administration."</text>
   </section>
   <section>
     <num>3</num>
-    <text>Subsection (b) of Section 27.18.020, "Permitted Uses", of Chapter 27.18, "R1 Districts – One Family Dwellings", is amended to read as follows:</text>
+    <text>Subsection (b) of <cite doc="City of San Mateo, Cal., Code" path="27.18.020">Section 27.18.020</cite>, "Permitted Uses", of <cite doc="City of San Mateo, Cal., Code" path="27.18">Chapter 27.18</cite>, "R1 Districts – One Family Dwellings", is amended to read as follows:</text>
     <include proof="true">
       <text>"(b) 	Accessory dwelling units and junior accessory dwelling units subject to the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite>."</text>
     </include>
   </section>
   <section>
     <num>4</num>
-    <text>Chapter 27.19, "Secondary Units – Residential Zones", is amended to read as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite>, "Secondary Units – Residential Zones", is amended to read as follows:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
@@ -552,7 +552,7 @@
   </section>
   <section>
     <num>5</num>
-    <text>The heading of Section 27.64.160, "Schedules Generally." of <cite doc="City of San Mateo, Cal., Code" path="27.64">Chapter 27.64, "Off-Street Parking and Loading," of the San Mateo Municipal Code</cite> is amended to read:</text>
+    <text>The heading of <cite doc="City of San Mateo, Cal., Code" path="27.64.160">Section 27.64.160</cite>, "Schedules Generally." of <cite doc="City of San Mateo, Cal., Code" path="27.64">Chapter 27.64, "Off-Street Parking and Loading," of the San Mateo Municipal Code</cite> is amended to read:</text>
     <text>"Parking Schedules Generally," and subsection (1)(b) of the table is amended to read as follows and subsections (c) and (d) are renumbered:</text>
     <text>
       <table>
@@ -598,11 +598,11 @@
   <section>
     <num>7</num>
     <heading>ENVIRONMENTAL DETERMINATION.</heading>
-    <text>In accordance with the California Environmental Quality Act (CEQA) Guidelines, Section 21080.17, the proposed amendments to Chapter 27.19 are categorically exempt from CEQA as an amendment to implement the provisions of Section 65852.2 of the Government Code.  In accordance with Public Resources Code section 21080, the minor amendments proposed to the City's Zoning Code are not a "project" subject to CEQA in that they will not impact the environment.</text>
+    <text>In accordance with the California Environmental Quality Act (CEQA) Guidelines, Section 21080.17, the proposed amendments to <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite> are categorically exempt from CEQA as an amendment to implement the provisions of <cite doc="Cal. Gov't Code" path="§65852.2">Section 65852.2 of the Government Code</cite>.  In accordance with <cite doc="Cal. Pub. Res. Code" path="§21080">Public Resources Code section 21080</cite>, the minor amendments proposed to the City's Zoning Code are not a "project" subject to CEQA in that they will not impact the environment.</text>
   </section>
   <section>
     <num>8</num>
     <heading>PUBLICATION AND EFFECTIVE DATE.</heading>
-    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's office and posted on the City's Website, all in accord with Section 2.15 of the City Charter.</text>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's office and posted on the City's Website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
   </section>
 </document>

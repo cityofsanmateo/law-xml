@@ -24,7 +24,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the City Council has expressed support to move forward with amending Chapter 7.22 to include Social Host responsibility; and</text>
+      <text>the City Council has expressed support to move forward with amending <cite doc="City of San Mateo, Cal., Code" path="7.22">Chapter 7.22</cite> to include Social Host responsibility; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -88,7 +88,7 @@
         <section>
           <num>7.22.010</num>
           <heading>PURPOSE.</heading>
-          <text><cite doc="City of San Mateo, Cal., Code" path="7.22">This chapter</cite> is enacted pursuant to the authority provided in Government Code Sections 38771 through 38773.5 and pursuant to the City's police powers. The purpose of <cite doc="City of San Mateo, Cal., Code" path="7.22">this chapter</cite> is to identify activity which constitutes a public nuisance, to provide for the summary abatement of such a nuisance at the expense of the persons creating, causing, committing or maintaining it, and to promote the public peace, health, safety and welfare by minimizing the frequency of occurrences requiring calls for service to unruly gatherings which disturb the public peace and threaten the general welfare and to promote the reduction of underage drinking by imposing penalties upon responsible persons for unruly gatherings where alcohol is consumed by, served to or in the possession of underage persons. (Ord. 2004-15 § 1, 2004; Ord. 1991-17 § 1, 1991).</text>
+          <text><cite doc="City of San Mateo, Cal., Code" path="7.22">This chapter</cite> is enacted pursuant to the authority provided in <cite doc="Cal. Gov't Code" proof="true">Government Code</cite> Sections 38771 through 38773.5 and pursuant to the City's police powers. The purpose of <cite doc="City of San Mateo, Cal., Code" path="7.22">this chapter</cite> is to identify activity which constitutes a public nuisance, to provide for the summary abatement of such a nuisance at the expense of the persons creating, causing, committing or maintaining it, and to promote the public peace, health, safety and welfare by minimizing the frequency of occurrences requiring calls for service to unruly gatherings which disturb the public peace and threaten the general welfare and to promote the reduction of underage drinking by imposing penalties upon responsible persons for unruly gatherings where alcohol is consumed by, served to or in the possession of underage persons. (Ord. 2004-15 § 1, 2004; Ord. 1991-17 § 1, 1991).</text>
         </section>
         <section>
           <num>7.22.020</num>
@@ -98,11 +98,11 @@
             <text>"Unruly gathering" means a gathering of three or more people where such persons are engaged in activities that constitute a violation of:</text>
             <para>
               <num>(1)</num>
-              <text>Penal Code Section 407; or</text>
+              <text><cite doc="Cal. Penal Code" path="§407">Penal Code Section 407</cite>; or</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>Penal Code Section 415(2); o</text>
+              <text><cite doc="Cal. Penal Code" path="§415|(2)">Penal Code Section 415(2)</cite>; o</text>
             </para>
             <para>
               <num>(3)</num>
@@ -254,7 +254,7 @@
   <section>
     <num>3</num>
     <heading>PUBLICATION.</heading>
-    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
   </section>
   <section>
     <num>4</num>

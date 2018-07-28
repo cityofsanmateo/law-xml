@@ -12,7 +12,7 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>in 2015 the California State Legislature adopted AB 1236, amending the Government Code to require local agencies to adopt ordinances creating an expedited an streamlined permitting process for electric vehicle charges stations; and</text>
+      <text>in 2015 the California State Legislature adopted AB 1236, amending the <cite doc="Cal. Gov't Code" proof="true">Government Code</cite> to require local agencies to adopt ordinances creating an expedited an streamlined permitting process for electric vehicle charges stations; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -26,12 +26,12 @@
   <section>
     <num>1</num>
     <heading>PURPOSE AND INTENT.</heading>
-    <text>Adopt an expedited, streamlined permitting process for electric vehicle charging stations that complies with AB 1236 (Chapter 598, Statutes 2015, Cal. Gov't Code § 65850.7) to achieve timely and cost-effective installations of electric vehicle charging stations.</text>
+    <text>Adopt an expedited, streamlined permitting process for electric vehicle charging stations that complies with AB 1236 (Chapter 598, Statutes 2015, <cite doc="Cal. Gov't Code" path="§65850.7">Cal. Gov't Code § 65850.7</cite>) to achieve timely and cost-effective installations of electric vehicle charging stations.</text>
   </section>
   <section>
     <num>2</num>
     <heading>AMEND AND ADD.</heading>
-    <text><cite doc="City of San Mateo, Cal., Code" path="23">Title 23 of the San Mateo Municipal Code</cite> is hereby amended to add Chapter 23.44, Electric Vehicle Charging Stations, to read as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23">Title 23 of the San Mateo Municipal Code</cite> is hereby amended to add <cite doc="City of San Mateo, Cal., Code" path="23.44">Chapter 23.44</cite>, Electric Vehicle Charging Stations, to read as follows:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
@@ -151,7 +151,7 @@
   <section>
     <num>6</num>
     <heading>PUBLICATION.</heading>
-    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
   </section>
   <section>
     <num>7</num>

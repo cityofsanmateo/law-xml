@@ -61,7 +61,7 @@
   </recitals>
   <section>
     <num>1</num>
-    <text>Chapter 3.54 of the Municipal Code is hereby amended as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="3.54">Chapter 3.54</cite> of the Municipal Code is hereby amended as follows:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
@@ -106,7 +106,7 @@
           <num>3.54.010</num>
           <heading>PURPOSE; ADMINISTRATION.</heading>
           <text>The purpose and intent of <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite> is to provide for sewer service charges and connection charges to be imposed upon the owner(s) of every parcel of land within the City served by the City's sanitary sewer system and wastewater treatment plant.</text>
-          <text><cite doc="City of San Mateo, Cal., Code" path="3.54">This chapter</cite> shall be interpreted and administered in accordance with the provisions of Article XIIID of the Constitution of the State of California and sections 53750 through 53758 of the Government Code.</text>
+          <text><cite doc="City of San Mateo, Cal., Code" path="3.54">This chapter</cite> shall be interpreted and administered in accordance with the provisions of Article XIIID of the Constitution of the State of California and sections 53750 through <cite doc="Cal. Gov't Code" path="§53758">53758 of the Government Code</cite>.</text>
           <text>The Director of Public Works is authorized to administer and enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite> and shall adopt regulations necessary to effectuate such authority.</text>
         </section>
         <section>
@@ -272,7 +272,7 @@
   </section>
   <section>
     <num>6</num>
-    <text><strong>Publication. </strong>This ordinance shall be published in summary in the San Francisco Examiner, posted in the City Clerk's Office, and posted on the City's website, all in accordance with Section 2.15 of the City Charter.</text>
+    <text><strong>Publication. </strong>This ordinance shall be published in summary in the San Francisco Examiner, posted in the City Clerk's Office, and posted on the City's website, all in accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
   </section>
   <section>
     <num>7</num>

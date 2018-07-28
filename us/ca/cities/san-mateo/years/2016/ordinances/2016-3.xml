@@ -60,7 +60,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>Article X, Section 2 of the California Constitution and Section 100 of the California Water Code declare that the general welfare requires water resources be put to beneficial use, waste or unreasonable use or unreasonable method of use of water be prevented, and conservation of water be fully exercised with a view to the reasonable and beneficial use thereof.</text>
+      <text>Article X, Section 2 of the California Constitution and <cite doc="Cal. Water Code" path="§100">Section 100 of the California Water Code</cite> declare that the general welfare requires water resources be put to beneficial use, waste or unreasonable use or unreasonable method of use of water be prevented, and conservation of water be fully exercised with a view to the reasonable and beneficial use thereof.</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -89,7 +89,7 @@
   </recitals>
   <section>
     <num>1</num>
-    <text>Chapter 23.72, of <cite doc="City of San Mateo, Cal., Code" path="23">Title 23, "Water Conservation in Landscaping," of Title 23 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.72">Chapter 23.72</cite>, of <cite doc="City of San Mateo, Cal., Code" path="23">Title 23, "Water Conservation in Landscaping," of Title 23 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
@@ -266,7 +266,7 @@
           </para>
           <para>
             <num>(h)</num>
-            <text><strong>"Common interest developments"</strong> means community apartment projects, condominium projects, planned developments, and stock cooperatives per Civil Code Section 1351.</text>
+            <text><strong>"Common interest developments"</strong> means community apartment projects, condominium projects, planned developments, and stock cooperatives per <cite doc="Cal. Civ. Code" path="§1351">Civil Code Section 1351</cite>.</text>
           </para>
           <para>
             <num>(i)</num>
@@ -334,7 +334,7 @@
           </para>
           <para>
             <num>(y)</num>
-            <text><strong>"Graywater"</strong> means untreated wastewater that has not been contaminated by any toilet discharge, has not been affected by infectious, contaminated, or unhealthy bodily wastes, and does not present a threat from contamination by unhealthful processing, manufacturing, or operating wastes. "Graywater" includes, but is not limited to, wastewater from bathtubs, showers, bathroom washbasins, clothes washing machines, and laundry tubs, but does not include wastewater from kitchen sinks or dishwashers. (Health and Safety Code Section 17922.12.)</text>
+            <text><strong>"Graywater"</strong> means untreated wastewater that has not been contaminated by any toilet discharge, has not been affected by infectious, contaminated, or unhealthy bodily wastes, and does not present a threat from contamination by unhealthful processing, manufacturing, or operating wastes. "Graywater" includes, but is not limited to, wastewater from bathtubs, showers, bathroom washbasins, clothes washing machines, and laundry tubs, but does not include wastewater from kitchen sinks or dishwashers. (<cite doc="Cal. Health &amp; Safety Code" path="§17922.12">Health and Safety Code Section 17922.12</cite>.)</text>
           </para>
           <para>
             <num>(z)</num>
@@ -370,7 +370,7 @@
           </para>
           <para>
             <num>(hh)</num>
-            <text><strong>"Landscape architect"</strong> means a person who holds a license to practice landscape architecture in California as further defined by the California Business and Professions Code, Section 5615.</text>
+            <text><strong>"Landscape architect"</strong> means a person who holds a license to practice landscape architecture in California as further defined by the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">California Business and Professions Code</cite>, Section 5615.</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -992,7 +992,7 @@
             </para>
             <para>
               <num>(14)</num>
-              <text>Bear the signature of a licensed landscape architect, licensed landscape contractor, or any other person authorized to design a landscape (See Sections 5500.1, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, 7027.5 of the Business and Professions Code. Section 832.27 of <cite doc="City of San Mateo, Cal., Code" path="16">Title 16</cite> of the California Code of Regulations, and Section 6721 of the Food and Agriculture Code.)</text>
+              <text>Bear the signature of a licensed landscape architect, licensed landscape contractor, or any other person authorized to design a landscape (See Sections <cite doc="Cal. Bus. &amp; Prof. Code" path="§5500.1">5500.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615">5615</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641">5641</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.1">5641.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.2">5641.2</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.3">5641.3</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.4">5641.4</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.5">5641.5</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.6">5641.6</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§6701">6701</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5">7027.5</cite> of the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite>. Section 832.27 of <cite doc="City of San Mateo, Cal., Code" path="16">Title 16</cite> of the California Code of Regulations, and Section 6721 of the Food and Agriculture Code.)</text>
             </para>
           </para>
         </section>
@@ -1007,7 +1007,7 @@
               <text>System</text>
               <para>
                 <num>a.</num>
-                <text>Landscape water meters, defined as either a dedicated water service meter or private submeter, shall be installed for all non-residential irrigated landscapes of 1,000 sq. ft. but not more than 5,000 sq.ft. (the level at which Water Code 535 applies) and residential irrigated landscapes of 5,000 sq. ft. or greater. A landscape water meter may be either:</text>
+                <text>Landscape water meters, defined as either a dedicated water service meter or private submeter, shall be installed for all non-residential irrigated landscapes of 1,000 sq. ft. but not more than 5,000 sq.ft. (the level at which <cite doc="Cal. Water Code" path="§535">Water Code 535</cite> applies) and residential irrigated landscapes of 5,000 sq. ft. or greater. A landscape water meter may be either:</text>
                 <para>
                   <num>i.</num>
                   <text>A customer service meter dedicated to landscape use provided by the local water purveyor; or</text>
@@ -1188,7 +1188,7 @@
             </para>
             <para>
               <num>(7)</num>
-              <text>The signature of a licensed landscape architect, certified irrigation designer, licensed landscape contractor, or any other person authorized to design an irrigation system. (See Sections 5500.1, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, 7027.5 of the Business and Professions Code, Section 832.27 of <cite doc="City of San Mateo, Cal., Code" path="16">Title 16</cite> of the California Code of Regulations, and Section 6721 of the Food and Agricultural Code.)</text>
+              <text>The signature of a licensed landscape architect, certified irrigation designer, licensed landscape contractor, or any other person authorized to design an irrigation system. (See Sections <cite doc="Cal. Bus. &amp; Prof. Code" path="§5500.1">5500.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615">5615</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641">5641</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.1">5641.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.2">5641.2</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.3">5641.3</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.4">5641.4</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.5">5641.5</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.6">5641.6</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§6701">6701</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5">7027.5</cite> of the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite>, Section 832.27 of <cite doc="City of San Mateo, Cal., Code" path="16">Title 16</cite> of the California Code of Regulations, and <cite doc="Cal. Food &amp; Agric. Code" path="§6721">Section 6721 of the Food and Agricultural Code</cite>.)</text>
             </para>
           </para>
         </section>
@@ -1565,7 +1565,7 @@
   <section>
     <num>2</num>
     <heading>SEVERABILITY.</heading>
-    <text>If any section, subsection, provision or part of this Chapter or its application to any person or circumstance, is held to be unconstitutional or otherwise invalid, the remainder of this Chapter, and the application of such provision to other person or circumstances, shall not be affected thereby and shall remain in full force and effect and, to that end, the provisions of the Chapter are severable.</text>
+    <text>If any section, subsection, provision or part of <cite doc="City of San Mateo, Cal., Code" path="2">this Chapter</cite> or its application to any person or circumstance, is held to be unconstitutional or otherwise invalid, the remainder of <cite doc="City of San Mateo, Cal., Code" path="2">this Chapter</cite>, and the application of such provision to other person or circumstances, shall not be affected thereby and shall remain in full force and effect and, to that end, the provisions of the Chapter are severable.</text>
   </section>
   <section>
     <num>3</num>
@@ -1580,7 +1580,7 @@
   <section>
     <num>5</num>
     <heading>ENVIRONMENTAL DETERMINATION.</heading>
-    <text>This Ordinance is not subject to the California Environmental Quality Act (Public Resources Code Section 2100 e seq.) ("CEQA") pursuant to Section 15307 (the activity assures the maintenance, restoration, enhancement, or protection of a natural resource) of the State CEQA Guidelines, California Code of Regulations, Title 14, Chapter 3, since it makes and implements policies and procedures to ensure that water resources are conserved by reducing water consumption through the establishment of a structure for planning, designing, installing, maintaining and managing water-efficient landscapes.</text>
+    <text>This Ordinance is not subject to the California Environmental Quality Act (<cite doc="Cal. Pub. Res. Code" path="§2100">Public Resources Code Section 2100</cite> e seq.) ("CEQA") pursuant to Section 15307 (the activity assures the maintenance, restoration, enhancement, or protection of a natural resource) of the State CEQA Guidelines, California Code of Regulations, <cite doc="City of San Mateo, Cal., Code" path="14">Title 14</cite>, Chapter 3, since it makes and implements policies and procedures to ensure that water resources are conserved by reducing water consumption through the establishment of a structure for planning, designing, installing, maintaining and managing water-efficient landscapes.</text>
   </section>
   <section>
     <num>6</num>

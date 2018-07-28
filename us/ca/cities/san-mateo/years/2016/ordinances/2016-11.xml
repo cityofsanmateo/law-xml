@@ -12,7 +12,7 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the California Green Building, 2016 Edition, Title 24, Part 11 of the California Code of Regulations has been released by the State and needs to be adopted by local jurisdictions; and</text>
+      <text>the California Green Building, 2016 Edition, <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Part 11 of the California Code of Regulations has been released by the State and needs to be adopted by local jurisdictions; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -25,7 +25,7 @@
   </recitals>
   <section>
     <num>1</num>
-    <text>Chapter 23.70, is hereby amended to adopt the California Green Building Code, 2016 Edition with Local Amendments to read:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70">Chapter 23.70</cite>, is hereby amended to adopt the California Green Building Code, 2016 Edition with Local Amendments to read:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
@@ -181,7 +181,7 @@
   <section>
     <num>5</num>
     <heading>PUBLICATION.</heading>
-    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
   </section>
   <section>
     <num>6</num>
@@ -203,8 +203,8 @@
   <text>
     <strong>CALIFORNIA GREEN BUILDING STANDARDS CODE, 2016 EDITION</strong>
   </text>
-  <text>Section 17958 of the California Health and Safety Code provides that the City may make changes to the provisions in the uniform codes that are published in the California Building Standards Code.  Sections 17958.5 and 17958.7 of the Health and Safety Code require that for each proposed local change to those provisions in the uniform codes and published in the California Building Standards Code which regulate buildings used for human habitation, the City Council must make findings supporting its determination that each such local change is reasonably necessary because of local climatic, geological, or topographical conditions.</text>
-  <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections 17958, 17958.5 and 17958.7 of the Health and Safety Code.  Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings.  Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
+  <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">Section 17958 of the California Health and Safety Code</cite> provides that the City may make changes to the provisions in the uniform codes that are published in the California Building Standards Code.  Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code" proof="true">Health and Safety Code</cite> require that for each proposed local change to those provisions in the uniform codes and published in the California Building Standards Code which regulate buildings used for human habitation, the City Council must make findings supporting its determination that each such local change is reasonably necessary because of local climatic, geological, or topographical conditions.</text>
+  <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code" proof="true">Health and Safety Code</cite>.  Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings.  Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
   <text>
     <table>
       <tr>
@@ -245,7 +245,7 @@
     </table>
   </text>
   <text>
-    <strong>Key to Justification for Amendments to Title 24 of the California Code of Regulations</strong>
+    <strong>Key to Justification for Amendments to <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite> of the California Code of Regulations</strong>
   </text>
   <text>
     <table>
@@ -259,7 +259,7 @@
       <tr>
         <th>B.</th>
         <td proof="true">
-          <p>Energy efficiency and water conservation enhances the public health and welfare by promoting the <strong>environmental</strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in this Chapter are designed to achieve the following goals:</p>
+          <p>Energy efficiency and water conservation enhances the public health and welfare by promoting the <strong>environmental</strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" proof="true">this Chapter</cite> are designed to achieve the following goals:</p>
           <p>(a) Increase energy efficiency in buildings;</p>
           <p>(b) Increase water and resource conservation;</p>
           <p>(c) Provide durable buildings that are efficient and economical to own and operate;</p>

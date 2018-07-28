@@ -17,7 +17,7 @@
   </section>
   <section>
     <num>2</num>
-    <text>Chapter 7.14 "Property Maintenance Code" is hereby adopted as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.14">Chapter 7.14</cite> "Property Maintenance Code" is hereby adopted as follows:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
@@ -83,7 +83,7 @@
           <para>
             <num>(d)</num>
             <text>Section 104.1 General is amended as follows:</text>
-            <text>The code official is hereby authorized and directed to enforce the provisions of this code, as well as the State Housing Law as contained in Part 1.5 of Division 13 of the Health and Safety Code. The code official shall have the authority to render interpretations of this code and to adopt policies and procedures in order to clarify the application of its provisions. Such interpretations, policies, and procedures shall be in compliance with the intent and purpose of this code. Such policy and procedures shall not have the effect of waiving requirements specifically provided for in this code.</text>
+            <text>The code official is hereby authorized and directed to enforce the provisions of this code, as well as the State Housing Law as contained in Part 1.5 of Division <cite doc="Cal. Health &amp; Safety Code" path="§13">13 of the Health and Safety Code</cite>. The code official shall have the authority to render interpretations of this code and to adopt policies and procedures in order to clarify the application of its provisions. Such interpretations, policies, and procedures shall be in compliance with the intent and purpose of this code. Such policy and procedures shall not have the effect of waiving requirements specifically provided for in this code.</text>
           </para>
           <para>
             <num>(e)</num>
@@ -148,7 +148,7 @@
             <num>(b)</num>
             <text>SUBSTANDARD BUILDING is added as follows:</text>
           </para>
-          <text>A substandard building is any building or portion thereof, or the premises on which the same is located, in which there exists any of the conditions listed in the rules and regulations of the State Housing Law, as codified in section 17920.3 of the Health and Safety Code.</text>
+          <text>A substandard building is any building or portion thereof, or the premises on which the same is located, in which there exists any of the conditions listed in the rules and regulations of the State Housing Law, as codified in <cite doc="Cal. Health &amp; Safety Code" path="§17920.3">section 17920.3 of the Health and Safety Code</cite>.</text>
           <para>
             <num>(c)</num>
             <text>TEMPORARY is added as follows:</text>
@@ -246,7 +246,7 @@
   <section>
     <num>5</num>
     <heading>PUBLICATION.</heading>
-    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with Section 2.15 of the City Charter.</text>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
   </section>
   <section>
     <num>6</num>
