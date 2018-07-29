@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of San Mateo, Cal., Code">
   <prefix>Title</prefix>
   <num>7</num>
   <heading>HEALTH, SANITATION, AND PUBLIC NUISANCES</heading>
@@ -1183,7 +1183,7 @@
     <section>
       <num>7.22.010</num>
       <heading>PURPOSE.</heading>
-      <text><cite path="7.22">This chapter</cite> is enacted pursuant to the authority provided in <cite doc="Cal. Gov't Code" proof="true">Government Code</cite> Sections 38771 through 38773.5 and pursuant to the City's police powers. The purpose of <cite path="7.22">this chapter</cite> is to identify activity which constitutes a public nuisance, to provide for the summary abatement of such a nuisance at the expense of the persons creating, causing, committing or maintaining it, and to promote the public peace, health, safety and welfare by minimizing the frequency of occurrences requiring calls for service to unruly gatherings which disturb the public peace and threaten the general welfare and to promote the reduction of underage drinking by imposing penalties upon responsible persons for unruly gatherings where alcohol is consumed by, served to, or in the possession of underage persons.</text>
+      <text><cite path="7.22">This chapter</cite> is enacted pursuant to the authority provided in <cite doc="Cal. Gov't Code" proof="true">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§38771">38771</cite> through <cite doc="Cal. Gov't Code" path="§38773.5">38773.5</cite> and pursuant to the City's police powers. The purpose of <cite path="7.22">this chapter</cite> is to identify activity which constitutes a public nuisance, to provide for the summary abatement of such a nuisance at the expense of the persons creating, causing, committing or maintaining it, and to promote the public peace, health, safety and welfare by minimizing the frequency of occurrences requiring calls for service to unruly gatherings which disturb the public peace and threaten the general welfare and to promote the reduction of underage drinking by imposing penalties upon responsible persons for unruly gatherings where alcohol is consumed by, served to, or in the possession of underage persons.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-17" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-15" path="§1" type="History"/>
@@ -3447,7 +3447,7 @@
     <section>
       <num>7.38.450</num>
       <heading>REMEDIES NONEXCLUSIVE.</heading>
-      <text>Enforcement remedies provided for in <cite path="7.38">this chapter</cite> are not exclusive. The City may take all, or any combination of, these actions against a noncompliant user, as well as any other enforcement remedies which the City may have available, including, but not limited to, the remedies set forth in <cite doc="Cal. Gov't Code" proof="true">Government Code</cite> Sections 54725 through 54740.6.</text>
+      <text>Enforcement remedies provided for in <cite path="7.38">this chapter</cite> are not exclusive. The City may take all, or any combination of, these actions against a noncompliant user, as well as any other enforcement remedies which the City may have available, including, but not limited to, the remedies set forth in <cite doc="Cal. Gov't Code" proof="true">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§54725">54725</cite> through <cite doc="Cal. Gov't Code" path="§54740.6">54740.6</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-7" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2006-1" path="§1" type="History"/>
@@ -3471,7 +3471,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Administrative Citation. An authorized enforcement official may serve an administrative citation on any person who has violated, or continues to violate, any provision of <cite path="7.38">this chapter</cite>. Each day on which each instance of noncompliance shall occur or continue shall be deemed a separate and distinct violation. Procedures for application of administrative citations shall be in accordance with <cite doc="City of San Mateo, Cal., Code" path="1.10">Chapter 1.10 of the San Mateo Municipal Code</cite>.</text>
+        <text>Administrative Citation. An authorized enforcement official may serve an administrative citation on any person who has violated, or continues to violate, any provision of <cite path="7.38">this chapter</cite>. Each day on which each instance of noncompliance shall occur or continue shall be deemed a separate and distinct violation. Procedures for application of administrative citations shall be in accordance with <cite path="1.10">Chapter 1.10 of the San Mateo Municipal Code</cite>.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-7" path="§1" type="History"/>
@@ -3528,7 +3528,7 @@
     <section>
       <num>7.38.500</num>
       <heading>CALIFORNIA CODE OF CIVIL PROCEDURE SECTION 1094.6.</heading>
-      <text>The provisions of <cite doc="Cal. Civ. Proc. Code" path="§1094.6">Section 1094.6 of the California Code of Civil Procedure </cite>are applicable to judicial review of City decisions pursuant to <cite path="7.38">this chapter</cite>.</text>
+      <text>The provisions of <cite doc="Cal. Civ. Proc. Code" path="§1094.6">Section 1094.6 of the California Code of Civil Procedure</cite> are applicable to judicial review of City decisions pursuant to <cite path="7.38">this chapter</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-7" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2006-1" path="§1" type="History"/>
@@ -4191,7 +4191,7 @@
     <section>
       <num>7.39.310</num>
       <heading>CALIFORNIA CODE OF CIVIL PROCEDURE SECTION 1094.6—APPLICABILITY.</heading>
-      <text>The provisions of <cite doc="Cal. Civ. Proc. Code" path="§1094.6">Section 1094.6 of the California Code of Civil Procedure </cite>are applicable to judicial review of City decisions pursuant to <cite path="7.39">this chapter</cite>.</text>
+      <text>The provisions of <cite doc="Cal. Civ. Proc. Code" path="§1094.6">Section 1094.6 of the California Code of Civil Procedure</cite> are applicable to judicial review of City decisions pursuant to <cite path="7.39">this chapter</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-5" path="§1" type="History"/>
       </annotations>
@@ -4401,7 +4401,7 @@
       <heading>VIOLATIONS AND ENFORCEMENT.</heading>
       <para>
         <num>(a)</num>
-        <text>Any violation of <cite path="7.40">this chapter</cite> is punishable as specified in <cite doc="City of San Mateo, Cal., Code" path="1">Title 1 of the San Mateo Municipal Code</cite>.</text>
+        <text>Any violation of <cite path="7.40">this chapter</cite> is punishable as specified in <cite path="1">Title 1 of the San Mateo Municipal Code</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -5167,7 +5167,7 @@
         <heading>MARIJUANA PRODUCED FOR INDIVIDUAL RESIDENTIAL ON-SITE CONSUMPTION.</heading>
         <para>
           <num>(a)</num>
-          <text>Nothing in <cite path="7.46">this chapter</cite> shall be deemed to make unlawful an individual's cultivation of medical marijuana at their own residence for their own use, or for the use by another person regularly residing at such residence, if such cultivation, possession or use is lawful under <cite doc="Cal. Health &amp; Safety Code" proof="true">Health and Safety Code</cite> Sections 11362.7 through 11362.77.</text>
+          <text>Nothing in <cite path="7.46">this chapter</cite> shall be deemed to make unlawful an individual's cultivation of medical marijuana at their own residence for their own use, or for the use by another person regularly residing at such residence, if such cultivation, possession or use is lawful under <cite doc="Cal. Health &amp; Safety Code" proof="true">Health and Safety Code</cite> Sections <cite doc="Cal. Health &amp; Safety Code" path="§11362.7">11362.7</cite> through <cite doc="Cal. Health &amp; Safety Code" path="§11362.77">11362.77</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -5180,7 +5180,7 @@
       <section>
         <num>7.46.120</num>
         <heading>SEVERABILITY.</heading>
-        <text>If any section, subsection, sentence, clause, or phrase of <cite path="7.46">this chapter</cite>, is for any reason held to be invalid, unlawful, or unconstitutional<em>,</em>such invalidity or unconstitutionality shall not affect the validity, lawfulness, or constitutionality of any or all other portions of <cite path="7.46">this chapter</cite>.</text>
+        <text>If any section, subsection, sentence, clause, or phrase of <cite path="7.46">this chapter</cite>, is for any reason held to be invalid, unlawful, or unconstitutional<em>,</em> such invalidity or unconstitutionality shall not affect the validity, lawfulness, or constitutionality of any or all other portions of <cite path="7.46">this chapter</cite>.</text>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
         </annotations>

@@ -945,9 +945,18 @@
               <num>9.</num>
               <text>The type of construction as defined in Chapter 6 of the California Building Code.</text>
             </para>
-            <text>10. The design occupant load.</text>
-            <text>11. If an automatic sprinkler system is provided, whether the sprinkler system is required.</text>
-            <text>12. Any special stipulations and conditions of the building permit.</text>
+            <para>
+              <num>10.</num>
+              <text>The design occupant load.</text>
+            </para>
+            <para>
+              <num>11.</num>
+              <text>If an automatic sprinkler system is provided, whether the sprinkler system is required.</text>
+            </para>
+            <para>
+              <num>12.</num>
+              <text>Any special stipulations and conditions of the building permit.</text>
+            </para>
           </para>
           <para>
             <num>(d)</num>
@@ -1593,9 +1602,7 @@
     <text>The City Clerk is directed to send this Ordinance to the California Building Standards Commission.</text>
   </section>
   <text>
-    <text>
-      <strong>EXHIBIT A</strong>
-    </text>
+    <strong>EXHIBIT A</strong>
   </text>
   <num>23.07.080</num>
   <heading>SECTIONS R902.1 AMENDED--ROOFING REQUIREMENTS.</heading>

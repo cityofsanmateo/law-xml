@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of San Mateo, Cal., Code">
   <prefix>Title</prefix>
   <num>17</num>
   <heading>STREETS AND SIDEWALKS</heading>
@@ -352,7 +352,7 @@
       <text><strong>Publication.</strong> Newspapers, periodicals, magazines or other printed materials.</text>
       <text><strong>Publisher. </strong>Any person or entity engaged in the direct distribution, or who is within the chain of distribution, of a Publication.</text>
       <text><strong>Roadway.</strong> That portion of a public right of way improved, designed, and ordinarily used for vehicular traffic.</text>
-      <text><strong>Sidewalk.</strong>Any area provided for the use of pedestrians, including planting areas or parking strips, between the public roadway and adjacent property line.</text>
+      <text><strong>Sidewalk.</strong> Any area provided for the use of pedestrians, including planting areas or parking strips, between the public roadway and adjacent property line.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-4" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-2" path="§1" type="History"/>
@@ -932,7 +932,7 @@
       <text><strong>Planting strip</strong>. The area of the street lying between the curb line and the street line or edge of right-of-way along any street; including the sidewalk.</text>
       <text><strong>Property Owner. </strong>Without limitation, the fee owner of real property and the person or persons in possession of the real property.</text>
       <text><strong>Sidewalk</strong>. Any area provided for the use of pedestrians, including planting areas, driveway approaches or parking strips, between the public vehicular roadway and the edge of right-of-way bordering adjacent private property.</text>
-      <text><strong>Street Tree.</strong>Any woody perennial plant having a single main axis or stem achieving ten feet or more in height, growing within a street right-of-way; planted within a street right-of-way and/or designated planting easement.</text>
+      <text><strong>Street Tree.</strong> Any woody perennial plant having a single main axis or stem achieving ten feet or more in height, growing within a street right-of-way; planted within a street right-of-way and/or designated planting easement.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-4" path="§1" type="History"/>
       </annotations>

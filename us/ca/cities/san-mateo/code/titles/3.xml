@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of San Mateo, Cal., Code">
   <prefix>Title</prefix>
   <num>3</num>
   <heading>TAXATION AND FINANCE</heading>
@@ -1361,7 +1361,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>"This Transient Occupancy Registration Certificate signifies that the person named on the face hereof has fulfilled the requirements of <cite doc="City of San Mateo, Cal., Code" path="3.56">Chapter 3.56 of the San Mateo Municipal Code</cite>, the Uniform Transient Occupancy Tax, by registering with the license bureau for the purpose of collecting from transients the transient occupancy tax and remitting said tax to the Tax Collector. This certificate does not authorize any person to conduct any unlawful business or to conduct any lawful business in an unlawful manner, nor to operate a hotel without strictly complying with all local applicable laws, including but not limited to those requiring a permit from any board, commission, department or office of the City of San Mateo. This certificate does not constitute a permit."</text>
+        <text>"This Transient Occupancy Registration Certificate signifies that the person named on the face hereof has fulfilled the requirements of <cite path="3.56">Chapter 3.56 of the San Mateo Municipal Code</cite>, the Uniform Transient Occupancy Tax, by registering with the license bureau for the purpose of collecting from transients the transient occupancy tax and remitting said tax to the Tax Collector. This certificate does not authorize any person to conduct any unlawful business or to conduct any lawful business in an unlawful manner, nor to operate a hotel without strictly complying with all local applicable laws, including but not limited to those requiring a permit from any board, commission, department or office of the City of San Mateo. This certificate does not constitute a permit."</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 58.5.06</annotation>
