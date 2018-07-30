@@ -24,7 +24,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>as amended, <cite doc="Cal. Gov't Code" path="§65863">Government Code Section 65863</cite> provides that if a reduction in residential density for any parcel would result in the remaining sites in the housing element not being adequate to accommodate the jurisdiction's share of the regional housing need pursuant to Section 65584, the jurisdiction may reduce the density on that parcel if it identifies sufficient additional, adequate, and available sites with an equal or greater residential density in the jurisdiction so that there is no net loss of residential unit capacity for each income category; and</text>
+      <text>as amended, <cite doc="Cal. Gov't Code" path="§65863">Government Code Section 65863</cite> provides that if a reduction in residential density for any parcel would result in the remaining sites in the housing element not being adequate to accommodate the jurisdiction's share of the regional housing need pursuant to <cite doc="Cal. Gov't Code" path="§65584">Section 65584</cite>, the jurisdiction may reduce the density on that parcel if it identifies sufficient additional, adequate, and available sites with an equal or greater residential density in the jurisdiction so that there is no net loss of residential unit capacity for each income category; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -90,7 +90,7 @@
       <codify:replace-content path="27.06.080"/>
       <para>
         <num codify:value="(a)">(a.)</num>
-        <text>Chapters 3 and 4 of Title <cite doc="Cal. Gov't Code" path="§7">7 of the California Government Code</cite>, commencing with Section 65100 thereof, are incorporated into <cite doc="City of San Mateo, Cal., Code" path="1">this Title</cite> and made a part hereof by this reference, with the following exceptions:</text>
+        <text>Chapters 3 and 4 of Title 7 of the California Government Code, commencing with <cite doc="Cal. Gov't Code" path="§65100">Section 65100</cite> thereof, are incorporated into <cite doc="City of San Mateo, Cal., Code" path="1">this Title</cite> and made a part hereof by this reference, with the following exceptions:</text>
         <para>
           <num>(1)</num>
           <text>Amendments to the general plan may be processed simultaneously with related zoning amendments and/or discretionary permits; and</text>
@@ -114,7 +114,7 @@
       </para>
       <para>
         <num codify:value="(b)">(b.)</num>
-        <text>In the event of conflicts now or in the future, between these provisions of the <cite doc="Cal. Gov't Code">California Government Code</cite> and City ordinances, resolutions, or Council policy, the latter shall prevail."</text>
+        <text>In the event of conflicts now or in the future, between these provisions of the <cite doc="Cal. Gov't Code">California Government Code</cite> and City ordinances, resolutions, or Council policy, the latter shall prevail.<span codify:value="">"</span></text>
       </para>
     </include>
   </section>
@@ -369,7 +369,7 @@
         <section>
           <num>27.15.070</num>
           <heading>Affordable Housing Agreement.</heading>
-          <text>Prior to the issuance of a building permit for any dwelling unit in a development for which a density bonus has been awarded, the developer must enter into an Affordable Housing Agreement. The Agreement will run with the land, be binding upon successors in interest, and be recorded with the County Recorder. (Ord. 2009-1 § 1, 2009; Ord. 2002-3 § 1, 2002).</text>
+          <text>Prior to the issuance of a building permit for any dwelling unit in a development for which a density bonus has been awarded, the developer must enter into an Affordable Housing Agreement. The Agreement will run with the land, be binding upon successors in interest, and be recorded with the County Recorder.<span codify:value=""> (Ord. 2009-1 § 1, 2009; Ord. 2002-3 § 1, 2002)</span>.</text>
           <annotation doc="City of San Mateo, Cal., Ord. No. 2002-3" path="§1" type="History"/>
           <annotation doc="City of San Mateo, Cal., Ord. No. 2009-1" path="§1" type="History"/>
           <annotation type="History">Prior codification § 27.16.060</annotation>
@@ -382,7 +382,7 @@
         <cite path="27.16.060">Section 27.16.060</cite>
       </find>
       <replace>
-        <cite path="27.16">Section 27.16</cite>
+        <cite path="27.15">Chapter 27.15</cite>
       </replace>
     </codify:find-replace>
     <codify:find-replace path="27.04.010|(b)|(9)" count="1">

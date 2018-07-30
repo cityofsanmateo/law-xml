@@ -132,8 +132,6 @@
     <codify:find-replace path="17.24.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
     <codify:find-replace path="17.30.070" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
     <codify:find-replace path="17.30.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
-    <!-- No instances of "Public Works Commission" in 23.40.040 -->
-    <!-- <codify:find-replace path="23.40.040" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/> -->
   </section>
   <section>
     <num>4</num>
