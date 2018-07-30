@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of San Mateo, Cal., Code">
   <prefix>Title</prefix>
   <num>5</num>
   <heading>BUSINESS LICENSES AND REGULATIONS</heading>
@@ -1795,7 +1795,7 @@
         </para>
         <para>
           <num>(p)</num>
-          <text><strong>Theater.</strong>The term "theater" or other similar establishment is one that is primarily devoted to film or theatrical performances and means a building, playhouse, room, hall or other place having permanently affixed seats so arranged that a body of spectators can have an unobstructed view of the stage upon which theatrical or movies or vaudeville or similar performances are presented and where such performances are not incidental to promoting the sale of food, drink or other merchandise; and for which a city license for a theater is in full force and effect.</text>
+          <text><strong>Theater.</strong> The term "theater" or other similar establishment is one that is primarily devoted to film or theatrical performances and means a building, playhouse, room, hall or other place having permanently affixed seats so arranged that a body of spectators can have an unobstructed view of the stage upon which theatrical or movies or vaudeville or similar performances are presented and where such performances are not incidental to promoting the sale of food, drink or other merchandise; and for which a city license for a theater is in full force and effect.</text>
         </para>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>

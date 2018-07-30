@@ -16,7 +16,7 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the procedures set forth in Article XIIID § 6 of the California State Constitution (Proposition 218) for property-related fees apply to sewer service charge increases; and</text>
+      <text>the procedures set forth in Article XIIID <cite doc="Cal. Const." path="§6">§ 6 of the California State Constitution</cite> (Proposition 218) for property-related fees apply to sewer service charge increases; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -32,7 +32,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>in accordance with Article XIIID § 6 of the California Constitution, the Council finds that:</text>
+      <text>in accordance with Article XIIID <cite doc="Cal. Const." path="§6">§ 6 of the California Constitution</cite>, the Council finds that:</text>
       <para>
         <num>a.</num>
         <text>The revenues derived from the Sewer Service Charge do not exceed the funds required to provide sewer service because the rate increase is needed to fund ongoing sewer system and wastewater treatment plant operation and maintenance and meet capital expenditures,</text>
@@ -111,7 +111,7 @@
           <codify:replace path="3.54.010"/>
           <heading>PURPOSE; ADMINISTRATION.</heading>
           <text>The purpose and intent of <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite> is to provide for sewer service charges and connection charges to be imposed upon the owner(s) of every parcel of land within the City served by the City's sanitary sewer system and wastewater treatment plant.</text>
-          <text><cite doc="City of San Mateo, Cal., Code" path="3.54">This chapter</cite> shall be interpreted and administered in accordance with the provisions of Article XIIID of the Constitution of the State of California and sections 53750 through <cite doc="Cal. Gov't Code" path="§53758">53758 of the Government Code</cite>.</text>
+          <text><cite doc="City of San Mateo, Cal., Code" path="3.54">This chapter</cite> shall be interpreted and administered in accordance with the provisions of Article XIIID of the Constitution of the State of California and sections <cite doc="Cal. Gov't Code" path="§53750">53750</cite> through <cite doc="Cal. Gov't Code" path="§53758">53758</cite> of the <cite doc="Cal. Gov't Code" proof="true">Government Code</cite>.</text>
           <text>The Director of Public Works is authorized to administer and enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="3.54">this chapter</cite> and shall adopt regulations necessary to effectuate such authority.</text>
         </section>
         <section>

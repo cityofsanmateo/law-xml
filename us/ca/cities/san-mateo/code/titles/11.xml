@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of San Mateo, Cal., Code">
   <prefix>Title</prefix>
   <num>11</num>
   <heading>VEHICLES AND TRAFFIC</heading>
@@ -609,7 +609,7 @@
       <num>11.28.030</num>
       <heading>DEFINITIONS.</heading>
       <text><strong>City Manager</strong> means the City Manager or designee.</text>
-      <text><strong>GVWR</strong>means gross vehicle weight rating. A gross vehicle weight rating (GVWR) is the maximum allowable total weight of a road vehicle or trailer that is loaded, including the weight of the vehicle itself plus fuel, passengers, cargo, and trailer tongue weight.</text>
+      <text><strong>GVWR</strong> means gross vehicle weight rating. A gross vehicle weight rating (GVWR) is the maximum allowable total weight of a road vehicle or trailer that is loaded, including the weight of the vehicle itself plus fuel, passengers, cargo, and trailer tongue weight.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-10" path="§2" type="History"/>
       </annotations>
@@ -2016,7 +2016,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text><strong>"Solicit"</strong>means any request, offer, enticement, or action which announces the availability for or of employment, the sale of goods, or a request for money or other property; or any request, offer, enticement or action which shows intent or desire to purchase or secure goods or employment, or to make a contribution of money or other property. Solicitation shall include participation in discussions undertaken in response to the solicitation by another person. A solicitation shall be deemed complete when made whether or not an actual employment relationship is created, a transaction is completed, or an exchange of money or other property takes place.</text>
+        <text><strong>"Solicit"</strong> means any request, offer, enticement, or action which announces the availability for or of employment, the sale of goods, or a request for money or other property; or any request, offer, enticement or action which shows intent or desire to purchase or secure goods or employment, or to make a contribution of money or other property. Solicitation shall include participation in discussions undertaken in response to the solicitation by another person. A solicitation shall be deemed complete when made whether or not an actual employment relationship is created, a transaction is completed, or an exchange of money or other property takes place.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-9" path="§3" type="History"/>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of San Mateo, Cal., Code">
   <prefix>Title</prefix>
   <num>25</num>
   <heading>SIGNS</heading>
@@ -258,18 +258,7 @@
     <section>
       <num>25.02.050</num>
       <heading>SEVERABILITY.</heading>
-      <text>In the event any section, clause or provision of <cite path="25">this Title</cite> shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
-      <annotations>
-        <annotation type="History">prior code § 158.03 (part)</annotation>
-        <annotation doc="City of San Mateo, Cal., Ord. No. 1971-28" path="§1" type="History"/>
-        <annotation doc="City of San Mateo, Cal., Ord. No. 1989-42" path="§1" type="History"/>
-        <annotation doc="City of San Mateo, Cal., Ord. No. 1991-16" path="§2" type="History"/>
-        <annotation doc="City of San Mateo, Cal., Ord. No. 1994-25" path="§1" type="History"/>
-        <annotation doc="City of San Mateo, Cal., Ord. No. 2001-33" path="§1" type="History"/>
-        <annotation type="History">prior code <cite path="25.04.030">§ 25.04.030</cite></annotation>
-        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-2" path="§1" type="History"/>
-        <annotation doc="City of San Mateo, Cal., Ord. No. 2010-8" path="§1" type="History"/>
-      </annotations>
+      <text>In the event any section, clause or provision of <cite path="25">this Title</cite> shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect. (Ord. 2010-8 § 1, 2010; Ord. 2009-2 § 1, 2009; prior code <cite path="25.04.030">§ 25.04.030</cite>; Ord. 2001-33 § 1, 2001; Ord. 1994-25 § 1, 1994; Ord. 1991-16 § 2, 1991; Ord. 1989-42 § 1, 1989; Ord. 1971-28 § 1, 1971; prior code § 158.03 (part)).</text>
     </section>
   </container>
   <container>
@@ -408,7 +397,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>No banner or attachment shall be placed on a street light pole before an encroachment permit is issued under <cite doc="City of San Mateo, Cal., Code" path="17.08">San Mateo Municipal Code Chapter 17.08</cite>; and</text>
+          <text>No banner or attachment shall be placed on a street light pole before an encroachment permit is issued under <cite path="17.08">San Mateo Municipal Code Chapter 17.08</cite>; and</text>
         </para>
         <para>
           <num>(8)</num>

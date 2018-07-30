@@ -9,4 +9,699 @@
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2016-12</citation>
     </citations>
   </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the State of California per California Code of Regulations <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Part 9 requires local municipal Fire Codes to be adopted, including local conditions and building standards by January 1, 2017; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the 2016 California Fire Code has adopted the 2015 International Fire Code of the International Code Council; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the city of San Mateo has unique local conditions and building standards to be incorporated into the City of San Mateo's Municipal Code in addition to adopting the California Fire Code;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO DOES ORDAIN AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>PURPOSE AND INTENT.</heading>
+    <text>The purpose of this ordinance to update the City of San Mateo's Fire Code and incorporate the complete 2016 California Fire Code with amendments reflecting local conditions and building standards, as required by the 2016 California Fire Code, California Code of Regulations <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Part 9 that adopted the 2015 International Fire Code of the International Code Council.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.28">Chapter 23.28</cite> Fire Prevention is hereby repealed.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.28">Chapter 23.28</cite> Fire Code is hereby adopted, as follows:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>23.28</num>
+        <heading>FIRE CODE</heading>
+        <toc>
+          <section>
+            <num>23.28.010</num>
+            <heading>Adoption.</heading>
+          </section>
+          <section>
+            <num>23.28.020</num>
+            <heading>Applicability.</heading>
+          </section>
+          <section>
+            <num>23.28.030</num>
+            <heading>Title.</heading>
+          </section>
+          <section>
+            <num>23.28.040</num>
+            <heading>Policy Manual.</heading>
+          </section>
+          <section>
+            <num>23.28.050</num>
+            <heading>Board of Appeals.</heading>
+          </section>
+          <section>
+            <num>23.28.060</num>
+            <heading>General Definitions. All Weather Driving Surface.</heading>
+          </section>
+          <section>
+            <num>23.28.090</num>
+            <heading>Buildings and Facilities.</heading>
+          </section>
+          <section>
+            <num>23.28.100</num>
+            <heading>Fire Lane Designation.</heading>
+          </section>
+          <section>
+            <num>23.28.110</num>
+            <heading>Address Identification.</heading>
+          </section>
+          <section>
+            <num>23.28.120</num>
+            <heading>Address Identification - Multi-Tenant Buildings.</heading>
+          </section>
+          <section>
+            <num>23.28.130</num>
+            <heading>Address Identification - Rear Addressing.</heading>
+          </section>
+          <section>
+            <num>23.28.140</num>
+            <heading>Key Box contents requirements.</heading>
+          </section>
+          <section>
+            <num>23.28.145</num>
+            <heading>Gates.</heading>
+          </section>
+          <section>
+            <num>23.28.150</num>
+            <heading>Records Reporting.</heading>
+          </section>
+          <section>
+            <num>23.28.160</num>
+            <heading>Automatic Sprinkler Systems - Where required.</heading>
+          </section>
+          <section>
+            <num>23.28.170</num>
+            <heading>NFPA 13R Sprinkler Systems.</heading>
+          </section>
+          <section>
+            <num>23.28.180</num>
+            <heading>Automatic Sprinkler Systems - Existing Buildings and Structures.</heading>
+          </section>
+          <section>
+            <num>23.28.190</num>
+            <heading>Fire Control Room.</heading>
+          </section>
+          <section>
+            <num>23.28.200</num>
+            <heading>Standpipe Systems – Required installation.</heading>
+          </section>
+          <section>
+            <num>23.28.210</num>
+            <heading>Fire Alarm Certification. Added</heading>
+          </section>
+          <section>
+            <num>23.28.220</num>
+            <heading>Midrise Smoke Control Systems.</heading>
+          </section>
+          <section>
+            <num>23.28.230</num>
+            <heading>Convenience Stair.</heading>
+          </section>
+          <section>
+            <num>23.28.240</num>
+            <heading>Appendix C Number and distribution of fire hydrants.</heading>
+          </section>
+          <section>
+            <num>23.28.250</num>
+            <heading>Violations</heading>
+          </section>
+          <section>
+            <num>23.28.260</num>
+            <heading>Fire and Life Safety Inspections</heading>
+          </section>
+        </toc>
+        <section>
+          <num>23.28.010</num>
+          <heading>ADOPTION.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The 2016 California Fire Code (CFC), California Code of Regulations, <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Part 9, adopting the 2015 International Fire Code of the International Code Council with necessary California amendments, together with the non-building standards reproduced therein except otherwise provided by this ordinance, are adopted by reference as the Fire Code of City of SAN MATEO.    This Code including all amendments thereto, shall hereafter be called the "Fire Code," and/or this "Code" and are adopted as and for the rules, regulations, and standards within the City as to all matters therein, except otherwise provided.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>2016 California Fire Code section 103.2, Appointment is not adopted.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The Appendix Chapters A, D, E, F, I and J contained in the 2016 California Fire Code are not adopted unless adopted by the state.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>No section of the Fire Prevention Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council, or commission thereof.  Instead, if any section purports to impose a mandatory duty of enforcement, said section shall be deemed to invest the City, and the appropriate officer, official, agent, employee, board, council, or commission with discretion to enforce the section, or not to enforce it.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>A copy of the Fire Code, as defined herein, shall be kept on file on the office of the City Clerk.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.28.020</num>
+          <heading>APPLICABILITY.</heading>
+          <para>
+            <num>(a)</num>
+            <text>All sections of <cite doc="City of San Mateo, Cal., Code" path="23.28">this Chapter</cite> shall apply to all buildings, structures and portions thereof, and to all appurtenances and fixtures thereto, and anything connected with, or by, or in, or on, any premise or building.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Whenever any provision of <cite doc="City of San Mateo, Cal., Code" path="23.28">this Chapter</cite> or in any other law, ordinance, or resolution of any kind, impose overlapping or contradictory regulations, or contain any restrictions covering the same subject matter, the provision that is more restrictive or imposes higher standards or requirements shall govern.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.28.030</num>
+          <heading>TITLE -- AMENDED</heading>
+          <text>Section 101.1 "Title" is amended to read as shown below:</text>
+          <text>These regulations shall be known as the 2016 CALIFORNIA FIRE CODE, and with amendments adopted by the City of San Mateo, will be referred to herein as this "CODE," and/or "FIRE CODE."</text>
+        </section>
+        <section>
+          <num>23.28.040</num>
+          <heading>POLICY MANUAL – AMENDED.</heading>
+          <text>Section 101 "Scope and General Requirements" is amended to add subsection 101.6 "Policy Manual" to read as shown below:</text>
+          <text>The Bureau of Fire Protection and Life Safety Policy Manual shall serve as a supplemental instruction and interpretation manual for the Fire Code and is hereby incorporated by reference. The Fire Marshal is responsible for amending this manual as necessary to maintain current instructions and interpretations.</text>
+        </section>
+        <section>
+          <num>23.28.050</num>
+          <heading>BOARD OF APPEALS – NOT ADOPTED.</heading>
+          <text>Section 108 "Board of Appeals" is not adopted. All decisions and determinations of the Fire Chief decisions or determinations made by the building official relative to the application and interpretations of these codes are final and not subject to appeal.</text>
+        </section>
+        <section>
+          <num>23.28.060</num>
+          <heading>GENERAL DEFINITIONS – AMENDED.</heading>
+          <text>Section 202 is amended to include the following additional definitions as shown below:</text>
+          <text>All Weather Driving Surface. A roadway designed to carry the imposed weight loads of fire apparatus (Minimum load of 68,000 pounds) and a minimum surface finish of one layer of asphalt or concrete or road pavers.</text>
+          <text>Driveway. Access road from the public way to a structure that is used for public vehicular access,</text>
+          <text>including fire and emergency vehicles.</text>
+          <text>Midrise. A building with four or more stories and/or occupied floors more than 40 feet above the lowest level of exit discharge.</text>
+        </section>
+        <section>
+          <num>23.28.090</num>
+          <heading>BUILDINGS AND FACILITIES – AMENDED</heading>
+          <text>Section 503.1.1 "Buildings and Facilities" is amended to read as shown below:</text>
+          <text>Every building and facility shall be accessible to Fire Department apparatus by way of all-weather access roadways prior to combustible construction.  The fire apparatus access roads shall comply with the requirements of this section and extend to within 150' of all portions of the facility and all portions of the exterior walls of the first story of the building as measured by an approved route around the exterior of the building or facility. The access road shall have a minimum unobstructed width of 20' and shall be required to have a minimum 'first lift' of pavement applied which shall support the imposed load of a fire apparatus which is a minimum 68,000 pounds. The developer shall be required to provide the Fire Chief with a site plan showing the location, width, grades, and cross section of the proposed access roads to be used during construction.  Building construction permits shall not be issued and combustible construction shall not be allowed on the site until the site plan is reviewed and approved and stamped by the Fire Department.</text>
+          <text>Exceptions:</text>
+          <text>The Fire Chief is authorized to increase the dimension of 150 feet where any of the following conditions occur:</text>
+          <text>The building is equipped throughout with an approved automatic sprinkler system installed in accordance with Section 903.3.1.1, 903.3.1.2 or 903.3.1.3.</text>
+          <text>Fire apparatus access roads cannot be installed because of location on property, topography, waterways, nonnegotiable grades or other similar conditions, and an approved alternative means of fire protection is provided.</text>
+          <text>There are not more than two Group R-3 or Group U occupancies.</text>
+          <text>Where approved by the Fire Chief, fire apparatus access roads shall be permitted to be exempted or modified for solar photovoltaic power generation facilities.</text>
+        </section>
+        <section>
+          <num>23.28.100</num>
+          <heading>FIRE LANE DESIGNATION – ADDED.</heading>
+          <text>Section 503.3 "Marking" is amended to include subsection 503.3.1 "Fire Lane Designation" to read as shown below:</text>
+          <text>Designation of fire lanes shall be by one of the following means:</text>
+          <para>
+            <num>(a)</num>
+            <text>By a white sign measuring at least twelve inches by eighteen inches (12" x 18") posted immediately adjacent thereto and clearly visible. It should clearly state in red letters not less than one inch (1") in height, that the space is a fire lane and parking is prohibited. Fire lane signs shall be spaced at a minimum of 50 feet apart.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>By outlining and hash marking the area in contrasting colors clearly marking it with the words "Fire Lane - No Parking."</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>By identifying the space with a red curb upon which the words "Fire Lane - No Parking" are stenciled every 15 feet.</text>
+            <para>
+              <num>1.</num>
+              <text>Both sides of fire lanes shall be red curbed when the fire lane is twenty (20) 			feet to twenty-eight (28) feet in width.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>At least one side of a fire lane shall be red curbed and stenciled when the fire 		lane is over twenty-eight (28) and up to thirty-six (36) feet in width.</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>Curbs need not be painted red nor stenciled when the fire lane is more than thirty-		six (36) feet in width.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.28.110</num>
+          <heading>ADDRESS IDENTIFICATION.</heading>
+          <text>Section 505.1 "Address Identification" is amended to read as shown below:</text>
+          <text>New and existing buildings shall have approved address numbers, building numbers or approved building identification placed in a position that is plainly legible and visible from the street or road fronting the property. These numbers shall contrast with their background. Address numbers shall be Arabic numerals or alphabet letters. Said numbers shall be either internally or externally illuminated in all new construction.  Numbers shall be as follows:</text>
+          <para>
+            <num>(a)</num>
+            <text>Minimum of one-half inch (1/2″) stroke by six inches (6″) high.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>When the structure is thirty-six (36) to fifty (50) feet from the street or fire department access a minimum of one-half inch (1/2″) stroke by nine inches (9″) high is required.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>When the structure is more than fifty (50) feet from the street or fire apparatus access, a minimum of one inch (1") stroke by twelve inches (12″) high is required.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.28.120</num>
+          <heading>ADDRESS IDENTIFICATION - MULTI-TENANT BUILDINGS – ADDED.</heading>
+          <text>Section 505.1 is amended to include subsection Section 505.1.1 "Multi-Tenant Building" to read as shown below:</text>
+          <text>Numbers or letters shall be designated on all occupancies within a building. Size shall be one-half inch (1/2″) stroke by four inches (4″) high and on a contrasting background.  Directional address numbers or letters shall be provided.  Said addresses or numbers shall visible from the street posted at a minimum height of 5 feet, 6 inches (5′ 6″) above the finished floor, shall be visible from the street and shall be either internally or externally illuminated in all new construction.</text>
+        </section>
+        <section>
+          <num>23.28.130</num>
+          <heading>ADDRESS IDENTIFICATION - REAR ADDRESSING – ADDED.</heading>
+          <text>Section 505.1 is amended to include subsection Section 55.1.2 "Rear Addressing" to read as shown below:</text>
+          <text>When required by the chief, approved numbers or addresses shall be placed on all new and existing buildings in such a position as to be plainly visible and legible from the fire apparatus road at the back of a property or where rear parking lots or alleys provide an acceptable vehicular access. Number stroke and size shall comply with 505.1.</text>
+        </section>
+        <section>
+          <num>23.28.140</num>
+          <heading>KEY BOX CONTENTS REQUIREMENTS – ADDED.</heading>
+          <text>Section 506.1.1 "Locks" is amended to include subsection 506.1.1.1 "Key box contents requirements" to read as shown below:</text>
+          <text>The keys provided shall be a master key to all spaces including multi-tenant spaces. Additional keys shall be included for card access, elevator control, fire alarm control panels, and fire sprinkler control valve access. If the business/operation is required to have a Hazardous Material Inventory Statement (HMIS), the HMIS shall be included in the key box.</text>
+          <text>Exceptions:</text>
+          <para>
+            <num>1.</num>
+            <text>Multi-tenant spaces which provide a key box for each tenant and installed per Section 506.1.</text>
+            <text>Electronic card keys and codes may not be utilized as a substitute for manual keys.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>When electronic locks release upon loss of electrical power or fire alarm activation a manual</text>
+            <text>key need not be provided.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.28.145</num>
+          <heading>GATES – ADDED.</heading>
+          <text>Section 506.1.1 "Locks" is amended to include subsection 506.1.1.2 "Gates" to read as shown below:</text>
+          <text>Where a new gate or barrier is installed on a fire access roadway, the fire department shall have emergency access. Gates or barriers shall have a wireless option for motorized gates or an approved key switch.</text>
+          <text>Exception: R-3 occupancies</text>
+        </section>
+        <section>
+          <num>23.28.150</num>
+          <heading>RECORDS REPORTING – ADDED.</heading>
+          <text>Section 901.6.2 "Records" is amended to include subsection 901.6.2.2 "Records Reporting" to read as shown below:</text>
+          <text>Fire detection, alarm and extinguishing systems, shall be maintained in an operative condition at all times, and shall be replaced or repaired where defective. Non-required fire protection systems and equipment shall be inspected, tested, and maintained or removed.  All inspection, testing and maintenance reports shall be forwarded to the Fire Department using electronic media.  No paper (hard copy) reports shall be permitted.</text>
+        </section>
+        <section>
+          <num>23.28.160</num>
+          <heading>AUTOMATIC SPRINKLER SYSTEMS – Where Required – AMENDED.</heading>
+          <text>Section 903.2 "Automatic Sprinkler Systems – Where Required" is amended to read as shown below:</text>
+          <text>Approved automatic sprinkler systems shall be installed throughout all new buildings unless the structure does not require a building permit.</text>
+          <text>Exception: Detached Group U occupancies or carports less than 400 square feet.</text>
+        </section>
+        <section>
+          <num>23.28.170</num>
+          <heading>NFPA 13R SPRINKLER SYSTEMS – AMENDED.</heading>
+          <text>Section 903.3.1.2 "NFPA 13R sprinkler systems" is amended to read as shown below:</text>
+          <text>Automatic sprinkler systems in Group R occupancies shall be installed throughout in accordance with NFPA 13 as amended in Chapter 80.</text>
+          <text>Exception:</text>
+          <text>R-3 occupancies shall have an automatic sprinkler system installed in accordance with NFPA 13D</text>
+        </section>
+        <section>
+          <num>23.28.180</num>
+          <heading>AUTOMATIC SPRINKLER SYSTEMS – EXISTING BUILDINGS AND STRUCTURES – ADDED.</heading>
+          <text>Section 903.2 "Where required" is amended to included subsection 903.2.20 "Automatic Sprinkler Systems – Additions, Alterations, or repairs" to read as shown below:</text>
+          <text>Proposed addition, alterations or repairs in existing non-sprinklered buildings over a three-year period exceeding 50% of the original gross floor area square footage shall require the entire building to be installed with an automatic fire sprinkler system.  Buildings in existence as of January 1, 2017 shall install an automatic fire sprinkler system in existing buildings and structures, as follows;</text>
+          <para>
+            <num>(a)</num>
+            <text>Any additions that increase the existing gross floor area by more than 50% require the entire building to be installed with an automatic fire sprinkler system.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any combination of additions, alterations and/or repairs to more than 50% of the existing gross building area requires the entire existing building to be installed with an automatic fire sprinkler system.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Any alteration and/or repair within a building that contains an automatic fire sprinkler system shall have the automatic fire sprinkler system extended/modified to the area of proposed work.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Any change in use or occupancy creating a more hazardous fire/life safety condition, as determined by the Fire Chief requires that an automatic fire sprinkler system be installed.</text>
+            <text>Exceptions:</text>
+            <para>
+              <num>1.</num>
+              <text>Seismic or accessibility improvements</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>Any exemption otherwise allowable under the Fire Code, as adopted by the City of San Mateo at the discretion of the Fire Chief.</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>Exterior improvements and work not requiring permits as provided in the Building Code.</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>Detached Group U occupancies or detached carports less than 400 square feet.</text>
+            </para>
+            <para>
+              <num>5.</num>
+              <text>Work requiring only a mechanical, electrical, plumbing and/or demolition permit.</text>
+            </para>
+            <para>
+              <num>6.</num>
+              <text>Group R-3.1 occupancies.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>23.28.190</num>
+          <heading>FIRE CONTROL ROOM – ADDED.</heading>
+          <text>Section 903.4 "Sprinkler system supervisions and alarms" is amended to add subsection 903.4.4 "Fire Control Room" to read as shown below:</text>
+          <text>An approved fire control room shall be provided for all new buildings or occupancies with a change of use, requiring protection by an automatic fire sprinkler system. The room shall only contain all main system control valves, fire alarm control panels and other fire equipment required by the Fire Chief. Fire control rooms shall be located within the building at a location approved by the Fire Chief, and shall be provided with a means to access the room directly from the exterior. Durable signage shall be provided on the exterior side of the access door to identify the fire control room. Fire Control Rooms shall not be less than 35 square feet.</text>
+          <text>Exceptions:</text>
+          <para>
+            <num>1.</num>
+            <text>Group R, Division 3 Occupancies.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Occupancies with a fire pump shall have a fire control room that is a minimum of 200 square feet.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>In high-rise buildings, the fire control room shall not be less than 200 square feet.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.28.200</num>
+          <heading>STANDPIPE SYSTEMS – REQUIRED INSTALLATIONS – AMENDED.</heading>
+          <text>Section 905.3 "Required installations" is amended to read as shown below:</text>
+          <text>Standpipe systems shall be installed throughout buildings two or more stories and in basements and as required in Sections 905.3.1 through 905.3.11.2.  Standpipe systems shall be combined with automatic sprinkler system and provided 2½" caps fitted with 1½" reducers. The Fire Chief shall determine the requirements for additional outlets.</text>
+        </section>
+        <section>
+          <num>23.28.210</num>
+          <heading>FIRE ALARM CERTIFICATION – ADDED.</heading>
+          <text>Section 907.1 "General" is amended to add subsection 907.1.6 "Fire Alarm Certification" to read as shown below:</text>
+          <text>Commercial fire alarm systems shall be certified by an approved certifying agency.</text>
+        </section>
+        <section>
+          <num>23.28.220</num>
+          <heading>MIDRISE SMOKE CONTROL SYSTEMS– ADDED.</heading>
+          <text>Section 909.1 is amended to add subsection 909.1.1 "Midrise Smoke Control Systems" to read as shown below:</text>
+          <text>The requirements of this section are intended to establish basic requirements for controlling the movement of smoke within a midrise building (smoke management system). Additional requirements for high-rise buildings shall be as specified in the CBC. This section shall apply to all buildings housing A, B, E, I and R and occupancies which meet any of the following conditions:</text>
+          <para>
+            <num>(a)</num>
+            <text>Four (4) or more stories in height.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Having occupied floors located more than 40 feet above grade at the lowest floor level of exit discharge.</text>
+          </para>
+          <text>Exceptions:</text>
+          <text>Open parking garages.</text>
+        </section>
+        <section>
+          <num>23.28.230</num>
+          <heading>CONVENIENCE STAIRWAYS – ADDED.</heading>
+          <text>Section 1009.3 "Stairway" is amended to add subsection 1009.3.1 "Convenience Stairways" to read as shown below:</text>
+          <text>Convenience stairways (in buildings four or more stories in height) that are not required as exits shall be limited to connect only two (2) floors.</text>
+        </section>
+        <section>
+          <num>23.28.240</num>
+          <heading>Appendix C,  NUMBER AND DISTRIBUTION OF FIRE HYDRANTS – AMENDED.</heading>
+          <text>Table C102.1 of Appendix C is amended to read as follows:</text>
+          <text>
+            <table>
+              <caption>TABLE NO. C102.1 NUMBER AND DISTRIBUTION OF FIRE HYDRANTS</caption>
+              <tr>
+                <th>FIRE FLOW REQUIREMENT (gpm)c</th>
+                <th>MINIMUM
+NUMBER OF
+HYDRANTS</th>
+                <th proof="true">
+                  <p>AVERAGE SPACING BETWEEN
+HYDRANTS</p>
+                  <p>a, b, d,  e
+(Ft.)</p>
+                </th>
+                <th>MAXIMUM DISTANCE FROM 
+HYDRANT TO ANY POINT ON STREET OR ROADWAY FRONTAGE (Ft.)</th>
+              </tr>
+              <tr>
+                <th>1750 or less</th>
+                <th>1</th>
+                <th>250</th>
+                <th>150</th>
+              </tr>
+              <tr>
+                <th>2000 - 2250</th>
+                <th>2</th>
+                <th>250</th>
+                <th>150</th>
+              </tr>
+              <tr>
+                <th>2500 - 3250</th>
+                <th>3</th>
+                <th>250</th>
+                <th>150</th>
+              </tr>
+              <tr>
+                <th>3500 - 4250</th>
+                <th>4</th>
+                <th>250</th>
+                <th>150</th>
+              </tr>
+              <tr>
+                <th>4500 - 5250</th>
+                <th>5</th>
+                <th>250</th>
+                <th>150</th>
+              </tr>
+              <tr>
+                <th>5500 - 5750</th>
+                <th>6</th>
+                <th>250</th>
+                <th>150</th>
+              </tr>
+              <tr>
+                <th>6000 - 6250</th>
+                <th>6</th>
+                <th>250</th>
+                <th>150</th>
+              </tr>
+              <tr>
+                <th>6500 - 7250</th>
+                <th>7</th>
+                <th>250</th>
+                <th>150</th>
+              </tr>
+              <tr>
+                <th>7500 or more</th>
+                <th>8 or more</th>
+                <th>200</th>
+                <th>120</th>
+              </tr>
+            </table>
+          </text>
+          <text>Footnotes to Table C102.1 are amended to read as follows:</text>
+          <para>
+            <num>a.</num>
+            <text>Reduce by 100 feet for dead-end streets or roadways.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Hydrants shall be required on both sides of the street whenever one or more of the following conditions exist:</text>
+            <para>
+              <num>i.</num>
+              <text>Street has a median center divider that makes access to hydrants difficult, causes a time delay or creates an undue hazard;</text>
+            </para>
+            <para>
+              <num>ii.</num>
+              <text>There are four or more lanes of traffic;</text>
+            </para>
+            <para>
+              <num>iii.</num>
+              <text>Width of the street is in excess of 88 feet; or</text>
+            </para>
+            <para>
+              <num>iv.</num>
+              <text>The existing street will be widened or will have a raised median center divider installed in the future pursuant to the General Plan Roadway Improvement Plans for the City of San Mateo.</text>
+            </para>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>One hydrant for each 1,000 gpm or fraction thereof.</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>Where new water mains are extended along streets where hydrants are not needed for protection of structures or similar fire problems, fire hydrants should be provided every 1,000 feet of street to provide for transportation hazards. In addition, there shall be at least one hydrant at each intersection.</text>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>Average spacing between hydrants may be extended to 500 feet on streets serving one- and two-family dwellings.</text>
+          </para>
+        </section>
+        <section>
+          <num>23.28.250</num>
+          <heading>VIOLATIONS.</heading>
+          <text>It is unlawful to violate or fail to comply with any provisions of this Code, or violate or fail to comply with any order made under this Code or to build in violation of any detailed statement of specification or plans submitted and approved under this Code, or any certificate or permit issued under this Code.</text>
+        </section>
+        <section>
+          <num>23.28.260</num>
+          <heading>FIRE AND LIFE SAFETY INSPECTIONS.</heading>
+          <text>Inspections by the Fire Department shall periodically be made of buildings and structures that are used for residential or non-residential purposes as follows:</text>
+          <para>
+            <num>(a)</num>
+            <text>The time and frequency of inspections shall be determined by the Fire Chief.  No buildings shall be inspected for a fee more than annually except for re-inspections to assure that code corrections have been made or hazards have been corrected.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A fee for inspections shall be established in the adopted City Fee Schedule to offset costs of the regulatory inspection program and shall be collected upon inspection from each property subject to this ordinance.  Revenues shall be used for the inspection and enforcement program.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>All properties shall be subject to inspection fees.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Nothing in this section is intended to prevent inspections of property under nuisance abatement or other laws.</text>
+          </para>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text>The Council adopts the findings for the local amendments to the 2016 California Fire Code attached hereto as Exhibit A and incorporated herein by reference,</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.  It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines section 15378(b)(5), this action is categorically exempt from (CEQA) as an administrative activity that will not result in a potentially significant physical impact on the environment.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on November 21, 2016 and adopted on December 5, 2016, and shall be effective thirty days after its date of adoption.</text>
+  </section>
+  <text>
+    <strong>Exhibit A</strong>
+  </text>
+  <text>
+    <strong>NECESSARY MODIFICATIONS TO THE</strong>
+  </text>
+  <text>
+    <strong>2016 CALIFORNIA FIRE CODE DUE TO LOCAL CONDITIONS</strong>
+  </text>
+  <text>
+    <strong>INTRODUCTION</strong>
+  </text>
+  <text>City of San Mateo Ordinance 2016-XX contains amendments, deletions and additions to provisions reproduced in the 2016 California Fire Code.  The modifications to the building standards contained in Fire Code are reasonably necessary because of the climatic, geologic, and topographic conditions found within the City. In accordance with <cite doc="Cal. Health &amp; Safety Code" proof="true">Health and Safety Code</cite> Sections <cite doc="Cal. Health &amp; Safety Code" path="§13869.7">13869.7</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite>, and <cite doc="Cal. Health &amp; Safety Code" path="§18941.5">18941.5</cite>, this document describes the climatic, geologic, and topographic conditions in the City and the specific modifications to building standards determined by the City to be necessary due to particular local conditions.</text>
+  <text>
+    <strong>PART I:</strong>
+  </text>
+  <text>
+    <strong>LOCAL CONDITIONS</strong>
+  </text>
+  <para>
+    <num>A.</num>
+    <text>
+      <strong>Profile of The City</strong>
+    </text>
+    <text>The City of San Mateo is located in San Mateo County in an area identified as being in the southern region of the County.  The City of Burlingame is to the north, Foster City to the east, and San Carlos and Redwood City are to the south.  The City encompasses all of the City of San Mateo and a small portion of unincorporated San Mateo County.  The City has an area of roughly 15.8 square miles, with a resident population of 102,000. The City includes large tracks of open space found in the steep forested ridges and foothills in the western portions of the City.  Highway 101 passes through the City near its eastern edge, and Interstate 280 passes by the City near its western edge.</text>
+  </para>
+  <para>
+    <num>B.</num>
+    <text>
+      <strong>Local Conditions</strong>
+    </text>
+    <text>The climatic, geologic, and topographic conditions found in the City necessitate making modifications to the building standards in the 2016 California Fire Code in order to provide a reasonable degree of fire and life safety in this community.  These conditions are discussed in detail below.</text>
+    <para>
+      <num>1.</num>
+      <text>Climatic Conditions.</text>
+    </para>
+    <text>The City, on average, experiences an annual rainfall between 18 to 25 inches.  This rainfall can be expected between October and April of each year and is based on the 100-year weather almanac.  However, during the summer and early fall months there is little, if any, measurable precipitation.  During this dry period, the temperatures are usually between 70°-90° with light to gusty westerly winds.  These drying winds, mixed with the natural vegetation, which is dominant throughout the area, creates a hazardous fuel condition, which further create extensive grass and brush land fire risk. With residential developments encroaching into these wooded and grass, or brush covered areas, wind and terrain-driven fires could have severe consequences and place lives and properties at risk.</text>
+    <para>
+      <num>2.</num>
+      <text>Geologic Conditions.</text>
+      <para>
+        <num>(a)</num>
+        <text>Earthquakes.  Seismically, the City sits along the active San Andreas Fault, and is rated as a Seismic Zone D. The relatively young geological processes that have created the San Francisco bay region are still active today.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Soil Conditions.  The City lies in the southern end of San Mateo County.  The areas closest to the Bay are overlain by unconsolidated fine silty clay, known as Bay Mud, which varies in thickness from a few feet to as much as thirty (30) feet.  Bedrock lies beneath the area at depths generally three hundred (300) feet or more.  The topography is essentially flat, dropping from an elevation of eight hundred (800) feet to sea level.  The slope of the City extends upwards on the western side.  Slopes range from (0) degrees to more than (20) degrees on some streets.</text>
+      </para>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Topographic Conditions.</text>
+      <para>
+        <num>(a)</num>
+        <text>Hills.  Much of the City is located in hills.  The hilly terrain has influenced development to follow the path of least resistance, creating a meandering pattern.  The development pattern includes lots of inconsistent size, and development is often set deeply back from the street.  The development partner also does not lend itself to a good systematic street and road layout, which would promote easy traffic flow.  It has, in fact, resulted in few major cross town thoroughfares, which tend to be heavily congested, primarily during commute hours and seasonal periods of the year. "Pass-through" vehicular traffic in the City, such as the areas of the Alameda de Las Pulgas, Ralston Ave., and El Camino Real, increase commute time traffic for East and West bound vehicular movement to US 101 and Interstate 280. This creates barriers, which increases the response time of fire apparatus and other emergency vehicles. The topography of the City is also burdened by major structures. Employment   areas are throughout the City, and the people who work in these complexes have added to the traffic congestion, thereby increasing fire apparatus response times.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Vegetation.  The hilly portions of the City contain trees, dense brush vegetation and a heavy growth of natural grasses that contribute to fuel-loading.  The surrounding areas suffer several wildland fires each year.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Roads and Streets.  The number of vehicle miles driven is steadily increasing despite limited growth.  Many older streets are narrow and steep.  The impact of additional planned developments and increased traffic flow will continue to have an effect on the delivery of fire protection services.</text>
+      </para>
+    </para>
+  </para>
+  <text>
+    <strong>PART II:</strong>
+  </text>
+  <text>
+    <strong>FINDINGS FOR SPECIFIC MODIFICATIONS TO BUILDING STANDARDS</strong>
+  </text>
+  <para>
+    <num>A.</num>
+    <text>
+      <strong>2016 California Fire Code</strong>
+    </text>
+    <para>
+      <num>1.</num>
+      <text>Section 503 (Fire Apparatus Access Roads) - Local Conditions 1. 2.(a), 2(b), 3. (a), (b), &amp;(c)</text>
+      <text>Residential development in hilly terrain with narrow and meandering street result in delay of fire personnel in accessing those in need of emergency services. Additionally, these areas are prone to increased risk of storm runoff and landslides during periods of increased precipitation in the winter months.  Lastly, these areas, which make up a majority of the city's wildland urban interface (WUI) will be particularly challenging in combating wild fires.  Clearly defined fire access roads are imperative to allow vehicle access into these residential development areas for response of equipment and personnel.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Section 505 (Premises Identification) - Local Conditions 3. (a), (b), &amp; (c)</text>
+      <text>Residential development in hilly terrain with meandering street patterns has led to inconsistent lot sizes and structure placement combined with significant vegetation.  These conditions can often make identification of correct addresses difficult and can cause delay of emergency personnel in locating the correct address when responding to requests for emergency services.  This amendment responds to these conditions by making address numbers larger for easier identification.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Section 506 (Key Boxes) - Local Conditions 1, 2(a), 2(b), 3(a), (b), &amp; (c)</text>
+      <text>The key box provides access to all spaces including multi-tenant spaces, elevator controls, fire alarm control panels and sprinkler valve access. If the occupancy has hazardous materials on site documentation detailing the types, amounts, and locations of those materials will be contained in the key box. Secure Fire Department access only Key boxes provide a secure means of emergency access. Emergency personnel having to access a business or secure multi-dwelling residential complex have a secure means of access without having to utilize forcible entry. The proximity of occupancies to the San Andreas Fault, and the high probability of an earthquake resulting in damage to structures and fire suppression systems can be significant. Early access can assist in minimizing damage from water, fire, or other hazardous by having access to the systems that control them.</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Section 903 (Automatic Sprinkler Systems) and Section 905 (Standpipes) - Local Conditions 1, 3(a), (b), &amp; (c)</text>
+      <text>The experiences of several disastrous wildland-urban interface fires within Alameda, Santa Clara, Monterey and Contra Costa Counties have demonstrated the need for other fire protection features/regulations. While it is clearly understood that the adoption of such regulations may not prevent the incidence of fire, their implementation reduces the severity and potential loss of life and property from those fires that do occur.</text>
+    </para>
+    <text>Automatic fire extinguishing systems (AFES) and standpipe systems are effective in confining, extinguishing, or aiding in the extinguishment of a fire, as well as reducing the amount of toxic gases and smoke generated by fire. They also allow people to safely evacuate the building and can confine the fire until emergency resources arrive at scene. An AFES throughout a structure serves to limit the loss of life and property.  Inherent delays caused by the traffic patterns throughout the fire City make it necessary to mitigate this risk by requiring additional built-in automatic fire protection and detection systems that provide early detection and initial control of fires until the arrival of the fire department.</text>
+    <para>
+      <num>5.</num>
+      <text>Section 909 (Midrise Smoke Control System) and Section 1009 (Convenience Stair) –Local Conditions 3(a), (b), &amp; (c)</text>
+      <text>The experiences of several major multi-story building fires within Alameda, Santa Clara, Monterey and Contra Costa Counties have demonstrated the need for other fire protection features/regulations. While it is clearly understood that the adoption of such regulations may not prevent the incidence of fire, their implementation reduces the severity and potential loss of life and property from those fires that do occur.</text>
+      <text>Passive smoke control systems (PSCS) and limiting convenience stairs are effective in confining, extinguishing, or aiding in the extinguishment of a fire, as well as reducing the amount of toxic gases and smoke generated by fire. They also allow people to safely evacuate the building and can confine the fire until emergency resources arrive at scene. An PSCS throughout a structure serves to limit the loss of life and property.  Inherent delays caused by the traffic patterns throughout the fire City make it necessary to mitigate this risk by requiring additional built-in automatic fire protection and detection systems that provide early detection and initial control of smoke until the arrival of the fire department.</text>
+    </para>
+    <para>
+      <num>6.</num>
+      <text>Appendix C (Hydrant Locations and Distribution) – Local Conditions 1, 3(a), (b), &amp; (c)</text>
+      <text>The experiences of several major multi-story building fires within Alameda, Santa Clara, Monterey and Contra Costa Counties have demonstrated the need for other fire protection features/regulations. While it is clearly understood that the adoption of such regulations may not prevent the incidence of fire, their implementation reduces the severity and potential loss of life and property from those fires that do occur.</text>
+      <text>Proper hydrant spacing in densely populated areas are critical to the successful containment of large commercial fires. Increased vehicular traffic causing congestion and parking challenges create an excessive number of obstructed hydrants.  Larger commercial building may require more than one fire hydrant to establish adequate water supply for fire suppression.  This amendment responds to these conditions by providing additional hydrants to combat fires in large commercial buildings.</text>
+    </para>
+  </para>
 </document>
