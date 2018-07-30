@@ -382,7 +382,7 @@
         <cite path="27.16.060">Section 27.16.060</cite>
       </find>
       <replace>
-        <cite path="27.15">Chapter 27.15</cite>
+        <cite doc="City of San Mateo, Cal., Code" path="27.15">Chapter 27.15</cite>
       </replace>
     </codify:find-replace>
     <codify:find-replace path="27.04.010|(b)|(9)" count="1">
@@ -390,7 +390,7 @@
         <cite path="27.16.060">Section 27.16.060</cite>
       </find>
       <replace>
-        <cite path="27.86.030">Section 27.86.030</cite>
+        <cite doc="City of San Mateo, Cal., Code" path="27.86.030">Section 27.86.030</cite>
       </replace>
     </codify:find-replace>
   </section>
