@@ -11,8 +11,8 @@
   </meta>
   <recitals>
     <recital>
-      <conjunction>THIS ORDINANCE</conjunction>
-      <text>is adopted in light of the following facts and circumstances, which are hereby found and declared by the City Council.</text>
+      <conjunction>THIS ORDINANCE is adopted</conjunction>
+      <text>in light of the following facts and circumstances, which are hereby found and declared by the City Council.</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -474,7 +474,7 @@
           </para>
           <para>
             <num>(jjj)</num>
-            <text><strong>"Prescriptive measures"</strong> means the planting restrictions referenced in <cite doc="City of San Mateo, Cal., Code" path="23.72.010">Section 23.72.010</cite> as developed by the City and kept on file by the Building Division that allow a project applicant to meet the water efficiency goals of this chapter without requiring the completion of the water budget calculation referenced in <cite doc="City of San Mateo, Cal., Code" path="23.72.070">Section 23.72.070</cite>.</text>
+            <text><strong>"Prescriptive measures" </strong>means the planting restrictions referenced in <cite doc="City of San Mateo, Cal., Code" path="23.72.010">Section 23.72.010</cite> as developed by the City and kept on file by the Building Division that allow a project applicant to meet the water efficiency goals of this chapter without requiring the completion of the water budget calculation referenced in <cite doc="City of San Mateo, Cal., Code" path="23.72.070">Section 23.72.070</cite>.</text>
           </para>
           <para>
             <num>(kkk)</num>
@@ -596,7 +596,10 @@
               <num>(1)</num>
               <text>The landscape areas may include no turf or high-water using plants, and</text>
             </para>
-            <text>At least 80% of the plants in non-turf landscape areas shall be native plants, low-water using plants, or n o-water using plants; or (2) Provide a water budget calculation option that demonstrates project is within the Maximum Approved Water Allowance.</text>
+            <para>
+              <num>(2)</num>
+              <text>At least 80% of the plants in non-turf landscape areas shall be native plants, low-water using plants, or n o-water using plants; or (2) Provide a water budget calculation option that demonstrates project is within the Maximum Approved Water Allowance.</text>
+            </para>
           </para>
           <para>
             <num>(b)</num>
@@ -797,16 +800,16 @@
             <num>(h)</num>
             <text>Estimated total water use (ETWU) will be calculated using the equation below. The sum of the ETWU calculated for all hydrozones will not exceed the MAWA.</text>
             <text>ETWU = (ETo)(0.62)<strong>(</strong>PF x HA<strong>)</strong> + SLA]</text>
+            <text>IE</text>
+            <text>Where:</text>
+            <text>ETWU= Estimated Total Water Use per year (gallons)</text>
+            <text>ETo     = Reference Evapotranspiration (inches)</text>
+            <text>PF       = Plant Factor from WUCOLS</text>
+            <text>HA      = Hydrozone Area (high, medium, and low water use areas] (square feet)</text>
+            <text>SLA    = Special Landscape Area (square feet)</text>
+            <text proof="true">0.62     = Conversion Factor</text>
+            <text>IE        = Irrigation Efficiency (minimum 0.70) equals 0.75 for overhead spray devices and 0.81 for drip system devices</text>
           </para>
-          <text>IE</text>
-          <text>Where:</text>
-          <text>ETWU= Estimated Total Water Use per year (gallons)</text>
-          <text>ETo     = Reference Evapotranspiration (inches)</text>
-          <text>PF       = Plant Factor from WUCOLS</text>
-          <text>HA      = Hydrozone Area (high, medium, and low water use areas] (square feet)</text>
-          <text>SLA    = Special Landscape Area (square feet)</text>
-          <text proof="true">0.62     = Conversion Factor</text>
-          <text>IE        = Irrigation Efficiency (minimum 0.70) equals 0.75 for overhead spray devices and 0.81 for drip system devices</text>
         </section>
         <section>
           <num>23.72.080</num>
@@ -1586,5 +1589,23 @@
     <num>6</num>
     <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
     <text>This Ordinance was introduced on February 1, 2016, and adopted on February 16, 2016, and shall be effective thirty days after its date of adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Bonilla, Lim, Freschet and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
   </section>
 </document>

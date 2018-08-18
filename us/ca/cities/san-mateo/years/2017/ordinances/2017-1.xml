@@ -57,9 +57,18 @@
           <num>7.14.010</num>
           <heading>ADOPTION.</heading>
           <text><cite doc="City of San Mateo, Cal., Code" path="7.14">This chapter</cite> shall be known and may be cited as the "Property Maintenance Code" and will be referred to in <cite doc="City of San Mateo, Cal., Code" path="7.14">this chapter</cite> as "this code."</text>
-          <text>The purpose of <cite doc="City of San Mateo, Cal., Code" path="7.14">this chapter</cite> is to protect the public health, safety, and welfare in both existing residential and nonresidential buildings, structures, and premises within the city.</text>
-          <text>The 2015 edition of the International Property Maintenance Code as published by the International Code Council is adopted with amendments as listed below as the rules, regulations, and standards as to all matters contained therein.</text>
-          <text>A copy of this Code shall be maintained on file in the office of the city clerk.</text>
+          <para>
+            <num>(a)</num>
+            <text>The purpose of <cite doc="City of San Mateo, Cal., Code" path="7.14">this chapter</cite> is to protect the public health, safety, and welfare in both existing residential and nonresidential buildings, structures, and premises within the city.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The 2015 edition of the International Property Maintenance Code as published by the International Code Council is adopted with amendments as listed below as the rules, regulations, and standards as to all matters contained therein.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A copy of this Code shall be maintained on file in the office of the city clerk.</text>
+          </para>
         </section>
         <section>
           <num>7.14.020</num>
@@ -209,26 +218,41 @@
           <num>7.14.050</num>
           <heading>PLUMBING FACILITIES AND FIXTURE REQUIREMENTS</heading>
           <text>Chapter 5 Plumbing Facilities and Fixture Requirements is amended as follows:</text>
-          <text>Section 505.4 Water heating facilities is amended as follows:</text>
-          <text>Water heating facilities shall be properly installed, maintained and capable of providing an adequate amount of water to be drawn at every required sink, lavatory, bathtub, shower and laundry facility at a minimum temperature of 110° F (43°C). A gas-burning water heater shall not be located in any bathroom, toilet room, bedroom or other occupied room normally kept closed, unless the installation complies with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction. An approved combination temperature and pressure-relief valve discharge pipe shall be properly installed and maintained on water heaters.</text>
+          <para>
+            <num>(a)</num>
+            <text>Section 505.4 Water heating facilities is amended as follows:</text>
+            <text>Water heating facilities shall be properly installed, maintained and capable of providing an adequate amount of water to be drawn at every required sink, lavatory, bathtub, shower and laundry facility at a minimum temperature of 110° F (43°C). A gas-burning water heater shall not be located in any bathroom, toilet room, bedroom or other occupied room normally kept closed, unless the installation complies with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction. An approved combination temperature and pressure-relief valve discharge pipe shall be properly installed and maintained on water heaters.</text>
+          </para>
         </section>
         <section>
           <num>7.14.060</num>
           <heading>MECHANICAL AND ELECTRICAL REQUIREMENTS</heading>
           <text>Chapter 6 Mechanical and Electrical Requirements is amended as follows:</text>
-          <text>Section 602.2 Residential occupancies is amended as follows:</text>
-          <text>Dwellings shall be provided with heating facilities in accordance with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction.  Cooking appliances, fireplaces, and portable space heaters shall not be used as a means to provide required heating.</text>
-          <text>Section 602.3 Heat Supply is amended as follows:</text>
-          <text>Every owner and operator of any building who rents, leases or lets one or more dwelling units or sleeping units on terms, either expressed or implied, to furnish heat to the occupants thereof shall supply heat in accordance with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction.</text>
-          <text>Section 604.3 Electrical system hazards is amended as follows:</text>
-          <text>Where it is found by the code official that the electrical system in a structure constitutes a hazard to the occupants or the structure by reason of inadequate service, improper fusing, insufficient receptacle and lighting outlets, improper wiring or installation including the improper use of extension cords as permanent wiring, deterioration or damage, or for similar reasons, the code official shall require the defects to be corrected to eliminate the hazard.</text>
+          <para>
+            <num>(a)</num>
+            <text>Section 602.2 Residential occupancies is amended as follows:</text>
+            <text>Dwellings shall be provided with heating facilities in accordance with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction.  Cooking appliances, fireplaces, and portable space heaters shall not be used as a means to provide required heating.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Section 602.3 Heat Supply is amended as follows:</text>
+            <text>Every owner and operator of any building who rents, leases or lets one or more dwelling units or sleeping units on terms, either expressed or implied, to furnish heat to the occupants thereof shall supply heat in accordance with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Section 604.3 Electrical system hazards is amended as follows:</text>
+            <text>Where it is found by the code official that the electrical system in a structure constitutes a hazard to the occupants or the structure by reason of inadequate service, improper fusing, insufficient receptacle and lighting outlets, improper wiring or installation including the improper use of extension cords as permanent wiring, deterioration or damage, or for similar reasons, the code official shall require the defects to be corrected to eliminate the hazard.</text>
+          </para>
         </section>
         <section>
           <num>7.14.070</num>
           <heading>FIRE SAFETY REQUIREMENTS</heading>
           <text>Chapter 7 Fire Safety Requirements is amended as follows:</text>
-          <text>Section 702.1 General is amended as follows:</text>
-          <text>A safe, continuous and unobstructed path of travel shall be provided from any point in a building or structure to the public way.  Means of egress shall comply with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction.</text>
+          <para>
+            <num>(a)</num>
+            <text>Section 702.1 General is amended as follows:</text>
+            <text>A safe, continuous and unobstructed path of travel shall be provided from any point in a building or structure to the public way.  Means of egress shall comply with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction.</text>
+          </para>
         </section>
       </container>
     </include>
@@ -252,5 +276,23 @@
     <num>6</num>
     <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
     <text>This Ordinance was introduced on November 21, 2106 and adopted on January 3, 2017, and shall be effective on January 5, 2017.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Lim, Bonilla, Freschet, Goethals and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
   </section>
 </document>

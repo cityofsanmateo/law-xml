@@ -175,8 +175,14 @@
         <section>
           <num>5.92.030</num>
           <heading>NOTICE AND POSTING.</heading>
-          <text>By October 1 of each year, the City shall publish and make available to Employers a bulletin announcing the adjusted Minimum Wage rate, to take effect January 1 of the following year.  In conjunction with this bulletin, the City shall, by November 1 of each year, publish and make available to Employers, in English and other languages as provided in any implementing regulations, a notice suitable for posting by Employers in the workplace informing Employees of the current Minimum Wage rate and of their rights under <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>.</text>
-          <text>Each Employer shall give written notification to each current Employee, and to each new Employee at time of hire, of his or her rights under <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>.  The notification shall be in English and other languages as provided in any implementing regulations, and shall also be posted prominently in areas at the work site where it will be seen by all Employees.  Every Employer shall also provide each Employee, at the time of hire, with the Employer's name, address, and telephone number in writing.  Failure to post such notice shall constitute a violation of this Municipal Code.  The City is authorized to prepare sample notices and Employer use of such notices shall constitute compliance with this subsection.</text>
+          <para>
+            <num>(a)</num>
+            <text>By October 1 of each year, the City shall publish and make available to Employers a bulletin announcing the adjusted Minimum Wage rate, to take effect January 1 of the following year.  In conjunction with this bulletin, the City shall, by November 1 of each year, publish and make available to Employers, in English and other languages as provided in any implementing regulations, a notice suitable for posting by Employers in the workplace informing Employees of the current Minimum Wage rate and of their rights under <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Each Employer shall give written notification to each current Employee, and to each new Employee at time of hire, of his or her rights under <cite doc="City of San Mateo, Cal., Code" path="5.92">this Chapter</cite>.  The notification shall be in English and other languages as provided in any implementing regulations, and shall also be posted prominently in areas at the work site where it will be seen by all Employees.  Every Employer shall also provide each Employee, at the time of hire, with the Employer's name, address, and telephone number in writing.  Failure to post such notice shall constitute a violation of this Municipal Code.  The City is authorized to prepare sample notices and Employer use of such notices shall constitute compliance with this subsection.</text>
+          </para>
         </section>
         <section>
           <num>5.92.040</num>
@@ -291,5 +297,23 @@
     <num>6</num>
     <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
     <text>This Ordinance was introduced on July 18, 2016 and adopted on August 15, 2016, and shall be effective thirty days after its date of adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Lim, Bonilla and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>Freschet</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
   </section>
 </document>

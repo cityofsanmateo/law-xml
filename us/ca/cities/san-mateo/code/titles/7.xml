@@ -2511,8 +2511,8 @@
           <num>(14)</num>
           <text>Parking garage floors drains on interior levels shall be connected to the sanitary sewer system.</text>
         </para>
+        <text>Detailed plans describing such facilities and their upkeep shall be submitted to the Director for review and shall be approved before such facilities are constructed. The review of such plans and operating procedures shall in no way relieve the user from the responsibility of modifying such facilities as necessary to assure the discharge maintains compliance with <cite path="7.38">this chapter</cite>.</text>
       </para>
-      <text>Detailed plans describing such facilities and their upkeep shall be submitted to the Director for review and shall be approved before such facilities are constructed. The review of such plans and operating procedures shall in no way relieve the user from the responsibility of modifying such facilities as necessary to assure the discharge maintains compliance with <cite path="7.38">this chapter</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-7" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2006-1" path="§1" type="History"/>
@@ -4770,19 +4770,23 @@
       <heading>DEFINITIONS.</heading>
       <para>
         <num>(a)</num>
-        <text>CENTRAL BUSINESS DISTRICT (CBD). The portion of downtown San Mateo that is zoned as the CENTRAL BUSINESS DISTRICT.</text>
+        <heading>CENTRAL BUSINESS DISTRICT (CBD).</heading>
+        <text>The portion of downtown San Mateo that is zoned as the CENTRAL BUSINESS DISTRICT.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>AWNING. For the purposes of <cite path="7.44">this chapter</cite>, it is a rooflike cover, temporary in nature, which projects from the wall of a retail building or overhangs the public way.</text>
+        <heading>AWNING.</heading>
+        <text>For the purposes of <cite path="7.44">this chapter</cite>, it is a rooflike cover, temporary in nature, which projects from the wall of a retail building or overhangs the public way.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>STOREFRONT WINDOW. Any window of any CBD property at street level that if not covered, would allow the public to see into the store.</text>
+        <heading>STOREFRONT WINDOW.</heading>
+        <text>Any window of any CBD property at street level that if not covered, would allow the public to see into the store.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>VACANT PROPERTY. For the purposes of <cite path="7.44">this chapter</cite>, a CBD property is considered "vacant" if there is no current signed lease agreement, the property is not undergoing continuous remodeling or construction, or the property has been unoccupied or not open for business for more than thirty (30) days.</text>
+        <heading>VACANT PROPERTY.</heading>
+        <text>For the purposes of <cite path="7.44">this chapter</cite>, a CBD property is considered "vacant" if there is no current signed lease agreement, the property is not undergoing continuous remodeling or construction, or the property has been unoccupied or not open for business for more than thirty (30) days.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-10" path="§1" type="History"/>

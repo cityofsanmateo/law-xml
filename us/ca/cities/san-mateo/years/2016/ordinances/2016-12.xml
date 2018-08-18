@@ -214,11 +214,26 @@
           <text>Section 503.1.1 "Buildings and Facilities" is amended to read as shown below:</text>
           <text>Every building and facility shall be accessible to Fire Department apparatus by way of all-weather access roadways prior to combustible construction.  The fire apparatus access roads shall comply with the requirements of this section and extend to within 150' of all portions of the facility and all portions of the exterior walls of the first story of the building as measured by an approved route around the exterior of the building or facility. The access road shall have a minimum unobstructed width of 20' and shall be required to have a minimum 'first lift' of pavement applied which shall support the imposed load of a fire apparatus which is a minimum 68,000 pounds. The developer shall be required to provide the Fire Chief with a site plan showing the location, width, grades, and cross section of the proposed access roads to be used during construction.  Building construction permits shall not be issued and combustible construction shall not be allowed on the site until the site plan is reviewed and approved and stamped by the Fire Department.</text>
           <text>Exceptions:</text>
-          <text>The Fire Chief is authorized to increase the dimension of 150 feet where any of the following conditions occur:</text>
-          <text>The building is equipped throughout with an approved automatic sprinkler system installed in accordance with Section 903.3.1.1, 903.3.1.2 or 903.3.1.3.</text>
-          <text>Fire apparatus access roads cannot be installed because of location on property, topography, waterways, nonnegotiable grades or other similar conditions, and an approved alternative means of fire protection is provided.</text>
-          <text>There are not more than two Group R-3 or Group U occupancies.</text>
-          <text>Where approved by the Fire Chief, fire apparatus access roads shall be permitted to be exempted or modified for solar photovoltaic power generation facilities.</text>
+          <para>
+            <num>1.</num>
+            <text>The Fire Chief is authorized to increase the dimension of 150 feet where any of the following conditions occur:</text>
+            <para>
+              <num>1.1.</num>
+              <text>The building is equipped throughout with an approved automatic sprinkler system installed in accordance with Section 903.3.1.1, 903.3.1.2 or 903.3.1.3.</text>
+            </para>
+            <para>
+              <num>1.2.</num>
+              <text>Fire apparatus access roads cannot be installed because of location on property, topography, waterways, nonnegotiable grades or other similar conditions, and an approved alternative means of fire protection is provided.</text>
+            </para>
+            <para>
+              <num>1.3.</num>
+              <text>There are not more than two Group R-3 or Group U occupancies.</text>
+            </para>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Where approved by the Fire Chief, fire apparatus access roads shall be permitted to be exempted or modified for solar photovoltaic power generation facilities.</text>
+          </para>
         </section>
         <section>
           <num>23.28.100</num>
@@ -288,13 +303,11 @@
           <text>Exceptions:</text>
           <para>
             <num>1.</num>
-            <text>Multi-tenant spaces which provide a key box for each tenant and installed per Section 506.1.</text>
-            <text>Electronic card keys and codes may not be utilized as a substitute for manual keys.</text>
+            <text>Multi-tenant spaces which provide a key box for each tenant and installed per Section 506.1. Electronic card keys and codes may not be utilized as a substitute for manual keys.</text>
           </para>
           <para>
             <num>2.</num>
-            <text>When electronic locks release upon loss of electrical power or fire alarm activation a manual</text>
-            <text>key need not be provided.</text>
+            <text>When electronic locks release upon loss of electrical power or fire alarm activation a manual key need not be provided.</text>
           </para>
         </section>
         <section>
@@ -323,7 +336,10 @@
           <text>Section 903.3.1.2 "NFPA 13R sprinkler systems" is amended to read as shown below:</text>
           <text>Automatic sprinkler systems in Group R occupancies shall be installed throughout in accordance with NFPA 13 as amended in Chapter 80.</text>
           <text>Exception:</text>
-          <text>R-3 occupancies shall have an automatic sprinkler system installed in accordance with NFPA 13D</text>
+          <para>
+            <num>1.</num>
+            <text>R-3 occupancies shall have an automatic sprinkler system installed in accordance with NFPA 13D</text>
+          </para>
         </section>
         <section>
           <num>23.28.180</num>
@@ -417,7 +433,10 @@
             <text>Having occupied floors located more than 40 feet above grade at the lowest floor level of exit discharge.</text>
           </para>
           <text>Exceptions:</text>
-          <text>Open parking garages.</text>
+          <para proof="true">
+            <num>1.</num>
+            <text>Open parking garages.</text>
+          </para>
         </section>
         <section>
           <num>23.28.230</num>
@@ -592,6 +611,24 @@ HYDRANT TO ANY POINT ON STREET OR ROADWAY FRONTAGE (Ft.)</th>
     <num>8</num>
     <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
     <text>This Ordinance was introduced on November 21, 2016 and adopted on December 5, 2016, and shall be effective thirty days after its date of adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Lim, Bonilla, Freschet and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
   </section>
   <text>
     <strong>Exhibit A</strong>

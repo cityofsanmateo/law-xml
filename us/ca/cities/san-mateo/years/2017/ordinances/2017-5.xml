@@ -502,12 +502,14 @@
             <para>
               <num>(i)</num>
               <text>Building and Fire Requirements.</text>
-              <text>
-                <ul proof="true">
-                  <li>No fire wall separation or noise attenuation measures are required between the main dwelling and the junior accessory dwelling unit.  No fire sprinklers are required for the junior accessory dwelling unit, unless the associated improvements meet the threshold for a "substantial remodel" as defined by Chapter 23, Building and Construction, of the San Mateo Municipal Code. The junior accessory dwelling unit shall have an adjoining door connected to the main living area for fire separation.  A smoke alarm shall be required in the junior accessory dwelling unit and shall be connected to the smoke alarm in the main residence.</li>
-                  <li>The junior accessory dwelling unit shall be equipped with a carbon monoxide detector.</li>
-                </ul>
-              </text>
+              <para>
+                <num>1.</num>
+                <text>No fire wall separation or noise attenuation measures are required between the main dwelling and the junior accessory dwelling unit.  No fire sprinklers are required for the junior accessory dwelling unit, unless the associated improvements meet the threshold for a "substantial remodel" as defined by Chapter 23, Building and Construction, of the San Mateo Municipal Code. The junior accessory dwelling unit shall have an adjoining door connected to the main living area for fire separation.  A smoke alarm shall be required in the junior accessory dwelling unit and shall be connected to the smoke alarm in the main residence.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>The junior accessory dwelling unit shall be equipped with a carbon monoxide detector.</text>
+              </para>
             </para>
             <para>
               <num>(j)</num>
@@ -604,5 +606,24 @@
     <num>8</num>
     <heading>PUBLICATION AND EFFECTIVE DATE.</heading>
     <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's office and posted on the City's Website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+    <text>This Ordinance was introduced on February 6, 2017, and adopted on March 6, 2017, and shall be effective 30 days after adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Lim, Bonilla, Freschet, Goethals and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
   </section>
 </document>
