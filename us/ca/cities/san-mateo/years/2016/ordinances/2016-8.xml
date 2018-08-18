@@ -50,14 +50,38 @@
   <section>
     <num>1</num>
     <heading>CITY COUNCIL MAKES THE FOLLOWING FINDINGS.</heading>
-    <text>The provision of safe and stable housing for households at all income levels in essential for the public welfare of the City.  Housing in the City of San Mateo has become steadily more expensive and housing costs have gone up faster than incomes.  Federal and state government programs do not provide enough affordable housing to satisfy the needs of very low, low, or moderate income households.  As a result, there is a severe shortage of adequate, affordable housing for very low, lower, and moderate income households, as evidenced by the following findings in the City's 2015 – 2023 Housing Element:</text>
-    <text>Average market rents increased 24-31% between 2010-2013.</text>
-    <text>More than 55% of low income renters and owners are cost burdened by paying more than 30% of their income for their housing; and 90% of very low income renters and 60% of very low income owners pay more than 50% of their income for their housing</text>
-    <text>Only 28.9% of the homes are affordable to purchase for median income households in the San Francisco, San Mateo County Division Metropolitan Statistical Area, which is the least affordable area in the state.</text>
-    <text>As provided in the Housing Element of the General Plan, the City wishes to be a leader in providing resources to facilitate the development of housing, and especially affordable housing, within its borders as outlined in the Goal H.2 Encourage New Housing Construction, includingH-2.2 which calls for maintaining the housing/jobs balance and H-2.3 which calls for the use of public funds for affordable housing to assist low and moderate income households, giving priority to very low income housing. H-2.4 encourages the promotion of the private development of affordable housing through its inclusionary program, as well as consideration of the adoption of a commercial linkage fee.</text>
-    <text>Because commercial development attracts employees, of whom a quantifiable number will have very low, low, or moderate incomes, new commercial developments increase the demand for and exacerbate the shortage of housing available for people at those levels while also reducing the supply of land potentially available for housing development.</text>
-    <text>Based on the findings above, the City desires to further the public health, safety and welfare by requiring commercial development projects in the City to mitigate their impact on the need for affordable housing in the City.</text>
-    <text>The City may adopt an affordable housing commercial linkage fee under the authority of the California Constitution Article XI, Section 7, which provides: "A county or city may make and enforce within its limits all local, police, sanitary, and other ordinances and regulations not in conflict with general laws," and in accordance with the findings set forth in the ordinance codified in <cite doc="City of San Mateo, Cal., Code" path="1">this Chapter</cite>.</text>
+    <para>
+      <num>(a)</num>
+      <text>The provision of safe and stable housing for households at all income levels in essential for the public welfare of the City.  Housing in the City of San Mateo has become steadily more expensive and housing costs have gone up faster than incomes.  Federal and state government programs do not provide enough affordable housing to satisfy the needs of very low, low, or moderate income households.  As a result, there is a severe shortage of adequate, affordable housing for very low, lower, and moderate income households, as evidenced by the following findings in the City's 2015 – 2023 Housing Element:</text>
+      <para>
+        <num>(1)</num>
+        <text>Average market rents increased 24-31% between 2010-2013.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>More than 55% of low income renters and owners are cost burdened by paying more than 30% of their income for their housing; and 90% of very low income renters and 60% of very low income owners pay more than 50% of their income for their housing</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Only 28.9% of the homes are affordable to purchase for median income households in the San Francisco, San Mateo County Division Metropolitan Statistical Area, which is the least affordable area in the state.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>As provided in the Housing Element of the General Plan, the City wishes to be a leader in providing resources to facilitate the development of housing, and especially affordable housing, within its borders as outlined in the Goal H.2 Encourage New Housing Construction, includingH-2.2 which calls for maintaining the housing/jobs balance and H-2.3 which calls for the use of public funds for affordable housing to assist low and moderate income households, giving priority to very low income housing. H-2.4 encourages the promotion of the private development of affordable housing through its inclusionary program, as well as consideration of the adoption of a commercial linkage fee.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Because commercial development attracts employees, of whom a quantifiable number will have very low, low, or moderate incomes, new commercial developments increase the demand for and exacerbate the shortage of housing available for people at those levels while also reducing the supply of land potentially available for housing development.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Based on the findings above, the City desires to further the public health, safety and welfare by requiring commercial development projects in the City to mitigate their impact on the need for affordable housing in the City.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>The City may adopt an affordable housing commercial linkage fee under the authority of the California Constitution Article XI, Section 7, which provides: "A county or city may make and enforce within its limits all local, police, sanitary, and other ordinances and regulations not in conflict with general laws," and in accordance with the findings set forth in the ordinance codified in <cite doc="City of San Mateo, Cal., Code" path="1">this Chapter</cite>.</text>
+    </para>
   </section>
   <section>
     <num>2</num>
@@ -119,24 +143,78 @@
           <num>23.61.020</num>
           <heading>DEFINITIONS.</heading>
           <text>The following words and terms as used in <cite doc="City of San Mateo, Cal., Code" path="23.61">this Chapter</cite> shall have the following meaning:</text>
-          <text>"Affordable housing commercial linkage fee" means the fee paid by developers of commercial development projects to mitigate the impacts that such developments have on the demand for affordable housing in the City.</text>
-          <text>"Affordable housing fund" means a fund or account designated by the City to maintain and account for all monies received pursuant to <cite doc="City of San Mateo, Cal., Code" path="23.61">this Chapter</cite>.</text>
-          <text>"Affordable ownership cost" means the maximum sales prices for units adjusted by bedroom type and income level as approved annually by the City Council for the City's Below Market Rate Housing Program.</text>
-          <text>"Affordable rent" means the maximum rents adjusted by bedroom type and income level as approved annually by the City Council for the City's Below Market Rate Housing Program.</text>
-          <text>"Affordable unit" means a dwelling unit which a developer proposes as an alternative to payment of the affordable housing commercial linkage fee, as defined in <cite doc="City of San Mateo, Cal., Code" path="23.61">this Chapter</cite> and which is required to be rented at an affordable rent or sold at an affordable ownership cost to very low, low or moderate income households.</text>
-          <text>"Building permit" includes full structural building permits as well as partial permits such as foundation-only permits.</text>
-          <text>"Commercial development project" means an application for a planning permit or building permit that includes the new construction of gross square feet of commercial space or the conversion of a commercial use to a nonresidential use.</text>
-          <text>"Commercial use" means an office including medical and research and development uses, hotel, retail including personal services, or restaurant development.</text>
-          <text>"Decision-making body" means the City staff person or body authorized to approve or deny an application for a planning or building permit for a commercial development project.</text>
-          <text>"Developer" means the person(s) or legal entity(ies), who also may be the property owner, who is seeking real property development permits or approvals from the City or developing a particular project in the City.</text>
-          <text>"For-sale unit" means a residential dwelling unit that may be sold individually in conformance with the Subdivision Map Act.  For-sale units also include units that are converted from rental units to for-sale units.</text>
-          <text>"Low income households" means households with incomes no greater than the maximum income for low income households, defined by the State of <cite doc="Cal. Health &amp; Safety Code" path="§50079.5">California Health and Safety Code Section 50079.5</cite> and as published annually by the City for each household size, based on the California Department of Housing and Community Development (HCD) income limits for San Mateo County.</text>
-          <text>"Market rate unit" means a new dwelling unit in a residential development project that is not an affordable unit.</text>
-          <text>"Median income" means the median income applicable to San Mateo County, as published annually by the City for each household size, based on median income data for San Mateo County published by the California Department of Housing and Community Development (HCD).</text>
-          <text>"Moderate income households" means households with incomes no greater than the maximum income for moderate income households, defined by the State of <cite doc="Cal. Health &amp; Safety Code" path="§50093">California Health and Safety Code Section 50093</cite> and as 	published annually by the City for each household size, based on the California Department of Housing and Community Development (HCD) income limits for San Mateo County.</text>
-          <text>"Planning permit" means any discretionary approval of a commercial development project, including, without limitation, a general or specific plan adoption or amendment, rezoning, tentative map, parcel map, conditional use permit, variances, or design review.</text>
-          <text>"Rental unit" means a dwelling unit that is intended to be offered for rent or lease and that cannot be sold individually in conformance with the Subdivision Map Act.</text>
-          <text>"Very low income households" means households with incomes no greater than the maximum income for very low income households, defined by the State of <cite doc="Cal. Health &amp; Safety Code" path="§50105">California Health and Safety Code Section 50105</cite> and as published annually by the City for each household size, the California Department of Housing and Community Development (HCD) income limits for San Mateo County.</text>
+          <para>
+            <num>(a)</num>
+            <text>"Affordable housing commercial linkage fee" means the fee paid by developers of commercial development projects to mitigate the impacts that such developments have on the demand for affordable housing in the City.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Affordable housing fund" means a fund or account designated by the City to maintain and account for all monies received pursuant to <cite doc="City of San Mateo, Cal., Code" path="23.61">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Affordable ownership cost" means the maximum sales prices for units adjusted by bedroom type and income level as approved annually by the City Council for the City's Below Market Rate Housing Program.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Affordable rent" means the maximum rents adjusted by bedroom type and income level as approved annually by the City Council for the City's Below Market Rate Housing Program.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"Affordable unit" means a dwelling unit which a developer proposes as an alternative to payment of the affordable housing commercial linkage fee, as defined in <cite doc="City of San Mateo, Cal., Code" path="23.61">this Chapter</cite> and which is required to be rented at an affordable rent or sold at an affordable ownership cost to very low, low or moderate income households.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>"Building permit" includes full structural building permits as well as partial permits such as foundation-only permits.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>"Commercial development project" means an application for a planning permit or building permit that includes the new construction of gross square feet of commercial space or the conversion of a commercial use to a nonresidential use.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>"Commercial use" means an office including medical and research and development uses, hotel, retail including personal services, or restaurant development.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>"Decision-making body" means the City staff person or body authorized to approve or deny an application for a planning or building permit for a commercial development project.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>"Developer" means the person(s) or legal entity(ies), who also may be the property owner, who is seeking real property development permits or approvals from the City or developing a particular project in the City.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>"For-sale unit" means a residential dwelling unit that may be sold individually in conformance with the Subdivision Map Act.  For-sale units also include units that are converted from rental units to for-sale units.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>"Low income households" means households with incomes no greater than the maximum income for low income households, defined by the State of <cite doc="Cal. Health &amp; Safety Code" path="§50079.5">California Health and Safety Code Section 50079.5</cite> and as published annually by the City for each household size, based on the California Department of Housing and Community Development (HCD) income limits for San Mateo County.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>"Market rate unit" means a new dwelling unit in a residential development project that is not an affordable unit.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>"Median income" means the median income applicable to San Mateo County, as published annually by the City for each household size, based on median income data for San Mateo County published by the California Department of Housing and Community Development (HCD).</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text>"Moderate income households" means households with incomes no greater than the maximum income for moderate income households, defined by the State of <cite doc="Cal. Health &amp; Safety Code" path="§50093">California Health and Safety Code Section 50093</cite> and as 	published annually by the City for each household size, based on the California Department of Housing and Community Development (HCD) income limits for San Mateo County.</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text>"Planning permit" means any discretionary approval of a commercial development project, including, without limitation, a general or specific plan adoption or amendment, rezoning, tentative map, parcel map, conditional use permit, variances, or design review.</text>
+          </para>
+          <para>
+            <num>(q)</num>
+            <text>"Rental unit" means a dwelling unit that is intended to be offered for rent or lease and that cannot be sold individually in conformance with the Subdivision Map Act.</text>
+          </para>
+          <para>
+            <num>(r)</num>
+            <text>"Very low income households" means households with incomes no greater than the maximum income for very low income households, defined by the State of <cite doc="Cal. Health &amp; Safety Code" path="§50105">California Health and Safety Code Section 50105</cite> and as published annually by the City for each household size, the California Department of Housing and Community Development (HCD) income limits for San Mateo County.</text>
+          </para>
         </section>
         <section>
           <num>23.61.030</num>
@@ -324,5 +402,23 @@
     <num>6</num>
     <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
     <text>This Ordinance was introduced on August 15, 2016 and adopted on September 6, 2016, and shall be effective sixty days after its date of adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members, Lim, Bonilla, Freschet and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>Goethals</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
   </section>
 </document>

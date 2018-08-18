@@ -69,97 +69,103 @@
           <num>23.70.020</num>
           <heading>LOCAL AMENDMENT FOR LAUNDRY-TO-LANDSCAPE READY INTRASTRUCTURE</heading>
           <text>The California Green Building Standards Code, 2016 Edition, Section 4.305, Water Reuse Systems is amended as follows:</text>
-          <text>
-            <ul proof="true">
-              <li>Laundry-to-Landscape Infrastructure: Any new one-family dwelling shall install a three-way diverter valve at the drain line of all laundry fixtures intended for optional installation of a laundry-to-landscape irrigation system.</li>
-              <li>Note:  A complete laundry to landscape irrigation system shall comply with the California Plumbing Code 1502.1.1, Clothes Washer System.</li>
-            </ul>
-          </text>
+          <para>
+            <num>1.</num>
+            <text>Laundry-to-Landscape Infrastructure: Any new one-family dwelling shall install a three-way diverter valve at the drain line of all laundry fixtures intended for optional installation of a laundry-to-landscape irrigation system.</text>
+            <para>
+              <num>a.</num>
+              <text>Note:  A complete laundry to landscape irrigation system shall comply with the California Plumbing Code 1502.1.1, Clothes Washer System.</text>
+            </para>
+          </para>
         </section>
         <section>
           <num>23.70.030</num>
           <heading>LOCAL AMENDMENT FOR ELECTRIC VEHICLE CHARGING FOR NEW MULTIFAMILY RESIDENTIAL CONSTRUCTION</heading>
           <text>The California Green Building Standards Code, 2016 Edition, Section 4.106.4.2, Electric vehicle (EV) charging space requirements for new multifamily dwellings is amended to include a) standards for new multifamily dwellings containing 3-16 units, and b) increased standards for new multifamily dwellings containing 17 or more units as follows:</text>
-          <text>
-            <ul proof="true">
-              <li>New multifamily dwellings containing 3-16 units:  Where between 3-16 multifamily dwelling units are constructed on a building site, at least one space shall be an electric vehicle charging space (EV space) capable of supporting future electric vehicle supply equipment (EVSE).</li>
-              <li>New multifamily dwellings containing 17 or more units:  Where 17 or more multifamily dwelling units are constructed on a building site, 10 percent of the total number of parking spaces provided for all types of parking facilities, but in no case less than one, shall be electric vehicle charging spaces (EV spaces) capable of supporting future EVSE.  Calculations for the required number of EV spaces shall be rounded up to the nearest whole number.</li>
-            </ul>
-          </text>
-          <text>Note: Projects shall reference the California Green Building Code Section 4.106.4 and California Electrical Code, 2016 Edition, Article 625 for definitions and requirements for electric vehicle charging spaces.</text>
+          <para>
+            <num>1.</num>
+            <text>New multifamily dwellings containing 3-16 units:  Where between 3-16 multifamily dwelling units are constructed on a building site, at least one space shall be an electric vehicle charging space (EV space) capable of supporting future electric vehicle supply equipment (EVSE).</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>New multifamily dwellings containing 17 or more units:  Where 17 or more multifamily dwelling units are constructed on a building site, 10 percent of the total number of parking spaces provided for all types of parking facilities, but in no case less than one, shall be electric vehicle charging spaces (EV spaces) capable of supporting future EVSE.  Calculations for the required number of EV spaces shall be rounded up to the nearest whole number.</text>
+            <text>Note: Projects shall reference the California Green Building Code Section 4.106.4 and California Electrical Code, 2016 Edition, Article 625 for definitions and requirements for electric vehicle charging spaces.</text>
+          </para>
         </section>
         <section>
           <num>23.70.040</num>
           <heading>LOCAL AMENDMENT FOR ELECTRIC VEHICLE CHARGING FOR NEW NON-RESIDENTIAL CONSTRUCTION</heading>
           <text>The California Green Building Standards Code, 2016 Edition, Section 5.106.5.3.3 EV charging space calculation is amended to include the Non-Residential/Commercial Voluntary Tier 2 Measure for EV charging space calculation per Section A5.106.5.3.3 as follows:</text>
-          <text>
-            <ul proof="true">
-              <li>New Non-Residential Construction: Table A5.106.5.3.2 shall be used to determine if single or multiple charging space requirements apply for future installation of electric vehicle supply equipment (EVSE). When a single charging space is required, refer to Section 5.106.5.3.1 for design requirements.  When multiple charging spaces are required, refer to Section 5.106.5.3.2 for design requirements.</li>
-            </ul>
-          </text>
-          <text>
-            <table>
-              <caption>TABLE A5.106.5.3.2</caption>
-              <tr>
-                <th>TOTAL NUMBER OF ACTUAL PARKING SPACES</th>
-                <th>TIER 2 NUMBER OF REQUIRED EV CHARGING SPACES</th>
-              </tr>
-              <tr>
-                <td>0-9</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>10-25</td>
-                <td>2</td>
-              </tr>
-              <tr>
-                <td>26-50</td>
-                <td>4</td>
-              </tr>
-              <tr>
-                <td>51-75</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>76-100</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>101-150</td>
-                <td>12</td>
-              </tr>
-              <tr>
-                <td>151-200</td>
-                <td>17</td>
-              </tr>
-              <tr>
-                <td>201 and over</td>
-                <td>10 percent of total1</td>
-              </tr>
-            </table>
-          </text>
-          <text>
-            <ul proof="true">
-              <li>Calculation for spaces shall be rounded up to the nearest whole number</li>
-              <li>Note: Projects shall reference the California Green Building Code, 2016 Edition, Section 5.106.5.3 and California Electrical Code for definitions and requirements related to electric vehicle charging spaces.</li>
-            </ul>
-          </text>
+          <para>
+            <num>1.</num>
+            <text>New Non-Residential Construction: Table A5.106.5.3.2 shall be used to determine if single or multiple charging space requirements apply for future installation of electric vehicle supply equipment (EVSE). When a single charging space is required, refer to Section 5.106.5.3.1 for design requirements.  When multiple charging spaces are required, refer to Section 5.106.5.3.2 for design requirements.</text>
+            <text>
+              <table>
+                <caption>TABLE A5.106.5.3.2</caption>
+                <tr>
+                  <th>TOTAL NUMBER OF ACTUAL PARKING SPACES</th>
+                  <th>TIER 2 NUMBER OF REQUIRED EV CHARGING SPACES</th>
+                </tr>
+                <tr>
+                  <td>0-9</td>
+                  <td>1</td>
+                </tr>
+                <tr>
+                  <td>10-25</td>
+                  <td>2</td>
+                </tr>
+                <tr>
+                  <td>26-50</td>
+                  <td>4</td>
+                </tr>
+                <tr>
+                  <td>51-75</td>
+                  <td>6</td>
+                </tr>
+                <tr>
+                  <td>76-100</td>
+                  <td>6</td>
+                </tr>
+                <tr>
+                  <td>101-150</td>
+                  <td>12</td>
+                </tr>
+                <tr>
+                  <td>151-200</td>
+                  <td>17</td>
+                </tr>
+                <tr>
+                  <td>201 and over</td>
+                  <td>10 percent of total1</td>
+                </tr>
+              </table>
+            </text>
+            <para proof="true">
+              <num>1.</num>
+              <text>Calculation for spaces shall be rounded up to the nearest whole number</text>
+            </para>
+          </para>
+          <para proof="true">
+            <num>a.</num>
+            <text>Note: Projects shall reference the California Green Building Code, 2016 Edition, Section 5.106.5.3 and California Electrical Code for definitions and requirements related to electric vehicle charging spaces.</text>
+          </para>
         </section>
         <section>
           <num>23.70.050</num>
           <heading>INFEASIBILITY EXEMPTION</heading>
-          <text>
-            <ul proof="true">
-              <li>Exemption. If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite>, the applicant may request an exemption as set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06.015">Section 23.06.015</cite> of the Municipal Code.  In applying for the</li>
-            </ul>
-          </text>
-          <text>exemption, the burden is on the Applicant to show infeasibility. The following conditions may be considered to determine infeasibility:</text>
-          <text>
-            <ul proof="true">
-              <li>Where there is insufficient electrical supply.</li>
-              <li>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of these requirements, may adversely impact the construction cost of the project.</li>
-            </ul>
-          </text>
+          <para>
+            <num>A.</num>
+            <text>Exemption. If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite>, the applicant may request an exemption as set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06.015">Section 23.06.015</cite> of the Municipal Code.  In applying for the</text>
+            <text>exemption, the burden is on the Applicant to show infeasibility. The following conditions may be considered to determine infeasibility:</text>
+            <para>
+              <num>1.</num>
+              <text>Where there is insufficient electrical supply.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of these requirements, may adversely impact the construction cost of the project.</text>
+            </para>
+          </para>
         </section>
       </container>
     </include>
@@ -187,13 +193,27 @@
     <num>6</num>
     <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
     <text>This Ordinance was introduced on November 7, 2016 and adopted on November 21, 2016, and shall be effective January 1, 2017.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Lim, Freschet and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>Bonilla</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
   </section>
   <text>
-    <ul proof="true">
-      <li>
-        <strong>Exhibit A</strong>
-      </li>
-    </ul>
+    <strong>Exhibit A</strong>
   </text>
   <text>
     <strong>FINDINGS FOR LOCAL AMENDMENTS TO</strong>
@@ -243,10 +263,8 @@
     </table>
   </text>
   <text>
-    <strong>Key to Justification for Amendments to <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite> of the California Code of Regulations</strong>
-  </text>
-  <text>
     <table>
+      <caption>Key to Justification for Amendments to <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite> of the California Code of Regulations</caption>
       <tr proof="true">
         <th>A.</th>
         <th>
