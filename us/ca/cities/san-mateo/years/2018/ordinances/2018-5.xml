@@ -1,0 +1,875 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2018-5" codify:doc="City of San Mateo, Cal., Code">
+  <num>2018-5</num>
+  <heading>CHAPTER 17.10 "WIRELESS COMMUNICATIONS FACILITIES IN THE PUBLIC RIGHT-OF-WAY"</heading>
+  <meta>
+    <effective>2018-08-15</effective>
+    <citations>
+      <citation type="ord">Ord. No. 2018-5</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2018-5</citation>
+    </citations>
+    <history>
+      <introduced>2018-06-18</introduced>
+      <adopted>2018-07-16</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City has received a number of applications for the installation of wireless communication facilities in the public right-of-way; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Pub. Util. Code" path="§7901">Public Utilities Code section 7901</cite> authorizes telephone companies to utilize public right-of-way; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Pub. Util. Code" path="§7901.1">Public Utilities Code section<span codify:insert=" "/>7901.1</cite> authorizes cities to regulate the time, place, and manner of telephone service installation in public right-of-way; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Federal Telecommunications Act of 1996 authorizes cities to regulate wireless communication facilities in the public right-of-way, so long as the city's regulations do not effectively prohibit the provision of wireless telecommunication facilities or discriminate amongst providers;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+    </recital>
+  </recitals>
+  <section codify:path="17.10">
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="17.10">Chapter 17.10 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="17">Title 17</cite>, "Streets and Sidewalks," as follows:</text>
+    <codify:insert path="|17" after="17.08">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>17.10</num>
+        <heading>WIRELESS COMMUNICATIONS FACILITIES IN THE PUBLIC RIGHT-OF-WAY</heading>
+      </container>
+    </codify:insert>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>17.10</num>
+        <heading/>
+        <toc>
+          <heading>Sections:</heading>
+          <section>
+            <num>17.10.010</num>
+            <heading>Purpose and Intent.</heading>
+          </section>
+          <section>
+            <num>17.10.020</num>
+            <heading>General Definitions.</heading>
+          </section>
+          <section>
+            <num>17.10.030</num>
+            <heading>Applicability.</heading>
+          </section>
+          <section>
+            <num>17.10.040</num>
+            <heading>Required Approvals.</heading>
+          </section>
+          <section>
+            <num>17.10.050</num>
+            <heading>Application Requirements.</heading>
+          </section>
+          <section>
+            <num>17.10.060</num>
+            <heading>Notice.</heading>
+          </section>
+          <section>
+            <num>17.10.070</num>
+            <heading>Decisions; Limited Exceptions; Protests; Appeals.</heading>
+          </section>
+          <section>
+            <num>17.10.080</num>
+            <heading>Standard Conditions of Approval.</heading>
+          </section>
+          <section>
+            <num>17.10.090</num>
+            <heading>Site Location Guidelines.</heading>
+          </section>
+          <section>
+            <num>17.10.100</num>
+            <heading>Design Regulations.</heading>
+          </section>
+          <section>
+            <num>17.10.110</num>
+            <heading>Temporary Wireless Facilities.</heading>
+          </section>
+          <section>
+            <num>17.10.120</num>
+            <heading>Amortization of Nonconforming Wireless Facilities.</heading>
+          </section>
+          <section>
+            <num>17.10.130</num>
+            <heading>Special Provisions for Section 6409 Approvals.</heading>
+          </section>
+        </toc>
+        <section>
+          <codify:insert/>
+          <num>17.10.010</num>
+          <heading>PURPOSE AND INTENT.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The City of San Mateo intends this <cite doc="City of San Mateo, Cal., Code" path="17.10">Chapter 17.10</cite> to establish reasonable, uniform and comprehensive standards and procedures for wireless facilities deployment, construction, installation, collocation, modification, operation, relocation and removal within the City's territorial boundaries, consistent with and to the extent permitted under federal and California state law. The standards and procedures contained in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> are intended to, and should be applied to, protect and promote public health, safety and welfare, and also balance the benefits that flow from robust, advanced wireless services with the City's local values, which include without limitation the aesthetic character of the City, its neighborhoods and community. <cite doc="City of San Mateo, Cal., Code" path="17.10">This Chapter</cite> is also intended to reflect and promote the community interest by (1) ensuring that the balance between public and private interest is maintained on a case-by-case basis; (2) protecting the City's visual character from potential adverse impacts or visual blight created or exacerbated by wireless communications infrastructure; (3) protecting and preserving the City's environmental resources; and (4) promoting access to high-quality, advanced wireless services for the City's residents, businesses and visitors.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><cite doc="City of San Mateo, Cal., Code" path="17.10">This Chapter</cite> is not intended to, nor shall it be interpreted or applied to: (1) prohibit or effectively prohibit any personal wireless service provider's ability to provide personal wireless services; (2) prohibit or effectively prohibit any entity's ability to provide any interstate or intrastate telecommunications service, subject to any competitively neutral and nondiscriminatory rules, regulations or other legal requirements for rights-of-way management; (3) unreasonably discriminate among providers of functionally equivalent services; (4) deny any request for authorization to place, construct or modify personal wireless service facilities on the basis of environmental effects of radio frequency emissions to the extent that such wireless facilities comply with existing or future FCC's regulations concerning such emissions; (5) prohibit any collocation or modification that the City may not deny under federal or California state law; (6) impose any unfair, unreasonable, discriminatory or anticompetitive fees that exceed the reasonable cost to provide the services for which the fee is charged; or (7) otherwise authorize the City to preempt any applicable federal or California law.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>17.10.020</num>
+          <heading>GENERAL DEFINITIONS.</heading>
+          <text>The abbreviations, phrases, terms and words used in <cite doc="City of San Mateo, Cal., Code" path="17.10">this chapter</cite> will have the meanings assigned to them in this section unless context indicates otherwise. Undefined phrases, terms or words in this section will have the meanings assigned to them in 47 U.S.C. § 153, as may be amended from time to time, and, if not defined therein, will have their ordinary meanings. In the event that any definition assigned to any phrase, term or word in this section conflicts with any federal or state-mandated definition, the federal or state-mandated definition will control.</text>
+          <para>
+            <num>(a)</num>
+            <text>"<strong>accessory equipment</strong>" means any equipment other than the antenna(s) associated with a wireless facility, which includes, but is not limited to, cabling, generators, fans, air conditioning units, electrical panels, equipment cabinets, pedestals, meters, vaults, splice boxes and surface location markers.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"<strong>approval authority</strong>" means the commission, board or official responsible for review of permit applications and vested with the authority to approve or deny such applications. The approval authority for a major wireless permit is the Sustainability and Infrastructure Commission or, on appeal, the City Council. The approval authority for a minor wireless permit is the Public Works Director or, on protest, the Sustainability and Infrastructure Commission. The approval authority for a section 6409 approval or a temporary wireless permit is the Public Works Director or, on appeal, the City Manager.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"<strong>base station</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(1), as may be amended.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"<strong>City Manager</strong>" means the City Manager of the City of San Mateo, or the City Manager's designee.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"<strong>collocation</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(2), as may be amended.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>"<strong>CPCN</strong>" means a "Certificate of Public Convenience and Necessity" granted by the CPUC or its duly appointed successor agency pursuant to <cite doc="Cal. Pub. Util. Code" path="§1001">California Public Utilities Code §§ 1001 <em>et seq.</em></cite>, as may be amended.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>"<strong>CPUC</strong>" means the California Public Utilities Commission established in the California Constitution, Article XII, § 5, or its duly appointed successor agency.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>"<strong>Department</strong>" means the Department of Public Works of the City of San Mateo or its duly appointed successor agency.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>"<strong>Director</strong>" means the Director of Public Works of the City of San Mateo, or the Director's designee.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>"<strong>FCC</strong>" means the Federal Communications Commission or its duly appointed successor agency.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>"<strong>FCC Shot Clock</strong>" means the reasonable time frame within which the City generally must act on a given wireless application, as defined by the FCC and as may be amended from time to time.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>"<strong>personal wireless services</strong>" means the same as defined in 47 U.S.C. § 332(c)(7)(C)(i), as may be amended, which defines the term as commercial mobile services, unlicensed wireless services and common carrier wireless exchange access services.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>"<strong>personal wireless service facilities</strong>" means the same as defined in 47 U.S.C. § 332(c)(7)(C)(i), as may be amended, which defines the term as facilities that provide personal wireless services.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>"<strong>RF</strong>" means radio frequency or electromagnetic waves generally between 30 kHz and 300 GHz in the electromagnetic spectrum range.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text>"<strong>Section 6409</strong>" means Section 6409(a) of the Middle Class Tax Relief and Job Creation Act of 2012, Pub. L. No. 112-96, 126 Stat. 156, codified as 47 U.S.C. § 1455(a), as may be amended.</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text>"<strong>temporary wireless facilities</strong>" means portable wireless facilities intended or used to provide personal wireless services on a temporary or emergency basis, such as a large-scale special event in which more users than usual gather in a confined location or when a disaster disables permanent wireless facilities. Temporary wireless facilities include, without limitation, cells-on-wheels ("<strong>COWs</strong>"), sites-on-wheels ("<strong>SOWs</strong>"), cells-on-light-trucks ("<strong>COLTs</strong>") or other similarly portable wireless facilities not permanently affixed to the site on which they are located.</text>
+          </para>
+          <para>
+            <num>(q)</num>
+            <text>"<strong>tower</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(9), as may be amended.</text>
+          </para>
+          <para>
+            <num>(r)</num>
+            <text>"<strong>transmission equipment</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(8), as may be amended.</text>
+          </para>
+          <para>
+            <num>(s)</num>
+            <text>"<strong>wireless</strong>" means any FCC-licensed or authorized wireless communication service transmitted over frequencies in the electromagnetic spectrum.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert num-value="17.10.030"/>
+          <num>17.010.030</num>
+          <heading>APPLICABILITY.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Applicable Wireless Facilities.</heading>
+            <text>The provisions in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> shall be applied to all existing wireless facilities within the City's public rights-of-way and all applications to construct, install, operate, collocate, modify, reconstruct, relocate or otherwise deploy wireless facilities within the City's public rights-of-way, except as may be expressly provided otherwise in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Exempt Wireless Facilities.</heading>
+            <text>Notwithstanding <cite doc="City of San Mateo, Cal., Code" path="17.10.030|(a)">Section 17.10.030(a)</cite>, the provisions in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> will not be applicable to: (1) wireless facilities not proposed or currently located in the public right-of-way; (2) wireless facilities owned and operated by the City for public purposes; (3) amateur radio facilities; and (4) wireless facilities or equipment owned and operated by CPUC-regulated electric companies for use in connection with electrical power generation, transmission and distribution facilities subject to CPUC General Order 131-D.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Special Provisions for Section 6409 Approvals.</heading>
+            <text>Notwithstanding <cite doc="City of San Mateo, Cal., Code" path="17.10.030|(a)">Section 17.10.030(a)</cite>, all requests for approval to collocate, replace or remove transmission equipment at an existing wireless tower or base station located in the public right-of-way and submitted pursuant to Section 6409 will be reviewed under the application procedures in <cite doc="City of San Mateo, Cal., Code" path="17.10.050">Section 17.10.050</cite> and the standards in <cite doc="City of San Mateo, Cal., Code" path="17.10.130">Section 17.10.130</cite>. To the extent that the applicant's request does not qualify for approval under Section 6409, the applicant may submit the same or a substantially similar application for a major or minor wireless permit under the general provisions in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert num-value="17.10.040"/>
+          <num>17.010.040</num>
+          <heading>REQUIRED APPROVALS.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Minor Wireless Permit.</heading>
+            <text>A minor wireless permit, subject to the Director's prior review and approval in accordance with the procedures and design regulations in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>, is required for:</text>
+            <para>
+              <num>(1)</num>
+              <text>any new wireless facility proposed on an existing or replacement support structure with accessory equipment that does not cumulatively exceed nine cubic feet in volume; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>any collocations, modifications or other changes to an existing wireless facility not subject to Section 6409 with accessory equipment that would not cumulatively exceed nine cubic feet in volume; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>any wireless facility installed on City-owned support structures or other personal property in the public rights-of-way pursuant to a valid master license agreement with the City.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Major Wireless Permit.</heading>
+            <text>A major wireless permit, subject to the Sustainability and Infrastructure Commission's prior review and approval in accordance with the procedures and design regulations in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>, is required for:</text>
+            <para>
+              <num>(1)</num>
+              <text>any new wireless facility and any collocations, modifications or other changes to an existing wireless facility not subject to a minor wireless permit or Section 6409; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>any new wireless facility and any collocations, modifications or other changes to an existing wireless facility that require a limited exception pursuant to <cite doc="City of San Mateo, Cal., Code" path="17.10.070|(c)">Section 17.10.070(c)</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Temporary Wireless Permit.</heading>
+            <text>A temporary wireless permit, subject to the Director's prior review and approval in accordance with the procedures and standards in <cite doc="City of San Mateo, Cal., Code" path="17.10.110">Section 17.10.110</cite> is required for any temporary wireless facility, unless deployed in connection with an emergency pursuant to <cite doc="City of San Mateo, Cal., Code" path="17.10.110|(b)">Section 17.10.110(b)</cite>.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Other Permits and Regulatory Approvals.</heading>
+            <text>In addition to any minor wireless permit, major wireless permit, section 6409 approval (as that term is defined in <cite doc="City of San Mateo, Cal., Code" path="17.10.130">Section 17.10.130</cite>), temporary wireless permit or other permit or approval required under <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>, the applicant must obtain all other permits and regulatory approvals as may be required by any other federal, state or local government agencies, which includes without limitation other any permits and/or approvals issued by other City departments or divisions. Furthermore, any permit or approval granted under <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> or deemed granted or deemed approved by law shall remain subject to any and all lawful conditions and/or legal requirements associated with such other permits or approvals.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>17.10.050</num>
+          <heading>APPLICATION REQUIREMENTS.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Application Required.</heading>
+            <text>The approval authority shall not approve any request for a minor wireless permit, major wireless permit, section 6409 approval or temporary wireless permit except upon a complete and duly filed application consistent with this Section and any other written rules the City or the Director may establish from time to time in any publicly-stated format.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Application Content.</heading>
+            <text>All applications for a minor wireless permit, major wireless permit, section 6409 approval or temporary wireless permit must include all the information and materials required by the Director for the application. The City Council authorizes the Director to develop, publish and from time to time update or amend permit application requirements, forms, checklists, guidelines, informational handouts and other related materials that the Director finds necessary, appropriate or useful for processing any application governed under <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>. All applications shall, at a minimum, (1) require the applicant to demonstrate that the proposed project will be in planned compliance with all applicable health and safety laws, regulations or other rules, which includes without limitation all building codes, electric codes and all FCC rules for human exposure to RF emissions and (2) contain sufficient evidence (such as a valid CPCN) of the applicant's regulatory status as a telephone corporation under the <cite doc="Cal. Pub. Util. Code">California Public Utilities Code</cite>. The City Council further authorizes the Director to establish other reasonable rules and regulations, which may include without limitation regular hours for appointments with applicants, as the Director deems necessary or appropriate to organize, document and manage the application intake process. All such rules and regulations must be in written form and publicly stated to provide applicants with prior notice.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Procedures for a Duly Filed Application.</heading>
+            <text>Any application for a major wireless permit, minor wireless permit or section 6409 approval will not be considered duly filed unless submitted in accordance with the procedures in this Section. Any application for a temporary wireless permit must be filed in accordance with the procedures in <cite doc="City of San Mateo, Cal., Code" path="17.10.110">Section 17.10.110</cite>.</text>
+            <para>
+              <num>(1)</num>
+              <heading>Pre-Submittal Conference.</heading>
+              <text>Before application submittal, the applicant must schedule and attend a pre-submittal conference with the Director for all proposed projects (a) subject to a major wireless permit; (b) that involve the deployment of more than five (5) facilities in the public right-of-way; or (c) that involve collocation, modification or other change to an existing concealed facility submitted with a request for approval pursuant to Section 6409. Pre-submittal conferences for all other proposed projects are strongly encouraged but not required. The pre-submittal conference is intended to streamline the review process through informal discussion that includes, without limitation, the appropriate project classification and review process, any latent issues in connection with the proposed or existing wireless tower or base station, including compliance with generally applicable rules for public health and safety; potential concealment issues or concerns (if applicable); coordination with other City departments responsible for application review; and application completeness issues. To mitigate unnecessary delays due to application incompleteness, applicants are encouraged (but not required) to bring any draft applications or other materials so that City staff may provide informal feedback and guidance about whether such applications or other materials may be incomplete or unacceptable. The Department shall use reasonable efforts to provide the applicant with an appointment within five (5) working days after receiving a written request and any applicable fee or deposit to reimburse the City for its reasonable costs to provide the services rendered in the pre-submittal conference.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Submittal Appointment.</heading>
+              <text>All applications must be submitted to the City at a pre-scheduled appointment with the Director. Applicants may generally submit one application per appointment but may schedule successive appointments for multiple applications whenever feasible and not prejudicial to other applicants. The Director shall use reasonable efforts to provide the applicant with an appointment within five (5) working days after the Director receives a written request and, if applicable, confirms that the applicant complied with the pre-submittal conference requirement. Any application received without an appointment, whether delivered in-person, by mail or through any other means, will not be considered duly filed unless the applicant received a written exemption from the Director at a pre-submittal conference.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Informational Neighborhood Meeting.</heading>
+            <text>For any application subject to a minor wireless permit or major wireless permit proposed in or within 500 feet from a residential zone, the applicant must provide notice and an opportunity for an informational neighborhood meeting. Informational neighborhood meetings shall occur before any application is deemed complete and are intended to provide the community in the immediately affected area an opportunity to learn about the applicant's proposal and give the applicant feedback.</text>
+            <para>
+              <num>(1)</num>
+              <heading>Notice.</heading>
+              <text>The applicant shall provide written notice posted at the proposed project site and mailed by first class U.S. mail to all residents, property owners and other persons or entities entitled to receive notice under <cite doc="City of San Mateo, Cal., Code" path="17.10.060">Section 17.10.060</cite> and the Director. The notice shall: (1) clearly state the applicant's name; (2) describe the proposed site location and the proposed improvements and other equipment to be constructed or installed, which shall include photo simulations, samples or renderings that depict the finished installation in context with the surrounding natural and built environment; (3) identify when the construction, installation, excavation or other work would begin and end; (4) provide a contact name and telephone number for the applicant's representative and the Department; and (5) clearly state that the notice recipient has 15 calendar days from the date on the notice to submit a written request to the City for an informational neighborhood meeting or else no such meeting will be held.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Request for Meeting.</heading>
+              <text>If the City receives a timely request for an informational neighborhood meeting, the City will inform the applicant and the applicant shall provide at least 10 days prior written notice to all persons entitled to notice under <cite doc="City of San Mateo, Cal., Code" path="17.10.060">Section 17.10.060</cite> that such a meeting will take place. The notice shall: (1) contain all the same information required under <cite doc="City of San Mateo, Cal., Code" path="17.10.060|(c)">Section 17.10.060(c)</cite>; and (2) provide the meeting date, time and location to present and discuss the proposed wireless facility. If the City does not receive a timely request for an informational neighborhood meeting, no meeting will be required.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <heading>Meetings.</heading>
+              <text>Informational neighborhood meetings shall be held at an accessible location within the City, preferably at or near the location where the proposed site is or will be located. The applicant shall conduct the meeting, bring a scaled, three-dimensional mock-up of the proposed installation, and be prepared to answer questions posed by attendees. The meeting shall be held for at least one hour; provided, however, that the meeting may be closed earlier if no one arrives within the first 20 minutes after the noticed start time or if all attendees have had a reasonable opportunity to be heard. City staff may attend in an observational capacity. No official action may be taken by the City at any informational neighborhood meeting.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>Applications Deemed Withdrawn.</heading>
+            <text>To promote efficient review and timely decisions, any application governed under <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> will be automatically deemed withdrawn by the applicant when the applicant fails to tender a substantive response to the Department within 90 calendar days after the Director deems the application incomplete in a written notice to the applicant. The Director may, in the Director's discretion, grant a written extension for up to an additional 30 calendar days when the applicant submits a written request prior to the 90th day that shows good cause to grant the extension. Delays due to circumstances outside the applicant's reasonable control will be considered good cause to grant the extension.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <heading>Peer and Independent Consultant Review.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>Authorization.</heading>
+              <text>The City Council authorizes the Director to, in the Director's discretion, select and retain an independent consultant with specialized training, experience and/or expertise in telecommunications issues satisfactory to the Director in connection any permit application.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Scope.</heading>
+              <text>The Director may request an independent consultant review on any issue that involves specialized or expert knowledge in connection with wireless facilities deployment or permit applications for wireless facilities, which include without limitation: (a) permit application completeness and/or accuracy; (b) pre-construction planned compliance with applicable regulations for human exposure to RF emissions; (c) post-construction actual compliance with applicable regulations for human exposure to RF emissions; (d) whether and to what extent a proposed project will address a gap in the applicant's wireless services; (e) whether and to what extent any technically feasible and/or potentially available alternative sites or concealment techniques may exist; (f) the applicability, reliability and/or sufficiency of any information, analyses or methodologies used by the applicant to reach any conclusions about any issue with the City's discretion to review; and (g) any other issue identified by the Director that requires expert or specialized knowledge. The Director may request that the independent consultant prepare written reports, testify at public meetings, hearings and/or appeals and attend meetings with City staff and/or the applicant.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <heading>Consultant Fees; Deposit.</heading>
+              <text>In the event that the Director elects to retain an independent consultant in connection with any permit application, the applicant shall be responsible for the reasonable costs in connection with the services provided, which may include without limitation any costs incurred by the independent consultant to attend and participate in any meetings or hearings. Before the independent consultant may perform any services, the applicant shall tender to the City a deposit in an amount equal to the estimated cost for the services to be provided, as determined by the Director. The Director may request additional deposits as reasonably necessary to ensure sufficient funds are available to cover the reasonable costs in connection with the independent consultant's services. In the event that the deposit exceeds the total costs for consultant's services, the Director shall promptly return any unused funds to the applicant after the wireless facility has been installed and passes a final inspection by the appropriate City official or his or her designee. In the event that the reasonable costs for the independent consultant's services exceed the deposit, the Director shall invoice the applicant for the balance. The City shall not issue any construction or grading permit to any applicant with any unpaid deposit requests or invoices.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>17.10.060</num>
+          <heading>NOTICE.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Notice Requirements for Minor Wireless Permits.</heading>
+            <text>The Director shall administratively review a complete and duly filed application for a minor wireless permit and may act on such application without prior notice, except as provided in <cite doc="City of San Mateo, Cal., Code" path="17.10.050|(d)">Section 17.10.050(d)</cite>, or a public hearing. Within five days after the Director's decision, notice of the decision shall be posted at the project site and mailed to all properties within 500 feet from the proposed project site measured radially from the centerline of the public right-of-way in both directions. The mailed and posted notice must contain: (1) a general description for the proposed project, which shall include photo simulations, samples or renderings that depict the finished installation in context with the surrounding natural and built environment; (2) the Director's decision; (3) the applicant's name and contact information as provided on the application submitted to the City; (4) contact information for the Department; and (5) instructions for how and when to file a protest with the Secretary of the Sustainability and Infrastructure Commission.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Notice Requirements for Major Wireless Permits.</heading>
+            <text>Public notice and a hearing before the Sustainability and Infrastructure Commission shall be required for all major wireless permit applications. In addition to posted notice at the proposed project site, notice shall be mailed to all properties within 500 feet of the proposed project site measured radially from the centerline of the public right-of-way in both directions. The mailed and posted notice must contain: (1) a general description for the proposed project, which shall include photo simulations, samples or renderings that depict the finished installation in context with the surrounding natural and built environment; (2) the applicant's name and contact information as provided on the application submitted to the City; (4) contact information for the Department; and (5) the date, time and location for the public hearing.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Deemed-Approval Notice.</heading>
+            <text>Not more than 30 days before the applicable FCC Shot Clock expires, and in addition to any public notice required prior to a decision, an applicant for a minor wireless permit or a major wireless permit must provide a posted notice at the project site that contains: (1) a statement the project will be automatically deemed approved pursuant to <cite doc="Cal. Gov't Code" path="§65964.1">California Government Code § 65964.1</cite> unless the City approves or denies the application or the applicant voluntarily agrees to toll the timeframe for review within the next 30 days; (2) a general description for the proposed project; (3) the applicant's name and contact information as provided on the application submitted to the City; and (4) contact information for the Department. The public notice required under this Section will be deemed given when the applicant delivers written notice to the Director that shows the appropriate notice has been posted at the project site. Notwithstanding anything to the contrary in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>, the approval authority shall be permitted to act on an application for a minor wireless permit or a major wireless permit at any time so long as any applicable prior public notice in this Section has occurred.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Decision Notices to the Applicant.</heading>
+            <text>Within five days after the approval authority acts on an application governed under <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> or before the FCC Shot Clock expires (whichever occurs first), the approval authority or its designee shall send a written notice to the applicant. In the event that the approval authority denies the application (with or without prejudice), the written notice to the applicant must contain: (1) the reasons for the decision and (2) instructions for how and when to file an appeal.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>17.10.070</num>
+          <heading>DECISIONS; LIMITED EXCEPTIONS; PROTESTS; APPEALS.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Required Findings for Approval.</heading>
+            <text>The approval authority may approve or conditionally approve an application for a minor wireless permit or major wireless permit submitted under <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> when the approval authority finds all of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>the proposed wireless facility complies with all applicable site location guidelines in <cite doc="City of San Mateo, Cal., Code" path="17.10.090">Section 17.10.090</cite> and design regulations in <cite doc="City of San Mateo, Cal., Code" path="17.10.100">Section 17.10.100</cite>; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the applicant has demonstrated that its proposed wireless facility will be in compliance with all applicable FCC rules and regulations for human exposure to RF emissions; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>the applicant has proposed to place the wireless facility in the most-preferred location or, if the wireless facility is not proposed in the most-preferred location, the applicant has demonstrated a good-faith effort to identify and evaluate more-preferred alternative locations through a meaningful comparative analysis; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>the applicant has provided the approval authority with a meaningful comparative analysis that shows all more-preferred alternative designs identified in the administrative record are either technically infeasible or unavailable.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Conditional Approvals; Denials without Prejudice.</heading>
+            <text>Subject to any applicable federal or California laws, nothing in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> is intended to limit the approval authority's ability to conditionally approve or deny without prejudice any application governed under <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> as may be necessary or appropriate to protect and promote the public health, safety and welfare, and to advance the goals or policies in the General Plan and any specific plan, the San Mateo Municipal Code and/or this section.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Limited Exceptions for Personal Wireless Service Facilities.</heading>
+            <text>In the event that an applicant claims that strict compliance with the design regulations in <cite doc="City of San Mateo, Cal., Code" path="17.10.100">Section 17.10.100</cite> would effectively prohibit the applicant's ability to provide personal wireless services, the Sustainability and Infrastructure Commission may grant a limited exception from such requirements in accordance with this Sub Section.</text>
+            <para>
+              <num>(1)</num>
+              <heading>Required Findings.</heading>
+              <text>The Sustainability and Infrastructure Commission shall not grant any limited exception unless the applicant shows that:</text>
+              <para>
+                <num>(A)</num>
+                <text>the proposed wireless facility qualifies as a "personal wireless service facility" as defined in 47 U.S.C. § 332(c)(7)(C)(ii), as may be amended or superseded; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the applicant has provided the Sustainability and Infrastructure Commission with a reasonable and clearly defined technical service objective to be achieved by the proposed wireless facility; and</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>the applicant has provided the Sustainability and Infrastructure Commission with a written statement that contains a detailed and fact-specific explanation as to why the proposed wireless facility cannot be deployed in compliance with the applicable provisions in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>; and</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>the applicant has provided the Sustainability and Infrastructure Commission with a meaningful comparative analysis with the factual reasons why all alternative locations and/or designs identified in the administrative record (whether suggested by the applicant, the City, public comments or any other source) are not technically feasible or potentially available to reasonably achieve the applicant's reasonable and clearly defined technical service objective to be achieved by the proposed wireless facility; and</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>the applicant has demonstrated to the Sustainability and Infrastructure Commission that the proposed location and design is the least non-compliant configuration that will reasonably achieve the applicant's reasonable and clearly defined technical service objective to be achieved by the proposed wireless facility, which includes without limitation a meaningful comparative analysis into multiple smaller or less intrusive wireless facilities dispersed throughout the intended service area.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Limitations on Exceptions.</heading>
+              <text>Any limited exception shall be narrowly tailored to ensure that any deviations from the design regulations in <cite doc="City of San Mateo, Cal., Code" path="17.10.100">Section 17.10.100</cite> are no greater than necessary to avoid an effective prohibition of the applicant's personal wireless services. Limited exceptions shall be based on the facts and circumstances of the applicant, its demonstrated technical service objectives at the time the exception is granted and the proposed wireless facility and shall not be deemed to establish any precedent for similar deviations for the same or any other applicant, location or wireless facility.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Right to Protest Director's Decision.</heading>
+            <text>Any interested person or entity may protest any decision by the Director to approve or deny an application for a minor wireless permit. Protests must be filed with the Secretary of the Sustainability and Infrastructure Commission within ten calendar days following the City's mailing of the decision notice required under <cite doc="City of San Mateo, Cal., Code" path="17.10.060">Section 17.10.060</cite>. No fee shall be required to file any protest under this Section. On the next available meeting date after the protest period lapses, or as soon as reasonably feasible thereafter, the Sustainability and Infrastructure Commission shall hold a <em>de novo</em> public hearing to consider and act on the application in accordance with the required findings for the project. Protests from an approval will not be permitted to the extent that the protest is based on environmental effects from RF emissions that comply with all applicable FCC regulations. The protest decision may be appealed to the City Council under <cite doc="City of San Mateo, Cal., Code" path="17.10.070">Section 17.10.070</cite>.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>Appeals.</heading>
+            <text>Any interested person or entity may appeal any decision by the approval authority to approve or deny an application for a minor wireless permit or major wireless permit. Appeals and the applicable filing fee must be filed with the City Clerk within ten calendar days following the Sustainability and Infrastructure Commission's decision. On the next available meeting date after the appeal period lapses, or as soon as reasonably feasible thereafter, the City Council shall hold a <em>de novo </em>public hearing to consider and act on the application in accordance with the required findings for the project. Appeals from an approval will not be permitted to the extent that the appeal is based on environmental effects from RF emissions that comply with all applicable FCC regulations.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>17.10.080</num>
+          <heading>STANDARD CONDITIONS OF APPROVAL.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Conditions Adopted by City Council Resolution.</heading>
+            <text>The City Council may, either on its own motion or upon a recommendation from the Director, adopt by resolution standard conditions of approval for wireless facilities subject to <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>. All wireless facilities, whether approved by the approval authority or deemed approved or deemed granted by law shall be automatically subject to all such standard conditions of approval as may be adopted in a resolution by the City Council.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Modifications to Standard Conditions.</heading>
+            <text>The approval authority (or the appellate authority) shall have discretion to modify or amend any standard conditions of approval on a case-by-case basis as may be necessary or appropriate to protect and promote the public health, safety and welfare, allow for the proper operation of the approved wireless facility, maintain compliance with applicable laws and/or to advance the goals or policies in the General Plan and any specific plan, the San Mateo Municipal Code and/or <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>17.10.090</num>
+          <heading>SITE LOCATION GUIDELINES.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Preferred Locations.</heading>
+            <text>When evaluating compliance with <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>, the approval authority will take into account whether any or more preferred locations are technically feasible and potentially available. All applicants for a minor wireless permit or major wireless permit must propose new wireless facilities in locations within the public rights-of-way according to the following preferences, ordered from most preferred to least preferred:</text>
+            <para>
+              <num>(1)</num>
+              <text>manufacturing districts;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>transportation corridor or transit-oriented development districts;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>executive districts;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>central business districts;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>commercial districts;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>agricultural and open space districts;</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>shoreline districts;</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>residential districts with multi-family residential uses;</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>residential districts with single family residential uses.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Preferred Support Structures.</heading>
+            <text>When evaluating compliance with <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>, the approval authority will take into account whether any or more preferred support structures are technically feasible and potentially available. All applicants for a minor wireless permit or major wireless permit must propose new wireless facilities on support structures within the public rights-of-way according to the following preferences, ordered from most preferred to least preferred:</text>
+            <para>
+              <num>(1)</num>
+              <text>new facilities on streetlights or traffic signals;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>new facilities on other existing support structures;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>new facilities on replacement support structures;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>collocations on existing support structures;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>collocations on replacement support structures;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>new facilities on new support structures.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>17.10.100</num>
+          <heading>DESIGN REGULATIONS.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Generally Applicable Design Regulations.</heading>
+            <text>All new wireless facilities and collocations, modifications or other changes to existing wireless facilities not covered under Section 6409 must conform to the generally applicable design regulations in this Section and the design and engineering standards adopted by the Director of Public Works.</text>
+            <para>
+              <num>(1)</num>
+              <heading>General Concealment.</heading>
+              <text>All wireless facilities must be concealed to the maximum extent feasible with design elements and techniques that mimic or blend with the underlying support structure, surrounding environment and adjacent uses and should promote attractive, harmonious, and economic use of property, buildings, civic facilities, and conform with an preserve the overall aesthetics and character of City neighborhoods. In addition, wireless facilities may not unreasonably subject the public use, for any purpose including expressive or aesthetic purposes, to inconvenience, discomfort, trouble, annoyance, hindrance, impediment or obstruction.</text>
+              <para>
+                <num>(A)</num>
+                <heading>Undergrounded Equipment.</heading>
+                <text>To conceal the equipment to the maximum degree feasible, applicants must install all equipment (other than the antenna, antenna supports, ancillary wires, cables and any electric meter) underground in any area in which the existing utilities are not primarily located above ground. In all other areas, applicants shall install all equipment (other than the antenna, antenna supports, ancillary wires, cables and any electric meter) underground when the approval authority finds that the above-ground equipment would unreasonably interfere with the public's ability to use the right-of-way for uses that include without limitation travel, social, expressive and/or aesthetic uses. When making a determination on whether to require undergrounded equipment, the approval authority shall take into account whether and to what extent any other above-ground utilities exist near the proposed site. Mere additional expense to install and maintain an underground equipment enclosure does not exempt an applicant from this requirement.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <heading>Pole-Mounted Equipment.</heading>
+                <text>All pole-mounted equipment must be installed as close to the pole as technically and legally feasible to minimize the overall visual profile. All pole-mounted equipment and required or permitted signage must face toward the street or otherwise placed to minimize visibility from adjacent sidewalks and structures. All cables, wires and other connectors must be routed through conduits within pole whenever possible, and all external conduits, conduit attachments, cables, wires and other connectors must be concealed from public view to the extent feasible. Equipment mounted below any streetlight must not interfere with the illumination provided to the public rights-of-way from such streetlight.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <heading>Ground-Mounted Equipment.</heading>
+                <text>In general, the City strongly disfavors all ground-mounted equipment. To the extent that the equipment cannot be placed underground or mounted on the pole, applicants may be permitted to install ground-mounted equipment in a location that does not obstruct pedestrian or vehicular traffic. All ground-mounted equipment must be placed in the least conspicuous location available within a reasonable distance from the pole and/or be installed within an existing or replacement street feature including, without limitation, bus stop shelters, trash bins, benches, kiosks, advertisement panels or other street furniture to conceal the equipment. The approval authority may condition approval on new or enhanced landscaping to conceal ground-mounted equipment. Ground-mounted cabinets installed on residential frontage are strongly disfavored.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Overall Height.</heading>
+              <text>Wireless facilities in the public rights-of-way may not exceed either (i) the minimum separation from supply lines required by CPUC General Order 95, as may be amended or superseded, plus four feet or (ii) four feet above the height of the existing support structure. Legally required lightning arresters and beacons shall be included when calculating the height of facilities.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <heading>Overall Volume.</heading>
+              <text>All above ground accessory equipment associated with the proposed wireless facility cannot exceed 17 cubic feet in volume.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <heading>Noise.</heading>
+              <text>Wireless facilities and all accessory equipment and transmission equipment must comply with all noise regulations and shall not exceed, either individually or cumulatively, the applicable ambient noise level in the subject zoning district. The approval authority may require the applicant to incorporate appropriate noise-baffling materials and/or strategies whenever necessary to avoid any ambient noise from equipment reasonably likely to exceed the applicable level.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <heading>Landscaping.</heading>
+              <text>All wireless facilities must include landscape features and a landscape maintenance plan when proposed to be placed in a landscaped area. The approval authority may require additional landscape features to screen the wireless facility from public view, avoid or mitigate potential adverse impacts on adjacent properties or otherwise enhance the concealment required under this Section. All plants proposed or required must be native and/or drought-resistant.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <heading>Site Security Measures.</heading>
+              <text>Wireless facilities may incorporate reasonable and appropriate site security measures, such as locks and anti-climbing devices, to prevent unauthorized access, theft or vandalism. All wireless facilities shall be constructed from graffiti-resistant materials. The approval authority may require additional concealment elements as the approval authority finds necessary to blend the security measures and other improvements into the natural and/or built environment. The approval authority shall not approve barbed wire, razor ribbon, electrified fences or any similar security measures.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <heading>Backup Power Sources.</heading>
+              <text>The approval authority may not approve permanent backup power sources within the public rights-of-way.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <heading>Lights.</heading>
+              <text>Wireless facilities may not include exterior lights other than as may be required under FAA, FCC, other applicable governmental regulations or applicable pole owner policies related to public or worker safety. All exterior lights permitted or required to be installed must be installed in locations and within enclosures that mitigates illumination impacts on other properties to the maximum extent feasible. Any lights associated with the electronic equipment shall be appropriately shielded from public view. The provisions in this subsection shall not be interpreted to prohibit installations on street lights or the installation of luminaires on new poles when required by the approval authority.</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <heading>Signage; Advertisements.</heading>
+              <text>All wireless facilities must include signage that accurately identifies the equipment owner/operator, the owner/operator's site name or identification number and a toll-free number to the owner/operator's network operations center. Wireless facilities may not bear any other signage or advertisements unless expressly approved by the City, required by law or recommended under existing and future FCC or other United States governmental agencies for compliance with RF emissions regulations.</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <heading>Future Collocations and Equipment.</heading>
+              <text>To the extent feasible and aesthetically desirable, all new wireless facilities should be designed and sited in a manner that accommodates potential future collocations and equipment installations that can be integrated into the proposed wireless facility or its associated structures with no or negligible visual changes to the outward appearance. The approval authority may waive the requirements in this Section when the approval authority determines future collocations at a proposed wireless facility would be aesthetically undesirable.</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <heading>Utilities.</heading>
+              <text>All cables and connectors for telephone, primary electric and other similar utilities must be routed underground to the extent feasible in conduits large enough to accommodate future collocated wireless facilities. To the extent feasible, undergrounded cables and wires must transition directly into the pole base without any external doghouse. Meters, panels, disconnect switches and other associated improvements must be placed in inconspicuous locations to the extent possible. The approval authority shall not approve new overhead utility lines or service drops merely because compliance with the undergrounding requirements would increase the project cost. Microwave or other wireless backhaul is discouraged when it would involve a separate and unconcealed antenna.</text>
+            </para>
+            <para>
+              <num>(12)</num>
+              <heading>Compliance with Laws.</heading>
+              <text>All wireless facilities must be designed and sited in compliance with all applicable federal, state and local laws, regulations, rules, restrictions and conditions, which includes without limitation the California Building Standards Code, Americans with Disabilities Act, General Plan and any applicable specific plan, the San Mateo Municipal Code and any conditions or restrictions in any permit or other governmental approval issued by any public agency with jurisdiction over the project.</text>
+            </para>
+            <para>
+              <num>(13)</num>
+              <heading>Public Safety.</heading>
+              <text>All wireless facilities shall not interfere with access to a fire hydrant, fire station, fire escape, water valve, underground vault, valve housing structure or any other public health or safety facility. No person shall install, use or maintain any facilities, which in whole or in part rest upon, in or over any public right-of-way, when such installation, use or maintenance endangers or is reasonably likely to endanger the safety of persons or property, or when such site or location is used for public utility purposes, public transportation purposes or other governmental use, or when such facilities unreasonably interfere with or unreasonably impede the flow of pedestrian or vehicular traffic including any legally parked or stopped vehicle, the ingress into or egress from any residence or place of business, the use of poles, posts, traffic signs or signals, hydrants, mailboxes, permitted sidewalk dining, permitted street furniture or other objects permitted at or near the location where the wireless facilities are located.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Facilities on Existing Support Structures.</heading>
+            <text>All wireless facilities in the public rights-of-way must be installed on existing above-ground structures (such as light standards or utility poles) whenever possible and aesthetically desirable. The approval authority shall not approve any wireless facility proposed to be installed on a traffic control pole unless the approval authority finds, in the approval authority's discretion, that the traffic control pole has sufficient capacity to support the wireless facility. Wireless facilities shall not be installed on existing decorative street light standards.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Facilities on Replacement Support Structures.</heading>
+            <text>Existing above-ground structures may be replaced with structurally hardened, fitted or reinforced support structures so long as the replacement structure is, in the approval authority's discretion, substantially similar to the existing structure to be replaced. Unless an applicant can demonstrate that the installation of a steel pole is not feasible or the approval authority determines that a wood pole is needed to match the existing poles in the vicinity, new wood poles shall only be allowed to replace existing wood poles.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Facilities on New Support Structures.</heading>
+            <text>The approval authority shall not approve any new, non-replacement support structures unless: (1) the applicant demonstrates that above-ground support structures within 500 feet from the proposed site location either do not exist or are not technically feasible or potentially available to the applicant; or (2) the approval authority specifically finds that a new, non-replacement support structure would be more aesthetically desirable and consistent with the objectives in the General Plan and any applicable specific plan, the San Mateo Municipal Code and <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> than installations on existing structures near the project site. The approval authority shall have the discretion to require that any new support structure must be: (a) concealed as decorative street furniture and/or (b) a streetlight that conforms to the City's streetlight standards and specifications, which the City shall maintain for street illumination and public safety purposes.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>Administrative Design and Engineering Standards and Application Requirements.</heading>
+            <text>The Director may develop, and from time to time amend, design and engineering standards and application requirements consistent with the generally applicable design regulations to clarify the aesthetic and public safety goals and standards in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> for City staff, applicants and the public. In the event that a conflict arises between the design regulations adopted under <cite doc="City of San Mateo, Cal., Code" path="17.10.100">Section 17.10.100</cite> and the administrative design and engineering standards adopted under this <cite doc="City of San Mateo, Cal., Code" path="17.10.100">Section 17.10.100</cite>.(e), the design regulations under <cite doc="City of San Mateo, Cal., Code" path="17.10.100">Section 17.10.100</cite> shall control.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>17.10.110</num>
+          <heading>TEMPORARY WIRELESS FACILITIES.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>General Requirements for Temporary Wireless Facilities.</heading>
+            <text>Except as provided in this Section, the requirements, procedures and standards in this section shall be applicable to all applications for a temporary wireless permit for a temporary wireless facility.</text>
+            <para>
+              <num>(1)</num>
+              <heading>Applications for Temporary Wireless Facilities.</heading>
+              <text>The Director shall not approve any temporary wireless facility subject to a temporary wireless permit except upon a duly filed application consistent with this Section and any other written application requirements or procedures the Director may publish in any publicly-stated format. Applicants for a temporary wireless permit must submit, at a minimum: (1) a temporary wireless permit application on the most current form prepared by the Department; (2) the applicable fee for the application; (3) a site plan that shows the proposed temporary wireless facility and its equipment, physical dimensions and placement on the proposed site relative to property lines and existing structures; (4) an RF compliance report in accordance with the City's requirements; and (5) an insurance certificate for general commercial liability that names the City as an additional insured, includes coverage for the time period in which the temporary wireless facility will be placed and a carries at least $1,000,000 in coverage per occurrence. Applications must be submitted in person to the Director unless the Director grants written consent to receive an application by mail or electronic means. No pre-submittal conference or appointment is required for a temporary wireless permit application.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Administrative Review for Temporary Wireless Facilities.</heading>
+              <text>After the Director receives a duly filed application for a temporary wireless permit, the Director shall review the application for completeness. After the Director deems the application complete, the Director shall review the application for conformance with the required findings in this Section and render a written decision to the applicant. Any denials must include the reasons for the denial. The review shall be administrative in nature and shall not require notice or a public hearing.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <heading>Required Findings for Temporary Wireless Facilities.</heading>
+              <text>The Director may approve or conditionally approve a temporary wireless permit for a temporary wireless facility only when the Director finds all of the following:</text>
+              <para>
+                <num>(A)</num>
+                <text>the proposed temporary wireless facility will not exceed 50 feet in overall height above ground level; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>the proposed temporary wireless facility will be placed as far away from adjacent property lines as possible, or otherwise in a location that will be least likely to cause adverse impacts on adjacent properties; and</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>any excavation or ground disturbance associated with the temporary facility will not exceed two feet below grade; and</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>the proposed temporary wireless facility will be compliant with all generally applicable public health and safety laws and regulations, which includes without limitation compliance with maximum permissible exposure limits for human exposure to RF emissions established by the FCC; and</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>the proposed temporary wireless facility will not create any nuisance or violate any noise limits applicable to the proposed location; and</text>
+              </para>
+              <para>
+                <num>(F)</num>
+                <text>the proposed temporary wireless facility will be identified with a sign that clearly identifies the (i) site operator, (ii) the operator's site identification name or number and (iii) a working telephone number answered 24 hours per day, seven days per week by a live person who can exert power-down control over the antennas; and</text>
+              </para>
+              <para>
+                <num>(G)</num>
+                <text>the proposed temporary wireless facility will be removed within 30 days after the Director grants the temporary wireless permit, or such longer time as the Director finds reasonably related to the applicant's need or purpose for the temporary wireless facility; and</text>
+              </para>
+              <para>
+                <num>(H)</num>
+                <text>the applicant has not been denied a use permit for any permanent wireless facility in the same or substantially the same location within the previous 365 days.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <heading>Appeals for Temporary Wireless Facilities.</heading>
+              <text>Any applicant may appeal the Director's written decision to deny an application for a temporary wireless permit. The written appeal together with any applicable appeal fee must be tendered to the City within ten days from the Director's written decision, and must state in plain terms the grounds for reversal and the facts that support those grounds. The City Manager shall be the appellate authority for all appeals from the Director's written decision to deny a temporary wireless permit. The City Manager shall review the application <em>de novo</em>; provided, however, that the City Manager's decision shall be limited to only whether the application should be approved or denied in accordance with the provisions in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> and any other applicable laws. The City Manager shall issue a written decision that contains the reasons for the decision, and such decision shall be final and not subject to any further administrative appeals.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Temporary Wireless Facilities for Emergencies.</heading>
+            <text>Temporary wireless facilities may be placed and operated within the City without a temporary wireless permit only when a duly authorized federal, state, county or City official declares an emergency within a region that includes the City in whole or in part. Any temporary wireless facilities placed pursuant to this Section must be removed within 15 days after the date the emergency is lifted. Any person or entity that places temporary wireless facilities pursuant to this section must send a written notice that identifies the site location and person responsible for its operation to the Director as soon as reasonably practicable.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>17.10.120</num>
+          <heading>AMORTIZATION OF NONCONFORMING WIRELESS FACILITIES.</heading>
+          <text>Any non-conforming wireless facilities in existence at the time <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> becomes effective must be brought into conformance with <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> in accordance with the amortization schedule in this Section.  As used in this section, the "fair market value" will be the construction costs listed on the building permit or application for the subject wireless facility and the "minimum years" allowed will be measured from the date on which <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> becomes effective.</text>
+          <table>
+            <tr>
+              <th>Fair Market Value on Effective Date</th>
+              <th>Minimum Years Allowed</th>
+            </tr>
+            <tr>
+              <td>Less than $50,000. . . . . . . . . . . . . . . . . . . . . . .</td>
+              <td>5</td>
+            </tr>
+            <tr>
+              <td>$50,000 to $500,000. . . . . . . . . . . . . . . . . . . . . </td>
+              <td>10</td>
+            </tr>
+            <tr>
+              <td>Greater than $500,000. . . . . . . . . . . . . . . . . . . .</td>
+              <td>15</td>
+            </tr>
+          </table>
+          <text>The Director may grant a written extension to a date certain when the wireless facility owner shows: (1) a good faith effort to cure non-conformance; (2) the application of this section would violate applicable laws; or (3) extreme economic hardship would result from strict compliance with the amortization schedule. Any extension must be the minimum time period necessary to avoid such extreme economic hardship. The Director may not grant any permanent exemption from this section.</text>
+          <text>Nothing in this section is intended to limit any permit term to less than ten (10) years. In the event that the amortization required in this section would reduce the permit term to less than 10 years for any permit granted on or after January 1, 2007, then the minimum years allowed will be automatically extended by the difference between ten (10) years and the number of years since the City granted such permit. Nothing in this section is intended or may be applied to prohibit any collocation or modification covered under 47 U.S.C. § 1455(a) on the basis that the subject wireless facility is a legal nonconforming wireless facility.</text>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>17.10.130</num>
+          <heading>SPECIAL PROVISIONS FOR SECTION 6409 APPROVALS.</heading>
+          <para>
+            <num>(a)</num>
+            <heading>Applicability.</heading>
+            <text>This Section applies to all requests for approval to collocate, replace or remove transmission equipment at an existing wireless tower or base station located in the public rights-of-way submitted pursuant to Section 6409. However, the applicant may voluntarily elect to seek a major or minor wireless permit under <cite doc="City of San Mateo, Cal., Code" path="17.10.030">Section 17.10.030</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Additional Section 6409 Definitions.</heading>
+            <text>In addition to the definitions in <cite doc="City of San Mateo, Cal., Code" path="17.10.020">Section 17.10.020</cite>, the abbreviations, phrases, terms and words used in this Section will have the following meanings assigned to them unless context indicates otherwise. Undefined phrases, terms or words in this section will have the meanings assigned to them in 47 U.S.C. § 153, as may be amended from time to time, and, if not defined therein, will have their ordinary meanings. In the event that any definition assigned to any phrase, term or word in this section conflicts with any federal or state-mandated definition, the federal or state-mandated definition will control.</text>
+            <para>
+              <num>(1)</num>
+              <text>"<strong>eligible facilities request</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(3), as may be amended.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>"<strong>eligible support structure</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(4), as may be amended.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>"<strong>existing</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(4), as may be amended.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>"<strong>site</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(6), as may be amended.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>"<strong>substantial change</strong>" means the same as defined by the FCC in 47 C.F.R. § 1.40001(b)(7), as may be amended.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Required Approval.</heading>
+            <text>Any request to collocate, replace or remove transmission equipment at an existing wireless tower or base station located in the public right-of-way submitted with a written request for approval under Section 6409 shall require an administrative approval in such form determined by the Director consistent with all valid and enforceable terms and conditions of the underlying permit or other prior regulatory authorization for the tower or base station (each amendment a "section 6409 approval"). Each section 6409 approval shall be subject to the Director's approval, conditional approval or denial without prejudice pursuant to the standards and procedures in this Section. However, the applicant may voluntarily elect to seek a major or minor wireless permit subject to the general standards and procedures in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Decisions; Appeals.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>Administrative Review.</heading>
+              <text>The approval authority shall administratively review a complete and duly filed application for a section 6409 approval, and may act on such application without prior notice or a public hearing.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Decision Notices.</heading>
+              <text>Within five days after the approval authority acts on an application for a section 6409 approval or before the FCC Shot Clock expires (whichever occurs first), the approval authority shall send a written notice to the applicant. In the event that the approval authority denies the application, the written notice to the applicant must contain: (1) the reasons for the decision; (2) a statement that denial will be without prejudice; and (3) instructions for how and when to file an appeal.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <heading>Required Findings for Approval.</heading>
+              <text>The approval authority may approve or conditionally approve any application for a section 6409 approval when the approval authority finds that the proposed project:</text>
+              <para>
+                <num>(A)</num>
+                <text>involves collocation, removal or replacement of transmission equipment on an existing wireless tower or base station;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>does not substantially change the physical dimensions of the existing wireless tower or base station; and</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>remains in compliance with all applicable FCC RF standards.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <heading>Criteria for Denial without Prejudice.</heading>
+              <text>Notwithstanding any other provision in <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite>, and consistent with all applicable federal laws and regulations, the approval authority may deny without prejudice any application for a section 6409 approval when the approval authority finds that the proposed project:</text>
+              <para>
+                <num>(A)</num>
+                <text>does not meet the findings required in <cite doc="City of San Mateo, Cal., Code" path="17.10.130|(d)|(3)">Section 17.10.130(d)(3)</cite>;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>involves the replacement of the entire support structure; or</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>violates any legally enforceable law, regulation, rule, standard or permit condition reasonably related to public health or safety.</text>
+              </para>
+            </para>
+            <para>
+              <num>(5)</num>
+              <heading>Conditional Approvals.</heading>
+              <text>Subject to any applicable limitations in federal or state law, nothing in this Section is intended to limit the approval authority's authority to conditionally approve an application for a section 6409 approval to protect and promote the public health and safety.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <heading>Appeals.</heading>
+              <text>Any applicant may appeal the approval authority's written decision to deny without prejudice an application for section 6409 approval. The written appeal together with any applicable appeal fee must be tendered to the City Clerk within ten calendar days from the approval authority's written decision and must state in plain terms the grounds for reversal and the facts that support those grounds. The City Manager shall be the appellate authority for all appeals from the approval authority's written decision to deny without prejudice an application for section 6409 approval. The City Manager shall review the application <em>de novo</em>; provided, however, that the City Manager's decision shall be limited to only whether the application should be approved or denied in accordance with the provisions in this Section and any other applicable laws. The City Manager shall issue a written decision that contains the reasons for the decision, and such decision shall be final and not subject to any further administrative appeals.</text>
+            </para>
+          </para>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of <cite doc="City of San Mateo, Cal., Code" path="2">this chapter</cite> shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines section 15378(b)(5), this action is categorically exempt from (CEQA) as an administrative activity that will not result in a potentially significant physical impact on the environment.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on June 18, 2018 and adopted on July 16, 2018, and shall be effective thirty days after its date of adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Freschet, Goethals and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
+  </section>
+</document>
