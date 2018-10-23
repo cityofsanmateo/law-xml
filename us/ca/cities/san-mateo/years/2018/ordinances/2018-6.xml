@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2018-6">
+  <num>2018-6</num>
+  <heading>AN UNCODIFIED ORDINANCE OF THE CITY COUNCIL OF THE CITY OF SAN MATEO REQUIRING ELECTRONIC FILING OF CAMPAIGN STATEMENTS</heading>
+  <meta>
+    <effective>2018-09-07</effective>
+    <citations>
+      <citation type="ord">Ord. No. 2018-6</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2018-6</citation>
+    </citations>
+    <history>
+      <introduced>2018-07-16</introduced>
+      <adopted>2018-08-06</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code" path="§84615">Government Code Section 84615</cite> currently provides that a local agency may adopt an ordinance to require an elected officer, candidate, committee, or other person required to file campaign disclosure statements, required by Chapter 4 of the Political Reform Act (commencing with <cite doc="Cal. Gov't Code" path="§84100">Section 84100 of the Government Code</cite>); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City has entered into an agreement with SouthTech Systems., a vendor approved by the California Secretary of State, to provide online electronic filing system ("System") for campaign disclosure statements; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo desires to adopt an uncodified ordinance requiring electronic filing of campaign statements.</text>
+      <text>THE CITY OF SAN MATEO FINDS AS FOLLOWS: The System will operate securely and effectively and will not unduly burden filers. Specifically: (1) the System will ensure the integrity of the data and includes safeguards against efforts to tamper with, manipulate, alter, or subvert data; (2) the System will only accept a filing the standardized record format developed by the Secretary of State and compatible with the Secretary of State's system for receiving an online or electronic filing; and (3) the System will be available free of charge to filers and to the public for viewing filings.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO DOES ORDAIN AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>ELECTRONIC FILING OF CAMPAIGN STATEMENTS.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Any elected officer, candidate, committee or other person required to file statements, required by Chapter 4 (commencing with <cite doc="Cal. Gov't Code" path="§84100">Section 84100 of the Government Code</cite>), except an elected officer, candidate, committee or other person who receives contributions totaling less than one thousand dollars ($1,000), or makes expenditures totaling less than one thousand dollars ($1,000), in a calendar year shall file those statements, online or electronically with the City Clerk.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In any instance in which an original statement, report or other document must be filed with the California Secretary of State and a copy of that statement, report or other document is required to be filed with the City Clerk, the filer may, but is not required to, file the copy electronically.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If the City Clerk's electronic system is not capable of accepting a particular type of statement, report or other document, an elected officer, candidate, committee or other person shall file that document with the City Clerk in an alternative format.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of <cite doc="City of San Mateo, Cal., Code" path="2">this chapter</cite> shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect. (Ord. 2004-15 § 1, 2004).</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines section 15378(b)(5), this action is categorically exempt from (CEQA) as an administrative activity that will not result in a potentially significant physical impact on the environment.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on July 16, 2018 and adopted on August 6, 2018, and shall be effective thirty days after its date of adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Freschet, Goethals and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
+  </section>
+</document>

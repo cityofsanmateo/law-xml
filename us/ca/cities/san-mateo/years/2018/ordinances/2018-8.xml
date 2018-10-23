@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2018-8" codify:doc="City of San Mateo, Cal., Code">
+  <num>2018-8</num>
+  <heading>AMEND CHAPTER 11.56 "BICYCLES" OF THE SAN MATEO MUNICIPAL CODE</heading>
+  <meta>
+    <effective>2018-10-31</effective>
+    <citations>
+      <citation type="ord">Ord. No. 2018-8</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2018-8</citation>
+    </citations>
+    <history>
+      <introduced>2018-09-17</introduced>
+      <adopted>2018-10-01</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the San Mateo Police Department no longer issues bicycle licenses and has not done so for years; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the purpose of issuing bicycle licenses was mainly to aide in the return of stolen bicycles and is now unnecessary due to creation of a database which allows for assistance in identification and recovery of stolen property; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>staff is interested in updating the ordinance to reflect the current practices of eth SMPD by removing all references to this bicycle license requirements from <cite doc="City of San Mateo, Cal., Code" path="11.56">Chapter 11.56</cite>;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO CALIFORNIA HEREBY ORDAINS THAT:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="11.56">Chapter 11.56 of the San Mateo Municipal Code</cite> is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>11.56</num>
+        <heading>BICYCLES</heading>
+        <toc>
+          <heading>Sections:</heading>
+          <section>
+            <num>11.56.100</num>
+            <heading>Riding - On roadway or sidewalk.</heading>
+          </section>
+          <section>
+            <num>11.56.110</num>
+            <heading>Riding - One person only.</heading>
+          </section>
+          <section>
+            <num>11.56.120</num>
+            <heading>Riding - On permanent seat required.</heading>
+          </section>
+          <section>
+            <num>11.56.130</num>
+            <heading>Holding onto or pulling other vehicles prohibited.</heading>
+          </section>
+          <section>
+            <num>11.56.140</num>
+            <heading>Traffic signs and signals.</heading>
+          </section>
+          <section>
+            <num>11.56.150</num>
+            <heading>Lights at night.</heading>
+          </section>
+          <section>
+            <num>11.56.160</num>
+            <heading>Parking.</heading>
+          </section>
+        </toc>
+        <codify:remove path="11.56.010" warning="false"/>
+        <codify:remove path="11.56.020" warning="false"/>
+        <codify:remove path="11.56.030" warning="false"/>
+        <codify:remove path="11.56.040" warning="false"/>
+        <codify:remove path="11.56.050" warning="false"/>
+        <codify:remove path="11.56.060" warning="false"/>
+        <codify:remove path="11.56.070" warning="false"/>
+        <codify:remove path="11.56.080" warning="false"/>
+        <codify:remove path="11.56.090" warning="false"/>
+        <section>
+          <codify:replace path="11.56.100"/>
+          <num>11.56.100</num>
+          <heading>RIDING - ON ROADWAY OR SIDEWALK.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any person operating a bicycle upon a roadway at a speed less than the normal speed of traffic moving in the same direction at the time shall ride as close as practicable to the right-hand curb or edge of the roadway except under any of the following situations:</text>
+            <para>
+              <num>(1)</num>
+              <text>When overtaking and passing a vehicle proceeding in the same direction.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>When preparing for a left turn at an intersection or into a private road or driveway.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>When reasonably necessary to avoid conditions (including, but not limited to, fixed or moving objects, vehicles, bicycles, pedestrians, animals, surface hazards, or substandard width lanes) that make it unsafe to continue along the right-hand curb or edge, subject to the provisions of <cite doc="Cal. Veh. Code" path="§21656">California Vehicle Code Section 21656</cite>. For purposes of this section, a "substandard width lane" is a lane that is too narrow for a bicycle and a vehicle to travel safely side by side within the lane.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any person operating a bicycle upon a roadway of a highway, which highway carries traffic in one direction only and has two (2) or more marked traffic lanes, may ride as near the left-hand curb or edge of that roadway as practicable.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>It is unlawful for any person to ride or operate a bicycle, motor driven cycle or motor scooter upon any sidewalk or upon any overhead pedestrian crossing over any street, roadway, State highway or State freeway that is signed for pedestrian use only within the City.<span codify:value=""> (Ord. 2011-10 § 1; prior code § 76.10)</span></text>
+          </para>
+        </section>
+        <section>
+          <codify:replace path="11.56.110"/>
+          <num>11.56.110</num>
+          <heading>RIDING - ONE PERSON ONLY.</heading>
+          <text>Bicycles designed and constructed to carry only one (1) person shall not be used to carry additional person or persons either on the handlebars thereof or elsewhere thereon.<span codify:value=""> (Prior code § 76.11)</span></text>
+        </section>
+        <section>
+          <codify:replace path="11.56.120"/>
+          <num>11.56.120</num>
+          <heading>RIDING - ON PERMANENT SEAT REQUIRED.</heading>
+          <text>A person operating a motorcycle or bicycle shall not ride other than upon the permanent and regular seat attached thereto, nor carry any other person upon such motorcycle or bicycle, other than upon a firmly attached seat at the rear of the operator, nor shall any person ride upon a motorcycle or bicycle other than as above authorized.<span codify:value=""> (Prior code § 73.29</span>)</text>
+        </section>
+        <section>
+          <codify:replace path="11.56.130"/>
+          <num>11.56.130</num>
+          <heading>HOLDING ONTO OR PULLING OTHER VEHICLES PROHIBITED.</heading>
+          <text>No person, while riding any bicycle shall hold on to, or pull, another moving vehicle.<span codify:value=""> (Prior code § 76.12)</span></text>
+        </section>
+        <section>
+          <codify:replace path="11.56.140"/>
+          <num>11.56.140</num>
+          <heading>TRAFFIC SIGNS AND SIGNALS.</heading>
+          <text>Every person riding and operating a bicycle shall obey all traffic signals and signs, and before making turns shall give the same signals that are required of operators of motor vehicles.<span codify:value=""> (Prior code § 76.13)</span></text>
+        </section>
+        <section>
+          <codify:replace path="11.56.150"/>
+          <num>11.56.150</num>
+          <heading>LIGHTS AT NIGHT.</heading>
+          <text>No rider of a bicycle shall ride the same at night without an adequate white headlight on the front thereof and a red light or red reflector on the rear, as required by the <cite doc="Cal. Veh. Code" proof="true">Vehicle Code</cite> of the State.<span codify:value=""> (Prior code § 76.14)</span></text>
+        </section>
+        <section>
+          <codify:replace path="11.56.160"/>
+          <num>11.56.160</num>
+          <heading>PARKING.</heading>
+          <text>The City Manager shall provide and set up suitable racks adjacent to the curb or gutter at such places in the business districts of the City as he or she may deem advisable for the parking of bicycles by persons who have occasion to stop temporarily in such districts. All bicycles found lying on the sidewalk may be taken up and impounded by the Police Department, whence they may be recovered by proving ownership thereof and obtaining an order from the Chief of Police.<span codify:value=""> (Prior code § 76.15)</span></text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, and posted in the City Clerk's Office and on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with <cite doc="Cal. Pub. Res. Code" path="§21065">California Public Resources Code 21065</cite> adoption of this Ordinance is not a "project" subject to CEQA because it can be seen with certainty that it will not cause a change in the environment.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on September 17, 2018 and adopted on October 1, 2018 and shall be effective thirty days after its date of adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Freschet, Goethals and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
+  </section>
+</document>
