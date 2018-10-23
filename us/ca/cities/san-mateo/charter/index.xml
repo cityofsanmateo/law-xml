@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Charter">
-  <heading>San Mateo City Charter</heading>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library">
+  <heading>SAN MATEO CITY CHARTER</heading>
   <container>
     <prefix>ARTICLE</prefix>
     <num>I</num>
@@ -393,19 +393,19 @@
         <num>(b)</num>
         <text>The capital program shall include:</text>
         <para>
-          <num>1</num>
+          <num>1.</num>
           <text>A clear, general summary of its contents.</text>
         </para>
         <para>
-          <num>2</num>
+          <num>2.</num>
           <text>A list of all capital improvements which are proposed to be undertaken during the five fiscal years next ensuing, with appropriate supporting information as to the necessity for such improvements.</text>
         </para>
         <para>
-          <num>3</num>
+          <num>3.</num>
           <text>Cost estimates, method of financing, and time schedules for each such improvement.</text>
         </para>
         <para>
-          <num>4</num>
+          <num>4.</num>
           <text>The estimated annual cost of operating and maintaining facilities to be constructed or acquired.</text>
         </para>
       </para>
@@ -666,43 +666,49 @@
         <num>(a)</num>
         <text>No earlier than the first day, and no later than the last day, specified or provided under state law for the filing of nomination papers by any candidate for elective municipal office in general law cities, as such law shall be in effect on the first day of January next preceding the municipal election, each candidate for an elective office shall file with the city clerk a statement containing the following information in the order herein set forth:</text>
         <para>
-          <num>1</num>
+          <num>1.</num>
           <text>His/her name;</text>
         </para>
         <para>
-          <num>2</num>
+          <num>2.</num>
           <text>The office for which he/she is a candidate;</text>
         </para>
         <para>
-          <num>3</num>
+          <num>3.</num>
           <text>His/her present residence and occupation;</text>
         </para>
         <para>
-          <num>4</num>
+          <num>4.</num>
           <text>The various kinds of business or employment he/she has been engaged in during the past five years and where, also the positions of importance and trust which he/she may have held in connection therewith;</text>
         </para>
         <para>
-          <num>5</num>
+          <num>5.</num>
           <text>The civic, improvement or other organizations which he/she has been a member of within the past five years and the positions of honor or trust, which he/she may have held therein;</text>
         </para>
         <para>
-          <num>6</num>
+          <num>6.</num>
           <text>The public offices he/she ever held, if any, as principal, deputy or employee;</text>
         </para>
         <para>
-          <num>7</num>
+          <num>7.</num>
           <text>The experience, training or education he/she has received which, in his/her opinion, would qualify him to fill the office for which he/she is a candidate;</text>
         </para>
         <para>
-          <num>8</num>
+          <num>8.</num>
           <text>The length of time he/she has been a resident in the city;</text>
         </para>
         <para>
-          <num>9</num>
+          <num>9.</num>
           <text>The principal public improvements or betterments which he/she would urge the accomplishment of if elected;</text>
         </para>
-        <text>10.	The names of not more than fifteen residents who know something of his/her character and abilities;</text>
-        <text>11.	Any other information which, in his/her opinion, would enable the electors to determine his qualifications for said office.</text>
+        <para>
+          <num>10.</num>
+          <text>The names of not more than fifteen residents who know something of his/her character and abilities;</text>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>Any other information which, in his/her opinion, would enable the electors to determine his qualifications for said office.</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
@@ -749,19 +755,19 @@
         <num>(a)</num>
         <text>Activities Prohibited:</text>
         <para>
-          <num>1</num>
+          <num>1.</num>
           <text>No person shall be appointed to or removed from, or in any way favored or discriminated against with respect to any city position or appointive city administrative office on account of any matter that constitutes employment discrimination in state or federal law.</text>
         </para>
         <para>
-          <num>2</num>
+          <num>2.</num>
           <text>No person shall willfully make any false statement, certificate, mark, rating or report in regard to any test, certification, or appointment under the personnel provisions of this Charter, or ordinances relating to personnel, or rules and regulations made thereunder, or in any manner commit or attempt to commit any fraud preventing the impartial execution of such provisions, rules and regulations.</text>
         </para>
         <para>
-          <num>3</num>
+          <num>3.</num>
           <text>No person who seeks appointment or promotion with respect to any city appointive position or appointive city office shall directly or indirectly give, render or pay any money, service or other valuable thing to any person for or in connection with his/her test, appointment, proposed appointment, promotion or proposed promotion.</text>
         </para>
         <para>
-          <num>4</num>
+          <num>4.</num>
           <text>No city officer or employee shall grant special consideration, treatment, advantages, or use of city-owned property to himself/herself or any citizen beyond that which is available to every other citizen, nor shall any city officer or employee charge or collect any fee, commission or percentage by way of compensation to himself/herself.</text>
         </para>
       </para>
