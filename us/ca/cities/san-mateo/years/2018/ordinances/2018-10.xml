@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2018-10">
+  <num>2018-10</num>
+  <heading>AN EMERGENCY ORDINANCE OF THE CITY OF SAN MATEO TEMPORARILY PROHIBITING THE COMMERCIAL OPERATION OF ELECTRIC SCOOTER BUSINESSES</heading>
+  <meta>
+    <effective>2018-11-19</effective>
+    <citations>
+      <citation type="ord">Ord. No. 2018-10</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2018-10</citation>
+    </citations>
+    <history>
+      <introduced>2018-11-19</introduced>
+      <adopted>2018-11-19</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Charter" path="2.16">City Charter Section 2.16</cite> provides that the City Council, to protect public health, safety, and welfare, may adopt as an emergency ordinance for the immediate preservation of the public peace, health, safety, or welfare, an ordinance containing a declaration of the facts constituting the urgency, and passed by a four-fifths vote of the City Council; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City has received interest from commercial operators in operating electric scooter (e-scooter) businesses in the City; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>City staff has monitored e-scooter commercial operations in other California communities and noted the following safety issues:</text>
+      <para>
+        <num>a.</num>
+        <text>Cities in which e-scooter businesses operate have observed an increase in scooter-related injuries including broken bones, head injuries, and a few fatalities.</text>
+      </para>
+      <para>
+        <num>b.</num>
+        <text>E-scooters can achieve speeds of up to 15 miles per hour and while e-scooters are intended for use on streets they are often operated on sidewalks, which poses a safety threat to pedestrians.</text>
+      </para>
+      <para>
+        <num>c.</num>
+        <text>E-scooters provided by commercial operators are often left in place on the public right of way. E-scooters are very easily knocked over thus posing a tripping hazard to pedestrians and obstructing the right of way.</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, ORDAINS that:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>FINDINGS.</heading>
+    <text>The above recitals are true and correct and are adopted as the City Council's findings.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>MORATORIUM.</heading>
+    <text>For the immediate presentation of public peace, health, safety, and welfare, pursuant to <cite doc="City of San Mateo, Cal., Charter" path="2.16">City Charter Section 2.16</cite>, the commercial operation of electric scooter businesses in the City of San Mateo is prohibited for 90 days to permit staff to study the details of electric scooter businesses and provide a recommendation to the City Council.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>SEVERABILITY.</heading>
+    <text>The City Council of the City of San Mateo hereby declares that should any section, paragraph, sentence, phrase, term or word of this Ordinance, hereby adopted, be declared for any reason to be invalid, it is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared invalid.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>EFFECTIVE DATE.</heading>
+    <text>This ordinance shall take effect immediately upon passage by a 4/5th vote of the City Council and be of no further force or effect on the 91st day after adoption.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>PUBLICATION.</heading>
+    <text>In accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.15">City Charter Section 2.15</cite>(c), as soon as practicable after its passage, this Ordinance shall be published in summary in the official city newspaper.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines section 15061(b)(3), adoption of this Ordinance is not a project subject to CEQA because it will not result in a potentially significant physical impact on the environment.</text>
+    <text>PASSED AND ADOPTED by the City Council of the City of San Mateo, California at a regular City Council meeting held this 19th day of November 2018 by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Freschet, Goethals and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
+  </section>
+</document>

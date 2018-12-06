@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2018-9">
+  <num>2018-9</num>
+  <heading>AMENDING SECTION 7.16.040, "PROPERTY NUISANCES," OF CHAPTER 7.16, "PUBLIC NUISANCES," OF THE SAN MATEO MUNICIPAL CODE</heading>
+  <meta>
+    <effective>2018-12-19</effective>
+    <citations>
+      <citation type="ord">Ord. No. 2018-9</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2018-9</citation>
+    </citations>
+    <history>
+      <introduced>2018-11-05</introduced>
+      <adopted>2018-11-19</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>waste containers left on streets, sidewalks, and in the public right-of-ways for extended time frames create nuisance conditions such as visual blight, safety hazards, street cluster, and strong odors; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>currently the Municipal Code does not dictate how long before and after collection waste containers can remain on the street; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City proposes to adopt specific timeframes for the retrieval of waste containers that have been set out for collection citywide and in the Central Business District, the Central Business District Support and all other zoning districts.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, HEREBY ORDAINS that:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.16.040">Section 7.16.040</cite>, "Property Nuisances," of <cite doc="City of San Mateo, Cal., Code" path="7.16">Chapter 7.16</cite>, "Public Nuisances," is amended to read:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="7.16.040"/>
+        <num>7.16.040</num>
+        <heading>PROPERTY NUISANCES.</heading>
+        <text>The following are expressly declared to be public nuisances:</text>
+        <para>
+          <num>(a)</num>
+          <text>Buildings or structures that are structurally unsafe or which constitute a fire hazard, or which are otherwise dangerous to human safety and life.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Buildings that are in violation of <cite doc="City of San Mateo, Cal., Code" path="7.14">Chapter 7.14</cite>, <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite>, <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Erosion, undercutting, sliding, excessive sloping, subsidence, saturation of soil, or surface water drainage of such magnitude or effect to be potentially injurious to the public whether caused by grading operations, excavations, or fill, directed or disregarded drainage or as a result of the topography, geology, or configuration of the land in its natural or altered state.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Accumulation of debris, rank overgrowth of trees, bushes, vegetation, weeds, or uncultivated grass over 12 inches in height.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Buildings, fences, signs, or other structures that are or have been abandoned, boarded up, partially destroyed, or permitted to remain in a state of partial construction for a period of 90 days or more, except in the case of partial construction, in which case the time shall be for a period of 180 days or more, and where continuation of the condition is unsightly or is hazardous to the public health, safety, or welfare.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Unpainted buildings or buildings with substantial missing or peeling paint otherwise causing or tending to cause dry rot, warping, or termite infestation.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Buildings with windows containing broken glass or missing glass.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Any wrecked, disabled, inoperative, salvaged or dismantled vehicle, vessel, equipment, appliances, or parts stored or parked visible from a public street, unless they are stored or parked pursuant to the provisions of this code.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Broken, inoperative, or discarded furniture or other household equipment, litter, garbage or other refuse visible from a public street.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Clothes hanging in any visible portion of a front yard.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Waste containers stored within public view or placed for collection along a street, roadway, or alley outside of the time limitations set forth below:</text>
+          <para>
+            <num>(1)</num>
+            <text>In all zoning districts except for the Central Business District and Central Business District Support zoning districts, any waste containers placed for collection along a street, roadway, or alley shall be set out only on the day established for collection or after 12 noon on the day immediately prior to collection, and must be removed by 12 midnight on the day of collection.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Within the Central Business District and Central Business District Support zoning districts, any waste containers placed for collection along a street, roadway, or alley shall be set out only on the day established for collection or after 6 p.m. on the day immediately prior to collection, and must be removed by 11 a.m. on the day of collection.</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Condition of premises that is so defective, unsightly, deteriorated, or disrepaired as to be materially detrimental to the use and enjoyment or value of nearby properties and improvements.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Emanation of noise or vibrations of such a loud, unusual, unnecessary, penetrating. lengthy, raucous, annoying, untimely, or boisterous nature as to unreasonably disturb, annoy, injure, interfere with, or endanger the comfort, repose, health, peace, safety, or welfare of the users of neighboring property.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Items stored and stacked outside of an outdoor recycling collection area and otherwise in violation of <cite doc="City of San Mateo, Cal., Code" path="27.86">Chapter 27.86</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of <cite doc="City of San Mateo, Cal., Code" path="2">this chapter</cite> shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines section 15061(b)(3), this action is not a project subject to CEQA because it will not result in a potentially significant physical impact on the environment.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on November 5, 2018 and adopted on November 19, 2018 and shall be effective thirty days after its date of adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Freschet, Goethals and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
+  </section>
+</document>
