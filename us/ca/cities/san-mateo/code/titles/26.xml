@@ -366,8 +366,10 @@
           <num>(5)</num>
           <text>Any number of lots but involving total acreage of less than five (5) acres; all of the proposed lots will face on an existing dedicated and improved street complying with all requirements of the City; and no new streets, street improvements, easements, or dedications are needed because of the proposed subdivision.</text>
         </para>
+        <aftertext proof="true">
+          <text>Notwithstanding this Subsection, in all conversions of a dwelling, community apartment project, or a stock cooperative to a condominium, regardless of the number of lots, parcels, condominiums, or dwelling units involved, a tentative and final subdivision map shall be required.</text>
+        </aftertext>
       </para>
-      <text>Notwithstanding this Subsection, in all conversions of a dwelling, community apartment project, or a stock cooperative to a condominium, regardless of the number of lots, parcels, condominiums, or dwelling units involved, a tentative and final subdivision map shall be required.</text>
       <para>
         <num>(b)</num>
         <text>All subdivisions not permitted by the filing of a parcel map pursuant to this Section or lot line adjustment shall require tentative and final subdivision maps pursuant to <cite path="26">this Title</cite>.</text>
@@ -476,8 +478,8 @@
       <para>
         <num>(5)</num>
         <text>Controlling the amount and character of any permitted improvements within such easements.</text>
+        <text>If such an easement is required, the subdivider shall execute a deed to the City that includes such reasonable restrictions as may be imposed to carry out the intent of <cite path="26">this title</cite> and the general plan and that is in a form acceptable to the City Attorney.</text>
       </para>
-      <text>If such an easement is required, the subdivider shall execute a deed to the City that includes such reasonable restrictions as may be imposed to carry out the intent of <cite path="26">this title</cite> and the general plan and that is in a form acceptable to the City Attorney.</text>
       <annotations>
         <annotation type="History">prior code § 139.20(l)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
@@ -845,8 +847,8 @@
       <para>
         <num>(2)</num>
         <text>Metal poles supporting only high voltage wires, switches, transformers and street lights.</text>
+        <text>For the purposes of <cite path="26.32">this chapter</cite>, utility distribution facilities for electrical power shall mean facilities carrying nominal voltages of less than thirty-four thousand five hundred volts.</text>
       </para>
-      <text>For the purposes of <cite path="26.32">this chapter</cite>, utility distribution facilities for electrical power shall mean facilities carrying nominal voltages of less than thirty-four thousand five hundred volts.</text>
       <annotations>
         <annotation type="History">prior code § 139.20(e)(1)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
@@ -979,8 +981,8 @@
         <para>
           <num>(C)</num>
           <text>The name and number of adjacent subdivisions; showing lot and block or parcel numbers for adjoining lots.</text>
+          <text>(An aerial photograph may be required on a scale of not less than one inch equals four hundred feet showing the approximate boundaries of the subdivision, and including the streets and lot lines in addition or substitution of the above);</text>
         </para>
-        <text>(An aerial photograph may be required on a scale of not less than one inch equals four hundred feet showing the approximate boundaries of the subdivision, and including the streets and lot lines in addition or substitution of the above);</text>
       </para>
       <para>
         <num>(5)</num>
@@ -1004,8 +1006,8 @@
         <para>
           <num>(A)</num>
           <text>Profiles drawn to scale showing clearly all details thereof, showing centerline, existing ground and finished grade elevations of all streets, including the radii of all curves; sanitary sewer and storm drains.</text>
+          <text>(Profiles other than centerlines shall be shown if requested by the City engineer. All elevations shall be indicated to the nearest one foot and shall be referred to mean sea level datum, as established by the United States Coast and Geodetic Survey, or to elevations according to the San Mateo datum).</text>
         </para>
-        <text>(Profiles other than centerlines shall be shown if requested by the City engineer. All elevations shall be indicated to the nearest one foot and shall be referred to mean sea level datum, as established by the United States Coast and Geodetic Survey, or to elevations according to the San Mateo datum).</text>
         <para>
           <num>(B)</num>
           <text>Typical cross sections of all streets, and when required by the City engineer, detail of curbs, gutters, walks, trails and other improvements drawn to scale and clearly showing all details thereof,</text>
@@ -1058,8 +1060,8 @@
       <para>
         <num>(18)</num>
         <text>Such other information as may be required to fulfill the purposes of <cite path="26">this title</cite> in relation to the particular land to be subdivided, as specified in any list compiled for the purpose.</text>
+        <text>A blank space of suitable size and shape for the certificates, conditions and approval, and other similar items shall be reserved on the title page.</text>
       </para>
-      <text>A blank space of suitable size and shape for the certificates, conditions and approval, and other similar items shall be reserved on the title page.</text>
       <annotations>
         <annotation type="History">prior code § 139.26</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
@@ -1384,8 +1386,8 @@
       <para>
         <num>(5)</num>
         <text>The bases of bearings used in the surveys.</text>
+        <text>Where the size of a subdivision permits, in lieu of a title sheet, the information prescribed above may be shown on the same sheet as the final map.</text>
       </para>
-      <text>Where the size of a subdivision permits, in lieu of a title sheet, the information prescribed above may be shown on the same sheet as the final map.</text>
       <annotations>
         <annotation type="History">prior code § 139.40</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
@@ -1599,8 +1601,10 @@
           <num>(b)</num>
           <text>A statement by the City Engineer that the final map is correct. The subdivider shall then submit the original tracings on polyester base film or comparable process and a complete set of blueline prints on cloth with original signatures on both tracings and prints to the City Engineer for transmittal to the Director of Community Development.</text>
         </para>
+        <aftertext proof="true">
+          <text>If the final map is found to be correct, the data shown thereon and submitted therewith are sufficient, and all applicable provisions of the Subdivision Map Act and <cite path="26">this Title</cite> have been complied with, the City Engineer will, within twenty (20) days from the time the corrected final map is submitted to him or her by the subdivider, certify his or her approval on the original tracing and the blueline cloth print of the map and deliver it to the Director of Community Development. The Director of Community Development shall then certify its conformance to the tentative map and file it and the related documents with the City Clerk.</text>
+        </aftertext>
       </para>
-      <text>If the final map is found to be correct, the data shown thereon and submitted therewith are sufficient, and all applicable provisions of the Subdivision Map Act and <cite path="26">this Title</cite> have been complied with, the City Engineer will, within twenty (20) days from the time the corrected final map is submitted to him or her by the subdivider, certify his or her approval on the original tracing and the blueline cloth print of the map and deliver it to the Director of Community Development. The Director of Community Development shall then certify its conformance to the tentative map and file it and the related documents with the City Clerk.</text>
       <annotations>
         <annotation type="History">prior code § 139.44</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
@@ -1618,8 +1622,8 @@
       <para>
         <num>(b)</num>
         <text>Agreements. In the event that the improvements required under <cite path="26">this Title</cite> have not been installed to the satisfaction of the City Engineer at the time of the filing of the final map for any or all of the portions of a proposed subdivision, the subdivider shall file with the City Clerk at the time of filing the final map with the City Clerk an executed agreement between the subdivider and the City specifying the period within which the subdivider shall complete all improvements and work to the satisfaction of the City. The agreement shall also prescribe that the subdivider shall repair any damage to public roads, streets, and any other public property or improvements that results from, or is incidental to, the construction of the improvements in the subdivision, or in lieu of making such repairs, the subdivider shall pay to the owner of the damaged property or improvements the full cost of repair and restoration.</text>
+        <text>Such an agreement shall also include a performance bond or other improvement security, a labor and materials bond and evidence of insurance coverage for public liability, property damage, and workers compensation in the form and in the amounts generally required of all agreements for public improvements entered into by the City.</text>
       </para>
-      <text>Such an agreement shall also include a performance bond or other improvement security, a labor and materials bond and evidence of insurance coverage for public liability, property damage, and workers compensation in the form and in the amounts generally required of all agreements for public improvements entered into by the City.</text>
       <para>
         <num>(c)</num>
         <text>Additional Deeds. At the time of the filing of the final map with the City Clerk, the subdivider shall also provide grant deeds for any land or easements required as a part of the subdivision that are not dedicated on the final map itself.</text>
@@ -1748,8 +1752,8 @@
         <para>
           <num>(16)</num>
           <text>Such other information as may be required to fulfill the purposes of <cite path="26">this title</cite> in relation to the particular land to be subdivided, as specified in any list compiled for the purpose.</text>
+          <text>A blank space of suitable size and shape for the certificates, conditions and approval, and other similar items shall be reserved on the title page.</text>
         </para>
-        <text>A blank space of suitable size and shape for the certificates, conditions and approval, and other similar items shall be reserved on the title page.</text>
         <annotations>
           <annotation type="History">prior code § 139.48</annotation>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
@@ -1990,8 +1994,8 @@
         <para>
           <num>(d)</num>
           <text>Sufficiency and adequacy of public utility easements as evidenced by certifications by the affected public or private utilities.</text>
+          <text>One copy of the final parcel map will be returned to the subdivider with notations as to errors and omissions, if any. The subdivider shall then be responsible for filing a corrected final parcel map if and when the subdivider makes the corrections. Upon approval of the final parcel map by the City Engineer, the City Engineer will notify the subdivider, the City Engineer will certify his or her approval of the final parcel map on the original tracing and the blueline cloth print of the map, and cause it to be recorded as set forth below.</text>
         </para>
-        <text>One copy of the final parcel map will be returned to the subdivider with notations as to errors and omissions, if any. The subdivider shall then be responsible for filing a corrected final parcel map if and when the subdivider makes the corrections. Upon approval of the final parcel map by the City Engineer, the City Engineer will notify the subdivider, the City Engineer will certify his or her approval of the final parcel map on the original tracing and the blueline cloth print of the map, and cause it to be recorded as set forth below.</text>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§35" type="History"/>
         </annotations>
@@ -2170,8 +2174,8 @@
       <para>
         <num>(d)</num>
         <text>No improvement work shall be commenced until improvement plans and specifications have been submitted to and approved by the City engineer, the fire chief, and the assistant city manager, or his or her representative.</text>
+        <text>Improvements shall be installed in accordance with the approved plans and specifications to permanent line and grade to the satisfaction of the City engineer who shall supervise the work. All work shall be subject to such inspections as he or she may deem necessary to protect the interest of the City. In no case shall the improvements be less substantial than required by the design standards and specifications and the City standard specifications in effect at the time the plans and specifications are approved, and all grading and major vegetation removal in connection therewith shall conform to all requirements of <cite path="23.40">chapter 23.40</cite>.</text>
       </para>
-      <text>Improvements shall be installed in accordance with the approved plans and specifications to permanent line and grade to the satisfaction of the City engineer who shall supervise the work. All work shall be subject to such inspections as he or she may deem necessary to protect the interest of the City. In no case shall the improvements be less substantial than required by the design standards and specifications and the City standard specifications in effect at the time the plans and specifications are approved, and all grading and major vegetation removal in connection therewith shall conform to all requirements of <cite path="23.40">chapter 23.40</cite>.</text>
       <annotations>
         <annotation type="History">prior code § 139.21 (a)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
@@ -2663,8 +2667,8 @@
           <para>
             <num>(B)</num>
             <text>A report identifying all items not consistent with the City's existing zoning, building, fire, and housing codes, and California Administrative Code regulations for existing buildings;</text>
+            <text>A copy of the property report shall be furnished to each prospective purchaser by the subdivider prior to sale of the unit;</text>
           </para>
-          <text>A copy of the property report shall be furnished to each prospective purchaser by the subdivider prior to sale of the unit;</text>
         </para>
         <para>
           <num>(3)</num>
@@ -2757,8 +2761,8 @@
         <para>
           <num>(B)</num>
           <text>Energy conservation measures shall be included. Roof and ceiling assemblies shall meet the R-20 standard. Exterior openings shall be weather-stripped. If the glazing areas exceed the allowable areas of the state energy regulations by ten percent, modifications shall be made to bring the structure within the limits specified herein. The energy compliance alterations may be made in any manner provided in the state regulations. Calculations by a person authorized in the state regulations will be required. Exposed heating ducts and hot water piping and hot water tanks shall be insulated.</text>
+          <text>For the purpose of meeting all the requirements of this subsection (5), all walls, floors and other structural elements deemed suspect by the building official, shall be opened for inspection and necessary corrections shall be made to the structure prior to receiving approval for occupancy.</text>
         </para>
-        <text>For the purpose of meeting all the requirements of this subsection (5), all walls, floors and other structural elements deemed suspect by the building official, shall be opened for inspection and necessary corrections shall be made to the structure prior to receiving approval for occupancy.</text>
       </para>
       <para>
         <num>(6)</num>
