@@ -180,8 +180,8 @@
           <num>(2)</num>
           <heading>Buildings Previously Occupied.</heading>
           <text>The legal occupancy of any existing building on the date of adoption of this code shall be permitted to continue without change, except otherwise specifically provided in the Building Code, Existing Building Code, Property Maintenance Code or the Fire Code or as is deemed necessary by the building official for the general safety and welfare of the occupants and the public.</text>
+          <text>A change in the use or occupancy of any existing building or structure shall comply with the provisions of <cite path="23.09">Chapter 23.09</cite> of this code.</text>
         </para>
-        <text>A change in the use or occupancy of any existing building or structure shall comply with the provisions of <cite path="23.09">Chapter 23.09</cite> of this code.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -356,8 +356,8 @@
         <num>(a)</num>
         <heading>General.</heading>
         <text>The building official is hereby authorized and directed to enforce all the provisions of this code and the referred technical codes. For such purposes, the building official shall have the powers of a law enforcement officer.</text>
+        <text>The building official shall have the power to render interpretations of this code and the referenced technical codes, and to adopt and enforce rules and regulations supplemental to this code as may be deemed necessary to clarify the application of the provisions of this code. Such interpretations, rules and regulations shall be in conformity with the intent and purpose of this code.</text>
       </para>
-      <text>The building official shall have the power to render interpretations of this code and the referenced technical codes, and to adopt and enforce rules and regulations supplemental to this code as may be deemed necessary to clarify the application of the provisions of this code. Such interpretations, rules and regulations shall be in conformity with the intent and purpose of this code.</text>
       <para>
         <num>(b)</num>
         <heading>Deputies.</heading>
@@ -387,9 +387,9 @@
         <num>(g)</num>
         <heading>Authority to Condemn Building Service Equipment.</heading>
         <text>When the building official ascertains that building service equipment regulated in the technical codes has become hazardous to life, health or property, or has become unsanitary, the building official shall order in writing that such equipment either be removed or restored to a safe or sanitary condition, as appropriate. The written notice itself shall fix a time limit for compliance with such order. Defective building service equipment shall not be maintained after receiving such notice.</text>
+        <text>When such equipment or installation is to be disconnected, a written notice of such disconnection and causes therefore shall be given within 24 hours to the serving utility, the owner and occupant of such building, structure or premises.</text>
+        <text>When any building service equipment is maintained in violation of the technical codes and in violation of a notice issued pursuant to the provisions of this section, the building official shall institute appropriate action to prevent, restrain, correct or abate the violation.</text>
       </para>
-      <text>When such equipment or installation is to be disconnected, a written notice of such disconnection and causes therefore shall be given within 24 hours to the serving utility, the owner and occupant of such building, structure or premises.</text>
-      <text>When any building service equipment is maintained in violation of the technical codes and in violation of a notice issued pursuant to the provisions of this section, the building official shall institute appropriate action to prevent, restrain, correct or abate the violation.</text>
       <para>
         <num>(h)</num>
         <heading>Connection after Order to Disconnect.</heading>
@@ -399,8 +399,8 @@
         <num>(i)</num>
         <heading>Liability.</heading>
         <text>The building official charged with the enforcement of this code and the technical codes, acting in good faith and without malice in the discharge of his duties, shall not thereby be rendered personally liable for damage that may accrue to persons or property as a result of an act or omission in the discharge of the assigned duties. A suit brought against the building official or any City employee because of such act or omission performed by the building official or employee in the enforcement of the provisions of such codes or other pertinent laws or ordinances implemented through the enforcement of this code or enforced by the code enforcement agency shall be defended by this jurisdiction until final termination of such proceedings, and any judgment resulting there from, shall be assumed by this jurisdiction.</text>
+        <text>This code shall not be construed to relieve from or lessen the responsibility of any person owning, operating or controlling a building, structure or building service equipment therein for damages to persons or property caused by defects, nor shall the code enforcement agency or the City be held as assuming such liability by reason of the inspections authorized by this code or permits or the certificates issued under this code.</text>
       </para>
-      <text>This code shall not be construed to relieve from or lessen the responsibility of any person owning, operating or controlling a building, structure or building service equipment therein for damages to persons or property caused by defects, nor shall the code enforcement agency or the City be held as assuming such liability by reason of the inspections authorized by this code or permits or the certificates issued under this code.</text>
       <para>
         <num>(j)</num>
         <heading>Cooperation of Other Officials and Officers.</heading>
@@ -609,8 +609,8 @@
           <para>
             <num>(xiii)</num>
             <text>Non-fixed and movable fixtures, cases, racks, counters and partitions not over five feet nine inches (1,753 mm) in height.</text>
+            <text>Unless otherwise exempted by this code, separate plumbing, electrical and mechanical permits will be required for the above exempted items.</text>
           </para>
-          <text>Unless otherwise exempted by this code, separate plumbing, electrical and mechanical permits will be required for the above exempted items.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -732,14 +732,14 @@
         <num>(b)</num>
         <heading>Submittal Documents.</heading>
         <text>Plans, specifications, engineering calculations, diagrams, soil investigation reports, special inspection and structural observation programs and other data shall constitute the submittal documents and shall be submitted in one or more sets with each application for a permit. When such plans are not prepared by an architect or engineer, the building official may require the applicant submitting such plans or other data to demonstrate that State law does not require that the plans be prepared by a licensed architect or engineer. The building official may require plans, computations and specifications to be prepared and designed by an engineer or architect licensed by the State to practice as such even if not required by State law.</text>
+        <text><strong>Exception: </strong>The building official may waive the submission of plans, calculations, construction inspection requirements and other data if it is found that the nature of the work applied for is such that reviewing of plans is not necessary to obtain compliance with this code.</text>
       </para>
-      <text><strong>Exception: </strong>The building official may waive the submission of plans, calculations, construction inspection requirements and other data if it is found that the nature of the work applied for is such that reviewing of plans is not necessary to obtain compliance with this code.</text>
       <para>
         <num>(c)</num>
         <heading>Information on Plans and Specifications.</heading>
         <text>Plans and specifications shall be drawn to scale on substantial paper or cloth and shall be of sufficient clarity to indicate the location, nature and extent of the work proposed and show in detail that it will conform to the provisions of this code and all relevant laws, ordinances, rules and regulations.</text>
+        <text>Plans for buildings of other than Group R, Division 3 and Group U Occupancies shall indicate how required structural and fire-resistive integrity will be maintained where penetrations will be made for electrical, mechanical, plumbing and communication conduits, pipes and similar systems.</text>
       </para>
-      <text>Plans for buildings of other than Group R, Division 3 and Group U Occupancies shall indicate how required structural and fire-resistive integrity will be maintained where penetrations will be made for electrical, mechanical, plumbing and communication conduits, pipes and similar systems.</text>
       <para>
         <num>(d)</num>
         <heading>Architect or Engineer of Record.</heading>
@@ -747,23 +747,23 @@
           <num>(1)</num>
           <heading>General.</heading>
           <text>When it is required that documents be prepared by an architect or engineer, the building official may require the owner to engage and designate on the building permit application an architect or engineer who shall act as the architect or engineer of record. If the circumstances require, the owner may designate a substitute architect or engineer of record who shall perform all the duties required of the original architect or engineer of record. The building official shall be notified in writing by the owner if the architect or engineer of record is changed or is unable to continue to perform the duties.</text>
+          <text>The architect or engineer of record shall be responsible for reviewing and coordinating all submittal documents prepared by others, including deferred submittal items, for compatibility with the design of the building.</text>
         </para>
-        <text>The architect or engineer of record shall be responsible for reviewing and coordinating all submittal documents prepared by others, including deferred submittal items, for compatibility with the design of the building.</text>
         <para>
           <num>(2)</num>
           <heading>Deferred Submittals.</heading>
           <text>For the purposes of this section, deferred submittals are defined as those portions of the design which are not submitted at the time of the application and which are to be submitted to the building official within a specified period.</text>
+          <text>Deferral of any submittal items shall have prior approval of the building official. The architect or engineer of record shall list the deferred submittals on the plans and shall submit the deferred submittal documents for review by the building official. Submittal documents for deferred submittal items shall be submitted to the architect or engineer of record who shall review them and forward them to the building official with a notation indicating that the deferred submittal documents have been reviewed and that they have been found to be in general conformance with the design of the building. The deferred submittal items shall not be installed until their design and submittal documents have been approved by the building official.</text>
         </para>
-        <text>Deferral of any submittal items shall have prior approval of the building official. The architect or engineer of record shall list the deferred submittals on the plans and shall submit the deferred submittal documents for review by the building official. Submittal documents for deferred submittal items shall be submitted to the architect or engineer of record who shall review them and forward them to the building official with a notation indicating that the deferred submittal documents have been reviewed and that they have been found to be in general conformance with the design of the building. The deferred submittal items shall not be installed until their design and submittal documents have been approved by the building official.</text>
       </para>
       <para>
         <num>(e)</num>
         <heading>Inspection and Observation Program.</heading>
         <text>When special inspection is required by <cite path="23.06.130">Section 23.06.130</cite>, the architect or engineer of record shall prepare an inspection program which shall be submitted to the building official for approval prior to issuance of the building permit. The inspection program shall designate the portions of the work to have special inspection, the name or names of the individuals or firms who are to perform the special inspections and indicate the duties of the special inspectors.</text>
+        <text>The special inspector shall be employed by the owner, the engineer or architect of record, or an agent of the owner, but not the contractor or any other person responsible for the work.</text>
+        <text>When structural observation is required by <cite path="23.06.140">Section 23.06.140</cite>, the inspection program shall name the individuals or firms who are to perform structural observation and describe the stages of construction at which structural observation is to occur.</text>
+        <text>The inspection program shall include samples of inspection reports and provide time limits for submission of reports.</text>
       </para>
-      <text>The special inspector shall be employed by the owner, the engineer or architect of record, or an agent of the owner, but not the contractor or any other person responsible for the work.</text>
-      <text>When structural observation is required by <cite path="23.06.140">Section 23.06.140</cite>, the inspection program shall name the individuals or firms who are to perform structural observation and describe the stages of construction at which structural observation is to occur.</text>
-      <text>The inspection program shall include samples of inspection reports and provide time limits for submission of reports.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-11" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-13" path="§1" type="History"/>
@@ -777,9 +777,9 @@
         <num>(a)</num>
         <heading>Issuance.</heading>
         <text>The application, plans, specifications, computations and other data filed by an applicant for permit shall be reviewed by the building official or his designees. Such plans may be reviewed by other departments of this jurisdiction to verify compliance with any applicable laws under their jurisdiction. If the building official finds that the work described in an application for a permit and the plans, specifications and other data filed therewith conform to the requirements of this code and the technical codes and other pertinent laws and ordinances, and that the fees specified in <cite path="23.06.120">Section 23.06.120</cite> have been paid, the building official shall issue a permit therefor to the applicant.</text>
+        <text>When a permit is issued for required plans, the building official shall endorse in writing or stamp the plans and specifications "APPROVED." Such approved plans and specifications shall not be changed, modified or altered without authorizations from the building official, and all work regulated by this code shall be done in accordance with the approved plans.</text>
+        <text>The building official may issue a permit for the construction of part of a building or structure before the entire plans and specifications for the whole building or structure have been submitted or approved, provided adequate information and detailed statements have been filed complying with all pertinent requirements of this code. No building permit for construction of a superstructure shall be issued unless a complete superstructure application is made not later than 90 days after issuance of a foundation permit and a superstructure permit is taken out not later than six months after issuance of the foundation permit. For purposes of this section, the determination of whether a building or structure is a superstructure shall be made by the building official. The holder of a partial permit shall proceed at his own risk without assurance that the permit for the entire building or structure will be granted.</text>
       </para>
-      <text>When a permit is issued for required plans, the building official shall endorse in writing or stamp the plans and specifications "APPROVED." Such approved plans and specifications shall not be changed, modified or altered without authorizations from the building official, and all work regulated by this code shall be done in accordance with the approved plans.</text>
-      <text>The building official may issue a permit for the construction of part of a building or structure before the entire plans and specifications for the whole building or structure have been submitted or approved, provided adequate information and detailed statements have been filed complying with all pertinent requirements of this code. No building permit for construction of a superstructure shall be issued unless a complete superstructure application is made not later than 90 days after issuance of a foundation permit and a superstructure permit is taken out not later than six months after issuance of the foundation permit. For purposes of this section, the determination of whether a building or structure is a superstructure shall be made by the building official. The holder of a partial permit shall proceed at his own risk without assurance that the permit for the entire building or structure will be granted.</text>
       <para>
         <num>(b)</num>
         <heading>Retention of Plans.</heading>
@@ -789,15 +789,15 @@
         <num>(c)</num>
         <heading>Validity of Permit.</heading>
         <text>The issuance of a permit or approval of plans, specifications and computations shall not be construed to be a permit for, or an approval of, a violation of any of the provisions of this code or the technical codes, or of any other ordinance of the jurisdiction. Permits presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
+        <text>The issuance of a permit based on plans, specifications and other data shall not prevent the building official from thereafter requiring the correction of errors in said plans, specifications and other data, or from preventing building operations being carried on thereunder when in violation of these codes or of any other ordinance of this jurisdiction.</text>
       </para>
-      <text>The issuance of a permit based on plans, specifications and other data shall not prevent the building official from thereafter requiring the correction of errors in said plans, specifications and other data, or from preventing building operations being carried on thereunder when in violation of these codes or of any other ordinance of this jurisdiction.</text>
       <para>
         <num>(d)</num>
         <heading>Expiration.</heading>
         <text>Every permit issued by the building official under the provisions of the technical codes shall expire by limitation and become null and void, if the building or work authorized by such permit is not commenced within 180 days from the date of such permit, or if the building or work authorized by such permit is suspended or abandoned at any time after the work is commenced for a period of 180 days. Before such work can be recommenced, a new permit shall be first obtained to do so, and the fee therefor shall be one-half the amount required for a new permit for such work, provided no changes have been made or will be made in the original plans and specifications for such work and provided further that such suspension or abandonment has not exceeded one year. In order to renew action on a permit over one year after expiration, the permittee shall pay a new full permit fee.</text>
+        <text>A foundation permit shall expire by limitation and become null and void, unless a complete superstructure application is made not later than 90 days after issuance of a foundation permit and a superstructure permit is taken out not later than six months after issuance of the foundation permit.</text>
+        <text>A permittee holding an unexpired permit may apply for an extension of the time within which work may commence under that permit when the permittee is unable to commence work within the time required by this section for good and satisfactory reasons. The building official may extend the time for action by the permittee for a period not exceeding 180 days upon written request by the permittee showing that circumstances beyond the control of the permittee have prevented action from being taken and that extension will not result in violation of this code or any other laws. Permits shall not be extended more than two times.</text>
       </para>
-      <text>A foundation permit shall expire by limitation and become null and void, unless a complete superstructure application is made not later than 90 days after issuance of a foundation permit and a superstructure permit is taken out not later than six months after issuance of the foundation permit.</text>
-      <text>A permittee holding an unexpired permit may apply for an extension of the time within which work may commence under that permit when the permittee is unable to commence work within the time required by this section for good and satisfactory reasons. The building official may extend the time for action by the permittee for a period not exceeding 180 days upon written request by the permittee showing that circumstances beyond the control of the permittee have prevented action from being taken and that extension will not result in violation of this code or any other laws. Permits shall not be extended more than two times.</text>
       <para>
         <num>(e)</num>
         <heading>Suspension or Revocation.</heading>
@@ -853,8 +853,8 @@
           <para>
             <num>(iii)</num>
             <text>Demolition of the structure would have a less significant effect on the neighborhood than allowing the existing dilapidated structure to remain.</text>
+            <text>A demolition permit shall not be issued pursuant to this subsection unless notice of the proposed demolition and appeal procedures is posted on the premises in a location visible from off-site at least 15 days before issuance of the demolition permit. Pursuant to <cite path="2.21.030">Section 2.21.030</cite>, the building official's proposal to issue a demolition permit is appealable to the Community Relations Commission within the 15-day posting period by filing a notice of appeal with the City Clerk. If demolition is requested as part of a planning application pursuant to <cite path="27.68.020">Section 27.68.020</cite>, the Planning Commission shall review the request as required by <cite path="27.68.020">Section 27.68.020</cite> prior to any action by the building official.</text>
           </para>
-          <text>A demolition permit shall not be issued pursuant to this subsection unless notice of the proposed demolition and appeal procedures is posted on the premises in a location visible from off-site at least 15 days before issuance of the demolition permit. Pursuant to <cite path="2.21.030">Section 2.21.030</cite>, the building official's proposal to issue a demolition permit is appealable to the Community Relations Commission within the 15-day posting period by filing a notice of appeal with the City Clerk. If demolition is requested as part of a planning application pursuant to <cite path="27.68.020">Section 27.68.020</cite>, the Planning Commission shall review the request as required by <cite path="27.68.020">Section 27.68.020</cite> prior to any action by the building official.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -918,10 +918,10 @@
         <num>(a)</num>
         <heading>General.</heading>
         <text>Construction or work for which a permit is required shall be subject to inspection by the building official and the construction or work shall remain accessible and exposed for inspection purposes until approved by the building official. In addition, certain types of construction shall have continuous inspection as specified in <cite path="23.06.130">Section 23.06.130</cite>.</text>
+        <text>Approval as a result of an inspection shall not be construed to be an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction. Inspections presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
+        <text>It shall be the duty of the permit applicant to cause the work to remain accessible and exposed for inspection purposes. Neither the building official nor this jurisdiction shall be liable for expense entailed in the removal or replacement of any material required to allow inspection.</text>
+        <text>A survey of the lot may be required by the building official to verify that the structure is located in accordance with the approved plans.</text>
       </para>
-      <text>Approval as a result of an inspection shall not be construed to be an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction. Inspections presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
-      <text>It shall be the duty of the permit applicant to cause the work to remain accessible and exposed for inspection purposes. Neither the building official nor this jurisdiction shall be liable for expense entailed in the removal or replacement of any material required to allow inspection.</text>
-      <text>A survey of the lot may be required by the building official to verify that the structure is located in accordance with the approved plans.</text>
       <para>
         <num>(b)</num>
         <heading>Inspection Record Card.</heading>
@@ -931,14 +931,14 @@
         <num>(c)</num>
         <heading>Inspection Requests.</heading>
         <text>It shall be the duty of the person doing the work authorized by a permit to notify the building official that such work is ready for inspection. The building official may require that every request for inspection be filed at least one working day before such inspection is desired. Such request may be in writing or by telephone at the option of the building official.</text>
+        <text>It shall be the duty of the person requesting any inspections required either by this code or the technical codes to provide access to and means for inspection of the work.</text>
       </para>
-      <text>It shall be the duty of the person requesting any inspections required either by this code or the technical codes to provide access to and means for inspection of the work.</text>
       <para>
         <num>(d)</num>
         <heading>Approval Required.</heading>
         <text>Work shall not be done beyond the point indicated in each successive inspection without first obtaining the approval of the building official. The building official, upon notification, shall make the requested inspections and shall either indicate that that portion of the construction is satisfactory as completed or shall notify the permit holder or an agent of the permit holder wherein the same fails to comply with this code. Any portions which do not comply shall be corrected and such portion shall not be covered or concealed until authorized by the building official.</text>
+        <text>There shall be a final inspection and approval of all buildings and structures when completed and ready for occupancy and use.</text>
       </para>
-      <text>There shall be a final inspection and approval of all buildings and structures when completed and ready for occupancy and use.</text>
       <para>
         <num>(e)</num>
         <heading>Required Building Inspections.</heading>
@@ -1052,10 +1052,10 @@
         <num>(d)</num>
         <heading>Fee Refunds.</heading>
         <text>The building official may authorize refunding of a fee paid hereunder which was erroneously paid or collected.</text>
+        <text>The building official may authorize refunding of not more than 80 percent of the permit fee paid when no work has been done under a permit issued in accordance with this code.</text>
+        <text>The building official may authorize refunding of not more than 80 percent of the plan review fee paid when an application for a permit for which a plan review fee has been paid is withdrawn or canceled before any examination time has been expended.</text>
+        <text>The building official shall not authorize the refunding of any fee paid except upon written application filed by the original permittee not later than 180 days after the date of fee payment.</text>
       </para>
-      <text>The building official may authorize refunding of not more than 80 percent of the permit fee paid when no work has been done under a permit issued in accordance with this code.</text>
-      <text>The building official may authorize refunding of not more than 80 percent of the plan review fee paid when an application for a permit for which a plan review fee has been paid is withdrawn or canceled before any examination time has been expended.</text>
-      <text>The building official shall not authorize the refunding of any fee paid except upon written application filed by the original permittee not later than 180 days after the date of fee payment.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-8" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-12" path="§1" type="History"/>
@@ -1148,9 +1148,9 @@
         <num>(a)</num>
         <heading>Use or Occupancy.</heading>
         <text>Buildings or structures shall not be used or occupied nor shall a change in the existing occupancy classification of a building or structure or portion thereof be made until the building official has issued a certificate of occupancy therefore as provided herein.</text>
+        <text><strong>Exception:</strong> Group R, Division 3, and Group U Occupancies.</text>
+        <text>Issuance of a certificate of occupancy shall not be construed as an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction. Certificates presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
       </para>
-      <text><strong>Exception:</strong> Group R, Division 3, and Group U Occupancies.</text>
-      <text>Issuance of a certificate of occupancy shall not be construed as an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction. Certificates presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
       <para>
         <num>(b)</num>
         <heading>Change in Use.</heading>
@@ -1983,9 +1983,9 @@
               <text>Low-sloped roofs shall have:</text>
               <text proof="true">1.	A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
               <text proof="true">2.	A minimum Solar Reflectance Index (SRI) of 85.</text>
+              <text><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
+              <text><strong>Exception 2</strong>: An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</text>
             </para>
-            <text><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
-            <text><strong>Exception 2</strong>: An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</text>
           </para>
           <para>
             <num>ii.</num>
@@ -1995,9 +1995,9 @@
               <text>Low-sloped roofs shall have:</text>
               <text proof="true">1.	A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
               <text proof="true">2.	A minimum Solar Reflectance Index (SRI) of 85.</text>
+              <text><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
+              <text><strong>Exception 2</strong>: Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
             </para>
-            <text><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
-            <text><strong>Exception 2</strong>: Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
           </para>
           <para>
             <num>iii.</num>
@@ -2046,9 +2046,9 @@
               <num>c.</num>
               <text>New multi-family buildings containing 17 or more units shall provide a minimum of a 3 kilowatt photovoltaic system.</text>
             </para>
+            <text><strong>Exception to Section A</strong>: As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</text>
           </para>
         </para>
-        <text><strong>Exception to Section A</strong>: As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</text>
       </include>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-5" path="§1" type="History"/>
@@ -2362,10 +2362,10 @@
         <para>
           <num>(d)</num>
           <text>Any change in use or occupancy creating a more hazardous fire/life safety condition, as determined by the Fire Chief requires that an automatic fire sprinkler system be installed.</text>
+          <text>
+            <strong>Exceptions:</strong>
+          </text>
         </para>
-        <text>
-          <strong>Exceptions:</strong>
-        </text>
         <para proof="true">
           <num>1.</num>
           <text>Seismic or accessibility improvements.</text>
@@ -2456,10 +2456,10 @@
         <para>
           <num>(b)</num>
           <text>Having occupied floors located more than 40 feet above grade at the lowest floor level of exit discharge.</text>
+          <text>
+            <strong>Exceptions:</strong>
+          </text>
         </para>
-        <text>
-          <strong>Exceptions:</strong>
-        </text>
         <para proof="true">
           <num>1.</num>
           <text>Open parking garages.</text>
@@ -3644,8 +3644,8 @@
       <para>
         <num>(a)</num>
         <text>Applicability. Alternate design standards may be approved for new construction or, substantial improvements necessary for the conduct of a functionally dependent use provided that the provisions of <cite path="23.33">this chapter</cite> are satisfied and that the structure or other development is protected by methods that minimize flood damage during the base flood, does not result in additional threats to public safety and does not create a public nuisance. The alternate design standard criteria set forth in this section pertain to a piece of property and are not personal in nature. An alternate design standard may be granted for a parcel of property with physical characteristics so unusual that complying with the requirements of <cite path="23.33">this chapter</cite> would create an exceptional hardship to the applicant or the surrounding property owners. The characteristics must be unique to the property. The unique characteristic must pertain to the land itself, not to the structure, its inhabitants, or the property owners.</text>
+        <text>Initial determination regarding issuance of a permit based upon alternate design standards shall be by the Floodplain Administrator.</text>
       </para>
-      <text>Initial determination regarding issuance of a permit based upon alternate design standards shall be by the Floodplain Administrator.</text>
       <para>
         <num>(b)</num>
         <text>Requirements for Alternate Design Standards.</text>
@@ -3748,8 +3748,8 @@
         <para>
           <num>(2)</num>
           <text>Such construction below the base flood level increases risks to life and property.</text>
+          <text>A copy of the notice shall be recorded by the Floodplain Administrator in the office of the San Mateo County Recorder so that it appears in the chain of title of the affected parcel of land.</text>
         </para>
-        <text>A copy of the notice shall be recorded by the Floodplain Administrator in the office of the San Mateo County Recorder so that it appears in the chain of title of the affected parcel of land.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -4527,8 +4527,8 @@
       <para>
         <num>(a)</num>
         <text>The building official shall implement an administrative review process to expedite review of electric vehicle charging station permit applications, plans, and related documents. No permit or approval shall be issued which does not conform to all applicable provisions of <cite path="23">Title 23</cite>, Buildings and Construction, and <cite path="27">Title 27</cite>, Zoning Code. The determination of conformance shall be made by the Community Development Director or designated staff members of the Community Development Department.</text>
+        <text>Where the application meets the requirements of the approved checklist and standards and there are no specific, adverse impacts upon public health or safety, the building division shall complete the building permit approval process, which is nondiscretionary. Review of the application for electric vehicle charging stations shall be limited to the building official's review of whether the application meets local, state, and federal health and safety requirements. If an application is deemed incomplete, a written correction notice detailing all deficiencies in the application and any additional information or documentation required to be eligible for expedited permit issuance shall be sent to the applicant for resubmission.</text>
       </para>
-      <text>Where the application meets the requirements of the approved checklist and standards and there are no specific, adverse impacts upon public health or safety, the building division shall complete the building permit approval process, which is nondiscretionary. Review of the application for electric vehicle charging stations shall be limited to the building official's review of whether the application meets local, state, and federal health and safety requirements. If an application is deemed incomplete, a written correction notice detailing all deficiencies in the application and any additional information or documentation required to be eligible for expedited permit issuance shall be sent to the applicant for resubmission.</text>
       <para>
         <num>(b)</num>
         <text>The building official may only deny an application for the electric vehicle charging station permit if the official makes written findings based upon substantial evidence in the record that the proposed installation would have a specific, adverse impact upon public health or safety and there is no feasible method to satisfactorily mitigate or avoid the adverse impact. Such findings shall include the basis for the rejection of the potential feasible alternative for preventing the adverse impact.</text>
@@ -5250,8 +5250,8 @@
       <para>
         <num>(h)</num>
         <text>Numbering of Buildings and Units.</text>
+        <text>There shall be positioned at each entrance of a multiple family dwelling complex an illuminated diagrammatic representation of the complex which shows the location of the viewer and the unit designations within the complex. The illuminated diagrammatic representation shall be protected by the use of vandal-resistant covers.</text>
       </para>
-      <text>There shall be positioned at each entrance of a multiple family dwelling complex an illuminated diagrammatic representation of the complex which shows the location of the viewer and the unit designations within the complex. The illuminated diagrammatic representation shall be protected by the use of vandal-resistant covers.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-8" path="§8" type="History"/>
       </annotations>
@@ -5300,14 +5300,14 @@
           <para>
             <num>(I)</num>
             <text>Door jambs shall be installed with solid backing in such a manner that no voids exist between the strike side of the jamb and the frame opening for a vertical distance of six (6) inches each side of the strike.</text>
+            <text>In wood framing, horizontal blocking shall be placed between studs at door lock height for three stud spaces each side of the door openings. Trimmers shall be full length from the header to the floor with solid backing against sole plates.</text>
+            <text>The strike plate for deadbolts on all wood-framed doors shall be constructed of minimum sixteen U.S. gauge steel, bronze, or brass and secured to the jamb by a minimum of two screws, which must penetrate at least two and one-half (2-1/2) inches into solid backing beyond the surface to which the strike is attached.</text>
           </para>
-          <text>In wood framing, horizontal blocking shall be placed between studs at door lock height for three stud spaces each side of the door openings. Trimmers shall be full length from the header to the floor with solid backing against sole plates.</text>
-          <text>The strike plate for deadbolts on all wood-framed doors shall be constructed of minimum sixteen U.S. gauge steel, bronze, or brass and secured to the jamb by a minimum of two screws, which must penetrate at least two and one-half (2-1/2) inches into solid backing beyond the surface to which the strike is attached.</text>
           <para>
             <num>(J)</num>
             <text>On pairs of doors, the active leaf shall be secured with the type of lock required for single doors in subsection (a)(1)(B)	of this section. The inactive leaf shall be equipped with lever flush extension bolts or equivalent, protected by hardened material with a throw of three-fourths (3/4) inch at head and foot. Multiple point locks, cylinder-activated from the active leaf and satisfying the requirements above may be used in lieu of flushbolts.</text>
+            <text>An interviewer or peephole shall be provided in each main entry door and shall allow for 180 degree vision or more.</text>
           </para>
-          <text>An interviewer or peephole shall be provided in each main entry door and shall allow for 180 degree vision or more.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -5536,8 +5536,8 @@
       <para>
         <num>(f)</num>
         <text>Special Security Measures.</text>
+        <text>All entrance doors to individual office suites, in multiple occupancy office building, shall have a deadbolt lock.</text>
       </para>
-      <text>All entrance doors to individual office suites, in multiple occupancy office building, shall have a deadbolt lock.</text>
       <para>
         <num>(g)</num>
         <text>Keying Requirements. Upon occupancy by the owner or proprietor, each single unit in a commercial development constructed under the same plan, shall have locks using combinations which are interchange free from locks used in all other separate proprietorships or similar distinct occupancies. Tenants shall have direct access to any room or enclosure which is used to contain metering and/or switching devices for the respective tenant.</text>
@@ -6375,8 +6375,8 @@
               </tr>
             </table>
           </text>
+          <text proof="true">1.	Calculation for spaces shall be rounded up to the nearest whole number.</text>
         </para>
-        <text proof="true">1.	Calculation for spaces shall be rounded up to the nearest whole number.</text>
       </include>
       <text>Note: Projects shall reference the California Green Building Code, 2016 Edition, Section 5.106.5.3 and California Electrical Code for definitions and requirements related to electric vehicle charging spaces.</text>
       <annotations>
@@ -7026,16 +7026,18 @@ controller may also function as a landscape water meter or submeter.</text>
           <num>(2)</num>
           <text>MAWA = (ETo) [(0.45 x LA) = (0.55 x SLA)] for nonresidential areas</text>
         </para>
+        <aftertext proof="true">
+          <text>Where:</text>
+          <text>MAWA = Maximum applied water allowance (gallons per year)</text>
+          <text>ETo = Reference evapotranspiration (inches per year)</text>
+          <text proof="true">0.62 = Conversion factor (to gallons)</text>
+          <text proof="true">0.55 = Reference evapotranspiration adjustment factor (ETAF) for residential area</text>
+          <text proof="true">0.45 = Reference evapotranspiration adjustment factor (ETAF) for nonresidential areas</text>
+          <text>LA = Landscape area including SLA in residential areas</text>
+          <text proof="true">0.3 = Additional water allowance for SLA in nonresidential areas</text>
+          <text>SLA = Special landscape area (square feet).</text>
+        </aftertext>
       </para>
-      <text>Where:</text>
-      <text>MAWA = Maximum applied water allowance (gallons per year)</text>
-      <text>ETo = Reference evapotranspiration (inches per year)</text>
-      <text proof="true">0.62 = Conversion factor (to gallons)</text>
-      <text proof="true">0.55 = Reference evapotranspiration adjustment factor (ETAF) for residential area</text>
-      <text proof="true">0.45 = Reference evapotranspiration adjustment factor (ETAF) for nonresidential areas</text>
-      <text>LA = Landscape area including SLA in residential areas</text>
-      <text proof="true">0.3 = Additional water allowance for SLA in nonresidential areas</text>
-      <text>SLA = Special landscape area (square feet).</text>
       <para>
         <num>(g)</num>
         <text>A local agency or project applicant may consider effective precipitation (25% of annual precipitation) in tracking water use and may use the following equation to calculate the MAWA:</text>
@@ -7053,15 +7055,15 @@ controller may also function as a landscape water meter or submeter.</text>
         <text>Estimated total water use (ETWU) will be calculated using the equation below. The sum of the ETWU calculated for all hydrozones will not exceed the MAWA.</text>
         <text>ETWU = (ETo)(0.62)(PF x HA) + SLA]</text>
         <text>IE</text>
+        <text>Where:</text>
+        <text>ETWU = Estimated total water use per year (gallons)</text>
+        <text>ETo = Reference evapotranspiration (inches)</text>
+        <text>PF = Plant factor from WUCOLS</text>
+        <text>HA = Hydrozone area (high, medium, and low water use areas) (square feet)</text>
+        <text>SLA = Special landscape area (square feet)</text>
+        <text proof="true">0.62 = Conversion factor</text>
+        <text>IE = Irrigation efficiency (minimum 0.70) equals 0.75 for overhead spray devices and 0.81 for drip system devices</text>
       </para>
-      <text>Where:</text>
-      <text>ETWU = Estimated total water use per year (gallons)</text>
-      <text>ETo = Reference evapotranspiration (inches)</text>
-      <text>PF = Plant factor from WUCOLS</text>
-      <text>HA = Hydrozone area (high, medium, and low water use areas) (square feet)</text>
-      <text>SLA = Special landscape area (square feet)</text>
-      <text proof="true">0.62 = Conversion factor</text>
-      <text>IE = Irrigation efficiency (minimum 0.70) equals 0.75 for overhead spray devices and 0.81 for drip system devices</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-3" path="§1" type="History"/>
       </annotations>
@@ -7250,7 +7252,7 @@ controller may also function as a landscape water meter or submeter.</text>
         </para>
         <para>
           <num>(14)</num>
-          <text>Bear the signature of a licensed landscape architect, licensed landscape contractor, or any other person authorized to design a landscape. (See Sections <cite doc="Cal. Bus. &amp; Prof. Code" path="§5500.1">5500.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615">5615</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641">5641</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.1">5641.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.2">5641.2</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.3">5641.3</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.4">5641.4</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.5">5641.5</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.6">5641.6</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§6701">6701</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5">7027.5</cite> of the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite>, Section 832.27 of Title 16 of the California Code of Regulations, and Section 6721 of the Food and Agriculture Code.)</text>
+          <text>Bear the signature of a licensed landscape architect, licensed landscape contractor, or any other person authorized to design a landscape. (See Sections <cite doc="Cal. Bus. &amp; Prof. Code" path="§5500.1">5500.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615">5615</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641">5641</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.1">5641.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.2">5641.2</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.3">5641.3</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.4">5641.4</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.5">5641.5</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.6">5641.6</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§6701">6701</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5">7027.5</cite> of the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite>, Section 832.27 of <cite path="16">Title 16</cite> of the California Code of Regulations, and Section 6721 of the Food and Agriculture Code.)</text>
         </para>
       </para>
       <annotations>
@@ -7450,7 +7452,7 @@ controller may also function as a landscape water meter or submeter.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>The signature of a licensed landscape architect, certified irrigation designer, licensed landscape contractor, or any other person authorized to design an irrigation system. (See Sections <cite doc="Cal. Bus. &amp; Prof. Code" path="§5500.1">5500.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615">5615</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641">5641</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.1">5641.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.2">5641.2</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.3">5641.3</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.4">5641.4</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.5">5641.5</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.6">5641.6</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§6701">6701</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5">7027.5</cite> of the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite>, Section 832.27 of Title 16 of the California Code of Regulations, and <cite doc="Cal. Food &amp; Agric. Code" path="§6721">Section 6721 of the Food and Agricultural Code</cite>.)</text>
+          <text>The signature of a licensed landscape architect, certified irrigation designer, licensed landscape contractor, or any other person authorized to design an irrigation system. (See Sections <cite doc="Cal. Bus. &amp; Prof. Code" path="§5500.1">5500.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615">5615</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641">5641</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.1">5641.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.2">5641.2</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.3">5641.3</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.4">5641.4</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.5">5641.5</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.6">5641.6</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§6701">6701</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5">7027.5</cite> of the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite>, Section 832.27 of <cite path="16">Title 16</cite> of the California Code of Regulations, and <cite doc="Cal. Food &amp; Agric. Code" path="§6721">Section 6721 of the Food and Agricultural Code</cite>.)</text>
         </para>
       </para>
       <annotations>

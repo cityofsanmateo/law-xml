@@ -414,8 +414,8 @@
       <para>
         <num>(a)</num>
         <text>The City Council may at any time in accordance with applicable law grant one (1) or more nonexclusive revocable Franchises to construct, operate, maintain and reconstruct a Cable System within all or any part of the City as specified by the Franchise Agreement, which may include those provisions of the Grantee's "Franchise Proposal" which are finally negotiated and accepted by the City and Grantee.</text>
+        <text>A public hearing shall be held prior to grant of a Franchise. Notice shall be given by publication at least ten (10) days prior to the public hearing. Nothing in <cite path="15.24">this chapter</cite> shall be deemed to waive the requirements of other City codes and ordinances regarding permits, fees to be paid, manner of construction or general governance of Franchises.</text>
       </para>
-      <text>A public hearing shall be held prior to grant of a Franchise. Notice shall be given by publication at least ten (10) days prior to the public hearing. Nothing in <cite path="15.24">this chapter</cite> shall be deemed to waive the requirements of other City codes and ordinances regarding permits, fees to be paid, manner of construction or general governance of Franchises.</text>
       <para>
         <num>(b)</num>
         <text><cite path="15.24">This chapter</cite> shall apply to all Franchises and Franchise renewals granted or renewed by the City. Amendments to the various provisions of <cite path="15.24">this chapter</cite> shall further apply, to the extent permitted by applicable federal or State law, to all Franchises granted or renewed prior to the effective date of this and subsequent amendments.</text>
@@ -567,8 +567,8 @@
       <para>
         <num>(c)</num>
         <text>It is unlawful for any person, without the consent of the owner, to willfully tamper with, remove or injure any cables, wires or equipment used for distribution of television signals, radio signals, pictures, programs or sound.</text>
+        <text>Violations of <cite path="15.24">this chapter</cite> are misdemeanors or infractions as charged pursuant to <cite path="1.04">Chapter 1.04</cite>.</text>
       </para>
-      <text>Violations of <cite path="15.24">this chapter</cite> are misdemeanors or infractions as charged pursuant to <cite path="1.04">Chapter 1.04</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1976-33" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§12" type="History"/>
@@ -721,7 +721,7 @@
       <heading>CUSTOMER SERVICE AND PROTECTION.</heading>
       <para>
         <num>(a)</num>
-        <text>A state franchise holder shall comply with Sections <cite doc="Cal. Gov't Code" path="§53055">53055</cite>, <cite doc="Cal. Gov't Code" path="§53055.1">53055.1</cite>, <cite doc="Cal. Gov't Code" path="§53055.2">53055.2</cite> and <cite doc="Cal. Gov't Code" path="§53088.2">53088.2</cite> of the <cite doc="Cal. Gov't Code" proof="true">California Government Code</cite>; the FCC customer service and notice standards set forth in Sections 76.309, 76.1602, 76.1603 and 76.1619 of Title 47 of the Code of Federal Regulations; <cite doc="Cal. Penal Code" path="§637.5">Section 637.5 of the California Penal Code</cite>; the privacy standards of Section 551 of Title 47 of the United States Code; and all other applicable state and federal customer service and consumer protection standards pertaining to the provision of video service, including any such standards hereafter adopted. In case of a conflict, the stricter standard shall apply. All customer service and consumer protection standards under this paragraph shall be interpreted and applied to accommodate newer or different technologies while meeting or exceeding the goals of the standards.</text>
+        <text>A state franchise holder shall comply with Sections <cite doc="Cal. Gov't Code" path="§53055">53055</cite>, <cite doc="Cal. Gov't Code" path="§53055.1">53055.1</cite>, <cite doc="Cal. Gov't Code" path="§53055.2">53055.2</cite> and <cite doc="Cal. Gov't Code" path="§53088.2">53088.2</cite> of the <cite doc="Cal. Gov't Code" proof="true">California Government Code</cite>; the FCC customer service and notice standards set forth in Sections 76.309, 76.1602, 76.1603 and 76.1619 of <cite path="47" proof="true">Title 47</cite> of the Code of Federal Regulations; <cite doc="Cal. Penal Code" path="§637.5">Section 637.5 of the California Penal Code</cite>; the privacy standards of Section 551 of <cite path="47" proof="true">Title 47</cite> of the United States Code; and all other applicable state and federal customer service and consumer protection standards pertaining to the provision of video service, including any such standards hereafter adopted. In case of a conflict, the stricter standard shall apply. All customer service and consumer protection standards under this paragraph shall be interpreted and applied to accommodate newer or different technologies while meeting or exceeding the goals of the standards.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -852,8 +852,10 @@
           <num>(3)</num>
           <text>Both.</text>
         </para>
+        <aftertext proof="true">
+          <text>A uniform false alarm fee for police Department response shall be established by resolution of the City Council. Any false alarm that occurs during the first two weeks after original installation of the alarm system involved shall not be counted against the false alarm count if the owner of the premises or the person responsible for the installation of the system has notified the Police Department of the installation within ten (10) days of completion of the installation. Upon determination that an alarm is false, the Chief of Police or designated representative will notify the owner of the premises in writing; this requirement is met if a written notice is posted at the property involved. If the Chief of Police determines that the Police Department will no longer respond to activated alarms at the premises concerned, the Chief will notify the owner of the premises in writing.</text>
+        </aftertext>
       </para>
-      <text>A uniform false alarm fee for police Department response shall be established by resolution of the City Council. Any false alarm that occurs during the first two weeks after original installation of the alarm system involved shall not be counted against the false alarm count if the owner of the premises or the person responsible for the installation of the system has notified the Police Department of the installation within ten (10) days of completion of the installation. Upon determination that an alarm is false, the Chief of Police or designated representative will notify the owner of the premises in writing; this requirement is met if a written notice is posted at the property involved. If the Chief of Police determines that the Police Department will no longer respond to activated alarms at the premises concerned, the Chief will notify the owner of the premises in writing.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1976-40" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-15" path="§2" type="History"/>
