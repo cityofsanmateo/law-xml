@@ -1,0 +1,96 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2019-3">
+  <num>2019-3</num>
+  <heading>AN UNCODIFIED ORDINANCE EXEMPTING PARCELS 035-113-026, 035-490-480, 033-441-190, AND THE ANCHOR ROAD PARKING LOT FROM THE ZONING CODE AND FINDING THAT THE ORDINANCE IS CONSISTENT WITH THE GENERAL PLAN</heading>
+  <effective>2019-06-05</effective>
+  <meta>
+    <citations>
+      <citation type="ord">Ord. No. 2019-3</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2019-3</citation>
+    </citations>
+    <history>
+      <introduced>2019-04-15</introduced>
+      <adopted>2019-05-06</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo's Clean Water Program is a comprehensive program designed to increase the capacity of the waste water conveyance and treatment system to improve the quality of the effluent discharge and eliminate sanitary sewer overflows; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council certified a Programmatic Environmental Impact Report (PEIR) for the San Mateo Clean Water Program on June 6, 2016; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Clean Water Program consists of multiple program components including the upgrade of the San Mateo Wastewater Treatment Plant (WWTP) located at 2050 Detroit Drive; and</text>
+      <text>WHEREAS; the construction of the upgraded WWTP will require the use of several offsite locations for construction staging, storage, and parking; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Parks and Recreation Commission on June 6, 2018 approved the use of these nearby City-owned properties to facilitate the construction of the WWTP; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on July 16, 2018, the City Council, at a duly notice public hearing, approved the design and layout of the upgraded wastewater treatment plant and adopted and Addendum to the PEIR; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 26, 2019, the Planning Commission considered the proposed project modifications and the ordinance and determined that the project is in conformance with the adopted General Plan; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on April 15, 2019, the City Council approved modifications to the previously approved project, a Second Addendum to the PEIR, and specifically authorized the use of several nearby City-owned properties for construction staging and parking; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the applicable provisions of the Zoning Code do not permit the use of off-site locations for construction-related support functions in the Open Space and Shoreline Zoning districts;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, HEREBY ORDAINS that:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>The following city-owned properties are exempted from the provisions of the Zoning Code: APN 035-113-026, APN 035-490-480, APN 033-441-190, and an existing parking area known as the Anchor Road Parking Lot.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>The use of off-site locations for construction staging was discussed in the PEIR and in the various Addenda used for the Clean Water Program improvements which were certified and adopted by the City Council in accordance with the provisions of Section 15090 of the California Environmental Quality Act (CEQA) Guidelines.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.  It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>In accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.15">City Charter Section 2.15</cite>, this Ordinance shall be published once in a newspaper of general circulation before becoming effective.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced on April 15, 2019 adopted on May 6, 2019 and shall take effect 30 days after adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Papan, Freschet, Goethals and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>Bonilla</td>
+        </tr>
+      </table>
+      <text>ATTEST:</text>
+    </text>
+  </section>
+</document>

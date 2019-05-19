@@ -4,6 +4,8 @@
   <heading type="short">2019</heading>
   <subheading>Uncodified Ordinances</subheading>
   <!-- <text>These ordinances do not amend the <cite doc="City of San Mateo, Cal., Code">Municipal Code</cite>.</text> -->
+  <xi:include href="./ordinances/2019-4.xml"/>
+  <xi:include href="./ordinances/2019-3.xml"/>
   <xi:include href="./ordinances/2019-2.xml"/>
   <xi:include href="./ordinances/2019-1.xml"/>
 </collection>
