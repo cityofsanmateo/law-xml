@@ -87,9 +87,9 @@
                   <num>2.</num>
                   <text>A minimum Solar Reflectance Index (SRI) of 85.</text>
                 </para>
+                <aftertext proof="true"><strong>Exception 1: </strong>Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
+                <aftertext proof="true"><strong>Exception 2: </strong>An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</aftertext>
               </para>
-              <text><strong>Exception 1: </strong>Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
-              <text><strong>Exception 2: </strong>An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</text>
             </para>
             <para>
               <num>ii.</num>
@@ -105,9 +105,9 @@
                   <num>2.</num>
                   <text>A minimum Solar Reflectance Index (SRI) of 85.</text>
                 </para>
+                <aftertext proof="true"><strong>Exception 1:</strong> Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
+                <aftertext proof="true"><strong>Exception 2: </strong>Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
               </para>
-              <text><strong>Exception 1:</strong> Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
-              <text><strong>Exception 2: </strong>Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
             </para>
             <para>
               <num>iii.</num>
@@ -151,9 +151,9 @@
                 <num>c.</num>
                 <text>New multi-family buildings containing 17 or more units shall provide a minimum of a 3 kilowatt photovoltaic system.</text>
               </para>
+              <aftertext proof="true"><strong>Exception to Section A:</strong>  As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</aftertext>
             </para>
           </para>
-          <text><strong>Exception to Section A:</strong>  As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</text>
         </section>
         <section>
           <num>23.24.040</num>
@@ -161,8 +161,8 @@
           <para>
             <num>A.</num>
             <text>Exemption. If an applicant for a Covered Project believes that circumstances exist that makes it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite>, the applicant may request an exemption as set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06.015">Section 23.06.015</cite> of the Municipal Code.  In applying for the</text>
+            <text>exemption, the burden is on the Applicant to show infeasibility.</text>
           </para>
-          <text>exemption, the burden is on the Applicant to show infeasibility.</text>
         </section>
       </container>
     </include>
@@ -248,7 +248,7 @@
       <caption>Key to Justification for Amendments to <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite> of the California Code of Regulations</caption>
       <tr proof="true">
         <th>A.</th>
-        <th>
+        <th proof="true">
           <p>This amendment is justified on the basis of a local climatic condition.</p>
           <p>Failure to address and significantly reduce greenhouse gas (GHG) emissions could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101 (Bayshore Freeway), particularly the mapped Flood Hazard areas of the City. Energy efficiency and the use of renewable energy sources are key components in reducing GHG emissions, and construction of more energy efficient buildings with dedicated renewable energy installations can help the City of San Mateo reduce its share of the GHG emissions that contribute to climate change. The burning of fossil fuels used in the generation of electric power and heating of buildings contributes to climate change, which could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101. Due to decrease in annual rain fall, the City experiences the effect of drought and water saving more than some other communities in California. Cool roofs reduce the urban heat island effect, and may significantly reduce local San Mateo temperatures if cool roofs are installed on a significant number of properties.</p>
         </th>
@@ -256,7 +256,7 @@
       <tr>
         <th>B.</th>
         <td proof="true">
-          <p>Energy efficiency enhances the public health and welfare by promoting the <strong>environmental</strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" proof="true">this Chapter</cite> are designed to achieve the following goals:</p>
+          <p>Energy efficiency enhances the public health and welfare by promoting the <strong><u>environmental</u></strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" proof="true">this Chapter</cite> are designed to achieve the following goals:</p>
           <p>(a) Increase energy efficiency in buildings;</p>
           <p>(b) Increase resource conservation;</p>
           <p>(c) Provide durable buildings that are efficient and economical to own and operate;</p>

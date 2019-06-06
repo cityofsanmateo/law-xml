@@ -203,10 +203,10 @@
           <num>23.28.060</num>
           <heading>GENERAL DEFINITIONS – AMENDED.</heading>
           <text>Section 202 is amended to include the following additional definitions as shown below:</text>
-          <text>All Weather Driving Surface. A roadway designed to carry the imposed weight loads of fire apparatus (Minimum load of 68,000 pounds) and a minimum surface finish of one layer of asphalt or concrete or road pavers.</text>
-          <text>Driveway. Access road from the public way to a structure that is used for public vehicular access,</text>
+          <text><u>All Weather Driving Surface</u>. A roadway designed to carry the imposed weight loads of fire apparatus (Minimum load of 68,000 pounds) and a minimum surface finish of one layer of asphalt or concrete or road pavers.</text>
+          <text><u>Driveway</u>. Access road from the public way to a structure that is used for public vehicular access,</text>
           <text>including fire and emergency vehicles.</text>
-          <text>Midrise. A building with four or more stories and/or occupied floors more than 40 feet above the lowest level of exit discharge.</text>
+          <text><u>Midrise</u>. A building with four or more stories and/or occupied floors more than 40 feet above the lowest level of exit discharge.</text>
         </section>
         <section>
           <num>23.28.090</num>
@@ -431,11 +431,11 @@
           <para>
             <num>(b)</num>
             <text>Having occupied floors located more than 40 feet above grade at the lowest floor level of exit discharge.</text>
-          </para>
-          <text>Exceptions:</text>
-          <para proof="true">
-            <num>1.</num>
-            <text>Open parking garages.</text>
+            <text>Exceptions:</text>
+            <para proof="true">
+              <num>1.</num>
+              <text>Open parking garages.</text>
+            </para>
           </para>
         </section>
         <section>
@@ -664,9 +664,11 @@ HYDRANT TO ANY POINT ON STREET OR ROADWAY FRONTAGE (Ft.)</th>
     <text>The climatic, geologic, and topographic conditions found in the City necessitate making modifications to the building standards in the 2016 California Fire Code in order to provide a reasonable degree of fire and life safety in this community.  These conditions are discussed in detail below.</text>
     <para>
       <num>1.</num>
-      <text>Climatic Conditions.</text>
+      <text>
+        <u>Climatic Conditions.</u>
+      </text>
+      <text>The City, on average, experiences an annual rainfall between 18 to 25 inches.  This rainfall can be expected between October and April of each year and is based on the 100-year weather almanac.  However, during the summer and early fall months there is little, if any, measurable precipitation.  During this dry period, the temperatures are usually between 70°-90° with light to gusty westerly winds.  These drying winds, mixed with the natural vegetation, which is dominant throughout the area, creates a hazardous fuel condition, which further create extensive grass and brush land fire risk. With residential developments encroaching into these wooded and grass, or brush covered areas, wind and terrain-driven fires could have severe consequences and place lives and properties at risk.</text>
     </para>
-    <text>The City, on average, experiences an annual rainfall between 18 to 25 inches.  This rainfall can be expected between October and April of each year and is based on the 100-year weather almanac.  However, during the summer and early fall months there is little, if any, measurable precipitation.  During this dry period, the temperatures are usually between 70°-90° with light to gusty westerly winds.  These drying winds, mixed with the natural vegetation, which is dominant throughout the area, creates a hazardous fuel condition, which further create extensive grass and brush land fire risk. With residential developments encroaching into these wooded and grass, or brush covered areas, wind and terrain-driven fires could have severe consequences and place lives and properties at risk.</text>
     <para>
       <num>2.</num>
       <text>Geologic Conditions.</text>
@@ -681,7 +683,9 @@ HYDRANT TO ANY POINT ON STREET OR ROADWAY FRONTAGE (Ft.)</th>
     </para>
     <para>
       <num>3.</num>
-      <text>Topographic Conditions.</text>
+      <text>
+        <u>Topographic Conditions.</u>
+      </text>
       <para>
         <num>(a)</num>
         <text>Hills.  Much of the City is located in hills.  The hilly terrain has influenced development to follow the path of least resistance, creating a meandering pattern.  The development pattern includes lots of inconsistent size, and development is often set deeply back from the street.  The development partner also does not lend itself to a good systematic street and road layout, which would promote easy traffic flow.  It has, in fact, resulted in few major cross town thoroughfares, which tend to be heavily congested, primarily during commute hours and seasonal periods of the year. "Pass-through" vehicular traffic in the City, such as the areas of the Alameda de Las Pulgas, Ralston Ave., and El Camino Real, increase commute time traffic for East and West bound vehicular movement to US 101 and Interstate 280. This creates barriers, which increases the response time of fire apparatus and other emergency vehicles. The topography of the City is also burdened by major structures. Employment   areas are throughout the City, and the people who work in these complexes have added to the traffic congestion, thereby increasing fire apparatus response times.</text>
@@ -709,34 +713,34 @@ HYDRANT TO ANY POINT ON STREET OR ROADWAY FRONTAGE (Ft.)</th>
     </text>
     <para>
       <num>1.</num>
-      <text>Section 503 (Fire Apparatus Access Roads) - Local Conditions 1. 2.(a), 2(b), 3. (a), (b), &amp;(c)</text>
+      <text><u>Section 503 (Fire Apparatus Access Roads) </u>- Local Conditions 1. 2.(a), 2(b), 3. (a), (b), &amp;(c)</text>
       <text>Residential development in hilly terrain with narrow and meandering street result in delay of fire personnel in accessing those in need of emergency services. Additionally, these areas are prone to increased risk of storm runoff and landslides during periods of increased precipitation in the winter months.  Lastly, these areas, which make up a majority of the city's wildland urban interface (WUI) will be particularly challenging in combating wild fires.  Clearly defined fire access roads are imperative to allow vehicle access into these residential development areas for response of equipment and personnel.</text>
     </para>
     <para>
       <num>2.</num>
-      <text>Section 505 (Premises Identification) - Local Conditions 3. (a), (b), &amp; (c)</text>
+      <text><u>Section 505 (Premises Identification) </u>- Local Conditions 3. (a), (b), &amp; (c)</text>
       <text>Residential development in hilly terrain with meandering street patterns has led to inconsistent lot sizes and structure placement combined with significant vegetation.  These conditions can often make identification of correct addresses difficult and can cause delay of emergency personnel in locating the correct address when responding to requests for emergency services.  This amendment responds to these conditions by making address numbers larger for easier identification.</text>
     </para>
     <para>
       <num>3.</num>
-      <text>Section 506 (Key Boxes) - Local Conditions 1, 2(a), 2(b), 3(a), (b), &amp; (c)</text>
+      <text><u>Section 506 (Key Boxes) </u>- Local Conditions 1, 2(a), 2(b), 3(a), (b), &amp; (c)</text>
       <text>The key box provides access to all spaces including multi-tenant spaces, elevator controls, fire alarm control panels and sprinkler valve access. If the occupancy has hazardous materials on site documentation detailing the types, amounts, and locations of those materials will be contained in the key box. Secure Fire Department access only Key boxes provide a secure means of emergency access. Emergency personnel having to access a business or secure multi-dwelling residential complex have a secure means of access without having to utilize forcible entry. The proximity of occupancies to the San Andreas Fault, and the high probability of an earthquake resulting in damage to structures and fire suppression systems can be significant. Early access can assist in minimizing damage from water, fire, or other hazardous by having access to the systems that control them.</text>
     </para>
     <para>
       <num>4.</num>
-      <text>Section 903 (Automatic Sprinkler Systems) and Section 905 (Standpipes) - Local Conditions 1, 3(a), (b), &amp; (c)</text>
+      <text><u>Section 903 (Automatic Sprinkler Systems) and Section 905 (Standpipes)</u> - Local Conditions 1, 3(a), (b), &amp; (c)</text>
       <text>The experiences of several disastrous wildland-urban interface fires within Alameda, Santa Clara, Monterey and Contra Costa Counties have demonstrated the need for other fire protection features/regulations. While it is clearly understood that the adoption of such regulations may not prevent the incidence of fire, their implementation reduces the severity and potential loss of life and property from those fires that do occur.</text>
+      <text>Automatic fire extinguishing systems (AFES) and standpipe systems are effective in confining, extinguishing, or aiding in the extinguishment of a fire, as well as reducing the amount of toxic gases and smoke generated by fire. They also allow people to safely evacuate the building and can confine the fire until emergency resources arrive at scene. An AFES throughout a structure serves to limit the loss of life and property.  Inherent delays caused by the traffic patterns throughout the fire City make it necessary to mitigate this risk by requiring additional built-in automatic fire protection and detection systems that provide early detection and initial control of fires until the arrival of the fire department.</text>
     </para>
-    <text>Automatic fire extinguishing systems (AFES) and standpipe systems are effective in confining, extinguishing, or aiding in the extinguishment of a fire, as well as reducing the amount of toxic gases and smoke generated by fire. They also allow people to safely evacuate the building and can confine the fire until emergency resources arrive at scene. An AFES throughout a structure serves to limit the loss of life and property.  Inherent delays caused by the traffic patterns throughout the fire City make it necessary to mitigate this risk by requiring additional built-in automatic fire protection and detection systems that provide early detection and initial control of fires until the arrival of the fire department.</text>
     <para>
       <num>5.</num>
-      <text>Section 909 (Midrise Smoke Control System) and Section 1009 (Convenience Stair) –Local Conditions 3(a), (b), &amp; (c)</text>
+      <text><u>Section 909 (Midrise Smoke Control System) and Section 1009 (Convenience Stair)</u> –Local Conditions 3(a), (b), &amp; (c)</text>
       <text>The experiences of several major multi-story building fires within Alameda, Santa Clara, Monterey and Contra Costa Counties have demonstrated the need for other fire protection features/regulations. While it is clearly understood that the adoption of such regulations may not prevent the incidence of fire, their implementation reduces the severity and potential loss of life and property from those fires that do occur.</text>
       <text>Passive smoke control systems (PSCS) and limiting convenience stairs are effective in confining, extinguishing, or aiding in the extinguishment of a fire, as well as reducing the amount of toxic gases and smoke generated by fire. They also allow people to safely evacuate the building and can confine the fire until emergency resources arrive at scene. An PSCS throughout a structure serves to limit the loss of life and property.  Inherent delays caused by the traffic patterns throughout the fire City make it necessary to mitigate this risk by requiring additional built-in automatic fire protection and detection systems that provide early detection and initial control of smoke until the arrival of the fire department.</text>
     </para>
     <para>
       <num>6.</num>
-      <text>Appendix C (Hydrant Locations and Distribution) – Local Conditions 1, 3(a), (b), &amp; (c)</text>
+      <text><u>Appendix C (Hydrant Locations and Distribution) –</u> Local Conditions 1, 3(a), (b), &amp; (c)</text>
       <text>The experiences of several major multi-story building fires within Alameda, Santa Clara, Monterey and Contra Costa Counties have demonstrated the need for other fire protection features/regulations. While it is clearly understood that the adoption of such regulations may not prevent the incidence of fire, their implementation reduces the severity and potential loss of life and property from those fires that do occur.</text>
       <text>Proper hydrant spacing in densely populated areas are critical to the successful containment of large commercial fires. Increased vehicular traffic causing congestion and parking challenges create an excessive number of obstructed hydrants.  Larger commercial building may require more than one fire hydrant to establish adequate water supply for fire suppression.  This amendment responds to these conditions by providing additional hydrants to combat fires in large commercial buildings.</text>
     </para>

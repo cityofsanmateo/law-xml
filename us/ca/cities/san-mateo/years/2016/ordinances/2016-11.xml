@@ -71,10 +71,10 @@
           <text>The California Green Building Standards Code, 2016 Edition, Section 4.305, Water Reuse Systems is amended as follows:</text>
           <para>
             <num>1.</num>
-            <text>Laundry-to-Landscape Infrastructure: Any new one-family dwelling shall install a three-way diverter valve at the drain line of all laundry fixtures intended for optional installation of a laundry-to-landscape irrigation system.</text>
+            <text><u>Laundry-to-Landscape Infrastructure</u>: Any new one-family dwelling shall install a three-way diverter valve at the drain line of all laundry fixtures intended for optional installation of a laundry-to-landscape irrigation system.</text>
             <para>
               <num>a.</num>
-              <text>Note:  A complete laundry to landscape irrigation system shall comply with the California Plumbing Code 1502.1.1, Clothes Washer System.</text>
+              <text><u>Note:</u>  A complete laundry to landscape irrigation system shall comply with the California Plumbing Code 1502.1.1, Clothes Washer System.</text>
             </para>
           </para>
         </section>
@@ -84,12 +84,12 @@
           <text>The California Green Building Standards Code, 2016 Edition, Section 4.106.4.2, Electric vehicle (EV) charging space requirements for new multifamily dwellings is amended to include a) standards for new multifamily dwellings containing 3-16 units, and b) increased standards for new multifamily dwellings containing 17 or more units as follows:</text>
           <para>
             <num>1.</num>
-            <text>New multifamily dwellings containing 3-16 units:  Where between 3-16 multifamily dwelling units are constructed on a building site, at least one space shall be an electric vehicle charging space (EV space) capable of supporting future electric vehicle supply equipment (EVSE).</text>
+            <text><u>New multifamily dwellings containing 3-16 units</u>:  Where between 3-16 multifamily dwelling units are constructed on a building site, at least one space shall be an electric vehicle charging space (EV space) capable of supporting future electric vehicle supply equipment (EVSE).</text>
           </para>
           <para>
             <num>2.</num>
-            <text>New multifamily dwellings containing 17 or more units:  Where 17 or more multifamily dwelling units are constructed on a building site, 10 percent of the total number of parking spaces provided for all types of parking facilities, but in no case less than one, shall be electric vehicle charging spaces (EV spaces) capable of supporting future EVSE.  Calculations for the required number of EV spaces shall be rounded up to the nearest whole number.</text>
-            <text>Note: Projects shall reference the California Green Building Code Section 4.106.4 and California Electrical Code, 2016 Edition, Article 625 for definitions and requirements for electric vehicle charging spaces.</text>
+            <text><u>New multifamily dwellings containing 17 or more units</u>:  Where 17 or more multifamily dwelling units are constructed on a building site, 10 percent of the total number of parking spaces provided for all types of parking facilities, but in no case less than one, shall be electric vehicle charging spaces (EV spaces) capable of supporting future EVSE.  Calculations for the required number of EV spaces shall be rounded up to the nearest whole number.</text>
+            <text><u>Note</u>: Projects shall reference the California Green Building Code Section 4.106.4 and California Electrical Code, 2016 Edition, Article 625 for definitions and requirements for electric vehicle charging spaces.</text>
           </para>
         </section>
         <section>
@@ -98,7 +98,7 @@
           <text>The California Green Building Standards Code, 2016 Edition, Section 5.106.5.3.3 EV charging space calculation is amended to include the Non-Residential/Commercial Voluntary Tier 2 Measure for EV charging space calculation per Section A5.106.5.3.3 as follows:</text>
           <para>
             <num>1.</num>
-            <text>New Non-Residential Construction: Table A5.106.5.3.2 shall be used to determine if single or multiple charging space requirements apply for future installation of electric vehicle supply equipment (EVSE). When a single charging space is required, refer to Section 5.106.5.3.1 for design requirements.  When multiple charging spaces are required, refer to Section 5.106.5.3.2 for design requirements.</text>
+            <text><u>New Non-Residential Construction</u>: Table A5.106.5.3.2 shall be used to determine if single or multiple charging space requirements apply for future installation of electric vehicle supply equipment (EVSE). When a single charging space is required, refer to Section 5.106.5.3.1 for design requirements.  When multiple charging spaces are required, refer to Section 5.106.5.3.2 for design requirements.</text>
             <text>
               <table>
                 <caption>TABLE A5.106.5.3.2</caption>
@@ -147,7 +147,7 @@
           </para>
           <para proof="true">
             <num>a.</num>
-            <text>Note: Projects shall reference the California Green Building Code, 2016 Edition, Section 5.106.5.3 and California Electrical Code for definitions and requirements related to electric vehicle charging spaces.</text>
+            <text><u>Note</u>: Projects shall reference the California Green Building Code, 2016 Edition, Section 5.106.5.3 and California Electrical Code for definitions and requirements related to electric vehicle charging spaces.</text>
           </para>
         </section>
         <section>
@@ -155,7 +155,7 @@
           <heading>INFEASIBILITY EXEMPTION</heading>
           <para>
             <num>A.</num>
-            <text>Exemption. If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite>, the applicant may request an exemption as set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06.015">Section 23.06.015</cite> of the Municipal Code.  In applying for the</text>
+            <text><u>Exemption</u>. If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite>, the applicant may request an exemption as set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06.015">Section 23.06.015</cite> of the Municipal Code.  In applying for the</text>
             <text>exemption, the burden is on the Applicant to show infeasibility. The following conditions may be considered to determine infeasibility:</text>
             <para>
               <num>1.</num>
@@ -267,7 +267,7 @@
       <caption>Key to Justification for Amendments to <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite> of the California Code of Regulations</caption>
       <tr proof="true">
         <th>A.</th>
-        <th>
+        <th proof="true">
           <p>This amendment is justified on the basis of a local climatic condition.</p>
           <p>Failure to address and significantly reduce greenhouse gas (GHG) emissions could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101 (Bayshore Freeway), particularly the mapped Flood Hazard areas of the City. Electric vehicle charging infrastructure is a key component in reducing GHG emissions, and EV charging installations can help the City of San Mateo reduce its share of the GHG emissions that contribute to climate change. Electric vehicle charging infrastructure will contribute to the reduction of GHG emissions by supporting the demand for electric vehicles and the associated EV chargers. The burning of fossil fuels used in the generation of electric power and heating of buildings contributes to climate change, which could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101. However, electric power will become cleaner over time as utilities achieve more stringent Renewable Portfolio Standard requirements, and translate the clean energy benefits to electric vehicles. Due to decrease in annual rain fall, the City experiences the effect of drought and water saving more than some other communities in California.</p>
         </th>
@@ -275,7 +275,7 @@
       <tr>
         <th>B.</th>
         <td proof="true">
-          <p>Energy efficiency and water conservation enhances the public health and welfare by promoting the <strong>environmental</strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" proof="true">this Chapter</cite> are designed to achieve the following goals:</p>
+          <p>Energy efficiency and water conservation enhances the public health and welfare by promoting the <strong><u>environmental</u></strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" proof="true">this Chapter</cite> are designed to achieve the following goals:</p>
           <p>(a) Increase energy efficiency in buildings;</p>
           <p>(b) Increase water and resource conservation;</p>
           <p>(c) Provide durable buildings that are efficient and economical to own and operate;</p>
