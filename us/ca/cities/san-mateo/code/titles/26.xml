@@ -3,7 +3,7 @@
   <prefix>Title</prefix>
   <num>26</num>
   <heading>SUBDIVISIONS</heading>
-  <annotation>For the statutory provisions pertaining to subdivided lands and subdivisions see Cal. Gov't. Code §§ 66410 et seq.</annotation>
+  <annotation type="Editor's Notes">For the statutory provisions pertaining to subdivided lands and subdivisions see Cal. Gov't. Code §§ 66410 et seq.</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>26.04</num>
@@ -366,9 +366,7 @@
           <num>(5)</num>
           <text>Any number of lots but involving total acreage of less than five (5) acres; all of the proposed lots will face on an existing dedicated and improved street complying with all requirements of the City; and no new streets, street improvements, easements, or dedications are needed because of the proposed subdivision.</text>
         </para>
-        <aftertext proof="true">
-          <text>Notwithstanding this Subsection, in all conversions of a dwelling, community apartment project, or a stock cooperative to a condominium, regardless of the number of lots, parcels, condominiums, or dwelling units involved, a tentative and final subdivision map shall be required.</text>
-        </aftertext>
+        <aftertext proof="true">Notwithstanding this Subsection, in all conversions of a dwelling, community apartment project, or a stock cooperative to a condominium, regardless of the number of lots, parcels, condominiums, or dwelling units involved, a tentative and final subdivision map shall be required.</aftertext>
       </para>
       <para>
         <num>(b)</num>
@@ -1601,9 +1599,7 @@
           <num>(b)</num>
           <text>A statement by the City Engineer that the final map is correct. The subdivider shall then submit the original tracings on polyester base film or comparable process and a complete set of blueline prints on cloth with original signatures on both tracings and prints to the City Engineer for transmittal to the Director of Community Development.</text>
         </para>
-        <aftertext proof="true">
-          <text>If the final map is found to be correct, the data shown thereon and submitted therewith are sufficient, and all applicable provisions of the Subdivision Map Act and <cite path="26">this Title</cite> have been complied with, the City Engineer will, within twenty (20) days from the time the corrected final map is submitted to him or her by the subdivider, certify his or her approval on the original tracing and the blueline cloth print of the map and deliver it to the Director of Community Development. The Director of Community Development shall then certify its conformance to the tentative map and file it and the related documents with the City Clerk.</text>
-        </aftertext>
+        <aftertext proof="true">If the final map is found to be correct, the data shown thereon and submitted therewith are sufficient, and all applicable provisions of the Subdivision Map Act and this Title have been complied with, the City Engineer will, within twenty (20) days from the time the corrected final map is submitted to him or her by the subdivider, certify his or her approval on the original tracing and the blueline cloth print of the map and deliver it to the Director of Community Development. The Director of Community Development shall then certify its conformance to the tentative map and file it and the related documents with the City Clerk.</aftertext>
       </para>
       <annotations>
         <annotation type="History">prior code § 139.44</annotation>

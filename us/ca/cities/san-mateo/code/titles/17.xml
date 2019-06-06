@@ -3,13 +3,13 @@
   <prefix>Title</prefix>
   <num>17</num>
   <heading>STREETS AND SIDEWALKS</heading>
-  <annotation>For the provision of the City Charter which authorizes the City to make public improvements including the improving, widening or opening of streets or highways under and in pursuance of State law or procedure ordinances adopted by the Council or electors see Section 5.25. For the statutory provisions regarding the construction, improvement and repair of streets and sidewalks by cities see Cal. Gov. C. § 40401.</annotation>
+  <annotation type="Editor's Notes">For the provision of the City Charter which authorizes the City to make public improvements including the improving, widening or opening of streets or highways under and in pursuance of State law or procedure ordinances adopted by the Council or electors see Section 5.25. For the statutory provisions regarding the construction, improvement and repair of streets and sidewalks by cities see Cal. Gov. C. § 40401.</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>17.08</num>
     <heading>OBSTRUCTIONS—LITTER</heading>
-    <annotation>For provisions relating to street standards, see <cite path="21.36" proof="true">Chapter 21.36</cite> of this code.</annotation>
-    <annotation>For the statutory provisions regarding the prevention by a city of encroachments on city streets, see <cite doc="Cal. Gov't Code" path="§38775">Gov. Code § 38775</cite>. For provisions relating to liability for injury, see <cite path="15.20">Chapter 15.20</cite>.</annotation>
+    <annotation type="Editor's Notes">For provisions relating to street standards, see <cite path="21.36" proof="true">Chapter 21.36</cite> of this code.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding the prevention by a city of encroachments on city streets, see <cite doc="Cal. Gov't Code" path="§38775">Gov. Code § 38775</cite>. For provisions relating to liability for injury, see <cite path="15.20">Chapter 15.20</cite>.</annotation>
     <section>
       <num>17.08.010</num>
       <heading>DIRT OR RUBBISH.</heading>
@@ -509,9 +509,7 @@
           <num>(2)</num>
           <text>In the event the Publisher has not filed for a Permit or delivered a Compartment to the Operator within the 30-day time period, or any extension thereof, the assigned Compartment space shall be reassigned to the next Publisher on the priority list.</text>
         </para>
-        <aftertext proof="true">
-          <text>At such time as the Operator has received Compartments from all Publishers assigned to a particular modular unit, the Operator shall install the modular stand and the Compartments and notify the relevant Publishers of such installation. At such time as all modular units designated to be installed under a priority list established under <cite path="17.12.070">Section 17.12.070</cite>, have been installed on a particular Block Face, the Operator shall notify the City. At that time, the City shall notify all Publishers that all Freestanding Newsracks shall be removed from that Block Face within 20 days. Permit Fees. At least 15 days prior to the establishment of any proposed Fee or Fee increase, City shall mail written notice to all affected Publishers of the time and place of the meeting at which such increase shall be considered by the City Council.</text>
-        </aftertext>
+        <aftertext proof="true">At such time as the Operator has received Compartments from all Publishers assigned to a particular modular unit, the Operator shall install the modular stand and the Compartments and notify the relevant Publishers of such installation. At such time as all modular units designated to be installed under a priority list established under Section 17.12.070, have been installed on a particular Block Face, the Operator shall notify the City. At that time, the City shall notify all Publishers that all Freestanding Newsracks shall be removed from that Block Face within 20 days. Permit Fees. At least 15 days prior to the establishment of any proposed Fee or Fee increase, City shall mail written notice to all affected Publishers of the time and place of the meeting at which such increase shall be considered by the City Council.</aftertext>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-4" path="§3" type="History"/>
@@ -902,7 +900,7 @@
     <prefix>Chapter</prefix>
     <num>17.20</num>
     <heading>STREET SIGNS</heading>
-    <annotation>For provisions relating to street sign standards, see <cite path="21.36" proof="true">Chapter 21.36</cite>.</annotation>
+    <annotation type="Editor's Notes">For provisions relating to street sign standards, see <cite path="21.36" proof="true">Chapter 21.36</cite>.</annotation>
     <section>
       <num>17.20.010</num>
       <heading>DEFACING PROHIBITED.</heading>
@@ -1455,9 +1453,7 @@
           <num>(4)</num>
           <text>Vehicles blocking pedestrian access.</text>
         </para>
-        <aftertext proof="true">
-          <text>Under no circumstances shall a permittee be allowed to tow or authorize the towing of any vehicle from public property or right-of-way.</text>
-        </aftertext>
+        <aftertext proof="true">Under no circumstances shall a permittee be allowed to tow or authorize the towing of any vehicle from public property or right-of-way.</aftertext>
       </para>
       <para>
         <num>(k)</num>

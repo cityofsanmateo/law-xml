@@ -3,7 +3,7 @@
   <prefix>Title</prefix>
   <num>3</num>
   <heading>TAXATION AND FINANCE</heading>
-  <annotation>For the taxation provisions of the California Constitution see CAL. CONST. Art. 13 (1879).</annotation>
+  <annotation type="Editor's Notes">For the taxation provisions of the California Constitution see CAL. CONST. Art. 13 (1879).</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>3.35</num>
@@ -131,9 +131,7 @@
           <num>(2)</num>
           <text>The sum of twenty-five cents of each such admission tax paid shall be deposited in a capital improvements fund to improve and extend vehicular parking and traffic circulation to, in, around or about the racetracks within this city.</text>
         </para>
-        <aftertext proof="true">
-          <text>Said fund shall be accumulated for property acquisition, design and construction of such racetrack area public improvements as may be determined to be necessary by resolution of the City Council. The improvements may be financed by annual appropriations from said fund, or may be used to pay interest and principal upon any bond issue made for the express purpose of financing the public improvements, or to pay rent to any public agency or nonprofit corporation which has issued bonds to finance such improvements, as well as for operation and maintenance of said improvements. When capital costs are fully paid or retired, the funds shall be paid into the general fund.</text>
-        </aftertext>
+        <aftertext proof="true">Said fund shall be accumulated for property acquisition, design and construction of such racetrack area public improvements as may be determined to be necessary by resolution of the City Council. The improvements may be financed by annual appropriations from said fund, or may be used to pay interest and principal upon any bond issue made for the express purpose of financing the public improvements, or to pay rent to any public agency or nonprofit corporation which has issued bonds to finance such improvements, as well as for operation and maintenance of said improvements. When capital costs are fully paid or retired, the funds shall be paid into the general fund.</aftertext>
       </para>
       <annotations>
         <annotation type="History">prior code § 33.02</annotation>
@@ -299,7 +297,7 @@
     <prefix>Chapter</prefix>
     <num>3.48</num>
     <heading>REAL PROPERTY DOCUMENT TRANSFER TAX</heading>
-    <annotation>For the statutory provisions regarding the document transfer tax see West's Cal. Rev. &amp; T.C.A. §§ 11901 et seq.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding the document transfer tax see West's Cal. Rev. &amp; T.C.A. §§ 11901 et seq.</annotation>
     <section>
       <num>3.48.010</num>
       <heading>AMOUNT.</heading>
@@ -704,7 +702,7 @@
     <prefix>Chapter</prefix>
     <num>3.52</num>
     <heading>SALES AND USE TAX</heading>
-    <annotation>For the statutory provisions regarding the Uniform Local Sales and Use Tax Act, see Cal. Rev. &amp; T.C.A. &amp; 7200 et seq.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding the Uniform Local Sales and Use Tax Act, see Cal. Rev. &amp; T.C.A. &amp; 7200 et seq.</annotation>
     <section>
       <num>3.52.010</num>
       <heading>SALES TAX—AMOUNT.</heading>
