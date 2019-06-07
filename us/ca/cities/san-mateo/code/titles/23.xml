@@ -1491,33 +1491,15 @@
               <th>VB</th>
             </tr>
             <tr>
-              <td>
-                <center>B</center>
-              </td>
-              <td>
-                <center>B</center>
-              </td>
-              <td>
-                <center>B</center>
-              </td>
-              <td>
-                <center>B</center>
-              </td>
-              <td>
-                <center>B</center>
-              </td>
-              <td>
-                <center>B</center>
-              </td>
-              <td>
-                <center>B</center>
-              </td>
-              <td>
-                <center>B</center>
-              </td>
-              <td>
-                <center>B</center>
-              </td>
+              <td>B</td>
+              <td>B</td>
+              <td>B</td>
+              <td>B</td>
+              <td>B</td>
+              <td>B</td>
+              <td>B</td>
+              <td>B</td>
+              <td>B</td>
             </tr>
           </table>
         </text>
@@ -6366,68 +6348,36 @@
                 <th>TIER 2 NUMBER OF REQUIRED EV CHARGING SPACES</th>
               </tr>
               <tr>
-                <td>
-                  <center>0-9</center>
-                </td>
-                <td>
-                  <center>1</center>
-                </td>
+                <td>0-9</td>
+                <td>1</td>
               </tr>
               <tr>
-                <td>
-                  <center>10-25</center>
-                </td>
-                <td>
-                  <center>2</center>
-                </td>
+                <td>10-25</td>
+                <td>2</td>
               </tr>
               <tr>
-                <td>
-                  <center>26-50</center>
-                </td>
-                <td>
-                  <center>4</center>
-                </td>
+                <td>26-50</td>
+                <td>4</td>
               </tr>
               <tr>
-                <td>
-                  <center>51-75</center>
-                </td>
-                <td>
-                  <center>6</center>
-                </td>
+                <td>51-75</td>
+                <td>6</td>
               </tr>
               <tr>
-                <td>
-                  <center>76-100</center>
-                </td>
-                <td>
-                  <center>6</center>
-                </td>
+                <td>76-100</td>
+                <td>6</td>
               </tr>
               <tr>
-                <td>
-                  <center>101-150</center>
-                </td>
-                <td>
-                  <center>12</center>
-                </td>
+                <td>101-150</td>
+                <td>12</td>
               </tr>
               <tr>
-                <td>
-                  <center>151-200</center>
-                </td>
-                <td>
-                  <center>17</center>
-                </td>
+                <td>151-200</td>
+                <td>17</td>
               </tr>
               <tr>
-                <td>
-                  <center>201 and over</center>
-                </td>
-                <td>
-                  <center>10 percent of total<sup>1</sup></center>
-                </td>
+                <td>201 and over</td>
+                <td>10 percent of total<sup>1</sup></td>
               </tr>
             </table>
           </text>
