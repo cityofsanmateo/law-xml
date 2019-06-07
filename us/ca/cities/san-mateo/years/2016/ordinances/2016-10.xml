@@ -458,7 +458,7 @@
               <text>A building permit shall not be required for the following:</text>
               <para>
                 <num>(i)</num>
-                <text>One-story detached accessory structures used as tool and storage sheds, playhouses and similar uses, provided the floor area does not exceed 120 square feet (11 m2).</text>
+                <text>One-story detached accessory structures used as tool and storage sheds, playhouses and similar uses, provided the floor area does not exceed 120 square feet (11 m<sup>2</sup>).</text>
               </para>
               <para>
                 <num>(ii)</num>
@@ -1159,16 +1159,16 @@
           <para>
             <num>(1)</num>
             <text>Add a new footnote "f" to the end of CRC Table R602.10.3(3), to read:</text>
-            <text proof="true">f. In Seismic Design Categories D0, D1, and D2, Method GB is not permitted and the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
+            <text proof="true">f. In Seismic Design Categories D<sub>0</sub>, D<sub>1</sub>, and D<sub>2</sub>, Method GB is not permitted and the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Add the "f" footnote notation in the title of Table R602.10.3(3), to read:   TABLE R602.10.3(3)f</text>
+            <text>Add the "f" footnote notation in the title of Table R602.10.3(3), to read:   TABLE R602.10.3(3)<sup>f</sup></text>
           </para>
           <para>
             <num>(3)</num>
             <text>Add a new subsection R602.10.4.4, to read:</text>
-            <text><strong>R602.10.4.4 Limits on methods GB and PCP</strong>.  In Seismic Design Categories D0, D1, and D2, Method GB is not permitted for use as intermittent braced wall panels, but gypsum board is permitted to be installed when required by this Section to be placed on the opposite side of the studs from other types of braced wall panel sheathing.   In Seismic Design Categories D0, D1, and D2, the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
+            <text><strong>R602.10.4.4 Limits on methods GB and PCP</strong>.  In Seismic Design Categories D<sub>0</sub>, D<sub>1</sub>, and D<sub>2</sub>, Method GB is not permitted for use as intermittent braced wall panels, but gypsum board is permitted to be installed when required by this Section to be placed on the opposite side of the studs from other types of braced wall panel sheathing.   In Seismic Design Categories D<sub>0</sub>, D<sub>1</sub>, and D<sub>2</sub>, the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
           </para>
         </section>
       </container>
@@ -1301,15 +1301,33 @@
                 <th>VB</th>
               </tr>
               <tr>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
+                <td>
+                  <center>B</center>
+                </td>
+                <td>
+                  <center>B</center>
+                </td>
+                <td>
+                  <center>B</center>
+                </td>
+                <td>
+                  <center>B</center>
+                </td>
+                <td>
+                  <center>B</center>
+                </td>
+                <td>
+                  <center>B</center>
+                </td>
+                <td>
+                  <center>B</center>
+                </td>
+                <td>
+                  <center>B</center>
+                </td>
+                <td>
+                  <center>B</center>
+                </td>
               </tr>
             </table>
           </text>
@@ -1720,9 +1738,11 @@
     </text>
   </section>
   <text>
-    <strong>
-      <u>EXHIBIT A</u>
-    </strong>
+    <center>
+      <strong>
+        <u>EXHIBIT A</u>
+      </strong>
+    </center>
   </text>
   <num>23.07.080</num>
   <heading>SECTIONS R902.1 AMENDED--ROOFING REQUIREMENTS.</heading>
