@@ -1334,7 +1334,7 @@
     <section>
       <num>23.07.080</num>
       <heading>SECTIONS R902.1, R902.1.1, R902.1.3 ROOFING REQUIREMENTS AMENDED.</heading>
-      <include proof="true">
+      <include proof="needed">
         <text><strong>Section R902.1 Roofing covering materials.</strong> Roofs shall be covered with materials as set forth in Sections R904 and R905. A minimum Class A or B roofing shall be installed in areas designated by this section or where the edge of the roof is less than 3 feet from a lot line. Classes A or B roofing required by this section to be listed shall be tested in accordance with UL 790 or ASTM E 108.</text>
       </include>
       <annotations>
@@ -1349,7 +1349,7 @@
       <para>
         <num>(a)</num>
         <text>Add a new footnote "f" to the end of CRC Table R602.10.3(3), to read:</text>
-        <include proof="true">
+        <include proof="needed">
           <para>
             <num>f.</num>
             <text>In Seismic Design Categories D<sub><strong>0</strong></sub>, D<sub><strong>1</strong></sub>, and D<sub><strong>2</strong></sub>, Method GB is not permitted and the use of Method PCP is limited to one-story single-family dwellings and accessory structures.</text>
@@ -1359,14 +1359,14 @@
       <para>
         <num>(b)</num>
         <text>Add the "f" footnote notation in the title of Table R602.10.3(3), to read:</text>
-        <include proof="true">
+        <include proof="needed">
           <text>TABLE R602.10.3(3)<sup>f</sup></text>
         </include>
       </para>
       <para>
         <num>(c)</num>
         <text>Add a new subsection R602.10.4.4, to read:</text>
-        <include proof="true">
+        <include proof="needed">
           <text><strong>R602.10.4.4 Limits on methods GB and PCP.</strong> In Seismic Design Categories D<sub><strong>0</strong></sub>, D<sub><strong>1</strong></sub>, and D<sub><strong>2</strong></sub>, Method GB is not permitted for use as intermittent braced wall panels, but gypsum board is permitted to be installed when required by this section to be placed on the opposite side of the studs from other types of braced wall panel sheathing. In Seismic Design Categories D<sub><strong>0</strong></sub>, D<sub><strong>1</strong></sub>, and D<sub><strong>2</strong></sub>, the use of Method PCP is limited to one-story single-family dwellings and accessory structures.</text>
         </include>
       </para>
@@ -1474,12 +1474,12 @@
     <section>
       <num>23.08.100</num>
       <heading>SECTIONS 1505.1, 1505.1.3 ROOFING REQUIREMENTS AMENDED.</heading>
-      <include proof="true">
+      <include proof="needed">
         <text>The roof covering or roofing assembly on any structure regulated by this code shall be minimum Class B fire retardant as specified in Table 1505.1 and as classified in Section 1505.</text>
         <text>
           <table>
             <caption>TABLE 1505.1 Minimum Covering Classification for Types of Construction. TABLE 1505.1 MINIMUM ROOF COVERING CLASSIFICATION FOR TYPES OF CONSTRUCTION</caption>
-            <tr proof="true">
+            <tr proof="needed">
               <th>IA</th>
               <th>IB</th>
               <th>IIA</th>
@@ -1515,7 +1515,7 @@
       <num>23.08.120</num>
       <heading>SECTION 1705.3 CONCRETE CONSTRUCTION AMENDED.</heading>
       <text>Section 1705.3 is amended to read as follows:</text>
-      <include proof="true">
+      <include proof="needed">
         <section>
           <num>1705.3</num>
           <text>Concrete construction. The special inspections and verifications for concrete construction shall be as required by this section and Table 1705.3.</text>
@@ -1536,15 +1536,15 @@
     <section>
       <num>23.08.130</num>
       <heading>SECTION 1905.1.8 PLAIN CONCRETE IN EARTHQUAKE RESISTING STRUCTURES AMENDED.</heading>
-      <text proof="true">1905.1.8 ACI 318 Section 14.1.4. Delete ACI 318, Section 14.1.4, and replace with the following:</text>
-      <include proof="true">
+      <text proof="needed">1905.1.8 ACI 318 Section 14.1.4. Delete ACI 318, Section 14.1.4, and replace with the following:</text>
+      <include proof="needed">
         <para>
           <num>14.1.4</num>
           <text>- Plain concrete in structures assigned to Seismic Design Category C, D, E or F.</text>
           <para>
             <num>14.1.4.1-</num>
             <text>Structures assigned to Seismic Design Category C, D, E or F shall not have elements of structural plain concrete, except as follows:</text>
-            <text proof="true">
+            <text proof="needed">
               <s>(a)	Structural plain concrete basement, foundation or other walls below the base are permitted in detached one and two-family dwellings three stories or less in height constructed with stud bearing walls. In dwellings assigned to seismic design category D or E, the height of the wall shall not exceed 8 feet (2438 mm), the thickness shall not be less than 71/2 inches (190 mm), and the wall shall retain no more than 4 feet (1219 mm) of unbalanced fill. Walls shall have reinforcement in accordance with 22.6.6.5.</s>
             </text>
             <para>
@@ -1582,7 +1582,7 @@
       <num>23.08.150</num>
       <heading>SECTIONS 3109.1 SWIMMING POOL ENCLOSURES AND SAFETY DEVICES AMENDED.</heading>
       <text>Section 3109.1 is amended to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text><strong>Section 3109.1 General.</strong> Swimming pools shall comply with the requirements of Sections 3109.2 through 3109.6 and other applicable sections of this code.</text>
         <text><strong>Section 3109.1.1 Location. </strong>A swimming pool may be placed or constructed in any of the required yard areas provided the pool is constructed at ground level and provided the following setbacks are maintained:</text>
         <para>
@@ -1615,7 +1615,7 @@
       <num>23.08.160</num>
       <heading>SECTION 3109.4.1 BARRIER HEIGHT AND CLEARANCES AMENDED.</heading>
       <text>Section 3109.4.1 is amended as follows:</text>
-      <include proof="true">
+      <include proof="needed">
         <text><strong>Barrier height and clearances.</strong> The top of the barrier shall be not less than 60 inches above grade measured on the side of the barrier that faces away from the swimming pool. The vertical clearance between grade and the bottom of the barrier shall not be greater than 2 inches (51 mm) measured on the side of the barrier faces away from the swimming pool. Where the top of the structure is above grade, the barrier is authorized to be at the ground level or mounted on top of the pool structure, and the vertical clearance between the top of the pool structure and the bottom of the barrier shall not be greater than 4 inches (102 mm).</text>
       </include>
       <annotations>
@@ -1626,7 +1626,7 @@
       <num>23.08.170</num>
       <heading>SECTION 3109.6 POOL EQUIPMENT ENCLOSURE ADDED.</heading>
       <text>Section 3109.6 is added as follows:</text>
-      <include proof="true">
+      <include proof="needed">
         <text><strong>Pool Equipment Enclosure.</strong> Pumps and other swimming pool equipment which produce sound above the level of 35 dba shall not be located within twenty-five feet of any neighboring property unless such equipment is enclosed in an enclosure that will reduce the sound at the property line to a level of 35 dba or less. Swimming pool heaters need not be enclosed in a pool equipment enclosure.</text>
       </include>
       <annotations>
@@ -1698,7 +1698,7 @@
     <section>
       <num>23.10.012</num>
       <heading>SECTION A103—DEFINITIONS—AMENDED.</heading>
-      <include proof="true">
+      <include proof="needed">
         <para>
           <num>(a)</num>
           <text>HIGH RISK BUILDING: Any building (except essential and hazardous facilities listed in Section A102.2) having an occupant load of 100 or more, as determined by 2016 CBC Section 1004.</text>
@@ -1720,7 +1720,7 @@
       <num>23.10.014</num>
       <heading>ADMINISTRATION.</heading>
       <text>Section A105 is modified by adding the following:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>In addition to the procedures set forth in <cite path="23.06">Chapter 23.06</cite> Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in <cite path="23.10">this Chapter</cite>.</text>
         <para>
           <num>(a)</num>
@@ -1765,7 +1765,7 @@
       <num>23.10.016</num>
       <heading>TIME LIMITS FOR COMPLIANCE.</heading>
       <text>Section A105.1 is amended by adding the following:</text>
-      <include proof="true">
+      <include proof="needed">
         <para>
           <num>(b)</num>
           <heading>Time Limits for Compliance.</heading>
@@ -1890,7 +1890,7 @@
       <num>23.16.020</num>
       <heading>SECTION 719.0 CLEANOUTS.</heading>
       <text>Section 719.0 is amended by adding Section 719.7 as follows:</text>
-      <include proof="true">
+      <include proof="needed">
         <section>
           <num>719.7</num>
           <text>Cleanout. Cleanouts shall be installed adjacent to the property line where the private sewer system connects to the public sanitary sewer lateral and in conformance with the California Plumbing Code. All such line cleanouts shall be extended to grade with materials and according to specifications approved by the Director of Public Works, or designee, and terminate within a concrete box.</text>
@@ -1973,7 +1973,7 @@
       <num>23.24.020</num>
       <heading>LOCAL AMENDMENT FOR COOL ROOFS.</heading>
       <text>Section 110.8(i)1, Mandatory Requirements for Insulation, Roofing Products and Radiant Barriers is amended as follows:</text>
-      <include proof="true">
+      <include proof="needed">
         <para>
           <num>1.</num>
           <text>The requirements of Section 110.8(i)1 supersede the thermal emittance and aged solar reflectance requirements of Sections 140.1, 140.2, 140.3(a)1, 141.0(b)2B, 150.1(c)11, 150.2(b)1H or 150.2(b). A roofing product's thermal emittance and an aged solar reflectance shall be certified and labeled according to the requirements of Section 10-113, and meet the following requirements:</text>
@@ -1983,8 +1983,8 @@
             <para>
               <num>a.</num>
               <text>Low-sloped roofs shall have:</text>
-              <text proof="true">1.	A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
-              <text proof="true">2.	A minimum Solar Reflectance Index (SRI) of 85.</text>
+              <text proof="needed">1.	A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
+              <text proof="needed">2.	A minimum Solar Reflectance Index (SRI) of 85.</text>
               <text><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
               <text><strong>Exception 2</strong>: An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</text>
             </para>
@@ -1995,8 +1995,8 @@
             <para>
               <num>a.</num>
               <text>Low-sloped roofs shall have:</text>
-              <text proof="true">1.	A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
-              <text proof="true">2.	A minimum Solar Reflectance Index (SRI) of 85.</text>
+              <text proof="needed">1.	A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
+              <text proof="needed">2.	A minimum Solar Reflectance Index (SRI) of 85.</text>
               <text><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
               <text><strong>Exception 2</strong>: Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
             </para>
@@ -2017,7 +2017,7 @@
       <num>23.24.030</num>
       <heading>LOCAL AMENDMENT FOR MANDATORY SOLAR INSTALLATIONS.</heading>
       <text>Subchapter 2—All Occupancies—Mandatory Requirements for the Manufacture, Construction and Installation of Systems, Equipment, and Building Components is amended to include:</text>
-      <include proof="true">
+      <include proof="needed">
         <para>
           <num>A.</num>
           <text>Solar photovoltaic systems shall be installed on both non-residential and residential building types as follows:</text>
@@ -2115,7 +2115,7 @@
       <num>23.28.030</num>
       <heading>TITLE—AMENDED.</heading>
       <text>Section 101.1 "Title" is amended to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>These regulations shall be known as the 2016 California Fire Code, and with amendments adopted by the City of San Mateo, will be referred to herein as this "Code," and/or "Fire Code."</text>
       </include>
       <annotations>
@@ -2126,7 +2126,7 @@
       <num>23.28.040</num>
       <heading>POLICY MANUAL—AMENDED.</heading>
       <text>Section 101 "Scope and General Requirements" is amended to add subsection 101.6 "Policy Manual" to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>The Bureau of Fire Protection and Life Safety Policy Manual shall serve as a supplemental instruction and interpretation manual for the Fire Code and is hereby incorporated by reference. The Fire Marshal is responsible for amending this manual as necessary to maintain current instructions and interpretations.</text>
       </include>
       <annotations>
@@ -2145,7 +2145,7 @@
       <num>23.28.060</num>
       <heading>GENERAL DEFINITIONS—AMENDED.</heading>
       <text>Section 202 is amended to include the following additional definitions as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text><strong>All Weather Driving Surface. </strong>A roadway designed to carry the imposed weight loads of fire apparatus (Minimum load of 68,000 pounds) and a minimum surface finish of one layer of asphalt or concrete or road pavers.</text>
         <text><strong>Driveway.</strong> Access road from the public way to a structure that is used for public vehicular access, including fire and emergency vehicles.</text>
         <text><strong>Midrise. </strong>A building with four or more stories and/or occupied floors more than 40 feet above the lowest level of exit discharge.</text>
@@ -2158,7 +2158,7 @@
       <num>23.28.090</num>
       <heading>BUILDINGS AND FACILITIES—AMENDED.</heading>
       <text>Section 503.1.1 "Buildings and Facilities" is amended to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>Every building and facility shall be accessible to Fire Department apparatus by way of all-weather access roadways prior to combustible construction. The fire apparatus access roads shall comply with the requirements of this section and extend to within 150′ of all portions of the facility and all portions of the exterior walls of the first story of the building as measured by an approved route around the exterior of the building or facility. The access road shall have a minimum unobstructed width of 20′ and shall be required to have a minimum "first lift" of pavement applied which shall support the imposed load of a fire apparatus which is a minimum 68,000 pounds. The developer shall be required to provide the Fire Chief with a site plan showing the location, width, grades, and cross section of the proposed access roads to be used during construction. Building construction permits shall not be issued and combustible construction shall not be allowed on the site until the site plan is reviewed and approved and stamped by the Fire Department.</text>
         <text>
           <strong>Exceptions:</strong>
@@ -2192,7 +2192,7 @@
       <num>23.28.100</num>
       <heading>FIRE LANE DESIGNATION—ADDED.</heading>
       <text>Section 503.3 "Marking" is amended to include subsection 503.3.1 "Fire Lane Designation" to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>Designation of fire lanes shall be by one of the following means:</text>
         <para>
           <num>(a)</num>
@@ -2227,7 +2227,7 @@
       <num>23.28.110</num>
       <heading>ADDRESS IDENTIFICATION.</heading>
       <text>Section 505.l "Address Identification" is amended to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>New and existing buildings shall have approved address numbers, building numbers or approved building identification placed in a position that is plainly legible and visible from the street or road fronting the property. These numbers shall contrast with their background. Address numbers shall be Arabic numerals or alphabet letters. Said numbers shall be either internally or externally illuminated in all new construction. Numbers shall be as follows:</text>
         <para>
           <num>(a)</num>
@@ -2250,7 +2250,7 @@
       <num>23.28.120</num>
       <heading>ADDRESS IDENTIFICATION—MULTI-TENANT BUILDINGS—ADDED.</heading>
       <text>Section 505.l is amended to include subsection 505.1.1 "Multi-Tenant Building" to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>Numbers or letters shall be designated on all occupancies within a building. Size shall be one-half inch (1/2″) stroke by four inches (4″) high and on a contrasting background. Directional address numbers or letters shall be provided. Said addresses or numbers shall visible from the street posted at a minimum. height of 5 feet, 6 inches (5′ 6″) above the finished floor, shall be visible from the street and shall be either internally or externally illuminated in all new construction.</text>
       </include>
       <annotations>
@@ -2261,7 +2261,7 @@
       <num>23.28.130</num>
       <heading>ADDRESS IDENTIFICATION—REAR ADDRESSING—ADDED.</heading>
       <text>Section 505.1 is amended to include subsection 55.1.2 "Rear Addressing" to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>When required by the chief, approved numbers or addresses shall be placed on all new and existing buildings in such a position as to be plainly visible and legible from the fire apparatus road at the back of a property or where rear parking lots or alleys provide an acceptable vehicular access. Number stroke and size shall comply with Section 505.1.</text>
       </include>
       <annotations>
@@ -2272,7 +2272,7 @@
       <num>23.28.140</num>
       <heading>KEY BOX CONTENTS REQUIREMENTS—ADDED.</heading>
       <text>Section 506.1.1 "Locks" is amended to include subsection 506.1.1.1 "Key box contents requirements" to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>The keys provided shall be a master key to all spaces including multi-tenant spaces. Additional keys shall be included for card access, elevator control, fire alarm control panels, and fire sprinkler control valve access. If the business/operation is required to have a Hazardous Material Inventory Statement (HMIS), the HMIS shall be included in the key box.</text>
         <text>
           <strong>Exceptions:</strong>
@@ -2294,7 +2294,7 @@
       <num>23.28.145</num>
       <heading>GATES—ADDED.</heading>
       <text>Section 506.1.1 "Locks" is amended to include subsection 506.1.1.2 "Gates" to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>Where a new gate or barrier is installed on a fire access roadway, the fire department shall have emergency access. Gates or barriers shall have a wireless option for motorized gates or an approved key switch.</text>
         <text><strong>Exception:</strong> R-3 occupancies</text>
       </include>
@@ -2306,7 +2306,7 @@
       <num>23.28.150</num>
       <heading>RECORDS REPORTING—ADDED.</heading>
       <text>Section 901.6.2 "Records" is amended to include subsection 901.6.2.2 "Records Reporting" to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>Fire detection, alarm and extinguishing systems, shall be maintained in an operative condition at all times, and shall be replaced or repaired where defective. Non-required fire protection systems and equipment shall be inspected, tested, and maintained or removed. All inspection, testing and maintenance reports shall be forwarded to the Fire Department using electronic media. No paper (hard copy) reports shall be permitted.</text>
       </include>
       <annotations>
@@ -2317,7 +2317,7 @@
       <num>23.28.160</num>
       <heading>AUTOMATIC SPRINKLER SYSTEMS—WHERE REQUIRED—AMENDED.</heading>
       <text>Section 903.2 "Automatic Sprinkler Systems—Where Required" is amended to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>Approved automatic sprinkler systems shall be installed throughout all new buildings unless the structure does not require a building permit.</text>
         <text><strong>Exception:</strong> Detached Group U occupancies or carports less than 400 square feet.</text>
       </include>
@@ -2329,7 +2329,7 @@
       <num>23.28.170</num>
       <heading>NFPA 13R SPRINKLER SYSTEMS—AMENDED.</heading>
       <text>Section 903.3.1.2 "NFPA 13R sprinkler systems" is amended to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>Automatic sprinkler systems in Group R occupancies shall be installed throughout in accordance with NFPA 13 as amended in Chapter 80.</text>
         <text>
           <strong>Exception:</strong>
@@ -2347,7 +2347,7 @@
       <num>23.28.180</num>
       <heading>AUTOMATIC SPRINKLER SYSTEMS—EXISTING BUILDINGS AND STRUCTURES—ADDED.</heading>
       <text>Section 903.2 "Where required" is amended to included subsection 903.2.20 "Automatic Sprinkler Systems—Additions, Alterations, or repairs" to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>Proposed addition, alterations or repairs in existing non-sprinklered buildings over a three-year period exceeding 50% of the original gross floor area square footage shall require the entire building to be installed with an automatic fire sprinkler system. Buildings in existence as of January 1, 2017 shall install an automatic fire sprinkler system in existing buildings and structures, as follows;</text>
         <para>
           <num>(a)</num>
@@ -2368,7 +2368,7 @@
             <strong>Exceptions:</strong>
           </text>
         </para>
-        <para proof="true">
+        <para proof="needed">
           <num>1.</num>
           <text>Seismic or accessibility improvements.</text>
         </para>
@@ -2401,7 +2401,7 @@
       <num>23.28.190</num>
       <heading>FIRE CONTROL ROOM—ADDED.</heading>
       <text>Section 903.4 "Sprinkler system supervisions and alarms" is amended to add subsection 903.4.4 "Fire Control Room" to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>An approved fire control room shall be provided for all new buildings or occupancies with a change of use, requiring protection by an automatic fire sprinkler system. The room shall only contain all main system control valves, fire alarm control panels and other fire equipment required by the Fire Chief. Fire control rooms shall be located within the building at a location approved by the Fire Chief, and shall be provided with a means to access the room directly from the exterior. Durable signage shall be provided on the exterior side of the access door to identify the fire control room. Fire Control Rooms shall not be less than 35 square feet.</text>
         <text>
           <strong>Exceptions:</strong>
@@ -2427,7 +2427,7 @@
       <num>23.28.200</num>
       <heading>STANDPIPE SYSTEMS—REQUIRED INSTALLATIONS—AMENDED.</heading>
       <text>Section 905.3 "Required installations" is amended to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>Standpipe systems shall be installed throughout buildings two or more stories and in basements and as required in Sections 905.3.1 through 905.3.11.2. Standpipe systems shall be combined with automatic sprinkler system and provided 2 1/2″ caps fitted with 1 1/2″ reducers. The Fire Chief shall determine the requirements for additional outlets.</text>
       </include>
       <annotations>
@@ -2438,7 +2438,7 @@
       <num>23.28.210</num>
       <heading>FIRE ALARM CERTIFICATION—ADDED.</heading>
       <text>Section 907.1 "General" is amended to add subsection 907.1.6 "Fire Alarm Certification" to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>Commercial fire alarm systems shall be certified by an approved certifying agency.</text>
       </include>
       <annotations>
@@ -2449,7 +2449,7 @@
       <num>23.28.220</num>
       <heading>MIDRISE SMOKE CONTROL SYSTEMS—ADDED.</heading>
       <text>Section 909.1 is amended to add subsection 909.1.1 "Midrise Smoke Control Systems" to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>The requirements of this section are intended to establish basic requirements for controlling the movement of smoke within a midrise building (smoke management system). Additional requirements for high-rise buildings shall be as specified in the CBC. This section shall apply to all buildings housing A, B, E, I and R and occupancies which meet any of the following conditions:</text>
         <para>
           <num>(a)</num>
@@ -2462,7 +2462,7 @@
             <strong>Exceptions:</strong>
           </text>
         </para>
-        <para proof="true">
+        <para proof="needed">
           <num>1.</num>
           <text>Open parking garages.</text>
         </para>
@@ -2475,7 +2475,7 @@
       <num>23.28.230</num>
       <heading>CONVENIENCE STAIRWAYS—ADDED.</heading>
       <text>Section 1009.3 "Stairway" is amended to add subsection 1009.3.1 "Convenience Stairways" to read as shown below:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>Convenience stairways (in buildings four or more stories in height) that are not required as exits shall be limited to connect only two (2) floors.</text>
       </include>
       <annotations>
@@ -2486,7 +2486,7 @@
       <num>23.28.240</num>
       <heading>APPENDIX C, NUMBER AND DISTRIBUTION OF FIRE HYDRANTS—AMENDED.</heading>
       <text>Table C102.1 of Appendix C is amended to read as follows:</text>
-      <include proof="true">
+      <include proof="needed">
         <text>
           <center>
             <strong>TABLE NO. C102.1</strong>
@@ -2502,7 +2502,7 @@
         </text>
       </include>
       <text>Footnotes to Table C102.1 are amended to read as follows:</text>
-      <include proof="true">
+      <include proof="needed">
         <para>
           <num>a.</num>
           <text>Reduce by 100 feet for dead-end streets or roadways.</text>
@@ -2637,7 +2637,7 @@
     <section>
       <num>23.32.040</num>
       <heading>WATER FLOW REQUIREMENTS.</heading>
-      <text>When any land is to be developed in such a manner that any part of a proposed building or structure at grade level to be located thereon will be in excess of 300 feet from a fire hydrant located, or to be located prior to the completion of the building or structure, in a public street, alley, or place, or when any part of the building or structure is in excess of 150 feet from a public street or approved access roadway for fire apparatus as required by <cite path="23.30.060" proof="true">Section 23.30.060</cite>, the owner shall provide, at his or her expense, in the public street, alley or place, or on-site, such fire protection facilities and adequate water flow for fire protection as the Fire Chief deems necessary, in accordance with the Uniform Fire Code. All installations made in a public street, alley, or place shall be subject to the inspection of, and approval by, the City Engineer and subject to the conditions of an encroachment permit issued therefor. Whenever fire protection facilities, including but not limited to water mains and hydrant fixture, as required herein have been installed, extended, enlarged or expanded and any portion of the costs of which have been advanced by the City, a charge shall be collected prior to the issuance of a building permit for any building or structure on any parcel, unit, lot or part of any property served by fire protection facilities, which charge shall be computed by the City Engineer in an equitable manner so as to relate benefit received from said facilities to the actual cost thereof.</text>
+      <text>When any land is to be developed in such a manner that any part of a proposed building or structure at grade level to be located thereon will be in excess of 300 feet from a fire hydrant located, or to be located prior to the completion of the building or structure, in a public street, alley, or place, or when any part of the building or structure is in excess of 150 feet from a public street or approved access roadway for fire apparatus as required by <cite path="23.30.060" proof="needed">Section 23.30.060</cite>, the owner shall provide, at his or her expense, in the public street, alley or place, or on-site, such fire protection facilities and adequate water flow for fire protection as the Fire Chief deems necessary, in accordance with the Uniform Fire Code. All installations made in a public street, alley, or place shall be subject to the inspection of, and approval by, the City Engineer and subject to the conditions of an encroachment permit issued therefor. Whenever fire protection facilities, including but not limited to water mains and hydrant fixture, as required herein have been installed, extended, enlarged or expanded and any portion of the costs of which have been advanced by the City, a charge shall be collected prior to the issuance of a building permit for any building or structure on any parcel, unit, lot or part of any property served by fire protection facilities, which charge shall be computed by the City Engineer in an equitable manner so as to relate benefit received from said facilities to the actual cost thereof.</text>
       <annotations>
         <annotation type="History">prior code § 89.04</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1971-44" path="§1" type="History"/>
@@ -2722,7 +2722,7 @@
       <text>The access easements provided for in <cite path="23.32.070">Section 23.32.070</cite> shall be subject to the following provisions:</text>
       <para>
         <num>(1)</num>
-        <text><cite path="10.16.070" proof="true">Section 10.16.070</cite> shall be applicable to all on-site hydrants;</text>
+        <text><cite path="10.16.070" proof="needed">Section 10.16.070</cite> shall be applicable to all on-site hydrants;</text>
       </para>
       <para>
         <num>(2)</num>
@@ -3909,7 +3909,7 @@
               <th>SLOPE SETBACKS</th>
             </tr>
             <tr>
-              <td proof="true"/>
+              <td proof="needed"/>
               <th>Slope Height</th>
             </tr>
             <tr>
@@ -3920,7 +3920,7 @@
             <tr>
               <td>15% up to 25%</td>
               <td>15 feet from the top or toe of the slope.</td>
-              <td proof="true"/>
+              <td proof="needed"/>
             </tr>
             <tr>
               <td>Over 25% and up to 50%</td>
@@ -3930,7 +3930,7 @@
             <tr>
               <td>Over 50%</td>
               <td>The greater of either: 15 feet; the diagonal distance of 3 horizontal to 1 vertical measured from the toe of the slope; or a distance equal to two times the slope height from the top of the slope or one times the slope height from the toe of the slope.</td>
-              <td proof="true"/>
+              <td proof="needed"/>
             </tr>
           </table>
         </text>
@@ -4016,11 +4016,11 @@
                 <th>Planning Commission</th>
               </tr>
               <tr>
-                <td proof="true">
+                <td proof="needed">
                   <p>•	Grading, where the aggregate volume does not exceed 5,000 cubic yards and the site development is not occurring on slopes greater than 25% or within the setbacks from such slopes.</p>
                   <p>•	Removal of major vegetation from property which has been previously developed and/or subdivided and which is being redeveloped or more intensely used.</p>
                 </td>
-                <td proof="true">
+                <td proof="needed">
                   <p>•	Grading, where the aggregate volume exceeds 5,000 cubic yards and/or the proposed grading (cut/fill) exceeds 5 feet (height/depth) at its maximum point.</p>
                   <p>•	Site development occurring on slopes greater than 25% or within slope setbacks.</p>
                   <p>•	Removal of major vegetation from previously undeveloped and/or unsubdivided acreage, or land which is to be resubdivided.</p>
@@ -4058,7 +4058,7 @@
           </para>
           <para>
             <num>(G)</num>
-            <text>The location of all major vegetation and heritage trees as defined by <cite path="23.40.070" proof="true">Section 23.40.070</cite> and <cite path="10.52.020" proof="true">Section 10.52.020</cite>, respectively, together with an indication of those which must be removed;</text>
+            <text>The location of all major vegetation and heritage trees as defined by <cite path="23.40.070" proof="needed">Section 23.40.070</cite> and <cite path="10.52.020" proof="needed">Section 10.52.020</cite>, respectively, together with an indication of those which must be removed;</text>
           </para>
           <para>
             <num>(H)</num>
@@ -4226,7 +4226,7 @@
           </para>
           <para>
             <num>(J)</num>
-            <text>The report from the Director of Parks and Recreation with respect to heritage trees pursuant to <cite path="10.52.040" proof="true">Section 10.52.040</cite>;</text>
+            <text>The report from the Director of Parks and Recreation with respect to heritage trees pursuant to <cite path="10.52.040" proof="needed">Section 10.52.040</cite>;</text>
           </para>
           <para>
             <num>(K)</num>
@@ -5404,7 +5404,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Exterior sliding commercial entrances shall be secured as in <cite path="2.54.080|(a)|(2)" proof="true">section 2.54.080(a)(2)</cite> and shall comply with fire and safety regulations.</text>
+          <text>Exterior sliding commercial entrances shall be secured as in <cite path="2.54.080|(a)|(2)" proof="needed">section 2.54.080(a)(2)</cite> and shall comply with fire and safety regulations.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -6298,7 +6298,7 @@
       <num>23.70.020</num>
       <heading>LOCAL AMENDMENT FOR LAUNDRY-TO-LANDSCAPE READY INFRASTRUCTURE.</heading>
       <text>The California Green Building Standards Code, 2016 Edition, Section 4.305, Water Reuse Systems is amended as follows:</text>
-      <include proof="true">
+      <include proof="needed">
         <para>
           <num>1.</num>
           <text><u>Laundry-to-Landscape Infrastructure</u>: Any new one-family dwelling shall install a three-way diverter valve at the drain line of all laundry fixtures intended for optional installation of a laundry-to-landscape irrigation system.</text>
@@ -6316,7 +6316,7 @@
       <num>23.70.030</num>
       <heading>LOCAL AMENDMENT FOR ELECTRIC VEHICLE CHARGING FOR NEW MULTIFAMILY RESIDENTIAL CONSTRUCTION.</heading>
       <text>The California Green Building Standards Code, 2016 Edition, Section 4.106.4.2, Electric vehicle (EV) charging space requirements for new multifamily dwellings is amended to include: (a) standards for new multifamily dwellings containing three to 16 units, and (b) increased standards for new multifamily dwellings containing 17 or more units as follows:</text>
-      <include proof="true">
+      <include proof="needed">
         <para>
           <num>(a)</num>
           <text>New multifamily dwellings containing three to 16 units: Where between three to 16 multifamily dwelling units are constructed on a building site, at least one space shall be an electric vehicle charging space (EV space) capable of supporting future electric vehicle supply equipment (EVSE).</text>
@@ -6335,7 +6335,7 @@
       <num>23.70.040</num>
       <heading>LOCAL AMENDMENT FOR ELECTRIC VEHICLE CHARGING FOR NEW NONRESIDENTIAL CONSTRUCTION.</heading>
       <text>The California Green Building Standards Code, 2016 Edition, Section 5.106.5.3.3 EV charging space calculation is amended to include the nonresidential/commercial voluntary Tier 2 Measure for EV charging space calculation per Section A5.106.5.3.3 as follows:</text>
-      <include proof="true">
+      <include proof="needed">
         <para>
           <num>(a)</num>
           <heading>New Nonresidential Construction.</heading>
@@ -6381,7 +6381,7 @@
               </tr>
             </table>
           </text>
-          <text proof="true">1.	Calculation for spaces shall be rounded up to the nearest whole number.</text>
+          <text proof="needed">1.	Calculation for spaces shall be rounded up to the nearest whole number.</text>
         </para>
       </include>
       <text><u>Note</u>: Projects shall reference the California Green Building Code, 2016 Edition, Section 5.106.5.3 and California Electrical Code for definitions and requirements related to electric vehicle charging spaces.</text>
@@ -7032,15 +7032,15 @@ controller may also function as a landscape water meter or submeter.</text>
           <num>(2)</num>
           <text>MAWA = (ETo) [(0.45 x LA) = (0.55 x SLA)] for nonresidential areas</text>
         </para>
-        <aftertext proof="true">Where:</aftertext>
-        <aftertext proof="true">MAWA = Maximum applied water allowance (gallons per year)</aftertext>
-        <aftertext proof="true">ETo = Reference evapotranspiration (inches per year)</aftertext>
-        <aftertext proof="true">0.62 = Conversion factor (to gallons)</aftertext>
-        <aftertext proof="true">0.55 = Reference evapotranspiration adjustment factor (ETAF) for residential area</aftertext>
-        <aftertext proof="true">0.45 = Reference evapotranspiration adjustment factor (ETAF) for nonresidential areas</aftertext>
-        <aftertext proof="true">LA = Landscape area including SLA in residential areas</aftertext>
-        <aftertext proof="true">0.3 = Additional water allowance for SLA in nonresidential areas</aftertext>
-        <aftertext proof="true">SLA = Special landscape area (square feet).</aftertext>
+        <aftertext proof="needed">Where:</aftertext>
+        <aftertext proof="needed">MAWA = Maximum applied water allowance (gallons per year)</aftertext>
+        <aftertext proof="needed">ETo = Reference evapotranspiration (inches per year)</aftertext>
+        <aftertext proof="needed">0.62 = Conversion factor (to gallons)</aftertext>
+        <aftertext proof="needed">0.55 = Reference evapotranspiration adjustment factor (ETAF) for residential area</aftertext>
+        <aftertext proof="needed">0.45 = Reference evapotranspiration adjustment factor (ETAF) for nonresidential areas</aftertext>
+        <aftertext proof="needed">LA = Landscape area including SLA in residential areas</aftertext>
+        <aftertext proof="needed">0.3 = Additional water allowance for SLA in nonresidential areas</aftertext>
+        <aftertext proof="needed">SLA = Special landscape area (square feet).</aftertext>
       </para>
       <para>
         <num>(g)</num>
@@ -7069,7 +7069,7 @@ controller may also function as a landscape water meter or submeter.</text>
         <text>PF = Plant factor from WUCOLS</text>
         <text>HA = Hydrozone area (high, medium, and low water use areas) (square feet)</text>
         <text>SLA = Special landscape area (square feet)</text>
-        <text proof="true">0.62 = Conversion factor</text>
+        <text proof="needed">0.62 = Conversion factor</text>
         <text>IE = Irrigation efficiency (minimum 0.70) equals 0.75 for overhead spray devices and 0.81 for drip system devices</text>
       </para>
       <annotations>
@@ -7260,7 +7260,7 @@ controller may also function as a landscape water meter or submeter.</text>
         </para>
         <para>
           <num>(14)</num>
-          <text>Bear the signature of a licensed landscape architect, licensed landscape contractor, or any other person authorized to design a landscape. (See Sections <cite doc="Cal. Bus. &amp; Prof. Code" path="§5500.1">5500.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615">5615</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641">5641</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.1">5641.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.2">5641.2</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.3">5641.3</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.4">5641.4</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.5">5641.5</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.6">5641.6</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§6701">6701</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5">7027.5</cite> of the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite>, Section 832.27 of <cite path="16">Title 16</cite> of the California Code of Regulations, and Section 6721 of the Food and Agriculture Code.)</text>
+          <text>Bear the signature of a licensed landscape architect, licensed landscape contractor, or any other person authorized to design a landscape. (See Sections <cite doc="Cal. Bus. &amp; Prof. Code" path="§5500.1">5500.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615">5615</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641">5641</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.1">5641.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.2">5641.2</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.3">5641.3</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.4">5641.4</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.5">5641.5</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.6">5641.6</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§6701">6701</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5">7027.5</cite> of the <cite doc="Cal. Bus. &amp; Prof. Code" proof="needed">Business and Professions Code</cite>, Section 832.27 of <cite path="16">Title 16</cite> of the California Code of Regulations, and Section 6721 of the Food and Agriculture Code.)</text>
         </para>
       </para>
       <annotations>
@@ -7460,7 +7460,7 @@ controller may also function as a landscape water meter or submeter.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>The signature of a licensed landscape architect, certified irrigation designer, licensed landscape contractor, or any other person authorized to design an irrigation system. (See Sections <cite doc="Cal. Bus. &amp; Prof. Code" path="§5500.1">5500.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615">5615</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641">5641</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.1">5641.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.2">5641.2</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.3">5641.3</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.4">5641.4</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.5">5641.5</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.6">5641.6</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§6701">6701</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5">7027.5</cite> of the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite>, Section 832.27 of <cite path="16">Title 16</cite> of the California Code of Regulations, and <cite doc="Cal. Food &amp; Agric. Code" path="§6721">Section 6721 of the Food and Agricultural Code</cite>.)</text>
+          <text>The signature of a licensed landscape architect, certified irrigation designer, licensed landscape contractor, or any other person authorized to design an irrigation system. (See Sections <cite doc="Cal. Bus. &amp; Prof. Code" path="§5500.1">5500.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615">5615</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641">5641</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.1">5641.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.2">5641.2</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.3">5641.3</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.4">5641.4</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.5">5641.5</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.6">5641.6</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§6701">6701</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5">7027.5</cite> of the <cite doc="Cal. Bus. &amp; Prof. Code" proof="needed">Business and Professions Code</cite>, Section 832.27 of <cite path="16">Title 16</cite> of the California Code of Regulations, and <cite doc="Cal. Food &amp; Agric. Code" path="§6721">Section 6721 of the Food and Agricultural Code</cite>.)</text>
         </para>
       </para>
       <annotations>

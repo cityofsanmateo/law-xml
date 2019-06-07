@@ -12,7 +12,7 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>Municipal Code <cite doc="City of San Mateo, Cal., Code" path="11.40.050" proof="true">section 11.40.050</cite> currently prohibits parking on any street for longer than 30 minutes between the hour of two a.m. and four a.m. of any day; and</text>
+      <text>Municipal Code <cite doc="City of San Mateo, Cal., Code" path="11.40.050" proof="needed">section 11.40.050</cite> currently prohibits parking on any street for longer than 30 minutes between the hour of two a.m. and four a.m. of any day; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -33,7 +33,7 @@
   </recitals>
   <section>
     <num>1</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="11.40.050" proof="true">Section 11.40.050</cite>, "All Night Parking Prohibited", is deleted.</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="11.40.050" proof="needed">Section 11.40.050</cite>, "All Night Parking Prohibited", is deleted.</text>
   </section>
   <section>
     <num>2</num>

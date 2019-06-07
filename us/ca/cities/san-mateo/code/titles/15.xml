@@ -3,7 +3,7 @@
   <prefix>Title</prefix>
   <num>15</num>
   <heading>PUBLIC UTILITIES</heading>
-  <annotation type="Editor's Notes">For the statutory provisions regarding public utilities in general see the <cite doc="Cal. Pub. Util. Code" proof="true">California Public Utilities Code</cite>. For the provisions regarding the granting of franchises by local governments see Cal. Pub. U.C. § 6001 et seq.</annotation>
+  <annotation type="Editor's Notes">For the statutory provisions regarding public utilities in general see the <cite doc="Cal. Pub. Util. Code" proof="needed">California Public Utilities Code</cite>. For the provisions regarding the granting of franchises by local governments see Cal. Pub. U.C. § 6001 et seq.</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>15.04</num>
@@ -625,7 +625,7 @@
     <section>
       <num>15.25.010</num>
       <heading>PURPOSES AND IMPLEMENTATION.</heading>
-      <text>The purpose of <cite path="15.25">this chapter</cite> is to set forth regulations for the provision of video service by state franchise holders, in accordance with the Digital Infrastructure and Video Competition Act, <cite doc="Cal. Pub. Util. Code" proof="true">California Public Utilities Code</cite> sections <cite doc="Cal. Pub. Util. Code" path="§5800">5800</cite>-<cite doc="Cal. Pub. Util. Code" path="§5970">5970</cite> ("DIVCA"). <cite path="15.25">This chapter</cite> applies to video service providers operating within the City pursuant to a valid state franchise.</text>
+      <text>The purpose of <cite path="15.25">this chapter</cite> is to set forth regulations for the provision of video service by state franchise holders, in accordance with the Digital Infrastructure and Video Competition Act, <cite doc="Cal. Pub. Util. Code" proof="needed">California Public Utilities Code</cite> sections <cite doc="Cal. Pub. Util. Code" path="§5800">5800</cite>-<cite doc="Cal. Pub. Util. Code" path="§5970">5970</cite> ("DIVCA"). <cite path="15.25">This chapter</cite> applies to video service providers operating within the City pursuant to a valid state franchise.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-8" path="§1" type="History"/>
       </annotations>
@@ -721,7 +721,7 @@
       <heading>CUSTOMER SERVICE AND PROTECTION.</heading>
       <para>
         <num>(a)</num>
-        <text>A state franchise holder shall comply with Sections <cite doc="Cal. Gov't Code" path="§53055">53055</cite>, <cite doc="Cal. Gov't Code" path="§53055.1">53055.1</cite>, <cite doc="Cal. Gov't Code" path="§53055.2">53055.2</cite> and <cite doc="Cal. Gov't Code" path="§53088.2">53088.2</cite> of the <cite doc="Cal. Gov't Code" proof="true">California Government Code</cite>; the FCC customer service and notice standards set forth in Sections 76.309, 76.1602, 76.1603 and 76.1619 of <cite path="47" proof="true">Title 47</cite> of the Code of Federal Regulations; <cite doc="Cal. Penal Code" path="§637.5">Section 637.5 of the California Penal Code</cite>; the privacy standards of Section 551 of <cite path="47" proof="true">Title 47</cite> of the United States Code; and all other applicable state and federal customer service and consumer protection standards pertaining to the provision of video service, including any such standards hereafter adopted. In case of a conflict, the stricter standard shall apply. All customer service and consumer protection standards under this paragraph shall be interpreted and applied to accommodate newer or different technologies while meeting or exceeding the goals of the standards.</text>
+        <text>A state franchise holder shall comply with Sections <cite doc="Cal. Gov't Code" path="§53055">53055</cite>, <cite doc="Cal. Gov't Code" path="§53055.1">53055.1</cite>, <cite doc="Cal. Gov't Code" path="§53055.2">53055.2</cite> and <cite doc="Cal. Gov't Code" path="§53088.2">53088.2</cite> of the <cite doc="Cal. Gov't Code" proof="needed">California Government Code</cite>; the FCC customer service and notice standards set forth in Sections 76.309, 76.1602, 76.1603 and 76.1619 of <cite path="47" proof="needed">Title 47</cite> of the Code of Federal Regulations; <cite doc="Cal. Penal Code" path="§637.5">Section 637.5 of the California Penal Code</cite>; the privacy standards of Section 551 of <cite path="47" proof="needed">Title 47</cite> of the United States Code; and all other applicable state and federal customer service and consumer protection standards pertaining to the provision of video service, including any such standards hereafter adopted. In case of a conflict, the stricter standard shall apply. All customer service and consumer protection standards under this paragraph shall be interpreted and applied to accommodate newer or different technologies while meeting or exceeding the goals of the standards.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -852,7 +852,7 @@
           <num>(3)</num>
           <text>Both.</text>
         </para>
-        <aftertext proof="true">A uniform false alarm fee for police Department response shall be established by resolution of the City Council. Any false alarm that occurs during the first two weeks after original installation of the alarm system involved shall not be counted against the false alarm count if the owner of the premises or the person responsible for the installation of the system has notified the Police Department of the installation within ten (10) days of completion of the installation. Upon determination that an alarm is false, the Chief of Police or designated representative will notify the owner of the premises in writing; this requirement is met if a written notice is posted at the property involved. If the Chief of Police determines that the Police Department will no longer respond to activated alarms at the premises concerned, the Chief will notify the owner of the premises in writing.</aftertext>
+        <aftertext proof="needed">A uniform false alarm fee for police Department response shall be established by resolution of the City Council. Any false alarm that occurs during the first two weeks after original installation of the alarm system involved shall not be counted against the false alarm count if the owner of the premises or the person responsible for the installation of the system has notified the Police Department of the installation within ten (10) days of completion of the installation. Upon determination that an alarm is false, the Chief of Police or designated representative will notify the owner of the premises in writing; this requirement is met if a written notice is posted at the property involved. If the Chief of Police determines that the Police Department will no longer respond to activated alarms at the premises concerned, the Chief will notify the owner of the premises in writing.</aftertext>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1976-40" path="§1" type="History"/>
@@ -899,7 +899,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The service agreement may provide that the alarm system contractor shall bill the owner of the nuisance alarm in not more than a reasonable amount for services in silencing the nuisance alarm. The owner of the nuisance alarm is liable to the City's alarm system contractor in a reasonable sum for his or her services in silencing the nuisance alarm. Should the owner fail to pay the sum due the contractor for his or her services, the City may pay the contractor for his or her services, and the City Manager may cause the amount of the payment to become a lien on the owner's property through the procedures provided by <cite path="10.08" proof="true">Chapter 10.08</cite> of this Code.</text>
+        <text>The service agreement may provide that the alarm system contractor shall bill the owner of the nuisance alarm in not more than a reasonable amount for services in silencing the nuisance alarm. The owner of the nuisance alarm is liable to the City's alarm system contractor in a reasonable sum for his or her services in silencing the nuisance alarm. Should the owner fail to pay the sum due the contractor for his or her services, the City may pay the contractor for his or her services, and the City Manager may cause the amount of the payment to become a lien on the owner's property through the procedures provided by <cite path="10.08" proof="needed">Chapter 10.08</cite> of this Code.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1976-40" path="§1" type="History"/>

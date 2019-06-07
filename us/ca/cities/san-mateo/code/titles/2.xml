@@ -97,7 +97,7 @@
     <prefix>Chapter</prefix>
     <num>2.15</num>
     <heading>LIBRARY BOARD</heading>
-    <annotation type="Editor's Notes">For the relevant provisions of the City charter see §§ 4.12 and 6.01-6.03. For relevant state statutes regarding the administration of public libraries see part 4, Div. 20, Chapter 3 West's <cite doc="Cal. Educ. Code" proof="true">Cal. Educ. C.A.</cite></annotation>
+    <annotation type="Editor's Notes">For the relevant provisions of the City charter see §§ 4.12 and 6.01-6.03. For relevant state statutes regarding the administration of public libraries see part 4, Div. 20, Chapter 3 West's <cite doc="Cal. Educ. Code" proof="needed">Cal. Educ. C.A.</cite></annotation>
     <section>
       <num>2.15.010</num>
       <heading>ORGANIZATION—POWERS—DUTIES.</heading>
@@ -538,10 +538,10 @@
     <prefix>Chapter</prefix>
     <num>2.36</num>
     <heading>FIRE DEPARTMENT</heading>
-    <annotation type="Editor's Notes">For provisions relating to burning outside, see <cite path="10.24" proof="true">Chapter 10.24</cite>.</annotation>
+    <annotation type="Editor's Notes">For provisions relating to burning outside, see <cite path="10.24" proof="needed">Chapter 10.24</cite>.</annotation>
     <annotation type="Editor's Notes">For provisions relating to combustible containers, see <cite path="7.32">Chapter 7.32</cite>.</annotation>
     <annotation type="Editor's Notes">For provisions relating to fire prevention, see <cite path="10.16">Chapter 10.16</cite>.</annotation>
-    <annotation type="Editor's Notes">For provisions relating to fireworks, see <cite path="10.28" proof="true">Chapter 10.28</cite>.</annotation>
+    <annotation type="Editor's Notes">For provisions relating to fireworks, see <cite path="10.28" proof="needed">Chapter 10.28</cite>.</annotation>
     <annotation type="Editor's Notes">For provisions relating to fire protection facilities, see <cite path="23.32">Chapter 23.32</cite>.</annotation>
     <annotation type="Editor's Notes">For provisions relating to building fire standards, see <cite path="23.28">Chapter 23.28</cite>.</annotation>
     <section>
@@ -614,7 +614,7 @@
     <heading>POLICE DEPARTMENT</heading>
     <annotation type="Editor's Notes">For the relevant provisions of the City charter see §§ 3.04 and 4.01.</annotation>
     <annotation type="Editor's Notes">For provisions relating to private patrols, see <cite path="5.57">Chapter 5.57</cite>.</annotation>
-    <annotation type="Editor's Notes">For provisions relating to press identification cards, see <cite path="5.54" proof="true">Chapter 5.54</cite>.</annotation>
+    <annotation type="Editor's Notes">For provisions relating to press identification cards, see <cite path="5.54" proof="needed">Chapter 5.54</cite>.</annotation>
     <section>
       <num>2.39.010</num>
       <heading>DEFINITIONS.</heading>
@@ -1255,7 +1255,7 @@
     <prefix>Chapter</prefix>
     <num>2.66</num>
     <heading>RETIREMENT SYSTEM</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding the election by the City to belong to the State Employees' Retirement System see West's Cal. C.A. §§ 20450 et seq. For the provisions regarding the State Employees' Retirement System generally see West's <cite doc="Cal. Gov't Code" proof="true">Cal. Gov. C.A.</cite> §§ 20000 et seq.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding the election by the City to belong to the State Employees' Retirement System see West's Cal. C.A. §§ 20450 et seq. For the provisions regarding the State Employees' Retirement System generally see West's <cite doc="Cal. Gov't Code" proof="needed">Cal. Gov. C.A.</cite> §§ 20000 et seq.</annotation>
     <section>
       <num>2.66.010</num>
       <heading>ADOPTION OF STATE SYSTEM.</heading>
@@ -1364,8 +1364,8 @@
     <num>2.75</num>
     <heading>FUNDS</heading>
     <annotation type="Editor's Notes">For the relevant provision of the City charter with regard to handling of city funds see §§ 5.08 and 5.10.</annotation>
-    <annotation type="Editor's Notes">For provisions relating to street fund—Vehicle tax, see <cite path="5.78" proof="true">Chapter 5.78</cite> of this code.</annotation>
-    <annotation type="Editor's Notes">For provisions relating to general fund—Dog licenses, see <cite path="8.16" proof="true">Chapter 8.16</cite> of this code.</annotation>
+    <annotation type="Editor's Notes">For provisions relating to street fund—Vehicle tax, see <cite path="5.78" proof="needed">Chapter 5.78</cite> of this code.</annotation>
+    <annotation type="Editor's Notes">For provisions relating to general fund—Dog licenses, see <cite path="8.16" proof="needed">Chapter 8.16</cite> of this code.</annotation>
     <section>
       <num>2.75.010</num>
       <heading>ESTABLISHMENT.</heading>
@@ -1448,7 +1448,7 @@
       <num>2.75.100</num>
       <heading>GAS TAX FUND.</heading>
       <text>To comply with the provisions of Article V of Chapter 1 of Division <cite doc="Cal. Sts. &amp; High. Code" path="§1">1 of the Streets and Highways Code</cite>, with particular reference to the amendments made thereto by Chapter 642, Statutes of 1935, there shall be maintained in the City treasury the special fund to be known as the "special gas tax street improvement fund" heretofore created.</text>
-      <text>All moneys received by the City from the state under the provisions of the <cite doc="Cal. Sts. &amp; High. Code" proof="true">Streets and Highways Code</cite> now or hereafter provided by general law, for the acquisition of real property or interests therein, or the construction, maintenance or improvement of streets or highways, other than state highways, in the City, shall be paid into said fund.</text>
+      <text>All moneys received by the City from the state under the provisions of the <cite doc="Cal. Sts. &amp; High. Code" proof="needed">Streets and Highways Code</cite> now or hereafter provided by general law, for the acquisition of real property or interests therein, or the construction, maintenance or improvement of streets or highways, other than state highways, in the City, shall be paid into said fund.</text>
       <annotations>
         <annotation type="History">prior code § 11.09</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1975-6" path="§2" type="History"/>

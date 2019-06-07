@@ -7,7 +7,7 @@
     <prefix>Chapter</prefix>
     <num>11.04</num>
     <heading>GENERAL PROVISIONS</heading>
-    <annotation type="Editor's Notes">For statutory provisions regarding the regulation of traffic by local authorities, see <cite doc="Cal. Veh. Code" path="§21100">Cal. Veh. C.A. § 21100</cite> et seq. For the general State laws regarding the use an operation of motor vehicles upon the highways of the state see the <cite doc="Cal. Veh. Code" proof="true">California Vehicle Code</cite>.</annotation>
+    <annotation type="Editor's Notes">For statutory provisions regarding the regulation of traffic by local authorities, see <cite doc="Cal. Veh. Code" path="§21100">Cal. Veh. C.A. § 21100</cite> et seq. For the general State laws regarding the use an operation of motor vehicles upon the highways of the state see the <cite doc="Cal. Veh. Code" proof="needed">California Vehicle Code</cite>.</annotation>
     <section>
       <num>11.04.010</num>
       <heading>POLICE OFFICERS—DUTIES.</heading>
@@ -52,7 +52,7 @@
       <heading>EXEMPTIONS.</heading>
       <para>
         <num>(a)</num>
-        <text>The provisions of <cite path="11">this title</cite> regulating the operation, parking and standing of vehicles shall not apply to any vehicle of the police or fire department, any public ambulance, or any public utility vehicle, or any private ambulance, which public utility vehicle or private ambulance has qualified as an authorized emergency vehicle, when any vehicle mentioned in this section is operated in the manner specified in the <cite doc="Cal. Veh. Code" proof="true">vehicle code</cite> in response to an emergency call.</text>
+        <text>The provisions of <cite path="11">this title</cite> regulating the operation, parking and standing of vehicles shall not apply to any vehicle of the police or fire department, any public ambulance, or any public utility vehicle, or any private ambulance, which public utility vehicle or private ambulance has qualified as an authorized emergency vehicle, when any vehicle mentioned in this section is operated in the manner specified in the <cite doc="Cal. Veh. Code" proof="needed">vehicle code</cite> in response to an emergency call.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -90,7 +90,7 @@
     <section>
       <num>11.08.010</num>
       <heading>VEHICLE CODE DEFINITIONS.</heading>
-      <text>Whenever any word or phrase used herein is not defined here but is now defined in the <cite doc="Cal. Veh. Code" proof="true">Vehicle Code</cite> of this state, such definitions are incorporated herein and shall be deemed to apply to such word and phrase used herein.</text>
+      <text>Whenever any word or phrase used herein is not defined here but is now defined in the <cite doc="Cal. Veh. Code" proof="needed">Vehicle Code</cite> of this state, such definitions are incorporated herein and shall be deemed to apply to such word and phrase used herein.</text>
       <annotations>
         <annotation type="History">Prior code § 73.03</annotation>
       </annotations>
@@ -197,7 +197,7 @@
     <prefix>Chapter</prefix>
     <num>11.12</num>
     <heading>DRIVING RULES</heading>
-    <annotation type="Editor's Notes">For statutory provisions prohibiting driving on sidewalks, see <cite doc="Cal. Veh. Code" path="§21663">Cal. Veh. C.A. § 21663</cite>; for the provisions regarding interference with Fire Apparatus, see <cite doc="Cal. Veh. Code" proof="true">Cal. Veh. C.A.</cite> §§ <cite doc="Cal. Veh. Code" path="§21706">21706</cite>-<cite doc="Cal. Veh. Code" path="§21708">21708</cite>; for the provision regarding the seating of passengers on a motorcycle, see <cite doc="Cal. Veh. Code" path="§27800">Cal. Veh. C.A. § 27800</cite>.</annotation>
+    <annotation type="Editor's Notes">For statutory provisions prohibiting driving on sidewalks, see <cite doc="Cal. Veh. Code" path="§21663">Cal. Veh. C.A. § 21663</cite>; for the provisions regarding interference with Fire Apparatus, see <cite doc="Cal. Veh. Code" proof="needed">Cal. Veh. C.A.</cite> §§ <cite doc="Cal. Veh. Code" path="§21706">21706</cite>-<cite doc="Cal. Veh. Code" path="§21708">21708</cite>; for the provision regarding the seating of passengers on a motorcycle, see <cite doc="Cal. Veh. Code" path="§27800">Cal. Veh. C.A. § 27800</cite>.</annotation>
     <section>
       <num>11.12.010</num>
       <heading>DRIVING THROUGH FUNERAL PROCESSION.</heading>
@@ -420,7 +420,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>To mark lanes for traffic on street pavements at such places as he or she may deem advisable, consistent with the <cite doc="Cal. Veh. Code" proof="true">vehicle code</cite> and traffic ordinances of this city.</text>
+        <text>To mark lanes for traffic on street pavements at such places as he or she may deem advisable, consistent with the <cite doc="Cal. Veh. Code" proof="needed">vehicle code</cite> and traffic ordinances of this city.</text>
       </para>
       <annotations>
         <annotation type="History">Prior code § 73.12</annotation>
@@ -490,7 +490,7 @@
       <num>11.24.030</num>
       <heading>SCHEDULE.</heading>
       <text>In accordance with <cite path="11.24.020">Section 11.24.020</cite>, and when signs are erected giving notice thereof, traffic shall move only in the direction stated, on the following streets, or portions of streets, namely:</text>
-      <para proof="true">
+      <para proof="needed">
         <num>(2)</num>
         <text>Railroad Avenue, west of the Southern Pacific right-of-way, from Third Avenue to Fifth Avenue, in a southerly direction;</text>
       </para>
@@ -914,7 +914,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Blue means no standing or parking except by vehicles which display a distinguishing license plate or a placard issued pursuant to Section 2251.5 ("Disabled Persons' Exemption"), or Section 9105 ("Disabled or Blind Veterans"), of the <cite doc="Cal. Veh. Code" proof="true">California Vehicle Code</cite>.</text>
+          <text>Blue means no standing or parking except by vehicles which display a distinguishing license plate or a placard issued pursuant to Section 2251.5 ("Disabled Persons' Exemption"), or Section 9105 ("Disabled or Blind Veterans"), of the <cite doc="Cal. Veh. Code" proof="needed">California Vehicle Code</cite>.</text>
         </para>
       </para>
       <para>
@@ -1039,7 +1039,7 @@
     <section>
       <num>11.36.020</num>
       <heading>ANGLE PARKING.</heading>
-      <text>The City Manager is authorized to determine those streets upon which angle parking is permitted (other than state highways where such parking is prohibited by the State <cite doc="Cal. Veh. Code" proof="true">Vehicle Code</cite>) and shall indicate all such places by placing white lines upon the surface of the roadway indicating the angle at which parking is permitted:</text>
+      <text>The City Manager is authorized to determine those streets upon which angle parking is permitted (other than state highways where such parking is prohibited by the State <cite doc="Cal. Veh. Code" proof="needed">Vehicle Code</cite>) and shall indicate all such places by placing white lines upon the surface of the roadway indicating the angle at which parking is permitted:</text>
       <para>
         <num>(1)</num>
         <text>All angle parking shall be made with the right-hand wheel of the vehicle within eighteen inches of the curb line of the street or roadway;</text>
@@ -1238,7 +1238,7 @@
       <heading>ILLEGAL PARKING—REMOVAL OR TOWING OF VEHICLE.</heading>
       <para>
         <num>(a)</num>
-        <text>The owner or person in lawful possession of any private property may, subsequent to giving notice to the Police Department of the City, cause the removal of the vehicle parked on such property to the nearest public garage or other place of safety, if there is displayed in plain view on the property a sign prohibiting public parking and containing the telephone number of the Police Department of the City. The person causing the removal of such vehicle shall comply with the requirements of Chapter 10 of Division 11 (beginning with Section 22650) of the <cite doc="Cal. Veh. Code" proof="true">Vehicle Code</cite> of the State relating to notice when removing a vehicle from private property.</text>
+        <text>The owner or person in lawful possession of any private property may, subsequent to giving notice to the Police Department of the City, cause the removal of the vehicle parked on such property to the nearest public garage or other place of safety, if there is displayed in plain view on the property a sign prohibiting public parking and containing the telephone number of the Police Department of the City. The person causing the removal of such vehicle shall comply with the requirements of Chapter 10 of Division 11 (beginning with Section 22650) of the <cite doc="Cal. Veh. Code" proof="needed">Vehicle Code</cite> of the State relating to notice when removing a vehicle from private property.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1266,7 +1266,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Whenever a vehicle is removed under this section by an employee of the City, the person authorizing such removal shall comply with the <cite doc="Cal. Veh. Code" proof="true">California Vehicle Code</cite> provisions relating to notice and opportunity for hearing as set forth in Chapter 10 of Division 11 of that Code.</text>
+        <text>Whenever a vehicle is removed under this section by an employee of the City, the person authorizing such removal shall comply with the <cite doc="Cal. Veh. Code" proof="needed">California Vehicle Code</cite> provisions relating to notice and opportunity for hearing as set forth in Chapter 10 of Division 11 of that Code.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 73.119</annotation>
@@ -1346,8 +1346,8 @@
         <text>Parking Meter Rates. Rates for parking vehicles in a space regulated by a parking meter shall be as follows:</text>
         <text>
           <table>
-            <tr proof="true">
-              <th proof="true"/>
+            <tr proof="needed">
+              <th proof="needed"/>
               <th>Hour 1</th>
               <th>Hour 2</th>
               <th>Hour 3</th>
@@ -1772,7 +1772,7 @@
     <prefix>Chapter</prefix>
     <num>11.52</num>
     <heading>PEDESTRIANS</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding the rights and duties of pedestrians see <cite doc="Cal. Veh. Code" proof="true">Cal. Veh. C.A.</cite> §§ 21950 et seq.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding the rights and duties of pedestrians see <cite doc="Cal. Veh. Code" proof="needed">Cal. Veh. C.A.</cite> §§ 21950 et seq.</annotation>
     <section>
       <num>11.52.010</num>
       <heading>CROSSWALK—ESTABLISHMENT AUTHORITY.</heading>
@@ -1963,7 +1963,7 @@
     <section>
       <num>11.56.150</num>
       <heading>LIGHTS AT NIGHT.</heading>
-      <text>No rider of a bicycle shall ride the same at night without an adequate white headlight on the front thereof and a red light or red reflector on the rear, as required by the <cite doc="Cal. Veh. Code" proof="true">Vehicle Code</cite> of the State.</text>
+      <text>No rider of a bicycle shall ride the same at night without an adequate white headlight on the front thereof and a red light or red reflector on the rear, as required by the <cite doc="Cal. Veh. Code" proof="needed">Vehicle Code</cite> of the State.</text>
       <annotations>
         <annotation type="History">Prior code § 76.14</annotation>
       </annotations>
@@ -1979,7 +1979,7 @@
     <section>
       <num>11.56.170</num>
       <heading>VIOLATIONS—LICENSING—FINES.</heading>
-      <text>Any person violating the licensing, registering or reporting provisions of <cite path="11.56">this chapter</cite> shall be guilty of a public offense. Violations of the provisions of <cite path="11.56">this chapter</cite> regulating the use and operation of bicycles upon the streets and public ways of the City shall be the offense prescribed by the California Motor <cite doc="Cal. Veh. Code" proof="true">Vehicle Code</cite> and punishable as provided therein.</text>
+      <text>Any person violating the licensing, registering or reporting provisions of <cite path="11.56">this chapter</cite> shall be guilty of a public offense. Violations of the provisions of <cite path="11.56">this chapter</cite> regulating the use and operation of bicycles upon the streets and public ways of the City shall be the offense prescribed by the California Motor <cite doc="Cal. Veh. Code" proof="needed">Vehicle Code</cite> and punishable as provided therein.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-21" path="§9" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§21" type="History"/>
