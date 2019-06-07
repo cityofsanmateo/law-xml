@@ -1508,24 +1508,14 @@
               <th>Noise Level (dB)</th>
             </tr>
             <tr>
-              <td>
-                <center>Noise Zone 1</center>
-              </td>
-              <td>
-                <center>10 p.m.—7 a.m.</center>
-              </td>
-              <td>
-                <center>50</center>
-              </td>
+              <td>Noise Zone 1</td>
+              <td>10 p.m.—7 a.m.</td>
+              <td>50</td>
             </tr>
             <tr>
               <td proof="true"/>
-              <td>
-                <center>7 a.m.—10 p.m.</center>
-              </td>
-              <td>
-                <center>60</center>
-              </td>
+              <td>7 a.m.—10 p.m.</td>
+              <td>60</td>
             </tr>
             <tr>
               <td proof="true"/>
@@ -1533,24 +1523,14 @@
               <td proof="true"/>
             </tr>
             <tr>
-              <td>
-                <center>Noise Zone 2</center>
-              </td>
-              <td>
-                <center>10 p.m.—7 a.m.</center>
-              </td>
-              <td>
-                <center>55</center>
-              </td>
+              <td>Noise Zone 2</td>
+              <td>10 p.m.—7 a.m.</td>
+              <td>55</td>
             </tr>
             <tr>
               <td proof="true"/>
-              <td>
-                <center>7 a.m.—10 p.m.</center>
-              </td>
-              <td>
-                <center>60</center>
-              </td>
+              <td>7 a.m.—10 p.m.</td>
+              <td>60</td>
             </tr>
             <tr>
               <td proof="true"/>
@@ -1558,24 +1538,14 @@
               <td proof="true"/>
             </tr>
             <tr>
-              <td>
-                <center>Noise Zone 3</center>
-              </td>
-              <td>
-                <center>10 p.m.—7 a.m.</center>
-              </td>
-              <td>
-                <center>60</center>
-              </td>
+              <td>Noise Zone 3</td>
+              <td>10 p.m.—7 a.m.</td>
+              <td>60</td>
             </tr>
             <tr>
               <td proof="true"/>
-              <td>
-                <center>7 a.m.—10 p.m.</center>
-              </td>
-              <td>
-                <center>65</center>
-              </td>
+              <td>7 a.m.—10 p.m.</td>
+              <td>65</td>
             </tr>
             <tr>
               <td proof="true"/>
@@ -1583,15 +1553,9 @@
               <td proof="true"/>
             </tr>
             <tr>
-              <td>
-                <center>Noise Zone 4</center>
-              </td>
-              <td>
-                <center>Anytime</center>
-              </td>
-              <td>
-                <center>70</center>
-              </td>
+              <td>Noise Zone 4</td>
+              <td>Anytime</td>
+              <td>70</td>
             </tr>
           </table>
         </text>
