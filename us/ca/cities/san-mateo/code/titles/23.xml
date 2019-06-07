@@ -1544,7 +1544,9 @@
           <para>
             <num>14.1.4.1-</num>
             <text>Structures assigned to Seismic Design Category C, D, E or F shall not have elements of structural plain concrete, except as follows:</text>
-            <text proof="true">(a)	Structural plain concrete basement, foundation or other walls below the base are permitted in detached one and two-family dwellings three stories or less in height constructed with stud bearing walls. In dwellings assigned to seismic design category D or E, the height of the wall shall not exceed 8 feet (2438 mm), the thickness shall not be less than 71/2 inches (190 mm), and the wall shall retain no more than 4 feet (1219 mm) of unbalanced fill. Walls shall have reinforcement in accordance with 22.6.6.5.</text>
+            <text proof="true">
+              <s>(a)	Structural plain concrete basement, foundation or other walls below the base are permitted in detached one and two-family dwellings three stories or less in height constructed with stud bearing walls. In dwellings assigned to seismic design category D or E, the height of the wall shall not exceed 8 feet (2438 mm), the thickness shall not be less than 71/2 inches (190 mm), and the wall shall retain no more than 4 feet (1219 mm) of unbalanced fill. Walls shall have reinforcement in accordance with 22.6.6.5.</s>
+            </text>
             <para>
               <num>(a)</num>
               <text>Isolated footings of plain concrete supporting pedestals or columns are permitted, provided the projection of the footing beyond the face of the supported member does not exceed the footing thickness.</text>
@@ -6270,7 +6272,7 @@
     <prefix>Chapter</prefix>
     <num>23.70</num>
     <heading>GREEN BUILDING CODE</heading>
-    <annotation>Prior ordinance history: Ord. 2009-14.</annotation>
+    <annotation type="Editor's Notes">Prior ordinance history: Ord. 2009-14.</annotation>
     <section>
       <num>23.70.010</num>
       <heading>ADOPTION.</heading>
@@ -6295,10 +6297,10 @@
       <include proof="true">
         <para>
           <num>1.</num>
-          <text>Laundry-to-Landscape Infrastructure: Any new one-family dwelling shall install a three-way diverter valve at the drain line of all laundry fixtures intended for optional installation of a laundry-to-landscape irrigation system.</text>
+          <text><u>Laundry-to-Landscape Infrastructure</u>: Any new one-family dwelling shall install a three-way diverter valve at the drain line of all laundry fixtures intended for optional installation of a laundry-to-landscape irrigation system.</text>
           <para>
             <num>a.</num>
-            <text>Note: A complete laundry to landscape irrigation system shall comply with the California Plumbing Code Section 1502.1.1, Clothes Washer System.</text>
+            <text><u>Note</u>: A complete laundry to landscape irrigation system shall comply with the California Plumbing Code Section 1502.1.1, Clothes Washer System.</text>
           </para>
         </para>
       </include>
@@ -6320,7 +6322,7 @@
           <text>New multifamily dwellings containing 17 or more units: Where 17 or more multifamily dwelling units are constructed on a building site, 10 percent of the total number of parking spaces provided for all types of parking facilities, but in no case less than one, shall be electric vehicle charging spaces (EV spaces) capable of supporting future EVSE. Calculations for the required number of EV spaces shall be rounded up to the nearest whole number.</text>
         </para>
       </include>
-      <text>Note: Projects shall reference the California Green Building Code Section 4.106.4 and California Electrical Code, 2016 Edition, Article 625 for definitions and requirements for electric vehicle charging spaces.</text>
+      <text><u>Note</u>: Projects shall reference the California Green Building Code Section 4.106.4 and California Electrical Code, 2016 Edition, Article 625 for definitions and requirements for electric vehicle charging spaces.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-11" path="§1" type="History"/>
       </annotations>
@@ -6378,7 +6380,7 @@
           <text proof="true">1.	Calculation for spaces shall be rounded up to the nearest whole number.</text>
         </para>
       </include>
-      <text>Note: Projects shall reference the California Green Building Code, 2016 Edition, Section 5.106.5.3 and California Electrical Code for definitions and requirements related to electric vehicle charging spaces.</text>
+      <text><u>Note</u>: Projects shall reference the California Green Building Code, 2016 Edition, Section 5.106.5.3 and California Electrical Code for definitions and requirements related to electric vehicle charging spaces.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-11" path="§1" type="History"/>
       </annotations>
@@ -7026,17 +7028,15 @@ controller may also function as a landscape water meter or submeter.</text>
           <num>(2)</num>
           <text>MAWA = (ETo) [(0.45 x LA) = (0.55 x SLA)] for nonresidential areas</text>
         </para>
-        <aftertext proof="true">
-          <text>Where:</text>
-          <text>MAWA = Maximum applied water allowance (gallons per year)</text>
-          <text>ETo = Reference evapotranspiration (inches per year)</text>
-          <text proof="true">0.62 = Conversion factor (to gallons)</text>
-          <text proof="true">0.55 = Reference evapotranspiration adjustment factor (ETAF) for residential area</text>
-          <text proof="true">0.45 = Reference evapotranspiration adjustment factor (ETAF) for nonresidential areas</text>
-          <text>LA = Landscape area including SLA in residential areas</text>
-          <text proof="true">0.3 = Additional water allowance for SLA in nonresidential areas</text>
-          <text>SLA = Special landscape area (square feet).</text>
-        </aftertext>
+        <aftertext proof="true">Where:</aftertext>
+        <aftertext proof="true">MAWA = Maximum applied water allowance (gallons per year)</aftertext>
+        <aftertext proof="true">ETo = Reference evapotranspiration (inches per year)</aftertext>
+        <aftertext proof="true">0.62 = Conversion factor (to gallons)</aftertext>
+        <aftertext proof="true">0.55 = Reference evapotranspiration adjustment factor (ETAF) for residential area</aftertext>
+        <aftertext proof="true">0.45 = Reference evapotranspiration adjustment factor (ETAF) for nonresidential areas</aftertext>
+        <aftertext proof="true">LA = Landscape area including SLA in residential areas</aftertext>
+        <aftertext proof="true">0.3 = Additional water allowance for SLA in nonresidential areas</aftertext>
+        <aftertext proof="true">SLA = Special landscape area (square feet).</aftertext>
       </para>
       <para>
         <num>(g)</num>
@@ -7053,7 +7053,7 @@ controller may also function as a landscape water meter or submeter.</text>
       <para>
         <num>(h)</num>
         <text>Estimated total water use (ETWU) will be calculated using the equation below. The sum of the ETWU calculated for all hydrozones will not exceed the MAWA.</text>
-        <text>ETWU = (ETo)(0.62)(PF x HA) + SLA]</text>
+        <text>ETWU = (ETo)(0.62)(<u>PF x HA</u>) + SLA]</text>
         <text>IE</text>
         <text>Where:</text>
         <text>ETWU = Estimated total water use per year (gallons)</text>

@@ -3,7 +3,7 @@
   <prefix>Title</prefix>
   <num>8</num>
   <heading>ANIMALS AND FOWL</heading>
-  <annotation>For statutory provisions regarding the regulation and licensing of dogs see Agric. § 30501. For the provisions regarding rabies control see Health &amp; Saf. Code § 1900 et seq.</annotation>
+  <annotation type="Editor's Notes">For statutory provisions regarding the regulation and licensing of dogs see Agric. § 30501. For the provisions regarding rabies control see Health &amp; Saf. Code § 1900 et seq.</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>8.02</num>
@@ -1385,7 +1385,7 @@
     <prefix>Chapter</prefix>
     <num>8.28</num>
     <heading>BEES</heading>
-    <annotation>Prior history: Prior code §§ 64.60-64.62 and Ord. 1982-1.</annotation>
+    <annotation type="Editor's Notes">Prior history: Prior code §§ 64.60-64.62 and Ord. 1982-1.</annotation>
     <section>
       <num>8.28.010</num>
       <heading>KEEPING OF BEES—CONDITIONS.</heading>

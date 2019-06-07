@@ -3,12 +3,12 @@
   <prefix>Title</prefix>
   <num>15</num>
   <heading>PUBLIC UTILITIES</heading>
-  <annotation>For the statutory provisions regarding public utilities in general see the <cite doc="Cal. Pub. Util. Code" proof="true">California Public Utilities Code</cite>. For the provisions regarding the granting of franchises by local governments see Cal. Pub. U.C. § 6001 et seq.</annotation>
+  <annotation type="Editor's Notes">For the statutory provisions regarding public utilities in general see the <cite doc="Cal. Pub. Util. Code" proof="true">California Public Utilities Code</cite>. For the provisions regarding the granting of franchises by local governments see Cal. Pub. U.C. § 6001 et seq.</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>15.04</num>
     <heading>CONTROL</heading>
-    <annotation>For the statutory provisions regarding surrender of municipal control of public utilities to the State Public Utilities Commission see Cal. Pub. U.C. § 2901 et seq.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding surrender of municipal control of public utilities to the State Public Utilities Commission see Cal. Pub. U.C. § 2901 et seq.</annotation>
     <section>
       <num>15.04.010</num>
       <heading>RETENTION PROCEDURE.</heading>
@@ -22,7 +22,7 @@
     <prefix>Chapter</prefix>
     <num>15.08</num>
     <heading>FRANCHISE—GENERAL PROVISIONS</heading>
-    <annotation>For the provision of the City Charter regarding the granting of franchises see Section 5.26.</annotation>
+    <annotation type="Editor's Notes">For the provision of the City Charter regarding the granting of franchises see Section 5.26.</annotation>
     <section>
       <num>15.08.010</num>
       <heading>DEFINITIONS.</heading>
@@ -144,7 +144,7 @@
     <prefix>Chapter</prefix>
     <num>15.16</num>
     <heading>GAS AND ELECTRIC FRANCHISE</heading>
-    <annotation>For the statutory provisions regarding the alternative procedure for Gas, Electric and Water Franchises see Cal. Pub. U.C. § 6201 et seq.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding the alternative procedure for Gas, Electric and Water Franchises see Cal. Pub. U.C. § 6201 et seq.</annotation>
     <section>
       <num>15.16.010</num>
       <heading>APPLICATION—CONTENTS.</heading>
@@ -347,7 +347,7 @@
     <prefix>Chapter</prefix>
     <num>15.24</num>
     <heading>COMMUNITY ANTENNA TELEVISION FRANCHISE</heading>
-    <annotation>For the statutory authority of cities to franchise or license the construction of a community antennae television system, see <cite doc="Cal. Gov't Code" path="§53066">Cal. Gov. C.A. Sec. 53066</cite>.</annotation>
+    <annotation type="Editor's Notes">For the statutory authority of cities to franchise or license the construction of a community antennae television system, see <cite doc="Cal. Gov't Code" path="§53066">Cal. Gov. C.A. Sec. 53066</cite>.</annotation>
     <section>
       <num>15.24.010</num>
       <heading>DEFINITIONS.</heading>
@@ -852,9 +852,7 @@
           <num>(3)</num>
           <text>Both.</text>
         </para>
-        <aftertext proof="true">
-          <text>A uniform false alarm fee for police Department response shall be established by resolution of the City Council. Any false alarm that occurs during the first two weeks after original installation of the alarm system involved shall not be counted against the false alarm count if the owner of the premises or the person responsible for the installation of the system has notified the Police Department of the installation within ten (10) days of completion of the installation. Upon determination that an alarm is false, the Chief of Police or designated representative will notify the owner of the premises in writing; this requirement is met if a written notice is posted at the property involved. If the Chief of Police determines that the Police Department will no longer respond to activated alarms at the premises concerned, the Chief will notify the owner of the premises in writing.</text>
-        </aftertext>
+        <aftertext proof="true">A uniform false alarm fee for police Department response shall be established by resolution of the City Council. Any false alarm that occurs during the first two weeks after original installation of the alarm system involved shall not be counted against the false alarm count if the owner of the premises or the person responsible for the installation of the system has notified the Police Department of the installation within ten (10) days of completion of the installation. Upon determination that an alarm is false, the Chief of Police or designated representative will notify the owner of the premises in writing; this requirement is met if a written notice is posted at the property involved. If the Chief of Police determines that the Police Department will no longer respond to activated alarms at the premises concerned, the Chief will notify the owner of the premises in writing.</aftertext>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1976-40" path="§1" type="History"/>

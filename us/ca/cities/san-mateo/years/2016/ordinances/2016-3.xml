@@ -474,7 +474,7 @@
           </para>
           <para>
             <num>(jjj)</num>
-            <text><strong>"Prescriptive measures" </strong>means the planting restrictions referenced in <cite doc="City of San Mateo, Cal., Code" path="23.72.010">Section 23.72.010</cite> as developed by the City and kept on file by the Building Division that allow a project applicant to meet the water efficiency goals of this chapter without requiring the completion of the water budget calculation referenced in <cite doc="City of San Mateo, Cal., Code" path="23.72.070">Section 23.72.070</cite>.</text>
+            <text><strong>"Prescriptive measures"</strong> means the planting restrictions referenced in <cite doc="City of San Mateo, Cal., Code" path="23.72.010">Section 23.72.010</cite> as developed by the City and kept on file by the Building Division that allow a project applicant to meet the water efficiency goals of this chapter without requiring the completion of the water budget calculation referenced in <cite doc="City of San Mateo, Cal., Code" path="23.72.070">Section 23.72.070</cite>.</text>
           </para>
           <para>
             <num>(kkk)</num>
@@ -753,8 +753,8 @@
           <para>
             <num>(c)</num>
             <text>All Special Landscape Areas shall be identified and their water use included in the water budget</text>
+            <text>calculations.</text>
           </para>
-          <text>calculations.</text>
           <para>
             <num>(d)</num>
             <text>The reference Evapotranspiration Adjustment Factor for special landscape areas shall not exceed 1.0. The ETAF for all other landscaped areas shall not exceed 0.55 for residential areas and 0.45 for non-residential areas. ETo values from the reference Evapotranspiration Table, as provided by the City, shall be used in calculating the Maximum Applied Water Allowance (MAWA) and Estimated Total Water Use (ETWU).</text>
@@ -773,16 +773,16 @@
             <para>
               <num>(2)</num>
               <text>MAWA= (ETo) [(0.45 xLA) = (0.55 x SLA)] for non-residential areas.</text>
+              <text>Where:</text>
+              <text>MAWA = Maximum Applied Water Allowance (gallons per year)</text>
+              <text>ETo     = Reference Evapotranspiration (inches per year)</text>
+              <text proof="true">0.62     = Conversion Factor (to gallons)</text>
+              <text proof="true">0.55     = Reference Evapotranspiration Adjustment Factor (ETAF) for residential area</text>
+              <text proof="true">0.45     = Reference Evapotranspiration Adjustment Factor (ETAF) for non-residential areas</text>
+              <text>LA       = Landscape Area including SLA in residential areas</text>
+              <text proof="true">0.3       = Additional Water Allowance for SLA in non-residential areas</text>
+              <text>SLA    = Special Landscape Area (square feet).</text>
             </para>
-            <text>Where:</text>
-            <text>MAWA = Maximum Applied Water Allowance (gallons per year)</text>
-            <text>ETo     = Reference Evapotranspiration (inches per year)</text>
-            <text proof="true">0.62     = Conversion Factor (to gallons)</text>
-            <text proof="true">0.55     = Reference Evapotranspiration Adjustment Factor (ETAF) for residential area</text>
-            <text proof="true">0.45     = Reference Evapotranspiration Adjustment Factor (ETAF) for non-residential areas</text>
-            <text>LA       = Landscape Area including SLA in residential areas</text>
-            <text proof="true">0.3       = Additional Water Allowance for SLA in non-residential areas</text>
-            <text>SLA    = Special Landscape Area (square feet).</text>
           </para>
           <para>
             <num>(g)</num>
@@ -799,7 +799,7 @@
           <para>
             <num>(h)</num>
             <text>Estimated total water use (ETWU) will be calculated using the equation below. The sum of the ETWU calculated for all hydrozones will not exceed the MAWA.</text>
-            <text>ETWU = (ETo)(0.62)<strong>(</strong>PF x HA<strong>)</strong> + SLA]</text>
+            <text>ETWU = (ETo)(0.62)<strong>(</strong><u>PF x HA</u><strong>)</strong> + SLA]</text>
             <text>IE</text>
             <text>Where:</text>
             <text>ETWU= Estimated Total Water Use per year (gallons)</text>
@@ -1485,18 +1485,18 @@
           <para>
             <num>(a)</num>
             <text>The installation of recycle water irrigation systems shall allow for the current and future use of</text>
+            <text>recycled water.</text>
           </para>
-          <text>recycled water.</text>
           <para>
             <num>(b)</num>
             <text>All recycled water irrigation systems shall be designed and operated in accordance with all</text>
+            <text>applicable local and state laws.</text>
           </para>
-          <text>applicable local and state laws.</text>
           <para>
             <num>(c)</num>
             <text>Landscapes using recycled water are considered Special Landscape Areas. The ET Adjustment</text>
+            <text>Factor for new and existing (non-rehabilitated) Special Landscape Areas shall not exceed 1.0.</text>
           </para>
-          <text>Factor for new and existing (non-rehabilitated) Special Landscape Areas shall not exceed 1.0.</text>
         </section>
         <section>
           <num>23.72.170</num>
