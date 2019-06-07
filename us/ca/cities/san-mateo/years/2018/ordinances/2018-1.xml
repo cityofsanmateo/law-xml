@@ -232,34 +232,70 @@
                   <th>EDUs</th>
                 </tr>
                 <tr>
-                  <td>Single-family dwelling</td>
-                  <td>Dwelling unit</td>
-                  <td>1</td>
+                  <td>
+                    <center>Single-family dwelling</center>
+                  </td>
+                  <td>
+                    <center>Dwelling unit</center>
+                  </td>
+                  <td>
+                    <center>1</center>
+                  </td>
                 </tr>
                 <tr>
-                  <td>Multi-family dwelling, 1 bedroom</td>
-                  <td>Dwelling unit</td>
-                  <td>0.5</td>
+                  <td>
+                    <center>Multi-family dwelling, 1 bedroom</center>
+                  </td>
+                  <td>
+                    <center>Dwelling unit</center>
+                  </td>
+                  <td>
+                    <center>0.5</center>
+                  </td>
                 </tr>
                 <tr>
-                  <td>Multi-family dwelling, 2 bedroom</td>
-                  <td>Dwelling unit</td>
-                  <td>0.75</td>
+                  <td>
+                    <center>Multi-family dwelling, 2 bedroom</center>
+                  </td>
+                  <td>
+                    <center>Dwelling unit</center>
+                  </td>
+                  <td>
+                    <center>0.75</center>
+                  </td>
                 </tr>
                 <tr>
-                  <td>Multi-family dwelling, 3 bedroom</td>
-                  <td>Dwelling unit</td>
-                  <td>1</td>
+                  <td>
+                    <center>Multi-family dwelling, 3 bedroom</center>
+                  </td>
+                  <td>
+                    <center>Dwelling unit</center>
+                  </td>
+                  <td>
+                    <center>1</center>
+                  </td>
                 </tr>
                 <tr>
-                  <td>Hotels or motels</td>
-                  <td>Room</td>
-                  <td>0.5</td>
+                  <td>
+                    <center>Hotels or motels</center>
+                  </td>
+                  <td>
+                    <center>Room</center>
+                  </td>
+                  <td>
+                    <center>0.5</center>
+                  </td>
                 </tr>
                 <tr>
-                  <td>Nonresidential</td>
-                  <td>Fixture unit</td>
-                  <td>0.05</td>
+                  <td>
+                    <center>Nonresidential</center>
+                  </td>
+                  <td>
+                    <center>Fixture unit</center>
+                  </td>
+                  <td>
+                    <center>0.05</center>
+                  </td>
                 </tr>
               </table>
             </text>

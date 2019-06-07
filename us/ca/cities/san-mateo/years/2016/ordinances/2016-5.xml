@@ -87,7 +87,7 @@
                   <num>2.</num>
                   <text>A minimum Solar Reflectance Index (SRI) of 85.</text>
                 </para>
-                <aftertext proof="true"><strong>Exception 1: </strong>Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
+                <aftertext proof="true"><strong>Exception 1: </strong>Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
                 <aftertext proof="true"><strong>Exception 2: </strong>An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</aftertext>
               </para>
             </para>
@@ -105,14 +105,14 @@
                   <num>2.</num>
                   <text>A minimum Solar Reflectance Index (SRI) of 85.</text>
                 </para>
-                <aftertext proof="true"><strong>Exception 1:</strong> Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
+                <aftertext proof="true"><strong>Exception 1:</strong> Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
                 <aftertext proof="true"><strong>Exception 2: </strong>Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
               </para>
             </para>
             <para>
               <num>iii.</num>
               <text>Low-rise residential buildings with low-sloped roofs shall have a minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85 or a minimum SRI of 85.</text>
-              <text><strong>Exception 1:</strong> Roof constructions that have thermal mass over the roof membrane with a weight of at least 25 lb/ft2 are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
+              <text><strong>Exception 1:</strong> Roof constructions that have thermal mass over the roof membrane with a weight of at least 25 lb/ft<sup>2</sup> are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
               <text><strong>Exception 2: </strong>Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
             </para>
           </para>
@@ -202,13 +202,19 @@
     </text>
   </section>
   <text>
-    <strong>Exhibit A</strong>
+    <center>
+      <strong>Exhibit A</strong>
+    </center>
   </text>
   <text>
-    <strong>FINDINGS FOR LOCAL AMENDMENTS TO</strong>
+    <center>
+      <strong>FINDINGS FOR LOCAL AMENDMENTS TO</strong>
+    </center>
   </text>
   <text>
-    <strong>CALIFORNIA ENERGY CODE, 2016 EDITION</strong>
+    <center>
+      <strong>CALIFORNIA ENERGY CODE, 2016 EDITION</strong>
+    </center>
   </text>
   <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">Section 17958 of the California Health and Safety Code</cite> provides that the City may make changes to the provisions in the uniform codes that are published in the California Building Standards Code.  Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code" proof="true">Health and Safety Code</cite> require that for each proposed local change to those provisions in the uniform codes and published in the California Building Standards Code which regulate buildings used for human habitation, the City Council must make findings supporting its determination that each such local change is reasonably necessary because of local climatic, geological, or topographical conditions.</text>
   <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code" proof="true">Health and Safety Code</cite>.  Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings.  Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>

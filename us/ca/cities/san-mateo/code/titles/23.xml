@@ -560,7 +560,7 @@
           <text>A building permit shall not be required for the following:</text>
           <para>
             <num>(i)</num>
-            <text>One-story detached accessory structures used as tool and storage sheds, playhouses and similar uses, provided the floor area does not exceed 120 square feet (11 m2).</text>
+            <text>One-story detached accessory structures used as tool and storage sheds, playhouses and similar uses, provided the floor area does not exceed 120 square feet (11 m<sup>2</sup>).</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -1352,7 +1352,7 @@
         <include proof="true">
           <para>
             <num>f.</num>
-            <text>In Seismic Design Categories D<strong>0</strong>, D<strong>1</strong>, and D<strong>2</strong>, Method GB is not permitted and the use of Method PCP is limited to one-story single-family dwellings and accessory structures.</text>
+            <text>In Seismic Design Categories D<sub><strong>0</strong></sub>, D<sub><strong>1</strong></sub>, and D<sub><strong>2</strong></sub>, Method GB is not permitted and the use of Method PCP is limited to one-story single-family dwellings and accessory structures.</text>
           </para>
         </include>
       </para>
@@ -1360,14 +1360,14 @@
         <num>(b)</num>
         <text>Add the "f" footnote notation in the title of Table R602.10.3(3), to read:</text>
         <include proof="true">
-          <text>TABLE R602.10.3(3)f</text>
+          <text>TABLE R602.10.3(3)<sup>f</sup></text>
         </include>
       </para>
       <para>
         <num>(c)</num>
         <text>Add a new subsection R602.10.4.4, to read:</text>
         <include proof="true">
-          <text><strong>R602.10.4.4 Limits on methods GB and PCP.</strong> In Seismic Design Categories D<strong>0</strong>, D<strong>1</strong>, and D<strong>2</strong>, Method GB is not permitted for use as intermittent braced wall panels, but gypsum board is permitted to be installed when required by this section to be placed on the opposite side of the studs from other types of braced wall panel sheathing. In Seismic Design Categories D<strong>0</strong>, D<strong>1</strong>, and D<strong>2</strong>, the use of Method PCP is limited to one-story single-family dwellings and accessory structures.</text>
+          <text><strong>R602.10.4.4 Limits on methods GB and PCP.</strong> In Seismic Design Categories D<sub><strong>0</strong></sub>, D<sub><strong>1</strong></sub>, and D<sub><strong>2</strong></sub>, Method GB is not permitted for use as intermittent braced wall panels, but gypsum board is permitted to be installed when required by this section to be placed on the opposite side of the studs from other types of braced wall panel sheathing. In Seismic Design Categories D<sub><strong>0</strong></sub>, D<sub><strong>1</strong></sub>, and D<sub><strong>2</strong></sub>, the use of Method PCP is limited to one-story single-family dwellings and accessory structures.</text>
         </include>
       </para>
       <annotations>
@@ -1491,15 +1491,33 @@
               <th>VB</th>
             </tr>
             <tr>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
+              <td>
+                <center>B</center>
+              </td>
+              <td>
+                <center>B</center>
+              </td>
+              <td>
+                <center>B</center>
+              </td>
+              <td>
+                <center>B</center>
+              </td>
+              <td>
+                <center>B</center>
+              </td>
+              <td>
+                <center>B</center>
+              </td>
+              <td>
+                <center>B</center>
+              </td>
+              <td>
+                <center>B</center>
+              </td>
+              <td>
+                <center>B</center>
+              </td>
             </tr>
           </table>
         </text>
@@ -1985,7 +2003,7 @@
               <text>Low-sloped roofs shall have:</text>
               <text proof="true">1.	A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
               <text proof="true">2.	A minimum Solar Reflectance Index (SRI) of 85.</text>
-              <text><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
+              <text><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
               <text><strong>Exception 2</strong>: An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</text>
             </para>
           </para>
@@ -1997,14 +2015,14 @@
               <text>Low-sloped roofs shall have:</text>
               <text proof="true">1.	A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
               <text proof="true">2.	A minimum Solar Reflectance Index (SRI) of 85.</text>
-              <text><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft2 over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
+              <text><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
               <text><strong>Exception 2</strong>: Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
             </para>
           </para>
           <para>
             <num>iii.</num>
             <text>Low-rise residential buildings with low-sloped roofs shall have a minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85 or a minimum SRI of 85.</text>
-            <text><strong>Exception 1</strong>: Roof constructions that have thermal mass over the roof membrane with a weight of at least 25 lb/ft2 are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
+            <text><strong>Exception 1</strong>: Roof constructions that have thermal mass over the roof membrane with a weight of at least 25 lb/ft<sup>2</sup> are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
             <text><strong>Exception 2</strong>: Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
           </para>
         </para>
@@ -2488,10 +2506,14 @@
       <text>Table C102.1 of Appendix C is amended to read as follows:</text>
       <include proof="true">
         <text>
-          <strong>TABLE NO. C102.1</strong>
+          <center>
+            <strong>TABLE NO. C102.1</strong>
+          </center>
         </text>
         <text>
-          <strong>NUMBER AND DISTRIBUTION OF FIRE HYDRANTS</strong>
+          <center>
+            <strong>NUMBER AND DISTRIBUTION OF FIRE HYDRANTS</strong>
+          </center>
         </text>
         <text>
           <img alt="Embedded Image" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABVsAAAJGAQMAAAB/eMf0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NjcyOSwgMjAxMi8wNS8wMy0xMzo0MDowMyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODUwMDg4REJEMkJGMTFFNjkyNkFBNjkzOUM0QkJGNDQiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODUwMDg4REFEMkJGMTFFNjkyNkFBNjkzOUM0QkJGNDQiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InV1aWQ6MTUxYWExMTItMjg0YS00Mjk4LTgwMjMtZjk0NWJmMzYzMWVkIiBzdFJlZjpkb2N1bWVudElEPSJ1dWlkOjM4OThkNjU0LThkZmEtNGFjMS1iYTJmLWQzNTg1ZTFjOTM2ZSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PpbA0XUAAAAGUExURQAAAP///6XZ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"/>
@@ -6344,36 +6366,68 @@
                 <th>TIER 2 NUMBER OF REQUIRED EV CHARGING SPACES</th>
               </tr>
               <tr>
-                <td>0-9</td>
-                <td>1</td>
+                <td>
+                  <center>0-9</center>
+                </td>
+                <td>
+                  <center>1</center>
+                </td>
               </tr>
               <tr>
-                <td>10-25</td>
-                <td>2</td>
+                <td>
+                  <center>10-25</center>
+                </td>
+                <td>
+                  <center>2</center>
+                </td>
               </tr>
               <tr>
-                <td>26-50</td>
-                <td>4</td>
+                <td>
+                  <center>26-50</center>
+                </td>
+                <td>
+                  <center>4</center>
+                </td>
               </tr>
               <tr>
-                <td>51-75</td>
-                <td>6</td>
+                <td>
+                  <center>51-75</center>
+                </td>
+                <td>
+                  <center>6</center>
+                </td>
               </tr>
               <tr>
-                <td>76-100</td>
-                <td>6</td>
+                <td>
+                  <center>76-100</center>
+                </td>
+                <td>
+                  <center>6</center>
+                </td>
               </tr>
               <tr>
-                <td>101-150</td>
-                <td>12</td>
+                <td>
+                  <center>101-150</center>
+                </td>
+                <td>
+                  <center>12</center>
+                </td>
               </tr>
               <tr>
-                <td>151-200</td>
-                <td>17</td>
+                <td>
+                  <center>151-200</center>
+                </td>
+                <td>
+                  <center>17</center>
+                </td>
               </tr>
               <tr>
-                <td>201 and over</td>
-                <td>10 percent of total1</td>
+                <td>
+                  <center>201 and over</center>
+                </td>
+                <td>
+                  <center>10 percent of total<sup>1</sup></center>
+                </td>
               </tr>
             </table>
           </text>
@@ -7053,8 +7107,12 @@ controller may also function as a landscape water meter or submeter.</text>
       <para>
         <num>(h)</num>
         <text>Estimated total water use (ETWU) will be calculated using the equation below. The sum of the ETWU calculated for all hydrozones will not exceed the MAWA.</text>
-        <text>ETWU = (ETo)(0.62)(<u>PF x HA</u>) + SLA]</text>
-        <text>IE</text>
+        <text>
+          <center>ETWU = (ETo)(0.62)(<u>PF x HA</u>) + SLA]</center>
+        </text>
+        <text>
+          <center>IE</center>
+        </text>
         <text>Where:</text>
         <text>ETWU = Estimated total water use per year (gallons)</text>
         <text>ETo = Reference evapotranspiration (inches)</text>
