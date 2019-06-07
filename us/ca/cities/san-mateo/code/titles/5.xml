@@ -3,7 +3,7 @@
   <prefix>Title</prefix>
   <num>5</num>
   <heading>BUSINESS LICENSES AND REGULATIONS</heading>
-  <annotation type="Editor's Notes">For statutory provisions authorizing cities to license for revenue and regulations purposes, see <cite doc="Cal. Gov't Code" path="§37101">Cal. Gov. C.A. § 37101</cite>. For the statutory provisions authorizing cities to license in the exercise of the police power and for purposes of regulation, see <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Cal. Bus. &amp; Prof. C.A.</cite> §§ <cite doc="Cal. Bus. &amp; Prof. Code" path="§16000">16000</cite>-<cite doc="Cal. Bus. &amp; Prof. Code" path="§16003">16003</cite>.</annotation>
+  <annotation type="Editor's Notes">For statutory provisions authorizing cities to license for revenue and regulations purposes, see <cite doc="Cal. Gov't Code" path="§37101">Cal. Gov. C.A. § 37101</cite>. For the statutory provisions authorizing cities to license in the exercise of the police power and for purposes of regulation, see <cite doc="Cal. Bus. &amp; Prof. Code" proof="needed">Cal. Bus. &amp; Prof. C.A.</cite> §§ <cite doc="Cal. Bus. &amp; Prof. Code" path="§16000">16000</cite>-<cite doc="Cal. Bus. &amp; Prof. Code" path="§16003">16003</cite>.</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>5.03</num>
@@ -35,7 +35,7 @@
     <section>
       <num>5.03.040</num>
       <heading>AUTO WRECKER.</heading>
-      <text>"Auto wrecker" means every person who buys, sells, exchanges, otherwise deals in, or in any other manner comes in possession of, any motor vehicle as defined in the State <cite doc="Cal. Veh. Code" proof="true">Vehicle Code</cite> for the purpose of dismantling or disassembling or who dismantles or disassembles, any such motor vehicle, whether for the purpose of selling, utilizing, or otherwise disposing of, the component parts of such vehicles, or for the purpose of selling, utilizing, or otherwise disposing of the component materials of such vehicle either as junk or otherwise.</text>
+      <text>"Auto wrecker" means every person who buys, sells, exchanges, otherwise deals in, or in any other manner comes in possession of, any motor vehicle as defined in the State <cite doc="Cal. Veh. Code" proof="needed">Vehicle Code</cite> for the purpose of dismantling or disassembling or who dismantles or disassembles, any such motor vehicle, whether for the purpose of selling, utilizing, or otherwise disposing of, the component parts of such vehicles, or for the purpose of selling, utilizing, or otherwise disposing of the component materials of such vehicle either as junk or otherwise.</text>
       <annotations>
         <annotation type="History">Prior code § 53.01</annotation>
       </annotations>
@@ -314,7 +314,7 @@
     <section>
       <num>5.03.330</num>
       <heading>USED AUTOMOBILE DEALER.</heading>
-      <text>"Used automobile dealer" means any person engaged in conducting, managing, operating or carrying on the business of selling or otherwise dealing in used motor vehicles, as the term "motor vehicle" is defined in the <cite doc="Cal. Veh. Code" proof="true">Vehicle Code</cite> of the state of California, and who buys or accepts on consignment, or otherwise becomes possessed of motor vehicles, for the purpose of reselling, or who sells at a price greater than that originally paid therefor, two or more used motor vehicles a year for a commission; provided, however, that the provisions of this code applying to "used automobile dealers" shall not be construed to apply to any insurance company, finance company, transportation company banking corporation, or any other person who may come into possession of such used motor vehicles in the regular course of business and who sells such motor vehicles under his or her contractual or lien rights or to save himself from financial loss.</text>
+      <text>"Used automobile dealer" means any person engaged in conducting, managing, operating or carrying on the business of selling or otherwise dealing in used motor vehicles, as the term "motor vehicle" is defined in the <cite doc="Cal. Veh. Code" proof="needed">Vehicle Code</cite> of the state of California, and who buys or accepts on consignment, or otherwise becomes possessed of motor vehicles, for the purpose of reselling, or who sells at a price greater than that originally paid therefor, two or more used motor vehicles a year for a commission; provided, however, that the provisions of this code applying to "used automobile dealers" shall not be construed to apply to any insurance company, finance company, transportation company banking corporation, or any other person who may come into possession of such used motor vehicles in the regular course of business and who sells such motor vehicles under his or her contractual or lien rights or to save himself from financial loss.</text>
       <annotations>
         <annotation type="History">Prior code § 36.01(29)</annotation>
       </annotations>
@@ -607,7 +607,7 @@
     <section>
       <num>5.12.060</num>
       <heading>DISCLOSURE OF ENTERTAINMENT.</heading>
-      <text>Any person filing an initial or renewal return hereunder for any business wherein entertainment as defined in <cite path="27.64.210|(5)|(c)" proof="true">Section 27.64.210(5)(c)</cite> will be provided shall disclose that fact in said return.</text>
+      <text>Any person filing an initial or renewal return hereunder for any business wherein entertainment as defined in <cite path="27.64.210|(5)|(c)" proof="needed">Section 27.64.210(5)(c)</cite> will be provided shall disclose that fact in said return.</text>
       <annotations>
         <annotation type="History">prior code § 43.01.5</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1970-30" path="§1" type="History"/>
@@ -798,7 +798,7 @@
           <num>(19)</num>
           <text>Trailer camp</text>
         </para>
-        <aftertext proof="true">unless a permit for such a business has first been obtained from the bureau and remains in effect in accordance with the provisions of the chapter title.</aftertext>
+        <aftertext proof="needed">unless a permit for such a business has first been obtained from the bureau and remains in effect in accordance with the provisions of the chapter title.</aftertext>
       </para>
       <para>
         <num>(b)</num>
@@ -875,7 +875,7 @@
           <num>(4)</num>
           <text>Such other and further information as the Tax Collector may require.</text>
         </para>
-        <aftertext proof="true">The application shall be signed by each and every owner of the business. If the owner is a corporation, the application shall be signed by the representative designated by the corporation's board of directors.</aftertext>
+        <aftertext proof="needed">The application shall be signed by each and every owner of the business. If the owner is a corporation, the application shall be signed by the representative designated by the corporation's board of directors.</aftertext>
       </para>
       <para>
         <num>(c)</num>
@@ -1107,7 +1107,7 @@
           <num>(5)</num>
           <text>Auto upholstery shop, thirty dollars.</text>
         </para>
-        <aftertext proof="true">Should any person conduct more than one of the abovementioned businesses at a single location, he or she shall be liable for only the largest applicable license tax provided by this section.</aftertext>
+        <aftertext proof="needed">Should any person conduct more than one of the abovementioned businesses at a single location, he or she shall be liable for only the largest applicable license tax provided by this section.</aftertext>
       </para>
       <para>
         <num>(b)</num>
@@ -1282,7 +1282,7 @@
       <text>Every person, retailer, or jobber engaged in managing, operating or carrying on a business of selling at retail any goods, wares, merchandise or things of value; or engaged in managing, operating or carrying on any trade, profession, occupation, service, calling, or business in this city, shall pay an annual business tax based upon their annual gross receipts, as follows:</text>
       <text>
         <table>
-          <tr proof="true">
+          <tr proof="needed">
             <th>Under $30,000</th>
             <th>$25.00</th>
           </tr>
@@ -1432,7 +1432,7 @@
           <text>A tax of ten dollars for the entire period of such meeting for each person employed in such business within the City;</text>
           <text>Where any such meeting extends over a period of fewer than thirty days:</text>
         </para>
-        <para proof="true">
+        <para proof="needed">
           <num>(1)</num>
           <text>A tax of five dollars for each day during such meeting for selling any racing form under one title or name, and</text>
         </para>
@@ -2654,7 +2654,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>It is the Council's further purpose and intent to rely upon the uniform statewide regulations applicable to massage practitioners and establishments that were enacted by the State Legislature in 2008 as <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite> Sections 4600 et seq. by Senate Bill 731, and amended in 2011 by Assembly Bill 619 and in 2014 by Assembly Bill 1147, to restrict the commercial practice of massage in the City to those persons duly certified to practice by the California Massage Therapy Council and to provide for the registration and regulation of massage businesses for health and safety purposes to the extent allowed by law.</text>
+        <text>It is the Council's further purpose and intent to rely upon the uniform statewide regulations applicable to massage practitioners and establishments that were enacted by the State Legislature in 2008 as <cite doc="Cal. Bus. &amp; Prof. Code" proof="needed">Business and Professions Code</cite> Sections 4600 et seq. by Senate Bill 731, and amended in 2011 by Assembly Bill 619 and in 2014 by Assembly Bill 1147, to restrict the commercial practice of massage in the City to those persons duly certified to practice by the California Massage Therapy Council and to provide for the registration and regulation of massage businesses for health and safety purposes to the extent allowed by law.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-12" path="§1" type="History"/>
@@ -2674,7 +2674,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>"Certified massage practitioner" means any individual certified by the California Massage Therapy Council as a certified massage therapist or as a certified massage practitioner pursuant to <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">California Business and Professions Code</cite> Sections 4600 et seq.</text>
+        <text>"Certified massage practitioner" means any individual certified by the California Massage Therapy Council as a certified massage therapist or as a certified massage practitioner pursuant to <cite doc="Cal. Bus. &amp; Prof. Code" proof="needed">California Business and Professions Code</cite> Sections 4600 et seq.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -2702,7 +2702,7 @@
       </para>
       <para>
         <num>(j)</num>
-        <text>"Health Officer" means the person appointed by the City of San Mateo pursuant to the <cite doc="Cal. Health &amp; Safety Code" proof="true">California Health and Safety Code</cite> or his or her authorized representatives or designees.</text>
+        <text>"Health Officer" means the person appointed by the City of San Mateo pursuant to the <cite doc="Cal. Health &amp; Safety Code" proof="needed">California Health and Safety Code</cite> or his or her authorized representatives or designees.</text>
       </para>
       <para>
         <num>(k)</num>
@@ -2758,7 +2758,7 @@
       </para>
       <para>
         <num>(t)</num>
-        <text>"School of massage" means any school or institution of learning that is recognized as an approved school pursuant to <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite> Division 2, Chapter 10.5, as currently drafted or as may be amended.</text>
+        <text>"School of massage" means any school or institution of learning that is recognized as an approved school pursuant to <cite doc="Cal. Bus. &amp; Prof. Code" proof="needed">Business and Professions Code</cite> Division 2, Chapter 10.5, as currently drafted or as may be amended.</text>
       </para>
       <para>
         <num>(u)</num>
@@ -2835,7 +2835,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>For all owners, a signed statement that all of the information contained in the application is true and correct; that all owners shall be responsible for the conduct of the business's employees or independent contractors providing massage services; and acknowledging that failure to comply with the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">California Business and Professions Code</cite> Sections 4600 et seq., and local, state, or federal law, or the provisions of <cite path="5.44">this chapter</cite> may result in revocation of the business's City registration certificate.</text>
+          <text>For all owners, a signed statement that all of the information contained in the application is true and correct; that all owners shall be responsible for the conduct of the business's employees or independent contractors providing massage services; and acknowledging that failure to comply with the <cite doc="Cal. Bus. &amp; Prof. Code" proof="needed">California Business and Professions Code</cite> Sections 4600 et seq., and local, state, or federal law, or the provisions of <cite path="5.44">this chapter</cite> may result in revocation of the business's City registration certificate.</text>
         </para>
       </para>
       <para>
@@ -3108,7 +3108,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>An owner or sole proprietor fails to register under the provisions of <cite doc="Cal. Penal Code" path="§290">California Penal Code Section 290</cite> (sex offender registration), is convicted of <cite doc="Cal. Penal Code" proof="true">California Penal Code</cite> Sections 266i (pandering), 315 (keeping or residing in a house of ill-fame), 316 (keeping disorderly house), 318 (prevailing upon person to visit a place for prostitution), 647(b) (engaging in or soliciting prostitution), 653.22 (loitering with intent to commit prostitution), 653.23 (supervision of prostitute); has a business permit or license denied, revoked, restricted, or suspended by any agency, board, city, county, territory, or state; is subject to an injunction for nuisance pursuant to <cite doc="Cal. Penal Code" proof="true">California Penal Code</cite> Sections <cite doc="Cal. Penal Code" path="§11225">11225</cite>-<cite doc="Cal. Penal Code" path="§11235">11235</cite> (red light abatement); is convicted of a felony offense involving the sale of a controlled substance; is convicted of any crime involving dishonesty, fraud, deceit, violence, or moral turpitude; or is convicted in any other state of an offense which, if committed in this state, would have been punishable as one or more referenced offenses in this subsection.</text>
+          <text>An owner or sole proprietor fails to register under the provisions of <cite doc="Cal. Penal Code" path="§290">California Penal Code Section 290</cite> (sex offender registration), is convicted of <cite doc="Cal. Penal Code" proof="needed">California Penal Code</cite> Sections 266i (pandering), 315 (keeping or residing in a house of ill-fame), 316 (keeping disorderly house), 318 (prevailing upon person to visit a place for prostitution), 647(b) (engaging in or soliciting prostitution), 653.22 (loitering with intent to commit prostitution), 653.23 (supervision of prostitute); has a business permit or license denied, revoked, restricted, or suspended by any agency, board, city, county, territory, or state; is subject to an injunction for nuisance pursuant to <cite doc="Cal. Penal Code" proof="needed">California Penal Code</cite> Sections <cite doc="Cal. Penal Code" path="§11225">11225</cite>-<cite doc="Cal. Penal Code" path="§11235">11235</cite> (red light abatement); is convicted of a felony offense involving the sale of a controlled substance; is convicted of any crime involving dishonesty, fraud, deceit, violence, or moral turpitude; or is convicted in any other state of an offense which, if committed in this state, would have been punishable as one or more referenced offenses in this subsection.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -3116,7 +3116,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Violations of any of the following occurred on the premises of a massage business or were committed by a massage practitioner: <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">California Business and Professions Code</cite> Sections 4600 et seq.; any local, state, or federal law; or the provisions of <cite path="5.44">this chapter</cite>.</text>
+          <text>Violations of any of the following occurred on the premises of a massage business or were committed by a massage practitioner: <cite doc="Cal. Bus. &amp; Prof. Code" proof="needed">California Business and Professions Code</cite> Sections 4600 et seq.; any local, state, or federal law; or the provisions of <cite path="5.44">this chapter</cite>.</text>
         </para>
       </para>
       <para>
@@ -3184,7 +3184,7 @@
     <prefix>Chapter</prefix>
     <num>5.45</num>
     <heading>PAWNBROKERS—SECONDHAND DEALERS</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding pawnbrokers generally see <cite doc="Cal. Fin. Code" path="§21000">Cal. Fin. 21000</cite> et seq. For the license fee for a pawnbroker or secondhand dealer, see <cite path="5.24.320" proof="true">Section 5.24.320</cite>.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding pawnbrokers generally see <cite doc="Cal. Fin. Code" path="§21000">Cal. Fin. 21000</cite> et seq. For the license fee for a pawnbroker or secondhand dealer, see <cite path="5.24.320" proof="needed">Section 5.24.320</cite>.</annotation>
     <section>
       <num>5.45.005</num>
       <heading>PERMIT REQUIRED.</heading>
@@ -3440,7 +3440,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>All convictions for any crime involving conduct which requires registration under <cite doc="Cal. Penal Code" path="§290">California Penal Code Section 290</cite>, or convictions of <cite doc="Cal. Penal Code" proof="true">California Penal Code</cite> Sections <cite doc="Cal. Penal Code" path="§314">314</cite>, <cite doc="Cal. Penal Code" path="§415">415</cite>, <cite doc="Cal. Penal Code" path="§316">316</cite>, <cite doc="Cal. Penal Code" path="§318">318</cite>, <cite doc="Cal. Penal Code" path="§647">647</cite>(a), (b), (as now written or as amended), or convictions of crimes designated in <cite doc="Cal. Gov't Code" path="§51032|(b)">Government Code Section 51032(b)</cite> or <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702">Business and Professions Code Section 22702</cite> et. seq., or any crime involving dishonesty, fraud, deceit, violence or moral turpitude. Convictions under the laws of other states or countries which proscribe the same conduct or similar conduct as the adore-designated California crimes shall be provided. Convictions that have been expunged must be reported. All injunctions for nuisances under <cite doc="Cal. Penal Code" path="§11225">Penal Code Section 11225</cite> or similar laws.</text>
+          <text>All convictions for any crime involving conduct which requires registration under <cite doc="Cal. Penal Code" path="§290">California Penal Code Section 290</cite>, or convictions of <cite doc="Cal. Penal Code" proof="needed">California Penal Code</cite> Sections <cite doc="Cal. Penal Code" path="§314">314</cite>, <cite doc="Cal. Penal Code" path="§415">415</cite>, <cite doc="Cal. Penal Code" path="§316">316</cite>, <cite doc="Cal. Penal Code" path="§318">318</cite>, <cite doc="Cal. Penal Code" path="§647">647</cite>(a), (b), (as now written or as amended), or convictions of crimes designated in <cite doc="Cal. Gov't Code" path="§51032|(b)">Government Code Section 51032(b)</cite> or <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702">Business and Professions Code Section 22702</cite> et. seq., or any crime involving dishonesty, fraud, deceit, violence or moral turpitude. Convictions under the laws of other states or countries which proscribe the same conduct or similar conduct as the adore-designated California crimes shall be provided. Convictions that have been expunged must be reported. All injunctions for nuisances under <cite doc="Cal. Penal Code" path="§11225">Penal Code Section 11225</cite> or similar laws.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -3520,7 +3520,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The applicant, if an individual, or any of the stockholders of the corporation, or any officers or director, if the applicant is a corporation; or a partner if the applicant is a partnership, or the managing responsible officer has not been convicted within 5 years preceding application in a court of competent jurisdiction of an offense involving conduct which requires registration under <cite doc="Cal. Penal Code" path="§290">California Penal Code Section 290</cite>, or of conduct which is a violation of the provisions of <cite doc="Cal. Penal Code" proof="true">California Penal code</cite> Sections <cite doc="Cal. Penal Code" path="§314">314</cite>, <cite doc="Cal. Penal Code" path="§315">315</cite>, <cite doc="Cal. Penal Code" path="§316">316</cite>, <cite doc="Cal. Penal Code" path="§318">318</cite>, <cite doc="Cal. Penal Code" path="§647">647</cite>(a), (b), (as now written or as amended), violation of <cite path="5.44">Chapter 5.44</cite> of the Municipal Code or of crimes that are designated in <cite doc="Cal. Gov't Code" path="§51032|(b)">Government Code Section 51032(b)</cite> or <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702">Business and Professions Code Section 22702</cite> et. seq., or any other crime involving dishonest, fraud, deceit, violence or moral turpitude; or that an injunction has not been issued under <cite doc="Cal. Penal Code" path="§11225">Penal Code Section 11225</cite>. Convictions under the laws of other states or countries which proscribe the same or similar conduct as the adore-designated California crimes shall be considered.</text>
+          <text>The applicant, if an individual, or any of the stockholders of the corporation, or any officers or director, if the applicant is a corporation; or a partner if the applicant is a partnership, or the managing responsible officer has not been convicted within 5 years preceding application in a court of competent jurisdiction of an offense involving conduct which requires registration under <cite doc="Cal. Penal Code" path="§290">California Penal Code Section 290</cite>, or of conduct which is a violation of the provisions of <cite doc="Cal. Penal Code" proof="needed">California Penal code</cite> Sections <cite doc="Cal. Penal Code" path="§314">314</cite>, <cite doc="Cal. Penal Code" path="§315">315</cite>, <cite doc="Cal. Penal Code" path="§316">316</cite>, <cite doc="Cal. Penal Code" path="§318">318</cite>, <cite doc="Cal. Penal Code" path="§647">647</cite>(a), (b), (as now written or as amended), violation of <cite path="5.44">Chapter 5.44</cite> of the Municipal Code or of crimes that are designated in <cite doc="Cal. Gov't Code" path="§51032|(b)">Government Code Section 51032(b)</cite> or <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702">Business and Professions Code Section 22702</cite> et. seq., or any other crime involving dishonest, fraud, deceit, violence or moral turpitude; or that an injunction has not been issued under <cite doc="Cal. Penal Code" path="§11225">Penal Code Section 11225</cite>. Convictions under the laws of other states or countries which proscribe the same or similar conduct as the adore-designated California crimes shall be considered.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -3549,7 +3549,7 @@
       <text>All tanning facilities or other similar establishments shall comply with the following operating and sanitation requirements:</text>
       <para>
         <num>(a)</num>
-        <text>Advertising. No such establishment granted a permit under the provisions of <cite path="5.49">this chapter</cite> shall place, publish or distribute or cause to be placed, published or distributed, any advertising matter that describes or depicts any portion of the human body or any service in a manner which would reasonably suggest to prospective patrons that any service is available other than those services described in Section 22700 et seq. of the <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite>.</text>
+        <text>Advertising. No such establishment granted a permit under the provisions of <cite path="5.49">this chapter</cite> shall place, publish or distribute or cause to be placed, published or distributed, any advertising matter that describes or depicts any portion of the human body or any service in a manner which would reasonably suggest to prospective patrons that any service is available other than those services described in Section 22700 et seq. of the <cite doc="Cal. Bus. &amp; Prof. Code" proof="needed">Business and Professions Code</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3576,7 +3576,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Records. Every establishment shall keep a written record of the name and address of each patron and the date and hour of service, and of all hours worked by employees. Such written record, as well as those required by <cite doc="Cal. Bus. &amp; Prof. Code" proof="true">Business and Professions Code</cite> Sections 22700 et seq. shall be open to inspection only by officials charged with the enforcement of <cite path="5.49">this chapter</cite> and for no other purpose. Such records will be kept on the premises of the establishment for a period of two years.</text>
+          <text>Records. Every establishment shall keep a written record of the name and address of each patron and the date and hour of service, and of all hours worked by employees. Such written record, as well as those required by <cite doc="Cal. Bus. &amp; Prof. Code" proof="needed">Business and Professions Code</cite> Sections 22700 et seq. shall be open to inspection only by officials charged with the enforcement of <cite path="5.49">this chapter</cite> and for no other purpose. Such records will be kept on the premises of the establishment for a period of two years.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -3706,7 +3706,7 @@
     <prefix>Chapter</prefix>
     <num>5.51</num>
     <heading>POOL HALLS</heading>
-    <annotation type="Editor's Notes">For the license fee for pool halls, see <cite path="5.24.320" proof="true">Section 5.24.320</cite>.</annotation>
+    <annotation type="Editor's Notes">For the license fee for pool halls, see <cite path="5.24.320" proof="needed">Section 5.24.320</cite>.</annotation>
     <section>
       <num>5.51.010</num>
       <heading>CLOSING HOURS.</heading>
@@ -3995,7 +3995,7 @@
           <num>(6)</num>
           <text>Any other facts or statements required by the license collector.</text>
         </para>
-        <aftertext proof="true">Fingerprints of applicant shall not be required.</aftertext>
+        <aftertext proof="needed">Fingerprints of applicant shall not be required.</aftertext>
       </para>
       <para>
         <num>(b)</num>
@@ -4234,7 +4234,7 @@
     <prefix>Chapter</prefix>
     <num>5.75</num>
     <heading>TAXICABS—PUBLIC VEHICLES</heading>
-    <annotation type="Editor's Notes">For the statutory authority of local authorities within the reasonable exercise of their police power to license and regulate the operation of any vehicle for hire and the drivers of passenger vehicles for hire see <cite doc="Cal. Veh. Code" path="§16501">Cal. Veh. C.A. § 16501</cite>. For the provisions regarding carriers generally see Cal. C. C.A. § 2085 et seq. See also Cal. Pub. U. C.A. §§ 200 et seq. For the provisions regarding financial responsibility see <cite doc="Cal. Veh. Code" proof="true">Cal. Veh. C.A.</cite> §§ 16550 et seq.</annotation>
+    <annotation type="Editor's Notes">For the statutory authority of local authorities within the reasonable exercise of their police power to license and regulate the operation of any vehicle for hire and the drivers of passenger vehicles for hire see <cite doc="Cal. Veh. Code" path="§16501">Cal. Veh. C.A. § 16501</cite>. For the provisions regarding carriers generally see Cal. C. C.A. § 2085 et seq. See also Cal. Pub. U. C.A. §§ 200 et seq. For the provisions regarding financial responsibility see <cite doc="Cal. Veh. Code" proof="needed">Cal. Veh. C.A.</cite> §§ 16550 et seq.</annotation>
     <section>
       <num>5.75.010</num>
       <heading>DEFINITIONS.</heading>
@@ -4566,7 +4566,7 @@
               <strong>TAXICAB</strong>
             </center>
           </text>
-          <text proof="true">
+          <text proof="needed">
             <center>
               <strong>320</strong>
             </center>

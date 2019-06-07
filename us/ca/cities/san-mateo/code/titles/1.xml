@@ -8,7 +8,7 @@
     <num>1.01</num>
     <heading>CODE ADOPTION</heading>
     <annotation type="Editor's Notes">Prior history: Ords. 1971-36, 1985-13; prior code §§ 1.01-1.04, 1.06, 1.07, 2.01-2.04, 3.01.</annotation>
-    <annotation type="Editor's Notes">For the statutory provisions authorizing cities to adopt by reference a codification of its ordinances see West's <cite doc="Cal. Gov't Code" proof="true">Cal. Gov. C.A.</cite> §§ <cite doc="Cal. Gov't Code" path="§50022.1">50022.1</cite>-<cite doc="Cal. Gov't Code" path="§50022.8">50022.8</cite> and <cite doc="Cal. Gov't Code" path="§50022.10">50022.10</cite>.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions authorizing cities to adopt by reference a codification of its ordinances see West's <cite doc="Cal. Gov't Code" proof="needed">Cal. Gov. C.A.</cite> §§ <cite doc="Cal. Gov't Code" path="§50022.1">50022.1</cite>-<cite doc="Cal. Gov't Code" path="§50022.8">50022.8</cite> and <cite doc="Cal. Gov't Code" path="§50022.10">50022.10</cite>.</annotation>
     <section>
       <num>1.01.010</num>
       <heading>TITLE.</heading>
@@ -100,7 +100,7 @@
     <section>
       <num>1.01.050</num>
       <heading>CIVIL CODE PROVISIONS.</heading>
-      <text>The provisions of Sections <cite doc="Cal. Civ. Code" path="§13">13</cite> and <cite doc="Cal. Civ. Code" path="§1645">1645</cite> of the <cite doc="Cal. Civ. Code" proof="true">Civil Code</cite> of the State are adopted in the interpretation of words and phrases, unless otherwise provided herein.</text>
+      <text>The provisions of Sections <cite doc="Cal. Civ. Code" path="§13">13</cite> and <cite doc="Cal. Civ. Code" path="§1645">1645</cite> of the <cite doc="Cal. Civ. Code" proof="needed">Civil Code</cite> of the State are adopted in the interpretation of words and phrases, unless otherwise provided herein.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§1" type="History"/>
       </annotations>

@@ -102,12 +102,12 @@
     <para>
       <num>(5)</num>
       <text><cite doc="Cal. Gov't Code" path="§65863">Government Code section 65863</cite> is not incorporated by reference.</text>
-      <text>(b.) In the event of conflicts now or in the future, between these provisions of the <cite doc="Cal. Gov't Code" proof="true">California Government Code</cite> and City ordinances, resolutions, or Council policy, the latter shall prevail."</text>
+      <text>(b.) In the event of conflicts now or in the future, between these provisions of the <cite doc="Cal. Gov't Code" proof="needed">California Government Code</cite> and City ordinances, resolutions, or Council policy, the latter shall prevail."</text>
     </para>
   </section>
   <section>
     <num>2</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="27.16.060">Section 27.16.060</cite>, "Density Bonus," of <cite doc="City of San Mateo, Cal., Code" path="27.16">Chapter 27.16</cite>, "Residence Districts," is relocated to a new <cite doc="City of San Mateo, Cal., Code" path="27.15" proof="true">Chapter 27.15</cite>, "Density Bonus," of <cite doc="City of San Mateo, Cal., Code" path="27">Title 27 of the San Mateo Municipal Code</cite> and will read as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.16.060">Section 27.16.060</cite>, "Density Bonus," of <cite doc="City of San Mateo, Cal., Code" path="27.16">Chapter 27.16</cite>, "Residence Districts," is relocated to a new <cite doc="City of San Mateo, Cal., Code" path="27.15" proof="needed">Chapter 27.15</cite>, "Density Bonus," of <cite doc="City of San Mateo, Cal., Code" path="27">Title 27 of the San Mateo Municipal Code</cite> and will read as follows:</text>
     <include>
       <container>
         <prefix>Chapter</prefix>
@@ -346,7 +346,7 @@
   <section>
     <num>4</num>
     <text>Subsection (k)(5) of <cite doc="City of San Mateo, Cal., Code" path="27.19.050">Section 27.19.050</cite>, "Development Standards," is amended to read as follows:</text>
-    <include proof="true">
+    <include proof="needed">
       <para>
         <num>5.</num>
         <text>Parking Exemptions.  No additional parking shall be required for an accessory dwelling unit in the following instances:</text>

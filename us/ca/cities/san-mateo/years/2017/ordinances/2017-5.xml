@@ -116,7 +116,7 @@
   <section>
     <num>3</num>
     <text>Subsection (b) of <cite doc="City of San Mateo, Cal., Code" path="27.18.020">Section 27.18.020</cite>, "Permitted Uses", of <cite doc="City of San Mateo, Cal., Code" path="27.18">Chapter 27.18</cite>, "R1 Districts – One Family Dwellings", is amended to read as follows:</text>
-    <include proof="true">
+    <include proof="needed">
       <text>"(b) 	Accessory dwelling units and junior accessory dwelling units subject to the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite>."</text>
     </include>
   </section>
@@ -564,7 +564,7 @@
         </tr>
         <tr>
           <td>1. <strong>Residential Uses</strong>:</td>
-          <td proof="true"/>
+          <td proof="needed"/>
         </tr>
         <tr>
           <td>USES</td>
@@ -572,7 +572,7 @@
         </tr>
         <tr>
           <td>b. Accessory Dwelling Unit</td>
-          <td proof="true">
+          <td proof="needed">
             <p>1 parking space for an accessory dwelling unit with up to 1 bedroom and 1 additional parking space is required for each additional bedroom, except for the following instances when parking is exempt:</p>
             <p>a.	The accessory dwelling unit is located within one-half (1/2) mile of a public transit stop;</p>
             <p>b.	The accessory dwelling unit is located within an architecturally and historically significant historic district;</p>
