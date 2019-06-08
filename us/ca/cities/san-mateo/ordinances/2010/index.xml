@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2010">
+  <heading>2010 Ordinances</heading>
+  <heading type="short">2010</heading>
+  <xi:include href="./18.xml"/>
+  <xi:include href="./17.xml"/>
+  <xi:include href="./16.xml"/>
+  <xi:include href="./15.xml"/>
+  <xi:include href="./14.xml"/>
+  <xi:include href="./13.xml"/>
+  <xi:include href="./12.xml"/>
+  <xi:include href="./11.xml"/>
+  <xi:include href="./10.xml"/>
+  <xi:include href="./9.xml"/>
+  <xi:include href="./8.xml"/>
+  <xi:include href="./7.xml"/>
+  <xi:include href="./6.xml"/>
+  <xi:include href="./5.xml"/>
+  <xi:include href="./4.xml"/>
+  <xi:include href="./3.xml"/>
+  <xi:include href="./2.xml"/>
+  <xi:include href="./1.xml"/>
+</collection>

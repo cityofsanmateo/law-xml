@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <collection xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2012">
   <heading>2012 Ordinances</heading>
-  <xi:include href="./ordinances/2012-9.xml"/>
-  <xi:include href="./ordinances/2012-8.xml"/>
-  <xi:include href="./ordinances/2012-7.xml"/>
-  <xi:include href="./ordinances/2012-6.xml"/>
-  <xi:include href="./ordinances/2012-5.xml"/>
-  <xi:include href="./ordinances/2012-4.xml"/>
-  <xi:include href="./ordinances/2012-3.xml"/>
-  <xi:include href="./ordinances/2012-2.xml"/>
-  <xi:include href="./ordinances/2012-1.xml"/>
+  <heading type="short">2012</heading>
+  <xi:include href="./9.xml"/>
+  <xi:include href="./8.xml"/>
+  <xi:include href="./7.xml"/>
+  <xi:include href="./6.xml"/>
+  <xi:include href="./5.xml"/>
+  <xi:include href="./4.xml"/>
+  <xi:include href="./3.xml"/>
+  <xi:include href="./2.xml"/>
+  <xi:include href="./1.xml"/>
 </collection>

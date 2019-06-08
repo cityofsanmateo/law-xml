@@ -16,14 +16,14 @@
   <xi:include href="./us/ca/cities/san-mateo/code/index.xml"/>
   <collection xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" name="us/ca/cities/san-mateo/ordinances">
     <heading>Ordinances</heading>
-    <xi:include href="./us/ca/cities/san-mateo/years/2018/index.xml"/>
-    <xi:include href="./us/ca/cities/san-mateo/years/2017/index.xml"/>
-    <xi:include href="./us/ca/cities/san-mateo/years/2016/index.xml"/>
-    <xi:include href="./us/ca/cities/san-mateo/years/2015/index.xml"/>
-    <xi:include href="./us/ca/cities/san-mateo/years/2014/index.xml"/>
-    <xi:include href="./us/ca/cities/san-mateo/years/2013/index.xml"/>
-    <xi:include href="./us/ca/cities/san-mateo/years/2012/index.xml"/>
-    <xi:include href="./us/ca/cities/san-mateo/years/2011/index.xml"/>
-    <xi:include href="./us/ca/cities/san-mateo/years/2010/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2018/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2017/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2016/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2015/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2014/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2013/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2012/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2011/index.xml"/>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2010/index.xml"/>
   </collection>
 </library>
