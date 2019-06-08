@@ -1701,11 +1701,13 @@
       <include proof="needed">
         <para>
           <num>(a)</num>
-          <text>HIGH RISK BUILDING: Any building (except essential and hazardous facilities listed in Section A102.2) having an occupant load of 100 or more, as determined by 2016 CBC Section 1004.</text>
+          <heading>HIGH RISK BUILDING:</heading>
+          <text>Any building (except essential and hazardous facilities listed in Section A102.2) having an occupant load of 100 or more, as determined by 2016 CBC Section 1004.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>LOW RISK BUILDING: Any building (except essential and hazardous facilities listed in Section A102.2) having an occupant load of less than 100 occupants as determined by 2016 CBC Section 1004.</text>
+          <heading>LOW RISK BUILDING:</heading>
+          <text>Any building (except essential and hazardous facilities listed in Section A102.2) having an occupant load of less than 100 occupants as determined by 2016 CBC Section 1004.</text>
         </para>
       </include>
       <annotations>
@@ -6301,10 +6303,12 @@
       <include proof="needed">
         <para>
           <num>1.</num>
-          <text><u>Laundry-to-Landscape Infrastructure</u>: Any new one-family dwelling shall install a three-way diverter valve at the drain line of all laundry fixtures intended for optional installation of a laundry-to-landscape irrigation system.</text>
+          <heading>Laundry-to-Landscape Infrastructure:</heading>
+          <text>Any new one-family dwelling shall install a three-way diverter valve at the drain line of all laundry fixtures intended for optional installation of a laundry-to-landscape irrigation system.</text>
           <para>
             <num>a.</num>
-            <text><u>Note</u>: A complete laundry to landscape irrigation system shall comply with the California Plumbing Code Section 1502.1.1, Clothes Washer System.</text>
+            <heading>Note:</heading>
+            <text>A complete laundry to landscape irrigation system shall comply with the California Plumbing Code Section 1502.1.1, Clothes Washer System.</text>
           </para>
         </para>
       </include>

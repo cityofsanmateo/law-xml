@@ -878,7 +878,10 @@
           </para>
           <para>
             <num>(c)</num>
-            <heading>Investigation Fees:  Work without a Permit.</heading>
+            <heading>Investigation Fees:</heading>
+            <text>
+              <strong>Work without a Permit.</strong>
+            </text>
             <para>
               <num>(1)</num>
               <heading>Investigation.</heading>
@@ -1467,11 +1470,13 @@
           <heading>Section A103 – DEFINITIONS</heading>
           <para>
             <num>(a)</num>
-            <text>HIGH RISK BUILDING: Any building (except essential and hazardous facilities listed in Section A102.2) having an occupant load of 100 or more, as determined by 2016 CBC Section 1004.</text>
+            <heading>HIGH RISK BUILDING:</heading>
+            <text>Any building (except essential and hazardous facilities listed in Section A102.2) having an occupant load of 100 or more, as determined by 2016 CBC Section 1004.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text>LOW RISK BUILDING: Any building (except essential and hazardous facilities listed in Section A102.2) having an occupant load of less than 100 occupants as determined by 2016 CBC Section 1004.</text>
+            <heading>LOW RISK BUILDING:</heading>
+            <text>Any building (except essential and hazardous facilities listed in Section A102.2) having an occupant load of less than 100 occupants as determined by 2016 CBC Section 1004.</text>
           </para>
         </section>
         <section>
