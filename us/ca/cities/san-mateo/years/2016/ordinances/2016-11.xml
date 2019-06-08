@@ -32,26 +32,26 @@
         <num>23.70</num>
         <heading>– Green Building Code</heading>
         <toc>
-          <section>
+          <toc-section>
             <num>23.70.010</num>
             <heading>Adoption</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>23.70.020</num>
             <heading>Local Amendment for Laundry-to-Landscape Ready Infrastructure</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>23.70.030</num>
             <heading>Local Amendment for Electric Vehicle Charging for New Multifamily Residential</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>23.70.040</num>
             <heading>Local Amendment for Electric Vehicle Charging for New Non-Residential</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>23.70.050</num>
             <heading>Infeasibility Exemption</heading>
-          </section>
+          </toc-section>
         </toc>
         <section>
           <num>23.70.010</num>
