@@ -38,9 +38,7 @@
   </section>
   <section>
     <num>2</num>
-    <text>
-      <strong><cite doc="City of San Mateo, Cal., Code" path="7.45">Chapter 7.45</cite> is added to read as follows:</strong>
-    </text>
+    <heading>Chapter 7.45 is added to read as follows:</heading>
     <include>
       <container>
         <prefix>Chapter</prefix>
