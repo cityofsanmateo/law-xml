@@ -37,22 +37,22 @@
         <heading>– Energy Code</heading>
         <toc>
           <heading>Sections:</heading>
-          <section>
+          <toc-section>
             <num>23.24.010</num>
             <heading>Adoption</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>23.24.020</num>
             <heading>Local Amendment for Cool Roofs</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>23.24.030</num>
             <heading>Local Amendment for Mandatory Solar Installations</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>23.24.040</num>
             <heading>Infeasibility Exemption</heading>
-          </section>
+          </toc-section>
         </toc>
         <section>
           <num>23.24.010</num>

@@ -24,34 +24,34 @@
         <num>7.14</num>
         <heading>PROPERTY MAINTENANCE CODE</heading>
         <toc>
-          <section>
+          <toc-section>
             <num>7.14.010</num>
             <heading>Adoption</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>7.14.020</num>
             <heading>Chapter 1 – Scope and Administration</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>7.14.030</num>
             <heading>Chapter 2 – Definitions</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>7.14.040</num>
             <heading>Chapter 3 – General Requirements</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>7.14.050</num>
             <heading>Chapter 5 – Plumbing Facilities and Fixture Requirements</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>7.14.060</num>
             <heading>Chapter 6 – Mechanical and Electrical Requirements</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>7.14.070</num>
             <heading>Chapter 7 – Fire Safety Requirements</heading>
-          </section>
+          </toc-section>
         </toc>
         <section>
           <num>7.14.010</num>
