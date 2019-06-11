@@ -130,7 +130,7 @@
         <heading>ACCESSORY DWELLING UNIT AND JUNIOR ACCESSORY DWELLING UNIT -RESIDENTIAL ZONES</heading>
         <toc>
           <heading>Sections:</heading>
-          <container>
+          <toc-container>
             <prefix>Article</prefix>
             <num>I</num>
             <heading>Accessory Dwelling Unit</heading>
@@ -158,8 +158,8 @@
               <num>27.19.060</num>
               <heading>Recordation of Deed Restriction.</heading>
             </toc-section>
-          </container>
-          <container>
+          </toc-container>
+          <toc-container>
             <prefix>Article</prefix>
             <num>II</num>
             <heading>Junior Accessory Dwelling Unit</heading>
@@ -187,7 +187,7 @@
               <num>27.19.120</num>
               <heading>Recordation of Deed Restriction.</heading>
             </toc-section>
-          </container>
+          </toc-container>
         </toc>
         <container>
           <prefix>Article</prefix>
