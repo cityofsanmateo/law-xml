@@ -25,7 +25,10 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the City of San Mateo desires to adopt an uncodified ordinance requiring electronic filing of campaign statements.</text>
-      <text>THE CITY OF SAN MATEO FINDS AS FOLLOWS: The System will operate securely and effectively and will not unduly burden filers. Specifically: (1) the System will ensure the integrity of the data and includes safeguards against efforts to tamper with, manipulate, alter, or subvert data; (2) the System will only accept a filing the standardized record format developed by the Secretary of State and compatible with the Secretary of State's system for receiving an online or electronic filing; and (3) the System will be available free of charge to filers and to the public for viewing filings.</text>
+    </recital>
+    <recital>
+      <conjunction>THE CITY OF SAN MATEO FINDS AS FOLLOWS:</conjunction>
+      <text>The System will operate securely and effectively and will not unduly burden filers. Specifically: (1) the System will ensure the integrity of the data and includes safeguards against efforts to tamper with, manipulate, alter, or subvert data; (2) the System will only accept a filing the standardized record format developed by the Secretary of State and compatible with the Secretary of State's system for receiving an online or electronic filing; and (3) the System will be available free of charge to filers and to the public for viewing filings.</text>
     </recital>
     <recital>
       <conjunction>NOW, THEREFORE,</conjunction>
@@ -83,7 +86,7 @@
           <td>None</td>
         </tr>
       </table>
-      <text>ATTEST:</text>
     </text>
+    <text>ATTEST:</text>
   </section>
 </document>

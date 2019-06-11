@@ -24,7 +24,10 @@
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Clean Water Program consists of multiple program components including the upgrade of the San Mateo Wastewater Treatment Plant (WWTP) located at 2050 Detroit Drive; and</text>
-      <text>WHEREAS; the construction of the upgraded WWTP will require the use of several offsite locations for construction staging, storage, and parking; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS;</conjunction>
+      <text>the construction of the upgraded WWTP will require the use of several offsite locations for construction staging, storage, and parking; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -90,7 +93,7 @@
           <td>Bonilla</td>
         </tr>
       </table>
-      <text>ATTEST:</text>
     </text>
+    <text>ATTEST:</text>
   </section>
 </document>

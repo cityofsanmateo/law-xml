@@ -52,58 +52,58 @@
         <heading/>
         <toc>
           <heading>Sections:</heading>
-          <section>
+          <toc-section>
             <num>17.10.010</num>
             <heading>Purpose and Intent.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>17.10.020</num>
             <heading>General Definitions.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>17.10.030</num>
             <heading>Applicability.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>17.10.040</num>
             <heading>Required Approvals.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>17.10.050</num>
             <heading>Application Requirements.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>17.10.060</num>
             <heading>Notice.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>17.10.070</num>
             <heading>Decisions; Limited Exceptions; Protests; Appeals.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>17.10.080</num>
             <heading>Standard Conditions of Approval.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>17.10.090</num>
             <heading>Site Location Guidelines.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>17.10.100</num>
             <heading>Design Regulations.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>17.10.110</num>
             <heading>Temporary Wireless Facilities.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>17.10.120</num>
             <heading>Amortization of Nonconforming Wireless Facilities.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>17.10.130</num>
             <heading>Special Provisions for Section 6409 Approvals.</heading>
-          </section>
+          </toc-section>
         </toc>
         <section>
           <codify:insert/>
@@ -712,24 +712,26 @@
           <num>17.10.120</num>
           <heading>AMORTIZATION OF NONCONFORMING WIRELESS FACILITIES.</heading>
           <text>Any non-conforming wireless facilities in existence at the time <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> becomes effective must be brought into conformance with <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> in accordance with the amortization schedule in this Section.  As used in this section, the "fair market value" will be the construction costs listed on the building permit or application for the subject wireless facility and the "minimum years" allowed will be measured from the date on which <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> becomes effective.</text>
-          <table>
-            <tr>
-              <th>Fair Market Value on Effective Date</th>
-              <th>Minimum Years Allowed</th>
-            </tr>
-            <tr>
-              <td>Less than $50,000. . . . . . . . . . . . . . . . . . . . . . .</td>
-              <td>5</td>
-            </tr>
-            <tr>
-              <td>$50,000 to $500,000. . . . . . . . . . . . . . . . . . . . . </td>
-              <td>10</td>
-            </tr>
-            <tr>
-              <td>Greater than $500,000. . . . . . . . . . . . . . . . . . . .</td>
-              <td>15</td>
-            </tr>
-          </table>
+          <text>
+            <table>
+              <tr>
+                <th>Fair Market Value on Effective Date</th>
+                <th>Minimum Years Allowed</th>
+              </tr>
+              <tr>
+                <td>Less than $50,000. . . . . . . . . . . . . . . . . . . . . . .</td>
+                <td>5</td>
+              </tr>
+              <tr>
+                <td>$50,000 to $500,000. . . . . . . . . . . . . . . . . . . . . </td>
+                <td>10</td>
+              </tr>
+              <tr>
+                <td>Greater than $500,000. . . . . . . . . . . . . . . . . . . .</td>
+                <td>15</td>
+              </tr>
+            </table>
+          </text>
           <text>The Director may grant a written extension to a date certain when the wireless facility owner shows: (1) a good faith effort to cure non-conformance; (2) the application of this section would violate applicable laws; or (3) extreme economic hardship would result from strict compliance with the amortization schedule. Any extension must be the minimum time period necessary to avoid such extreme economic hardship. The Director may not grant any permanent exemption from this section.</text>
           <text>Nothing in this section is intended to limit any permit term to less than ten (10) years. In the event that the amortization required in this section would reduce the permit term to less than 10 years for any permit granted on or after January 1, 2007, then the minimum years allowed will be automatically extended by the difference between ten (10) years and the number of years since the City granted such permit. Nothing in this section is intended or may be applied to prohibit any collocation or modification covered under 47 U.S.C. § 1455(a) on the basis that the subject wireless facility is a legal nonconforming wireless facility.</text>
         </section>
@@ -869,7 +871,7 @@
           <td>None</td>
         </tr>
       </table>
-      <text>ATTEST:</text>
     </text>
+    <text>ATTEST:</text>
   </section>
 </document>

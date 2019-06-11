@@ -41,34 +41,34 @@
         <heading>BICYCLES</heading>
         <toc>
           <heading>Sections:</heading>
-          <section>
+          <toc-section>
             <num>11.56.100</num>
             <heading>Riding - On roadway or sidewalk.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>11.56.110</num>
             <heading>Riding - One person only.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>11.56.120</num>
             <heading>Riding - On permanent seat required.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>11.56.130</num>
             <heading>Holding onto or pulling other vehicles prohibited.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>11.56.140</num>
             <heading>Traffic signs and signals.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>11.56.150</num>
             <heading>Lights at night.</heading>
-          </section>
-          <section>
+          </toc-section>
+          <toc-section>
             <num>11.56.160</num>
             <heading>Parking.</heading>
-          </section>
+          </toc-section>
         </toc>
         <codify:remove path="11.56.010" warning="false"/>
         <codify:remove path="11.56.020" warning="false"/>
@@ -182,7 +182,7 @@
           <td>None</td>
         </tr>
       </table>
-      <text>ATTEST:</text>
     </text>
+    <text>ATTEST:</text>
   </section>
 </document>
