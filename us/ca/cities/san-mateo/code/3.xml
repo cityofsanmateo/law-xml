@@ -927,11 +927,26 @@
       <para>
         <num>(d)</num>
         <text>"Customer class" means or represents the structure or designation by which a user is classified based on industry wastewater standards for biochemical oxygen demand (BOD) and suspended solids (SS). There are five customer classes, one for residential and four for commercial customers. Customer classes are further defined as shown below.</text>
-        <text>	Class A – Standard Strength. All residential users including, but not limited to, single-family dwelling units, duplex units, and multi-family dwelling units.</text>
-        <text>	Class B – Standard Strength. Commercial users, including, but not limited to, offices, retail establishments, hotel and motels without restaurants, mixed uses (high strength comprises &lt; 25% of flow).</text>
-        <text>	Class C – Moderate Strength. Commercial users, including, but not limited to, hotels and motels with restaurants, industrial laundries, mixed use (high strength comprises 25% to 75% of flow), supermarkets with food preparation, bakeries, meat or seafood counters.</text>
-        <text>	Class D – High Strength. Commercial users, including, but not limited to, restaurants, wholesale bakeries, mortuaries, mixed use (high strength comprises &gt;75% of flow).</text>
-        <text>	Class E – Special. Commercial users that may require a determination on a case by case basis as prescribed by <cite path="3.54.030|(e)">Section 3.54.030(e)</cite>.</text>
+        <para>
+          <num>(1)</num>
+          <text>Class A – Standard Strength. All residential users including, but not limited to, single-family dwelling units, duplex units, and multi-family dwelling units.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Class B – Standard Strength. Commercial users, including, but not limited to, offices, retail establishments, hotel and motels without restaurants, mixed uses (high strength comprises &lt; 25% of flow).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Class C – Moderate Strength. Commercial users, including, but not limited to, hotels and motels with restaurants, industrial laundries, mixed use (high strength comprises 25% to 75% of flow), supermarkets with food preparation, bakeries, meat or seafood counters.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Class D – High Strength. Commercial users, including, but not limited to, restaurants, wholesale bakeries, mortuaries, mixed use (high strength comprises &gt;75% of flow).</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Class E – Special. Commercial users that may require a determination on a case by case basis as prescribed by <cite path="3.54.030|(e)">Section 3.54.030(e)</cite>.</text>
+        </para>
       </para>
       <para>
         <num>(e)</num>
