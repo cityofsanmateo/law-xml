@@ -2366,11 +2366,11 @@
         <para>
           <num>(d)</num>
           <text>Any change in use or occupancy creating a more hazardous fire/life safety condition, as determined by the Fire Chief requires that an automatic fire sprinkler system be installed.</text>
-          <text>
-            <strong>Exceptions:</strong>
-          </text>
         </para>
-        <para proof="needed">
+        <text>
+          <strong>Exceptions:</strong>
+        </text>
+        <para>
           <num>1.</num>
           <text>Seismic or accessibility improvements.</text>
         </para>
@@ -2460,11 +2460,11 @@
         <para>
           <num>(b)</num>
           <text>Having occupied floors located more than 40 feet above grade at the lowest floor level of exit discharge.</text>
-          <text>
-            <strong>Exceptions:</strong>
-          </text>
         </para>
-        <para proof="needed">
+        <text>
+          <strong>Exceptions:</strong>
+        </text>
+        <para>
           <num>1.</num>
           <text>Open parking garages.</text>
         </para>
