@@ -423,20 +423,22 @@
           <num>23.28.220</num>
           <heading>MIDRISE SMOKE CONTROL SYSTEMS– ADDED.</heading>
           <text>Section 909.1 is amended to add subsection 909.1.1 "Midrise Smoke Control Systems" to read as shown below:</text>
-          <text>The requirements of this section are intended to establish basic requirements for controlling the movement of smoke within a midrise building (smoke management system). Additional requirements for high-rise buildings shall be as specified in the CBC. This section shall apply to all buildings housing A, B, E, I and R and occupancies which meet any of the following conditions:</text>
-          <para>
-            <num>(a)</num>
-            <text>Four (4) or more stories in height.</text>
-          </para>
-          <para>
-            <num>(b)</num>
-            <text>Having occupied floors located more than 40 feet above grade at the lowest floor level of exit discharge.</text>
+          <include proof="needed">
+            <text>The requirements of this section are intended to establish basic requirements for controlling the movement of smoke within a midrise building (smoke management system). Additional requirements for high-rise buildings shall be as specified in the CBC. This section shall apply to all buildings housing A, B, E, I and R and occupancies which meet any of the following conditions:</text>
+            <para>
+              <num>(a)</num>
+              <text>Four (4) or more stories in height.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Having occupied floors located more than 40 feet above grade at the lowest floor level of exit discharge.</text>
+            </para>
             <text>Exceptions:</text>
             <para proof="needed">
               <num>1.</num>
               <text>Open parking garages.</text>
             </para>
-          </para>
+          </include>
         </section>
         <section>
           <num>23.28.230</num>

@@ -86,6 +86,7 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="27.06.080">Section 27.06.080</cite>, "State Planning and Zoning Regulations," is amended to read as follows:</text>
+<<<<<<< HEAD
     <include>
       <codify:replace-content path="27.06.080"/>
       <para>
@@ -117,6 +118,30 @@
         <text>In the event of conflicts now or in the future, between these provisions of the <cite doc="Cal. Gov't Code">California Government Code</cite> and City ordinances, resolutions, or Council policy, the latter shall prevail.<span codify:value="">"</span></text>
       </para>
     </include>
+=======
+    <text>(a.) Chapters 3 and 4 of Title <cite doc="Cal. Gov't Code" path="§7">7 of the California Government Code</cite>, commencing with Section 65100 thereof, are incorporated into <cite doc="City of San Mateo, Cal., Code" path="1">this Title</cite> and made a part hereof by this reference, with the following exceptions:</text>
+    <para>
+      <num>(1)</num>
+      <text>Amendments to the general plan may be processed simultaneously with related zoning amendments and/or discretionary permits; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>There shall be no limit on the number of times the general plan may be amended in a calendar year;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>No notice required to be published need be published in more than one issue of any newspaper;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Procedures for the enactment of zoning ordinances, including interim zoning ordinances/moratoria, are not incorporated; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text><cite doc="Cal. Gov't Code" path="§65863">Government Code section 65863</cite> is not incorporated by reference.</text>
+    </para>
+    <aftertext proof="needed">(b.) In the event of conflicts now or in the future, between these provisions of the California Government Code and City ordinances, resolutions, or Council policy, the latter shall prevail."</aftertext>
+>>>>>>> aftertext
   </section>
   <codify:remove path="27.16.060" warning="false"/>
   <section>
