@@ -208,12 +208,7 @@
   </text>
   <text>
     <center>
-      <strong>FINDINGS FOR LOCAL AMENDMENTS TO</strong>
-    </center>
-  </text>
-  <text>
-    <center>
-      <strong>CALIFORNIA ENERGY CODE, 2016 EDITION</strong>
+      <strong>FINDINGS FOR LOCAL AMENDMENTS TO CALIFORNIA ENERGY CODE, 2016 EDITION</strong>
     </center>
   </text>
   <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">Section 17958 of the California Health and Safety Code</cite> provides that the City may make changes to the provisions in the uniform codes that are published in the California Building Standards Code.  Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> require that for each proposed local change to those provisions in the uniform codes and published in the California Building Standards Code which regulate buildings used for human habitation, the City Council must make findings supporting its determination that each such local change is reasonably necessary because of local climatic, geological, or topographical conditions.</text>
@@ -234,15 +229,15 @@
       <tr>
         <td>Subchapter 2, Section 110.8(i)1</td>
         <td>Mandatory Requirements for Insulation, Roofing Products, and Radiant Barriers – Roofing Products Solar Reflectance and thermal Emittance</td>
-        <th></th>
+        <td>✓</td>
         <td/>
-        <th></th>
+        <td>✓</td>
         <td>A, B</td>
       </tr>
       <tr>
         <td>Subchapter 2, Section 110</td>
         <td>Mandatory Requirements for the Manufacture, Construction and Installation of Systems, Equipment, and Building Components</td>
-        <th></th>
+        <td>✓</td>
         <td/>
         <td/>
         <td>A</td>
@@ -250,27 +245,41 @@
     </table>
   </text>
   <text>
-    <table>
-      <caption>Key to Justification for Amendments to <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite> of the California Code of Regulations</caption>
-      <tr proof="needed">
-        <th>A.</th>
-        <th proof="needed">
-          <p>This amendment is justified on the basis of a local climatic condition.</p>
-          <p>Failure to address and significantly reduce greenhouse gas (GHG) emissions could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101 (Bayshore Freeway), particularly the mapped Flood Hazard areas of the City. Energy efficiency and the use of renewable energy sources are key components in reducing GHG emissions, and construction of more energy efficient buildings with dedicated renewable energy installations can help the City of San Mateo reduce its share of the GHG emissions that contribute to climate change. The burning of fossil fuels used in the generation of electric power and heating of buildings contributes to climate change, which could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101. Due to decrease in annual rain fall, the City experiences the effect of drought and water saving more than some other communities in California. Cool roofs reduce the urban heat island effect, and may significantly reduce local San Mateo temperatures if cool roofs are installed on a significant number of properties.</p>
-        </th>
-      </tr>
-      <tr>
-        <th>B.</th>
-        <td proof="needed">
-          <p>Energy efficiency enhances the public health and welfare by promoting the <strong><u>environmental</u></strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite> are designed to achieve the following goals:</p>
-          <p>(a) Increase energy efficiency in buildings;</p>
-          <p>(b) Increase resource conservation;</p>
-          <p>(c) Provide durable buildings that are efficient and economical to own and operate;</p>
-          <p>(d) Promote the health and productivity of residents, workers, and visitors to the city;</p>
-          <p>(e) Recognize and conserve the energy embodied in existing buildings; and</p>
-          <p>(f) Reduce disturbance of natural ecosystems.</p>
-        </td>
-      </tr>
-    </table>
+    <center>
+      <strong>Key to Justification for Amendments to Title 24 of the California Code of Regulations</strong>
+    </center>
   </text>
+  <para>
+    <num>A.</num> 
+    <text>This amendment is justified on the basis of a <strong><u>local</u></strong>climatic condition.</text> 
+    <text>Failure to address and significantly reduce greenhouse gas (GHG) emissions could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101 (Bayshore Freeway), particularly the mapped Flood Hazard areas of the City. Energy efficiency and the use of renewable energy sources are key components in reducing GHG emissions, and construction of more energy efficient buildings with dedicated renewable energy installations can help the City of San Mateo reduce its share of the GHG emissions that contribute to climate change. The burning of fossil fuels used in the generation of electric power and heating of buildings contributes to climate change, which could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101. Due to decrease in annual rain fall, the City experiences the effect of drought and water saving more than some other communities in California. Cool roofs reduce the urban heat island effect, and may significantly reduce local San Mateo temperatures if cool roofs are installed on a significant number of properties.</text>
+  </para>
+  <para>
+    <num>B.</num>
+    <text>Energy efficiency enhances the public health and welfare by promoting the <strong><u>environmental</u></strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite> are designed to achieve the following goals:</text>
+    <para>
+      <num>(a)</num>
+      <text>Increase energy efficiency in buildings;</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Increase resource conservation;</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Provide durable buildings that are efficient and economical to own and operate;</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Promote the health and productivity of residents, workers, and visitors to the city;</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Recognize and conserve the energy embodied in existing buildings; and</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Reduce disturbance of natural ecosystems.</text>
+    </para>
+  </para>
 </document>
