@@ -87,8 +87,8 @@
                   <num>2.</num>
                   <text>A minimum Solar Reflectance Index (SRI) of 85.</text>
                 </para>
-                <aftertext proof="needed"><strong>Exception 1: </strong>Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
-                <aftertext proof="needed"><strong>Exception 2: </strong>An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</aftertext>
+                <aftertext><strong>Exception 1: </strong>Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
+                <aftertext><strong>Exception 2: </strong>An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</aftertext>
               </para>
             </para>
             <para>
@@ -105,8 +105,8 @@
                   <num>2.</num>
                   <text>A minimum Solar Reflectance Index (SRI) of 85.</text>
                 </para>
-                <aftertext proof="needed"><strong>Exception 1:</strong> Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
-                <aftertext proof="needed"><strong>Exception 2: </strong>Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
+                <aftertext><strong>Exception 1:</strong> Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
+                <aftertext><strong>Exception 2: </strong>Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
               </para>
             </para>
             <para>
@@ -153,7 +153,7 @@
               </para>
             </para>
           </para>
-          <aftertext proof="needed"><strong>Exception to Section A:</strong>  As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</aftertext>
+          <aftertext><strong>Exception to Section A:</strong>  As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</aftertext>
         </section>
         <section>
           <num>23.24.040</num>
@@ -216,8 +216,8 @@
       <strong>CALIFORNIA ENERGY CODE, 2016 EDITION</strong>
     </center>
   </text>
-  <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">Section 17958 of the California Health and Safety Code</cite> provides that the City may make changes to the provisions in the uniform codes that are published in the California Building Standards Code.  Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code" proof="needed">Health and Safety Code</cite> require that for each proposed local change to those provisions in the uniform codes and published in the California Building Standards Code which regulate buildings used for human habitation, the City Council must make findings supporting its determination that each such local change is reasonably necessary because of local climatic, geological, or topographical conditions.</text>
-  <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code" proof="needed">Health and Safety Code</cite>.  Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings.  Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
+  <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">Section 17958 of the California Health and Safety Code</cite> provides that the City may make changes to the provisions in the uniform codes that are published in the California Building Standards Code.  Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> require that for each proposed local change to those provisions in the uniform codes and published in the California Building Standards Code which regulate buildings used for human habitation, the City Council must make findings supporting its determination that each such local change is reasonably necessary because of local climatic, geological, or topographical conditions.</text>
+  <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>.  Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings.  Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
   <text>
     <table>
       <tr>
@@ -235,7 +235,7 @@
         <td>Subchapter 2, Section 110.8(i)1</td>
         <td>Mandatory Requirements for Insulation, Roofing Products, and Radiant Barriers – Roofing Products Solar Reflectance and thermal Emittance</td>
         <th></th>
-        <td proof="needed"/>
+        <td/>
         <th></th>
         <td>A, B</td>
       </tr>
@@ -243,8 +243,8 @@
         <td>Subchapter 2, Section 110</td>
         <td>Mandatory Requirements for the Manufacture, Construction and Installation of Systems, Equipment, and Building Components</td>
         <th></th>
-        <td proof="needed"/>
-        <td proof="needed"/>
+        <td/>
+        <td/>
         <td>A</td>
       </tr>
     </table>
@@ -262,7 +262,7 @@
       <tr>
         <th>B.</th>
         <td proof="needed">
-          <p>Energy efficiency enhances the public health and welfare by promoting the <strong><u>environmental</u></strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" proof="needed">this Chapter</cite> are designed to achieve the following goals:</p>
+          <p>Energy efficiency enhances the public health and welfare by promoting the <strong><u>environmental</u></strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite> are designed to achieve the following goals:</p>
           <p>(a) Increase energy efficiency in buildings;</p>
           <p>(b) Increase resource conservation;</p>
           <p>(c) Provide durable buildings that are efficient and economical to own and operate;</p>
