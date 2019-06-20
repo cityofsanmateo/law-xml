@@ -436,7 +436,7 @@
             <num>(xx)</num>
             <text><strong>"Native plant"</strong> means a plant indigenous to a specific area of consideration. For the purposes of these guidelines, the term shall refer to plants indigenous to the coastal ranges of Central and Northern California, and more specifically to such plants that are suited to the ecology of the present or historic natural community (ies) of the project's vicinity.</text>
           </para>
-          <para proof="needed">
+          <para>
             <num>(aaa)</num>
             <text><strong>"New construction"</strong> means, for the purposes of <cite doc="City of San Mateo, Cal., Code" path="23.72">this chapter</cite>, a new building with landscape, or other new landscape such as a park, playground, or greenbelt without an associated building.</text>
           </para>
@@ -524,7 +524,7 @@
             <num>(vvv)</num>
             <text><strong>"Static water pressure"</strong> means the pipeline or municipal water supply pressure when water is not flowing.</text>
           </para>
-          <para proof="needed">
+          <para>
             <num>(aaaa)</num>
             <text><strong>"Station"</strong> means an area served by one valve or by a set of valves that operate simultaneously.</text>
           </para>
@@ -776,11 +776,11 @@
               <text>Where:</text>
               <text>MAWA = Maximum Applied Water Allowance (gallons per year)</text>
               <text>ETo     = Reference Evapotranspiration (inches per year)</text>
-              <text proof="needed">0.62     = Conversion Factor (to gallons)</text>
-              <text proof="needed">0.55     = Reference Evapotranspiration Adjustment Factor (ETAF) for residential area</text>
-              <text proof="needed">0.45     = Reference Evapotranspiration Adjustment Factor (ETAF) for non-residential areas</text>
+              <text>0.62     = Conversion Factor (to gallons)</text>
+              <text>0.55     = Reference Evapotranspiration Adjustment Factor (ETAF) for residential area</text>
+              <text>0.45     = Reference Evapotranspiration Adjustment Factor (ETAF) for non-residential areas</text>
               <text>LA       = Landscape Area including SLA in residential areas</text>
-              <text proof="needed">0.3       = Additional Water Allowance for SLA in non-residential areas</text>
+              <text>0.3       = Additional Water Allowance for SLA in non-residential areas</text>
               <text>SLA    = Special Landscape Area (square feet).</text>
             </para>
           </para>
@@ -809,7 +809,7 @@
             <text>PF       = Plant Factor from WUCOLS</text>
             <text>HA      = Hydrozone Area (high, medium, and low water use areas] (square feet)</text>
             <text>SLA    = Special Landscape Area (square feet)</text>
-            <text proof="needed">0.62     = Conversion Factor</text>
+            <text>0.62     = Conversion Factor</text>
             <text>IE        = Irrigation Efficiency (minimum 0.70) equals 0.75 for overhead spray devices and 0.81 for drip system devices</text>
           </para>
         </section>
@@ -1436,20 +1436,20 @@
             <num>(a)</num>
             <text>Implementing stormwater best management practices into the landscape and grading design plans to minimize runoff and to increase on-site rainwater retention and infiltration are required and must be consistent with City stormwater management requirements.</text>
           </para>
-          <para proof="needed">
-            <num>(a)</num>
+          <para>
+            <num>(b)</num>
             <text>Project Applicants shall refer to the local agency or Regional Water Quality Control Board for information on any applicable stormwater technical requirements.</text>
           </para>
           <para>
-            <num>(b)</num>
+            <num>(c)</num>
             <text>All planted landscape areas are required to have friable soil to maximize water retention and infiltration.</text>
           </para>
           <para>
-            <num>(c)</num>
+            <num>(d)</num>
             <text>Where physically feasible, landscape areas shall be designed for capture and infiltration capacity that is sufficient to prevent runoff from impervious surfaces (i.e. roof and paved areas) from either: the one inch, 24-hour rain event or (2) the 85th percentile, 24-hour rain event, and/or additional capacity as required by any applicable local, regional, state or federal regulation.</text>
           </para>
           <para>
-            <num>(d)</num>
+            <num>(e)</num>
             <text>Storm water projects shall  incorporate the following elements to improve on-site storm water and dry weather runoff capture and use:</text>
             <para>
               <num>(1)</num>
@@ -1553,8 +1553,8 @@
             <num>(a)</num>
             <text>All model homes that are landscaped shall use signs and written information to demonstrate the principals of water-efficient landscapes that are described in <cite doc="City of San Mateo, Cal., Code" path="23.72">this Chapter</cite>.</text>
           </para>
-          <para proof="needed">
-            <num>(a)</num>
+          <para>
+            <num>(b)</num>
             <text>Signs must be used to identify the model as an example of a water efficient landscape featuring elements such as hydrozones, irrigation equipment, and others that contribute to the overall water efficient theme. Signage shall include information about site water use as designed per the local ordinance; specify who designed and installed the water efficient landscape; and demonstrate low water use approaches to landscaping such as using native plants, graywater systems, and rainwater catchment systems. Information must be included about designing, installing, managing, and maintaining water efficient landscapes.</text>
           </para>
         </section>
