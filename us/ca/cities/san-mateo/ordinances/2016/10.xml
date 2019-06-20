@@ -1158,7 +1158,9 @@
           <para>
             <num>(1)</num>
             <text>Add a new footnote "f" to the end of CRC Table R602.10.3(3), to read:</text>
-            <text proof="needed">f. In Seismic Design Categories D<sub>0</sub>, D<sub>1</sub>, and D<sub>2</sub>, Method GB is not permitted and the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
+            <include>
+              <text>f. In Seismic Design Categories D<sub>0</sub>, D<sub>1</sub>, and D<sub>2</sub>, Method GB is not permitted and the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
+            </include>
           </para>
           <para>
             <num>(2)</num>
@@ -1167,7 +1169,9 @@
           <para>
             <num>(3)</num>
             <text>Add a new subsection R602.10.4.4, to read:</text>
-            <text><strong>R602.10.4.4 Limits on methods GB and PCP</strong>.  In Seismic Design Categories D<sub>0</sub>, D<sub>1</sub>, and D<sub>2</sub>, Method GB is not permitted for use as intermittent braced wall panels, but gypsum board is permitted to be installed when required by this Section to be placed on the opposite side of the studs from other types of braced wall panel sheathing.   In Seismic Design Categories D<sub>0</sub>, D<sub>1</sub>, and D<sub>2</sub>, the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
+            <include>
+              <text><strong>R602.10.4.4 Limits on methods GB and PCP</strong>.  In Seismic Design Categories D<sub>0</sub>, D<sub>1</sub>, and D<sub>2</sub>, Method GB is not permitted for use as intermittent braced wall panels, but gypsum board is permitted to be installed when required by this Section to be placed on the opposite side of the studs from other types of braced wall panel sheathing.   In Seismic Design Categories D<sub>0</sub>, D<sub>1</sub>, and D<sub>2</sub>, the use of Method PCP is limited to one-story single family dwellings and accessory structures.</text>
+            </include>
           </para>
         </section>
       </container>
@@ -1317,33 +1321,41 @@
           <num>23.08.120</num>
           <heading>SECTION  1705.3 Concrete Construction AMENDED</heading>
           <text>Section 1705.3 is amended to read as follows:</text>
-          <text proof="needed"><strong>1705.3 Concrete construction. </strong>The special inspections and verifications for concrete construction shall be as required by this section and Table 1705.3.</text>
-          <text><strong>Exception: </strong>Special inspections shall not be required for:</text>
-          <para>
-            <num>(1)</num>
-            <text>Isolated spread concrete footings of buildings three stories or less above grade plane that are fully supported on earth or rock, where the structural design of the footing is based on a specified compressive strength, f'c, no greater than 2,500 pound per square inch (psi) (17.2 Mpa).</text>
-          </para>
+          <include>
+            <section>
+              <num>1705.3</num>
+              <heading>Concrete construction.</heading>
+              <text>The special inspections and verifications for concrete construction shall be as required by this section and Table 1705.3.</text>
+              <text><strong>Exception: </strong>Special inspections shall not be required for:</text>
+              <para>
+                <num>(1)</num>
+                <text>Isolated spread concrete footings of buildings three stories or less above grade plane that are fully supported on earth or rock, where the structural design of the footing is based on a specified compressive strength, f'c, no greater than 2,500 pound per square inch (psi) (17.2 Mpa).</text>
+              </para>
+            </section>
+          </include>
         </section>
         <section>
           <num>23.08.130</num>
-          <heading>Section 1905.1.7, Plain Concrete in Earthquake Resisting Structures aMended</heading>
-          <text proof="needed"><strong>1905.1.8 ACI 318, Section 14.1.4. </strong>Delete ACI 318, Section 14.1.4, and replace with the following:</text>
-          <text proof="needed">14.1.4 - Plain concrete in structures assigned to Seismic Design Category C, D, E or F.</text>
-          <text proof="needed">14.1.4.1- Structures assigned to Seismic Design Category C, D, E or F shall not have elements of structural plain concrete, except as follows:</text>
-          <text>
-            <s>(a). Structural plain concrete basement, foundation or other walls below the base are permitted in detached one and two-family dwellings three stories or less in height constructed with stud bearing walls. In dwellings assigned to seismic design category D or E, the height of the wall shall not exceed 8 feet (2438 mm), the thickness shall not be less than 71/2 inches (190 mm), and the wall shall retain no more than 4 feet (1219 mm) of unbalanced fill. Walls shall have reinforcement in accordance with 22.6.6.5.</s>
-          </text>
-          <para proof="needed">
-            <num>(a)</num>
-            <text>Isolated footings of plain concrete supporting pedestals or columns are permitted,provided the projection of the footing beyond the face of the supported member does not	exceed the footing thickness.</text>
-            <text>Exception: In detached one- and two-family dwelling three stories or less in height, the projection of the footing beyond the face of the supported member is permitted to exceed the footing thickness.</text>
-          </para>
-          <para>
-            <num>(b)</num>
-            <text>Plain concrete footing supporting walls are permitted, provided the footings have at least two continuous longitudinal reinforcing bars. Bars shall not be smaller than No. 4 and shall have a total area of not less than 0.002 times the gross cross-sectional area of the footing. A minimum of one bar shall be provided at the top and bottom of the footing. Continuity of reinforcement shall be provided at corners and intersections.</text>
-            <text>Exception:</text>
-            <text>In detached one-and two-family dwellings three stories or less in height and constructed with stud bearing walls, plain concrete footings with at least two continuous longitudinal reinforcing bars not smaller than No. 4 are permitted to have a total area of less than 0.002 times the gross cross–sectional area of the footing.</text>
-          </para>
+          <heading>Section 1905.1.7, Plain Concrete in Earthquake Resisting Structures AMENDED</heading>
+          <text><strong>1905.1.8 ACI 318, Section 14.1.4. </strong>Delete ACI 318, Section 14.1.4, and replace with the following:</text>
+          <include>
+            <text>14.1.4 - Plain concrete in structures assigned to Seismic Design Category C, D, E or F.</text>
+            <text>14.1.4.1- Structures assigned to Seismic Design Category C, D, E or F shall not have elements of structural plain concrete, except as follows:</text>
+            <text>
+              <s>(a). Structural plain concrete basement, foundation or other walls below the base are permitted in detached one and two-family dwellings three stories or less in height constructed with stud bearing walls. In dwellings assigned to seismic design category D or E, the height of the wall shall not exceed 8 feet (2438 mm), the thickness shall not be less than 71/2 inches (190 mm), and the wall shall retain no more than 4 feet (1219 mm) of unbalanced fill. Walls shall have reinforcement in accordance with 22.6.6.5.</s>
+            </text>
+            <para>
+              <num>(a)</num>
+              <text>Isolated footings of plain concrete supporting pedestals or columns are permitted,provided the projection of the footing beyond the face of the supported member does not	exceed the footing thickness.</text>
+              <text>Exception: In detached one- and two-family dwelling three stories or less in height, the projection of the footing beyond the face of the supported member is permitted to exceed the footing thickness.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>Plain concrete footing supporting walls are permitted, provided the footings have at least two continuous longitudinal reinforcing bars. Bars shall not be smaller than No. 4 and shall have a total area of not less than 0.002 times the gross cross-sectional area of the footing. A minimum of one bar shall be provided at the top and bottom of the footing. Continuity of reinforcement shall be provided at corners and intersections.</text>
+              <text>Exception:</text>
+              <text>In detached one-and two-family dwellings three stories or less in height and constructed with stud bearing walls, plain concrete footings with at least two continuous longitudinal reinforcing bars not smaller than No. 4 are permitted to have a total area of less than 0.002 times the gross cross–sectional area of the footing.</text>
+            </para>
+          </include>
         </section>
         <section>
           <num>23.08.140</num>
@@ -1513,27 +1525,29 @@
           <num>23.10.016</num>
           <heading>TIME LIMITS FOR COMPLIANCE.</heading>
           <text>Section A105.1 is amended by adding the following:</text>
-          <para proof="needed">
-            <num>(b)</num>
-            <heading>Time Limits for Compliance.</heading>
-            <text>In addition to the provisions set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>.</text>
+          <include>
             <para>
-              <num>(1)</num>
-              <text>Structural analysis and upgrade. The owner of each building within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this chapter</cite> shall cause a structural analysis of the building to be made by a civil or structural engineer or architect licensed by the State of California. If the building does not meet the minimum earthquake standards specified in <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>, the owner shall cause it to be structurally altered to conform to such standards.</text>
-            </para>
-            <para>
-              <num>(2)</num>
-              <text>Time limits. The owner of a building within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> shall comply with the requirements set forth above by submitting the following to the building official for review within the stated time limits:</text>
+              <num>(b)</num>
+              <heading>Time Limits for Compliance.</heading>
+              <text>In addition to the provisions set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>.</text>
               <para>
-                <num>1.</num>
-                <text>Within one year after the service of the order, a structural analysis, which is subject to approval by the building official, and which shall demonstrate that the building meets the minimum requirements of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>; or</text>
+                <num>(1)</num>
+                <text>Structural analysis and upgrade. The owner of each building within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this chapter</cite> shall cause a structural analysis of the building to be made by a civil or structural engineer or architect licensed by the State of California. If the building does not meet the minimum earthquake standards specified in <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>, the owner shall cause it to be structurally altered to conform to such standards.</text>
               </para>
               <para>
-                <num>2.</num>
-                <text>Within one year after the service of the order, a structural analysis and plans for the proposed structural alterations of the building necessary to comply with the minimum requirements of <cite doc="City of San Mateo, Cal., Code" path="23.10">this chapter</cite>. After plans are submitted and approved by the building official, the owner shall obtain a building permit, commence and complete the required construction within four years from service of the order, for high-risk buildings, and within six years from service of the order for low-risk buildings.</text>
+                <num>(2)</num>
+                <text>Time limits. The owner of a building within the scope of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite> shall comply with the requirements set forth above by submitting the following to the building official for review within the stated time limits:</text>
+                <para>
+                  <num>1.</num>
+                  <text>Within one year after the service of the order, a structural analysis, which is subject to approval by the building official, and which shall demonstrate that the building meets the minimum requirements of <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>; or</text>
+                </para>
+                <para>
+                  <num>2.</num>
+                  <text>Within one year after the service of the order, a structural analysis and plans for the proposed structural alterations of the building necessary to comply with the minimum requirements of <cite doc="City of San Mateo, Cal., Code" path="23.10">this chapter</cite>. After plans are submitted and approved by the building official, the owner shall obtain a building permit, commence and complete the required construction within four years from service of the order, for high-risk buildings, and within six years from service of the order for low-risk buildings.</text>
+                </para>
               </para>
             </para>
-          </para>
+          </include>
         </section>
       </container>
     </include>
@@ -1625,7 +1639,13 @@
           <num>23.16.020</num>
           <heading>SECTION 719.7 CLEANOUTS.</heading>
           <text>Section 719.0 is amended by adding Section 719.7 as follows:</text>
-          <text proof="needed"><strong>719.7 Cleanout. </strong>Cleanouts shall be installed adjacent to the property line where the private sewer system connects to the public sanitary sewer lateral and in conformance with the California Plumbing Code. All such line cleanouts shall be extended to grade with materials and according to specifications approved by the Director of Public Works, or his designee, and terminate within a concrete box.</text>
+          <include>
+            <section>
+             <num>719.7</num>
+              <heading>Cleanout.</heading>
+              <text>Cleanouts shall be installed adjacent to the property line where the private sewer system connects to the public sanitary sewer lateral and in conformance with the California Plumbing Code. All such line cleanouts shall be extended to grade with materials and according to specifications approved by the Director of Public Works, or his designee, and terminate within a concrete box.</text>
+            </section>
+          </include>
         </section>
       </container>
     </include>
@@ -1720,24 +1740,24 @@
     </text>
     <text>ATTEST:</text>
   </section>
-  <text proof="needed">
+  <text>
     <center>
       <strong>
         <u>EXHIBIT A</u>
       </strong>
     </center>
   </text>
-  <text proof="needed">
+  <text>
     <strong><cite doc="City of San Mateo, Cal., Code" path="23.07.080">23.07.080</cite> SECTIONS R902.1 AMENDED--ROOFING REQUIREMENTS.</strong>
   </text>
-  <text proof="needed">
+  <text>
     <strong><cite doc="City of San Mateo, Cal., Code" path="23.08.100">23.08.100</cite> SECTIONS 1505.1, 1505.1.3 AMENDED--ROOFING REQUIREMENTS,</strong>
   </text>
-  <text proof="needed">FINDINGS:</text>
-  <text proof="needed"><u>Local Climatic Conditions</u> - The weather patterns within the City of San Mateo are considered to be moderately affected by westerly winds that can average from 10-15 mph and gusts that can exceed 40 mph which are experienced almost year round.  An average year's rainfall is approximately 22.95 inches, while summer conditions are hot and dry.  These summer conditions create hazardous fuel situations that have caused grassland and brush land fires in recent years.  Year round average temperatures range from 58 in the winter to 81 degrees during the summer, however high temperatures have ranged from 75 in the winter to 110 degrees in the summer.  Low humidity, high temperatures and gusting winds can move a fire quickly in the hillsides and canyon areas of the City and can tax the capabilities of its urban designed fire department. Lower water pressure in these areas also affects the abilities to quickly suppress any fires.</text>
-  <text proof="needed">Because of the unpredictable weather patterns, drought and water rationing can be expected, causing dry vegetation and hazardous fire conditions.  Weather patterns can go to the other extreme with heavy rains creating higher fuel load in the hillsides.  A heavy rain pattern would also impact a flood plain area located in the northeast portion of the City.  This condition has the potential of causing additional barriers in this area when flooding blocks streets and underpasses.</text>
-  <text proof="needed">The conditions described in this section make it reasonably necessary for the City to adopt the following ordinance section as modifications to the 2016 California Residential and Building Codes and these findings are specifically intended to satisfy the requirements of <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">California Health and Safety Code Section 17958.7</cite> in that regard:  <cite doc="City of San Mateo, Cal., Code" path="23.07.080">San Mateo Municipal Code Section 23.07.080</cite> and <cite doc="City of San Mateo, Cal., Code" path="23.08.100">23.08.100</cite><strong>.</strong></text>
-  <text proof="needed">
+  <text>FINDINGS:</text>
+  <text><u>Local Climatic Conditions</u> - The weather patterns within the City of San Mateo are considered to be moderately affected by westerly winds that can average from 10-15 mph and gusts that can exceed 40 mph which are experienced almost year round.  An average year's rainfall is approximately 22.95 inches, while summer conditions are hot and dry.  These summer conditions create hazardous fuel situations that have caused grassland and brush land fires in recent years.  Year round average temperatures range from 58 in the winter to 81 degrees during the summer, however high temperatures have ranged from 75 in the winter to 110 degrees in the summer.  Low humidity, high temperatures and gusting winds can move a fire quickly in the hillsides and canyon areas of the City and can tax the capabilities of its urban designed fire department. Lower water pressure in these areas also affects the abilities to quickly suppress any fires.</text>
+  <text>Because of the unpredictable weather patterns, drought and water rationing can be expected, causing dry vegetation and hazardous fire conditions.  Weather patterns can go to the other extreme with heavy rains creating higher fuel load in the hillsides.  A heavy rain pattern would also impact a flood plain area located in the northeast portion of the City.  This condition has the potential of causing additional barriers in this area when flooding blocks streets and underpasses.</text>
+  <text>The conditions described in this section make it reasonably necessary for the City to adopt the following ordinance section as modifications to the 2016 California Residential and Building Codes and these findings are specifically intended to satisfy the requirements of <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">California Health and Safety Code Section 17958.7</cite> in that regard:  <cite doc="City of San Mateo, Cal., Code" path="23.07.080">San Mateo Municipal Code Section 23.07.080</cite> and <cite doc="City of San Mateo, Cal., Code" path="23.08.100">23.08.100</cite><strong>.</strong></text>
+  <text>
     <strong><cite doc="City of San Mateo, Cal., Code" path="23.07.110">23.07.110</cite> SECTION R Section R602.10.3(3) and Table R602.10.4.4 AMENDED— prohibit the use of gypsum board and limit the use of Portland cement plaster as prescriptive wall bracing materials in Seismic Design Categories D</strong>
     <sub>
       <strong>0</strong>
@@ -1751,17 +1771,17 @@
       <strong>2</strong>
     </sub>
   </text>
-  <text proof="needed">FINDINGS:</text>
-  <text proof="needed"><u>Local Geological Conditions</u> – San Mateo is located near a vast array of fault systems capable of producing major earthquakes, including but not limited to, the recent 1989 Loma Prieta. Gypsum wallboard and exterior Portland cement plaster have performed poorly during recent California seismic events. The shear values for gypsum wallboard and portland cement stucco contained in the code are based on mono-directional testing. It is appropriate to limit the use of these products until cyclic loading testing are performed and evaluated.</text>
-  <text proof="needed">
+  <text>FINDINGS:</text>
+  <text><u>Local Geological Conditions</u> – San Mateo is located near a vast array of fault systems capable of producing major earthquakes, including but not limited to, the recent 1989 Loma Prieta. Gypsum wallboard and exterior Portland cement plaster have performed poorly during recent California seismic events. The shear values for gypsum wallboard and portland cement stucco contained in the code are based on mono-directional testing. It is appropriate to limit the use of these products until cyclic loading testing are performed and evaluated.</text>
+  <text>
     <strong><cite doc="City of San Mateo, Cal., Code" path="23.08.120">23.08.120</cite> SECTION 1705.3 Concrete Construction – Amended</strong>
   </text>
-  <text proof="needed">
+  <text>
     <strong><cite doc="City of San Mateo, Cal., Code" path="23.08.130">23.08.130</cite> SECTION 1905.1.7, ACI 318 Section 14.1.4 – Amended</strong>
   </text>
-  <text proof="needed">FINDINGS:</text>
-  <text proof="needed"><u>Local Geological Conditions</u> – San Mateo is located near a vast array of fault systems capable of producing major earthquakes, including but not limited to, the recent 1989 Loma Prieta. Results from studies after the 1994 Northridge earthquake indicated that a lot of the damages were attributed to lack of quality control during construction. The proposed amendment improves quality control during construction and therefore needs to be incorporated into the Code. Revise CBC Section 1705.3 exception No. 1 to allow special inspection not to be required for isolated spread footing where the structural design of the footing is based on a specified compressive strength, f'c, no greater than 2,500 psi. This proposed amendment is a continuation of an amendment adopted during the previous code adoption cycle.</text>
-  <text proof="needed"><strong><cite doc="City of San Mateo, Cal., Code" path="23.16.020">23.16.020</cite> SECTION 719.0 AMENDED--CLEANOUTS</strong>.</text>
-  <text proof="needed">FINDINGS:</text>
-  <text proof="needed"><u>Local Geological Conditions</u> – San Mateo soils are expansive in nature. These expansive soils create unstable conditions which increase the potential of breaks in sewer laterals. To maintain health and sanitary services, it is necessary to gain access and to periodically maintain public sanitary laterals. This is accomplished by the additional cleanout as required above.</text>
+  <text>FINDINGS:</text>
+  <text><u>Local Geological Conditions</u> – San Mateo is located near a vast array of fault systems capable of producing major earthquakes, including but not limited to, the recent 1989 Loma Prieta. Results from studies after the 1994 Northridge earthquake indicated that a lot of the damages were attributed to lack of quality control during construction. The proposed amendment improves quality control during construction and therefore needs to be incorporated into the Code. Revise CBC Section 1705.3 exception No. 1 to allow special inspection not to be required for isolated spread footing where the structural design of the footing is based on a specified compressive strength, f'c, no greater than 2,500 psi. This proposed amendment is a continuation of an amendment adopted during the previous code adoption cycle.</text>
+  <text><strong><cite doc="City of San Mateo, Cal., Code" path="23.16.020">23.16.020</cite> SECTION 719.0 AMENDED--CLEANOUTS</strong>.</text>
+  <text>FINDINGS:</text>
+  <text><u>Local Geological Conditions</u> – San Mateo soils are expansive in nature. These expansive soils create unstable conditions which increase the potential of breaks in sewer laterals. To maintain health and sanitary services, it is necessary to gain access and to periodically maintain public sanitary laterals. This is accomplished by the additional cleanout as required above.</text>
 </document>
