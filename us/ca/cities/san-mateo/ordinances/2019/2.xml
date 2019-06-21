@@ -13,11 +13,7 @@
       <adopted>2019-04-01</adopted>
     </history>
   </meta>
-  <text>
-    <ul proof="true">
-      <li>The Council of the City of San Mateo, California, ordains as follows:</li>
-    </ul>
-  </text>
+  <text>The Council of the City of San Mateo, California, ordains as follows:</text>
   <section>
     <num>1</num>
     <heading>COUNCIL FINDINGS.</heading>
@@ -64,7 +60,7 @@
   <section>
     <num>4</num>
     <heading>PUBLICATION.</heading>
-    <text>In accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.15" proof="true">City Charter Section 2.15</cite>, this Ordinance shall be published once in a newspaper of general circulation before becoming effective.</text>
+    <text>In accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.15">City Charter Section 2.15</cite>, this Ordinance shall be published once in a newspaper of general circulation before becoming effective.</text>
   </section>
   <section>
     <num>5</num>
