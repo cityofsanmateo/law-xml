@@ -800,9 +800,9 @@
           <text>
             <table>
               <caption>Table 25.06-1: Sign Restrictions in Residential (R) Districts for Residential Uses on Zoning Plots less than 10,000 Square Feet (R1-A, R1-B, R1-C, R2, R3, R4, R5, R4-D, R5-D, R6-D)</caption>
-              <tr proof="needed">
+              <tr>
                 <th>Total Sign Area Permitted</th>
-                <th>Signs up to 10 sq. ft. in R1 and R2 districts and 16 sq. ft. in all other districts. No sign may be larger than 6 sq. ft., except as allowed as flags and pennants.</th>
+                <td>Signs up to 10 sq. ft. in R1 and R2 districts and 16 sq. ft. in all other districts. No sign may be larger than 6 sq. ft., except as allowed as flags and pennants.</td>
               </tr>
               <tr>
                 <th>Number of Signs Permitted</th>
@@ -810,22 +810,22 @@
               </tr>
               <tr>
                 <th>Types of Signs Permitted</th>
-                <td proof="needed"/>
+                <td colspan="4"/>
               </tr>
               <tr>
                 <td>Face</td>
-                <td>No neon</td>
+                <td colspan="4">No neon</td>
               </tr>
               <tr>
                 <td>Freestanding</td>
-                <td>No neon; plus maximum height limit of 8 ft</td>
+                <td colspan="4">No neon; plus maximum height limit of 8 ft</td>
               </tr>
               <tr>
                 <td>Projecting</td>
-                <td>No internal neon</td>
+                <td colspan="4">No internal neon</td>
               </tr>
               <tr>
-                <td>No sign, regardless of type, shall be located above 40 feet above grade, except as provided for high-rise buildings in <cite path="25.06.050">Section 25.06.050</cite>.</td>
+                <td colspan="5">No sign, regardless of type, shall be located above 40 feet above grade, except as provided for high-rise buildings in <cite path="25.06.050">Section 25.06.050</cite>.</td>
               </tr>
             </table>
           </text>
@@ -855,22 +855,22 @@
               </tr>
               <tr>
                 <th>Types of Signs Permitted</th>
-                <td proof="needed"/>
+                <td colspan="4"/>
               </tr>
               <tr>
                 <td>Face</td>
-                <td>No neon</td>
+                <td colspan="4">No neon</td>
               </tr>
               <tr>
                 <td>Freestanding</td>
-                <td>No neon; plus maximum height limit of 8 ft.</td>
+                <td colspan="4">No neon; plus maximum height limit of 8 ft.</td>
               </tr>
               <tr>
                 <td>Projecting</td>
-                <td>No neon</td>
+                <td colspan="4">No neon</td>
               </tr>
               <tr>
-                <td>No sign, regardless of type, shall be located above 40 feet above grade, except as provided for high-rise buildings in <cite path="25.06.050">Section 25.06.050</cite>.</td>
+                <td colspan="5">No sign, regardless of type, shall be located above 40 feet above grade, except as provided for high-rise buildings in <cite path="25.06.050">Section 25.06.050</cite>.</td>
               </tr>
             </table>
           </text>
@@ -931,14 +931,14 @@
             <text>
               <table>
                 <caption>Table 25.06-3: Sign Restrictions in Commercial (C) Districts (C1, C2, C3, C4 and CBD Support) (Except CBD-Required Retail Frontage Area)</caption>
-                <tr proof="needed">
+                <tr>
                   <th>Total Sign Area Permitted</th>
-                  <th>Primary Street Frontage: 1.5 sq. ft./1 lineal foot of street frontage; maximum 300 sq. ft., minimum 50 sq. ft.</th>
-                  <th>Secondary Street Frontage: 1.0 sq. ft./1 lineal foot of street frontage; maximum 100 sq. ft., minimum 25 sq. ft.</th>
+                  <td colspan="2"><strong>Primary Street Frontage:</strong> 1.5 sq. ft./1 lineal foot of street frontage; maximum 300 sq. ft., minimum 50 sq. ft.</td>
+                  <td><strong>Secondary Street Frontage:</strong> 1.0 sq. ft./1 lineal foot of street frontage; maximum 100 sq. ft., minimum 25 sq. ft.</td>
                 </tr>
                 <tr>
                   <th>Number of Signs Permitted</th>
-                  <td>2 signs per street frontage per business. Only 1 sign per street frontage may be either a freestanding or projecting sign. For multi-tenant buildings see <cite path="25.06.070|(b)|(6)">Section 25.06.070(b)(6)</cite>.</td>
+                  <td colspan="3">2 signs per street frontage per business. Only 1 sign per street frontage may be either a freestanding or projecting sign. For multi-tenant buildings see <cite path="25.06.070|(b)|(6)">Section 25.06.070(b)(6)</cite>.</td>
                 </tr>
                 <tr>
                   <th>Types of Permitted Signs</th>
@@ -955,7 +955,7 @@
                 <tr>
                   <td>Face</td>
                   <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
-                  <td proof="needed">
+                  <td>
                     <p>Shall be at least 10 ft. above the ground or sidewalk if sign projects more than 6 inches from building.</p>
                     <p>Shall not extend above the building roof line or parapet line.</p>
                   </td>
@@ -963,15 +963,15 @@
                 </tr>
                 <tr>
                   <td>Freestanding</td>
-                  <td proof="needed">
+                  <td>
                     <p>For lots up to 50 ft. in width, maximum size of 40 sq. ft.</p>
                     <p>For lots over 50 ft. in width, an additional 0.35 sq. ft./1 ft. of frontage permitted up to a maximum size of 75 sq. ft.</p>
                   </td>
-                  <td proof="needed">
+                  <td>
                     <p>For lots up to 50 ft. in width, maximum height to top of sign of 15 ft.</p>
                     <p>For lots over 50 ft. in width, an additional 0.1 ft. of height/1 ft. of frontage permitted up to a maximum height to top of sign of 25 ft.</p>
                   </td>
-                  <td proof="needed">
+                  <td>
                     <p>Signs over 8 ft. in height require approval by the Planning Commission.</p>
                     <p>The area below the sign shall be landscaped and enclosed by a 4-inch high curb.</p>
                     <p>Where area below the sign copy is not generally solid from the ground to the lower edge of the display area, a minimum height of 10 ft. to bottom of sign shall be provided.</p>
@@ -980,11 +980,11 @@
                 <tr>
                   <td>Marquee</td>
                   <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
-                  <td proof="needed">
+                  <td>
                     <p>Shall be at least 10 ft. above the ground or sidewalk.</p>
                     <p>Shall not extend above the building roof line or parapet line.</p>
                   </td>
-                  <td proof="needed">
+                  <td>
                     <p>Shall not be more than 4 ft. in vertical dimension.</p>
                     <p>Shall be approximately parallel with face of marquee.</p>
                     <p>Shall not project more than 6 inches beyond face of marquee nor be within 2 ft. of perpendicular projection of curb line.</p>
@@ -993,11 +993,11 @@
                 <tr>
                   <td>Projecting</td>
                   <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
-                  <td proof="needed">
+                  <td>
                     <p>Shall be at least 10 ft. above the ground or sidewalk.</p>
                     <p>Shall not extend above the building roof line or parapet line.</p>
                   </td>
-                  <td proof="needed">
+                  <td>
                     <p>Shall not project more than 4 ft. from the face of building.</p>
                     <p>Shall not project within 2 ft. of curb line.</p>
                   </td>
@@ -1033,7 +1033,7 @@
             <table>
               <caption>Table 25.06-4: Sign Restrictions in the Central Business District (CBD)-Required Retail 
 Frontage Area</caption>
-              <tr proof="needed">
+              <tr>
                 <th>Total Sign Area Permitted</th>
                 <th>Primary Street Frontage: 1 sq. ft./1 lineal foot of street frontage; maximum 100 sq. ft., minimum 35 sq. ft.</th>
                 <th>Secondary Street Frontage: 0.5 sq. ft./1 lineal foot of street frontage; maximum 50 sq. ft., minimum 25 sq. ft.</th>
@@ -1057,12 +1057,12 @@ Frontage Area</caption>
               <tr>
                 <td>Face</td>
                 <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
-                <td proof="needed">
+                <td>
                   <p>Maximum height of 20 ft.</p>
                   <p>Shall not extend above the building roof line or parapet line.</p>
                   <p>Illuminated or electric face signs shall be at least 8 ft. above the sidewalk or ground.</p>
                 </td>
-                <td proof="needed">
+                <td>
                   <p>Illuminated face signs shall not project more than 12 inches from building face.</p>
                   <p>Un-illuminated face signs shall not project more than 6 inches from building face.</p>
                 </td>
@@ -1070,11 +1070,11 @@ Frontage Area</caption>
               <tr>
                 <td>Marquee</td>
                 <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
-                <td proof="needed">
+                <td>
                   <p>Shall be at least 10 ft. above the ground or sidewalk.</p>
                   <p>Shall not extend above the building roof line or parapet line.</p>
                 </td>
-                <td proof="needed">
+                <td>
                   <p>Shall not be more than 4 ft. in vertical dimension.</p>
                   <p>Shall be approximately parallel with face of marquee.</p>
                   <p>Shall not project more than 6 inches beyond face of marquee nor within 2 ft. of curb line.</p>
@@ -1083,11 +1083,11 @@ Frontage Area</caption>
               <tr>
                 <td>Projecting</td>
                 <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
-                <td proof="needed">
+                <td>
                   <p>Shall be at least 10 ft. above the ground or sidewalk.</p>
                   <p>Shall not extend above the building roof line or parapet line.</p>
                 </td>
-                <td proof="needed">
+                <td>
                   <p>Shall not project more than 4 ft. from the face of building.</p>
                   <p>Shall not be more than 2-ft. thick.</p>
                 </td>
@@ -1121,19 +1121,19 @@ Frontage Area</caption>
           <text>
             <table>
               <caption>Table 25.06-5: Sign Restrictions in Executive Office Districts (E1, E2)</caption>
-              <tr proof="needed">
-                <th proof="needed"/>
+              <tr>
+                <th/>
                 <th>All E Districts, except San Mateo Drive Between Baldwin &amp; Villa Terrace</th>
                 <th>E Districts on San Mateo Drive Between Baldwin &amp; Villa Terrace</th>
               </tr>
               <tr>
                 <th>Total Sign Area Permitted</th>
-                <td>1.5 sq. ft./1 lineal foot of street frontage; maximum 300 sq. ft., minimum 50 sq. ft.</td>
+                <td colspan="2">1.5 sq. ft./1 lineal foot of street frontage; maximum 300 sq. ft., minimum 50 sq. ft.</td>
                 <td>Maximum of 35 sq. ft.</td>
               </tr>
               <tr>
                 <th>Number of Signs Permitted</th>
-                <td>2 signs per street frontage per business. Only 1 freestanding sign per zoning plot. For multi-tenant buildings see <cite path="25.06.050|(b)|(6)">Section 25.06.050(b)(6)</cite>.</td>
+                <td colspan="2">2 signs per street frontage per business. Only 1 freestanding sign per zoning plot. For multi-tenant buildings see <cite path="25.06.050|(b)|(6)">Section 25.06.050(b)(6)</cite>.</td>
                 <td>One sign per building.</td>
               </tr>
               <tr>
@@ -1151,7 +1151,7 @@ Frontage Area</caption>
               <tr>
                 <td>Face</td>
                 <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
-                <td proof="needed">
+                <td>
                   <p>Shall be at least 10 ft. above the ground if sign projects more than 6 inches from the building.</p>
                   <p>Shall not extend above the building roof line or parapet line.</p>
                 </td>
@@ -1159,7 +1159,7 @@ Frontage Area</caption>
               </tr>
               <tr>
                 <td>Freestanding</td>
-                <td proof="needed">
+                <td>
                   <p>For lots up to 50 ft. in width, maximum size of 40 sq. ft.</p>
                   <p>For lots over 50 ft. in width, an additional 0.35 sq. ft./1 ft. of frontage permitted up to a maximum size of 75 sq. ft.</p>
                 </td>
@@ -1169,11 +1169,11 @@ Frontage Area</caption>
               <tr>
                 <td>Marquee</td>
                 <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
-                <td proof="needed">
+                <td>
                   <p>Shall be at least 10 ft. above the ground or sidewalk.</p>
                   <p>Shall not extend above the building roof line or parapet line.</p>
                 </td>
-                <td proof="needed">
+                <td>
                   <p>Shall not be more than 4 ft. in vertical dimension.</p>
                   <p>Shall be approximately parallel with face of marquee.</p>
                   <p>Shall not project more than 6 inches beyond face of marquee nor be within 2 ft. of curb line.</p>
