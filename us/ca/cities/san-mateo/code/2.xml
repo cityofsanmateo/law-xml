@@ -97,7 +97,7 @@
     <prefix>Chapter</prefix>
     <num>2.15</num>
     <heading>LIBRARY BOARD</heading>
-    <annotation type="Editor's Notes">For the relevant provisions of the City charter see §§ 4.12 and 6.01-6.03. For relevant state statutes regarding the administration of public libraries see part 4, Div. 20, Chapter 3 West's <cite doc="Cal. Educ. Code" proof="needed">Cal. Educ. C.A.</cite></annotation>
+    <annotation type="Editor's Notes">For the relevant provisions of the City charter see §§ 4.12 and 6.01-6.03. For relevant state statutes regarding the administration of public libraries see part 4, Div. 20, Chapter 3 West's <cite doc="Cal. Educ. Code">Cal. Educ. C.A.</cite></annotation>
     <section>
       <num>2.15.010</num>
       <heading>ORGANIZATION—POWERS—DUTIES.</heading>
@@ -1255,7 +1255,7 @@
     <prefix>Chapter</prefix>
     <num>2.66</num>
     <heading>RETIREMENT SYSTEM</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding the election by the City to belong to the State Employees' Retirement System see West's Cal. C.A. §§ 20450 et seq. For the provisions regarding the State Employees' Retirement System generally see West's <cite doc="Cal. Gov't Code" proof="needed">Cal. Gov. C.A.</cite> §§ 20000 et seq.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding the election by the City to belong to the State Employees' Retirement System see West's Cal. C.A. §§ 20450 et seq. For the provisions regarding the State Employees' Retirement System generally see West's <cite doc="Cal. Gov't Code">Cal. Gov. C.A.</cite> §§ <cite doc="Cal. Gov't Code" path="§20000">20000</cite> et seq.</annotation>
     <section>
       <num>2.66.010</num>
       <heading>ADOPTION OF STATE SYSTEM.</heading>
@@ -1448,7 +1448,7 @@
       <num>2.75.100</num>
       <heading>GAS TAX FUND.</heading>
       <text>To comply with the provisions of Article V of Chapter 1 of Division <cite doc="Cal. Sts. &amp; High. Code" path="§1">1 of the Streets and Highways Code</cite>, with particular reference to the amendments made thereto by Chapter 642, Statutes of 1935, there shall be maintained in the City treasury the special fund to be known as the "special gas tax street improvement fund" heretofore created.</text>
-      <text>All moneys received by the City from the state under the provisions of the <cite doc="Cal. Sts. &amp; High. Code" proof="needed">Streets and Highways Code</cite> now or hereafter provided by general law, for the acquisition of real property or interests therein, or the construction, maintenance or improvement of streets or highways, other than state highways, in the City, shall be paid into said fund.</text>
+      <text>All moneys received by the City from the state under the provisions of the <cite doc="Cal. Sts. &amp; High. Code">Streets and Highways Code</cite> now or hereafter provided by general law, for the acquisition of real property or interests therein, or the construction, maintenance or improvement of streets or highways, other than state highways, in the City, shall be paid into said fund.</text>
       <annotations>
         <annotation type="History">prior code § 11.09</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1975-6" path="§2" type="History"/>
