@@ -147,9 +147,9 @@
             </text>
             <text>1. Calculation for spaces shall be rounded up to the nearest whole number</text>
             <para>
-            <num>a.</num>
-            <heading>Note:</heading>
-            <text>Projects shall reference the California Green Building Code, 2016 Edition, Section 5.106.5.3 and California Electrical Code for definitions and requirements related to electric vehicle charging spaces.</text>
+              <num>a.</num>
+              <heading>Note:</heading>
+              <text>Projects shall reference the California Green Building Code, 2016 Edition, Section 5.106.5.3 and California Electrical Code for definitions and requirements related to electric vehicle charging spaces.</text>
             </para>
           </para>
         </section>
@@ -272,7 +272,6 @@
       <strong>Key to Justification for Amendments to Title 24 of the California Code of Regulations</strong>
     </center>
   </text>
-  <text>
   <para>
     <num>A.</num>
     <text>This amendment is justified on the basis of a local <strong><u>climatic</u></strong> condition.</text>
@@ -280,31 +279,30 @@
   </para>
   <para>
     <num>B.</num>
-      <text>Energy efficiency and water conservation enhances the public health and welfare by promoting the <strong><u>environmental</u></strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite> are designed to achieve the following goals:</text>
-      <para>
-        <num>(a)</num>
-        <text>Increase energy efficiency in buildings;</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>Increase water and resource conservation;</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Provide durable buildings that are effcient and economical to own and operate;</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Promote the health and productivity of resients, workers, and visitors to the city;</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <text>Recognize and conserve the eergy embodied in existing buildings; and</text>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>Reduce disturbance of natural ecosystems.</text>
-      </para>
+    <text>Energy efficiency and water conservation enhances the public health and welfare by promoting the <strong><u>environmental</u></strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite> are designed to achieve the following goals:</text>
+    <para>
+      <num>(a)</num>
+      <text>Increase energy efficiency in buildings;</text>
     </para>
-  </text>
+    <para>
+      <num>(b)</num>
+      <text>Increase water and resource conservation;</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Provide durable buildings that are effcient and economical to own and operate;</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Promote the health and productivity of resients, workers, and visitors to the city;</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Recognize and conserve the eergy embodied in existing buildings; and</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Reduce disturbance of natural ecosystems.</text>
+    </para>
+  </para>
 </document>
