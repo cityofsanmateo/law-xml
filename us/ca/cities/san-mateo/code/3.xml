@@ -19,7 +19,7 @@
     <section>
       <num>3.35.020</num>
       <heading>CLAIMS REQUIRED.</heading>
-      <text>All claims against the City for money or damages not otherwise governed by the Tort Claims Act, <cite doc="Cal. Gov't Code" proof="needed">California government Code</cite> Sections 900 et seq., or another State law (hereinafter in <cite path="3.35">this chapter</cite>, "claims") shall be presented with the time, and in the manner, prescribed by Part 3 of Division 3.6 of Title <cite doc="Cal. Gov't Code" path="§1">1 of the California Government Code</cite> (commencing with Section 900 thereof) for the claims to which that Part applies by its own terms, as those provisions now exist or shall hereafter be amended, and as further provided by <cite path="3.35">this chapter</cite>.</text>
+      <text>All claims against the City for money or damages not otherwise governed by the Tort Claims Act, <cite doc="Cal. Gov't Code" path="§900">California government Code Sections 900 et seq.</cite>, or another State law (hereinafter in <cite path="3.35">this chapter</cite>, "claims") shall be presented with the time, and in the manner, prescribed by Part 3 of Division 3.6 of Title <cite doc="Cal. Gov't Code" path="§1">1 of the California Government Code</cite> (commencing with Section 900 thereof) for the claims to which that Part applies by its own terms, as those provisions now exist or shall hereafter be amended, and as further provided by <cite path="3.35">this chapter</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-23" path="§1" type="History"/>
       </annotations>
@@ -35,7 +35,7 @@
     <section>
       <num>3.35.040</num>
       <heading>CLAIM PREREQUISITE TO SUIT.</heading>
-      <text>In accordance with <cite doc="Cal. Gov't Code" proof="needed">California Government Code</cite> Sections 935(b) and 945.6, all claims shall be presented prior to the filing of any action on such claims and no such action may be maintained by a person who has not complied with the requirements of Section 2 of <cite path="3.35">this chapter</cite>.</text>
+      <text>In accordance with <cite doc="Cal. Gov't Code">California Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§935">935</cite>(b) and <cite doc="Cal. Gov't Code" path="§945.6">945.6</cite>, all claims shall be presented prior to the filing of any action on such claims and no such action may be maintained by a person who has not complied with the requirements of Section 2 of <cite path="3.35">this chapter</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-23" path="§1" type="History"/>
       </annotations>
@@ -59,7 +59,7 @@
     <section>
       <num>3.35.050</num>
       <heading>SUIT.</heading>
-      <text>Any action brought against the City upon any claim or demand shall conform to the requirements of Sections <cite doc="Cal. Gov't Code" path="§940">940</cite>-<cite doc="Cal. Gov't Code" path="§949">949</cite> of the <cite doc="Cal. Gov't Code" proof="needed">California government Code</cite>. Any action brought against any employee of the City shall conform with the requirements of Section 950-<cite doc="Cal. Gov't Code" path="§951">951 of the California Government Code</cite>.</text>
+      <text>Any action brought against the City upon any claim or demand shall conform to the requirements of Sections <cite doc="Cal. Gov't Code" path="§940">940</cite>-<cite doc="Cal. Gov't Code" path="§949">949</cite> of the <cite doc="Cal. Gov't Code">California government Code</cite>. Any action brought against any employee of the City shall conform with the requirements of Section 950-<cite doc="Cal. Gov't Code" path="§951">951 of the California Government Code</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-23" path="§1" type="History"/>
       </annotations>
@@ -72,7 +72,7 @@
     <section>
       <num>3.38.010</num>
       <heading>TRANSFER OF CITY TAX FUNCTION.</heading>
-      <text>Pursuant to Ordinance No. 1971-35, the agreement of July 23, 1971 between County of San Mateo and City of San Mateo, City Resolutions Nos. 115 (1971) and 161 (1971), County Resolution No. 19841, and <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite> Sections 51500 et seq., certain municipal functions relative to taxation or property were in 1971 transferred to the county. Reference is made to the City Clerk's file for the terms of the agreement and text of the ordinance and resolutions.</text>
+      <text>Pursuant to Ordinance No. 1971-35, the agreement of July 23, 1971 between County of San Mateo and City of San Mateo, City Resolutions Nos. 115 (1971) and 161 (1971), County Resolution No. 19841, and <cite doc="Cal. Gov't Code" path="§51500">Government Code Sections 51500 et seq.</cite>, certain municipal functions relative to taxation or property were in 1971 transferred to the county. Reference is made to the City Clerk's file for the terms of the agreement and text of the ordinance and resolutions.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-30" type="History">Ord. 1985-30</annotation>
       </annotations>
@@ -131,8 +131,8 @@
           <num>(2)</num>
           <text>The sum of twenty-five cents of each such admission tax paid shall be deposited in a capital improvements fund to improve and extend vehicular parking and traffic circulation to, in, around or about the racetracks within this city.</text>
         </para>
+      <aftertext>Said fund shall be accumulated for property acquisition, design and construction of such racetrack area public improvements as may be determined to be necessary by resolution of the City Council. The improvements may be financed by annual appropriations from said fund, or may be used to pay interest and principal upon any bond issue made for the express purpose of financing the public improvements, or to pay rent to any public agency or nonprofit corporation which has issued bonds to finance such improvements, as well as for operation and maintenance of said improvements. When capital costs are fully paid or retired, the funds shall be paid into the general fund.</aftertext>
       </para>
-      <aftertext proof="needed">Said fund shall be accumulated for property acquisition, design and construction of such racetrack area public improvements as may be determined to be necessary by resolution of the City Council. The improvements may be financed by annual appropriations from said fund, or may be used to pay interest and principal upon any bond issue made for the express purpose of financing the public improvements, or to pay rent to any public agency or nonprofit corporation which has issued bonds to finance such improvements, as well as for operation and maintenance of said improvements. When capital costs are fully paid or retired, the funds shall be paid into the general fund.</aftertext>
       <annotations>
         <annotation type="History">prior code § 33.02</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1970-19" path="§1" type="History"/>
@@ -579,7 +579,7 @@
           <text>Sales of property to be used outside the City which is shipped to a point outside the City, pursuant to the contract of sale, by delivery to such point by the retailer or agent, or by delivery by the retailer to a carrier for shipment to a consignee at such point. For the purposes of this paragraph, delivery to a point outside the City shall be satisfied:</text>
           <para>
             <num>(A)</num>
-            <text>With respect to vehicles (other than commercial vehicles) subject to registration pursuant to Chapter 1 (commencing with Section 4000) of Division <cite doc="Cal. Veh. Code" path="§3">3 of the Vehicle Code</cite>, aircraft licensed in compliance with <cite doc="Cal. Pub. Util. Code" path="§21411">Section 21411 of the Public Utilities Code</cite>, and undocumented vessels registered under Division 3.5 (commencing with Section 9840) of the <cite doc="Cal. Veh. Code" proof="needed">Vehicle Code</cite> by registration to an out-of-City address and by a declaration under penalty of perjury, signed by the buyer, stating that such address is, in fact, his or her principal place of residence; and</text>
+            <text>With respect to vehicles (other than commercial vehicles) subject to registration pursuant to Chapter 1 (commencing with Section 4000) of Division <cite doc="Cal. Veh. Code" path="§3">3 of the Vehicle Code</cite>, aircraft licensed in compliance with <cite doc="Cal. Pub. Util. Code" path="§21411">Section 21411 of the Public Utilities Code</cite>, and undocumented vessels registered under Division 3.5 (commencing with <cite doc="Cal. Veh. Code" path="§9840">Section 9840</cite>) of the <cite doc="Cal. Veh. Code">Vehicle Code</cite> by registration to an out-of-City address and by a declaration under penalty of perjury, signed by the buyer, stating that such address is, in fact, his or her principal place of residence; and</text>
           </para>
           <para>
             <num>(B)</num>
@@ -608,7 +608,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Other than fuel or petroleum products purchased by operators of aircraft and used or consumed by such operators directly and exclusively in the use of such aircraft as common carriers of persons or property for hire or compensation under a certificate of public convenience and necessity issued pursuant to the laws of this State, the United States, or any foreign government. This exemption is in addition to the exemptions provided in Sections <cite doc="Cal. Rev. &amp; Tax. Code" path="§6366">6366</cite> and <cite doc="Cal. Rev. &amp; Tax. Code" path="§6366.1">6366.1</cite> of the <cite doc="Cal. Rev. &amp; Tax. Code" proof="needed">Revenue and Taxation Code</cite> of the State of California.</text>
+          <text>Other than fuel or petroleum products purchased by operators of aircraft and used or consumed by such operators directly and exclusively in the use of such aircraft as common carriers of persons or property for hire or compensation under a certificate of public convenience and necessity issued pursuant to the laws of this State, the United States, or any foreign government. This exemption is in addition to the exemptions provided in Sections <cite doc="Cal. Rev. &amp; Tax. Code" path="§6366">6366</cite> and <cite doc="Cal. Rev. &amp; Tax. Code" path="§6366.1">6366.1</cite> of the <cite doc="Cal. Rev. &amp; Tax. Code">Revenue and Taxation Code</cite> of the State of California.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -628,7 +628,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>"A retailer engaged in business in the City" shall also include any retailer of any of the following: vehicles subject to registration pursuant to Chapter 1 (commencing with Section 4000) of Division <cite doc="Cal. Veh. Code" path="§3">3 of the Vehicle Code</cite>, aircraft licensed in compliance with <cite doc="Cal. Pub. Util. Code" path="§21411">Section 21411 of the Public Utilities Code</cite>, or undocumented vessels registered under Division 3.5 (commencing with Section 9840) of the <cite doc="Cal. Veh. Code" proof="needed">Vehicle Code</cite>. That retailer shall be required to collect use tax from any purchaser who registers or licenses the vehicle, vessel, or aircraft at an address in the City.</text>
+          <text>"A retailer engaged in business in the City" shall also include any retailer of any of the following: vehicles subject to registration pursuant to Chapter 1 (commencing with Section 4000) of Division <cite doc="Cal. Veh. Code" path="§3">3 of the Vehicle Code</cite>, aircraft licensed in compliance with <cite doc="Cal. Pub. Util. Code" path="§21411">Section 21411 of the Public Utilities Code</cite>, or undocumented vessels registered under Division 3.5 (commencing with <cite doc="Cal. Veh. Code" path="§9840">Section 9840</cite>) of the <cite doc="Cal. Veh. Code">Vehicle Code</cite>. That retailer shall be required to collect use tax from any purchaser who registers or licenses the vehicle, vessel, or aircraft at an address in the City.</text>
         </para>
       </para>
       <para>
@@ -793,7 +793,7 @@
     <section>
       <num>3.52.080</num>
       <heading>USE TAX—APPLICABILITY OF STATE CODE.</heading>
-      <text>Except as hereinafter provided, and except insofar as they are inconsistent with the provisions of Part 1.5 of Division 2 of the said <cite doc="Cal. Rev. &amp; Tax. Code" proof="needed">Revenue and Taxation Code</cite>, all of the provisions of Part 1 of Division 2 of said code, as amended and in force and effect on January 1, 1961, applicable to use taxes are adopted and made a part of this section as though fully set forth herein.</text>
+      <text>Except as hereinafter provided, and except insofar as they are inconsistent with the provisions of <cite doc="Cal. Rev. &amp; Tax. Code" proof="needed">Part 1.5 of Division 2 of the said Revenue and Taxation Code</cite>, all of the provisions of Part 1 of Division 2 of said code, as amended and in force and effect on January 1, 1961, applicable to use taxes are adopted and made a part of this section as though fully set forth herein.</text>
       <annotations>
         <annotation type="History">Prior code § 57.02</annotation>
       </annotations>
@@ -801,7 +801,7 @@
     <section>
       <num>3.52.090</num>
       <heading>USE TAX—SUBSTITUTIONS FOR NAMES IN STATE CODE.</heading>
-      <text>Wherever, and to the extent that, in Part 1 of Division <cite doc="Cal. Rev. &amp; Tax. Code" path="§2">2 of the Revenue and Taxation Code</cite> the state of California is named or referred to as the taxing agency, the name of the City of San Mateo shall be substituted therefor. Nothing in this section shall be deemed to require the substitution of the name of the City of San Mateo for the word "state" when that word is used as part of the title of the State Controller, the State Treasurer, the State Board of Control, the State Board of Equalization, or the name of the State Treasury, or of the Constitution of the state of California; nor shall the name of the City be substituted for that of the state in any section when the result of that substitution would require action to be taken by or against the City or any agency thereof rather than by or against the State Board of Equalization, in performing the functions incident to the administration or operation of <cite path="3.52">this chapter</cite>; and neither shall the substitution be deemed to have been made in those sections, including, but not necessarily limited to, sections referring to the exterior boundaries of the state, where the result of the substitution would be to provide an exemption from this tax with respect to certain storage, use or other consumption of tangible personal property which would not otherwise be exempt from this tax while such storage, use or other consumption remains subject to tax by the state under the provisions of Part 1 of Division <cite doc="Cal. Rev. &amp; Tax. Code" path="§2">2 of the Revenue and Taxation Code</cite>, or to impose this tax with respect to certain storage, use or other consumption of tangible personal property which would not be subject to tax by the state under the said provisions of that code; and in addition, the name of the City shall not be substituted for that of the state in Sections 6701, 6702 (except in the last sentence thereof), 6711, 6715, 6737, 6797 and 6828 of the said <cite doc="Cal. Rev. &amp; Tax. Code" proof="needed">Revenue and Taxation Code</cite> as adopted, and the name of the City shall not be substituted for the word "state" in the phrase "retailer engaged in business in this state" in Section 6203 nor in the definition of that phrase in Section 6203.</text>
+      <text>Wherever, and to the extent that, in Part 1 of Division <cite doc="Cal. Rev. &amp; Tax. Code" path="§2">2 of the Revenue and Taxation Code</cite> the state of California is named or referred to as the taxing agency, the name of the City of San Mateo shall be substituted therefor. Nothing in this section shall be deemed to require the substitution of the name of the City of San Mateo for the word "state" when that word is used as part of the title of the State Controller, the State Treasurer, the State Board of Control, the State Board of Equalization, or the name of the State Treasury, or of the Constitution of the state of California; nor shall the name of the City be substituted for that of the state in any section when the result of that substitution would require action to be taken by or against the City or any agency thereof rather than by or against the State Board of Equalization, in performing the functions incident to the administration or operation of <cite path="3.52">this chapter</cite>; and neither shall the substitution be deemed to have been made in those sections, including, but not necessarily limited to, sections referring to the exterior boundaries of the state, where the result of the substitution would be to provide an exemption from this tax with respect to certain storage, use or other consumption of tangible personal property which would not otherwise be exempt from this tax while such storage, use or other consumption remains subject to tax by the state under the provisions of Part 1 of Division <cite doc="Cal. Rev. &amp; Tax. Code" path="§2">2 of the Revenue and Taxation Code</cite>, or to impose this tax with respect to certain storage, use or other consumption of tangible personal property which would not be subject to tax by the state under the said provisions of that code; and in addition, the name of the City shall not be substituted for that of the state in Sections <cite doc="Cal. Rev. &amp; Tax. Code" path="§6701">6701</cite>, <cite doc="Cal. Rev. &amp; Tax. Code" path="§6702">6702</cite> (except in the last sentence thereof), <cite doc="Cal. Rev. &amp; Tax. Code" path="§6711">6711</cite>, <cite doc="Cal. Rev. &amp; Tax. Code" path="§6715">6715</cite>, <cite doc="Cal. Rev. &amp; Tax. Code" path="§6737">6737</cite>, <cite doc="Cal. Rev. &amp; Tax. Code" path="§6797">6797</cite> and <cite doc="Cal. Rev. &amp; Tax. Code" path="§6828">6828</cite> of the said <cite doc="Cal. Rev. &amp; Tax. Code">Revenue and Taxation Code</cite> as adopted, and the name of the City shall not be substituted for the word "state" in the phrase "retailer engaged in business in this state" in <cite doc="Cal. Rev. &amp; Tax. Code" path="§6203">Section 6203</cite> nor in the definition of that phrase in <cite doc="Cal. Rev. &amp; Tax. Code" path="§6203">Section 6203</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 57.03</annotation>
       </annotations>
@@ -820,7 +820,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>In addition to the exemptions provided in Sections <cite doc="Cal. Rev. &amp; Tax. Code" path="§6366">6366</cite> and <cite doc="Cal. Rev. &amp; Tax. Code" path="§6366.1">6366.1</cite> of the <cite doc="Cal. Rev. &amp; Tax. Code" proof="needed">Revenue and Taxation Code</cite>, the storage, use, or other consumption of tangible personal property purchased by operators of aircraft and used or consumed by such operators directly and exclusively in the use of such aircraft as common carriers of persons or property for hire or compensation under a certificate of public convenience and necessity issued pursuant to the laws of this state, the United States, or any foreign government.</text>
+        <text>In addition to the exemptions provided in Sections <cite doc="Cal. Rev. &amp; Tax. Code" path="§6366">6366</cite> and <cite doc="Cal. Rev. &amp; Tax. Code" path="§6366.1">6366.1</cite> of the <cite doc="Cal. Rev. &amp; Tax. Code">Revenue and Taxation Code</cite>, the storage, use, or other consumption of tangible personal property purchased by operators of aircraft and used or consumed by such operators directly and exclusively in the use of such aircraft as common carriers of persons or property for hire or compensation under a certificate of public convenience and necessity issued pursuant to the laws of this state, the United States, or any foreign government.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 57.04</annotation>
@@ -845,7 +845,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>In addition to the exemptions provided in Sections <cite doc="Cal. Rev. &amp; Tax. Code" path="§6366">6366</cite> and <cite doc="Cal. Rev. &amp; Tax. Code" path="§6366.1">6366.1</cite> of the <cite doc="Cal. Rev. &amp; Tax. Code" proof="needed">Revenue and Taxation Code</cite>, the storage, use, or other consumption of tangible personal property purchased by operators of aircraft and used or consumed by such operators directly and exclusively in the use of such aircraft as common carriers of persons or property for hire or compensation under a certificate of public convenience and necessity issued pursuant to the laws of this state, the United States, or any foreign government.</text>
+        <text>In addition to the exemptions provided in Sections <cite doc="Cal. Rev. &amp; Tax. Code" path="§6366">6366</cite> and <cite doc="Cal. Rev. &amp; Tax. Code" path="§6366.1">6366.1</cite> of the <cite doc="Cal. Rev. &amp; Tax. Code">Revenue and Taxation Code</cite>, the storage, use, or other consumption of tangible personal property purchased by operators of aircraft and used or consumed by such operators directly and exclusively in the use of such aircraft as common carriers of persons or property for hire or compensation under a certificate of public convenience and necessity issued pursuant to the laws of this state, the United States, or any foreign government.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1973-32" path="§3" type="History"/>
@@ -855,7 +855,7 @@
     <section>
       <num>3.52.110</num>
       <heading>AMENDMENTS.</heading>
-      <text>All amendments of the <cite doc="Cal. Rev. &amp; Tax. Code" proof="needed">Revenue and Taxation Code</cite> enacted subsequent to the effective date of <cite path="3.52">this chapter</cite> which relate to the sales and use tax and which are not inconsistent with part 1.5 of Division <cite doc="Cal. Rev. &amp; Tax. Code" path="§2">2 of the Revenue and Taxation Code</cite> shall automatically become a part of <cite path="3.52">this chapter</cite>.</text>
+      <text>All amendments of the <cite doc="Cal. Rev. &amp; Tax. Code">Revenue and Taxation Code</cite> enacted subsequent to the effective date of <cite path="3.52">this chapter</cite> which relate to the sales and use tax and which are not inconsistent with part 1.5 of Division <cite doc="Cal. Rev. &amp; Tax. Code" path="§2">2 of the Revenue and Taxation Code</cite> shall automatically become a part of <cite path="3.52">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Prior code § 58.01</annotation>
       </annotations>
@@ -1698,7 +1698,7 @@
     <section>
       <num>3.60.055</num>
       <heading>SUBSTITUTION OF SUBCONTRACTORS.</heading>
-      <text>If a subcontractor is substituted for a subcontractor listed in the original bid for reasons set forth in Section 4107 (a) of the Public Contracts Code or for a reason that the City Manger or designee determines to be proper, the City Manager or designee shall follow the procedures set forth in the Section 4107 (a) of the <cite doc="Cal. Pub. Cont. Code" proof="needed">Public Contract Code</cite>.</text>
+      <text>If a subcontractor is substituted for a subcontractor listed in the original bid for reasons set forth in Section 4107 (a) of the Public Contracts Code or for a reason that the City Manger or designee determines to be proper, the City Manager or designee shall follow the procedures set forth in the <cite doc="Cal. Pub. Cont. Code" path="§4107">Section 4107</cite> (a) of the <cite doc="Cal. Pub. Cont. Code">Public Contract Code</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2002-15" path="§1" type="History"/>
       </annotations>
