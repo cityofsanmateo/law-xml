@@ -1554,13 +1554,29 @@
       <text>
         <table>
           <caption>
-            <p><strong>Table 7.30.040</strong></p>
-            <p><strong>NOISE LEVEL STANDARDS*</strong></p>
+            <p>
+              <strong>Table 7.30.040</strong>
+            </p>
+            <p>
+              <strong>NOISE LEVEL STANDARDS*</strong>
+            </p>
           </caption>
           <tr>
-            <th><strong><ul>Noise Zone</ul></strong></th>
-            <th><strong><ul>Time Period</ul></strong></th>
-            <th><strong><ul>Noise Level (dB)</ul></strong></th>
+            <th>
+              <strong>
+                <ul>Noise Zone</ul>
+              </strong>
+            </th>
+            <th>
+              <strong>
+                <ul>Time Period</ul>
+              </strong>
+            </th>
+            <th>
+              <strong>
+                <ul>Noise Level (dB)</ul>
+              </strong>
+            </th>
           </tr>
           <tr>
             <td>Noise Zone 1</td>
