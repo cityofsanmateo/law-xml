@@ -1345,7 +1345,7 @@
     </section>
     <section>
       <num>23.07.110</num>
-      <heading>TABLE R602.10.3(3) AND SECTION R602.10.4.4 PROHIBIT THE USE OF GYPSUM BOARD AND LIMIT THE USE OF PORTLAND CEMENT PLASTER AS PRESCRIPTIVE WALL BRACING MATERIALS IN SEISMIC DESIGN CATEGORIES D0, D1 AND D2 AMENDED.</heading>
+      <heading>TABLE R602.10.3(3) AND SECTION R602.10.4.4 PROHIBIT THE USE OF GYPSUM BOARD AND LIMIT THE USE OF PORTLAND CEMENT PLASTER AS PRESCRIPTIVE WALL BRACING MATERIALS IN SEISMIC DESIGN CATEGORIES D<sub>0</sub>, D<sub>1</sub> AND D<sub>2</sub> AMENDED.</heading>
       <para>
         <num>(a)</num>
         <text>Add a new footnote "f" to the end of CRC Table R602.10.3(3), to read:</text>
@@ -1476,9 +1476,10 @@
       <heading>SECTIONS 1505.1, 1505.1.3 ROOFING REQUIREMENTS AMENDED.</heading>
       <include>
         <text>The roof covering or roofing assembly on any structure regulated by this code shall be minimum Class B fire retardant as specified in Table 1505.1 and as classified in Section 1505.</text>
+        <text>TABLE 1505.1 Minimum Covering Classification for Types of Construction.</text>
         <text>
           <table>
-            <caption>TABLE 1505.1 Minimum Covering Classification for Types of Construction. TABLE 1505.1 MINIMUM ROOF COVERING CLASSIFICATION FOR TYPES OF CONSTRUCTION</caption>
+            <caption>TABLE 1505.1 MINIMUM ROOF COVERING CLASSIFICATION FOR TYPES OF CONSTRUCTION</caption>
             <tr>
               <th>IA</th>
               <th>IB</th>
