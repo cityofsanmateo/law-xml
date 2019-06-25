@@ -361,31 +361,31 @@
           <para>
             <num>(d)</num>
             <text>Any change in use or occupancy creating a more hazardous fire/life safety condition, as determined by the Fire Chief requires that an automatic fire sprinkler system be installed.</text>
-            <text>Exceptions:</text>
-            <para>
-              <num>1.</num>
-              <text>Seismic or accessibility improvements</text>
-            </para>
-            <para>
-              <num>2.</num>
-              <text>Any exemption otherwise allowable under the Fire Code, as adopted by the City of San Mateo at the discretion of the Fire Chief.</text>
-            </para>
-            <para>
-              <num>3.</num>
-              <text>Exterior improvements and work not requiring permits as provided in the Building Code.</text>
-            </para>
-            <para>
-              <num>4.</num>
-              <text>Detached Group U occupancies or detached carports less than 400 square feet.</text>
-            </para>
-            <para>
-              <num>5.</num>
-              <text>Work requiring only a mechanical, electrical, plumbing and/or demolition permit.</text>
-            </para>
-            <para>
-              <num>6.</num>
-              <text>Group R-3.1 occupancies.</text>
-            </para>
+          </para>
+          <text>Exceptions:</text>
+          <para>
+            <num proof="done">1.</num>
+            <text>Seismic or accessibility improvements</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Any exemption otherwise allowable under the Fire Code, as adopted by the City of San Mateo at the discretion of the Fire Chief.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Exterior improvements and work not requiring permits as provided in the Building Code.</text>
+          </para>
+          <para>
+            <num>4.</num>
+            <text>Detached Group U occupancies or detached carports less than 400 square feet.</text>
+          </para>
+          <para>
+            <num>5.</num>
+            <text>Work requiring only a mechanical, electrical, plumbing and/or demolition permit.</text>
+          </para>
+          <para>
+            <num>6.</num>
+            <text>Group R-3.1 occupancies.</text>
           </para>
         </section>
         <section>
@@ -435,7 +435,7 @@
             </para>
             <text>Exceptions:</text>
             <para>
-              <num>1.</num>
+              <num proof="done">1.</num>
               <text>Open parking garages.</text>
             </para>
           </include>
