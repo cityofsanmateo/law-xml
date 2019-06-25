@@ -183,8 +183,8 @@
         <num>(e)</num>
         <text>Perform any other duties prescribed by law, this Charter, or ordinance, or as the council may from time to time require not inconsistent with law or this Charter.</text>
       </para>
-      <text>The city council may authorize the city attorney to hire additional attorneys and personnel for the city attorney's legal staff. Except as may otherwise be provided in this Charter or in ordinances relating to personnel approved by vote of the people, the city attorney's staff shall be appointed by and serve at the pleasure of the city attorney.</text>
-      <text>The city attorney shall receive such compensation for services as the council shall determine. When the city attorney is an in-house employee of the city, the city council may remove the city attorney at any time by the affirmative vote of a majority of the council plus one.</text>
+      <aftertext>The city council may authorize the city attorney to hire additional attorneys and personnel for the city attorney's legal staff. Except as may otherwise be provided in this Charter or in ordinances relating to personnel approved by vote of the people, the city attorney's staff shall be appointed by and serve at the pleasure of the city attorney.</aftertext>
+      <aftertext>The city attorney shall receive such compensation for services as the council shall determine. When the city attorney is an in-house employee of the city, the city council may remove the city attorney at any time by the affirmative vote of a majority of the council plus one.</aftertext>
     </section>
     <section>
       <num>2.19</num>
@@ -533,7 +533,7 @@
         <num>(c)</num>
         <text>To report the results thereof periodically to the city manager and the council, and report to the council instances of non-compliance with prescribed or recommended fiscal or accounting procedures where recommendations for compliance have not been implemented after reasonable time and opportunity.</text>
       </para>
-      <text>The council may direct the city manager to report on the action taken or to be taken to remedy deficiencies reported by the auditor.</text>
+      <aftertext>The council may direct the city manager to report on the action taken or to be taken to remedy deficiencies reported by the auditor.</aftertext>
     </section>
   </container>
   <container>
@@ -577,7 +577,7 @@
         <num>(h)</num>
         <text>Serve in an advisory capacity to the librarian, city manager and council with respect to the establishment, maintenance, operation and management of the city libraries, and have and exercise such other powers, duties and responsibilities with respect to the libraries as may be prescribed by ordinance not inconsistent with law or this Charter.</text>
       </para>
-      <text>The council may by ordinance from time to time prescribe appropriate procedures for the purchase of books and other materials peculiar to the libraries.</text>
+      <aftertext>The council may by ordinance from time to time prescribe appropriate procedures for the purchase of books and other materials peculiar to the libraries.</aftertext>
     </section>
     <section>
       <num>6.02</num>
