@@ -1,0 +1,223 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2019-5">
+  <num>2019-5</num>
+  <heading>ADDING CHAPTER 11.30, "SHARED MOBILITY" TO TITLE 11, "VEHICLES AND TRAFFIC," OF THE SAN MATEO MUNICIPAL CODE</heading>
+  <meta>
+    <effective>2019-06-19</effective>
+    <citations>
+      <citation type="ord">Ord. No. 2019-5</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2019-5</citation>
+    </citations>
+    <history>
+      <introduced>2019-05-06</introduced>
+      <adopted>2019-05-20</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo has received interest from shared mobility operators that wish to provide shared mobility services including pedal and electric bicycle share and electric scooter share services; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>use of City streets by shared mobility operators is not currently authorized; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to establish a framework under which to regulate these shared mobility operators; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it will be unlawful to operate a shared mobility service without a shared mobility permit in accordance with the City's shared mobility regulations adopted by City Council resolution; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the shared mobility regulations proposed by staff will permit one bike share operator in the City at the present time; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>staff anticipates proposing amended shared mobility regulations to permit other types of shared mobility services in the future;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA HEREBY ORDAINS THAT:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="11.30">Chapter 11.30</cite> "Shared Mobility" is added to <cite doc="City of San Mateo, Cal., Code" path="11">Title 11, "Vehicles and Traffic," of the San Mateo Municipal Code</cite> to read as follows:</text>
+    <codify:insert doc="City of San Mateo, Cal., Code" path="11" history="false">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>11.30</num>
+        <heading>Shared Mobility</heading>
+      </container>
+    </codify:insert>
+    <include>
+      <container codify:doc="City of San Mateo, Cal., Code" codify:path="11.30">
+        <prefix>CHAPTER</prefix>
+        <num>11.30</num>
+        <heading>SHARED MOBILITY</heading>
+        <section>
+          <codify:insert/>
+          <num>11.30.010</num>
+          <heading>Definitions. For the purposes of this Chapter 11.30, the following words and phrases shall have the meanings set forth herein:</heading>
+          <para>
+            <num>(a)</num>
+            <text>"Furniture zone" means the section of the sidewalk between the curb and through zone in which street furniture and amenities, such as lighting, benches, newspaper kiosks, utility poles, tree pits, and bicycle parking are provided. The furniture zone may also consist of green infrastructure elements.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Shared mobility devices" include bicycles, electric bicycles, electric scooters, and other small wheeled devices designed specifically for shared-use and deployed by shared mobility operators.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Shared mobility operators" provide shared mobility services.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Shared Mobility Permit Program" is a program that regulates shared mobility operators in the City's right-of-way.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"Shared mobility services" are networks or systems of shared mobility devices, placed in the public right-of-way and for rent in short time increments, that provide increased mobility options over short distances.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>11.30.020</num>
+          <heading>Shared Mobility Permits</heading>
+          <para>
+            <num>(a)</num>
+            <text>It is unlawful to operate a shared mobility service in the City without obtaining a shared mobility permit from the City in accordance with the Shared Mobility Permit Program as adopted by City Council resolution. The issuance of the shared mobility permit will be discretionary.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Operators of shared mobility services must comply with the City's Shared Mobility Permit Program and shared mobility permit conditions.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>11.30.030</num>
+          <heading>Shared Mobility Device Parking</heading>
+          <para>
+            <num>(a)</num>
+            <text>Shared mobility devices must be parked upright on hard surfaces in the furniture zone of the sidewalk, at bicycle racks, or in areas specifically designated for shared mobility device parking.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Parked shared mobility devices may not:</text>
+            <para>
+              <num>(1)</num>
+              <text>Impede the regular flow of travel in the public right-of-way or ADA clearance on sidewalks;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Obstruct access to fire hydrants, valves, street furniture, crosswalks, sidewalks, buildings, parks or open space entrances, trails, driveways, or private property access;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Damage property, including but not limited to, landscaping, street trees, or other aesthetic features; or</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Interfere with vehicle traffic or public transportation operations, including but not limited to, buses, and trains.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>11.30.040</num>
+          <heading>Permit Revocation or Suspension</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Public Works Director or designee may revoke or suspend a permit for the following reasons:</text>
+            <para>
+              <num>(1)</num>
+              <text>Failure to comply with the San Mateo Municipal Code, federal or state law, or any other applicable law or regulation;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Failure to comply with the City's Shared Mobility Permit Program requirements;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>A determination that the shared mobility device service poses a risk to public safety or conflicts with the City's use of the public right-of-way; or</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>A breach of confidential data obtained from users.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>If a permit is revoked or suspended, the Public Works Director or designee may require that an operator's fleet be removed from the City's right-of-way within 30 calendar days of the decision.  Operator must pay all costs associated with removal and storage of the devices, in addition to any applicable fines, fees, or other applicable penalties.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>If the Public Works Director or designee determines that grounds for permit revocation or suspension exist, he or she shall furnish written notice of the proposed permit revocation or suspension.  The notice shall set forth the time and place of a hearing and the ground or grounds upon which the proposed revocation or suspension is based, the pertinent regulations, and a brief statement of the factual matters in support of the revocation or suspension.  The notice shall be mailed, postage prepaid, addressed to the last known address of the permittee at least 10 calendar days prior to the hearing date.  At the hearing, all parties involved shall have a right to offer testimonial, documentary, and tangible evidence bearing on the issues.  The Public Works Director or designee shall render a written decision within 30 calendar days of the hearing date.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The permittee may appeal the decision of the Public Works Director or designee in accordance with the procedures set forth in <cite doc="City of San Mateo, Cal., Code" path="11.30">this Chapter</cite>.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>11.30.050</num>
+          <heading>Appeals</heading>
+          <text>An applicant who wishes to appeal the decision of the Public Works Director or designee regarding an application or an action to revoke or suspend a permit may do so pursuant to the following procedures:</text>
+          <para>
+            <num>(a)</num>
+            <text>An appeal of the Public Works Director or designee's decision on a permit application or permit revocation or suspension may be made by filing a written request for appeal with the City Clerk's office within 10 calendar days of the date the decision was mailed.  If no appeal is filed within this time period, then the decision of the Public Works Director or designee shall become final and the applicant shall be deemed to have waived all rights to appeal or other review.  All requests for appeal shall include a statement of the basis for the appeal and the errors alleged to have occurred.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The City Manager or designee shall schedule a hearing on the appeal for not less than 10 calendar days or greater than 30 calendar days from the date of mailing notice to the applicant of the time and place of the appeal hearing.  The notice of hearing shall be sent by first class mail to the applicant within 10 days of filing a timely notice of appeal.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The City Manager or designee shall review the written record and allow testimony to be given.  After all verbal testimony has been reviewed, the City Manager or designee shall render a written decision within 10 working days from the date the matter is submitted for decision.  The action of the City Manager or designee shall be final and conclusive, subject only to applicable court review.</text>
+          </para>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(5), this action is not a project subject to CEQA review in that the ordinance is an administrative activity that will not physically impact the environment.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" >Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Legislative history and effective date.</heading>
+    <text>This Ordinance was introduced on May 6, 2019 and shall be effective 30 days after its date of adoption.</text>
+  </section>
+  <section>
+    <num>1</num>
+    <heading>Severability.</heading>
+    <text>If any provision of this Ordinance is held unconstitutional or otherwise invalid by a court of competent jurisdiction, the remaining provisions of this Ordinance shall not be invalidated.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Papan, Freschet, Bonilla and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>Goethals</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </section>
+</document>

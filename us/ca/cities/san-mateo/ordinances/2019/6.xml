@@ -1,0 +1,579 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2019-6">
+  <num>2019-6</num>
+  <heading>ADDING CHAPTER 7.50 ENTITLED "PROPERTY OWNER OBLIGATIONS WITH RESPECT TO TENANTS DISPLACED FROM UNSAFE OR SUBSTANDARD UNITS" TO THE SAN MATEO MUNICIPAL CODE, AND AMENDING SECTION 26.65.060 OF CHAPTER 26.65 AND SECTION 27.02.180 OF CHAPTER 27.02 OF THE SAN MATEO MUNICIPAL CODE, RELATING TO TENANT RELOCATION ASSISTANCE.</heading>
+  <meta>
+    <effective>2019-07-17</effective>
+    <citations>
+      <citation type="ord">Ord. No. 2019-6</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2019-6</citation>
+    </citations>
+    <history>
+      <introduced>2019-06-03</introduced>
+      <adopted>2019-06-17</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>from time to time residential rental units in San Mateo have severe code violations which threaten the life and safety of occupants; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>these hazardous living conditions often require that the tenants vacate the structure to allow for extensive repairs or demolition of the structure; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>when these code violations are caused by the negligence or postponed maintenance by the property owner, or when the property owner allows the improper use of a structure as a residence, relocation benefits and assistance are necessary to ensure that displaced tenants secure safe, sanitary and decent replacement housing; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>property owners who fail to properly maintain residential rental properties, and/or create substandard residential rental units should bear responsibility for the hardships their actions (or inaction) create for the tenant; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>relocation costs are a necessary component of code enforcement that should be borne by the property owner, and the City should be reimbursed by the responsible owner for relocation-related costs that it incurs in the code enforcement process; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>requiring property owners to pay relocation costs will encourage them to promptly correct code violations and protect the public health, safety and general welfare of San Mateo residents; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the relocation payment obligations imposed on property owners by this ordinance are intended as the City's local program for advancing relocation payments to displaced tenants, consistent with, and in addition to, Tenant Relocation Assistance provisions in the <cite doc="Cal. Health &amp; Safety Code">California Health and Safety Code</cite>, Regulation of Buildings Used for Human Habitation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the relocation assistance provided for in this ordinance reflects the actual costs of relocation likely to be incurred by displaced tenant household in particular, moving costs and the cost of first and last months' rent, as well as other costs associated with involuntary dislocation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the purpose of this ordinance is to require that property owners whose tenants are displaced, either temporarily or permanently, due to City code enforcement activities, receive from property owners' payments to alleviate hardships associated with such displacements, thereby protecting and enhancing the health and safety of San Mateo residents; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>this ordinance provides an appeal process to allow property owners and tenant households to contest decisions, orders, or determinations made by the City regarding relocation payments or notices of penalties or fines imposed under <cite doc="City of San Mateo, Cal., Code">this Chapter</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>this ordinance amends other, existing sections within <cite doc="City of San Mateo, Cal., Code" path="26.65">Chapter 26.65</cite> "Conversions to Condominiums, Stock Cooperatives, and Community Apartments" of <cite doc="City of San Mateo, Cal., Code" path="26">Title 26</cite> "Subdvisions" and <cite doc="City of San Mateo, Cal., Code" path="27.02">Chapter 27.02</cite> General Provisions of <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite> "Zoning" of the Municipal Code to make the relocation assistance required by those sections consistent with the relocation assistance provided in this ordinance.</text>
+      <text>NOW THEREFORE, THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.50">Chapter 7.50 of the San Mateo Municipal Code</cite> is added as follows:</text>
+    <codify:insert doc="City of San Mateo, Cal., Code" path="7" history="false">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>7.50</num>
+        <heading>Property Owner Obligations with Respect to Tenants Displaced from Unsafe or Substandard Units.</heading>
+      </container>
+    </codify:insert>
+    <include>
+      <container codify:doc="City of San Mateo, Cal., Code" codify:path="7.50">
+        <prefix>Chapter</prefix>
+        <num>7.50</num>
+        <heading>Property Owner Obligations with Respect to Tenants Displaced from Unsafe or Substandard Units.</heading>
+        <section>
+          <codify:insert/>
+          <num>7.50.010</num>
+          <heading>Title.</heading>
+          <text><cite doc="City of San Mateo, Cal., Code" path="7.50">This Chapter</cite> shall be known as Property Owner Obligations with Respect to Tenants Displaced from Unsafe or Substandard Units.</text>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>7.50.020</num>
+          <heading>Definitions.</heading>
+          <text>For the purposes of this <cite doc="City of San Mateo, Cal., Code" path="7.50">Chapter 7.50</cite>, the following words and phrases shall have the meanings set forth herein:</text>
+          <para>
+            <num>(a)</num>
+            <text>"Declaration of substandard condition" means a declaration, notice, or order executed by an Enforcement Officer under the authority of the applicable provision of law declaring that a dwelling is substandard.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Dwelling" means any structure that a person uses as a place of permanent or customary abode within San Mateo city limits, including, but not limited to, a single-family dwelling, a unit in multifamily or multipurpose dwelling, a unit of a condominium or cooperative housing project, a mobile home, a garage or shed, or any other unit or property that is considered to be real property under State law. A dwelling is any structure that is actually used for residential purposes regardless of whether the structure is decent, safe or sanitary and regardless of whether the actual residential use is legally permitted or conforming under any applicable laws or regulations.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Department" means the Community Development Department.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Director" means the head of the Department, or his or her designee.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"Enforcement Officer" means any City employee or agent of the City whose position requires enforcement of any provision of the City of San Mateo Municipal Code, any City ordinance or any state law or regulation related to zoning, building or housing standards, and/or other technical codes adopted by the City for existing residential properties including, but not limited to, code enforcement  officers, building officials and environmental health specialists.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>"Noncomplying dwelling or room" means a dwelling or room within San Mateo city limits  which has been found or determined by an Enforcement Officer to be substandard, blighted, unsafe, a public nuisance, a drug nuisance, or otherwise not in conformity with applicable state or local zoning, building and/or housing standards and/or other technical codes adopted and enforced by the City for existing residential properties; and "noncomplying condition" or "noncompliance" means any physical condition or use with respect to the dwelling or room that contributes to such finding or determination.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>"Notice to abate life-threatening condition" means a notice and/or order to abate a substandard or noncomplying condition issued by the City pursuant to its code enforcement activities, however such notice or order is denominated, that indicates on its face that a life-threatening condition is present.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>"Notice to vacate" means a notice and/or order, however denominated, issued by the City or a court to a property owner and/or a tenant household pursuant to the City's code enforcement activities requiring that a dwelling or room be vacated, either immediately or at some future specified time, as a result of a determination that such dwelling or room fails to comply with applicable building, housing, zoning, or other code standards. For purposes of <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>, a "notice to vacate" includes a complaint or action filed by the City with a court and served on the property owner pursuant to the City's code enforcement activities whereby the City asks for vacation of the property as requested relief.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>"Permanent displacement" means the vacating of a dwelling or room by a tenant household due to code enforcement activities when that dwelling or room (or an equivalent dwelling or room in the building or complex), in the judgment of the Enforcement Officer, cannot foreseeably be brought into code compliance or will not otherwise be available for re-occupancy by the tenant household within ninety (90) days from the date of vacating; or when the tenant household and the property owner have agreed that the displacement shall be permanent.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>"Property owner" means a person, persons, corporation, partnership, limited liability company, or any other entity holding fee title to the subject real property. In the case of multiple ownership of the subject real property, "property owner" means each entity holding any portion of the fee interest in the property and the property owner's obligations in <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite> shall be joint and several as to each property owner.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>"Temporary displacement" means the vacating of a dwelling or room by a tenant household due to code enforcement activities when that dwelling or room (or an equivalent dwelling or room in the same building or complex) will foreseeably be brought into code compliance and be available for re-occupancy by the tenant household within ninety (90) days from the date of vacating; or when the tenant household and property owner have otherwise agreed that the displacement shall be considered temporary.</text>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>"Tenant household" means one or more individuals who rent or lease a dwelling or room as their primary residence and who share living expenses.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>7.50.030</num>
+          <heading>Tenant eligibility for relocation payments.</heading>
+          <para>
+            <num>(a)</num>
+            <text>A tenant household shall be eligible for relocation payments from a property owner under <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite> if the tenant household is displaced from its dwelling or room due to the City's code enforcement activities. For purposes of <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>, a tenant household shall be deemed to be displaced from its dwelling or room due to code enforcement activities in either of the following circumstances:</text>
+            <para>
+              <num>1.</num>
+              <text>The tenant household receives a notice from the property owner requiring the household to vacate or quit the dwelling or room at any time after the City or a court has issued a notice to vacate, notice to abate life-threatening condition or a declaration of substandard condition covering that dwelling or room; or</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>The tenant household vacates its dwelling or room (whether or not the property owner requires vacation) after (a) the City or a court has issued a notice to vacate, notice to abate life-threatening condition, or declaration of substandard condition covering that dwelling or room, and (b) the abatement period has expired without correction of the noncomplying condition (if a time period to abate the noncomplying condition is specified in such notice or declaration and the City or court does not order earlier vacation).</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Notwithstanding subsection (a) above, a tenant household shall not be deemed displaced due to code enforcement activities in any of the following cases:</text>
+            <para>
+              <num>1.</num>
+              <text>The property owner demonstrates to the satisfaction of the Director that vacation of the dwelling or room was due primarily to a cause other than either (a) the noncomplying condition, (b) the City's or court's determination that the dwelling or room was a noncomplying dwelling or room, or (c) the need to make repairs to rectify any noncomplying condition;</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>The property owner demonstrates to the satisfaction of the Director that the noncomplying condition was created by the tenant household or the tenant household's guests or invitees, and was not created by the property owner or the property owner's agent, or that the condition giving rise to the code enforcement activities existed at the time that the tenant household occupied the dwelling or room and that the tenant household occupied the dwelling or room for the purpose of receiving relocation benefits;</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>The property owner demonstrates to the satisfaction of the Director that the tenant household unreasonably prevented the property owner or the property owner's agent from undertaking maintenance or repairs that would have prevented or rectified the noncomplying condition;</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>All noncomplying conditions are corrected, as determined by the City, prior to the time the tenant household has taken definitive steps to move from the dwelling or room;</text>
+            </para>
+            <para>
+              <num>5.</num>
+              <text>The notice to vacate, notice to abate life-threatening condition, or declaration of substandard condition is rescinded or withdrawn by the City or the court or is overturned on appeal prior to the time the tenant household has taken definitive steps to move from the dwelling or room;</text>
+            </para>
+            <para>
+              <num>6.</num>
+              <text>The property owner offers, in writing, to move the tenant household immediately into a replacement dwelling or room in the same building or complex , and all of the following are true: (a) the replacement dwelling or room comparable in size, condition and amenities to the formerly occupied dwelling or room; (b) the replacement dwelling or room complies with all applicable zoning, building and housing codes; (c) the replacement rent is no greater than the rent charged for the formerly occupied dwelling or room; and (d) the offer was made prior to the time the tenant household has taken definitive steps to move; or</text>
+            </para>
+            <para>
+              <num>7.</num>
+              <text>The tenant household is required to vacate the dwelling or room due solely to damage resulting from an earthquake, fire, flood, natural disaster, civil disturbance, or accident outside the control of the property owner, if (a) the vacation is required within six months of such event, and (b) the property owner demonstrates to the satisfaction of the Director that such damage was not caused by the acts or the negligence of the property owner or by a preexisting condition in the building in violation of applicable building, housing, fire, or other <cite doc="Cal. Health &amp; Safety Code">health and safety code</cite>s.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Any provision of a lease or rental agreement for a dwelling or room in which the tenant household agrees to modify or waive any of its rights under <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>, including its rights to relocation payments, shall be void as contrary to public policy.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>7.50.040</num>
+          <heading>City notices to property owners.</heading>
+          <para>
+            <num>(a)</num>
+            <text>An Enforcement Officer or other authorized official, along with issuance of any notice to vacate, notice to abate life-threatening condition, or declaration of substandard condition to a property owner covering a dwelling or room shall inform the property owner that any tenant household that vacates said dwelling or room may be eligible for relocation payments from the property owner, that failure to make required relocation payments to eligible tenant households before vacation may result in the City making payments on behalf of the property owner, and that failure to reimburse the City for all relocation payments made and other costs incurred may result in a lien being placed on the property. Following issuance of any such notice or declaration and expiration of the period to abate the noncomplying condition (if an abatement period is specified in any such notice or declaration), the City shall also use reasonable efforts to deliver information to each affected tenant household in the building regarding the relocation benefits and assistance, if any, to which the tenant household may be entitled.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Failure by the City to supply or attempt to supply any of the information or notices provided for in <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite> shall not affect the validity of any code enforcement notice, order, or action, nor shall any such failure impact any property owner's obligation to abate any noncomplying conditions or provide relocation assistance as required under <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>7.50.050</num>
+          <heading>Property owners' notices to tenants.</heading>
+          <text>Any notice from a property owner to an eligible tenant household to vacate or quit a dwelling or room following the issuance by City of a notice to vacate, notice to abate a life threatening condition, or declaration of substandard condition must set forth the reasons for the need to vacate, the tenant household's entitlement to relocation payments from the property owner, the tenant household's right to re-occupancy following completion of repairs (if the property is one to be repaired), and the estimated date for re-occupancy. The property owner shall send a copy of all notices to theDirector.</text>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>7.50.060</num>
+          <heading>Relocation payments by property owners.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The property owner shall be responsible for providing relocation payments, in the amounts specified in <cite doc="City of San Mateo, Cal., Code" path="7.50.090">section 7.50.090</cite>, to an eligible tenant household in the form and manner prescribed in <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>. The property owner shall furnish proof of any relocation payments made to tenant households to the Director.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Except as set forth in <cite doc="City of San Mateo, Cal., Code" path="7.50.060|(e)">section 7.50.060(e)</cite>, in the case of permanent displacement, the property owner shall make the relocation payment directly to an eligible tenant household no later than ten (10) days before the expected vacation date of the dwelling or room specified in either a City or court notice or order or the property owner's notice to vacate pursuant to sections <cite doc="City of San Mateo, Cal., Code" path="7.50.040">7.50.040</cite> and <cite doc="City of San Mateo, Cal., Code" path="7.50.050">7.50.050</cite>, whichever date is earliest in the event of multiple notices. If less than ten (10) days' advance notice of vacation is given, or no vacation date is specified in such notice or order, then the payment by the property owner to the tenant household shall be made no later than the actual time of vacation.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>If an eligible tenant household vacates a dwelling or room on its own initiative pursuant to <cite doc="City of San Mateo, Cal., Code" path="7.50.030|(a)|(2)">section 7.50.030(a)(2)</cite> in response to a notice to abate life-threatening condition or declaration of substandard condition issued by the City (rather than in response to a notice to vacate by the City, a court or a property owner), and if that tenant household has not given advance notice to the property owner of its intention to vacate, then the payment by the property owner to the tenant household shall be made no later than ten (10) days after written demand for such payment is made by the tenant household to the property owner; provided, however, that in such case, such a demand must be made in writing by the tenant household within thirty (30) days following the actual vacation of the dwelling or room.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>In the case of temporary displacement, the property owner shall make the payment directly to an eligible tenant household within five (5) days after the tenant household has submitted reasonably probative documentation (such as bills, invoices, rental agreements, estimates, etc.) to the property owner of the actual moving and temporary housing expenses the tenant household will incur or has incurred as a result of the temporary displacement during the expected displacement period.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>If the property owner and the tenant household agree in writing that a displacement initially treated as a temporary displacement is to be a permanent displacement, the property owner shall provide the tenant household relocation payments for temporary displacement required under <cite doc="City of San Mateo, Cal., Code" path="7.50.090|(b)">section 7.50.090(b)</cite> within the period required under <cite doc="City of San Mateo, Cal., Code" path="7.50.060|(d)">section 7.50.060(d)</cite>, as well as relocation payments for permanent displacement required under <cite doc="City of San Mateo, Cal., Code" path="7.50.090|(a)">section 7.50.090(a)</cite> within ten (10) days after the displacement is determined, in writing, to be a permanent displacement.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The obligation of the property owner to deliver relocation payments to a tenant household shall be suspended pending the outcome of an appeal pursuant to <cite doc="City of San Mateo, Cal., Code" path="7.50.100">section 7.50.100</cite> of <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>, if the property owner has made a timely request for appeal.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Notwithstanding other provisions of <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>, a tenant household shall not be required to vacate the dwelling or room until the required relocation payment has been made and any appeal requested by the property owner has been concluded, unless (1) the Enforcement Officer has determined for health and safety reasons that vacation must occur sooner; or (2) the property owner has complied with the provisions of <cite doc="Cal. Gov't Code">California Government Code section 7060</cite>, et seq., to withdraw such dwelling or room from rental or lease. However, a property owner remains liable for payment of relocation payments to eligible tenant households under <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite> notwithstanding the applicability of the exceptions above in clauses (1) and (2).</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>7.50.070</num>
+          <heading>Relocation payments by City chargeable to property owners.</heading>
+          <para>
+            <num>(a)</num>
+            <text>The City, in its sole discretion and subject to funding availability, may make any of the payments required of a property owner under <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>, including advancing eligible tenant household(s) reimbursable "moving expenses" and "temporary housing accommodations costs" as each of these terms are defined below in <cite doc="City of San Mateo, Cal., Code" path="7.50.090|(b)">section 7.50.090(b)</cite>. Such payments shall continue to be an obligation of the property owner and shall be reimbursed by the property owner to the City. The City may consider making such payments in its own discretion or if a tenant household makes a written request to the Department following a property owner's failure to pay the required payments within the period mandated under <cite doc="City of San Mateo, Cal., Code" path="7.50.060">section 7.50.060</cite>, but in no event later than sixty (60) days following the tenant household's vacation of the dwelling or room. Prior to any City payment to a tenant household, the Director shall make a determination regarding the eligibility of the tenant household for relocation payments. The Department will make reasonable efforts to contact a representative of the property owner prior to making the determination or authorizing the City's payment. However, failure to give prior notice to the property owner shall not relieve the property owner of any obligations under <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>When the City makes any relocation payments that are the responsibility of the property owner under <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>, the City shall bill the property owner for the amount of payment, plus any administrative and other direct and/or indirect costs that it would not have incurred but for the failure of the owner to make the required payment. The City Manager, in consultation with the City Attorney, shall have the discretion to reduce the amount of any required reimbursement from a property owner to the City in cases where the factual and legal circumstances warrant such a reduction. The property owner shall reimburse the City within five (5) days of receipt of billing from the City. If the property owner does not make full and timely payment to the City, the City is entitled to recover an additional amount equal to the sum of one-half the amount paid by the City on the property owner's behalf, but not to exceed ten thousand dollars ($10,000.00), as a penalty for failure to make timely payment. The City may also record a lien on the subject property with the County of San Mateo Recorder and shall provide notice of such lien to the property owner and to the County of San Mateo Assessor. The form of such lien and the manner of enforcement and collection shall be as authorized by state or local law. Alternatively, the City may include the unreimbursed amount in any other lien placed on the property by the City to secure payment of enforcement costs. Notwithstanding the above, the intent of <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite> is to place primary responsibility for making relocation payments to displaced tenant households on those property owners who are responsible for code violations, and nothing in this section is intended to relieve or release any such property owner from this responsibility.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>7.50.080</num>
+          <heading>Tenant households' return rights.</heading>
+          <para>
+            <num>(a)</num>
+            <text>An eligible tenant household who has experienced temporary or permanent displacement from its dwelling or room due to code enforcement activities shall have the right to return to that dwelling or room, or, if this is not possible, to move into an equivalent dwelling or room in the same building or complex if there is an equivalent dwelling or room owned by the same owner, if and when the dwelling or room is ready for occupancy and under the same terms and conditions that applied to the tenancy prior to the period of displacement. If a tenant household intends to exercise this right, it must inform the property owner in writing of its current address at all times during the period of displacement.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The property owner shall notify the eligible relocated tenant household at least thirty (30) days in advance by certified mail of the availability of the dwelling or room. If a shorter notice is given and the tenant household indicates that it wishes to return, the dwelling or room must be held vacant at no cost to the household for a period no less than thirty-five days after the mailing of the notice of availability. The notice shall provide that within seven days of receipt of notice of availability of the dwelling or room, a tenant household wishing to return must notify the property owner in writing of this election.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>If a tenant household wishing to return to the dwelling or room is required to pay a security deposit, the tenant household must be permitted sufficient time to obtain a refund of any deposit paid to obtain replacement housing during the period of relocation.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>This return right is in addition to an eligible tenant household's entitlement to monetary relocation payments from the property owner under the terms of this <cite doc="City of San Mateo, Cal., Code" path="7.50">chapter 7.50</cite>, and the exercise of this option by a tenant shall not affect the household's eligibility for such payments.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>7.50.090</num>
+          <heading>Amount of relocation payments.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Permanent Displacement. An eligible tenant household that will experience permanent displacement as defined above shall receive a monetary relocation payment from the property owner equal to three times the current monthly United States Department of Housing and Urban Development (HUD) Fair Market Rent for a unit of comparable size and type to the dwelling or room from which the displacement occurs, plus a payment not to exceed one thousand dollars ($1,000.00) for actual moving costs and related expenses incurred by the tenant household and substantiated by reasonably probative documentation. The property owner shall treat any non-complying dwelling or room that does not have one or more separate bedrooms as an "efficiency unit" for purposes of determining the applicable HUD Fair Market Rent and calculating the required monetary relocation payment on that basis. In addition, the tenant household is entitled to a refund and/or accounting for any security deposit held by the property owner pursuant to <cite doc="Cal. Civ. Code" path="§1950.5">California Civil Code section 1950.5</cite>. For purposes of <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>, "HUD Fair Market Rent" means the amount specified in the schedule of Fair Market Rents for existing housing published by the U.S. Department of Housing and Urban Development under Section 8 of the United States Housing Act of 1937, as amended, applicable to the City of San Mateo and current as of the date the City or court issues the notice to vacate, notice to abate life-threatening condition, or declaration of substandard condition.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Temporary Displacement.</text>
+            <para>
+              <num>1.</num>
+              <text>An eligible tenant household that will experience temporary displacement as defined above shall receive monetary relocation payment or payments from the property owner to cover the tenant household's actual and reasonable moving expenses in addition to temporary housing accommodations costs incurred as a result of the temporary displacement. "Moving expenses" shall include the cost of removing, transporting, and/or storing the tenant household's personal property during the displacement period. "Temporary housing accommodations costs" shall include the cost of rental payments and hotel or motel payments during the displacement period. The total amount of temporary housing accommodations costs paid by the property owner shall not exceed three times the current monthly HUD Fair Market Rent for a unit of comparable size and type to the dwelling or room from which the displacement occurs. If the tenant household is not paying rent during the displacement period, then the property owner shall be entitled to deduct the amount the tenant household would have paid from the relocation payments required under this paragraph.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>In lieu of the relocation payments required under subsection (b)(1), the property owner may offer to provide a tenant household temporary housing accommodations. Tenant household shall have the sole option to accept or decline this offer.</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>Temporary housing accommodations shall be (a) comparable in size, condition, or amenities to the formerly occupied dwelling or room and (b) comply with all applicable zoning, building and housing codes and (c) shall be located within San Mateo city limits or any jurisdiction that borders San Mateo, unless the tenant agrees in writing to accept temporary housing accommodations in a different location.</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>If the temporary housing accommodations are not comparable in size, condition, or amenities, or not located within San Mateo city limits or a jurisdiction that borders San Mateo, the property owner shall pay a living stipend in the amount of 50% of the current U.S. General Services Administration meals &amp; incidentals per diem rate for San Mateo/Foster City/Belmont, per tenant household member, per day, not to exceed $1000 per tenant household.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Except as provided in <cite doc="City of San Mateo, Cal., Code" path="7.50.060|(e)">section 7.50.060(e)</cite>, in no event shall the property owner be liable for making payments in excess of the amount the tenant household would receive in the case of permanent displacement under <cite doc="City of San Mateo, Cal., Code" path="7.50.090|(a)">section 7.50.090(a)</cite>.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Immediate Vacation. When the condition of a dwelling or room is a danger to the public health and safety such that the City requires vacation with fewer than thirty (30) days advance notice either from the City or from the property owner to the tenant household of the need to vacate, an eligible tenant household displaced from such a dwelling or room shall be entitled to an additional payment from the property owner in the amount of one thousand dollars ($1,000.00), in addition to the amounts set forth above. Such additional payment is intended to compensate the tenant household for the additional costs associated with short-notice moves and the added inconvenience of such moves.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Payments for relocation shall not be considered by the City as income or assets for any government benefits program.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>7.50.100</num>
+          <heading>Appeals process.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Written Appeal.</text>
+            <para>
+              <num>1.</num>
+              <text>A property owner or tenant household may contest a decision, order, or determination regarding relocation payments or a notice of penalty or fine assessed <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite> by submitting an appeal in writing together with the appeal fee listed in the City's fee schedule. The appeal shall set forth the factual basis for disputing the decision, order, or determination.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>Appeals must be addressed to the Director, and must be received within ten (10) days of the date appearing on the decision, order, or determination regarding relocation benefits or the notice of penalty or fine. A copy of the appeal must be provided by the appellant to any tenant household(s) or property owner(s) directly affected by the appeal on or by the same date that the appeal is received by the Director.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Hearing Procedure.</text>
+            <para>
+              <num>1.</num>
+              <text>Upon receipt of a written appeal and appeal fee, the Director shall schedule a hearing before the City Council. Any tenant household(s) or property owner(s) directly affected by the appeal shall have the right to attend and participate in the hearing.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>The appeal hearing shall be set for a date within thirty (30) days from the date that the appeal is filed, unless the Director determines that good cause exists for an extension of time. The appellant and any tenant household(s) or property owner(s) directly affected by the appeal shall receive notice of the time and place at least fifteen (15) days prior to the hearing unless the Director determined, in writing, that the matter is urgent, in which case the appellant and any tenant household(s) or property owner(s) directly affected by the appeal shall receive at least five (5) days prior notice of the hearing.</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>Documentary evidence and names of potential witnesses shall be provided by the Enforcement Officer and the appellant to the City Council and any tenant household(s) or property owner(s) directly affected by the appeal at least five (5) days prior to the appeal hearing or as soon as practicable prior to the hearing. At the hearing, the tenant household(s) or property owner(s) directly affected by the appeal shall be given the opportunity to testify and to present evidence concerning the decision, order, or determination regarding relocation benefits or the notice of penalty or fine. The failure of appellant to appear at the appeal hearing shall constitute a forfeiture of the fine or penalty (if applicable).</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>The decision, order, or determination regarding relocation benefits or the notice of penalty or fine and any additional report submitted by the Enforcement Officer shall constitute prima facie evidence of the respective facts contained in those documents.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Decision on Appeal.</text>
+            <para>
+              <num>1.</num>
+              <text>After considering all of the testimony and evidence submitted at the hearing, the  City Council shall issue a written decision to uphold or cancel all or part of the decision, order, or determination regarding relocation benefits or the notice of penalty or fine and shall state the reasons for that decision. The decision of the City Council shall include findings regarding the evidence in the record and submitted at the hearing, as well as the existence of any proper grounds for the order to pay relocation benefits or the notice of penalty or fine. A copy of the City Council's written decision shall be provided to the property owner as well as any tenant household(s) directly affected by the appeal.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>If the City Council determines that the decision, order, or determination regarding relocation benefits or the notice of penalty or fine should be upheld, then the property owner shall pay the appropriate sum(s) to the tenant household and/or the City within ten (10) days after the property owner's receipt of the  City Council's written decision.</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>To the extent allowed by law, the decision and the decision, order, or determination regarding relocation benefits or notice of penalty or fine shall have the same force and effect as a resolution of the City Council for the purpose of filing a lien, special assessment, or for pursuing any other method of collection.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>7.50.110</num>
+          <heading>Retaliation Barred.</heading>
+          <para>
+            <num>(a)</num>
+            <text>No property owner shall take any of the following actions in retaliation against any member of a tenant household for exercising rights granted under <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>:</text>
+            <para>
+              <num>1.</num>
+              <text>Engage in conduct that violates subdivision (a) of <cite doc="Cal. Penal Code" path="§484">Section 484 of the California Penal Code</cite>.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>Engage in conduct that violates <cite doc="Cal. Penal Code" path="§518">Section 518 of the California Penal Code</cite>.</text>
+            </para>
+            <para>
+              <num>3.</num>
+              <text>Use, or threaten to use, force, willful threats, or menacing conduct constituting a course of conduct that interferes with the tenant's quiet enjoyment of the premises in violation of <cite doc="Cal. Civ. Code" path="§1927">Section 1927 of the California Civil Code</cite> that would create an apprehension of harm in a reasonable person. Nothing in this paragraph requires a tenant to be actually or constructively evicted in order to obtain relief.</text>
+            </para>
+            <para>
+              <num>4.</num>
+              <text>Commit a significant and intentional violation of <cite doc="Cal. Civ. Code" path="§1954">Section 1954 of the California Civil Code</cite>.</text>
+            </para>
+            <para>
+              <num>5.</num>
+              <text>Threaten to disclose information regarding or relating to the immigration or citizenship status of a tenant, occupant, or other person known to the landlord to be associated with a tenant or occupant. This paragraph does not require a tenant to be actually or constructively evicted in order to obtain relief.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>An oral or written warning notice, given in good faith, regarding conduct by a tenant, occupant, or guest that violates, may violate, or violated the applicable rental agreement, rules, regulations, lease, or laws, is not a violation of this section. An oral or written explanation of the rental agreement, rules, regulations, lease, or laws given in the normal course of business is not a violation of this section.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>This section does not enlarge or diminish a landlord's right to terminate a tenancy pursuant to existing state or local law; nor does this section enlarge or diminish any ability of local government to regulate or enforce a prohibition against a landlord's harassment of a tenant.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>7.50.120</num>
+          <heading>Private right of action.</heading>
+          <para>
+            <num>(a)</num>
+            <text>A tenant household that believes that a property owner has violated the provisions of <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite> shall have the right to file an action for injunctive relief and/or actual damages against such party. Treble damages shall be awarded for a property owner's willful failure to comply with the payment obligations established under <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>. In any action brought under <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite>, the court may award reasonable attorney's fees to any prevailing party.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Nothing herein shall be deemed to interfere with the right of a property owner to file an action against a tenant or non-tenant third party for the damage done to said owner's property. Nothing herein is intended to limit the damages recoverable by any party through a private action.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>7.50.130</num>
+          <heading>Severability.</heading>
+          <text>In the event any section, clause or provision of <cite doc="City of San Mateo, Cal., Code" path="7.50">this chapter</cite> shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="26.65.060">Section 26.65.060</cite> "Conditions" of <cite doc="City of San Mateo, Cal., Code" path="26.65">Chapter 26.65</cite> "Conversions to Condominiums, Stock Cooperatives, and Community Apartments" is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="26.65.060"/>
+        <num>26.65.060</num>
+        <heading>CONDITIONS.</heading>
+        <text>Approval of a proposed subdivision map for a conversion under <cite doc="City of San Mateo, Cal., Code" path="26.65">this chapter</cite> shall be conditioned to secure the purposes of <cite doc="City of San Mateo, Cal., Code" path="26">this title</cite>. Such conditions shall include, but are not limited to the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Each tenant shall have the first right to purchase his or her unit for a period of three (3) months after receipt of city approval of the final map and a copy of the condominium final subdivision public report of the California Department of Real Estate.</text>
+          <para>
+            <num>(A)</num>
+            <text>Any eligible tenant who is a tenant on the date of the approval of the tentative map and who does not exercise his or her right to purchase or relocate shall be entitled to a one-year lease upon approval of the final map for the project; the one-year is measured from the date of the tentative map approval.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Any eligible tenant who, on the date of the filing of the tentative map application, is sixty-two (62) years of age or older or is handicapped shall be entitled to a lease of his or her unit for so long as the tenant lives and remains a tenant of the unit. The rental rate for all tenants shall be that in effect at the time the application for a tentative map is filed, subject to an increase no more often than every twelve (12) months of not more than the annual cost of living increase published for the Housing and Urban Development's (HUD) Section 8 rental increase averages for the San Francisco Bay Midpeninsula. This restriction on rate increases shall be for the period from twelve (12) months before the filing of the tentative map application through the end of occupancy for an eligible tenant and until the unit is sold for all other tenants.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Relocation assistance shall be given to all eligible tenants as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>A relocation allowance equal to three times the current monthly United Stattes Department of Housing and Urban Development (HUD) Fair Market Rent for a unit of comparable size and type to the unit being converted shall be paid to the eligible tenant within twenty (20) days after the tenant notifies the owner of his or her intention to vacate the unit or the owner notifies the tenant to vacate the unit.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The developer shall provide a list of active comparable rental units in San Mateo County at least once each month beginning in the month that the tentative map is approved by the City and continuing until six (6) months after approval of the final map or the expiration of the tentative map, whichever is later; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>In conversion projects of twenty-five (25) or more dwelling units, the developer shall provide a relocation specialist to assist displaced tenants in finding new housing who shall be on-site at least biweekly, beginning no later than fifteen (l5) days after the approval of the tentative map by the City and continuing until the expiration of the tentative map or six (6) months after the approval of the final map, whichever occurs first.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Hazardous and unsafe conditions shall be alleviated and repaired prior to final map approval, even though the condition may have complied with city codes in effect at the time of original construction. Other code requirements, as well as conditions of the conversion approval, not deemed hazardous or unsafe, if not complete at the time final map approval is sought, shall require that a bond in the form and amount acceptable to city be posted to ensure such completion prior to approval for occupancy or within one year of the approval of the final map, whichever is sooner. Such bonding shall not be released until all conditions of approval have been met and accepted by city as satisfactory.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>An inspection of the premises to ascertain that structures are consistent with the public health and safety shall be completed at applicant's expense by the City or city's designee prior to final map approval. Approval for occupancy shall not be granted until all other conditions of approval have been met and accepted by city as satisfactory.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The structural elements of the conversion project shall meet, at a minimum, the Uniform Building Code in effect in the City on the date of the building permit application for the conversion. Calculations by a structural or civil engineer or architect shall be required. The project shall also meet sound control and energy conservation requirements as follows:</text>
+          <para>
+            <num>(A)</num>
+            <text>Sound control between units and between units and public areas shall provide an airborne sound insulation equal to that required to meet a Sound Transmission Class (STC) of forty-three by field testing. Impact Insulation Class (IIC) of forty-three by field testing is required. Entrance doors and perimeter seals shall meet a rating of not less than twenty-six STC. To assure compliance with the above, all units must be field tested and certified by an approved testing agency.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Energy conservation measures shall be included. Roof and ceiling assemblies shall meet the R-20 standard. Exterior openings shall be weather-stripped. If the glazing areas exceed the allowable areas of the state energy regulations by ten percent, modifications shall be made to bring the structure within the limits specified herein. The energy compliance alterations may be made in any manner provided in the state regulations. Calculations by a person authorized in the state regulations will be required. Exposed heating ducts and hot water piping and hot water tanks shall be insulated.</text>
+          </para>
+          <aftertext>For the purpose of meeting all the requirements of this subsection (5), all walls, floors and other structural elements deemed suspect by the building official, shall be opened for inspection and necessary corrections shall be made to the structure prior to receiving approval for occupancy.</aftertext>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Parking for each unit shall be the same as that required for new multiple residential structures specified per bedroom count in <cite doc="City of San Mateo, Cal., Code" path="27.64">Chapter 27.64</cite> of this code, except that, upon proper qualification, a variance therefrom may be granted under the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.78">Chapter 27.78</cite> of this code. The parking for each unit shall be within an enclosed garage for at least one space, or, alternatively, a covered parking area with adequate security may be substituted.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>All public improvements which are necessary to comply with present city standards shall be required and completed prior to approval of the final map.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>The applicant shall post an irrevocable bond or warranty with the project's homeowners association assuring the operation and maintenance of all built-in appliances in each unit for a period of one year after conveyance of each unit. Any residential conversion project shall contain clothes washing and drying appliances at a minimum ratio of one of each such appliance per five units, or fraction thereof, in the project, to be located in a facility readily accessible to all occupants. A similar bond or warranty for the clothes appliances shall be posted with the association for a like period of operation and maintenance.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The applicant shall furnish the department of community development with a copy of the Department of Real Estate's Conversion Final Subdivision Public Report when issued, as well as to all prospective purchasers. The applicant shall also notify all tenants of the structure to be converted of each public hearing scheduled on the application, in writing, and provide evidence of compliance therewith to the City prior to final tentative map approval.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>After tentative map approval is granted, but prior to a final map being approved, the applicant shall file a copy of the covenants, conditions and restrictions with the City Attorney's office. They shall be reviewed and approved by the City Attorney for compliance with the provisions of this code, conditions of approval or conflicts with local law prior to approval of the final map. The covenants, conditions and restrictions for residential conversions shall contain provisions prohibiting discrimination because of age, persons of low income, or families with children, unless the physical facilities are limited to elderly persons or unsuitable for children and persons of low income are unable to qualify for financial assistance to purchase a unit.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>The project shall meet all zoning ordinances in effect at the time the application is filed with respect to the number of units permitted.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.02.180">Section 27.02.180</cite> "Relocation Assistance/Allowance" of <cite doc="City of San Mateo, Cal., Code" path="27.02">Chapter 27.02</cite> "General Provisions" is amended as follows:</text>
+    <include>
+      <section>
+        <num>27.02.180</num>
+        <heading>Relocation Assistance/Allowance.</heading>
+        <text>In the event of demolition of existing residential dwelling units and/or conversion causing relocation, a list of the head of household of each unit to be demolished or converted shall be provided to the Planning Division in order to determine that a planning application is complete. Relocation assistance shall be provided by a planning applicant to each household prior to any notice of relocation as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>A list of available comparable housing within San Mateo County; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A relocation allowance in cash or check equivalent to three times the current monthly United States Department of Housing and Urban Development (HUD) Fair Market Rent for a dwelling unit of comparable size and type to the dwelling or room from which the displacement occurs; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A payment not to exceed one thousand dollars ($1,000.00) for actual moving costs and related expenses incurred by the tenant household and substantiated by reasonably probative documentation; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Other reasonable assistance and allowance, as determined by the final approval body in a condition of approval.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Environmental determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(2), this action is not a project subject to CEQA review in that the ordinance is a general policy-making activity.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Severability.</heading>
+    <text>If any provision of this Ordinance is held unconstitutional or otherwise invalid by a court, the remaining provisions of this Ordinance shall not be invalidated.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Legislative history and effective date.</heading>
+    <text>This ordinance was introduced on June 3, 2019, and adopted on June 17, 2019, and shall be effective 30 days after its date of adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Papan, Freschet, Bonilla, Goethals and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </section>
+</document>
