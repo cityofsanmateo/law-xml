@@ -2,10 +2,11 @@
 <collection xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2019">
   <heading>2019 Ordinances</heading>
   <heading type="short">2019</heading>
-  <subheading>Uncodified Ordinances</subheading>
+  <subheading>Codified Ordinances</subheading>
   <xi:include href="./7.xml"/>
   <xi:include href="./6.xml"/>
   <xi:include href="./5.xml"/>
+  <subheading>Uncodified Ordinances</subheading>
   <xi:include href="./4.xml"/>
   <xi:include href="./3.xml"/>
   <xi:include href="./2.xml"/>
