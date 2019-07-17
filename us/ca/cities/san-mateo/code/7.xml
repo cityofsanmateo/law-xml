@@ -4960,310 +4960,299 @@
     <prefix>Chapter</prefix>
     <num>7.46</num>
     <heading>MEDICAL MARIJUANA COLLECTIVES REGULATIONS</heading>
-    <container>
-      <prefix>ARTICLE</prefix>
-      <num>1</num>
-      <heading>GENERAL PROVISIONS</heading>
-      <section>
-        <num>7.46.010</num>
-        <heading>PURPOSE AND INTENT.</heading>
-        <text>It is the purpose and intent of <cite path="7.46">this chapter</cite> to adopt and enforce rules consistent with the Compassionate Use Act and the Medical Marijuana Program Act, which rules will provide for the health, safety and welfare of the public by regulating the collective cultivation and possession of medical marijuana within the City of San Mateo, consistent with State law.</text>
-        <text><cite path="7.46">This chapter</cite> is intended to be consistent with the Compassionate Use Act and the Medical Marijuana Program Act, and towards that end, it is not intended to and does not criminalize activity which is otherwise permitted under State law, and it is not intended to and does not authorize conduct that is otherwise prohibited by State law.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>7.46.020</num>
-        <heading>DEFINITIONS.</heading>
+    <subheading>ARTICLE 1 GENERAL PROVISIONS</subheading>
+    <section>
+      <num>7.46.010</num>
+      <heading>PURPOSE AND INTENT.</heading>
+      <text>It is the purpose and intent of <cite path="7.46">this chapter</cite> to adopt and enforce rules consistent with the Compassionate Use Act and the Medical Marijuana Program Act, which rules will provide for the health, safety and welfare of the public by regulating the collective cultivation and possession of medical marijuana within the City of San Mateo, consistent with State law.</text>
+      <text><cite path="7.46">This chapter</cite> is intended to be consistent with the Compassionate Use Act and the Medical Marijuana Program Act, and towards that end, it is not intended to and does not criminalize activity which is otherwise permitted under State law, and it is not intended to and does not authorize conduct that is otherwise prohibited by State law.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.46.020</num>
+      <heading>DEFINITIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text><strong>"License Committee</strong>" means a Committee comprised of the Zoning Administrator, or designee, the Building Official, or designee, the Fire Chief, or designee, and the Police Chief, or designee.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>"<strong>Medical marijuana collective</strong>" or "<strong>collective</strong>" means a facility or location at which qualified patients, persons with identification cards, and the designated primary caregivers of qualified patients and persons with identification cards, collectively or cooperatively cultivate and/or store marijuana for medical purposes.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>"<strong>Qualified patient</strong>" shall have the same meaning as provided in <cite doc="Cal. Health &amp; Safety Code" path="§11362.7">Health and Safety Code Section 11362.7</cite>.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>"<strong>Persons with identification cards</strong>" shall have the same meaning as provided in <cite doc="Cal. Health &amp; Safety Code" path="§11362.7">Health and Safety Code Section 11362.7</cite>.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>"<strong>Primary caregiver</strong>" shall have the same meaning as provided in <cite doc="Cal. Health &amp; Safety Code" path="§11362.7">Health and Safety Code Section 11362.7</cite>.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.46.030</num>
+      <heading>REGISTRATION OF COLLECTIVES.</heading>
+      <text>Primary caregivers, qualified patients, and persons with identification cards cultivating medical marijuana at a collective shall register with the Police Chief, providing the name of a responsible party, a telephone number, the place of operation of the collective, and such other information as may be reasonably required by the Police Chief.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <subheading>ARTICLE 2 LICENSING REQUIREMENT AND PROCEDURE</subheading>
+    <section>
+      <num>7.46.040</num>
+      <heading>REQUIREMENT FOR CITY LICENSE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Only qualified patients, persons with identification cards and primary caregivers may cultivate and store medical marijuana collectively. Medical marijuana collectives are required to obtain a license to operate within the City of San Mateo.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>An application for a license under <cite path="7.46">this chapter</cite> shall include: (1) a warning that persons collectively cultivating medical marijuana at facilities licensed under <cite path="7.46">this chapter</cite> may be subject to prosecution under Federal laws; (2) the applicant's waiver and release of the City from any and all legal liability related to or arising from the application for a license, the issuance of the license, or the enforcement of the conditions of the license, and/or the operation of any facility at which where medical marijuana is collectively cultivated.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.46.050</num>
+      <heading>LICENSE PROCEDURE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every person who proposes to participate in the collective or cooperative cultivation and/or storage of medical marijuana in the City of San Mateo shall file an application with the License Committee upon a form provided by the City of San Mateo Police Department and shall pay a filing fee, as established by resolution adopted by the City Council.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Applications shall include the following information:</text>
         <para>
-          <num>(a)</num>
-          <text><strong>"License Committee</strong>" means a Committee comprised of the Zoning Administrator, or designee, the Building Official, or designee, the Fire Chief, or designee, and the Police Chief, or designee.</text>
+          <num>(1)</num>
+          <text>Each individual member of the cooperative or collective shall state their legal name (including any aliases), address, and telephone number.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>"<strong>Medical marijuana collective</strong>" or "<strong>collective</strong>" means a facility or location at which qualified patients, persons with identification cards, and the designated primary caregivers of qualified patients and persons with identification cards, collectively or cooperatively cultivate and/or store marijuana for medical purposes.</text>
+          <num>(2)</num>
+          <text>Each individual member of the cooperative or collective shall provide evidence that they are a qualified patient, person with an identification card, or a primary caregiver.</text>
         </para>
         <para>
-          <num>(c)</num>
-          <text>"<strong>Qualified patient</strong>" shall have the same meaning as provided in <cite doc="Cal. Health &amp; Safety Code" path="§11362.7">Health and Safety Code Section 11362.7</cite>.</text>
+          <num>(3)</num>
+          <text>If the applicant is a cooperative, it shall provide a copy of its articles of incorporation and shall provide the information required by subsections (b)(1) and (b)(2) for each of its members.</text>
         </para>
         <para>
-          <num>(d)</num>
-          <text>"<strong>Persons with identification cards</strong>" shall have the same meaning as provided in <cite doc="Cal. Health &amp; Safety Code" path="§11362.7">Health and Safety Code Section 11362.7</cite>.</text>
+          <num>(4)</num>
+          <text>The proposed address where the applicants intend to cultivate and/or store medical marijuana, plus the names and addresses of the owners of the proposed site.</text>
         </para>
         <para>
-          <num>(e)</num>
-          <text>"<strong>Primary caregiver</strong>" shall have the same meaning as provided in <cite doc="Cal. Health &amp; Safety Code" path="§11362.7">Health and Safety Code Section 11362.7</cite>.</text>
+          <num>(5)</num>
+          <text>The address to which notice of action on the application is to be mailed.</text>
         </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>7.46.030</num>
-        <heading>REGISTRATION OF COLLECTIVES.</heading>
-        <text>Primary caregivers, qualified patients, and persons with identification cards cultivating medical marijuana at a collective shall register with the Police Chief, providing the name of a responsible party, a telephone number, the place of operation of the collective, and such other information as may be reasonably required by the Police Chief.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
-        </annotations>
-      </section>
-    </container>
-    <container>
-      <prefix>ARTICLE</prefix>
-      <num>2</num>
-      <heading>LICENSING REQUIREMENT AND PROCEDURE</heading>
-      <section>
-        <num>7.46.040</num>
-        <heading>REQUIREMENT FOR CITY LICENSE.</heading>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Upon receipt of a completed application and payment the fee, the License Committee shall promptly investigate the information contained in the application to determine whether the applicant shall be issued a license.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The License Committee shall approve a license application, unless:</text>
         <para>
-          <num>(a)</num>
-          <text>Only qualified patients, persons with identification cards and primary caregivers may cultivate and store medical marijuana collectively. Medical marijuana collectives are required to obtain a license to operate within the City of San Mateo.</text>
+          <num>(1)</num>
+          <text>The building, structure, equipment, or location for which a license is requested does not comply with the requirements and standards of the health, zoning, fire and safety laws of the City and the State of California, or with the development and performance standards and requirements of the regulations contained in <cite path="7.46">this chapter</cite>.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>An application for a license under <cite path="7.46">this chapter</cite> shall include: (1) a warning that persons collectively cultivating medical marijuana at facilities licensed under <cite path="7.46">this chapter</cite> may be subject to prosecution under Federal laws; (2) the applicant's waiver and release of the City from any and all legal liability related to or arising from the application for a license, the issuance of the license, or the enforcement of the conditions of the license, and/or the operation of any facility at which where medical marijuana is collectively cultivated.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>7.46.050</num>
-        <heading>LICENSE PROCEDURE.</heading>
-        <para>
-          <num>(a)</num>
-          <text>Every person who proposes to participate in the collective or cooperative cultivation and/or storage of medical marijuana in the City of San Mateo shall file an application with the License Committee upon a form provided by the City of San Mateo Police Department and shall pay a filing fee, as established by resolution adopted by the City Council.</text>
+          <num>(2)</num>
+          <text>The applicants have knowingly made any false, misleading or fraudulent statement of material fact in the application for the license.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>Applications shall include the following information:</text>
-          <para>
-            <num>(1)</num>
-            <text>Each individual member of the cooperative or collective shall state their legal name (including any aliases), address, and telephone number.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Each individual member of the cooperative or collective shall provide evidence that they are a qualified patient, person with an identification card, or a primary caregiver.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>If the applicant is a cooperative, it shall provide a copy of its articles of incorporation and shall provide the information required by subsections (b)(1) and (b)(2) for each of its members.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>The proposed address where the applicants intend to cultivate and/or store medical marijuana, plus the names and addresses of the owners of the proposed site.</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>The address to which notice of action on the application is to be mailed.</text>
-          </para>
+          <num>(3)</num>
+          <text>The required application fee has not been paid.</text>
         </para>
         <para>
-          <num>(c)</num>
-          <text>Upon receipt of a completed application and payment the fee, the License Committee shall promptly investigate the information contained in the application to determine whether the applicant shall be issued a license.</text>
+          <num>(4)</num>
+          <text>The applicant has failed to provide a complete application. If an application is denied on this basis, the License Committee shall state the information that is needed to make the application complete.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The License Committee shall make its determination within 30 business days of receipt of the completed application and fee. If the application is granted the license shall be placed in the Unites States mail, first class postage prepaid, addressed to the applicant at the address stated in the application.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>If the License Committee neither grants nor denies the application within 30 business days after it is stamped as received, the applicant may begin operating the collective or cooperative for which the license was sought, subject to strict compliance with the development and performance standards and requirements of <cite path="7.46">this chapter</cite>. If the applicant begins operating the collective or cooperative because the License Committee has not granted or denied the application within 30 business days, the License Committee may issue the permit after the 30-day period has elapsed, and the permit shall be subject to revocation under the provisions of <cite path="7.46.070">Section 7.46.070</cite>.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.46.060</num>
+      <heading>CONDITIONS OF LICENSE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The City license will include, at a minimum, the following conditions:</text>
+        <para>
+          <num>(1)</num>
+          <text>Only qualified patients, persons with identification cards, and primary caregivers may cultivate medical marijuana collectively or associate for the purpose of doing so.</text>
         </para>
         <para>
-          <num>(d)</num>
-          <text>The License Committee shall approve a license application, unless:</text>
-          <para>
-            <num>(1)</num>
-            <text>The building, structure, equipment, or location for which a license is requested does not comply with the requirements and standards of the health, zoning, fire and safety laws of the City and the State of California, or with the development and performance standards and requirements of the regulations contained in <cite path="7.46">this chapter</cite>.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>The applicants have knowingly made any false, misleading or fraudulent statement of material fact in the application for the license.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>The required application fee has not been paid.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>The applicant has failed to provide a complete application. If an application is denied on this basis, the License Committee shall state the information that is needed to make the application complete.</text>
-          </para>
+          <num>(2)</num>
+          <text>Absolutely no advertising of marijuana is allowed at any time.</text>
         </para>
         <para>
-          <num>(e)</num>
-          <text>The License Committee shall make its determination within 30 business days of receipt of the completed application and fee. If the application is granted the license shall be placed in the Unites States mail, first class postage prepaid, addressed to the applicant at the address stated in the application.</text>
+          <num>(3)</num>
+          <text>Exterior signage is limited to site addressing only.</text>
         </para>
         <para>
-          <num>(f)</num>
-          <text>If the License Committee neither grants nor denies the application within 30 business days after it is stamped as received, the applicant may begin operating the collective or cooperative for which the license was sought, subject to strict compliance with the development and performance standards and requirements of <cite path="7.46">this chapter</cite>. If the applicant begins operating the collective or cooperative because the License Committee has not granted or denied the application within 30 business days, the License Committee may issue the permit after the 30-day period has elapsed, and the permit shall be subject to revocation under the provisions of <cite path="7.46.070">Section 7.46.070</cite>.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>7.46.060</num>
-        <heading>CONDITIONS OF LICENSE.</heading>
-        <para>
-          <num>(a)</num>
-          <text>The City license will include, at a minimum, the following conditions:</text>
-          <para>
-            <num>(1)</num>
-            <text>Only qualified patients, persons with identification cards, and primary caregivers may cultivate medical marijuana collectively or associate for the purpose of doing so.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Absolutely no advertising of marijuana is allowed at any time.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>Exterior signage is limited to site addressing only.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>The collective site will be monitored at all times for security purposes.</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>A centrally monitored alarm system is required.</text>
-          </para>
-          <para>
-            <num>(6)</num>
-            <text>Interior building lighting, exterior building lighting and parking area lighting will be of sufficient foot-candles and color rendition, so as to allow the ready identification of any individual on-site at a distance of no less than 40 feet.</text>
-          </para>
-          <para>
-            <num>(7)</num>
-            <text>Windows and roof hatches will be secured with bars on the windows so as to prevent unauthorized entry, and be equipped with latches that may be released quickly from the inside to allow exit in the event of emergency.</text>
-          </para>
-          <para>
-            <num>(8)</num>
-            <text>No marijuana product may be visible from the building exterior.</text>
-          </para>
-          <para>
-            <num>(9)</num>
-            <text>The activities that may be conducted at a licensed collective are limited to cultivation of marijuana for personal use and preparation of cultivated marijuana for personal use, such as drying and processing.</text>
-          </para>
-          <para>
-            <num>(10)</num>
-            <text>No cooking, preparation, or manufacturing of marijuana enhanced or edible products, including, but not limited to, cookies, candy, or brownies is allowed.</text>
-          </para>
-          <para>
-            <num>(11)</num>
-            <text>No sales of marijuana are allowed on-site.</text>
-          </para>
-          <para>
-            <num>(12)</num>
-            <text>No persons under the age of 18 are allowed on-site, unless such individual is a qualified patient and accompanied by their licensed attending physician, parent or documented legal guardian.</text>
-          </para>
-          <para>
-            <num>(13)</num>
-            <text>The quantity of marijuana located at the facility where medical marijuana is collectively cultivated may not exceed the maximum quantity of medical marijuana authorized by State law needed by the patients who are served by the collective, consistent with the regulations set forth in <cite path="7.46">this chapter</cite>.</text>
-          </para>
-          <para>
-            <num>(14)</num>
-            <text>The Police Chief may inspect the collective at any reasonable time to ensure that the amounts of medical marijuana on-site conform to <cite path="7.46">this chapter</cite> and State law.</text>
-          </para>
-          <para>
-            <num>(15)</num>
-            <text>All cultivated marijuana must be secured in structures consisting of at least four (4) walls and a roof, and conform to specified security standards, as to locks, deadbolts and additional security measures.</text>
-          </para>
-          <para>
-            <num>(16)</num>
-            <text>The consumption, use, or smoking of marijuana at a facility that is licensed for the collective cultivation and/or possession of marijuana, or in the parking areas of said facility, or in vehicles located at or near or under said facility is prohibited.</text>
-          </para>
-          <para>
-            <num>(17)</num>
-            <text>The medical marijuana collective shall comply with all the applicable building, zoning, and environmental requirements set forth in this code or State law. No medical marijuana collective may be licensed to operate on a property located immediately adjacent to any property on which a residence exists, or on a property located in a zone other than the M1 (Manufacturing) or C4 (Commercial Service) zones.</text>
-          </para>
-          <para>
-            <num>(18)</num>
-            <text>The medical marijuana collective may not be operated or located in or within 500 feet of the grounds of a school, recreation center, or youth center.</text>
-          </para>
+          <num>(4)</num>
+          <text>The collective site will be monitored at all times for security purposes.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>The License Committee reserves the right to make additional security and safety conditions, if necessary, upon receipt of detailed building plans.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>7.46.070</num>
-        <heading>LICENSE REVOCATION.</heading>
-        <text>If it is determined that grounds for license revocation exist, the License Committee shall furnish written notice of the proposed revocation to the licensee. Such notice shall set forth the time and place of a hearing and the ground or grounds upon which the hearing is based, the pertinent code sections, and a brief statement of the factual matters in support thereof. The notice shall be mailed, postage prepaid, addressed to the last known address of the licensee at least 10 days prior to the hearing date. Hearings shall be conducted in accordance with the following procedures:</text>
-        <para>
-          <num>(a)</num>
-          <text>All parties involved shall have a right to offer testimonial, documentary, and tangible evidence bearing on the issues; may be represented by counsel; and shall have the right to confront and cross-examine witnesses. Any relevant evidence may be admitted that is the sort of evidence upon which reasonable persons are accustomed to rely in the conduct of serious affairs. Any hearing under this section may be continued for a reasonable time for the convenience of a party or a witness.</text>
+          <num>(5)</num>
+          <text>A centrally monitored alarm system is required.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>The License Committee's decision may be appealed in accordance with <cite path="7.46.080">Section 7.46.080</cite>.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>7.46.080</num>
-        <heading>APPEALS.</heading>
-        <text>An applicant who wishes to appeal the decision of the License Committee regarding an application or an action to revoke a license may do so under the following hearing procedures:</text>
-        <para>
-          <num>(a)</num>
-          <text>An appeal of the License Committee's decision on a permit application or from the License Committee's decision after a permit revocation, may be made by filing a written request for appeal with the City Clerk's office within 10 calendar days of the date the decision was mailed. If no appeal is filed within this time period, then the decision of the License Committee shall become final and the applicant shall be deemed to have waived all rights to appeal or other review. All requests for appeal shall include a statement of the basis for the appeal and the errors claimed to have occurred.</text>
+          <num>(6)</num>
+          <text>Interior building lighting, exterior building lighting and parking area lighting will be of sufficient foot-candles and color rendition, so as to allow the ready identification of any individual on-site at a distance of no less than 40 feet.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>The City Manager or designee shall schedule a hearing on the appeal for not less than 10 calendar days or greater than 20 calendar days from the date of mailing notice to the applicant of the time and place of the appeal hearing. The notice of hearing shall be sent by first class mail to the applicant within 10 days of filing a timely notice of appeal.</text>
+          <num>(7)</num>
+          <text>Windows and roof hatches will be secured with bars on the windows so as to prevent unauthorized entry, and be equipped with latches that may be released quickly from the inside to allow exit in the event of emergency.</text>
         </para>
         <para>
-          <num>(c)</num>
-          <text>The City Manager or designee shall review the written record and allow testimony to be given. The City Manager or designee shall also allow oral argument. After all verbal testimony has been reviewed, the City Manager or designee shall render a written decision within 10 working days from the date the matter is submitted for decision. The action of the City Manager or designee shall be final and conclusive, subject only to applicable court review.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
-        </annotations>
-      </section>
-    </container>
-    <container>
-      <prefix>ARTICLE</prefix>
-      <num>3</num>
-      <heading>MISCELLANEOUS PROVISIONS</heading>
-      <section>
-        <num>7.46.090</num>
-        <heading>ENFORCEMENT OF CHAPTER.</heading>
-        <text>The Police Chief or the Chief's designee may investigate and enforce any violations of <cite path="7.46">this chapter</cite>, and to report and enforce against any violations of the conditions of approval attached to licenses required by and obtained pursuant to <cite path="7.46">this chapter</cite>. The Chief may report violations of these provisions to the License Committee, for possible revocation of the license obtained under <cite path="7.46">this chapter</cite>.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>7.46.100</num>
-        <heading>VIOLATIONS AND PENALTIES.</heading>
-        <text>Any violation of <cite path="7.46">this chapter</cite> shall constitute a public offense, unless the circumstances that create the violation are subject to prosecution under State or Federal law. Any violation of <cite path="7.46">this chapter</cite> shall also be deemed a public nuisance and may be enforced by any remedy available to the City for abatement of public nuisances.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§13" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>7.46.110</num>
-        <heading>MARIJUANA PRODUCED FOR INDIVIDUAL RESIDENTIAL ON-SITE CONSUMPTION.</heading>
-        <para>
-          <num>(a)</num>
-          <text>Nothing in <cite path="7.46">this chapter</cite> shall be deemed to make unlawful an individual's cultivation of medical marijuana at their own residence for their own use, or for the use by another person regularly residing at such residence, if such cultivation, possession or use is lawful under <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> Sections <cite doc="Cal. Health &amp; Safety Code" path="§11362.7">11362.7</cite> through <cite doc="Cal. Health &amp; Safety Code" path="§11362.77">11362.77</cite>.</text>
+          <num>(8)</num>
+          <text>No marijuana product may be visible from the building exterior.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>Marijuana cultivated and possessed at a private residence must not be visible from adjacent public areas or neighboring properties, and must be secured within structures consisting of at least four (4) walls and a roof with standard locks.</text>
+          <num>(9)</num>
+          <text>The activities that may be conducted at a licensed collective are limited to cultivation of marijuana for personal use and preparation of cultivated marijuana for personal use, such as drying and processing.</text>
         </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>7.46.120</num>
-        <heading>SEVERABILITY.</heading>
-        <text>If any section, subsection, sentence, clause, or phrase of <cite path="7.46">this chapter</cite>, is for any reason held to be invalid, unlawful, or unconstitutional<em>,</em> such invalidity or unconstitutionality shall not affect the validity, lawfulness, or constitutionality of any or all other portions of <cite path="7.46">this chapter</cite>.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
-        </annotations>
-      </section>
-    </container>
+        <para>
+          <num>(10)</num>
+          <text>No cooking, preparation, or manufacturing of marijuana enhanced or edible products, including, but not limited to, cookies, candy, or brownies is allowed.</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>No sales of marijuana are allowed on-site.</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>No persons under the age of 18 are allowed on-site, unless such individual is a qualified patient and accompanied by their licensed attending physician, parent or documented legal guardian.</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>The quantity of marijuana located at the facility where medical marijuana is collectively cultivated may not exceed the maximum quantity of medical marijuana authorized by State law needed by the patients who are served by the collective, consistent with the regulations set forth in <cite path="7.46">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>The Police Chief may inspect the collective at any reasonable time to ensure that the amounts of medical marijuana on-site conform to <cite path="7.46">this chapter</cite> and State law.</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>All cultivated marijuana must be secured in structures consisting of at least four (4) walls and a roof, and conform to specified security standards, as to locks, deadbolts and additional security measures.</text>
+        </para>
+        <para>
+          <num>(16)</num>
+          <text>The consumption, use, or smoking of marijuana at a facility that is licensed for the collective cultivation and/or possession of marijuana, or in the parking areas of said facility, or in vehicles located at or near or under said facility is prohibited.</text>
+        </para>
+        <para>
+          <num>(17)</num>
+          <text>The medical marijuana collective shall comply with all the applicable building, zoning, and environmental requirements set forth in this code or State law. No medical marijuana collective may be licensed to operate on a property located immediately adjacent to any property on which a residence exists, or on a property located in a zone other than the M1 (Manufacturing) or C4 (Commercial Service) zones.</text>
+        </para>
+        <para>
+          <num>(18)</num>
+          <text>The medical marijuana collective may not be operated or located in or within 500 feet of the grounds of a school, recreation center, or youth center.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The License Committee reserves the right to make additional security and safety conditions, if necessary, upon receipt of detailed building plans.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.46.070</num>
+      <heading>LICENSE REVOCATION.</heading>
+      <text>If it is determined that grounds for license revocation exist, the License Committee shall furnish written notice of the proposed revocation to the licensee. Such notice shall set forth the time and place of a hearing and the ground or grounds upon which the hearing is based, the pertinent code sections, and a brief statement of the factual matters in support thereof. The notice shall be mailed, postage prepaid, addressed to the last known address of the licensee at least 10 days prior to the hearing date. Hearings shall be conducted in accordance with the following procedures:</text>
+      <para>
+        <num>(a)</num>
+        <text>All parties involved shall have a right to offer testimonial, documentary, and tangible evidence bearing on the issues; may be represented by counsel; and shall have the right to confront and cross-examine witnesses. Any relevant evidence may be admitted that is the sort of evidence upon which reasonable persons are accustomed to rely in the conduct of serious affairs. Any hearing under this section may be continued for a reasonable time for the convenience of a party or a witness.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The License Committee's decision may be appealed in accordance with <cite path="7.46.080">Section 7.46.080</cite>.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.46.080</num>
+      <heading>APPEALS.</heading>
+      <text>An applicant who wishes to appeal the decision of the License Committee regarding an application or an action to revoke a license may do so under the following hearing procedures:</text>
+      <para>
+        <num>(a)</num>
+        <text>An appeal of the License Committee's decision on a permit application or from the License Committee's decision after a permit revocation, may be made by filing a written request for appeal with the City Clerk's office within 10 calendar days of the date the decision was mailed. If no appeal is filed within this time period, then the decision of the License Committee shall become final and the applicant shall be deemed to have waived all rights to appeal or other review. All requests for appeal shall include a statement of the basis for the appeal and the errors claimed to have occurred.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The City Manager or designee shall schedule a hearing on the appeal for not less than 10 calendar days or greater than 20 calendar days from the date of mailing notice to the applicant of the time and place of the appeal hearing. The notice of hearing shall be sent by first class mail to the applicant within 10 days of filing a timely notice of appeal.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The City Manager or designee shall review the written record and allow testimony to be given. The City Manager or designee shall also allow oral argument. After all verbal testimony has been reviewed, the City Manager or designee shall render a written decision within 10 working days from the date the matter is submitted for decision. The action of the City Manager or designee shall be final and conclusive, subject only to applicable court review.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <subheading>ARTICLE 3 MISCELLANEOUS PROVISIONS</subheading>
+    <heading>MISCELLANEOUS PROVISIONS</heading>
+    <section>
+      <num>7.46.090</num>
+      <heading>ENFORCEMENT OF CHAPTER.</heading>
+      <text>The Police Chief or the Chief's designee may investigate and enforce any violations of <cite path="7.46">this chapter</cite>, and to report and enforce against any violations of the conditions of approval attached to licenses required by and obtained pursuant to <cite path="7.46">this chapter</cite>. The Chief may report violations of these provisions to the License Committee, for possible revocation of the license obtained under <cite path="7.46">this chapter</cite>.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.46.100</num>
+      <heading>VIOLATIONS AND PENALTIES.</heading>
+      <text>Any violation of <cite path="7.46">this chapter</cite> shall constitute a public offense, unless the circumstances that create the violation are subject to prosecution under State or Federal law. Any violation of <cite path="7.46">this chapter</cite> shall also be deemed a public nuisance and may be enforced by any remedy available to the City for abatement of public nuisances.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2012-2" path="§13" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.46.110</num>
+      <heading>MARIJUANA PRODUCED FOR INDIVIDUAL RESIDENTIAL ON-SITE CONSUMPTION.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Nothing in <cite path="7.46">this chapter</cite> shall be deemed to make unlawful an individual's cultivation of medical marijuana at their own residence for their own use, or for the use by another person regularly residing at such residence, if such cultivation, possession or use is lawful under <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> Sections <cite doc="Cal. Health &amp; Safety Code" path="§11362.7">11362.7</cite> through <cite doc="Cal. Health &amp; Safety Code" path="§11362.77">11362.77</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Marijuana cultivated and possessed at a private residence must not be visible from adjacent public areas or neighboring properties, and must be secured within structures consisting of at least four (4) walls and a roof with standard locks.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>7.46.120</num>
+      <heading>SEVERABILITY.</heading>
+      <text>If any section, subsection, sentence, clause, or phrase of <cite path="7.46">this chapter</cite>, is for any reason held to be invalid, unlawful, or unconstitutional<em>,</em> such invalidity or unconstitutionality shall not affect the validity, lawfulness, or constitutionality of any or all other portions of <cite path="7.46">this chapter</cite>.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2009-6" path="§1" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Chapter</prefix>

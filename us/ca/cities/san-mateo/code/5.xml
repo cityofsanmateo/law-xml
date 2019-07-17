@@ -1689,953 +1689,937 @@
     <prefix>Chapter</prefix>
     <num>5.43</num>
     <heading>ENTERTAINMENT BUSINESSES</heading>
-    <container>
-      <prefix>ARTICLE</prefix>
-      <num>1</num>
-      <heading>GENERAL PROVISIONS</heading>
-      <section>
-        <num>5.43.010</num>
-        <heading>PURPOSE.</heading>
-        <text>It is the purpose of <cite path="5.43">this chapter</cite> to regulate entertainment businesses to promote the health, safety, and general welfare of the residents of the City. The provisions of this ordinance have neither the purpose nor effect of imposing limitation or restriction on the content of any entertainment activity.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.020</num>
-        <heading>DEFINITIONS.</heading>
+    <subheading>ARTICLE 1 GENERAL PROVISIONS</subheading>
+    <section>
+      <num>5.43.010</num>
+      <heading>PURPOSE.</heading>
+      <text>It is the purpose of <cite path="5.43">this chapter</cite> to regulate entertainment businesses to promote the health, safety, and general welfare of the residents of the City. The provisions of this ordinance have neither the purpose nor effect of imposing limitation or restriction on the content of any entertainment activity.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.020</num>
+      <heading>DEFINITIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Adult Cabaret.</heading>
+        <text>The term "adult cabaret" as used in <cite path="5.43">this chapter</cite>, means a nightclub, restaurant, or similar business establishment which (1) regularly features live performances which are distinguished or characterized by an emphasis upon the display of specified anatomical areas or specified sexual activities; and/or (2) which regularly features persons who appear semi-nude; and/or (3) shows films, computer generated images, motion pictures, video cassettes, slides, or other photographic reproductions thirty (30) percent or more of the number of which are distinguished or characterized by an emphasis upon the depiction or description of specified sexual activities or specified anatomical areas.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Amusement Arcade.</heading>
+        <text>The term "amusement arcade" is defined as any business or establishment which has located on its premises five or more amusement devices which are kept thereon for the purpose of being played, operated or used by the patrons of the arcade on a prepaid basis or for money or tokens deposited in the amusement machine played, operated or used. Arcade is also defined as any premises wherein not less than twenty-five percent of the public floor area is devoted to amusement devices whether or not said amusement devices constitute the primary use or accessory use of the premises.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Amusement Device.</heading>
+        <text>The term "amusement device" is any device, game or contrivance, including, but not limited to pin ball machines, video games, computer games and electronic games, for which a charge or payment is received for the privilege of playing, using or operating the same and which, as the result of such use, operation or playing does not entitle the person using, operating or playing such device, game or contrivance to receive the same return in market value in the form of tangible merchandise each time such device, game or contrivance is used, operated or played. Pool tables shall not be considered amusement devices for the purposes of <cite path="5.43">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <heading>Entertainment.</heading>
+        <text>The term "entertainment" shall mean any show, play, skit, musical revue, karaoke, dance production, concert, opera and the production or provision of sights or sounds or visual or auditory sensations which are designed to or may divert, entertain or otherwise appeal to members of the public who are admitted to a place of entertainment, which is produced by any means, including radio, phonograph, tape recorder, piano, orchestra or band or any other musical instrument, television, slide or movie projector, spotlights, or interruptible or flashing light devices.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <heading>Entertainment Business.</heading>
+        <text>The term "entertainment business" shall mean any amusement arcade and any place of business wherein entertainment is offered or given to the public, whether or not a fee is charged for admission thereto, except theaters and businesses where only incidental entertainment is offered or given.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <heading>Incidental Entertainment.</heading>
+        <text>The term "incidental entertainment" shall mean the use of radio, television, or music recording devices or juke boxes in any establishment when used for background only. In addition, this term includes non-amplified live performance by a performer (or performers). This term does not include the use of the devices mentioned above by a disc jockey, or in conjunction with karaoke, or in connection with dancing by patrons.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <heading>Police Chief.</heading>
+        <text>The Police Chief of the City of San Mateo or authorized representatives thereof.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <heading>Primary Entertainment.</heading>
+        <text>The term "primary entertainment" shall mean entertainment provided at an entertainment business where the predominant reason for patronage is to observe and/or participate in the entertainment offered at the business, and admission to the establishment is charged either separately, or as part of a cover charge, or minimum food or beverage purchase requirement.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <heading>Private Booth.</heading>
+        <text>The term "private booth" shall mean a fully enclosed booth, stall, or partitioned portion of a room designed and offered for use by one individual for entertainment purposes.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <heading>Regularly Features.</heading>
+        <text>The term "regularly features" with respect to an adult cabaret means a regular and substantial course of conduct. The fact that live performances which are distinguished or characterized by an emphasis upon the display of specified anatomical areas or specified sexual activities occurs on two (2) or more occasions within a thirty (30) day period; three (3) or more occasions within a sixty (60) day period; or four (4) or more occasions within a one-hundred-and-eighty (180) day period, shall to the extent permitted by law be deemed to be a regular and substantial course of conduct.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <heading>Security Guard.</heading>
+        <text>The term "security guard" shall mean uniformed personnel licensed under the California Department of Consumer Affairs licensing and training requirements.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <heading>Secondary Entertainment.</heading>
+        <text>The term "secondary entertainment" shall mean entertainment provided at an entertainment business where the observation or participation in the entertainment offered is not the predominant reason for patronage and no admission to the establishment is charged either separately, or in the form of a cover charge, or minimum food or beverage purchase requirement.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <heading>Semi-nude.</heading>
+        <text>The term "semi-nude" means a state of dress in which clothing covers no more than the genitals, pubic region, buttocks, areola of the female breast, as well as portions of the body covered by supporting straps or devices.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <heading>Specified anatomical areas.</heading>
+        <text>The term "specified anatomical areas" shall mean and include any of the following:</text>
         <para>
-          <num>(a)</num>
-          <heading>Adult Cabaret.</heading>
-          <text>The term "adult cabaret" as used in <cite path="5.43">this chapter</cite>, means a nightclub, restaurant, or similar business establishment which (1) regularly features live performances which are distinguished or characterized by an emphasis upon the display of specified anatomical areas or specified sexual activities; and/or (2) which regularly features persons who appear semi-nude; and/or (3) shows films, computer generated images, motion pictures, video cassettes, slides, or other photographic reproductions thirty (30) percent or more of the number of which are distinguished or characterized by an emphasis upon the depiction or description of specified sexual activities or specified anatomical areas.</text>
+          <num>(1)</num>
+          <text>Less than completely and opaquely covered human (A)	genitals or pubic region; (B)	buttocks; and (C)	female breast below a point immediately above the top of the areola;</text>
         </para>
         <para>
-          <num>(b)</num>
-          <heading>Amusement Arcade.</heading>
-          <text>The term "amusement arcade" is defined as any business or establishment which has located on its premises five or more amusement devices which are kept thereon for the purpose of being played, operated or used by the patrons of the arcade on a prepaid basis or for money or tokens deposited in the amusement machine played, operated or used. Arcade is also defined as any premises wherein not less than twenty-five percent of the public floor area is devoted to amusement devices whether or not said amusement devices constitute the primary use or accessory use of the premises.</text>
+          <num>(2)</num>
+          <text>Human male genitals in a discernibly turgid state, even if completely and opaquely covered;</text>
         </para>
         <para>
-          <num>(c)</num>
-          <heading>Amusement Device.</heading>
-          <text>The term "amusement device" is any device, game or contrivance, including, but not limited to pin ball machines, video games, computer games and electronic games, for which a charge or payment is received for the privilege of playing, using or operating the same and which, as the result of such use, operation or playing does not entitle the person using, operating or playing such device, game or contrivance to receive the same return in market value in the form of tangible merchandise each time such device, game or contrivance is used, operated or played. Pool tables shall not be considered amusement devices for the purposes of <cite path="5.43">this chapter</cite>.</text>
+          <num>(3)</num>
+          <text>Any device, costume or covering that simulates any of the body parts included in the subdivisions (1) or (2) above.</text>
+        </para>
+      </para>
+      <para>
+        <num>(o)</num>
+        <heading>Specified sexual activities.</heading>
+        <text>The term "specified sexual activities" shall mean and include any of the following, whether performed directly or indirectly through clothing or other covering:</text>
+        <para>
+          <num>(1)</num>
+          <text>The fondling or other erotic touching of human genitals, pubic region, buttocks, anus, or female breast;</text>
         </para>
         <para>
-          <num>(d)</num>
-          <heading>Entertainment.</heading>
-          <text>The term "entertainment" shall mean any show, play, skit, musical revue, karaoke, dance production, concert, opera and the production or provision of sights or sounds or visual or auditory sensations which are designed to or may divert, entertain or otherwise appeal to members of the public who are admitted to a place of entertainment, which is produced by any means, including radio, phonograph, tape recorder, piano, orchestra or band or any other musical instrument, television, slide or movie projector, spotlights, or interruptible or flashing light devices.</text>
+          <num>(2)</num>
+          <text>Sex acts, actual or simulated, including intercourse, oral copulation, or sodomy;</text>
         </para>
         <para>
-          <num>(e)</num>
-          <heading>Entertainment Business.</heading>
-          <text>The term "entertainment business" shall mean any amusement arcade and any place of business wherein entertainment is offered or given to the public, whether or not a fee is charged for admission thereto, except theaters and businesses where only incidental entertainment is offered or given.</text>
+          <num>(3)</num>
+          <text>Masturbation, actual or simulated;</text>
         </para>
         <para>
-          <num>(f)</num>
-          <heading>Incidental Entertainment.</heading>
-          <text>The term "incidental entertainment" shall mean the use of radio, television, or music recording devices or juke boxes in any establishment when used for background only. In addition, this term includes non-amplified live performance by a performer (or performers). This term does not include the use of the devices mentioned above by a disc jockey, or in conjunction with karaoke, or in connection with dancing by patrons.</text>
+          <num>(4)</num>
+          <text>Excretory functions as part of or in connection with any of the other activities described in subdivision (1) through (3) of this subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(p)</num>
+        <heading>Theater.</heading>
+        <text>The term "theater" or other similar establishment is one that is primarily devoted to film or theatrical performances and means a building, playhouse, room, hall or other place having permanently affixed seats so arranged that a body of spectators can have an unobstructed view of the stage upon which theatrical or movies or vaudeville or similar performances are presented and where such performances are not incidental to promoting the sale of food, drink or other merchandise; and for which a city license for a theater is in full force and effect.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2005-6" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.030</num>
+      <heading>PERMIT REQUIRED.</heading>
+      <para>
+        <num>(a)</num>
+        <text>It is unlawful for any person to engage in, conduct or carry on, or to permit to be engaged in, conducted or carried on, in or upon any premises in the City of San Mateo, the operation of an entertainment business unless the person first obtains and continues to maintain in full force and effect a permit from the City of San Mateo as herein required.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>It is unlawful for any person who owns, leases, or is in otherwise lawful possession of property to permit or allow another person to arrange for and provide entertainment on such property, unless the owner, lessee, or person in lawful possession of the property first obtains and continues to maintain in full force and effect a single event entertainment permit as herein required.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.040</num>
+      <heading>EXCEPTIONS.</heading>
+      <text>Notwithstanding any other provision of <cite path="5.43">this chapter</cite>, the provisions of <cite path="5.43">this chapter</cite> shall not apply to entertainment:</text>
+      <para>
+        <num>(a)</num>
+        <text>provided at a private party, such as a wedding, where invitations to the event are limited to a discrete group of individuals and at which the general public are not invited to attend; or</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>entertainment provided at an event sponsored by a governmental agency, a religious organization, or a private non-profit corporation.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <subheading>ARTICLE 2 APPLICATIONS AND PERMITS</subheading>
+    <section>
+      <num>5.43.050</num>
+      <heading>APPLICATION REQUIREMENTS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every person who proposes to maintain, operate or conduct an entertainment business in the City of San Mateo shall file an application with the Police Chief upon a form provided by the City of San Mateo and shall pay a filing fee, as established by resolution adopted by the City Council from time to time, which shall not be refundable.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Entertainment permits are nontransferable. Therefore, all applications shall include the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>If the applicant is an individual, the individual shall state his or her legal name, including any aliases, address, and submit satisfactory written proof that he or she is at least eighteen (18) years of age.</text>
         </para>
         <para>
-          <num>(g)</num>
-          <heading>Police Chief.</heading>
-          <text>The Police Chief of the City of San Mateo or authorized representatives thereof.</text>
+          <num>(2)</num>
+          <text>If the applicant is a partnership, the partners shall state the partnership's complete name, address, the names of all partners, whether the partnership is general or limited, and attach a copy of the partnership agreement, if any.</text>
         </para>
         <para>
-          <num>(h)</num>
-          <heading>Primary Entertainment.</heading>
-          <text>The term "primary entertainment" shall mean entertainment provided at an entertainment business where the predominant reason for patronage is to observe and/or participate in the entertainment offered at the business, and admission to the establishment is charged either separately, or as part of a cover charge, or minimum food or beverage purchase requirement.</text>
+          <num>(3)</num>
+          <text>If the applicant is a corporation, the corporation shall provide its complete name, the date of its incorporation, evidence that the corporation is in good standing under the laws of California, the names and capacity of all officers and directors, the name of the registered corporate agent and the address of the registered office for service of process.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the applicant is an individual, he or she shall sign the application. If the applicant is other than an individual, an officer of the business entity or an individual with a ten (10) percent or greater interest in the business entity shall sign the application.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If the applicant intends to operate the entertainment business under a name other than that of the applicant, the applicant shall file the fictitious name of the entertainment business and show proof of registration of the fictitious name.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The application shall contain a description of the type of entertainment business for which the permit is requested and the proposed address where the entertainment business will operate, plus the names and addresses of the owners and lessors of the entertainment business site.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The application shall include the address to which notice of action on the application is to be mailed.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The application shall include a sketch or diagram showing the interior configuration of the premises, including a statement of the total floor area occupied by the entertainment business.</text>
+        <para>
+          <num>(1)</num>
+          <text>If the entertainment business proposes to offer private room entertainment, the sketch or diagram shall demonstrate compliance with the requirements of <cite path="5.43.150|(i)">Section 5.43.150(i)</cite>. The sketch or diagram need not be professionally prepared, but must be drawn to a designated scale or drawn with marked dimensions of the interior of the premises to an accuracy of plus or minus six (6) inches.</text>
         </para>
         <para>
-          <num>(i)</num>
-          <heading>Private Booth.</heading>
-          <text>The term "private booth" shall mean a fully enclosed booth, stall, or partitioned portion of a room designed and offered for use by one individual for entertainment purposes.</text>
+          <num>(2)</num>
+          <text>If the entertainment business proposes to offer private booth entertainment, the sketch or diagram shall demonstrate compliance with the requirements of <cite path="5.43.150|(k)">Section 5.43.150(k)</cite>. The sketch or diagram need not be professionally prepared, but must be drawn to a designated scale or drawn with marked dimensions of the interior of the premises to an accuracy of plus or minus six (6) inches.</text>
+        </para>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>The application shall include a description of the lighting to be provided in the entertainment business and a site plan depicting private parking areas and the lighting of those areas.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>The application shall disclose whether the applicant has in the past been issued an entertainment permit by the City of San Mateo, or by any other jurisdiction, and if so, shall disclose the issuing agency, the dates during which the permit was valid. In addition, the applicant shall disclose whether the applicant has ever had an entertainment permit, or similar authorization revoked or voluntarily surrendered because of the violation of permit conditions.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The entertainment authorized by an entertainment permit shall be limited to the type and location of entertainment specified in the permit application. The permittee shall not offer entertainment not described in the permit application, nor shall the permittee alter the physical layout of the entertainment business as described in the application without first submitting a revised application. Revised applications shall be processed in the manner provided in this Article for original entertainment permit applications.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>The application shall describe the type of uniforms to be worn by security personnel, if applicable.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§82" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2005-6" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.060</num>
+      <heading>INVESTIGATION AND ACTION ON APPLICATION.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Upon receipt of a completed application and payment of the application and permit fees, the Police Chief shall promptly investigate the information contained in the application to determine whether the applicant shall be issued an entertainment permit.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Within fifteen (15) business days of receipt of the completed application, the Police Chief shall complete the investigation, grant or deny the application in accordance with the provisions of this Section, and so notify the applicant as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Police Chief shall write or stamp "Granted" or "Denied" on the application and date and sign such notation.</text>
         </para>
         <para>
-          <num>(j)</num>
-          <heading>Regularly Features.</heading>
-          <text>The term "regularly features" with respect to an adult cabaret means a regular and substantial course of conduct. The fact that live performances which are distinguished or characterized by an emphasis upon the display of specified anatomical areas or specified sexual activities occurs on two (2) or more occasions within a thirty (30) day period; three (3) or more occasions within a sixty (60) day period; or four (4) or more occasions within a one-hundred-and-eighty (180) day period, shall to the extent permitted by law be deemed to be a regular and substantial course of conduct.</text>
+          <num>(2)</num>
+          <text>If the application is denied, the Police Chief shall attach to the application a statement of the reasons for denial.</text>
         </para>
         <para>
-          <num>(k)</num>
-          <heading>Security Guard.</heading>
-          <text>The term "security guard" shall mean uniformed personnel licensed under the California Department of Consumer Affairs licensing and training requirements.</text>
+          <num>(3)</num>
+          <text>If the application is granted, the Police Chief shall attach to the application an entertainment permit.</text>
         </para>
         <para>
-          <num>(l)</num>
-          <heading>Secondary Entertainment.</heading>
-          <text>The term "secondary entertainment" shall mean entertainment provided at an entertainment business where the observation or participation in the entertainment offered is not the predominant reason for patronage and no admission to the establishment is charged either separately, or in the form of a cover charge, or minimum food or beverage purchase requirement.</text>
+          <num>(4)</num>
+          <text>If the application is granted or denied and the permit, if any, shall be placed in the Unites States mail, first class postage prepaid, addressed to the applicant at the address stated in the application.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Police Chief shall grant the application and issue the entertainment permit upon findings that the applicant has met all of the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>, unless the application is denied for one or more of the reasons set forth in <cite path="5.43.070">Section 5.43.070</cite>. The permittee shall post the permit conspicuously in the entertainment business premises.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If the Police Chief grants the application or if the Police Chief neither grants nor denies the application within fifteen (15) business days after it is stamped as received, the applicant may begin operating the entertainment business for which the permit was sought, subject to strict compliance with the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>. If the applicant begins operating the entertainment business because the Police Chief has not granted or denied the application within fifteen business days, the Police Chief may issue the permit after the fifteen day period has elapsed, and the permit shall be subject to suspension or revocation under the provisions of <cite path="5.43.120">section 5.43.120</cite>.</text>
+        <text>Each entertainment permit shall expire one (1) year from the date of issuance, and may be renewed only by filing with the Police Chief a written request for renewal, accompanied by the annual permit fee and a copy of the permit to be renewed. The request for renewal shall be made at least thirty (30) days before the expiration date of the permit. When made less than thirty (30) days before the expiration date, the expiration of the permit will not be stayed. Applications for renewal shall be acted on as provided herein for action upon applications for permits.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.070</num>
+      <heading>PERMIT DENIAL.</heading>
+      <text>The Police Chief shall deny the application for any of the following reasons:</text>
+      <para>
+        <num>(a)</num>
+        <text>The building, structure, equipment, or location used by the business for which an entertainment permit is required do not comply with the requirements and standards of the health, zoning, fire and safety laws of the City and the State of California, or with the development and performance standards and requirements of the regulations contained in <cite path="5.43">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The applicant, his or her employee, agent, partner, director, officer, shareholder or manager has knowingly made any false, misleading or fraudulent statement of material fact in the application for an entertainment permit.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>An applicant is under eighteen (18) years of age.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The required application fee has not been paid.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Within the last five years, the applicant, his or her employee, agent, partner, director, officer, shareholder or manager has either had an entertainment permit issued by the City of San Mateo or any other jurisdiction revoked, or has engaged in conduct that would provide grounds for revocation of such a permit under <cite path="5.43.120">section 5.43.120</cite> of <cite path="5.43">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The applicant has failed to provide a complete application. If an application is denied on this basis, the Police Chief shall state the information that is needed to make the application complete.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§82" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.080</num>
+      <heading>PERMITS NON-TRANSFERABLE.</heading>
+      <para>
+        <num>(a)</num>
+        <text>A permittee shall not operate an entertainment business under the authority of an entertainment permit at any place other than the address of the entertainment business stated in the application for the permit.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A permittee shall not transfer ownership or control of an entertainment business or transfer an entertainment permit to another person.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any attempt to transfer a permit either directly or indirectly in violation of this Section is hereby declared void, and the permit shall be deemed revoked.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§83" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.090</num>
+      <heading>SINGLE EVENT ENTERTAINMENT PERMIT APPLICATIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Every person who owns, leases, or is otherwise in lawful possession of property and who proposes to permit or allow another person to arrange for and provide entertainment on such property in the City of San Mateo, shall file an application for an entertainment permit under the provisions of <cite path="5.43.050">5.43.050</cite> (unless such person has already obtained an entertainment permit) and in addition, shall file an application with the Police Chief for a single event entertainment permit. The applicant for a single event entertainment permit shall pay a filing fee, as established by resolution adopted by the City Council from time to time, which shall not be refundable.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The single event entertainment permit application shall include the following information:</text>
+        <para>
+          <num>(1)</num>
+          <text>If the person who will arrange and provide entertainment is an individual, the applicant shall state their legal name, including any aliases, address, and submit satisfactory written proof that he or she is at least eighteen (18) years of age.</text>
         </para>
         <para>
-          <num>(m)</num>
-          <heading>Semi-nude.</heading>
-          <text>The term "semi-nude" means a state of dress in which clothing covers no more than the genitals, pubic region, buttocks, areola of the female breast, as well as portions of the body covered by supporting straps or devices.</text>
+          <num>(2)</num>
+          <text>If the person who will arrange and provide entertainment is a partnership, the applicant shall state the partnership's complete name, address, the names of all partners, whether the partnership is general or limited, and attach a copy of the partnership agreement, if any.</text>
         </para>
         <para>
-          <num>(n)</num>
-          <heading>Specified anatomical areas.</heading>
-          <text>The term "specified anatomical areas" shall mean and include any of the following:</text>
-          <para>
-            <num>(1)</num>
-            <text>Less than completely and opaquely covered human (A)	genitals or pubic region; (B)	buttocks; and (C)	female breast below a point immediately above the top of the areola;</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Human male genitals in a discernibly turgid state, even if completely and opaquely covered;</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>Any device, costume or covering that simulates any of the body parts included in the subdivisions (1) or (2) above.</text>
-          </para>
+          <num>(3)</num>
+          <text>If the person who will arrange and provide entertainment is a corporation, the applicant shall provide its complete name, the date of its incorporation, evidence that the corporation is in good standing under the laws of California, the names and capacity of all officers and directors, the name of the registered corporate agent and the address of the registered office for service of process.</text>
         </para>
         <para>
-          <num>(o)</num>
-          <heading>Specified sexual activities.</heading>
-          <text>The term "specified sexual activities" shall mean and include any of the following, whether performed directly or indirectly through clothing or other covering:</text>
-          <para>
-            <num>(1)</num>
-            <text>The fondling or other erotic touching of human genitals, pubic region, buttocks, anus, or female breast;</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Sex acts, actual or simulated, including intercourse, oral copulation, or sodomy;</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>Masturbation, actual or simulated;</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>Excretory functions as part of or in connection with any of the other activities described in subdivision (1) through (3) of this subsection.</text>
-          </para>
+          <num>(4)</num>
+          <text>The application shall contain a description of the type of entertainment for which the permit is requested and the proposed address where the entertainment will be provided, plus the names and addresses of the owners and lessors of the property.</text>
         </para>
         <para>
-          <num>(p)</num>
-          <heading>Theater.</heading>
-          <text>The term "theater" or other similar establishment is one that is primarily devoted to film or theatrical performances and means a building, playhouse, room, hall or other place having permanently affixed seats so arranged that a body of spectators can have an unobstructed view of the stage upon which theatrical or movies or vaudeville or similar performances are presented and where such performances are not incidental to promoting the sale of food, drink or other merchandise; and for which a city license for a theater is in full force and effect.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2005-6" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.030</num>
-        <heading>PERMIT REQUIRED.</heading>
-        <para>
-          <num>(a)</num>
-          <text>It is unlawful for any person to engage in, conduct or carry on, or to permit to be engaged in, conducted or carried on, in or upon any premises in the City of San Mateo, the operation of an entertainment business unless the person first obtains and continues to maintain in full force and effect a permit from the City of San Mateo as herein required.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>It is unlawful for any person who owns, leases, or is in otherwise lawful possession of property to permit or allow another person to arrange for and provide entertainment on such property, unless the owner, lessee, or person in lawful possession of the property first obtains and continues to maintain in full force and effect a single event entertainment permit as herein required.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.040</num>
-        <heading>EXCEPTIONS.</heading>
-        <text>Notwithstanding any other provision of <cite path="5.43">this chapter</cite>, the provisions of <cite path="5.43">this chapter</cite> shall not apply to entertainment:</text>
-        <para>
-          <num>(a)</num>
-          <text>provided at a private party, such as a wedding, where invitations to the event are limited to a discrete group of individuals and at which the general public are not invited to attend; or</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>entertainment provided at an event sponsored by a governmental agency, a religious organization, or a private non-profit corporation.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-    </container>
-    <container>
-      <prefix>ARTICLE</prefix>
-      <num>2</num>
-      <heading>APPLICATIONS AND PERMITS</heading>
-      <section>
-        <num>5.43.050</num>
-        <heading>APPLICATION REQUIREMENTS.</heading>
-        <para>
-          <num>(a)</num>
-          <text>Every person who proposes to maintain, operate or conduct an entertainment business in the City of San Mateo shall file an application with the Police Chief upon a form provided by the City of San Mateo and shall pay a filing fee, as established by resolution adopted by the City Council from time to time, which shall not be refundable.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Entertainment permits are nontransferable. Therefore, all applications shall include the following information:</text>
-          <para>
-            <num>(1)</num>
-            <text>If the applicant is an individual, the individual shall state his or her legal name, including any aliases, address, and submit satisfactory written proof that he or she is at least eighteen (18) years of age.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>If the applicant is a partnership, the partners shall state the partnership's complete name, address, the names of all partners, whether the partnership is general or limited, and attach a copy of the partnership agreement, if any.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>If the applicant is a corporation, the corporation shall provide its complete name, the date of its incorporation, evidence that the corporation is in good standing under the laws of California, the names and capacity of all officers and directors, the name of the registered corporate agent and the address of the registered office for service of process.</text>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>If the applicant is an individual, he or she shall sign the application. If the applicant is other than an individual, an officer of the business entity or an individual with a ten (10) percent or greater interest in the business entity shall sign the application.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>If the applicant intends to operate the entertainment business under a name other than that of the applicant, the applicant shall file the fictitious name of the entertainment business and show proof of registration of the fictitious name.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The application shall contain a description of the type of entertainment business for which the permit is requested and the proposed address where the entertainment business will operate, plus the names and addresses of the owners and lessors of the entertainment business site.</text>
-        </para>
-        <para>
-          <num>(f)</num>
+          <num>(5)</num>
           <text>The application shall include the address to which notice of action on the application is to be mailed.</text>
         </para>
         <para>
-          <num>(g)</num>
-          <text>The application shall include a sketch or diagram showing the interior configuration of the premises, including a statement of the total floor area occupied by the entertainment business.</text>
-          <para>
-            <num>(1)</num>
-            <text>If the entertainment business proposes to offer private room entertainment, the sketch or diagram shall demonstrate compliance with the requirements of <cite path="5.43.150|(i)">Section 5.43.150(i)</cite>. The sketch or diagram need not be professionally prepared, but must be drawn to a designated scale or drawn with marked dimensions of the interior of the premises to an accuracy of plus or minus six (6) inches.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>If the entertainment business proposes to offer private booth entertainment, the sketch or diagram shall demonstrate compliance with the requirements of <cite path="5.43.150|(k)">Section 5.43.150(k)</cite>. The sketch or diagram need not be professionally prepared, but must be drawn to a designated scale or drawn with marked dimensions of the interior of the premises to an accuracy of plus or minus six (6) inches.</text>
-          </para>
+          <num>(6)</num>
+          <text>The application shall disclose whether the person who will arrange and provide entertainment has in the past been issued an entertainment permit by the City of San Mateo, or by any other jurisdiction, and if so, shall disclose the issuing agency, the dates during which the permit was valid. In addition, the applicant shall disclose whether the person who will arrange and provide entertainment has ever had an entertainment permit, or similar authorization revoked or voluntarily surrendered because of the violation of permit conditions.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The entertainment authorized by a single event entertainment permit shall be limited to the type and location of entertainment specified in the permit application. The permittee shall not permit or allow entertainment not described in the permit application to be provided.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.100</num>
+      <heading>INVESTIGATION AND ACTION ON SINGLE EVENT PERMIT APPLICATIONS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Upon receipt of a completed application and payment of the application and permit fees, the Police Chief shall promptly investigate the information contained in the application to determine whether the applicant shall be issued a single event entertainment permit.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Within fifteen (15) business days of receipt of the completed application, the Police Chief shall complete the investigation, grant or deny the application in accordance with the provisions of this Section, and so notify the applicant as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>The Police Chief shall write or stamp "Granted" or "Denied" on the application and date and sign such notation.</text>
         </para>
         <para>
-          <num>(h)</num>
-          <text>The application shall include a description of the lighting to be provided in the entertainment business and a site plan depicting private parking areas and the lighting of those areas.</text>
+          <num>(2)</num>
+          <text>If the application is denied, the Police Chief shall attach to the application a statement of the reasons for denial.</text>
         </para>
         <para>
-          <num>(i)</num>
-          <text>The application shall disclose whether the applicant has in the past been issued an entertainment permit by the City of San Mateo, or by any other jurisdiction, and if so, shall disclose the issuing agency, the dates during which the permit was valid. In addition, the applicant shall disclose whether the applicant has ever had an entertainment permit, or similar authorization revoked or voluntarily surrendered because of the violation of permit conditions.</text>
+          <num>(3)</num>
+          <text>If the application is granted, the Police Chief shall attach to the application an entertainment permit.</text>
         </para>
         <para>
-          <num>(j)</num>
-          <text>The entertainment authorized by an entertainment permit shall be limited to the type and location of entertainment specified in the permit application. The permittee shall not offer entertainment not described in the permit application, nor shall the permittee alter the physical layout of the entertainment business as described in the application without first submitting a revised application. Revised applications shall be processed in the manner provided in this Article for original entertainment permit applications.</text>
+          <num>(4)</num>
+          <text>If the application is granted or denied and the permit, if any, shall be placed in the Unites States mail, first class postage prepaid, addressed to the applicant at the address stated in the application.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The Police Chief shall grant the application and issue the single event entertainment permit upon findings that the applicant has obtained an entertainment permit and met all of the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>, unless the application is denied for one or more of the reasons set forth in <cite path="5.43.070">Section 5.43.070</cite>. The permittee shall post the permit conspicuously in the entertainment business premises on the date of the single event.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If the Police Chief grants the application or if the Police Chief neither grants nor denies the application within fifteen (15) business days after it is stamped as received, the applicant may conduct the single event for which the permit was sought, subject to strict compliance with the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§84" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.110</num>
+      <heading>SINGLE EVENT ENTERTAINMENT PERMIT DENIAL.</heading>
+      <text>The Police Chief shall deny the application for any of the following reasons:</text>
+      <para>
+        <num>(a)</num>
+        <text>The applicant has not obtained an entertainment permit.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The building, structure, equipment, or location proposed for the single event does not comply with the requirements and standards of the health, zoning, fire and safety laws of the City and the State of California, or with the development and performance standards and requirements of the regulations contained in <cite path="5.43">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The applicant, or person who shall arrange and provide entertainment, their employees, agents, partners, directors, officers, shareholders or managers have knowingly made any false, misleading or fraudulent statement of material fact in the application for a single event entertainment permit.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>An applicant, or person who shall arrange and provide entertainment, is under eighteen (18) years of age.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The required application fee has not been paid.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Within the last five years, the applicant, or person who shall arrange and provide entertainment, their employees, agents, partners, directors, officers, shareholders or managers have either had an entertainment permit issued by the City of San Mateo or any other jurisdiction revoked, or have engaged in conduct that would provide grounds for revocation of such a permit under <cite path="5.43.120">section 5.43.120</cite> of <cite path="5.43">this chapter</cite>.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The applicant has failed to provide a complete application. If an application is denied on this basis, the Police Chief shall state the information that is needed to make the application complete.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.120</num>
+      <heading>SUSPENSION OR REVOCATION OF ENTERTAINMENT REGULATORY PERMITS AND SINGLE EVENT ENTERTAINMENT PERMITS.</heading>
+      <text>An entertainment permit or single event entertainment permit may be suspended or revoked in accordance with the procedures and standards of this Section.</text>
+      <para>
+        <num>(a)</num>
+        <text>On determining that grounds for permit revocation exist, the Police Chief shall furnish written notice of the proposed suspension or revocation to the permittee. Such notice shall set forth the time and place of a hearing and the ground or grounds upon which the hearing is based, the pertinent code sections, and a brief statement of the factual matters in support thereof. The notice shall be mailed, postage prepaid, addressed to the last known address of the permittee, or shall be delivered to the permittee personally, at least ten (10) days prior to the hearing date. Hearings shall be conducted in accordance with procedures established by the Police Chief, but at a minimum shall include the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>All parties involved shall have a right to offer testimonial, documentary, and tangible evidence bearing on the issues; may be represented by counsel; and shall have the right to confront and cross-examine witnesses. Any relevant evidence may be admitted that is the sort of evidence upon which reasonable persons are accustomed to rely in the conduct of serious affairs. Any hearing under this Section may be continued for a reasonable time for the convenience of a party or a witness. The Police Chief's decision may be appealed in accordance with <cite path="5.43.140">Section 5.43.140</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A permittee may be subject to suspension or revocation of their permit, or be subject to other appropriate disciplinary action, for any of the following causes arising from the acts or omissions of the permittee, or an employee, agent, partner, director, stockholder, or manager of an entertainment business:</text>
+        <para>
+          <num>(1)</num>
+          <text>The permittee has knowingly made any false, misleading or fraudulent statement of material facts in the application for a permit, or in any report or record required to be filed with the City.</text>
         </para>
         <para>
-          <num>(k)</num>
-          <text>The application shall describe the type of uniforms to be worn by security personnel, if applicable.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§82" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2005-6" path="§2" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.060</num>
-        <heading>INVESTIGATION AND ACTION ON APPLICATION.</heading>
-        <para>
-          <num>(a)</num>
-          <text>Upon receipt of a completed application and payment of the application and permit fees, the Police Chief shall promptly investigate the information contained in the application to determine whether the applicant shall be issued an entertainment permit.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Within fifteen (15) business days of receipt of the completed application, the Police Chief shall complete the investigation, grant or deny the application in accordance with the provisions of this Section, and so notify the applicant as follows:</text>
-          <para>
-            <num>(1)</num>
-            <text>The Police Chief shall write or stamp "Granted" or "Denied" on the application and date and sign such notation.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>If the application is denied, the Police Chief shall attach to the application a statement of the reasons for denial.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>If the application is granted, the Police Chief shall attach to the application an entertainment permit.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>If the application is granted or denied and the permit, if any, shall be placed in the Unites States mail, first class postage prepaid, addressed to the applicant at the address stated in the application.</text>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The Police Chief shall grant the application and issue the entertainment permit upon findings that the applicant has met all of the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>, unless the application is denied for one or more of the reasons set forth in <cite path="5.43.070">Section 5.43.070</cite>. The permittee shall post the permit conspicuously in the entertainment business premises.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>If the Police Chief grants the application or if the Police Chief neither grants nor denies the application within fifteen (15) business days after it is stamped as received, the applicant may begin operating the entertainment business for which the permit was sought, subject to strict compliance with the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>. If the applicant begins operating the entertainment business because the Police Chief has not granted or denied the application within fifteen business days, the Police Chief may issue the permit after the fifteen day period has elapsed, and the permit shall be subject to suspension or revocation under the provisions of <cite path="5.43.120">section 5.43.120</cite>.</text>
-          <text>Each entertainment permit shall expire one (1) year from the date of issuance, and may be renewed only by filing with the Police Chief a written request for renewal, accompanied by the annual permit fee and a copy of the permit to be renewed. The request for renewal shall be made at least thirty (30) days before the expiration date of the permit. When made less than thirty (30) days before the expiration date, the expiration of the permit will not be stayed. Applications for renewal shall be acted on as provided herein for action upon applications for permits.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.070</num>
-        <heading>PERMIT DENIAL.</heading>
-        <text>The Police Chief shall deny the application for any of the following reasons:</text>
-        <para>
-          <num>(a)</num>
-          <text>The building, structure, equipment, or location used by the business for which an entertainment permit is required do not comply with the requirements and standards of the health, zoning, fire and safety laws of the City and the State of California, or with the development and performance standards and requirements of the regulations contained in <cite path="5.43">this chapter</cite>.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The applicant, his or her employee, agent, partner, director, officer, shareholder or manager has knowingly made any false, misleading or fraudulent statement of material fact in the application for an entertainment permit.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>An applicant is under eighteen (18) years of age.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>The required application fee has not been paid.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Within the last five years, the applicant, his or her employee, agent, partner, director, officer, shareholder or manager has either had an entertainment permit issued by the City of San Mateo or any other jurisdiction revoked, or has engaged in conduct that would provide grounds for revocation of such a permit under <cite path="5.43.120">section 5.43.120</cite> of <cite path="5.43">this chapter</cite>.</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>The applicant has failed to provide a complete application. If an application is denied on this basis, the Police Chief shall state the information that is needed to make the application complete.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§82" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.080</num>
-        <heading>PERMITS NON-TRANSFERABLE.</heading>
-        <para>
-          <num>(a)</num>
-          <text>A permittee shall not operate an entertainment business under the authority of an entertainment permit at any place other than the address of the entertainment business stated in the application for the permit.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A permittee shall not transfer ownership or control of an entertainment business or transfer an entertainment permit to another person.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Any attempt to transfer a permit either directly or indirectly in violation of this Section is hereby declared void, and the permit shall be deemed revoked.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§83" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.090</num>
-        <heading>SINGLE EVENT ENTERTAINMENT PERMIT APPLICATIONS.</heading>
-        <para>
-          <num>(a)</num>
-          <text>Every person who owns, leases, or is otherwise in lawful possession of property and who proposes to permit or allow another person to arrange for and provide entertainment on such property in the City of San Mateo, shall file an application for an entertainment permit under the provisions of <cite path="5.43.050">5.43.050</cite> (unless such person has already obtained an entertainment permit) and in addition, shall file an application with the Police Chief for a single event entertainment permit. The applicant for a single event entertainment permit shall pay a filing fee, as established by resolution adopted by the City Council from time to time, which shall not be refundable.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The single event entertainment permit application shall include the following information:</text>
-          <para>
-            <num>(1)</num>
-            <text>If the person who will arrange and provide entertainment is an individual, the applicant shall state their legal name, including any aliases, address, and submit satisfactory written proof that he or she is at least eighteen (18) years of age.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>If the person who will arrange and provide entertainment is a partnership, the applicant shall state the partnership's complete name, address, the names of all partners, whether the partnership is general or limited, and attach a copy of the partnership agreement, if any.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>If the person who will arrange and provide entertainment is a corporation, the applicant shall provide its complete name, the date of its incorporation, evidence that the corporation is in good standing under the laws of California, the names and capacity of all officers and directors, the name of the registered corporate agent and the address of the registered office for service of process.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>The application shall contain a description of the type of entertainment for which the permit is requested and the proposed address where the entertainment will be provided, plus the names and addresses of the owners and lessors of the property.</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>The application shall include the address to which notice of action on the application is to be mailed.</text>
-          </para>
-          <para>
-            <num>(6)</num>
-            <text>The application shall disclose whether the person who will arrange and provide entertainment has in the past been issued an entertainment permit by the City of San Mateo, or by any other jurisdiction, and if so, shall disclose the issuing agency, the dates during which the permit was valid. In addition, the applicant shall disclose whether the person who will arrange and provide entertainment has ever had an entertainment permit, or similar authorization revoked or voluntarily surrendered because of the violation of permit conditions.</text>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The entertainment authorized by a single event entertainment permit shall be limited to the type and location of entertainment specified in the permit application. The permittee shall not permit or allow entertainment not described in the permit application to be provided.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.100</num>
-        <heading>INVESTIGATION AND ACTION ON SINGLE EVENT PERMIT APPLICATIONS.</heading>
-        <para>
-          <num>(a)</num>
-          <text>Upon receipt of a completed application and payment of the application and permit fees, the Police Chief shall promptly investigate the information contained in the application to determine whether the applicant shall be issued a single event entertainment permit.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Within fifteen (15) business days of receipt of the completed application, the Police Chief shall complete the investigation, grant or deny the application in accordance with the provisions of this Section, and so notify the applicant as follows:</text>
-          <para>
-            <num>(1)</num>
-            <text>The Police Chief shall write or stamp "Granted" or "Denied" on the application and date and sign such notation.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>If the application is denied, the Police Chief shall attach to the application a statement of the reasons for denial.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>If the application is granted, the Police Chief shall attach to the application an entertainment permit.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>If the application is granted or denied and the permit, if any, shall be placed in the Unites States mail, first class postage prepaid, addressed to the applicant at the address stated in the application.</text>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The Police Chief shall grant the application and issue the single event entertainment permit upon findings that the applicant has obtained an entertainment permit and met all of the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>, unless the application is denied for one or more of the reasons set forth in <cite path="5.43.070">Section 5.43.070</cite>. The permittee shall post the permit conspicuously in the entertainment business premises on the date of the single event.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>If the Police Chief grants the application or if the Police Chief neither grants nor denies the application within fifteen (15) business days after it is stamped as received, the applicant may conduct the single event for which the permit was sought, subject to strict compliance with the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§84" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.110</num>
-        <heading>SINGLE EVENT ENTERTAINMENT PERMIT DENIAL.</heading>
-        <text>The Police Chief shall deny the application for any of the following reasons:</text>
-        <para>
-          <num>(a)</num>
-          <text>The applicant has not obtained an entertainment permit.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The building, structure, equipment, or location proposed for the single event does not comply with the requirements and standards of the health, zoning, fire and safety laws of the City and the State of California, or with the development and performance standards and requirements of the regulations contained in <cite path="5.43">this chapter</cite>.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The applicant, or person who shall arrange and provide entertainment, their employees, agents, partners, directors, officers, shareholders or managers have knowingly made any false, misleading or fraudulent statement of material fact in the application for a single event entertainment permit.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>An applicant, or person who shall arrange and provide entertainment, is under eighteen (18) years of age.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The required application fee has not been paid.</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Within the last five years, the applicant, or person who shall arrange and provide entertainment, their employees, agents, partners, directors, officers, shareholders or managers have either had an entertainment permit issued by the City of San Mateo or any other jurisdiction revoked, or have engaged in conduct that would provide grounds for revocation of such a permit under <cite path="5.43.120">section 5.43.120</cite> of <cite path="5.43">this chapter</cite>.</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>The applicant has failed to provide a complete application. If an application is denied on this basis, the Police Chief shall state the information that is needed to make the application complete.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.120</num>
-        <heading>SUSPENSION OR REVOCATION OF ENTERTAINMENT REGULATORY PERMITS AND SINGLE EVENT ENTERTAINMENT PERMITS.</heading>
-        <text>An entertainment permit or single event entertainment permit may be suspended or revoked in accordance with the procedures and standards of this Section.</text>
-        <para>
-          <num>(a)</num>
-          <text>On determining that grounds for permit revocation exist, the Police Chief shall furnish written notice of the proposed suspension or revocation to the permittee. Such notice shall set forth the time and place of a hearing and the ground or grounds upon which the hearing is based, the pertinent code sections, and a brief statement of the factual matters in support thereof. The notice shall be mailed, postage prepaid, addressed to the last known address of the permittee, or shall be delivered to the permittee personally, at least ten (10) days prior to the hearing date. Hearings shall be conducted in accordance with procedures established by the Police Chief, but at a minimum shall include the following:</text>
-          <para>
-            <num>(1)</num>
-            <text>All parties involved shall have a right to offer testimonial, documentary, and tangible evidence bearing on the issues; may be represented by counsel; and shall have the right to confront and cross-examine witnesses. Any relevant evidence may be admitted that is the sort of evidence upon which reasonable persons are accustomed to rely in the conduct of serious affairs. Any hearing under this Section may be continued for a reasonable time for the convenience of a party or a witness. The Police Chief's decision may be appealed in accordance with <cite path="5.43.140">Section 5.43.140</cite>.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A permittee may be subject to suspension or revocation of their permit, or be subject to other appropriate disciplinary action, for any of the following causes arising from the acts or omissions of the permittee, or an employee, agent, partner, director, stockholder, or manager of an entertainment business:</text>
-          <para>
-            <num>(1)</num>
-            <text>The permittee has knowingly made any false, misleading or fraudulent statement of material facts in the application for a permit, or in any report or record required to be filed with the City.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>The permittee, employee, agent, partner, director, stockholder, or manager of an entertainment business has knowingly allowed or permitted, and has failed to make a reasonable effort to prevent the occurrence of any of the following on the premises of the entertainment business, or in the case of a Single Event Entertainment Permit, the permittee, employee, agent, partner, director, stockholder, or manager has knowingly allowed or permitted and has failed to make a reasonable effort to prevent the occurrence of any of the following at the single entertainment event:</text>
-            <para>
-              <num>(A)</num>
-              <text>Any conduct prohibited by <cite path="5.43">this chapter</cite>; or</text>
-            </para>
-            <para>
-              <num>(B)</num>
-              <text>An unruly gathering as that term is defined in <cite path="7.22">Chapter 7.22</cite> of this Code.</text>
-            </para>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>Failure to abide by a disciplinary action previously imposed by an appropriate City official.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>Failure to comply with all applicable state and local law in the operation of the entertainment business.</text>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>If the entertainment business for which the Permit has been issued is an adult cabaret, a permittee may be subject to suspension or revocation of his or her permit, or be subject to other appropriate disciplinary action, if the permittee, employee, agent, partner, director, stockholder, or manager of an entertainment business has knowingly allowed or permitted, and has failed to make a reasonable effort to prevent the occurrence of any of the following on the premises of the entertainment business:</text>
+          <num>(2)</num>
+          <text>The permittee, employee, agent, partner, director, stockholder, or manager of an entertainment business has knowingly allowed or permitted, and has failed to make a reasonable effort to prevent the occurrence of any of the following on the premises of the entertainment business, or in the case of a Single Event Entertainment Permit, the permittee, employee, agent, partner, director, stockholder, or manager has knowingly allowed or permitted and has failed to make a reasonable effort to prevent the occurrence of any of the following at the single entertainment event:</text>
           <para>
             <num>(A)</num>
-            <text>Any act of unlawful sexual intercourse, sodomy, oral copulation or masturbation.</text>
+            <text>Any conduct prohibited by <cite path="5.43">this chapter</cite>; or</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>Use of the establishment as a place where unlawful solicitations for sexual intercourse, sodomy, oral copulation, or masturbation openly occur.</text>
+            <text>An unruly gathering as that term is defined in <cite path="7.22">Chapter 7.22</cite> of this Code.</text>
+          </para>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Failure to abide by a disciplinary action previously imposed by an appropriate City official.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Failure to comply with all applicable state and local law in the operation of the entertainment business.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the entertainment business for which the Permit has been issued is an adult cabaret, a permittee may be subject to suspension or revocation of his or her permit, or be subject to other appropriate disciplinary action, if the permittee, employee, agent, partner, director, stockholder, or manager of an entertainment business has knowingly allowed or permitted, and has failed to make a reasonable effort to prevent the occurrence of any of the following on the premises of the entertainment business:</text>
+        <para>
+          <num>(A)</num>
+          <text>Any act of unlawful sexual intercourse, sodomy, oral copulation or masturbation.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Use of the establishment as a place where unlawful solicitations for sexual intercourse, sodomy, oral copulation, or masturbation openly occur.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Any conduct constituting a criminal offense which requires registration under <cite doc="Cal. Penal Code" path="§290">Section 290 of the California Penal Code</cite>.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>The occurrence of acts of lewdness, assignation, or prostitution, including any conduct constituting violations of Sections 315, 316 or 318, or Subdivision b of <cite doc="Cal. Penal Code" path="§647">Section 647 of the California Penal Code</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>After holding the hearing in accordance with the provisions of this Section, if the Police Chief finds and determines that there are grounds for disciplinary action, based upon the severity of the violation, the Police Chief shall impose one of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>A warning;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Suspension of the permit for a specified period not to exceed six months;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Revocation of the permit.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.130</num>
+      <heading>EMERGENCY SUSPENSION OF PERMIT.</heading>
+      <text>The Police Chief may suspend an entertainment permit pending a hearing on the suspension or revocation of the permit if the Police Chief finds that there is an impending and significant threat to the public health or safety arising out of the use of the entertainment permit. No emergency suspension shall remain in effect for more than 15 calendar days, unless the permittee agrees to a longer term.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.140</num>
+      <heading>APPEALS.</heading>
+      <text>An applicant who wishes to appeal the decision of the Police Chief regarding an application or an action to suspend or revoke a Permit may do so under the following hearing procedures:</text>
+      <para>
+        <num>(a)</num>
+        <text>An appeal of the Police Chief's decision on a permit application or from the Police Chief's decision after a permit revocation or suspension hearing, may be made by filing a written request for appeal with the City Clerk's office within ten (10) calendar days of the date the decision was mailed. If no appeal is filed within this time period, then the decision of the Police Chief shall become final and the applicant shall be deemed to have waived all rights to appeal or other review. All requests for appeal shall include a statement of the basis for the appeal and the errors claimed to have occurred.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The City Manager or their designee shall schedule a hearing on the appeal for not less than ten (10) calendar days or greater than twenty (20) calendar days from the date of mailing notice to the applicant of the time and place of the appeal hearing. The notice of hearing shall be sent by first class mail to the applicant within ten (10) days of filing a timely notice of appeal.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The City Manager or their designee shall review the written record and allow testimony to be given. The City Manager or designee shall also allow oral argument. After all verbal testimony has been reviewed, the City Manager or designee shall render a written decision within ten (10) working days from the date the matter is submitted for decision. The action of the City Manager or designee shall be final and conclusive, subject only to applicable court review.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>If the Police Chief's decision is affirmed on appeal, the applicant or permittee may seek prompt judicial review of such administrative action pursuant to <cite doc="Cal. Civ. Proc. Code" path="§1094.5">California Code of Civil Procedure Section 1094.5</cite> or 1094.8 (if that Section is applicable). The City shall make all reasonable efforts to expedite judicial review, if sought by the permittee.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <subheading>ARTICLE 3 PERFORMANCE STANDARDS</subheading>
+    <section>
+      <num>5.43.150</num>
+      <heading>PERFORMANCE STANDARDS FOR ALL ENTERTAINMENT BUSINESSES.</heading>
+      <text>The following performance standards shall apply to all entertainment businesses and shall be deemed conditions of all entertainment permits, and failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>;</text>
+      <para>
+        <num>(a)</num>
+        <text>Maximum occupancy load, fire exits, aisles and fire equipment shall be regulated, designed and provided in accordance with the Fire Department and building regulations and standards adopted by the City of San Mateo.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The premises within which the entertainment business is located shall provide sufficient sound-absorbing insulation so that noise generated inside said premises shall not be audible anywhere on any adjacent property or public right-of-way or within any other building or other separate unit within the same building and comply with all applicable city noise regulations.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No entertainment shall be permitted in any establishment between the hours of 1:30 a.m. and 10:00 a.m.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The business premises offering entertainment shall be suitably lighted with minimum lighting therein of six-candle power at floor level, except during performances on stages.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>All patrons must be out of the building by 2:00 a.m.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Security personnel shall be visible at the primary entrance at closing of the entertainment business and shall remain until patrons are dispersed. Security shall not permit crowds and/or patrons to loiter in the front of or in the immediate vicinity of the entertainment business after closing.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The permittee shall arrange for litter removal from the store front and public sidewalks adjacent to the store front after every closing.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Businesses with entertainment business permits requiring a multi-agency response or riotous situation response or meeting the definition of an "unruly gathering" as specified in <cite path="7.22">Chapter 7.22</cite> may be charged for police services as provided for in <cite path="7.22">Chapter 7.22</cite>.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Private Rooms. No entertainment shall be offered, permitted, or allowed to take place within a private room the interior of which is not fully visible by a person standing in at least one place within 10 feet of the primary entrance to the premise in which the entertainment is offered, unless all of the following conditions are met:</text>
+        <para>
+          <num>(1)</num>
+          <text>Visibility into the private room is provided through the installation in the wall separating the room from a corridor accessible to patrons or the main room of the premises of a 12 square foot window measuring 4 feet in width by 3 feet in height, the lower edge of which shall be installed at a point 4 feet above the floor.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In rooms constructed under valid building permits and existing on the effective date of the ordinance adding this provision, if there is insufficient wall surface separating the private room from the main room or a corridor accessible to patrons to allow installation of a window as provided in sub<cite path="5.43.150">section 5.43.150</cite> (i)(1), then visibility shall be provide through the installation of a 6 square foot window measuring 2 feet in width by 3 feet in height, the lower edge of which shall be installed at a point 4 feet above the floor.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The window required by sub<cite path="5.43.150">section 5.43.150</cite> (i)(1) or <cite path="5.43.150">5.43.150</cite> (i)(2) shall remain completely clear and unobstructed at all times.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The dimensions of the windows required by sub<cite path="5.43.150">section 5.43.150</cite> (i)(1) or <cite path="5.43.150">5.43.150</cite> (i)(2) are the minimum required, but may be larger.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The private room shall be lit to the point that allows a person on the outside of the room to observe the activity of those in the room at all times the room is occupied.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Doors providing access to private rooms shall not be equipped with locks of any kind.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>No private room shall be configured so that the installation of the windows required by sub<cite path="5.43.150">section 5.43.150</cite> (i)(1) or <cite path="5.43.150">5.43.150</cite> (i)(2) will not provide substantially complete visibility into the private room to a person standing outside the room.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Those establishments offering entertainment in private rooms as of the effective date of the ordinance originally adding this requirement shall be modified to comply with the terms of this subsection within 180 days of the effective date of that ordinance.</text>
+        </para>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>Security.</text>
+        <para>
+          <num>(1)</num>
+          <text>Primary Entertainment Use.</text>
+          <para>
+            <num>(A)</num>
+            <text>For occupancy levels below 100 persons, the permittee shall provide a minimum of two security guards. One security guard will be a front door person responsible for monitoring occupancy and admittance and maintaining a count of persons admitted. The second will monitor exterior areas and will float throughout the interior area to provide a safe environment. When occupancy exceeds 100 persons the permittee shall provide additional guards to adequately control the environment at a ratio of one guard per additional 50 people (or any fraction thereof). The permittee is responsible for providing a safe environment. The security requirements mentioned above are minimum mandatory requirements. The permittee should provide security based on all the circumstances surrounding the entertainment provided.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Management shall designate a front door security presence when open for entertainment. Front door security will check identification to verify age requirements. Management shall educate this person in admission policy and maximum occupancy limit. Further, management shall provide this person with a means to monitor occupancy, screen for weapons, and direct security to prohibit further entry when maximum occupancy is reached. When maximum occupancy exists, management shall advise the remaining people in line that the club has reached its maximum number of occupants and that there will not be any further admittance.</text>
           </para>
           <para>
             <num>(C)</num>
-            <text>Any conduct constituting a criminal offense which requires registration under <cite doc="Cal. Penal Code" path="§290">Section 290 of the California Penal Code</cite>.</text>
+            <text>Management is responsible for maintaining an outdoor security presence when a crowd is waiting to gain access to the building. They shall have 1 dedicated security guard, in addition 1 checking IDs at the door, which will be responsible for providing an organized method of maintaining a line that will not block public sidewalks, driveways, or surrounding business doorways. Management shall have the designated outside line security maintain an orderly single file line. Stanchions, ending just prior to the neighboring business, will control the line. Once the line reaches maximum occupancy, the designated security shall advise all remaining patrons that the line is full. He or she must advise remaining patrons that they are to exit the area in an orderly fashion.</text>
           </para>
           <para>
             <num>(D)</num>
-            <text>The occurrence of acts of lewdness, assignation, or prostitution, including any conduct constituting violations of Sections 315, 316 or 318, or Subdivision b of <cite doc="Cal. Penal Code" path="§647">Section 647 of the California Penal Code</cite>.</text>
+            <text>Security guards shall wear uniforms and be readily identifiable as private security personnel.</text>
           </para>
         </para>
         <para>
-          <num>(d)</num>
-          <text>After holding the hearing in accordance with the provisions of this Section, if the Police Chief finds and determines that there are grounds for disciplinary action, based upon the severity of the violation, the Police Chief shall impose one of the following:</text>
+          <num>(2)</num>
+          <text>Secondary Entertainment Use</text>
           <para>
-            <num>(1)</num>
-            <text>A warning;</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Suspension of the permit for a specified period not to exceed six months;</text>
+            <num>(A)</num>
+            <text>The permittee shall provide a minimum of two persons to monitor occupancy and admittance and exterior, interior and parking areas associated with the use. An additional licensed security guard shall be required when occupancy exceeds 100.</text>
           </para>
           <para>
-            <num>(3)</num>
-            <text>Revocation of the permit.</text>
-          </para>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.130</num>
-        <heading>EMERGENCY SUSPENSION OF PERMIT.</heading>
-        <text>The Police Chief may suspend an entertainment permit pending a hearing on the suspension or revocation of the permit if the Police Chief finds that there is an impending and significant threat to the public health or safety arising out of the use of the entertainment permit. No emergency suspension shall remain in effect for more than 15 calendar days, unless the permittee agrees to a longer term.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.140</num>
-        <heading>APPEALS.</heading>
-        <text>An applicant who wishes to appeal the decision of the Police Chief regarding an application or an action to suspend or revoke a Permit may do so under the following hearing procedures:</text>
-        <para>
-          <num>(a)</num>
-          <text>An appeal of the Police Chief's decision on a permit application or from the Police Chief's decision after a permit revocation or suspension hearing, may be made by filing a written request for appeal with the City Clerk's office within ten (10) calendar days of the date the decision was mailed. If no appeal is filed within this time period, then the decision of the Police Chief shall become final and the applicant shall be deemed to have waived all rights to appeal or other review. All requests for appeal shall include a statement of the basis for the appeal and the errors claimed to have occurred.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The City Manager or their designee shall schedule a hearing on the appeal for not less than ten (10) calendar days or greater than twenty (20) calendar days from the date of mailing notice to the applicant of the time and place of the appeal hearing. The notice of hearing shall be sent by first class mail to the applicant within ten (10) days of filing a timely notice of appeal.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The City Manager or their designee shall review the written record and allow testimony to be given. The City Manager or designee shall also allow oral argument. After all verbal testimony has been reviewed, the City Manager or designee shall render a written decision within ten (10) working days from the date the matter is submitted for decision. The action of the City Manager or designee shall be final and conclusive, subject only to applicable court review.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>If the Police Chief's decision is affirmed on appeal, the applicant or permittee may seek prompt judicial review of such administrative action pursuant to <cite doc="Cal. Civ. Proc. Code" path="§1094.5">California Code of Civil Procedure Section 1094.5</cite> or 1094.8 (if that Section is applicable). The City shall make all reasonable efforts to expedite judicial review, if sought by the permittee.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-    </container>
-    <container>
-      <prefix>ARTICLE</prefix>
-      <num>3</num>
-      <heading>PERFORMANCE STANDARDS</heading>
-      <section>
-        <num>5.43.150</num>
-        <heading>PERFORMANCE STANDARDS FOR ALL ENTERTAINMENT BUSINESSES.</heading>
-        <text>The following performance standards shall apply to all entertainment businesses and shall be deemed conditions of all entertainment permits, and failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>;</text>
-        <para>
-          <num>(a)</num>
-          <text>Maximum occupancy load, fire exits, aisles and fire equipment shall be regulated, designed and provided in accordance with the Fire Department and building regulations and standards adopted by the City of San Mateo.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The premises within which the entertainment business is located shall provide sufficient sound-absorbing insulation so that noise generated inside said premises shall not be audible anywhere on any adjacent property or public right-of-way or within any other building or other separate unit within the same building and comply with all applicable city noise regulations.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>No entertainment shall be permitted in any establishment between the hours of 1:30 a.m. and 10:00 a.m.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>The business premises offering entertainment shall be suitably lighted with minimum lighting therein of six-candle power at floor level, except during performances on stages.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>All patrons must be out of the building by 2:00 a.m.</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Security personnel shall be visible at the primary entrance at closing of the entertainment business and shall remain until patrons are dispersed. Security shall not permit crowds and/or patrons to loiter in the front of or in the immediate vicinity of the entertainment business after closing.</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>The permittee shall arrange for litter removal from the store front and public sidewalks adjacent to the store front after every closing.</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>Businesses with entertainment business permits requiring a multi-agency response or riotous situation response or meeting the definition of an "unruly gathering" as specified in <cite path="7.22">Chapter 7.22</cite> may be charged for police services as provided for in <cite path="7.22">Chapter 7.22</cite>.</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>Private Rooms. No entertainment shall be offered, permitted, or allowed to take place within a private room the interior of which is not fully visible by a person standing in at least one place within 10 feet of the primary entrance to the premise in which the entertainment is offered, unless all of the following conditions are met:</text>
-          <para>
-            <num>(1)</num>
-            <text>Visibility into the private room is provided through the installation in the wall separating the room from a corridor accessible to patrons or the main room of the premises of a 12 square foot window measuring 4 feet in width by 3 feet in height, the lower edge of which shall be installed at a point 4 feet above the floor.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>In rooms constructed under valid building permits and existing on the effective date of the ordinance adding this provision, if there is insufficient wall surface separating the private room from the main room or a corridor accessible to patrons to allow installation of a window as provided in sub<cite path="5.43.150">section 5.43.150</cite> (i)(1), then visibility shall be provide through the installation of a 6 square foot window measuring 2 feet in width by 3 feet in height, the lower edge of which shall be installed at a point 4 feet above the floor.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>The window required by sub<cite path="5.43.150">section 5.43.150</cite> (i)(1) or <cite path="5.43.150">5.43.150</cite> (i)(2) shall remain completely clear and unobstructed at all times.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>The dimensions of the windows required by sub<cite path="5.43.150">section 5.43.150</cite> (i)(1) or <cite path="5.43.150">5.43.150</cite> (i)(2) are the minimum required, but may be larger.</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>The private room shall be lit to the point that allows a person on the outside of the room to observe the activity of those in the room at all times the room is occupied.</text>
-          </para>
-          <para>
-            <num>(6)</num>
-            <text>Doors providing access to private rooms shall not be equipped with locks of any kind.</text>
-          </para>
-          <para>
-            <num>(7)</num>
-            <text>No private room shall be configured so that the installation of the windows required by sub<cite path="5.43.150">section 5.43.150</cite> (i)(1) or <cite path="5.43.150">5.43.150</cite> (i)(2) will not provide substantially complete visibility into the private room to a person standing outside the room.</text>
-          </para>
-          <para>
-            <num>(8)</num>
-            <text>Those establishments offering entertainment in private rooms as of the effective date of the ordinance originally adding this requirement shall be modified to comply with the terms of this subsection within 180 days of the effective date of that ordinance.</text>
+            <num>(B)</num>
+            <text>Security personnel shall be readily identifiable as either private security or management personnel.</text>
           </para>
         </para>
         <para>
-          <num>(j)</num>
-          <text>Security.</text>
-          <para>
-            <num>(1)</num>
-            <text>Primary Entertainment Use.</text>
-            <para>
-              <num>(A)</num>
-              <text>For occupancy levels below 100 persons, the permittee shall provide a minimum of two security guards. One security guard will be a front door person responsible for monitoring occupancy and admittance and maintaining a count of persons admitted. The second will monitor exterior areas and will float throughout the interior area to provide a safe environment. When occupancy exceeds 100 persons the permittee shall provide additional guards to adequately control the environment at a ratio of one guard per additional 50 people (or any fraction thereof). The permittee is responsible for providing a safe environment. The security requirements mentioned above are minimum mandatory requirements. The permittee should provide security based on all the circumstances surrounding the entertainment provided.</text>
-            </para>
-            <para>
-              <num>(B)</num>
-              <text>Management shall designate a front door security presence when open for entertainment. Front door security will check identification to verify age requirements. Management shall educate this person in admission policy and maximum occupancy limit. Further, management shall provide this person with a means to monitor occupancy, screen for weapons, and direct security to prohibit further entry when maximum occupancy is reached. When maximum occupancy exists, management shall advise the remaining people in line that the club has reached its maximum number of occupants and that there will not be any further admittance.</text>
-            </para>
-            <para>
-              <num>(C)</num>
-              <text>Management is responsible for maintaining an outdoor security presence when a crowd is waiting to gain access to the building. They shall have 1 dedicated security guard, in addition 1 checking IDs at the door, which will be responsible for providing an organized method of maintaining a line that will not block public sidewalks, driveways, or surrounding business doorways. Management shall have the designated outside line security maintain an orderly single file line. Stanchions, ending just prior to the neighboring business, will control the line. Once the line reaches maximum occupancy, the designated security shall advise all remaining patrons that the line is full. He or she must advise remaining patrons that they are to exit the area in an orderly fashion.</text>
-            </para>
-            <para>
-              <num>(D)</num>
-              <text>Security guards shall wear uniforms and be readily identifiable as private security personnel.</text>
-            </para>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Secondary Entertainment Use</text>
-            <para>
-              <num>(A)</num>
-              <text>The permittee shall provide a minimum of two persons to monitor occupancy and admittance and exterior, interior and parking areas associated with the use. An additional licensed security guard shall be required when occupancy exceeds 100.</text>
-            </para>
-            <para>
-              <num>(B)</num>
-              <text>Security personnel shall be readily identifiable as either private security or management personnel.</text>
-            </para>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>Arcades. The security standards described in subsections (1) and (2) shall not apply to amusement arcades. The security requirements for amusement arcades are established in <cite path="5.43.160">Section 5.43.160</cite>.</text>
-          </para>
+          <num>(3)</num>
+          <text>Arcades. The security standards described in subsections (1) and (2) shall not apply to amusement arcades. The security requirements for amusement arcades are established in <cite path="5.43.160">Section 5.43.160</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Private Booths. No entertainment shall be offered, permitted, or allowed to take place within a private booth, unless all of the following conditions are met;</text>
+        <para>
+          <num>(1)</num>
+          <text>Visibility into the private booth is provided through the installation in the door to the booth of a window measuring 1 foot in width by 1.5 feet in height, at a point allowing a person standing outside the door to observe the activities of the person occupying the booth.</text>
         </para>
         <para>
-          <num>(k)</num>
-          <text>Private Booths. No entertainment shall be offered, permitted, or allowed to take place within a private booth, unless all of the following conditions are met;</text>
-          <para>
-            <num>(1)</num>
-            <text>Visibility into the private booth is provided through the installation in the door to the booth of a window measuring 1 foot in width by 1.5 feet in height, at a point allowing a person standing outside the door to observe the activities of the person occupying the booth.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>The window required by sub<cite path="5.43.150|(k)|(1)">section 5.43.150(k)(1)</cite> shall remain completely clear and unobstructed at all times.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>The dimensions of the window required by sub<cite path="5.43.150|(k)|(1)">section 5.43.150(k)(1)</cite> is the minimum required, but may be larger.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>The private booth shall be lit to the point that allows a person on the outside of the booth to observe the activity of those in the booth at all times the booth is occupied.</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>Doors providing access to private booths shall not be equipped with locks of any kind.</text>
-          </para>
-          <para>
-            <num>(6)</num>
-            <text>No private booth shall be configured so that the installation of the windows required by sub<cite path="5.43.150|(k)|(1)">section 5.43.150(k)(1)</cite> will not provide substantially complete visibility into the private booth to a person standing outside the booth.</text>
-          </para>
-          <para>
-            <num>(7)</num>
-            <text>Those establishments offering entertainment in private booths as of the effective date of the ordinance originally adding this requirement shall be modified to comply with the terms of this subsection within 60 days of the effective date of that ordinance.</text>
-          </para>
+          <num>(2)</num>
+          <text>The window required by sub<cite path="5.43.150|(k)|(1)">section 5.43.150(k)(1)</cite> shall remain completely clear and unobstructed at all times.</text>
         </para>
         <para>
-          <num>(l)</num>
-          <text>Permit holders shall immediately notify the San Mateo Police Department whenever they become aware of facts indicating their entertainment business may become the site of any criminal activity.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2005-6" path="§3" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.160</num>
-        <heading>PERFORMANCE STANDARDS FOR AMUSEMENT ARCADES.</heading>
-        <text>The following additional requirements shall apply to entertainment businesses providing amusement arcade entertainment; and shall be deemed conditions of the entertainment permit, and failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>.</text>
-        <para>
-          <num>(a)</num>
-          <text>All amusement devices within the premises shall be visible to and supervised by an identifiable adult attendant who shall be present at all times when any amusement device is being operated. Such attendant shall be provided with a jacket, vest, or other clothing that clearly identifies such person as an employee of said arcade.</text>
+          <num>(3)</num>
+          <text>The dimensions of the window required by sub<cite path="5.43.150|(k)|(1)">section 5.43.150(k)(1)</cite> is the minimum required, but may be larger.</text>
         </para>
         <para>
-          <num>(b)</num>
-          <text>The supervision of the patrons on the premises shall be adequate to insure that there is no conduct that unreasonably interferes with the use of surrounding properties.</text>
+          <num>(4)</num>
+          <text>The private booth shall be lit to the point that allows a person on the outside of the booth to observe the activity of those in the booth at all times the booth is occupied.</text>
         </para>
         <para>
-          <num>(c)</num>
-          <text>No one under 18 years of age shall be allowed to play the amusement devices between the hours of 7:00 a.m. and 3:00 p.m. during the academic year of any San Mateo school district; holidays, Saturdays and Sundays excluded. No one under 18 years of age may loiter inside or outside the premises or play amusement devices between 10:00 p.m. and 6:00 a.m. the following morning, Sunday through Thursday, and between 12:00 a.m. and 6:00 a.m., Saturdays and Sundays.</text>
+          <num>(5)</num>
+          <text>Doors providing access to private booths shall not be equipped with locks of any kind.</text>
         </para>
         <para>
-          <num>(d)</num>
-          <text>Each arcade maintaining 26 amusement devices or more shall provide a minimum of one security guard in addition to the adult attendant from 3:00 p.m. until after closing time during weekdays and at all times during the hours of operation on weekends and holidays. The identity of the security person(s) shall be provided to the Chief of Police on forms provided by the San Mateo Police Department. If there are an unusual amount of police service calls to an amusement arcade with fewer than 26 amusement devices, the Chief of Police may require that the adult attendant required by this section be replaced by a security guard.</text>
+          <num>(6)</num>
+          <text>No private booth shall be configured so that the installation of the windows required by sub<cite path="5.43.150|(k)|(1)">section 5.43.150(k)(1)</cite> will not provide substantially complete visibility into the private booth to a person standing outside the booth.</text>
         </para>
         <para>
-          <num>(e)</num>
-          <text>Outside security lighting shall be provided under the direction of and subject to the approval of the San Mateo Police Department.</text>
+          <num>(7)</num>
+          <text>Those establishments offering entertainment in private booths as of the effective date of the ordinance originally adding this requirement shall be modified to comply with the terms of this subsection within 60 days of the effective date of that ordinance.</text>
         </para>
-        <para>
-          <num>(f)</num>
-          <text>Adequate parking and bicycle racks shall be provided pursuant to the off-street parking code for retail uses contained in <cite path="27">Title 27</cite> of the Code. A minimum of one bicycle facility for each sixteen amusement machines or fraction thereof shall be provided.</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>Public restroom facilities shall be provided.</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>A minimum of ten-foot candle illumination generally distributed must be contained in all parts of the premises at all times when the arcade is open and when the public is permitted to enter or remain therein.</text>
-        </para>
-        <para>
-          <num>(i)</num>
-          <text>No amusement device shall be situated in such a way that its use will violate any applicable fire regulation or hinder the reasonable egress from and ingress to the premises of the public. A fully dimensioned floor plan indicating the location of each machine and the aisle width for ingress shall be clearly labeled.</text>
-        </para>
-        <para>
-          <num>(j)</num>
-          <text>The business entrance must be unlocked during all times that the premise is open for use of arcade games.</text>
-        </para>
-        <para>
-          <num>(k)</num>
-          <text>Video surveillance cameras shall be installed in the arcade areas to continually record patron activities to VHS tape during the establishment's hours of operation. Recorded tapes shall be maintained for a period of at least 96 hours. The recorded tapes shall be made available to police personnel upon written request.</text>
-        </para>
-        <para>
-          <num>(l)</num>
-          <text>No alcoholic beverages are allowed in areas operated as amusement arcades.</text>
-        </para>
-        <para>
-          <num>(m)</num>
-          <text>If a token change machine or coin change machine is installed, it shall be protected by an alarm system.</text>
-        </para>
-        <para>
-          <num>(n)</num>
-          <text>The applicant shall restrict access into and out of the facility through the front door(s) only. The rear door shall be equipped with an audible alarm that will sound whenever the door is opened. The door shall be sign posted to indicate the alarm condition.</text>
-        </para>
-        <para>
-          <num>(o)</num>
-          <text>Any pay telephone installed inside the premises or any pay telephone immediately adjacent to the front of the business shall be restricted from receiving incoming calls.</text>
-        </para>
-        <para>
-          <num>(p)</num>
-          <text>No gambling shall be permitted in areas operated as amusement arcades.</text>
-        </para>
-        <para>
-          <num>(q)</num>
-          <text>The permittee shall maintain and keep its amusement devices in good working order and condition.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2005-6" path="§4" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.170</num>
-        <heading>PERFORMANCE STANDARDS FOR ADULT CABARETS.</heading>
-        <text>The following additional requirements shall apply to adult cabarets and the failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>:</text>
-        <para>
-          <num>(a)</num>
-          <text>The building entrance to an adult cabaret shall be clearly and legibly posted with a notice indicating that persons under eighteen (18) years of age are precluded from entering the premises. Said notice shall be constructed and posted to the satisfaction of the Community Development Director or designee. No person under the age of eighteen (18) years shall be permitted within the premises at any time.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>No person shall perform live entertainment for patrons of an adult cabaret except upon a stage at least eighteen (18) inches above the level of the floor which is separated by a distance of at least ten (10) feet from the nearest area occupied by patrons, and no patron shall be permitted within ten (10) feet of the stage while the stage is occupied by an entertainer. "Entertainer' shall mean any person who is an employee or independent contractor of the adult cabaret, or any person who, with or without any compensation or other form of consideration, performs live entertainment for patrons of an adult cabaret.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The adult cabaret shall provide separate dressing room facilities for entertainers which are exclusively dedicated to the entertainers' use.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>No entertainer, either before, during or after performances, shall have physical contact with any patron and no patron shall have physical contact with any entertainer either before, during, or after performances by such entertainer. This subsection shall only apply to physical contact on the premises of the adult cabaret.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Fixed rail(s) at least thirty (30) inches in height shall be maintained establishing the separations between entertainers and patrons required by this subsection.</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>No patron shall directly pay or give any gratuity to any entertainer and no entertainer shall solicit any pay or gratuity from any patron.</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>No owner or other person with managerial control over an adult cabaret shall permit any person on the premises of the adult cabaret to engage in a live showing of the human male or female genitals, pubic area or buttocks with less than a fully opaque coverage, and/or the female breast with less than a fully opaque coverage over any part of the nipple or areola and/or covered male genitals in a discernibly turgid state. This provision may not be complied with by applying an opaque covering simulating the appearance of the specified anatomical part required to be covered.</text>
-        </para>
-        <para>
-          <num>(h)</num>
-          <text>No performance shall be staged within an adult cabaret so as to be visible from the exterior of the premises through any window or other aperture, including any door, whether open or closed.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§86" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-09" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.180</num>
-        <heading>PERFORMANCE STANDARDS FOR ENTERTAINMENT BUSINESSES WHERE ALCOHOLIC BEVERAGES ARE SERVED.</heading>
-        <text>The following additional requirements shall apply to any entertainment business where alcoholic beverages are served anywhere on site, and failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>:</text>
-        <para>
-          <num>(a)</num>
-          <text>The applicant's management staff and employees are encouraged to attend the first available San Mateo sponsored LEAD (Licensed Education on Alcohol and Drugs) seminar on responsible beverage service.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>A sign indicating there is an age restriction of 21 years and older shall be posted at all entrances to bar areas where entertainment is offered. This sign must be readily visible to patrons.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>If an A.B.C. type 47 on-sale general eating place permit has been issued to the permittee, persons under the age of 21 years shall not be allowed in areas where meals are not served.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>The permittee shall comply with all conditions and restrictions imposed upon the A.B.C. license and all applicable A.B.C. regulations.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-    </container>
-    <container>
-      <prefix>ARTICLE</prefix>
-      <num>4</num>
-      <heading>MISCELLANEOUS PROVISIONS</heading>
-      <section>
-        <num>5.43.190</num>
-        <heading>DISPLAY OF PERMIT.</heading>
-        <text>Every entertainment business shall display at all times during business hours the permit issued pursuant to the provisions of <cite path="5.43">this chapter</cite> for such Entertainment Business in a conspicuous place so that the same may be readily seen by all persons entering the entertainment business.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§4" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.200</num>
-        <heading>INSPECTIONS.</heading>
-        <text>An applicant or permittee shall permit representatives of the Police Department, Health Department, Fire Department, Planning Division, or other City departments or Agencies to inspect the premises of an entertainment business for the purpose of insuring compliance with the law and the development and performance standards applicable to entertainment businesses, at any time it is occupied or opened for business. A person who operates an entertainment business or his or her agent or employee is in violation of the provisions of this section if he/she refuses to permit such lawful inspection of the premises at any time it is occupied or open for business.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.210</num>
-        <heading>COMPLIANCE WITH OTHER LAWS.</heading>
-        <text>The provisions of this article regulating entertainment businesses are not intended to be exclusive and compliance therewith shall not excuse noncompliance with any other provisions of the San Mateo Municipal Code applicable to the entertainment activity or the business within which the activity is conducted.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.220</num>
-        <heading>INTERPRETATION OF CHAPTER.</heading>
-        <text>If ambiguity arises concerning the content or application of <cite path="5.43">this chapter</cite>, it shall be the duty of the Chief of Police to establish all pertinent facts and to interpret its provisions.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.230</num>
-        <heading>PUBLIC NUISANCE.</heading>
-        <text>Any entertainment business operated, conducted, or maintained in violation of the requirements of <cite path="5.43">this chapter</cite> is declared to be a public nuisance, and in addition to any other remedy provided by this law may be abated through the initiation of a civil enforcement action brought by the City Attorney.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>5.43.240</num>
-        <heading>SEVERABILITY.</heading>
-        <text>If any section, subsection, subdivision, paragraph, sentence, clause, or phrase in <cite path="5.43">this chapter</cite> or any part thereof is for any reason held to be unconstitutional or invalid or ineffective by any court of competent jurisdiction, such decision shall not affect the validity or effectiveness of the remaining portions of <cite path="5.43">this chapter</cite> or any part thereof. The City Council hereby declares that it would have passed each section, subsection, subdivision, paragraph, sentence, clause, or phrase thereof irrespective of the fact that any one (1) or more subsections, subdivisions, paragraphs, sentences, clauses, or phrases be declared unconstitutional, or invalid, or ineffective.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
-        </annotations>
-      </section>
-    </container>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Permit holders shall immediately notify the San Mateo Police Department whenever they become aware of facts indicating their entertainment business may become the site of any criminal activity.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2005-6" path="§3" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.160</num>
+      <heading>PERFORMANCE STANDARDS FOR AMUSEMENT ARCADES.</heading>
+      <text>The following additional requirements shall apply to entertainment businesses providing amusement arcade entertainment; and shall be deemed conditions of the entertainment permit, and failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>.</text>
+      <para>
+        <num>(a)</num>
+        <text>All amusement devices within the premises shall be visible to and supervised by an identifiable adult attendant who shall be present at all times when any amusement device is being operated. Such attendant shall be provided with a jacket, vest, or other clothing that clearly identifies such person as an employee of said arcade.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The supervision of the patrons on the premises shall be adequate to insure that there is no conduct that unreasonably interferes with the use of surrounding properties.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>No one under 18 years of age shall be allowed to play the amusement devices between the hours of 7:00 a.m. and 3:00 p.m. during the academic year of any San Mateo school district; holidays, Saturdays and Sundays excluded. No one under 18 years of age may loiter inside or outside the premises or play amusement devices between 10:00 p.m. and 6:00 a.m. the following morning, Sunday through Thursday, and between 12:00 a.m. and 6:00 a.m., Saturdays and Sundays.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Each arcade maintaining 26 amusement devices or more shall provide a minimum of one security guard in addition to the adult attendant from 3:00 p.m. until after closing time during weekdays and at all times during the hours of operation on weekends and holidays. The identity of the security person(s) shall be provided to the Chief of Police on forms provided by the San Mateo Police Department. If there are an unusual amount of police service calls to an amusement arcade with fewer than 26 amusement devices, the Chief of Police may require that the adult attendant required by this section be replaced by a security guard.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Outside security lighting shall be provided under the direction of and subject to the approval of the San Mateo Police Department.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Adequate parking and bicycle racks shall be provided pursuant to the off-street parking code for retail uses contained in <cite path="27">Title 27</cite> of the Code. A minimum of one bicycle facility for each sixteen amusement machines or fraction thereof shall be provided.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Public restroom facilities shall be provided.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>A minimum of ten-foot candle illumination generally distributed must be contained in all parts of the premises at all times when the arcade is open and when the public is permitted to enter or remain therein.</text>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>No amusement device shall be situated in such a way that its use will violate any applicable fire regulation or hinder the reasonable egress from and ingress to the premises of the public. A fully dimensioned floor plan indicating the location of each machine and the aisle width for ingress shall be clearly labeled.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>The business entrance must be unlocked during all times that the premise is open for use of arcade games.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>Video surveillance cameras shall be installed in the arcade areas to continually record patron activities to VHS tape during the establishment's hours of operation. Recorded tapes shall be maintained for a period of at least 96 hours. The recorded tapes shall be made available to police personnel upon written request.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>No alcoholic beverages are allowed in areas operated as amusement arcades.</text>
+      </para>
+      <para>
+        <num>(m)</num>
+        <text>If a token change machine or coin change machine is installed, it shall be protected by an alarm system.</text>
+      </para>
+      <para>
+        <num>(n)</num>
+        <text>The applicant shall restrict access into and out of the facility through the front door(s) only. The rear door shall be equipped with an audible alarm that will sound whenever the door is opened. The door shall be sign posted to indicate the alarm condition.</text>
+      </para>
+      <para>
+        <num>(o)</num>
+        <text>Any pay telephone installed inside the premises or any pay telephone immediately adjacent to the front of the business shall be restricted from receiving incoming calls.</text>
+      </para>
+      <para>
+        <num>(p)</num>
+        <text>No gambling shall be permitted in areas operated as amusement arcades.</text>
+      </para>
+      <para>
+        <num>(q)</num>
+        <text>The permittee shall maintain and keep its amusement devices in good working order and condition.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2005-6" path="§4" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.170</num>
+      <heading>PERFORMANCE STANDARDS FOR ADULT CABARETS.</heading>
+      <text>The following additional requirements shall apply to adult cabarets and the failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>:</text>
+      <para>
+        <num>(a)</num>
+        <text>The building entrance to an adult cabaret shall be clearly and legibly posted with a notice indicating that persons under eighteen (18) years of age are precluded from entering the premises. Said notice shall be constructed and posted to the satisfaction of the Community Development Director or designee. No person under the age of eighteen (18) years shall be permitted within the premises at any time.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>No person shall perform live entertainment for patrons of an adult cabaret except upon a stage at least eighteen (18) inches above the level of the floor which is separated by a distance of at least ten (10) feet from the nearest area occupied by patrons, and no patron shall be permitted within ten (10) feet of the stage while the stage is occupied by an entertainer. "Entertainer' shall mean any person who is an employee or independent contractor of the adult cabaret, or any person who, with or without any compensation or other form of consideration, performs live entertainment for patrons of an adult cabaret.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The adult cabaret shall provide separate dressing room facilities for entertainers which are exclusively dedicated to the entertainers' use.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>No entertainer, either before, during or after performances, shall have physical contact with any patron and no patron shall have physical contact with any entertainer either before, during, or after performances by such entertainer. This subsection shall only apply to physical contact on the premises of the adult cabaret.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Fixed rail(s) at least thirty (30) inches in height shall be maintained establishing the separations between entertainers and patrons required by this subsection.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>No patron shall directly pay or give any gratuity to any entertainer and no entertainer shall solicit any pay or gratuity from any patron.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>No owner or other person with managerial control over an adult cabaret shall permit any person on the premises of the adult cabaret to engage in a live showing of the human male or female genitals, pubic area or buttocks with less than a fully opaque coverage, and/or the female breast with less than a fully opaque coverage over any part of the nipple or areola and/or covered male genitals in a discernibly turgid state. This provision may not be complied with by applying an opaque covering simulating the appearance of the specified anatomical part required to be covered.</text>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>No performance shall be staged within an adult cabaret so as to be visible from the exterior of the premises through any window or other aperture, including any door, whether open or closed.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§86" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-09" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.180</num>
+      <heading>PERFORMANCE STANDARDS FOR ENTERTAINMENT BUSINESSES WHERE ALCOHOLIC BEVERAGES ARE SERVED.</heading>
+      <text>The following additional requirements shall apply to any entertainment business where alcoholic beverages are served anywhere on site, and failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>:</text>
+      <para>
+        <num>(a)</num>
+        <text>The applicant's management staff and employees are encouraged to attend the first available San Mateo sponsored LEAD (Licensed Education on Alcohol and Drugs) seminar on responsible beverage service.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A sign indicating there is an age restriction of 21 years and older shall be posted at all entrances to bar areas where entertainment is offered. This sign must be readily visible to patrons.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If an A.B.C. type 47 on-sale general eating place permit has been issued to the permittee, persons under the age of 21 years shall not be allowed in areas where meals are not served.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The permittee shall comply with all conditions and restrictions imposed upon the A.B.C. license and all applicable A.B.C. regulations.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <subheading>ARTICLE 4 MISCELLANEOUS PROVISIONS</subheading>
+    <section>
+      <num>5.43.190</num>
+      <heading>DISPLAY OF PERMIT.</heading>
+      <text>Every entertainment business shall display at all times during business hours the permit issued pursuant to the provisions of <cite path="5.43">this chapter</cite> for such Entertainment Business in a conspicuous place so that the same may be readily seen by all persons entering the entertainment business.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-8" path="§4" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.200</num>
+      <heading>INSPECTIONS.</heading>
+      <text>An applicant or permittee shall permit representatives of the Police Department, Health Department, Fire Department, Planning Division, or other City departments or Agencies to inspect the premises of an entertainment business for the purpose of insuring compliance with the law and the development and performance standards applicable to entertainment businesses, at any time it is occupied or opened for business. A person who operates an entertainment business or his or her agent or employee is in violation of the provisions of this section if he/she refuses to permit such lawful inspection of the premises at any time it is occupied or open for business.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.210</num>
+      <heading>COMPLIANCE WITH OTHER LAWS.</heading>
+      <text>The provisions of this article regulating entertainment businesses are not intended to be exclusive and compliance therewith shall not excuse noncompliance with any other provisions of the San Mateo Municipal Code applicable to the entertainment activity or the business within which the activity is conducted.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.220</num>
+      <heading>INTERPRETATION OF CHAPTER.</heading>
+      <text>If ambiguity arises concerning the content or application of <cite path="5.43">this chapter</cite>, it shall be the duty of the Chief of Police to establish all pertinent facts and to interpret its provisions.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.230</num>
+      <heading>PUBLIC NUISANCE.</heading>
+      <text>Any entertainment business operated, conducted, or maintained in violation of the requirements of <cite path="5.43">this chapter</cite> is declared to be a public nuisance, and in addition to any other remedy provided by this law may be abated through the initiation of a civil enforcement action brought by the City Attorney.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>5.43.240</num>
+      <heading>SEVERABILITY.</heading>
+      <text>If any section, subsection, subdivision, paragraph, sentence, clause, or phrase in <cite path="5.43">this chapter</cite> or any part thereof is for any reason held to be unconstitutional or invalid or ineffective by any court of competent jurisdiction, such decision shall not affect the validity or effectiveness of the remaining portions of <cite path="5.43">this chapter</cite> or any part thereof. The City Council hereby declares that it would have passed each section, subsection, subdivision, paragraph, sentence, clause, or phrase thereof irrespective of the fact that any one (1) or more subsections, subdivisions, paragraphs, sentences, clauses, or phrases be declared unconstitutional, or invalid, or ineffective.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2004-14" path="§1" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Chapter</prefix>

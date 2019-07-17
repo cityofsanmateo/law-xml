@@ -1654,357 +1654,349 @@
     <prefix>Chapter</prefix>
     <num>26.56</num>
     <heading>PARCEL MAPS</heading>
-    <container>
-      <prefix>ARTICLE</prefix>
-      <num>I</num>
-      <heading>TENTATIVE PARCEL MAP</heading>
-      <section>
-        <num>26.56.010</num>
-        <heading>PREPARATION.</heading>
-        <text>Before any land may be subdivided for which a parcel map is the permitted process for approval pursuant to <cite path="26">this Title</cite> and a parcel map is the process chosen by a subdivider, a subdivider shall file a tentative parcel map prepared by a registered civil engineer licensed by the State to perform such work or licensed land surveyor with the Director of Community Development. Such a map shall be in full compliance with the requirements of <cite path="26">this Title</cite> and all applicable State statutes; shall be clearly and legibly drawn on sheets of not less than eighteen by twenty-six inches nor more than thirty-six by forty-two inches in size to a scale of one inch to one hundred feet, unless the Zoning Administrator or the City Engineer finds that a larger scale will facilitate review by the City.</text>
-        <annotations>
-          <annotation type="History">prior code § 139.47</annotation>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§15" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§26" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.020</num>
-        <heading>INFORMATION REQUIRED.</heading>
-        <text>Unless included in the submittal for the site development permit pursuant to <cite path="23.40">Chapter 23.40</cite>, the tentative parcel map shall contain, or be accompanied by the following information:</text>
+    <subheading>ARTICLE I TENTATIVE PARCEL MAP</subheading>
+    <section>
+      <num>26.56.010</num>
+      <heading>PREPARATION.</heading>
+      <text>Before any land may be subdivided for which a parcel map is the permitted process for approval pursuant to <cite path="26">this Title</cite> and a parcel map is the process chosen by a subdivider, a subdivider shall file a tentative parcel map prepared by a registered civil engineer licensed by the State to perform such work or licensed land surveyor with the Director of Community Development. Such a map shall be in full compliance with the requirements of <cite path="26">this Title</cite> and all applicable State statutes; shall be clearly and legibly drawn on sheets of not less than eighteen by twenty-six inches nor more than thirty-six by forty-two inches in size to a scale of one inch to one hundred feet, unless the Zoning Administrator or the City Engineer finds that a larger scale will facilitate review by the City.</text>
+      <annotations>
+        <annotation type="History">prior code § 139.47</annotation>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§15" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§26" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.020</num>
+      <heading>INFORMATION REQUIRED.</heading>
+      <text>Unless included in the submittal for the site development permit pursuant to <cite path="23.40">Chapter 23.40</cite>, the tentative parcel map shall contain, or be accompanied by the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>The tract name and number (if assigned); date of preparation; northpoint and scale;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Names, addresses and telephone numbers of: the record owner; subdivider; and the person who prepared the map. (The registration or license number of the preparer shall also be supplied);</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Boundaries of the land division and area to the nearest square foot;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Location, name and present width of the adjacent street;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Lot, block or parcel numbers of adjacent lots and the name of the owner of record;</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Location of any proposed special features or reservations, if any;</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Existing and proposed contours as required for tentative maps;</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>Location of any proposed public utilities and easements required for same, existing fire hydrants, power and telephone lines, and other similar utilities;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>Lot lines, approximate dimensions of all lots and their area to the nearest square foot;</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>Lot or parcel numbers in consecutive sequence. (The tract name and number or other description of the land which is being subdivided or combined shall be shown shaded);</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>Location and outline to scale of existing and proposed buildings, drives, retaining walls, swimming pools, and other structures, if known, with indication of whether existing structures are to remain or be removed. Distances between buildings, and between buildings and property lines shall also be shown;</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>The exterior boundary of the land included within the parcel map shall be indicated by a colored border. The map shall show the definite location of the original parcel or parcels, and particularly its relation to the surrounding surveys;</text>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>The outline of groves of trees and the location of all individual trees with a trunk diameter of four inches or more (twelve and five-tenths inch circumference), standing within the boundaries of the proposed land division, and any other significant vegetative cover, if any;</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>Evidence that:</text>
         <para>
-          <num>(1)</num>
-          <text>The tract name and number (if assigned); date of preparation; northpoint and scale;</text>
+          <num>(A)</num>
+          <text>The lots or parcels created from existing, recorded lots or parcels do not produce any nonconforming feature in the residual lots or parcels,</text>
         </para>
         <para>
-          <num>(2)</num>
-          <text>Names, addresses and telephone numbers of: the record owner; subdivider; and the person who prepared the map. (The registration or license number of the preparer shall also be supplied);</text>
+          <num>(B)</num>
+          <text>Conformance with all applicable zoning and building setback requirements is feasible on all proposed lots or parcels,</text>
         </para>
         <para>
-          <num>(3)</num>
-          <text>Boundaries of the land division and area to the nearest square foot;</text>
+          <num>(C)</num>
+          <text>Any existing easements for public purposes are not rendered impractical by the creation of the proposed lots or parcels.</text>
         </para>
         <para>
-          <num>(4)</num>
-          <text>Location, name and present width of the adjacent street;</text>
+          <num>(D)</num>
+          <text>No more building sites would be created by the proposed division of land than is permitted under the zoning requirements applicable to the area being subdivided;</text>
         </para>
-        <para>
-          <num>(5)</num>
-          <text>Lot, block or parcel numbers of adjacent lots and the name of the owner of record;</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>Location of any proposed special features or reservations, if any;</text>
-        </para>
-        <para>
-          <num>(8)</num>
-          <text>Existing and proposed contours as required for tentative maps;</text>
-        </para>
-        <para>
-          <num>(9)</num>
-          <text>Location of any proposed public utilities and easements required for same, existing fire hydrants, power and telephone lines, and other similar utilities;</text>
-        </para>
-        <para>
-          <num>(10)</num>
-          <text>Lot lines, approximate dimensions of all lots and their area to the nearest square foot;</text>
-        </para>
-        <para>
-          <num>(11)</num>
-          <text>Lot or parcel numbers in consecutive sequence. (The tract name and number or other description of the land which is being subdivided or combined shall be shown shaded);</text>
-        </para>
-        <para>
-          <num>(12)</num>
-          <text>Location and outline to scale of existing and proposed buildings, drives, retaining walls, swimming pools, and other structures, if known, with indication of whether existing structures are to remain or be removed. Distances between buildings, and between buildings and property lines shall also be shown;</text>
-        </para>
-        <para>
-          <num>(13)</num>
-          <text>The exterior boundary of the land included within the parcel map shall be indicated by a colored border. The map shall show the definite location of the original parcel or parcels, and particularly its relation to the surrounding surveys;</text>
-        </para>
-        <para>
-          <num>(14)</num>
-          <text>The outline of groves of trees and the location of all individual trees with a trunk diameter of four inches or more (twelve and five-tenths inch circumference), standing within the boundaries of the proposed land division, and any other significant vegetative cover, if any;</text>
-        </para>
-        <para>
-          <num>(15)</num>
-          <text>Evidence that:</text>
-          <para>
-            <num>(A)</num>
-            <text>The lots or parcels created from existing, recorded lots or parcels do not produce any nonconforming feature in the residual lots or parcels,</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>Conformance with all applicable zoning and building setback requirements is feasible on all proposed lots or parcels,</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>Any existing easements for public purposes are not rendered impractical by the creation of the proposed lots or parcels.</text>
-          </para>
-          <para>
-            <num>(D)</num>
-            <text>No more building sites would be created by the proposed division of land than is permitted under the zoning requirements applicable to the area being subdivided;</text>
-          </para>
-        </para>
-        <para>
-          <num>(16)</num>
-          <text>Such other information as may be required to fulfill the purposes of <cite path="26">this title</cite> in relation to the particular land to be subdivided, as specified in any list compiled for the purpose.</text>
-          <text>A blank space of suitable size and shape for the certificates, conditions and approval, and other similar items shall be reserved on the title page.</text>
-        </para>
-        <annotations>
-          <annotation type="History">prior code § 139.48</annotation>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1983-3" path="§8" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.030</num>
-        <heading>FILING.</heading>
-        <text>A subdivider wishing to file a tentative parcel map shall submit the map, the required information, and such other material according to <cite path="26.48.030">Section 26.48.030</cite> which shall apply to parcel maps.</text>
-        <annotations>
-          <annotation type="History">prior code § 139.19</annotation>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§16" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.040</num>
-        <heading>DISTRIBUTION.</heading>
-        <text>The zoning administrator shall follow the distribution procedures of <cite path="26.48.040">Section 26.48.040</cite>.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§18" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.050</num>
-        <heading>REPORTS.</heading>
-        <text>Reports from outside agencies and consultants shall be governed by <cite path="26.48.050">Section 26.48.050</cite>.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§20" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.060</num>
-        <heading>ACTION.</heading>
-        <text>On the date set for consideration of the tentative parcel map, the Zoning Administrator shall hear the comments and the opinions of the subdivider and of his or her engineer, and any such other officers, agencies and utilities as may have submitted a report. After giving due consideration to all such reports, recommendations, comments and opinions, the Zoning Administrator shall, if compliance with <cite path="26">this Title</cite> is found, approve, or conditionally approve the tentative parcel map. If the Zoning Administrator finds that the map does not meet the requirements of <cite path="26">this title</cite>, he/she shall disapprove, or conditionally approve the map. In case of conditional approval, the Zoning Administrator shall require such changes as are necessary to secure compliance with <cite path="26">this Title</cite>. The action of the Zoning Administrator shall be noted on the tentative parcel map and shall be final unless appealed as herein provided.</text>
-        <text>The Zoning Administrator shall be guided in its review and action by the requirements of Sections <cite path="26.48.060">26.48.060</cite> and <cite path="26.48.070">26.48.070</cite> to the extent they are applicable.</text>
-        <annotations>
-          <annotation type="History">prior code § 139.52</annotation>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§27" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.070</num>
-        <heading>NOTIFICATION.</heading>
-        <text>Notice of the action of the Zoning Administrator shall be reported in writing to the subdivider and the Planning Commission. The report shall be accompanied by a copy of the tentative parcel map, as approved. One copy of the tentative parcel map, accompanying data and report shall remain in the permanent files of the City and one copy of the tentative parcel map and accompanying data and report shall be transmitted to the City engineer. If the approved tentative parcel map varies considerably from the submitted tentative parcel map, the subdivider shall prepare and submit new copies, as approved.</text>
-        <annotations>
-          <annotation type="History">prior code § 139-53</annotation>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§28" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.075</num>
-        <heading>PLANNING COMMISSION AND COUNCIL REVIEW.</heading>
-        <text>If the tentative parcel map is accompanied by an application for a planning approval subject to Planning Commission or Council action pursuant to <cite path="27">Title 27</cite> or site development permit subject to Planning Commission or Council action pursuant to <cite path="23">Title 23</cite>, the tentative map shall not be final with the Zoning Administrator, but shall instead be forwarded by the Zoning Administrator with recommendations to the Commission for action by the Commission on both the tentative parcel map and the planning or site development application, and if required by <cite path="27">Title 27</cite>, forwarding to the Council for its action.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§27" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§31" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.080</num>
-        <heading>WITHDRAWAL.</heading>
-        <text>The provisions of <cite path="26.48.130">Section 26.48.130</cite> of this code shall govern the withdrawal of parcel maps.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§22" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.085</num>
-        <heading>WAIVER OF TENTATIVE PARCEL MAP.</heading>
-        <text>If the City approves a planning action pursuant to <cite path="27">Title 27</cite> subject to a condition that the applicant file and record a parcel map, the City Engineer may waive the preparation and filing of a tentative parcel map if the City Engineer determines that the planning approval has already fulfilled the requirements contained in <cite path="26.56">this chapter</cite> for delineation and disclosure of information about the affected property.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§28" type="History"/>
-        </annotations>
-      </section>
-    </container>
-    <container>
-      <prefix>ARTICLE</prefix>
-      <num>II</num>
-      <heading>FINAL PARCEL MAP</heading>
-      <section>
-        <num>26.56.087</num>
-        <heading>EXPIRATION OF TENTATIVE PARCEL MAPS.</heading>
-        <text>The approval of a tentative parcel map expires if no final parcel map is filed within the time limits specified for expiration of tentative maps by <cite path="26.48.135">Section 26.48.135</cite> of this Code.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§4" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.090</num>
-        <heading>PREPARATION.</heading>
-        <text>The subdivider may cause a final parcel map to be prepared pursuant to the conditions of approval of the tentative map, the provisions of <cite path="26">this title</cite>, and the Subdivision Map Act. The final parcel map, together with the prescribed fees and deposits, shall be filed with the City engineer. The failure to file a final parcel map within the time limit specified in <cite path="26.56">this chapter</cite> or the state Subdivision Map Act, or any extension granted pursuant to <cite path="26.56">this chapter</cite>, shall terminate all proceedings and the approval of the tentative parcel map shall expire. Before a final parcel map may thereafter be recorded, a new tentative parcel map shall be submitted for review pursuant to <cite path="26.56">this chapter</cite>. The final parcel map shall be prepared by a registered civil engineer or licensed land surveyor and shall be based upon a field survey, unless otherwise approved by the City engineer. Return of a map filed within the time period provided by <cite path="26.56">this chapter</cite> or the state Subdivision Map Act in order to correct minor technical deficiencies will not be considered a failure to file within the required time limit if the converted map is filed within 30 days of return to the applicant.</text>
-        <annotations>
-          <annotation type="History">prior code § 139.55</annotation>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1983-20" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§29" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§5" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.110</num>
-        <heading>FORM.</heading>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>Such other information as may be required to fulfill the purposes of <cite path="26">this title</cite> in relation to the particular land to be subdivided, as specified in any list compiled for the purpose.</text>
+        <text>A blank space of suitable size and shape for the certificates, conditions and approval, and other similar items shall be reserved on the title page.</text>
+      </para>
+      <annotations>
+        <annotation type="History">prior code § 139.48</annotation>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1983-3" path="§8" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.030</num>
+      <heading>FILING.</heading>
+      <text>A subdivider wishing to file a tentative parcel map shall submit the map, the required information, and such other material according to <cite path="26.48.030">Section 26.48.030</cite> which shall apply to parcel maps.</text>
+      <annotations>
+        <annotation type="History">prior code § 139.19</annotation>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§16" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.040</num>
+      <heading>DISTRIBUTION.</heading>
+      <text>The zoning administrator shall follow the distribution procedures of <cite path="26.48.040">Section 26.48.040</cite>.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§18" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.050</num>
+      <heading>REPORTS.</heading>
+      <text>Reports from outside agencies and consultants shall be governed by <cite path="26.48.050">Section 26.48.050</cite>.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§20" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.060</num>
+      <heading>ACTION.</heading>
+      <text>On the date set for consideration of the tentative parcel map, the Zoning Administrator shall hear the comments and the opinions of the subdivider and of his or her engineer, and any such other officers, agencies and utilities as may have submitted a report. After giving due consideration to all such reports, recommendations, comments and opinions, the Zoning Administrator shall, if compliance with <cite path="26">this Title</cite> is found, approve, or conditionally approve the tentative parcel map. If the Zoning Administrator finds that the map does not meet the requirements of <cite path="26">this title</cite>, he/she shall disapprove, or conditionally approve the map. In case of conditional approval, the Zoning Administrator shall require such changes as are necessary to secure compliance with <cite path="26">this Title</cite>. The action of the Zoning Administrator shall be noted on the tentative parcel map and shall be final unless appealed as herein provided.</text>
+      <text>The Zoning Administrator shall be guided in its review and action by the requirements of Sections <cite path="26.48.060">26.48.060</cite> and <cite path="26.48.070">26.48.070</cite> to the extent they are applicable.</text>
+      <annotations>
+        <annotation type="History">prior code § 139.52</annotation>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§27" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.070</num>
+      <heading>NOTIFICATION.</heading>
+      <text>Notice of the action of the Zoning Administrator shall be reported in writing to the subdivider and the Planning Commission. The report shall be accompanied by a copy of the tentative parcel map, as approved. One copy of the tentative parcel map, accompanying data and report shall remain in the permanent files of the City and one copy of the tentative parcel map and accompanying data and report shall be transmitted to the City engineer. If the approved tentative parcel map varies considerably from the submitted tentative parcel map, the subdivider shall prepare and submit new copies, as approved.</text>
+      <annotations>
+        <annotation type="History">prior code § 139-53</annotation>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§28" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.075</num>
+      <heading>PLANNING COMMISSION AND COUNCIL REVIEW.</heading>
+      <text>If the tentative parcel map is accompanied by an application for a planning approval subject to Planning Commission or Council action pursuant to <cite path="27">Title 27</cite> or site development permit subject to Planning Commission or Council action pursuant to <cite path="23">Title 23</cite>, the tentative map shall not be final with the Zoning Administrator, but shall instead be forwarded by the Zoning Administrator with recommendations to the Commission for action by the Commission on both the tentative parcel map and the planning or site development application, and if required by <cite path="27">Title 27</cite>, forwarding to the Council for its action.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§27" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§31" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.080</num>
+      <heading>WITHDRAWAL.</heading>
+      <text>The provisions of <cite path="26.48.130">Section 26.48.130</cite> of this code shall govern the withdrawal of parcel maps.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1982-5" path="§22" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.085</num>
+      <heading>WAIVER OF TENTATIVE PARCEL MAP.</heading>
+      <text>If the City approves a planning action pursuant to <cite path="27">Title 27</cite> subject to a condition that the applicant file and record a parcel map, the City Engineer may waive the preparation and filing of a tentative parcel map if the City Engineer determines that the planning approval has already fulfilled the requirements contained in <cite path="26.56">this chapter</cite> for delineation and disclosure of information about the affected property.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§28" type="History"/>
+      </annotations>
+    </section>
+    <subheading>ARTICLE II FINAL PARCEL MAP</subheading>
+    <section>
+      <num>26.56.087</num>
+      <heading>EXPIRATION OF TENTATIVE PARCEL MAPS.</heading>
+      <text>The approval of a tentative parcel map expires if no final parcel map is filed within the time limits specified for expiration of tentative maps by <cite path="26.48.135">Section 26.48.135</cite> of this Code.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§4" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.090</num>
+      <heading>PREPARATION.</heading>
+      <text>The subdivider may cause a final parcel map to be prepared pursuant to the conditions of approval of the tentative map, the provisions of <cite path="26">this title</cite>, and the Subdivision Map Act. The final parcel map, together with the prescribed fees and deposits, shall be filed with the City engineer. The failure to file a final parcel map within the time limit specified in <cite path="26.56">this chapter</cite> or the state Subdivision Map Act, or any extension granted pursuant to <cite path="26.56">this chapter</cite>, shall terminate all proceedings and the approval of the tentative parcel map shall expire. Before a final parcel map may thereafter be recorded, a new tentative parcel map shall be submitted for review pursuant to <cite path="26.56">this chapter</cite>. The final parcel map shall be prepared by a registered civil engineer or licensed land surveyor and shall be based upon a field survey, unless otherwise approved by the City engineer. Return of a map filed within the time period provided by <cite path="26.56">this chapter</cite> or the state Subdivision Map Act in order to correct minor technical deficiencies will not be considered a failure to file within the required time limit if the converted map is filed within 30 days of return to the applicant.</text>
+      <annotations>
+        <annotation type="History">prior code § 139.55</annotation>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1983-20" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§29" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§5" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.110</num>
+      <heading>FORM.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The final parcel map shall comply with all provisions of the Subdivision Map Act and shall be clearly and legibly drawn on tracing cloth or polyester base film. All lines, letters, figures, certificates, acknowledgments and signatures shall be made in a process guaranteeing a permanent record in black.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The size of each sheet shall be eighteen by twenty-six inches.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>A border line shall be drawn completely around each sheet leaving an entirely blank margin of one inch on all sides.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The scale of the map shall be the same as on the approved tentative parcel map and shall clearly show all details of the subdivision.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Each sheet shall be numbered, the relation of one sheet to another shall be clearly shown, and the total number of sheets shall be set forth on each sheet, and when the final parcel map consists of more than two sheets, a key map showing the relationship of sheets shall be included on sheet number one.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The tract name and number, if any, scale, and northpoint shall be shown on each sheet.</text>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>The map shall be so made and shall be in such condition when filed that clear legible prints and negatives can be made therefrom.</text>
+      </para>
+      <annotations>
+        <annotation type="History">prior code § 139.57</annotation>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§30" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.120</num>
+      <heading>TITLE SHEET.</heading>
+      <text>The title sheet shall be page number one and shall contain the following information:</text>
+      <para>
+        <num>(1)</num>
+        <text>Title, which shall contain a description of the parcel or parcels followed by the words "City of San Mateo, San Mateo County, California" and the parcel map number assigned by the department of public works;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>References to tracts and subdivisions in the description shall be worded identically with the original record, and references to book and page of records shall be complete;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Affidavits, certificates, acknowledgements, endorsements, references to soils and geologists' reports, acceptances, dedications, statements, and notarial seals required by law and by <cite path="26">this Title</cite>, including the following certificates in addition to the requirements of the Subdivision Map Act:</text>
         <para>
           <num>(a)</num>
-          <text>The final parcel map shall comply with all provisions of the Subdivision Map Act and shall be clearly and legibly drawn on tracing cloth or polyester base film. All lines, letters, figures, certificates, acknowledgments and signatures shall be made in a process guaranteeing a permanent record in black.</text>
+          <text>City Engineer's Certificate. A certificate for execution by the City Engineer stating that the map conforms with the requirements of the Subdivision Map Act and local ordinance; and</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The size of each sheet shall be eighteen by twenty-six inches.</text>
+          <text>Consent and Acceptance. A certificate for execution by the City Engineer that he or she accepts the dedications shown on the map, and consents to the recordation thereof.</text>
         </para>
-        <para>
-          <num>(c)</num>
-          <text>A border line shall be drawn completely around each sheet leaving an entirely blank margin of one inch on all sides.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>The scale of the map shall be the same as on the approved tentative parcel map and shall clearly show all details of the subdivision.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Each sheet shall be numbered, the relation of one sheet to another shall be clearly shown, and the total number of sheets shall be set forth on each sheet, and when the final parcel map consists of more than two sheets, a key map showing the relationship of sheets shall be included on sheet number one.</text>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>The tract name and number, if any, scale, and northpoint shall be shown on each sheet.</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>The map shall be so made and shall be in such condition when filed that clear legible prints and negatives can be made therefrom.</text>
-        </para>
-        <annotations>
-          <annotation type="History">prior code § 139.57</annotation>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§30" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.120</num>
-        <heading>TITLE SHEET.</heading>
-        <text>The title sheet shall be page number one and shall contain the following information:</text>
-        <para>
-          <num>(1)</num>
-          <text>Title, which shall contain a description of the parcel or parcels followed by the words "City of San Mateo, San Mateo County, California" and the parcel map number assigned by the department of public works;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>References to tracts and subdivisions in the description shall be worded identically with the original record, and references to book and page of records shall be complete;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Affidavits, certificates, acknowledgements, endorsements, references to soils and geologists' reports, acceptances, dedications, statements, and notarial seals required by law and by <cite path="26">this Title</cite>, including the following certificates in addition to the requirements of the Subdivision Map Act:</text>
-          <para>
-            <num>(a)</num>
-            <text>City Engineer's Certificate. A certificate for execution by the City Engineer stating that the map conforms with the requirements of the Subdivision Map Act and local ordinance; and</text>
-          </para>
-          <para>
-            <num>(b)</num>
-            <text>Consent and Acceptance. A certificate for execution by the City Engineer that he or she accepts the dedications shown on the map, and consents to the recordation thereof.</text>
-          </para>
-        </para>
-        <annotations>
-          <annotation type="History">prior code § 139.58</annotation>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§30" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§31" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.125</num>
-        <heading>SURVEY REQUIREMENTS.</heading>
-        <text>A complete and accurate survey meeting the requirements of <cite path="26.52.060">Section 26.52.060</cite> shall be completed before the final parcel map is filed with the City Engineer.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§32" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.130</num>
-        <heading>FILING.</heading>
-        <text>The filing of the final parcel map with the City Engineer shall include:</text>
-        <para>
-          <num>(1)</num>
-          <text>Three (3) complete sets of blueline or black and white prints of the final parcel map for checking purposes;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A statement that all improvements have been completed in accordance with the plans and specifications as approved by the City Engineer, or that the subdivider intends to install such improvements and will enter into an agreement with the City guaranteeing the future installation of such improvements;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>If the plans, profiles, cross sections, and the specifications for the required subdivision improvements have not been previously submitted and approved by the City Engineer, the subdivider shall submit those;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Three (3) copies of all covenants and restrictions, if any;</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>A completed checklist as provided by the City Engineer accompanied by all required fees; and</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>A preliminary guarantee of title from a competent title company dated within thirty (30) days of the date of the filing, certifying that the signatures of all persons whose consent is necessary to pass clear title to the land being subdivided appear on the proper certificates and are correctly shown on said map, both as to consents to the making of the map and affidavits of dedication if applicable. This guarantee shall be offered for the benefit of the City and the protection of the Council and City employees, officers, boards, and commissions, and shall be continued up to the instant of recordation of the map.</text>
-        </para>
-        <annotations>
-          <annotation type="History">prior code § 139.59</annotation>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§33" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.135</num>
-        <heading>INFORMATION REQUIRED.</heading>
-        <text>The final parcel map shall show clearly and legibly the same information, as applicable, as required for a final subdivision map by <cite path="26.52.050">Section 26.52.050</cite>.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§34" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.140</num>
-        <heading>DEPARTMENTAL REVIEW.</heading>
-        <text>Upon receiving the final parcel map from the subdivider, the City Engineer will review it for the following:</text>
-        <para>
-          <num>(a)</num>
-          <text>Sufficiency of affidavits and acknowledgements;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Adequacy of the survey data, mathematical data, and computations;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Conformance to the tentative parcel map, if any, and applicable approval conditions; and</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Sufficiency and adequacy of public utility easements as evidenced by certifications by the affected public or private utilities.</text>
-          <text>One copy of the final parcel map will be returned to the subdivider with notations as to errors and omissions, if any. The subdivider shall then be responsible for filing a corrected final parcel map if and when the subdivider makes the corrections. Upon approval of the final parcel map by the City Engineer, the City Engineer will notify the subdivider, the City Engineer will certify his or her approval of the final parcel map on the original tracing and the blueline cloth print of the map, and cause it to be recorded as set forth below.</text>
-        </para>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§35" type="History"/>
-        </annotations>
-      </section>
-      <section>
-        <num>26.56.150</num>
-        <heading>RECORDING.</heading>
-        <text>Upon execution of the certificate of the City Engineer, the City Engineer will have the final map delivered to the County Recorder for recordation. The subdivider shall pay all actual costs of delivery and recordation. The subdivider shall ensure that one complete set of blueline prints on cloth, and one set of reproducible photo mylar tracings or equivalent process are provided to the City Engineer no later than thirty (30) days after recordation, and the subdivider shall be responsible for all costs incurred in the provision of these sets. The subdivider shall also provide two (2) copies of any covenants, conditions, and restrictions that have been recorded and relate to the parcel map to the City Engineer no later than that time.</text>
-        <annotations>
-          <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§36" type="History"/>
-        </annotations>
-      </section>
-    </container>
+      </para>
+      <annotations>
+        <annotation type="History">prior code § 139.58</annotation>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1985-24" path="§30" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§31" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.125</num>
+      <heading>SURVEY REQUIREMENTS.</heading>
+      <text>A complete and accurate survey meeting the requirements of <cite path="26.52.060">Section 26.52.060</cite> shall be completed before the final parcel map is filed with the City Engineer.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§32" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.130</num>
+      <heading>FILING.</heading>
+      <text>The filing of the final parcel map with the City Engineer shall include:</text>
+      <para>
+        <num>(1)</num>
+        <text>Three (3) complete sets of blueline or black and white prints of the final parcel map for checking purposes;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A statement that all improvements have been completed in accordance with the plans and specifications as approved by the City Engineer, or that the subdivider intends to install such improvements and will enter into an agreement with the City guaranteeing the future installation of such improvements;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If the plans, profiles, cross sections, and the specifications for the required subdivision improvements have not been previously submitted and approved by the City Engineer, the subdivider shall submit those;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Three (3) copies of all covenants and restrictions, if any;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>A completed checklist as provided by the City Engineer accompanied by all required fees; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>A preliminary guarantee of title from a competent title company dated within thirty (30) days of the date of the filing, certifying that the signatures of all persons whose consent is necessary to pass clear title to the land being subdivided appear on the proper certificates and are correctly shown on said map, both as to consents to the making of the map and affidavits of dedication if applicable. This guarantee shall be offered for the benefit of the City and the protection of the Council and City employees, officers, boards, and commissions, and shall be continued up to the instant of recordation of the map.</text>
+      </para>
+      <annotations>
+        <annotation type="History">prior code § 139.59</annotation>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1969-8" path="§1" type="History"/>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§33" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.135</num>
+      <heading>INFORMATION REQUIRED.</heading>
+      <text>The final parcel map shall show clearly and legibly the same information, as applicable, as required for a final subdivision map by <cite path="26.52.050">Section 26.52.050</cite>.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§34" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.140</num>
+      <heading>DEPARTMENTAL REVIEW.</heading>
+      <text>Upon receiving the final parcel map from the subdivider, the City Engineer will review it for the following:</text>
+      <para>
+        <num>(a)</num>
+        <text>Sufficiency of affidavits and acknowledgements;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Adequacy of the survey data, mathematical data, and computations;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Conformance to the tentative parcel map, if any, and applicable approval conditions; and</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Sufficiency and adequacy of public utility easements as evidenced by certifications by the affected public or private utilities.</text>
+        <text>One copy of the final parcel map will be returned to the subdivider with notations as to errors and omissions, if any. The subdivider shall then be responsible for filing a corrected final parcel map if and when the subdivider makes the corrections. Upon approval of the final parcel map by the City Engineer, the City Engineer will notify the subdivider, the City Engineer will certify his or her approval of the final parcel map on the original tracing and the blueline cloth print of the map, and cause it to be recorded as set forth below.</text>
+      </para>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§35" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>26.56.150</num>
+      <heading>RECORDING.</heading>
+      <text>Upon execution of the certificate of the City Engineer, the City Engineer will have the final map delivered to the County Recorder for recordation. The subdivider shall pay all actual costs of delivery and recordation. The subdivider shall ensure that one complete set of blueline prints on cloth, and one set of reproducible photo mylar tracings or equivalent process are provided to the City Engineer no later than thirty (30) days after recordation, and the subdivider shall be responsible for all costs incurred in the provision of these sets. The subdivider shall also provide two (2) copies of any covenants, conditions, and restrictions that have been recorded and relate to the parcel map to the City Engineer no later than that time.</text>
+      <annotations>
+        <annotation doc="City of San Mateo, Cal., Ord. No. 1990-12" path="§36" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
