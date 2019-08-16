@@ -1,0 +1,484 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Legis. Drafting Manual">
+  <heading>City of San Mateo Legislative Drafting Manual</heading>
+  <meta>
+    <effective>2019-07-01</effective>
+  </meta>
+  <text>The purpose of this guide is to provide a uniform style and thoughtful/necessary considerations for drafting City of San Mateo Municipal Codes and Ordinances.  Our goal is to inform staff with little previous experience, and assist those who have had some experience collaborating with departments and the City Attorney's office.</text>
+  <section>
+    <num>1</num>
+    <heading>Division of Responsibilities.</heading>
+    <para>
+      <num>(a)</num>
+      <text>Department staff responsible for the ordinance should work with the attorney assigned to their department to complete the project.  The department staff shall describe the goals of the project and explain the concepts to be incorporated into the ordinance. Generally, it will be the responsibility of the attorney to draft the ordinance.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In any code amendment, the drafter shall take time to eliminate duplicative provisions in a particular chapter, section, or subsection.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The drafter shall consider powers and duties of boards, commissions, or officers, as defined, and if new responsibility is proposed, appropriate amendment should be made.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>The City Clerk's Office is responsible for the final formatting of all ordinances and for the publication of ordinances, or ordinance summaries, as required by the city's charter.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>General Formatting Guidelines.</heading>
+    <text/>
+    <para>
+      <num>(a)</num>
+      <text>Page layout.</text>
+      <para>
+        <num>(1)</num>
+        <text>Top, Left, &amp; Right margins at .75, Bottom at .50</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Text is formatted to be ragged right.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Font is Calibri at 12 pt.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>A blank line shall follow each paragraph.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Page numbers shall be at the top of all pages starting on page 2, Calibri Italic, 12 point, .50 margin from the top, left &amp; right margins at .75 as follows:</text>
+        <include>
+          <text proof="needed">
+            <em>Ordinance No. YYYY-#</em>
+          </text>
+          <text proof="needed">
+            <em>
+              <u>Title of Ordinance Page # of #</u>
+            </em>
+          </text>
+        </include>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Grammar, Punctuation, Capitalization.</heading>
+      <para>
+        <num>(1)</num>
+        <text>"Title", "Chapter", "Article", and "Section" shall be capitalized. Subsection shall be lower-case.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Capitalize "City Council" and "City" if referring to City of San Mateo; "Code" when referring to City of San Mateo Municipal Code; "County" when referring to San Mateo County; "State" when referring to the State of California; "Federal" when referring to the United States.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Titles of Federal, State, or County codes and agencies shall be capitalized, such as Vehicle Code, Subdivision Map Act, or Board of Supervisors.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Commas shall be used to separate all items in a series: "planes, trains, and automobiles"; "tax, fee, or assessment".</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Numbers from 1-99 will be written out: two (2), ninety-nine (99). Numbers over 99 are written as numbers such as 115. Spell out fractions like one-fourth but keep decimals as numbers like 3.25 or .015.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Time of day will be: 11:30 p.m., 12 Noon, 1:15 a.m.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Abbreviations should be avoided, type "square feet" not "sq. ft."</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Citations.</heading>
+      <para>
+        <num>(1)</num>
+        <text>All citations shall follow the California Style Manual Fourth Edition (<a href="http://www.sdap.org/downloads/Style-Manual.pdf">http://www.sdap.org/downloads/Style-Manual.pdf</a>). If this manual conflicts with the California Style Manual, this manual will control.  The following may be used for City of San Mateo documents:</text>
+        <para>
+          <num>(A)</num>
+          <heading>City of San Mateo Municipal Code:</heading>
+          <text>"the City Code", or "the San Mateo Municipal Code", or "this Code" (as applicable).</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>City Charter of the City of San Mateo:</heading>
+          <text>"the City Charter", or "this Charter" (as applicable);</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>City of San Mateo Ordinance:</heading>
+          <text>"Ord. No. YYYY-XX" or "this Ordinance" (as applicable);</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <heading>City of San Mateo Resolution:</heading>
+          <text>"Resolution No. XX (YYYY)</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Drafting Terms and Phrases.</text>
+      <para>
+        <num>(1)</num>
+        <text>Only "shall" is enforceable. Neither "must" nor "will" shall be used to indicate imperative.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All references to an obligation by the City or by an employee or an officer of the City shall use the term "may".</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>If a particular section or chapter is to be criminally enforceable, that section or at least one section in the chapter has to provide language as follows: "It is unlawful…" or "No person shall…".</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Remember that the heading of an ordinance, such as "Density Limit" or "Tax To Be Paid", is not a part of an ordinance itself, so if that heading wording is to be part of the ordinance, it has to be placed in the text itself.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>Proposal must account for general definitions found in the title itself; often those definitions, which are binding on all sections in the title, will alter the meaning that the drafter intended.  For example, lot is defined as a creation under the Subdivision Map Act in <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>, but it is often used to mean any unit of land.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Subsections.</heading>
+      <para>
+        <num>(1)</num>
+        <heading>Titles.</heading>
+        <para>
+          <num>(A)</num>
+          <text>Titles are optional.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Titles shall be sentence cased and end with a period or colon.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Titles, including terminating punctuation shall be bold.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Subsection text shall continue on the same line as the title.</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Numbered subsections.</heading>
+        <text>Numbered subsections shall have a first line indent of 0.5" and be numbered and left indented according to the following sequence:</text>
+        <para>
+          <num>(A)</num>
+          <text>consecutive lower-case letters with left indent of 0";</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>consecutive Arabic numerals with left indent of 0.5";</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>consecutive upper-case letters with left indent of 1"; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>consecutive lower-case Roman numerals with left indent of 1.5".</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>consecutive upper-case Roman numerals with left indent of 2".</text>
+        </para>
+        <aftertext proof="needed">Where each number is of the format "(&lt;para num&gt;)" with a trailing space.</aftertext>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Unnumbered subsections.</heading>
+        <para>
+          <num>(A)</num>
+          <text>Unnumbered subsections belonging to a section shall have a 0" left indent and a 0" first line indent.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Unnumbered subsections belonging to a numbered subsection shall be indented to match the numbered subsection.</text>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Lists.</heading>
+        <text>When a series of subsections are to be construed together as a list, all except the last shall end with a semicolon. A conjunction, such as "or" or "and" shall be placed after the semicolon of the next-to-last subsection. The last subsection shall end with a period.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Code guidelines.</heading>
+    <text/>
+    <para>
+      <num>(a)</num>
+      <heading>Titles.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Titles shall be numbered with sequential Arabic numerals: "Title &lt;title num&gt;".</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Title num and title shall be centered and bold.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Chapters.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Chapters shall be numbered with two zero-padded sequential Arabic numerals: "Chapter &lt;title num&gt;.&lt;chapter num&gt;".</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Chapter num and title shall be centered and bold.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Chapters shall not include a table of contents.</text>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>Articles.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Articles shall be numbered with two zero-padded sequential Arabic numerals: "Article &lt;article num&gt;".</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Article num and title shall be centered and bold.</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Sections.</heading>
+      <para>
+        <num>(1)</num>
+        <text>Sections shall be numbered with three zero-padded Arabic numerals in sequential multiples of ten: "&lt;title num&gt;.&lt;chapter num&gt;.&lt;section num&gt;".</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A title case title is required without a trailing period.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Section num and title shall be bold.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Section text shall start on a new line following the title.</text>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Citations.</heading>
+      <para>
+        <num>(1)</num>
+        <text>There shall be no reference in the Code to an Ordinance.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Statutes of the State or Federal government may be referred to when, and only when, they are not to be codified.  For example, the City's tidelands trust grant is in a statute that will not be codified; however, laws regarding State redevelopment will almost always be codified in either the <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite> or the <cite doc="Cal. Health &amp; Safety Code" proof="needed">Health and Safety Code</cite>.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Ordinance guidelines.</heading>
+    <text/>
+    <para>
+      <num>(a)</num>
+      <text>Banner and Title.</text>
+      <para>
+        <num>(1)</num>
+        <text>The banner and title shall be in the following form:</text>
+        <include>
+          <text>
+            <center>"<strong>CITY OF SAN MATEO"</strong></center>
+          </text>
+          <text>
+            <center>"<strong>ORDINANCE NO. YYYY-XX"</strong></center>
+          </text>
+          <text>
+            <center><strong>"&lt;Title&gt;</strong>"</center>
+          </text>
+        </include>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The title shall be in title-case and start with an action (Adopt, Add, Repeal, Amend) followed by municipal code section, chapter number, then title in quotations.  The title shall provide a succinct unbiased description of the contents of the ordinance.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>Recitals.</heading>
+      <text>Leading conjunctions shall be all-caps and un-bolded. The last recital shall be followed by:</text>
+      <include>
+        <text>NOW, THEREFORE, THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+      </include>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Sections.</text>
+      <para>
+        <num>(1)</num>
+        <text>Sections shall be numbered with sequential Arabic numerals and a trailing period: "Section &lt;section num&gt;.".</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Titles.</heading>
+        <para>
+          <num>(A)</num>
+          <text>A section title is optional.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Titles shall be sentence-case and end with a period or colon.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Titles, including terminating punctuation shall be bold.</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Section num and title (if present) shall be bold.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Text shall continue on same line as the section number.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <heading>Mandatory Sections.</heading>
+        <text>The following sections shall be included as the last four sections of every ordinance:</text>
+        <para>
+          <num>(A)</num>
+          <heading>Environmental Determination.</heading>
+          <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section XXXXX(x)(x), this action….</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Severability.</heading>
+          <text>In the event any section, clause or provision of <cite doc="City of San Mateo, Cal., Code" path="4">this chapter</cite> shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Publication.</heading>
+          <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <heading>Legislative History and Effective Date.</heading>
+          <text>This Ordinance was introduced on Month date, year, and adopted on Month date, year, and shall be effective 30 days after its date of adoption.</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>City Clerk will insert Vote, Attest, Signature Block as follows:</text>
+          <include>
+            <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+            <text>AYES: XXX, YYY, and ZZZ</text>
+            <text>NOES: None</text>
+            <text>ABSENT: None</text>
+            <text>ATTEST:</text>
+            <text>______________________________ ______________________________</text>
+            <text>Patrice M. Olds, City Clerk Diane Papan</text>
+          </include>
+        </para>
+      </para>
+      <para>
+        <num>(6)</num>
+        <heading>Conforming Amendments.</heading>
+        <text>If conforming amendments are required, they shall be included in the ultimate section before the Mandatory Sections defined in subsection (5).</text>
+      </para>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>Amendatory language.</heading>
+      <text>Ordinances shall use the following language to effectuate amendments to the code:</text>
+      <para>
+        <num>(1)</num>
+        <heading>Chapter.</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Add:</heading>
+          <text>'Chapter XX.YY of the San Mateo Municipal Code is added to Title XX as follows:'</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Repeal:</heading>
+          <text>'Chapter XX.YY of the San Mateo Municipal Code is repealed.'</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Amend:</heading>
+          <text>Amendment of a Chapter in its entirety is prohibited. Instead create, amend, and repeal the appropriate sections. To amend a chapter title: 'The title of Chapter XX.YY of the San Mateo Municipal Code is amended as follows: "Chapter Title".'</text>
+        </para>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Section.</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Add:</heading>
+          <text>When inserting a section between two existing sections, the section should use the number closest to the midpoint between the numbers of the neighboring sections. 'Section XX.YY.ZZZ of the San Mateo Municipal Code is added to Chapter XX.YY as follows:'</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Repeal:</heading>
+          <text>'Section XX.YY.ZZZ of the San Mateo Municipal Code is repealed.'</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Amend:</heading>
+          <text>'Section XX.YY.ZZZ of the San Mateo Municipal Code is amended as follows:'</text>
+        </para>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Subsection.</heading>
+        <para>
+          <num>(A)</num>
+          <heading>Add:</heading>
+          <text>'Subsection (AA)(…) of Section XX.YY.ZZZ of the San Mateo Municipal Code is added to Section XX.YY.ZZZ(…) as follows:'</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <heading>Repeal:</heading>
+          <text>'Subsection (AA)(…) of Section XX.YY.ZZZ of the San Mateo Municipal Code is repealed.'</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <heading>Amend:</heading>
+          <text>'Subsection (AA)(…) of Section XX.YY.ZZZ of the San Mateo Municipal Code is amended as follows:'</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <heading>Amendment of existing code.</heading>
+      <text>When an existing section of the code that does not conform to this manual is amended, the section shall be amended in its entirety to bring it into conformance with this manual.</text>
+    </para>
+  </section>
+</document>
