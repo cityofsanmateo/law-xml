@@ -436,7 +436,7 @@
             <num>(xx)</num>
             <text><strong>"Native plant"</strong> means a plant indigenous to a specific area of consideration. For the purposes of these guidelines, the term shall refer to plants indigenous to the coastal ranges of Central and Northern California, and more specifically to such plants that are suited to the ecology of the present or historic natural community (ies) of the project's vicinity.</text>
           </para>
-          <para proof="needed">
+          <para proof="done">
             <num>(aaa)</num>
             <text><strong>"New construction"</strong> means, for the purposes of <cite doc="City of San Mateo, Cal., Code" path="23.72">this chapter</cite>, a new building with landscape, or other new landscape such as a park, playground, or greenbelt without an associated building.</text>
           </para>
@@ -524,7 +524,7 @@
             <num>(vvv)</num>
             <text><strong>"Static water pressure"</strong> means the pipeline or municipal water supply pressure when water is not flowing.</text>
           </para>
-          <para proof="needed">
+          <para proof="done">
             <num>(aaaa)</num>
             <text><strong>"Station"</strong> means an area served by one valve or by a set of valves that operate simultaneously.</text>
           </para>
@@ -799,9 +799,7 @@
           <para>
             <num>(h)</num>
             <text>Estimated total water use (ETWU) will be calculated using the equation below. The sum of the ETWU calculated for all hydrozones will not exceed the MAWA.</text>
-            <text>
-              <center>ETWU = (ETo)(0.62)<strong>(</strong><u>PF x HA</u><strong>)</strong> + SLA]</center>
-            </text>
+            <text class="center">ETWU = (ETo)(0.62)<strong>(</strong><u>PF x HA</u><strong>)</strong> + SLA]</text>
             <text>IE</text>
             <text>Where:</text>
             <text>ETWU= Estimated Total Water Use per year (gallons)</text>
@@ -1436,7 +1434,7 @@
             <num>(a)</num>
             <text>Implementing stormwater best management practices into the landscape and grading design plans to minimize runoff and to increase on-site rainwater retention and infiltration are required and must be consistent with City stormwater management requirements.</text>
           </para>
-          <para proof="needed">
+          <para proof="done">
             <num>(a)</num>
             <text>Project Applicants shall refer to the local agency or Regional Water Quality Control Board for information on any applicable stormwater technical requirements.</text>
           </para>
@@ -1553,7 +1551,7 @@
             <num>(a)</num>
             <text>All model homes that are landscaped shall use signs and written information to demonstrate the principals of water-efficient landscapes that are described in <cite doc="City of San Mateo, Cal., Code" path="23.72">this Chapter</cite>.</text>
           </para>
-          <para proof="needed">
+          <para proof="done">
             <num>(a)</num>
             <text>Signs must be used to identify the model as an example of a water efficient landscape featuring elements such as hydrozones, irrigation equipment, and others that contribute to the overall water efficient theme. Signage shall include information about site water use as designed per the local ordinance; specify who designed and installed the water efficient landscape; and demonstrate low water use approaches to landscaping such as using native plants, graywater systems, and rainwater catchment systems. Information must be included about designing, installing, managing, and maintaining water efficient landscapes.</text>
           </para>

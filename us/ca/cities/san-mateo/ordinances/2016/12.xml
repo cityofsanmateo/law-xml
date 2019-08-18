@@ -434,7 +434,7 @@
               <text>Having occupied floors located more than 40 feet above grade at the lowest floor level of exit discharge.</text>
             </para>
             <text>Exceptions:</text>
-            <para proof="needed">
+            <para proof="done">
               <num>1.</num>
               <text>Open parking garages.</text>
             </para>
@@ -632,36 +632,24 @@ HYDRANT TO ANY POINT ON STREET OR ROADWAY FRONTAGE (Ft.)</th>
     </text>
     <text>ATTEST:</text>
   </section>
-  <text>
-    <center>
-      <strong>Exhibit A</strong>
-    </center>
+  <text class="center">
+    <strong>Exhibit A</strong>
   </text>
-  <text>
-    <center>
-      <strong>NECESSARY MODIFICATIONS TO THE</strong>
-    </center>
+  <text class="center">
+    <strong>NECESSARY MODIFICATIONS TO THE</strong>
   </text>
-  <text>
-    <center>
-      <strong>2016 CALIFORNIA FIRE CODE DUE TO LOCAL CONDITIONS</strong>
-    </center>
+  <text class="center">
+    <strong>2016 CALIFORNIA FIRE CODE DUE TO LOCAL CONDITIONS</strong>
   </text>
-  <text>
-    <center>
-      <strong>INTRODUCTION</strong>
-    </center>
+  <text class="center">
+    <strong>INTRODUCTION</strong>
   </text>
   <text>City of San Mateo Ordinance 2016-XX contains amendments, deletions and additions to provisions reproduced in the 2016 California Fire Code.  The modifications to the building standards contained in Fire Code are reasonably necessary because of the climatic, geologic, and topographic conditions found within the City. In accordance with <cite doc="Cal. Health &amp; Safety Code" proof="needed">Health and Safety Code</cite> Sections <cite doc="Cal. Health &amp; Safety Code" path="§13869.7">13869.7</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite>, and <cite doc="Cal. Health &amp; Safety Code" path="§18941.5">18941.5</cite>, this document describes the climatic, geologic, and topographic conditions in the City and the specific modifications to building standards determined by the City to be necessary due to particular local conditions.</text>
-  <text>
-    <center>
-      <strong>PART I:</strong>
-    </center>
+  <text class="center">
+    <strong>PART I:</strong>
   </text>
-  <text>
-    <center>
-      <strong>LOCAL CONDITIONS</strong>
-    </center>
+  <text class="center">
+    <strong>LOCAL CONDITIONS</strong>
   </text>
   <para>
     <num>A.</num>
@@ -710,15 +698,11 @@ HYDRANT TO ANY POINT ON STREET OR ROADWAY FRONTAGE (Ft.)</th>
       </para>
     </para>
   </para>
-  <text>
-    <center>
-      <strong>PART II:</strong>
-    </center>
+  <text class="center">
+    <strong>PART II:</strong>
   </text>
-  <text>
-    <center>
-      <strong>FINDINGS FOR SPECIFIC MODIFICATIONS TO BUILDING STANDARDS</strong>
-    </center>
+  <text class="center">
+    <strong>FINDINGS FOR SPECIFIC MODIFICATIONS TO BUILDING STANDARDS</strong>
   </text>
   <para>
     <num>A.</num>

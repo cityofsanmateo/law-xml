@@ -180,8 +180,8 @@
           <num>(2)</num>
           <heading>Buildings Previously Occupied.</heading>
           <text>The legal occupancy of any existing building on the date of adoption of this code shall be permitted to continue without change, except otherwise specifically provided in the Building Code, Existing Building Code, Property Maintenance Code or the Fire Code or as is deemed necessary by the building official for the general safety and welfare of the occupants and the public.</text>
-          <text>A change in the use or occupancy of any existing building or structure shall comply with the provisions of <cite path="23.09">Chapter 23.09</cite> of this code.</text>
         </para>
+        <aftertext proof="needed">A change in the use or occupancy of any existing building or structure shall comply with the provisions of Chapter 23.09 of this code.</aftertext>
       </para>
       <para>
         <num>(c)</num>
@@ -356,8 +356,8 @@
         <num>(a)</num>
         <heading>General.</heading>
         <text>The building official is hereby authorized and directed to enforce all the provisions of this code and the referred technical codes. For such purposes, the building official shall have the powers of a law enforcement officer.</text>
-        <text>The building official shall have the power to render interpretations of this code and the referenced technical codes, and to adopt and enforce rules and regulations supplemental to this code as may be deemed necessary to clarify the application of the provisions of this code. Such interpretations, rules and regulations shall be in conformity with the intent and purpose of this code.</text>
       </para>
+      <aftertext proof="needed">The building official shall have the power to render interpretations of this code and the referenced technical codes, and to adopt and enforce rules and regulations supplemental to this code as may be deemed necessary to clarify the application of the provisions of this code. Such interpretations, rules and regulations shall be in conformity with the intent and purpose of this code.</aftertext>
       <para>
         <num>(b)</num>
         <heading>Deputies.</heading>
@@ -387,9 +387,9 @@
         <num>(g)</num>
         <heading>Authority to Condemn Building Service Equipment.</heading>
         <text>When the building official ascertains that building service equipment regulated in the technical codes has become hazardous to life, health or property, or has become unsanitary, the building official shall order in writing that such equipment either be removed or restored to a safe or sanitary condition, as appropriate. The written notice itself shall fix a time limit for compliance with such order. Defective building service equipment shall not be maintained after receiving such notice.</text>
-        <text>When such equipment or installation is to be disconnected, a written notice of such disconnection and causes therefore shall be given within 24 hours to the serving utility, the owner and occupant of such building, structure or premises.</text>
-        <text>When any building service equipment is maintained in violation of the technical codes and in violation of a notice issued pursuant to the provisions of this section, the building official shall institute appropriate action to prevent, restrain, correct or abate the violation.</text>
       </para>
+      <aftertext proof="needed">When such equipment or installation is to be disconnected, a written notice of such disconnection and causes therefore shall be given within 24 hours to the serving utility, the owner and occupant of such building, structure or premises.</aftertext>
+      <aftertext proof="needed">When any building service equipment is maintained in violation of the technical codes and in violation of a notice issued pursuant to the provisions of this section, the building official shall institute appropriate action to prevent, restrain, correct or abate the violation.</aftertext>
       <para>
         <num>(h)</num>
         <heading>Connection after Order to Disconnect.</heading>
@@ -399,8 +399,8 @@
         <num>(i)</num>
         <heading>Liability.</heading>
         <text>The building official charged with the enforcement of this code and the technical codes, acting in good faith and without malice in the discharge of his duties, shall not thereby be rendered personally liable for damage that may accrue to persons or property as a result of an act or omission in the discharge of the assigned duties. A suit brought against the building official or any City employee because of such act or omission performed by the building official or employee in the enforcement of the provisions of such codes or other pertinent laws or ordinances implemented through the enforcement of this code or enforced by the code enforcement agency shall be defended by this jurisdiction until final termination of such proceedings, and any judgment resulting there from, shall be assumed by this jurisdiction.</text>
-        <text>This code shall not be construed to relieve from or lessen the responsibility of any person owning, operating or controlling a building, structure or building service equipment therein for damages to persons or property caused by defects, nor shall the code enforcement agency or the City be held as assuming such liability by reason of the inspections authorized by this code or permits or the certificates issued under this code.</text>
       </para>
+      <aftertext proof="needed">This code shall not be construed to relieve from or lessen the responsibility of any person owning, operating or controlling a building, structure or building service equipment therein for damages to persons or property caused by defects, nor shall the code enforcement agency or the City be held as assuming such liability by reason of the inspections authorized by this code or permits or the certificates issued under this code.</aftertext>
       <para>
         <num>(j)</num>
         <heading>Cooperation of Other Officials and Officers.</heading>
@@ -609,8 +609,8 @@
           <para>
             <num>(xiii)</num>
             <text>Non-fixed and movable fixtures, cases, racks, counters and partitions not over five feet nine inches (1,753 mm) in height.</text>
-            <text>Unless otherwise exempted by this code, separate plumbing, electrical and mechanical permits will be required for the above exempted items.</text>
           </para>
+          <aftertext proof="needed">Unless otherwise exempted by this code, separate plumbing, electrical and mechanical permits will be required for the above exempted items.</aftertext>
         </para>
         <para>
           <num>(2)</num>
@@ -732,14 +732,14 @@
         <num>(b)</num>
         <heading>Submittal Documents.</heading>
         <text>Plans, specifications, engineering calculations, diagrams, soil investigation reports, special inspection and structural observation programs and other data shall constitute the submittal documents and shall be submitted in one or more sets with each application for a permit. When such plans are not prepared by an architect or engineer, the building official may require the applicant submitting such plans or other data to demonstrate that State law does not require that the plans be prepared by a licensed architect or engineer. The building official may require plans, computations and specifications to be prepared and designed by an engineer or architect licensed by the State to practice as such even if not required by State law.</text>
-        <text><strong>Exception: </strong>The building official may waive the submission of plans, calculations, construction inspection requirements and other data if it is found that the nature of the work applied for is such that reviewing of plans is not necessary to obtain compliance with this code.</text>
       </para>
+      <aftertext proof="needed"><strong>Exception: </strong>The building official may waive the submission of plans, calculations, construction inspection requirements and other data if it is found that the nature of the work applied for is such that reviewing of plans is not necessary to obtain compliance with this code.</aftertext>
       <para>
         <num>(c)</num>
         <heading>Information on Plans and Specifications.</heading>
         <text>Plans and specifications shall be drawn to scale on substantial paper or cloth and shall be of sufficient clarity to indicate the location, nature and extent of the work proposed and show in detail that it will conform to the provisions of this code and all relevant laws, ordinances, rules and regulations.</text>
-        <text>Plans for buildings of other than Group R, Division 3 and Group U Occupancies shall indicate how required structural and fire-resistive integrity will be maintained where penetrations will be made for electrical, mechanical, plumbing and communication conduits, pipes and similar systems.</text>
       </para>
+      <aftertext proof="needed">Plans for buildings of other than Group R, Division 3 and Group U Occupancies shall indicate how required structural and fire-resistive integrity will be maintained where penetrations will be made for electrical, mechanical, plumbing and communication conduits, pipes and similar systems.</aftertext>
       <para>
         <num>(d)</num>
         <heading>Architect or Engineer of Record.</heading>
@@ -747,23 +747,23 @@
           <num>(1)</num>
           <heading>General.</heading>
           <text>When it is required that documents be prepared by an architect or engineer, the building official may require the owner to engage and designate on the building permit application an architect or engineer who shall act as the architect or engineer of record. If the circumstances require, the owner may designate a substitute architect or engineer of record who shall perform all the duties required of the original architect or engineer of record. The building official shall be notified in writing by the owner if the architect or engineer of record is changed or is unable to continue to perform the duties.</text>
-          <text>The architect or engineer of record shall be responsible for reviewing and coordinating all submittal documents prepared by others, including deferred submittal items, for compatibility with the design of the building.</text>
         </para>
+        <aftertext proof="needed">The architect or engineer of record shall be responsible for reviewing and coordinating all submittal documents prepared by others, including deferred submittal items, for compatibility with the design of the building.</aftertext>
         <para>
           <num>(2)</num>
           <heading>Deferred Submittals.</heading>
           <text>For the purposes of this section, deferred submittals are defined as those portions of the design which are not submitted at the time of the application and which are to be submitted to the building official within a specified period.</text>
-          <text>Deferral of any submittal items shall have prior approval of the building official. The architect or engineer of record shall list the deferred submittals on the plans and shall submit the deferred submittal documents for review by the building official. Submittal documents for deferred submittal items shall be submitted to the architect or engineer of record who shall review them and forward them to the building official with a notation indicating that the deferred submittal documents have been reviewed and that they have been found to be in general conformance with the design of the building. The deferred submittal items shall not be installed until their design and submittal documents have been approved by the building official.</text>
         </para>
+        <aftertext proof="needed">Deferral of any submittal items shall have prior approval of the building official. The architect or engineer of record shall list the deferred submittals on the plans and shall submit the deferred submittal documents for review by the building official. Submittal documents for deferred submittal items shall be submitted to the architect or engineer of record who shall review them and forward them to the building official with a notation indicating that the deferred submittal documents have been reviewed and that they have been found to be in general conformance with the design of the building. The deferred submittal items shall not be installed until their design and submittal documents have been approved by the building official.</aftertext>
       </para>
       <para>
         <num>(e)</num>
         <heading>Inspection and Observation Program.</heading>
         <text>When special inspection is required by <cite path="23.06.130">Section 23.06.130</cite>, the architect or engineer of record shall prepare an inspection program which shall be submitted to the building official for approval prior to issuance of the building permit. The inspection program shall designate the portions of the work to have special inspection, the name or names of the individuals or firms who are to perform the special inspections and indicate the duties of the special inspectors.</text>
-        <text>The special inspector shall be employed by the owner, the engineer or architect of record, or an agent of the owner, but not the contractor or any other person responsible for the work.</text>
-        <text>When structural observation is required by <cite path="23.06.140">Section 23.06.140</cite>, the inspection program shall name the individuals or firms who are to perform structural observation and describe the stages of construction at which structural observation is to occur.</text>
-        <text>The inspection program shall include samples of inspection reports and provide time limits for submission of reports.</text>
       </para>
+      <aftertext proof="needed">The special inspector shall be employed by the owner, the engineer or architect of record, or an agent of the owner, but not the contractor or any other person responsible for the work.</aftertext>
+      <aftertext proof="needed">When structural observation is required by Section 23.06.140, the inspection program shall name the individuals or firms who are to perform structural observation and describe the stages of construction at which structural observation is to occur.</aftertext>
+      <aftertext proof="needed">The inspection program shall include samples of inspection reports and provide time limits for submission of reports.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2007-11" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-13" path="§1" type="History"/>
@@ -777,9 +777,9 @@
         <num>(a)</num>
         <heading>Issuance.</heading>
         <text>The application, plans, specifications, computations and other data filed by an applicant for permit shall be reviewed by the building official or his designees. Such plans may be reviewed by other departments of this jurisdiction to verify compliance with any applicable laws under their jurisdiction. If the building official finds that the work described in an application for a permit and the plans, specifications and other data filed therewith conform to the requirements of this code and the technical codes and other pertinent laws and ordinances, and that the fees specified in <cite path="23.06.120">Section 23.06.120</cite> have been paid, the building official shall issue a permit therefor to the applicant.</text>
-        <text>When a permit is issued for required plans, the building official shall endorse in writing or stamp the plans and specifications "APPROVED." Such approved plans and specifications shall not be changed, modified or altered without authorizations from the building official, and all work regulated by this code shall be done in accordance with the approved plans.</text>
-        <text>The building official may issue a permit for the construction of part of a building or structure before the entire plans and specifications for the whole building or structure have been submitted or approved, provided adequate information and detailed statements have been filed complying with all pertinent requirements of this code. No building permit for construction of a superstructure shall be issued unless a complete superstructure application is made not later than 90 days after issuance of a foundation permit and a superstructure permit is taken out not later than six months after issuance of the foundation permit. For purposes of this section, the determination of whether a building or structure is a superstructure shall be made by the building official. The holder of a partial permit shall proceed at his own risk without assurance that the permit for the entire building or structure will be granted.</text>
       </para>
+      <aftertext proof="needed">When a permit is issued for required plans, the building official shall endorse in writing or stamp the plans and specifications "APPROVED." Such approved plans and specifications shall not be changed, modified or altered without authorizations from the building official, and all work regulated by this code shall be done in accordance with the approved plans.</aftertext>
+      <aftertext proof="needed">The building official may issue a permit for the construction of part of a building or structure before the entire plans and specifications for the whole building or structure have been submitted or approved, provided adequate information and detailed statements have been filed complying with all pertinent requirements of this code. No building permit for construction of a superstructure shall be issued unless a complete superstructure application is made not later than 90 days after issuance of a foundation permit and a superstructure permit is taken out not later than six months after issuance of the foundation permit. For purposes of this section, the determination of whether a building or structure is a superstructure shall be made by the building official. The holder of a partial permit shall proceed at his own risk without assurance that the permit for the entire building or structure will be granted.</aftertext>
       <para>
         <num>(b)</num>
         <heading>Retention of Plans.</heading>
@@ -789,15 +789,15 @@
         <num>(c)</num>
         <heading>Validity of Permit.</heading>
         <text>The issuance of a permit or approval of plans, specifications and computations shall not be construed to be a permit for, or an approval of, a violation of any of the provisions of this code or the technical codes, or of any other ordinance of the jurisdiction. Permits presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
-        <text>The issuance of a permit based on plans, specifications and other data shall not prevent the building official from thereafter requiring the correction of errors in said plans, specifications and other data, or from preventing building operations being carried on thereunder when in violation of these codes or of any other ordinance of this jurisdiction.</text>
       </para>
+      <aftertext proof="needed">The issuance of a permit based on plans, specifications and other data shall not prevent the building official from thereafter requiring the correction of errors in said plans, specifications and other data, or from preventing building operations being carried on thereunder when in violation of these codes or of any other ordinance of this jurisdiction.</aftertext>
       <para>
         <num>(d)</num>
         <heading>Expiration.</heading>
         <text>Every permit issued by the building official under the provisions of the technical codes shall expire by limitation and become null and void, if the building or work authorized by such permit is not commenced within 180 days from the date of such permit, or if the building or work authorized by such permit is suspended or abandoned at any time after the work is commenced for a period of 180 days. Before such work can be recommenced, a new permit shall be first obtained to do so, and the fee therefor shall be one-half the amount required for a new permit for such work, provided no changes have been made or will be made in the original plans and specifications for such work and provided further that such suspension or abandonment has not exceeded one year. In order to renew action on a permit over one year after expiration, the permittee shall pay a new full permit fee.</text>
-        <text>A foundation permit shall expire by limitation and become null and void, unless a complete superstructure application is made not later than 90 days after issuance of a foundation permit and a superstructure permit is taken out not later than six months after issuance of the foundation permit.</text>
-        <text>A permittee holding an unexpired permit may apply for an extension of the time within which work may commence under that permit when the permittee is unable to commence work within the time required by this section for good and satisfactory reasons. The building official may extend the time for action by the permittee for a period not exceeding 180 days upon written request by the permittee showing that circumstances beyond the control of the permittee have prevented action from being taken and that extension will not result in violation of this code or any other laws. Permits shall not be extended more than two times.</text>
       </para>
+      <aftertext proof="needed">A foundation permit shall expire by limitation and become null and void, unless a complete superstructure application is made not later than 90 days after issuance of a foundation permit and a superstructure permit is taken out not later than six months after issuance of the foundation permit.</aftertext>
+      <aftertext proof="needed">A permittee holding an unexpired permit may apply for an extension of the time within which work may commence under that permit when the permittee is unable to commence work within the time required by this section for good and satisfactory reasons. The building official may extend the time for action by the permittee for a period not exceeding 180 days upon written request by the permittee showing that circumstances beyond the control of the permittee have prevented action from being taken and that extension will not result in violation of this code or any other laws. Permits shall not be extended more than two times.</aftertext>
       <para>
         <num>(e)</num>
         <heading>Suspension or Revocation.</heading>
@@ -853,8 +853,8 @@
           <para>
             <num>(iii)</num>
             <text>Demolition of the structure would have a less significant effect on the neighborhood than allowing the existing dilapidated structure to remain.</text>
-            <text>A demolition permit shall not be issued pursuant to this subsection unless notice of the proposed demolition and appeal procedures is posted on the premises in a location visible from off-site at least 15 days before issuance of the demolition permit. Pursuant to <cite path="2.21.030">Section 2.21.030</cite>, the building official's proposal to issue a demolition permit is appealable to the Community Relations Commission within the 15-day posting period by filing a notice of appeal with the City Clerk. If demolition is requested as part of a planning application pursuant to <cite path="27.68.020">Section 27.68.020</cite>, the Planning Commission shall review the request as required by <cite path="27.68.020">Section 27.68.020</cite> prior to any action by the building official.</text>
           </para>
+          <aftertext proof="needed">A demolition permit shall not be issued pursuant to this subsection unless notice of the proposed demolition and appeal procedures is posted on the premises in a location visible from off-site at least 15 days before issuance of the demolition permit. Pursuant to Section 2.21.030, the building official's proposal to issue a demolition permit is appealable to the Community Relations Commission within the 15-day posting period by filing a notice of appeal with the City Clerk. If demolition is requested as part of a planning application pursuant to Section 27.68.020, the Planning Commission shall review the request as required by Section 27.68.020 prior to any action by the building official.</aftertext>
         </para>
         <para>
           <num>(7)</num>
@@ -918,10 +918,10 @@
         <num>(a)</num>
         <heading>General.</heading>
         <text>Construction or work for which a permit is required shall be subject to inspection by the building official and the construction or work shall remain accessible and exposed for inspection purposes until approved by the building official. In addition, certain types of construction shall have continuous inspection as specified in <cite path="23.06.130">Section 23.06.130</cite>.</text>
-        <text>Approval as a result of an inspection shall not be construed to be an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction. Inspections presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
-        <text>It shall be the duty of the permit applicant to cause the work to remain accessible and exposed for inspection purposes. Neither the building official nor this jurisdiction shall be liable for expense entailed in the removal or replacement of any material required to allow inspection.</text>
-        <text>A survey of the lot may be required by the building official to verify that the structure is located in accordance with the approved plans.</text>
       </para>
+      <aftertext proof="needed">Approval as a result of an inspection shall not be construed to be an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction. Inspections presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</aftertext>
+      <aftertext proof="needed">It shall be the duty of the permit applicant to cause the work to remain accessible and exposed for inspection purposes. Neither the building official nor this jurisdiction shall be liable for expense entailed in the removal or replacement of any material required to allow inspection.</aftertext>
+      <aftertext proof="needed">A survey of the lot may be required by the building official to verify that the structure is located in accordance with the approved plans.</aftertext>
       <para>
         <num>(b)</num>
         <heading>Inspection Record Card.</heading>
@@ -931,14 +931,14 @@
         <num>(c)</num>
         <heading>Inspection Requests.</heading>
         <text>It shall be the duty of the person doing the work authorized by a permit to notify the building official that such work is ready for inspection. The building official may require that every request for inspection be filed at least one working day before such inspection is desired. Such request may be in writing or by telephone at the option of the building official.</text>
-        <text>It shall be the duty of the person requesting any inspections required either by this code or the technical codes to provide access to and means for inspection of the work.</text>
       </para>
+      <aftertext proof="needed">It shall be the duty of the person requesting any inspections required either by this code or the technical codes to provide access to and means for inspection of the work.</aftertext>
       <para>
         <num>(d)</num>
         <heading>Approval Required.</heading>
         <text>Work shall not be done beyond the point indicated in each successive inspection without first obtaining the approval of the building official. The building official, upon notification, shall make the requested inspections and shall either indicate that that portion of the construction is satisfactory as completed or shall notify the permit holder or an agent of the permit holder wherein the same fails to comply with this code. Any portions which do not comply shall be corrected and such portion shall not be covered or concealed until authorized by the building official.</text>
-        <text>There shall be a final inspection and approval of all buildings and structures when completed and ready for occupancy and use.</text>
       </para>
+      <aftertext proof="needed">There shall be a final inspection and approval of all buildings and structures when completed and ready for occupancy and use.</aftertext>
       <para>
         <num>(e)</num>
         <heading>Required Building Inspections.</heading>
@@ -1052,10 +1052,10 @@
         <num>(d)</num>
         <heading>Fee Refunds.</heading>
         <text>The building official may authorize refunding of a fee paid hereunder which was erroneously paid or collected.</text>
-        <text>The building official may authorize refunding of not more than 80 percent of the permit fee paid when no work has been done under a permit issued in accordance with this code.</text>
-        <text>The building official may authorize refunding of not more than 80 percent of the plan review fee paid when an application for a permit for which a plan review fee has been paid is withdrawn or canceled before any examination time has been expended.</text>
-        <text>The building official shall not authorize the refunding of any fee paid except upon written application filed by the original permittee not later than 180 days after the date of fee payment.</text>
       </para>
+      <aftertext proof="needed">The building official may authorize refunding of not more than 80 percent of the permit fee paid when no work has been done under a permit issued in accordance with this code.</aftertext>
+      <aftertext proof="needed">The building official may authorize refunding of not more than 80 percent of the plan review fee paid when an application for a permit for which a plan review fee has been paid is withdrawn or canceled before any examination time has been expended.</aftertext>
+      <aftertext proof="needed">The building official shall not authorize the refunding of any fee paid except upon written application filed by the original permittee not later than 180 days after the date of fee payment.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-8" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-12" path="§1" type="History"/>
@@ -1148,9 +1148,9 @@
         <num>(a)</num>
         <heading>Use or Occupancy.</heading>
         <text>Buildings or structures shall not be used or occupied nor shall a change in the existing occupancy classification of a building or structure or portion thereof be made until the building official has issued a certificate of occupancy therefore as provided herein.</text>
-        <text><strong>Exception:</strong> Group R, Division 3, and Group U Occupancies.</text>
-        <text>Issuance of a certificate of occupancy shall not be construed as an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction. Certificates presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</text>
       </para>
+      <aftertext proof="needed"><strong>Exception:</strong> Group R, Division 3, and Group U Occupancies.</aftertext>
+      <aftertext proof="needed">Issuance of a certificate of occupancy shall not be construed as an approval of a violation of the provisions of this code or of other ordinances of the jurisdiction. Certificates presuming to give authority to violate or cancel the provisions of this code or of other ordinances of the jurisdiction shall not be valid.</aftertext>
       <para>
         <num>(b)</num>
         <heading>Change in Use.</heading>
@@ -1987,9 +1987,9 @@
               <text>Low-sloped roofs shall have:</text>
               <text proof="needed">1.	A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
               <text proof="needed">2.	A minimum Solar Reflectance Index (SRI) of 85.</text>
-              <text><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
-              <text><strong>Exception 2</strong>: An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</text>
             </para>
+            <aftertext proof="needed"><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
+            <aftertext proof="needed"><strong>Exception 2</strong>: An aged solar reflectance less than 0.70 is allowed provided the maximum roof/ceiling U-Factor in Table 140.3-B is not exceeded.</aftertext>
           </para>
           <para>
             <num>ii.</num>
@@ -1999,9 +1999,9 @@
               <text>Low-sloped roofs shall have:</text>
               <text proof="needed">1.	A minimum aged solar reflectance of 0.70 and a minimum thermal emittance of 0.85; or</text>
               <text proof="needed">2.	A minimum Solar Reflectance Index (SRI) of 85.</text>
-              <text><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
-              <text><strong>Exception 2</strong>: Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</text>
             </para>
+            <aftertext proof="needed"><strong>Exception 1</strong>: Roof constructions that have thermal mass with a weight of at least 25 lb/ft<sup>2</sup> over the roof membrane are exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
+            <aftertext proof="needed"><strong>Exception 2</strong>: Roof area covered by building integrated photovoltaic panels and building integrated solar thermal panels is exempt from the minimum requirements for solar reflectance and thermal emittance or SRI.</aftertext>
           </para>
           <para>
             <num>iii.</num>
@@ -2366,11 +2366,11 @@
         <para>
           <num>(d)</num>
           <text>Any change in use or occupancy creating a more hazardous fire/life safety condition, as determined by the Fire Chief requires that an automatic fire sprinkler system be installed.</text>
-          <text>
-            <strong>Exceptions:</strong>
-          </text>
         </para>
-        <para proof="needed">
+        <text>
+          <strong>Exceptions:</strong>
+        </text>
+        <para proof="done">
           <num>1.</num>
           <text>Seismic or accessibility improvements.</text>
         </para>
@@ -2460,11 +2460,11 @@
         <para>
           <num>(b)</num>
           <text>Having occupied floors located more than 40 feet above grade at the lowest floor level of exit discharge.</text>
-          <text>
-            <strong>Exceptions:</strong>
-          </text>
         </para>
-        <para proof="needed">
+        <text>
+          <strong>Exceptions:</strong>
+        </text>
+        <para proof="done">
           <num>1.</num>
           <text>Open parking garages.</text>
         </para>
@@ -2489,15 +2489,11 @@
       <heading>APPENDIX C, NUMBER AND DISTRIBUTION OF FIRE HYDRANTS—AMENDED.</heading>
       <text>Table C102.1 of Appendix C is amended to read as follows:</text>
       <include proof="needed">
-        <text>
-          <center>
-            <strong>TABLE NO. C102.1</strong>
-          </center>
+        <text class="center">
+          <strong>TABLE NO. C102.1</strong>
         </text>
-        <text>
-          <center>
-            <strong>NUMBER AND DISTRIBUTION OF FIRE HYDRANTS</strong>
-          </center>
+        <text class="center">
+          <strong>NUMBER AND DISTRIBUTION OF FIRE HYDRANTS</strong>
         </text>
         <text>
           <img alt="Embedded Image" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABVsAAAJGAQMAAAB/eMf0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NjcyOSwgMjAxMi8wNS8wMy0xMzo0MDowMyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODUwMDg4REJEMkJGMTFFNjkyNkFBNjkzOUM0QkJGNDQiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODUwMDg4REFEMkJGMTFFNjkyNkFBNjkzOUM0QkJGNDQiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InV1aWQ6MTUxYWExMTItMjg0YS00Mjk4LTgwMjMtZjk0NWJmMzYzMWVkIiBzdFJlZjpkb2N1bWVudElEPSJ1dWlkOjM4OThkNjU0LThkZmEtNGFjMS1iYTJmLWQzNTg1ZTFjOTM2ZSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PpbA0XUAAAAGUExURQAAAP///6XZ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"/>
@@ -3652,8 +3648,8 @@
       <para>
         <num>(a)</num>
         <text>Applicability. Alternate design standards may be approved for new construction or, substantial improvements necessary for the conduct of a functionally dependent use provided that the provisions of <cite path="23.33">this chapter</cite> are satisfied and that the structure or other development is protected by methods that minimize flood damage during the base flood, does not result in additional threats to public safety and does not create a public nuisance. The alternate design standard criteria set forth in this section pertain to a piece of property and are not personal in nature. An alternate design standard may be granted for a parcel of property with physical characteristics so unusual that complying with the requirements of <cite path="23.33">this chapter</cite> would create an exceptional hardship to the applicant or the surrounding property owners. The characteristics must be unique to the property. The unique characteristic must pertain to the land itself, not to the structure, its inhabitants, or the property owners.</text>
-        <text>Initial determination regarding issuance of a permit based upon alternate design standards shall be by the Floodplain Administrator.</text>
       </para>
+      <aftertext proof="needed">Initial determination regarding issuance of a permit based upon alternate design standards shall be by the Floodplain Administrator.</aftertext>
       <para>
         <num>(b)</num>
         <text>Requirements for Alternate Design Standards.</text>
@@ -3756,8 +3752,8 @@
         <para>
           <num>(2)</num>
           <text>Such construction below the base flood level increases risks to life and property.</text>
-          <text>A copy of the notice shall be recorded by the Floodplain Administrator in the office of the San Mateo County Recorder so that it appears in the chain of title of the affected parcel of land.</text>
         </para>
+        <aftertext proof="needed">A copy of the notice shall be recorded by the Floodplain Administrator in the office of the San Mateo County Recorder so that it appears in the chain of title of the affected parcel of land.</aftertext>
       </para>
       <para>
         <num>(h)</num>
@@ -4535,8 +4531,8 @@
       <para>
         <num>(a)</num>
         <text>The building official shall implement an administrative review process to expedite review of electric vehicle charging station permit applications, plans, and related documents. No permit or approval shall be issued which does not conform to all applicable provisions of <cite path="23">Title 23</cite>, Buildings and Construction, and <cite path="27">Title 27</cite>, Zoning Code. The determination of conformance shall be made by the Community Development Director or designated staff members of the Community Development Department.</text>
-        <text>Where the application meets the requirements of the approved checklist and standards and there are no specific, adverse impacts upon public health or safety, the building division shall complete the building permit approval process, which is nondiscretionary. Review of the application for electric vehicle charging stations shall be limited to the building official's review of whether the application meets local, state, and federal health and safety requirements. If an application is deemed incomplete, a written correction notice detailing all deficiencies in the application and any additional information or documentation required to be eligible for expedited permit issuance shall be sent to the applicant for resubmission.</text>
       </para>
+      <aftertext proof="needed">Where the application meets the requirements of the approved checklist and standards and there are no specific, adverse impacts upon public health or safety, the building division shall complete the building permit approval process, which is nondiscretionary. Review of the application for electric vehicle charging stations shall be limited to the building official's review of whether the application meets local, state, and federal health and safety requirements. If an application is deemed incomplete, a written correction notice detailing all deficiencies in the application and any additional information or documentation required to be eligible for expedited permit issuance shall be sent to the applicant for resubmission.</aftertext>
       <para>
         <num>(b)</num>
         <text>The building official may only deny an application for the electric vehicle charging station permit if the official makes written findings based upon substantial evidence in the record that the proposed installation would have a specific, adverse impact upon public health or safety and there is no feasible method to satisfactorily mitigate or avoid the adverse impact. Such findings shall include the basis for the rejection of the potential feasible alternative for preventing the adverse impact.</text>
@@ -5258,8 +5254,8 @@
       <para>
         <num>(h)</num>
         <text>Numbering of Buildings and Units.</text>
-        <text>There shall be positioned at each entrance of a multiple family dwelling complex an illuminated diagrammatic representation of the complex which shows the location of the viewer and the unit designations within the complex. The illuminated diagrammatic representation shall be protected by the use of vandal-resistant covers.</text>
       </para>
+      <aftertext proof="needed">There shall be positioned at each entrance of a multiple family dwelling complex an illuminated diagrammatic representation of the complex which shows the location of the viewer and the unit designations within the complex. The illuminated diagrammatic representation shall be protected by the use of vandal-resistant covers.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-8" path="§8" type="History"/>
       </annotations>
@@ -5308,14 +5304,14 @@
           <para>
             <num>(I)</num>
             <text>Door jambs shall be installed with solid backing in such a manner that no voids exist between the strike side of the jamb and the frame opening for a vertical distance of six (6) inches each side of the strike.</text>
-            <text>In wood framing, horizontal blocking shall be placed between studs at door lock height for three stud spaces each side of the door openings. Trimmers shall be full length from the header to the floor with solid backing against sole plates.</text>
-            <text>The strike plate for deadbolts on all wood-framed doors shall be constructed of minimum sixteen U.S. gauge steel, bronze, or brass and secured to the jamb by a minimum of two screws, which must penetrate at least two and one-half (2-1/2) inches into solid backing beyond the surface to which the strike is attached.</text>
           </para>
+          <aftertext proof="needed">In wood framing, horizontal blocking shall be placed between studs at door lock height for three stud spaces each side of the door openings. Trimmers shall be full length from the header to the floor with solid backing against sole plates.</aftertext>
+          <aftertext proof="needed">The strike plate for deadbolts on all wood-framed doors shall be constructed of minimum sixteen U.S. gauge steel, bronze, or brass and secured to the jamb by a minimum of two screws, which must penetrate at least two and one-half (2-1/2) inches into solid backing beyond the surface to which the strike is attached.</aftertext>
           <para>
             <num>(J)</num>
             <text>On pairs of doors, the active leaf shall be secured with the type of lock required for single doors in subsection (a)(1)(B)	of this section. The inactive leaf shall be equipped with lever flush extension bolts or equivalent, protected by hardened material with a throw of three-fourths (3/4) inch at head and foot. Multiple point locks, cylinder-activated from the active leaf and satisfying the requirements above may be used in lieu of flushbolts.</text>
-            <text>An interviewer or peephole shall be provided in each main entry door and shall allow for 180 degree vision or more.</text>
           </para>
+          <aftertext proof="needed">An interviewer or peephole shall be provided in each main entry door and shall allow for 180 degree vision or more.</aftertext>
         </para>
         <para>
           <num>(2)</num>
@@ -5544,8 +5540,8 @@
       <para>
         <num>(f)</num>
         <text>Special Security Measures.</text>
-        <text>All entrance doors to individual office suites, in multiple occupancy office building, shall have a deadbolt lock.</text>
       </para>
+      <aftertext proof="needed">All entrance doors to individual office suites, in multiple occupancy office building, shall have a deadbolt lock.</aftertext>
       <para>
         <num>(g)</num>
         <text>Keying Requirements. Upon occupancy by the owner or proprietor, each single unit in a commercial development constructed under the same plan, shall have locks using combinations which are interchange free from locks used in all other separate proprietorships or similar distinct occupancies. Tenants shall have direct access to any room or enclosure which is used to contain metering and/or switching devices for the respective tenant.</text>
@@ -6385,8 +6381,8 @@
               </tr>
             </table>
           </text>
-          <text proof="needed">1.	Calculation for spaces shall be rounded up to the nearest whole number.</text>
         </para>
+        <text proof="needed">1.	Calculation for spaces shall be rounded up to the nearest whole number.</text>
       </include>
       <text><u>Note</u>: Projects shall reference the California Green Building Code, 2016 Edition, Section 5.106.5.3 and California Electrical Code for definitions and requirements related to electric vehicle charging spaces.</text>
       <annotations>
@@ -7036,16 +7032,16 @@ controller may also function as a landscape water meter or submeter.</text>
           <num>(2)</num>
           <text>MAWA = (ETo) [(0.45 x LA) = (0.55 x SLA)] for nonresidential areas</text>
         </para>
-        <aftertext proof="needed">Where:</aftertext>
-        <aftertext proof="needed">MAWA = Maximum applied water allowance (gallons per year)</aftertext>
-        <aftertext proof="needed">ETo = Reference evapotranspiration (inches per year)</aftertext>
-        <aftertext proof="needed">0.62 = Conversion factor (to gallons)</aftertext>
-        <aftertext proof="needed">0.55 = Reference evapotranspiration adjustment factor (ETAF) for residential area</aftertext>
-        <aftertext proof="needed">0.45 = Reference evapotranspiration adjustment factor (ETAF) for nonresidential areas</aftertext>
-        <aftertext proof="needed">LA = Landscape area including SLA in residential areas</aftertext>
-        <aftertext proof="needed">0.3 = Additional water allowance for SLA in nonresidential areas</aftertext>
-        <aftertext proof="needed">SLA = Special landscape area (square feet).</aftertext>
       </para>
+      <aftertext proof="needed">Where:</aftertext>
+      <aftertext proof="needed">MAWA = Maximum applied water allowance (gallons per year)</aftertext>
+      <aftertext proof="needed">ETo = Reference evapotranspiration (inches per year)</aftertext>
+      <aftertext proof="needed">0.62 = Conversion factor (to gallons)</aftertext>
+      <aftertext proof="needed">0.55 = Reference evapotranspiration adjustment factor (ETAF) for residential area</aftertext>
+      <aftertext proof="needed">0.45 = Reference evapotranspiration adjustment factor (ETAF) for nonresidential areas</aftertext>
+      <aftertext proof="needed">LA = Landscape area including SLA in residential areas</aftertext>
+      <aftertext proof="needed">0.3 = Additional water allowance for SLA in nonresidential areas</aftertext>
+      <aftertext proof="needed">SLA = Special landscape area (square feet).</aftertext>
       <para>
         <num>(g)</num>
         <text>A local agency or project applicant may consider effective precipitation (25% of annual precipitation) in tracking water use and may use the following equation to calculate the MAWA:</text>
@@ -7061,21 +7057,17 @@ controller may also function as a landscape water meter or submeter.</text>
       <para>
         <num>(h)</num>
         <text>Estimated total water use (ETWU) will be calculated using the equation below. The sum of the ETWU calculated for all hydrozones will not exceed the MAWA.</text>
-        <text>
-          <center>ETWU = (ETo)(0.62)(<u>PF x HA</u>) + SLA]</center>
-        </text>
-        <text>
-          <center>IE</center>
-        </text>
-        <text>Where:</text>
-        <text>ETWU = Estimated total water use per year (gallons)</text>
-        <text>ETo = Reference evapotranspiration (inches)</text>
-        <text>PF = Plant factor from WUCOLS</text>
-        <text>HA = Hydrozone area (high, medium, and low water use areas) (square feet)</text>
-        <text>SLA = Special landscape area (square feet)</text>
-        <text proof="needed">0.62 = Conversion factor</text>
-        <text>IE = Irrigation efficiency (minimum 0.70) equals 0.75 for overhead spray devices and 0.81 for drip system devices</text>
+        <text class="center">ETWU = (ETo)(0.62)(<u>PF x HA</u>) + SLA]</text>
+        <text class="center">IE</text>
       </para>
+      <aftertext proof="needed">Where:</aftertext>
+      <aftertext proof="needed">ETWU = Estimated total water use per year (gallons)</aftertext>
+      <aftertext proof="needed">ETo = Reference evapotranspiration (inches)</aftertext>
+      <aftertext proof="needed">PF = Plant factor from WUCOLS</aftertext>
+      <aftertext proof="needed">HA = Hydrozone area (high, medium, and low water use areas) (square feet)</aftertext>
+      <aftertext proof="needed">SLA = Special landscape area (square feet)</aftertext>
+      <aftertext proof="needed">0.62 = Conversion factor</aftertext>
+      <aftertext proof="needed">IE = Irrigation efficiency (minimum 0.70) equals 0.75 for overhead spray devices and 0.81 for drip system devices</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-3" path="§1" type="History"/>
       </annotations>

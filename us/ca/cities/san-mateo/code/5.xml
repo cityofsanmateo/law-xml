@@ -798,8 +798,8 @@
           <num>(19)</num>
           <text>Trailer camp</text>
         </para>
-        <aftertext proof="needed">unless a permit for such a business has first been obtained from the bureau and remains in effect in accordance with the provisions of the chapter title.</aftertext>
       </para>
+      <aftertext proof="needed">unless a permit for such a business has first been obtained from the bureau and remains in effect in accordance with the provisions of the chapter title.</aftertext>
       <para>
         <num>(b)</num>
         <text>Unless otherwise provided in <cite path="5">this title</cite>, each applicant for a permit shall provide the following information:</text>
@@ -875,8 +875,8 @@
           <num>(4)</num>
           <text>Such other and further information as the Tax Collector may require.</text>
         </para>
-        <aftertext proof="needed">The application shall be signed by each and every owner of the business. If the owner is a corporation, the application shall be signed by the representative designated by the corporation's board of directors.</aftertext>
       </para>
+      <aftertext proof="needed">The application shall be signed by each and every owner of the business. If the owner is a corporation, the application shall be signed by the representative designated by the corporation's board of directors.</aftertext>
       <para>
         <num>(c)</num>
         <text>Unless otherwise specified within <cite path="5">this title</cite>, a non-refundable charge of fifty dollars shall be made at the time of filing the application for expenses in connection with investigation of the application, and shall be paid to the Tax Collector.</text>
@@ -1107,8 +1107,8 @@
           <num>(5)</num>
           <text>Auto upholstery shop, thirty dollars.</text>
         </para>
-        <aftertext proof="needed">Should any person conduct more than one of the abovementioned businesses at a single location, he or she shall be liable for only the largest applicable license tax provided by this section.</aftertext>
       </para>
+      <aftertext proof="needed">Should any person conduct more than one of the abovementioned businesses at a single location, he or she shall be liable for only the largest applicable license tax provided by this section.</aftertext>
       <para>
         <num>(b)</num>
         <text>Records and Reports Required. Every used automobile dealer shall keep a record of the purchases, consignments, sales, and exchanges of each motor vehicle purchased, sold, consigned to be sold, or exchanged by such dealer and said record shall at all times be open to the inspection of the license Tax Collector, or Chief of Police, or any peace officer under his or her direction. Said record shall contain the name and address of the person, firm, or corporation from whom purchased, or received, the make, state license number, motor number, serial number, style and seating capacity of any used motor vehicle purchased or received.</text>
@@ -1430,9 +1430,9 @@
         <para>
           <num>(3)</num>
           <text>A tax of ten dollars for the entire period of such meeting for each person employed in such business within the City;</text>
-          <text>Where any such meeting extends over a period of fewer than thirty days:</text>
         </para>
-        <para proof="needed">
+        <aftertext proof="needed">Where any such meeting extends over a period of fewer than thirty days:</aftertext>
+        <para proof="done">
           <num>(1)</num>
           <text>A tax of five dollars for each day during such meeting for selling any racing form under one title or name, and</text>
         </para>
@@ -1526,8 +1526,8 @@
       <para>
         <num>(b)</num>
         <text>Double Business Taxes. Notwithstanding any other provision of <cite path="5">this title</cite>, any person who has conducted any business in this city for which a tax payment is required, without first having paid the business tax due, and after having received seven days' notice from the collector in any year of the need to pay the tax, shall pay a business tax as follows:</text>
-        <text>If such a tax is payable in advance for a certain period the tax shall be double the amount otherwise required for such purpose and period, or double the amount otherwise required for the period during which the business has been conducted without paying the tax, whichever is the greater.</text>
       </para>
+      <aftertext proof="needed">If such a tax is payable in advance for a certain period the tax shall be double the amount otherwise required for such purpose and period, or double the amount otherwise required for the period during which the business has been conducted without paying the tax, whichever is the greater.</aftertext>
       <annotations>
         <annotation type="History">prior code § 42.01</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1977-20" path="§34" type="History"/>
@@ -1596,8 +1596,8 @@
       <para>
         <num>(2)</num>
         <text>The name, state license number, motor number, serial number, style and seating capacity of any such used motor vehicle purchased or received.</text>
-        <text>The report of all purchases, assignments and sales or exchanges of motor vehicles shall at all times be open to the inspection of the Chief of Police or any other police officer of the City.</text>
       </para>
+      <aftertext proof="needed">The report of all purchases, assignments and sales or exchanges of motor vehicles shall at all times be open to the inspection of the Chief of Police or any other police officer of the City.</aftertext>
       <annotations>
         <annotation type="History">Prior code § 72.02</annotation>
       </annotations>
@@ -1968,8 +1968,8 @@
         <para>
           <num>(d)</num>
           <text>If the Police Chief grants the application or if the Police Chief neither grants nor denies the application within fifteen (15) business days after it is stamped as received, the applicant may begin operating the entertainment business for which the permit was sought, subject to strict compliance with the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>. If the applicant begins operating the entertainment business because the Police Chief has not granted or denied the application within fifteen business days, the Police Chief may issue the permit after the fifteen day period has elapsed, and the permit shall be subject to suspension or revocation under the provisions of <cite path="5.43.120">section 5.43.120</cite>.</text>
-          <text>Each entertainment permit shall expire one (1) year from the date of issuance, and may be renewed only by filing with the Police Chief a written request for renewal, accompanied by the annual permit fee and a copy of the permit to be renewed. The request for renewal shall be made at least thirty (30) days before the expiration date of the permit. When made less than thirty (30) days before the expiration date, the expiration of the permit will not be stayed. Applications for renewal shall be acted on as provided herein for action upon applications for permits.</text>
         </para>
+        <aftertext proof="needed">Each entertainment permit shall expire one (1) year from the date of issuance, and may be renewed only by filing with the Police Chief a written request for renewal, accompanied by the annual permit fee and a copy of the permit to be renewed. The request for renewal shall be made at least thirty (30) days before the expiration date of the permit. When made less than thirty (30) days before the expiration date, the expiration of the permit will not be stayed. Applications for renewal shall be acted on as provided herein for action upon applications for permits.</aftertext>
         <annotations>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
           <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
@@ -3995,8 +3995,8 @@
           <num>(6)</num>
           <text>Any other facts or statements required by the license collector.</text>
         </para>
-        <aftertext proof="needed">Fingerprints of applicant shall not be required.</aftertext>
       </para>
+      <aftertext proof="needed">Fingerprints of applicant shall not be required.</aftertext>
       <para>
         <num>(b)</num>
         <text>Such application shall be accompanied by the following:</text>
@@ -4160,8 +4160,8 @@
       <para>
         <num>(7)</num>
         <text>A statement that the amusement machine for which a permit is sought is not intended to be, and will not be permitted to be, used for any gambling purpose whatsoever.</text>
-        <text>Each application shall be accompanied by the applicable permit fee.</text>
       </para>
+      <aftertext proof="needed">Each application shall be accompanied by the applicable permit fee.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1972-3" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1972-4" path="§1" type="History"/>
@@ -4373,9 +4373,9 @@
       <para>
         <num>(g)</num>
         <text>If the public convenience and necessity require the additional taxicab service, the City Manager or designee shall grant certificates of public convenience and necessity to those owners applying therefor.</text>
-        <text>The City Manager or designee shall determine the number of taxicabs which the public convenience and necessity indicate the applicant or applicants may operate.</text>
-        <text>No certificate of public convenience and necessity shall be issued to any owner or owners who have not fully complied with all of the requirements of <cite path="5.75">this chapter</cite>.</text>
       </para>
+      <aftertext proof="needed">The City Manager or designee shall determine the number of taxicabs which the public convenience and necessity indicate the applicant or applicants may operate.</aftertext>
+      <aftertext proof="needed">No certificate of public convenience and necessity shall be issued to any owner or owners who have not fully complied with all of the requirements of this chapter.</aftertext>
       <para>
         <num>(h)</num>
         <text>The provisions of this section shall not affect the number of taxicabs operating with valid licenses on the effective date hereof.</text>
@@ -4525,8 +4525,8 @@
       <para>
         <num>(3)</num>
         <text>When hired, to accept other passengers until the service for which they have been hired is completed.</text>
-        <text>Taxicabs shall at all times, when in operation and not engaged, furnish service on demand to any orderly person for lawful purposes.</text>
       </para>
+      <aftertext proof="needed">Taxicabs shall at all times, when in operation and not engaged, furnish service on demand to any orderly person for lawful purposes.</aftertext>
       <annotations>
         <annotation type="History">Prior code § 75.16</annotation>
       </annotations>
@@ -4556,20 +4556,14 @@
         <para>
           <num>(1)</num>
           <text>A framed panel, enclosing on separate lines the name of the owner, the word "taxicab" and the serial body number assigned the taxicab by the license collector. Such panel shall be painted on each side of the taxicab, and shall cover no less area than 10 inches by 12 inches. The form of such panel shall be substantially as follows:</text>
-          <text>
-            <center>
-              <strong>JOHN T. SMITH</strong>
-            </center>
+          <text class="center">
+            <strong>JOHN T. SMITH</strong>
           </text>
-          <text>
-            <center>
-              <strong>TAXICAB</strong>
-            </center>
+          <text class="center">
+            <strong>TAXICAB</strong>
           </text>
-          <text proof="needed">
-            <center>
-              <strong>320</strong>
-            </center>
+          <text class="center" proof="needed">
+            <strong>320</strong>
           </text>
         </para>
         <para>
@@ -4650,9 +4644,9 @@
       <para>
         <num>(6)</num>
         <text>The holder of a valid driver's license issued by the State.</text>
-        <text>The application form shall set forth such information as the Tax Collector may require, and shall be accompanied by the certificate of a physician that applicant is free from infirmities which would prevent his or her driving a public conveyance with safety.</text>
-        <text>Applicant shall also submit to fingerprinting and photographing by the Police Department for the police record. One photograph shall be filed with the Police Department. The other shall be affixed to the identification card as required in <cite path="5.75.250">Section 5.75.250</cite>. The costs of fingerprinting and photographing shall be paid before the application will be processed.</text>
       </para>
+      <aftertext proof="needed">The application form shall set forth such information as the Tax Collector may require, and shall be accompanied by the certificate of a physician that applicant is free from infirmities which would prevent his or her driving a public conveyance with safety.</aftertext>
+      <aftertext proof="needed">Applicant shall also submit to fingerprinting and photographing by the Police Department for the police record. One photograph shall be filed with the Police Department. The other shall be affixed to the identification card as required in Section 5.75.250. The costs of fingerprinting and photographing shall be paid before the application will be processed.</aftertext>
       <annotations>
         <annotation type="History">prior code § 75.53</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§152" type="History"/>
@@ -5188,8 +5182,8 @@
       <para>
         <num>(4)</num>
         <text>Whether the applicant will operate through independent contractors who act as escorts, and if so, the number of independent contractors through whom it expects to operate;</text>
-        <text>No applications under <cite path="5.83">this chapter</cite> shall be made by, and no permit shall be issued to, a corporation or partnership.</text>
       </para>
+      <aftertext proof="needed">No applications under this chapter shall be made by, and no permit shall be issued to, a corporation or partnership.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-32" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§188" type="History"/>
@@ -5226,8 +5220,8 @@
       <para>
         <num>(5)</num>
         <text>The applicant has not knowingly and with intent to deceive made any false, misleading or fraudulent statement in his or her application or in any other document required to be submitted in conjunction with the application.</text>
-        <text>The permit shall be denied if all of the above findings are not made or if all required information has not been supplied. If the permit is denied, the reasons for the denial shall be endorsed on the application, and the bureau shall, by first class mail, notify the applicant of the denial with a copy of the application on which have been endorsed the reasons for the denial.</text>
       </para>
+      <aftertext proof="needed">The permit shall be denied if all of the above findings are not made or if all required information has not been supplied. If the permit is denied, the reasons for the denial shall be endorsed on the application, and the bureau shall, by first class mail, notify the applicant of the denial with a copy of the application on which have been endorsed the reasons for the denial.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-32" path="§1" type="History"/>
       </annotations>

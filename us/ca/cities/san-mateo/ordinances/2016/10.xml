@@ -1336,7 +1336,7 @@
           <text>
             <s>(a). Structural plain concrete basement, foundation or other walls below the base are permitted in detached one and two-family dwellings three stories or less in height constructed with stud bearing walls. In dwellings assigned to seismic design category D or E, the height of the wall shall not exceed 8 feet (2438 mm), the thickness shall not be less than 71/2 inches (190 mm), and the wall shall retain no more than 4 feet (1219 mm) of unbalanced fill. Walls shall have reinforcement in accordance with 22.6.6.5.</s>
           </text>
-          <para proof="needed">
+          <para>
             <num>(a)</num>
             <text>Isolated footings of plain concrete supporting pedestals or columns are permitted,provided the projection of the footing beyond the face of the supported member does not	exceed the footing thickness.</text>
             <text>Exception: In detached one- and two-family dwelling three stories or less in height, the projection of the footing beyond the face of the supported member is permitted to exceed the footing thickness.</text>
@@ -1516,7 +1516,7 @@
           <num>23.10.016</num>
           <heading>TIME LIMITS FOR COMPLIANCE.</heading>
           <text>Section A105.1 is amended by adding the following:</text>
-          <para proof="needed">
+          <para proof="done">
             <num>(b)</num>
             <heading>Time Limits for Compliance.</heading>
             <text>In addition to the provisions set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> Administration, the following administrative procedure applies to the Unreinforced Masonry Buildings as defined in <cite doc="City of San Mateo, Cal., Code" path="23.10">this Chapter</cite>.</text>
@@ -1723,12 +1723,10 @@
     </text>
     <text>ATTEST:</text>
   </section>
-  <text proof="needed">
-    <center>
-      <strong>
-        <u>EXHIBIT A</u>
-      </strong>
-    </center>
+  <text class="center" proof="needed">
+    <strong>
+      <u>EXHIBIT A</u>
+    </strong>
   </text>
   <text proof="needed">
     <strong><cite doc="City of San Mateo, Cal., Code" path="23.07.080">23.07.080</cite> SECTIONS R902.1 AMENDED--ROOFING REQUIREMENTS.</strong>
