@@ -1738,12 +1738,10 @@
     </text>
     <text>ATTEST:</text>
   </section>
-  <text>
-    <center>
-      <strong>
-        <u>EXHIBIT A</u>
-      </strong>
-    </center>
+  <text class="center" proof="needed">
+    <strong>
+      <u>EXHIBIT A</u>
+    </strong>
   </text>
   <text>
     <strong><cite doc="City of San Mateo, Cal., Code" path="23.07.080">23.07.080</cite> SECTIONS R902.1 AMENDED--ROOFING REQUIREMENTS.</strong>

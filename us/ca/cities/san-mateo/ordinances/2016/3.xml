@@ -799,9 +799,7 @@
           <para>
             <num>(h)</num>
             <text>Estimated total water use (ETWU) will be calculated using the equation below. The sum of the ETWU calculated for all hydrozones will not exceed the MAWA.</text>
-            <text>
-              <center>ETWU = (ETo)(0.62)<strong>(</strong><u>PF x HA</u><strong>)</strong> + SLA]</center>
-            </text>
+            <text class="center">ETWU = (ETo)(0.62)<strong>(</strong><u>PF x HA</u><strong>)</strong> + SLA]</text>
             <text>IE</text>
             <text>Where:</text>
             <text>ETWU= Estimated Total Water Use per year (gallons)</text>

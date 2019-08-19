@@ -1,9 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of San Mateo, Cal., Code">
+<container xmlns="https://open.law/schemas/library" 
+  xmlns:codified="https://open.law/schemas/codified" 
+  xmlns:codify="https://open.law/schemas/codify" 
+  xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of San Mateo, Cal., Code">
   <prefix>Title</prefix>
   <num>5</num>
   <heading>BUSINESS LICENSES AND REGULATIONS</heading>
-  <annotation type="Editor's Notes">For statutory provisions authorizing cities to license for revenue and regulations purposes, see <cite doc="Cal. Gov't Code" path="§37101">Cal. Gov. C.A. § 37101</cite>. For the statutory provisions authorizing cities to license in the exercise of the police power and for purposes of regulation, see <cite doc="Cal. Bus. &amp; Prof. Code">Cal. Bus. &amp; Prof. C.A.</cite> §§ <cite doc="Cal. Bus. &amp; Prof. Code" path="§16000">16000</cite>-<cite doc="Cal. Bus. &amp; Prof. Code" path="§16003">16003</cite>.</annotation>
+  <annotation type="Editor's Notes">For statutory provisions authorizing cities to license for revenue and regulations purposes, see <cite doc="Cal. Gov't Code" path="§37101">Cal. Gov. C.A. § 37101</cite>. For the statutory provisions authorizing cities to license in the exercise of the police power and for purposes of regulation, see <cite doc="Cal. Bus. &amp; Prof. Code">Cal. Bus. &amp; Prof. C.A.</cite> §§    <cite doc="Cal. Bus. &amp; Prof. Code" path="§16000">16000</cite>-    <cite doc="Cal. Bus. &amp; Prof. Code" path="§16003">16003</cite>.
+  </annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>5.03</num>
@@ -11,7 +15,8 @@
     <section>
       <num>5.03.010</num>
       <heading>DEFINITIONS GENERALLY.</heading>
-      <text>The definitions in <cite path="5.03">this chapter</cite> shall be applied to terms used in <cite path="5">this title</cite>.</text>
+      <text>The definitions in <cite path="5.03">this chapter</cite> shall be applied to terms used in <cite path="5">this title</cite>.
+      </text>
       <annotations>
         <annotation type="History">Prior code § 36.01 (part)</annotation>
       </annotations>
@@ -51,7 +56,8 @@
     <section>
       <num>5.03.065</num>
       <heading>BUREAU.</heading>
-      <text>"Bureau" means the bureau of business taxes and permits as created in <cite path="5">this title</cite>.</text>
+      <text>"Bureau" means the bureau of business taxes and permits as created in <cite path="5">this title</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§1" type="History"/>
       </annotations>
@@ -351,7 +357,8 @@
     <section>
       <num>5.06.010</num>
       <heading>TAX PAYMENT AND CERTIFICATE REQUIRED.</heading>
-      <text>It is unlawful for any person, either for himself or for any person, to commence or carry on any business in the City, without first having paid the applicable business taxes and having obtained the tax certificate provided for in <cite path="5">this title</cite> as proof of payment to the City, to do so, or without complying with any and all regulations of such business, contained in <cite path="5">this title</cite>.</text>
+      <text>It is unlawful for any person, either for himself or for any person, to commence or carry on any business in the City, without first having paid the applicable business taxes and having obtained the tax certificate provided for in <cite path="5">this title</cite> as proof of payment to the City, to do so, or without complying with any and all regulations of such business, contained in <cite path="5">this title</cite>.
+      </text>
       <annotations>
         <annotation type="History">prior code § 38.01</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§4" type="History"/>
@@ -360,7 +367,8 @@
     <section>
       <num>5.06.015</num>
       <heading>BUSINESS TAX RENEWAL.</heading>
-      <text>Tax certificates shall be renewed annually by payment of the annual business tax provided for in <cite path="5">this title</cite>.</text>
+      <text>Tax certificates shall be renewed annually by payment of the annual business tax provided for in <cite path="5">this title</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-16" path="§1" type="History"/>
       </annotations>
@@ -462,8 +470,10 @@
       <num>5.06.105</num>
       <heading>PRODUCTION OF SUPPORTING DOCUMENTS.</heading>
       <text>The council, the board of review, the tax review committee, the Tax Collector, and any person designated as an agent by any of the above-listed persons for such an inspection may, at any time during normal business hours, for the purpose of enforcing the provisions of <cite path="5">this title</cite>, inspect the accounts, books, papers, and documents of any business that holds any permit or tax certificate of the City or that has filed a permit application or business tax return with the City. Any person shall produce under the seal of the City his or her authority to make such an inspection.</text>
-      <text>The council, board of review, the tax review committee, or Tax Collector may, upon 5 days written notice, require any business that holds a permit or tax certificate issued by the City or that has filed a permit application or business tax return with the City to produce any accounts, books, papers, or documents at any location in the City that the Council, board of review, or Tax Collector may designate in writing, for the purpose of enforcing <cite path="5">this title</cite>.</text>
-      <text>No person conducting an inspection or review pursuant to this section may reveal the information obtained from such an inspection or review to anyone not charged with the administration or enforcement of the provisions of <cite path="5">this title</cite>.</text>
+      <text>The council, board of review, the tax review committee, or Tax Collector may, upon 5 days written notice, require any business that holds a permit or tax certificate issued by the City or that has filed a permit application or business tax return with the City to produce any accounts, books, papers, or documents at any location in the City that the Council, board of review, or Tax Collector may designate in writing, for the purpose of enforcing <cite path="5">this title</cite>.
+      </text>
+      <text>No person conducting an inspection or review pursuant to this section may reveal the information obtained from such an inspection or review to anyone not charged with the administration or enforcement of the provisions of <cite path="5">this title</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§6" type="History"/>
       </annotations>
@@ -502,7 +512,8 @@
     <prefix>Chapter</prefix>
     <num>5.09</num>
     <heading>BUREAU OF BUSINESS TAXES AND PERMITS</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding the legislative power of cities to license for revenue and regulation every kind of lawful business transacted within the City, see <cite doc="Cal. Gov't Code" path="§37101">Cal. Gov. C.A. § 37101</cite>.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding the legislative power of cities to license for revenue and regulation every kind of lawful business transacted within the City, see <cite doc="Cal. Gov't Code" path="§37101">Cal. Gov. C.A. § 37101</cite>.
+    </annotation>
     <section>
       <num>5.09.010</num>
       <heading>CONTINUED—BOARD OF REVIEW ESTABLISHED.</heading>
@@ -532,7 +543,8 @@
         <text>Business Tax Collector—Employees—Inspectors. The business Tax Collector, all business tax inspectors and employees of the finance department in the discharge of their official duties, and all police officers shall have and exercise the power, and it shall be their duty:</text>
         <para>
           <num>(1)</num>
-          <text>To make arrests for the violation of the provisions of <cite path="5">this title</cite>;</text>
+          <text>To make arrests for the violation of the provisions of <cite path="5">this title</cite>;
+          </text>
         </para>
         <para>
           <num>(2)</num>
@@ -574,7 +586,8 @@
     <section>
       <num>5.12.020</num>
       <heading>CONSTITUTIONAL APPORTIONMENT.</heading>
-      <text>None of the business taxes provided for in <cite path="5.12">this chapter</cite> shall be so applied as to occasion an undue burden upon interstate commerce or be violative of the equal protection and due process clauses of the Constitution of the United States and the State. In any case where a business tax is believed by a business tax certificate holder or applicant for a business tax certificate to place an undue burden upon interstate commerce or be violative of such constitutional clauses, he or she may apply to the Tax Collector for an adjustment of the business tax. Such application may be made before, at, or within one year after the payment of the prescribed business tax. The applicant shall, by sworn statement and supporting testimony, show his or her method of business, his or her gross receipts, and such other information as the Tax Collector may deem necessary in order to determine the extent, if any, of such undue burden or violation. The Tax Collector shall then conduct an investigation and, after having first obtained the written approval of the City Attorney, shall fix as the business tax for the applicant an amount that is reasonable and nondiscriminatory or, if the business tax has already been paid, shall order a refund of the amount over and above the business tax so fixed. In fixing the business tax to be charged the Tax Collector shall have the power to base the business tax upon a percentage of gross receipts or any other measure which will assure that the business tax assessed shall be uniform with that assessed on businesses of like nature, so long as the amount assessed does not exceed the business tax as prescribed by the provisions of <cite path="5.12">this chapter</cite>. Should the Tax Collector determine the gross receipts measure of business tax to be the proper basis, he or she may require the applicant to submit, either at the time of termination of the applicant's business in the City or at the end of each fiscal year, a sworn statement of the gross receipts and pay the amount of business tax therefore; provided, however, no additional business tax during any one calendar year shall be required after the business tax certificate holder shall have paid an amount equal to the annual business tax as prescribed in <cite path="5.12">this chapter</cite>.</text>
+      <text>None of the business taxes provided for in <cite path="5.12">this chapter</cite> shall be so applied as to occasion an undue burden upon interstate commerce or be violative of the equal protection and due process clauses of the Constitution of the United States and the State. In any case where a business tax is believed by a business tax certificate holder or applicant for a business tax certificate to place an undue burden upon interstate commerce or be violative of such constitutional clauses, he or she may apply to the Tax Collector for an adjustment of the business tax. Such application may be made before, at, or within one year after the payment of the prescribed business tax. The applicant shall, by sworn statement and supporting testimony, show his or her method of business, his or her gross receipts, and such other information as the Tax Collector may deem necessary in order to determine the extent, if any, of such undue burden or violation. The Tax Collector shall then conduct an investigation and, after having first obtained the written approval of the City Attorney, shall fix as the business tax for the applicant an amount that is reasonable and nondiscriminatory or, if the business tax has already been paid, shall order a refund of the amount over and above the business tax so fixed. In fixing the business tax to be charged the Tax Collector shall have the power to base the business tax upon a percentage of gross receipts or any other measure which will assure that the business tax assessed shall be uniform with that assessed on businesses of like nature, so long as the amount assessed does not exceed the business tax as prescribed by the provisions of <cite path="5.12">this chapter</cite>. Should the Tax Collector determine the gross receipts measure of business tax to be the proper basis, he or she may require the applicant to submit, either at the time of termination of the applicant's business in the City or at the end of each fiscal year, a sworn statement of the gross receipts and pay the amount of business tax therefore; provided, however, no additional business tax during any one calendar year shall be required after the business tax certificate holder shall have paid an amount equal to the annual business tax as prescribed in <cite path="5.12">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-2" path="§2" type="History"/>
       </annotations>
@@ -582,7 +595,8 @@
     <section>
       <num>5.12.025</num>
       <heading>ASSESSMENT OF CORRECT TAX.</heading>
-      <text>The Tax Collector may review any return filed pursuant to <cite path="5.12">this chapter</cite> and may request or inspect any documents or accounts as provided for in <cite path="5">this title</cite> or in rules and regulations promulgated pursuant to <cite path="5">this title</cite> to determine what the correct tax due is. If the Tax Collector determines that too much tax was paid, he or she shall cause the overpayment to be paid to the business affected within 10 days. If he or she determines that too little tax was paid, he or she shall require immediate payment of the additional amount due, plus a penalty of fifty percent of the additional amount due. If the payment is not made within ten days of notice to the business of the additional amount due, the Tax Collector shall report the matter to the tax review committee pursuant to <cite path="5.18">Chapter 5.18</cite>.</text>
+      <text>The Tax Collector may review any return filed pursuant to <cite path="5.12">this chapter</cite> and may request or inspect any documents or accounts as provided for in <cite path="5">this title</cite> or in rules and regulations promulgated pursuant to <cite path="5">this title</cite> to determine what the correct tax due is. If the Tax Collector determines that too much tax was paid, he or she shall cause the overpayment to be paid to the business affected within 10 days. If he or she determines that too little tax was paid, he or she shall require immediate payment of the additional amount due, plus a penalty of fifty percent of the additional amount due. If the payment is not made within ten days of notice to the business of the additional amount due, the Tax Collector shall report the matter to the tax review committee pursuant to <cite path="5.18">Chapter 5.18</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§14" type="History"/>
       </annotations>
@@ -617,7 +631,8 @@
     <section>
       <num>5.12.080</num>
       <heading>RENEWAL RETURN—AFFIDAVIT.</heading>
-      <text>In all cases, the applicant for the renewal of an expired certificate shall render to the bureau, for its guidance in ascertaining the amount of the tax to be paid by the business a written return under penalty of perjury upon a form to be provided by the bureau, setting forth such information concerning the business during the preceding year as may be required by the bureau to enable it to ascertain the amount of the tax to be paid by the business pursuant to the provisions of <cite path="5">this title</cite>.</text>
+      <text>In all cases, the applicant for the renewal of an expired certificate shall render to the bureau, for its guidance in ascertaining the amount of the tax to be paid by the business a written return under penalty of perjury upon a form to be provided by the bureau, setting forth such information concerning the business during the preceding year as may be required by the bureau to enable it to ascertain the amount of the tax to be paid by the business pursuant to the provisions of <cite path="5">this title</cite>.
+      </text>
       <annotations>
         <annotation type="History">prior code § 39.08</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§19" type="History"/>
@@ -626,7 +641,8 @@
     <section>
       <num>5.12.090</num>
       <heading>ISSUANCE—PROCEDURE.</heading>
-      <text>All returns on which a tax is to be paid shall be referred to the Tax Collector. He or she shall have the power in the first instance to determine whether the returns comply with the provisions of <cite path="5">this title</cite>, and to approve or reject them. If he or she finds that the return does not comply, he or she shall reject it. If it is rejected, the business may appeal as provided in <cite path="5">this title</cite>.</text>
+      <text>All returns on which a tax is to be paid shall be referred to the Tax Collector. He or she shall have the power in the first instance to determine whether the returns comply with the provisions of <cite path="5">this title</cite>, and to approve or reject them. If he or she finds that the return does not comply, he or she shall reject it. If it is rejected, the business may appeal as provided in <cite path="5">this title</cite>.
+      </text>
       <text>If the Tax Collector determines that the return complies with <cite path="5">this title</cite>, that all applicable sections of this code have been complied with, and full payment of all business taxes due has been made, he or she shall issue the business a certificate of payment.</text>
       <annotations>
         <annotation type="History">prior code § 39.09</annotation>
@@ -732,7 +748,8 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Entertainment, as defined in <cite path="5.43">chapter 5.43</cite>;</text>
+          <text>Entertainment, as defined in <cite path="5.43">chapter 5.43</cite>;
+          </text>
         </para>
         <para>
           <num>(4)</num>
@@ -915,7 +932,8 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Any violation of <cite path="5">this title</cite>;</text>
+          <text>Any violation of <cite path="5">this title</cite>;
+          </text>
         </para>
         <para>
           <num>(3)</num>
@@ -923,7 +941,8 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Failure to file the documents required under the provisions of <cite path="5">this title</cite>;</text>
+          <text>Failure to file the documents required under the provisions of <cite path="5">this title</cite>;
+          </text>
         </para>
         <para>
           <num>(5)</num>
@@ -932,7 +951,8 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>In the event the application has been disapproved, applicant may appeal as provided in <cite path="5">this title</cite>.</text>
+        <text>In the event the application has been disapproved, applicant may appeal as provided in <cite path="5">this title</cite>.
+        </text>
       </para>
       <annotations>
         <annotation type="History">prior code § 44.02</annotation>
@@ -1014,7 +1034,8 @@
     <section>
       <num>5.18.050</num>
       <heading>ADMINISTERING OATHS.</heading>
-      <text>The board of review and the Council shall have the power to issue orders to show cause, hear evidence, administer oaths, to certify to all official acts, and issue subpoenas for, and to examine and require the attendance of witnesses and the production of records and documents upon any hearing provided under <cite path="5">this title</cite>. The Tax Collector shall have the power to administer oaths in the execution of any affidavit, return, statement, or certificate required by <cite path="5">this title</cite>.</text>
+      <text>The board of review and the Council shall have the power to issue orders to show cause, hear evidence, administer oaths, to certify to all official acts, and issue subpoenas for, and to examine and require the attendance of witnesses and the production of records and documents upon any hearing provided under <cite path="5">this title</cite>. The Tax Collector shall have the power to administer oaths in the execution of any affidavit, return, statement, or certificate required by <cite path="5">this title</cite>.
+      </text>
       <annotations>
         <annotation type="History">prior code § 39.23</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§37" type="History"/>
@@ -1061,7 +1082,8 @@
     <section>
       <num>5.21.040</num>
       <heading>PROTEST DETERMINATION.</heading>
-      <text>Every tax payment under protest shall be considered to be an appeal of the tax determination and shall be subject to Sections <cite path="5.18.020">5.18.020</cite> to <cite path="5.18.050">5.18.050</cite> of <cite path="5">this Title</cite>.</text>
+      <text>Every tax payment under protest shall be considered to be an appeal of the tax determination and shall be subject to Sections <cite path="5.18.020">5.18.020</cite> to <cite path="5.18.050">5.18.050</cite> of <cite path="5">this Title</cite>.
+      </text>
       <annotations>
         <annotation type="History">prior code § 54.04</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1994-21" path="§1" type="History"/>
@@ -1247,7 +1269,8 @@
     <section>
       <num>5.24.160</num>
       <heading>PROFESSIONS.</heading>
-      <text>Each person engaged in the profession of accountant, appraiser, architect, assayer, attorney, auditor, bacteriologist, certified public accountant, chemist or laboratory specialist or operator, chiropodist, chiropractor, civil engineer, dental laboratory specialist or operator, dentist, electrical engineer, geologist, hydraulic engineer, medical laboratory specialist or operator, oculist, optician, optometrist, osteopath, physician, structural engineer, surgeon, surveyor, and veterinarian, shall pay an annual business tax based upon the annual gross receipts of that person so applying for the calendar year preceding filing such application, in the same amounts provided for each respective class as set forth in <cite path="5.24.200">Section 5.24.200</cite>.</text>
+      <text>Each person engaged in the profession of accountant, appraiser, architect, assayer, attorney, auditor, bacteriologist, certified public accountant, chemist or laboratory specialist or operator, chiropodist, chiropractor, civil engineer, dental laboratory specialist or operator, dentist, electrical engineer, geologist, hydraulic engineer, medical laboratory specialist or operator, oculist, optician, optometrist, osteopath, physician, structural engineer, surgeon, surveyor, and veterinarian, shall pay an annual business tax based upon the annual gross receipts of that person so applying for the calendar year preceding filing such application, in the same amounts provided for each respective class as set forth in <cite path="5.24.200">Section 5.24.200</cite>.
+      </text>
       <annotations>
         <annotation type="History">prior code § 43.31</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1977-20" path="§20" type="History"/>
@@ -1432,7 +1455,7 @@
           <num>(3)</num>
           <text>A tax of ten dollars for the entire period of such meeting for each person employed in such business within the City;</text>
         </para>
-        <text>Where any such meeting extends over a period of fewer than thirty days:</text>
+        <aftertext>Where any such meeting extends over a period of fewer than thirty days:</aftertext>
         <para proof="done">
           <num>(1)</num>
           <text>A tax of five dollars for each day during such meeting for selling any racing form under one title or name, and</text>
@@ -1527,7 +1550,7 @@
       <para>
         <num>(b)</num>
         <text>Double Business Taxes. Notwithstanding any other provision of <cite path="5">this title</cite>, any person who has conducted any business in this city for which a tax payment is required, without first having paid the business tax due, and after having received seven days' notice from the collector in any year of the need to pay the tax, shall pay a business tax as follows:</text>
-        <text>If such a tax is payable in advance for a certain period the tax shall be double the amount otherwise required for such purpose and period, or double the amount otherwise required for the period during which the business has been conducted without paying the tax, whichever is the greater.</text>
+        <aftertext>If such a tax is payable in advance for a certain period the tax shall be double the amount otherwise required for such purpose and period, or double the amount otherwise required for the period during which the business has been conducted without paying the tax, whichever is the greater.</aftertext>
       </para>
       <annotations>
         <annotation type="History">prior code § 42.01</annotation>
@@ -1539,7 +1562,8 @@
     <section>
       <num>5.27.020</num>
       <heading>CONVICTION NOT WAIVER.</heading>
-      <text>The conviction and punishment of any person for transacting any business without a tax payment or a permit as required by <cite path="5">this title</cite> shall not excuse or exempt such person from the payment of any tax or fee due or unpaid at the time of such conviction, and nothing herein shall prevent a criminal prosecution for any violation of the provisions of <cite path="5">this title</cite>.</text>
+      <text>The conviction and punishment of any person for transacting any business without a tax payment or a permit as required by <cite path="5">this title</cite> shall not excuse or exempt such person from the payment of any tax or fee due or unpaid at the time of such conviction, and nothing herein shall prevent a criminal prosecution for any violation of the provisions of <cite path="5">this title</cite>.
+      </text>
       <annotations>
         <annotation type="History">prior code § 42.03</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§56" type="History"/>
@@ -1597,7 +1621,7 @@
       <para>
         <num>(2)</num>
         <text>The name, state license number, motor number, serial number, style and seating capacity of any such used motor vehicle purchased or received.</text>
-        <text>The report of all purchases, assignments and sales or exchanges of motor vehicles shall at all times be open to the inspection of the Chief of Police or any other police officer of the City.</text>
+        <aftertext>The report of all purchases, assignments and sales or exchanges of motor vehicles shall at all times be open to the inspection of the Chief of Police or any other police officer of the City.</aftertext>
       </para>
       <annotations>
         <annotation type="History">Prior code § 72.02</annotation>
@@ -1665,7 +1689,8 @@
     <prefix>Chapter</prefix>
     <num>5.42</num>
     <heading>BILL POSTING—SIGN PAINTING</heading>
-    <annotation type="Editor's Notes">See also Signs, <cite path="25">Title 25</cite>.</annotation>
+    <annotation type="Editor's Notes">See also Signs, <cite path="25">Title 25</cite>.
+    </annotation>
     <section>
       <num>5.42.010</num>
       <heading>CERTIFICATE REQUIRED—TAX.</heading>
@@ -1716,7 +1741,8 @@
       <para>
         <num>(c)</num>
         <heading>Amusement Device.</heading>
-        <text>The term "amusement device" is any device, game or contrivance, including, but not limited to pin ball machines, video games, computer games and electronic games, for which a charge or payment is received for the privilege of playing, using or operating the same and which, as the result of such use, operation or playing does not entitle the person using, operating or playing such device, game or contrivance to receive the same return in market value in the form of tangible merchandise each time such device, game or contrivance is used, operated or played. Pool tables shall not be considered amusement devices for the purposes of <cite path="5.43">this chapter</cite>.</text>
+        <text>The term "amusement device" is any device, game or contrivance, including, but not limited to pin ball machines, video games, computer games and electronic games, for which a charge or payment is received for the privilege of playing, using or operating the same and which, as the result of such use, operation or playing does not entitle the person using, operating or playing such device, game or contrivance to receive the same return in market value in the form of tangible merchandise each time such device, game or contrivance is used, operated or played. Pool tables shall not be considered amusement devices for the purposes of <cite path="5.43">this chapter</cite>.
+        </text>
       </para>
       <para>
         <num>(d)</num>
@@ -1961,9 +1987,10 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>If the Police Chief grants the application or if the Police Chief neither grants nor denies the application within fifteen (15) business days after it is stamped as received, the applicant may begin operating the entertainment business for which the permit was sought, subject to strict compliance with the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>. If the applicant begins operating the entertainment business because the Police Chief has not granted or denied the application within fifteen business days, the Police Chief may issue the permit after the fifteen day period has elapsed, and the permit shall be subject to suspension or revocation under the provisions of <cite path="5.43.120">section 5.43.120</cite>.</text>
-        <text>Each entertainment permit shall expire one (1) year from the date of issuance, and may be renewed only by filing with the Police Chief a written request for renewal, accompanied by the annual permit fee and a copy of the permit to be renewed. The request for renewal shall be made at least thirty (30) days before the expiration date of the permit. When made less than thirty (30) days before the expiration date, the expiration of the permit will not be stayed. Applications for renewal shall be acted on as provided herein for action upon applications for permits.</text>
+        <text>If the Police Chief grants the application or if the Police Chief neither grants nor denies the application within fifteen (15) business days after it is stamped as received, the applicant may begin operating the entertainment business for which the permit was sought, subject to strict compliance with the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>. If the applicant begins operating the entertainment business because the Police Chief has not granted or denied the application within fifteen business days, the Police Chief may issue the permit after the fifteen day period has elapsed, and the permit shall be subject to suspension or revocation under the provisions of <cite path="5.43.120">section 5.43.120</cite>.
+        </text>
       </para>
+      <aftertext>Each entertainment permit shall expire one (1) year from the date of issuance, and may be renewed only by filing with the Police Chief a written request for renewal, accompanied by the annual permit fee and a copy of the permit to be renewed. The request for renewal shall be made at least thirty (30) days before the expiration date of the permit. When made less than thirty (30) days before the expiration date, the expiration of the permit will not be stayed. Applications for renewal shall be acted on as provided herein for action upon applications for permits.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1998-20" path="§1" type="History"/>
@@ -1976,7 +2003,8 @@
       <text>The Police Chief shall deny the application for any of the following reasons:</text>
       <para>
         <num>(a)</num>
-        <text>The building, structure, equipment, or location used by the business for which an entertainment permit is required do not comply with the requirements and standards of the health, zoning, fire and safety laws of the City and the State of California, or with the development and performance standards and requirements of the regulations contained in <cite path="5.43">this chapter</cite>.</text>
+        <text>The building, structure, equipment, or location used by the business for which an entertainment permit is required do not comply with the requirements and standards of the health, zoning, fire and safety laws of the City and the State of California, or with the development and performance standards and requirements of the regulations contained in <cite path="5.43">this chapter</cite>.
+        </text>
       </para>
       <para>
         <num>(b)</num>
@@ -1992,7 +2020,8 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>Within the last five years, the applicant, his or her employee, agent, partner, director, officer, shareholder or manager has either had an entertainment permit issued by the City of San Mateo or any other jurisdiction revoked, or has engaged in conduct that would provide grounds for revocation of such a permit under <cite path="5.43.120">section 5.43.120</cite> of <cite path="5.43">this chapter</cite>.</text>
+        <text>Within the last five years, the applicant, his or her employee, agent, partner, director, officer, shareholder or manager has either had an entertainment permit issued by the City of San Mateo or any other jurisdiction revoked, or has engaged in conduct that would provide grounds for revocation of such a permit under <cite path="5.43.120">section 5.43.120</cite> of <cite path="5.43">this chapter</cite>.
+        </text>
       </para>
       <para>
         <num>(f)</num>
@@ -2104,7 +2133,8 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>If the Police Chief grants the application or if the Police Chief neither grants nor denies the application within fifteen (15) business days after it is stamped as received, the applicant may conduct the single event for which the permit was sought, subject to strict compliance with the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>.</text>
+        <text>If the Police Chief grants the application or if the Police Chief neither grants nor denies the application within fifteen (15) business days after it is stamped as received, the applicant may conduct the single event for which the permit was sought, subject to strict compliance with the development and performance standards and requirements of Article 3 of <cite path="5.43">this chapter</cite>.
+        </text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1973-20" path="§1" type="History"/>
@@ -2123,7 +2153,8 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The building, structure, equipment, or location proposed for the single event does not comply with the requirements and standards of the health, zoning, fire and safety laws of the City and the State of California, or with the development and performance standards and requirements of the regulations contained in <cite path="5.43">this chapter</cite>.</text>
+        <text>The building, structure, equipment, or location proposed for the single event does not comply with the requirements and standards of the health, zoning, fire and safety laws of the City and the State of California, or with the development and performance standards and requirements of the regulations contained in <cite path="5.43">this chapter</cite>.
+        </text>
       </para>
       <para>
         <num>(c)</num>
@@ -2139,7 +2170,8 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Within the last five years, the applicant, or person who shall arrange and provide entertainment, their employees, agents, partners, directors, officers, shareholders or managers have either had an entertainment permit issued by the City of San Mateo or any other jurisdiction revoked, or have engaged in conduct that would provide grounds for revocation of such a permit under <cite path="5.43.120">section 5.43.120</cite> of <cite path="5.43">this chapter</cite>.</text>
+        <text>Within the last five years, the applicant, or person who shall arrange and provide entertainment, their employees, agents, partners, directors, officers, shareholders or managers have either had an entertainment permit issued by the City of San Mateo or any other jurisdiction revoked, or have engaged in conduct that would provide grounds for revocation of such a permit under <cite path="5.43.120">section 5.43.120</cite> of <cite path="5.43">this chapter</cite>.
+        </text>
       </para>
       <para>
         <num>(g)</num>
@@ -2159,7 +2191,8 @@
         <text>On determining that grounds for permit revocation exist, the Police Chief shall furnish written notice of the proposed suspension or revocation to the permittee. Such notice shall set forth the time and place of a hearing and the ground or grounds upon which the hearing is based, the pertinent code sections, and a brief statement of the factual matters in support thereof. The notice shall be mailed, postage prepaid, addressed to the last known address of the permittee, or shall be delivered to the permittee personally, at least ten (10) days prior to the hearing date. Hearings shall be conducted in accordance with procedures established by the Police Chief, but at a minimum shall include the following:</text>
         <para>
           <num>(1)</num>
-          <text>All parties involved shall have a right to offer testimonial, documentary, and tangible evidence bearing on the issues; may be represented by counsel; and shall have the right to confront and cross-examine witnesses. Any relevant evidence may be admitted that is the sort of evidence upon which reasonable persons are accustomed to rely in the conduct of serious affairs. Any hearing under this Section may be continued for a reasonable time for the convenience of a party or a witness. The Police Chief's decision may be appealed in accordance with <cite path="5.43.140">Section 5.43.140</cite>.</text>
+          <text>All parties involved shall have a right to offer testimonial, documentary, and tangible evidence bearing on the issues; may be represented by counsel; and shall have the right to confront and cross-examine witnesses. Any relevant evidence may be admitted that is the sort of evidence upon which reasonable persons are accustomed to rely in the conduct of serious affairs. Any hearing under this Section may be continued for a reasonable time for the convenience of a party or a witness. The Police Chief's decision may be appealed in accordance with <cite path="5.43.140">Section 5.43.140</cite>.
+          </text>
         </para>
       </para>
       <para>
@@ -2203,11 +2236,13 @@
         </para>
         <para>
           <num>(C)</num>
-          <text>Any conduct constituting a criminal offense which requires registration under <cite doc="Cal. Penal Code" path="§290">Section 290 of the California Penal Code</cite>.</text>
+          <text>Any conduct constituting a criminal offense which requires registration under <cite doc="Cal. Penal Code" path="§290">Section 290 of the California Penal Code</cite>.
+          </text>
         </para>
         <para>
           <num>(D)</num>
-          <text>The occurrence of acts of lewdness, assignation, or prostitution, including any conduct constituting violations of Sections 315, 316 or 318, or Subdivision b of <cite doc="Cal. Penal Code" path="§647">Section 647 of the California Penal Code</cite>.</text>
+          <text>The occurrence of acts of lewdness, assignation, or prostitution, including any conduct constituting violations of Sections 315, 316 or 318, or Subdivision b of <cite doc="Cal. Penal Code" path="§647">Section 647 of the California Penal Code</cite>.
+          </text>
         </para>
       </para>
       <para>
@@ -2269,7 +2304,8 @@
     <section>
       <num>5.43.150</num>
       <heading>PERFORMANCE STANDARDS FOR ALL ENTERTAINMENT BUSINESSES.</heading>
-      <text>The following performance standards shall apply to all entertainment businesses and shall be deemed conditions of all entertainment permits, and failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>;</text>
+      <text>The following performance standards shall apply to all entertainment businesses and shall be deemed conditions of all entertainment permits, and failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>;
+      </text>
       <para>
         <num>(a)</num>
         <text>Maximum occupancy load, fire exits, aisles and fire equipment shall be regulated, designed and provided in accordance with the Fire Department and building regulations and standards adopted by the City of San Mateo.</text>
@@ -2300,7 +2336,8 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>Businesses with entertainment business permits requiring a multi-agency response or riotous situation response or meeting the definition of an "unruly gathering" as specified in <cite path="7.22">Chapter 7.22</cite> may be charged for police services as provided for in <cite path="7.22">Chapter 7.22</cite>.</text>
+        <text>Businesses with entertainment business permits requiring a multi-agency response or riotous situation response or meeting the definition of an "unruly gathering" as specified in <cite path="7.22">Chapter 7.22</cite> may be charged for police services as provided for in <cite path="7.22">Chapter 7.22</cite>.
+        </text>
       </para>
       <para>
         <num>(i)</num>
@@ -2375,7 +2412,8 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Arcades. The security standards described in subsections (1) and (2) shall not apply to amusement arcades. The security requirements for amusement arcades are established in <cite path="5.43.160">Section 5.43.160</cite>.</text>
+          <text>Arcades. The security standards described in subsections (1) and (2) shall not apply to amusement arcades. The security requirements for amusement arcades are established in <cite path="5.43.160">Section 5.43.160</cite>.
+          </text>
         </para>
       </para>
       <para>
@@ -2423,7 +2461,8 @@
     <section>
       <num>5.43.160</num>
       <heading>PERFORMANCE STANDARDS FOR AMUSEMENT ARCADES.</heading>
-      <text>The following additional requirements shall apply to entertainment businesses providing amusement arcade entertainment; and shall be deemed conditions of the entertainment permit, and failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>.</text>
+      <text>The following additional requirements shall apply to entertainment businesses providing amusement arcade entertainment; and shall be deemed conditions of the entertainment permit, and failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>.
+      </text>
       <para>
         <num>(a)</num>
         <text>All amusement devices within the premises shall be visible to and supervised by an identifiable adult attendant who shall be present at all times when any amusement device is being operated. Such attendant shall be provided with a jacket, vest, or other clothing that clearly identifies such person as an employee of said arcade.</text>
@@ -2501,7 +2540,8 @@
     <section>
       <num>5.43.170</num>
       <heading>PERFORMANCE STANDARDS FOR ADULT CABARETS.</heading>
-      <text>The following additional requirements shall apply to adult cabarets and the failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>:</text>
+      <text>The following additional requirements shall apply to adult cabarets and the failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>:
+      </text>
       <para>
         <num>(a)</num>
         <text>The building entrance to an adult cabaret shall be clearly and legibly posted with a notice indicating that persons under eighteen (18) years of age are precluded from entering the premises. Said notice shall be constructed and posted to the satisfaction of the Community Development Director or designee. No person under the age of eighteen (18) years shall be permitted within the premises at any time.</text>
@@ -2545,7 +2585,8 @@
     <section>
       <num>5.43.180</num>
       <heading>PERFORMANCE STANDARDS FOR ENTERTAINMENT BUSINESSES WHERE ALCOHOLIC BEVERAGES ARE SERVED.</heading>
-      <text>The following additional requirements shall apply to any entertainment business where alcoholic beverages are served anywhere on site, and failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>:</text>
+      <text>The following additional requirements shall apply to any entertainment business where alcoholic beverages are served anywhere on site, and failure to comply with every such requirement shall be grounds for revocation of the permit issued pursuant to <cite path="5.43">this chapter</cite>:
+      </text>
       <para>
         <num>(a)</num>
         <text>The applicant's management staff and employees are encouraged to attend the first available San Mateo sponsored LEAD (Licensed Education on Alcohol and Drugs) seminar on responsible beverage service.</text>
@@ -2639,7 +2680,8 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>It is the Council's further purpose and intent to rely upon the uniform statewide regulations applicable to massage practitioners and establishments that were enacted by the State Legislature in 2008 as <cite doc="Cal. Bus. &amp; Prof. Code">Business and Professions Code</cite> <cite doc="Cal. Bus. &amp; Prof. Code" path="§4600">Sections 4600 et seq.</cite> by Senate Bill 731, and amended in 2011 by Assembly Bill 619 and in 2014 by Assembly Bill 1147, to restrict the commercial practice of massage in the City to those persons duly certified to practice by the California Massage Therapy Council and to provide for the registration and regulation of massage businesses for health and safety purposes to the extent allowed by law.</text>
+        <text>It is the Council's further purpose and intent to rely upon the uniform statewide regulations applicable to massage practitioners and establishments that were enacted by the State Legislature in 2008 as <cite doc="Cal. Bus. &amp; Prof. Code">Business and Professions Code</cite>
+          <cite doc="Cal. Bus. &amp; Prof. Code" path="§4600">Sections 4600 et seq.</cite> by Senate Bill 731, and amended in 2011 by Assembly Bill 619 and in 2014 by Assembly Bill 1147, to restrict the commercial practice of massage in the City to those persons duly certified to practice by the California Massage Therapy Council and to provide for the registration and regulation of massage businesses for health and safety purposes to the extent allowed by law.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-12" path="§1" type="History"/>
@@ -2648,18 +2690,22 @@
     <section>
       <num>5.44.020</num>
       <heading>DEFINITIONS.</heading>
-      <text>For the purposes of <cite path="5.44">this chapter</cite>, unless the particular provision or the context otherwise clearly requires, the definitions in this section shall govern the construction, meaning, and application of words and phrases used in <cite path="5.44">this chapter</cite>.</text>
+      <text>For the purposes of <cite path="5.44">this chapter</cite>, unless the particular provision or the context otherwise clearly requires, the definitions in this section shall govern the construction, meaning, and application of words and phrases used in <cite path="5.44">this chapter</cite>.
+      </text>
       <para>
         <num>(a)</num>
         <text>"Business" includes, but not by way of limitation, everything about which a person can be employed, and means that which occupies the time, attention, and labor of men and women for the purpose of producing a livelihood or profit, and connotes the efforts of men and women by varied and diverse methods of dealing with each other, to improve their individual economic conditions, and for the purposes of <cite path="5.44">this chapter</cite> shall include, without limitation, the advertising and soliciting of massages. The term "business" includes, but is not limited to, a massage practitioner who is the sole owner, operator and employee of a massage business operating as a sole proprietorship, as well as a massage establishment which employs massage practitioners and therapists.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>"California Massage Therapy Council" or "CAMTC" means the massage therapy organization formed pursuant to <cite doc="Cal. Bus. &amp; Prof. Code" path="§4600.5">Business and Professions Code Section 4600.5</cite>.</text>
+        <text>"California Massage Therapy Council" or "CAMTC" means the massage therapy organization formed pursuant to <cite doc="Cal. Bus. &amp; Prof. Code" path="§4600.5">Business and Professions Code Section 4600.5</cite>.
+        </text>
       </para>
       <para>
         <num>(c)</num>
-        <text>"Certified massage practitioner" means any individual certified by the California Massage Therapy Council as a certified massage therapist or as a certified massage practitioner pursuant to <cite doc="Cal. Bus. &amp; Prof. Code">California Business and Professions Code</cite> <cite doc="Cal. Bus. &amp; Prof. Code" path="§4600">Sections 4600 et seq.</cite></text>
+        <text>"Certified massage practitioner" means any individual certified by the California Massage Therapy Council as a certified massage therapist or as a certified massage practitioner pursuant to <cite doc="Cal. Bus. &amp; Prof. Code">California Business and Professions Code</cite>
+          <cite doc="Cal. Bus. &amp; Prof. Code" path="§4600">Sections 4600 et seq.</cite>
+        </text>
       </para>
       <para>
         <num>(d)</num>
@@ -2675,7 +2721,8 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>"City registration certificate" means a registration certificate issued by the Chief of Police upon submission of satisfactory evidence that a massage business employs or uses only certified massage practitioners pursuant to <cite path="5.44">this chapter</cite>.</text>
+        <text>"City registration certificate" means a registration certificate issued by the Chief of Police upon submission of satisfactory evidence that a massage business employs or uses only certified massage practitioners pursuant to <cite path="5.44">this chapter</cite>.
+        </text>
       </para>
       <para>
         <num>(h)</num>
@@ -2770,7 +2817,8 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Businesses. It shall be unlawful for any business to provide massage for compensation within the City of San Mateo unless all individuals employed by the massage business to perform massage, whether as an employee, independent contractor, or sole proprietorship, are certified massage practitioners and said business has obtained a valid City registration certificate as provided in <cite path="5.44">this chapter</cite>.</text>
+        <text>Businesses. It shall be unlawful for any business to provide massage for compensation within the City of San Mateo unless all individuals employed by the massage business to perform massage, whether as an employee, independent contractor, or sole proprietorship, are certified massage practitioners and said business has obtained a valid City registration certificate as provided in <cite path="5.44">this chapter</cite>.
+        </text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-12" path="§1" type="History"/>
@@ -2820,7 +2868,8 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>For all owners, a signed statement that all of the information contained in the application is true and correct; that all owners shall be responsible for the conduct of the business's employees or independent contractors providing massage services; and acknowledging that failure to comply with the <cite doc="Cal. Bus. &amp; Prof. Code">California Business and Professions Code</cite> <cite doc="Cal. Bus. &amp; Prof. Code" path="§4600">Sections 4600 et seq.</cite>, and local, state, or federal law, or the provisions of <cite path="5.44">this chapter</cite> may result in revocation of the business's City registration certificate.</text>
+          <text>For all owners, a signed statement that all of the information contained in the application is true and correct; that all owners shall be responsible for the conduct of the business's employees or independent contractors providing massage services; and acknowledging that failure to comply with the <cite doc="Cal. Bus. &amp; Prof. Code">California Business and Professions Code</cite>
+            <cite doc="Cal. Bus. &amp; Prof. Code" path="§4600">Sections 4600 et seq.</cite>, and local, state, or federal law, or the provisions of <cite path="5.44">this chapter</cite> may result in revocation of the business's City registration certificate.</text>
         </para>
       </para>
       <para>
@@ -2909,7 +2958,8 @@
       </para>
       <para>
         <num>(l)</num>
-        <text>No massage business shall place, publish or distribute, or cause to be placed, published or distributed any advertising matter that depicts any portion of the human body that would reasonably suggest to prospective clients that any service is available other than those services listed as an available service pursuant to <cite path="5.44.050|(c)">Section 5.44.050(c)</cite>, nor shall any massage business employ language in the text of such advertising that would reasonably suggest to a prospective client that any service is available other than those services as described in compliance with the provisions of <cite path="5.44">this chapter</cite>.</text>
+        <text>No massage business shall place, publish or distribute, or cause to be placed, published or distributed any advertising matter that depicts any portion of the human body that would reasonably suggest to prospective clients that any service is available other than those services listed as an available service pursuant to <cite path="5.44.050|(c)">Section 5.44.050(c)</cite>, nor shall any massage business employ language in the text of such advertising that would reasonably suggest to a prospective client that any service is available other than those services as described in compliance with the provisions of <cite path="5.44">this chapter</cite>.
+        </text>
       </para>
       <para>
         <num>(m)</num>
@@ -3093,7 +3143,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>An owner or sole proprietor fails to register under the provisions of <cite doc="Cal. Penal Code" path="§290">California Penal Code Section 290</cite> (sex offender registration), is convicted of <cite doc="Cal. Penal Code">California Penal Code</cite> Sections <cite doc="Cal. Penal Code" path="§266i">266i</cite> (pandering), <cite doc="Cal. Penal Code" path="§315">315</cite> (keeping or residing in a house of ill-fame), <cite doc="Cal. Penal Code" path="§316">316</cite> (keeping disorderly house), <cite doc="Cal. Penal Code" path="§318">318</cite> (prevailing upon person to visit a place for prostitution), <cite doc="Cal. Penal Code" path="§647">647(b)</cite> (engaging in or soliciting prostitution), <cite doc="Cal. Penal Code" path="§653.22">653.22</cite> (loitering with intent to commit prostitution), <cite doc="Cal. Penal Code" path="§653.23">653.23</cite> (supervision of prostitute); has a business permit or license denied, revoked, restricted, or suspended by any agency, board, city, county, territory, or state; is subject to an injunction for nuisance pursuant to <cite doc="Cal. Penal Code">California Penal Code</cite> Sections <cite doc="Cal. Penal Code" path="§11225">11225</cite>-<cite doc="Cal. Penal Code" path="§11235">11235</cite> (red light abatement); is convicted of a felony offense involving the sale of a controlled substance; is convicted of any crime involving dishonesty, fraud, deceit, violence, or moral turpitude; or is convicted in any other state of an offense which, if committed in this state, would have been punishable as one or more referenced offenses in this subsection.</text>
+          <text>An owner or sole proprietor fails to register under the provisions of <cite doc="Cal. Penal Code" path="§290">California Penal Code Section 290</cite> (sex offender registration), is convicted of <cite doc="Cal. Penal Code">California Penal Code</cite> Sections <cite doc="Cal. Penal Code" path="§266i">266i</cite> (pandering), <cite doc="Cal. Penal Code" path="§315">315</cite> (keeping or residing in a house of ill-fame), <cite doc="Cal. Penal Code" path="§316">316</cite> (keeping disorderly house), <cite doc="Cal. Penal Code" path="§318">318</cite> (prevailing upon person to visit a place for prostitution), <cite doc="Cal. Penal Code" path="§647">647(b)</cite> (engaging in or soliciting prostitution), <cite doc="Cal. Penal Code" path="§653.22">653.22</cite> (loitering with intent to commit prostitution), <cite doc="Cal. Penal Code" path="§653.23">653.23</cite> (supervision of prostitute); has a business permit or license denied, revoked, restricted, or suspended by any agency, board, city, county, territory, or state; is subject to an injunction for nuisance pursuant to <cite doc="Cal. Penal Code">California Penal Code</cite> Sections <cite doc="Cal. Penal Code" path="§11225">11225</cite>-            <cite doc="Cal. Penal Code" path="§11235">11235</cite> (red light abatement); is convicted of a felony offense involving the sale of a controlled substance; is convicted of any crime involving dishonesty, fraud, deceit, violence, or moral turpitude; or is convicted in any other state of an offense which, if committed in this state, would have been punishable as one or more referenced offenses in this subsection.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -3101,7 +3151,9 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Violations of any of the following occurred on the premises of a massage business or were committed by a massage practitioner: <cite doc="Cal. Bus. &amp; Prof. Code">California Business and Professions Code</cite> <cite doc="Cal. Bus. &amp; Prof. Code" path="§4600">Sections 4600 et seq.</cite>; any local, state, or federal law; or the provisions of <cite path="5.44">this chapter</cite>.</text>
+          <text>Violations of any of the following occurred on the premises of a massage business or were committed by a massage practitioner: <cite doc="Cal. Bus. &amp; Prof. Code">California Business and Professions Code</cite>
+            <cite doc="Cal. Bus. &amp; Prof. Code" path="§4600">Sections 4600 et seq.</cite>; any local, state, or federal law; or the provisions of <cite path="5.44">this chapter</cite>.
+          </text>
         </para>
       </para>
       <para>
@@ -3150,7 +3202,8 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Evidence. The following rules shall apply to any hearing required by this section. All parties involved shall have the right to offer testimonial, documentary, and tangible evidence bearing on the issues, to be represented by counsel, and to confront and cross-examine witnesses. Any relevant evidence may be admitted if it is the sort of evidence upon which reasonable persons are accustomed to rely in the conduct of serious affairs. Formal rules of evidence and discovery do not apply to proceedings governed by <cite path="5.44">this chapter</cite>. Unless otherwise specifically prohibited by law, the burden of proof is on the registrant in any hearing or other matter under <cite path="5.44">this chapter</cite>.</text>
+        <text>Evidence. The following rules shall apply to any hearing required by this section. All parties involved shall have the right to offer testimonial, documentary, and tangible evidence bearing on the issues, to be represented by counsel, and to confront and cross-examine witnesses. Any relevant evidence may be admitted if it is the sort of evidence upon which reasonable persons are accustomed to rely in the conduct of serious affairs. Formal rules of evidence and discovery do not apply to proceedings governed by <cite path="5.44">this chapter</cite>. Unless otherwise specifically prohibited by law, the burden of proof is on the registrant in any hearing or other matter under <cite path="5.44">this chapter</cite>.
+        </text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-12" path="§1" type="History"/>
@@ -3169,11 +3222,13 @@
     <prefix>Chapter</prefix>
     <num>5.45</num>
     <heading>PAWNBROKERS—SECONDHAND DEALERS</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding pawnbrokers generally see <cite doc="Cal. Fin. Code" path="§21000">Cal. Fin. 21000</cite> et seq. For the license fee for a pawnbroker or secondhand dealer, see <cite path="5.24.320" proof="needed">Section 5.24.320</cite>.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding pawnbrokers generally see <cite doc="Cal. Fin. Code" path="§21000">Cal. Fin. 21000</cite> et seq. For the license fee for a pawnbroker or secondhand dealer, see <cite path="5.24.320" proof="needed">Section 5.24.320</cite>.
+    </annotation>
     <section>
       <num>5.45.005</num>
       <heading>PERMIT REQUIRED.</heading>
-      <text>No person may buy, sell, exchange, receive in pledge, or otherwise deal in, whether as a separate business or in connection with other business, secondhand or used diamonds, jewelry, silverware, old gold or silver within the City without first obtaining a permit to do so pursuant to <cite path="5.15">Chapter 5.15</cite>.</text>
+      <text>No person may buy, sell, exchange, receive in pledge, or otherwise deal in, whether as a separate business or in connection with other business, secondhand or used diamonds, jewelry, silverware, old gold or silver within the City without first obtaining a permit to do so pursuant to <cite path="5.15">Chapter 5.15</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§103" type="History"/>
       </annotations>
@@ -3207,8 +3262,10 @@
     <prefix>Chapter</prefix>
     <num>5.48</num>
     <heading>PEDDLERS AND SOLICITORS—EXEMPTIONS</heading>
-    <annotation type="Editor's Notes">For the license fee for peddlers, see <cite path="5.24.190">Section 5.24.190</cite>.</annotation>
-    <annotation type="Editor's Notes">For the license fee for solicitors, see <cite path="5.24.230">Section 5.24.230</cite>.</annotation>
+    <annotation type="Editor's Notes">For the license fee for peddlers, see <cite path="5.24.190">Section 5.24.190</cite>.
+    </annotation>
+    <annotation type="Editor's Notes">For the license fee for solicitors, see <cite path="5.24.230">Section 5.24.230</cite>.
+    </annotation>
     <section>
       <num>5.48.010</num>
       <heading>INTERSTATE COMMERCE.</heading>
@@ -3335,7 +3392,8 @@
     <section>
       <num>5.49.020</num>
       <heading>PERMIT REQUIRED.</heading>
-      <text>It is unlawful for any person to operate, engage in, conduct, carry on, or permit to be operated, engaged in, conducted or carried on (as the owner of the business or as a person in a management capacity), the business of a tanning facility or other similar establishment, unless a permit has first been obtained pursuant to <cite path="5.49">this chapter</cite> and remains in effect in accordance with the provisions of <cite path="5.49">this chapter</cite>.</text>
+      <text>It is unlawful for any person to operate, engage in, conduct, carry on, or permit to be operated, engaged in, conducted or carried on (as the owner of the business or as a person in a management capacity), the business of a tanning facility or other similar establishment, unless a permit has first been obtained pursuant to <cite path="5.49">this chapter</cite> and remains in effect in accordance with the provisions of <cite path="5.49">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-27" path="§1" type="History"/>
       </annotations>
@@ -3425,7 +3483,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>All convictions for any crime involving conduct which requires registration under <cite doc="Cal. Penal Code" path="§290">California Penal Code Section 290</cite>, or convictions of <cite doc="Cal. Penal Code">California Penal Code</cite> Sections <cite doc="Cal. Penal Code" path="§314">314</cite>, <cite doc="Cal. Penal Code" path="§415">415</cite>, <cite doc="Cal. Penal Code" path="§316">316</cite>, <cite doc="Cal. Penal Code" path="§318">318</cite>, <cite doc="Cal. Penal Code" path="§647">647</cite>(a), (b), (as now written or as amended), or convictions of crimes designated in <cite doc="Cal. Gov't Code" path="§51032|(b)">Government Code Section 51032(b)</cite> or <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702">Business and Professions Code Section 22702</cite> et. seq., or any crime involving dishonesty, fraud, deceit, violence or moral turpitude. Convictions under the laws of other states or countries which proscribe the same conduct or similar conduct as the adore-designated California crimes shall be provided. Convictions that have been expunged must be reported. All injunctions for nuisances under <cite doc="Cal. Penal Code" path="§11225">Penal Code Section 11225</cite> or similar laws.</text>
+          <text>All convictions for any crime involving conduct which requires registration under <cite doc="Cal. Penal Code" path="§290">California Penal Code Section 290</cite>, or convictions of <cite doc="Cal. Penal Code">California Penal Code</cite> Sections <cite doc="Cal. Penal Code" path="§314">314</cite>,            <cite doc="Cal. Penal Code" path="§415">415</cite>,            <cite doc="Cal. Penal Code" path="§316">316</cite>,            <cite doc="Cal. Penal Code" path="§318">318</cite>,            <cite doc="Cal. Penal Code" path="§647">647</cite>(a), (b), (as now written or as amended), or convictions of crimes designated in <cite doc="Cal. Gov't Code" path="§51032|(b)">Government Code Section 51032(b)</cite> or <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702">Business and Professions Code Section 22702</cite> et. seq., or any crime involving dishonesty, fraud, deceit, violence or moral turpitude. Convictions under the laws of other states or countries which proscribe the same conduct or similar conduct as the adore-designated California crimes shall be provided. Convictions that have been expunged must be reported. All injunctions for nuisances under <cite doc="Cal. Penal Code" path="§11225">Penal Code Section 11225</cite> or similar laws.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -3505,7 +3563,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>The applicant, if an individual, or any of the stockholders of the corporation, or any officers or director, if the applicant is a corporation; or a partner if the applicant is a partnership, or the managing responsible officer has not been convicted within 5 years preceding application in a court of competent jurisdiction of an offense involving conduct which requires registration under <cite doc="Cal. Penal Code" path="§290">California Penal Code Section 290</cite>, or of conduct which is a violation of the provisions of <cite doc="Cal. Penal Code">California Penal code</cite> Sections <cite doc="Cal. Penal Code" path="§314">314</cite>, <cite doc="Cal. Penal Code" path="§315">315</cite>, <cite doc="Cal. Penal Code" path="§316">316</cite>, <cite doc="Cal. Penal Code" path="§318">318</cite>, <cite doc="Cal. Penal Code" path="§647">647</cite>(a), (b), (as now written or as amended), violation of <cite path="5.44">Chapter 5.44 of the Municipal Code</cite> or of crimes that are designated in <cite doc="Cal. Gov't Code" path="§51032|(b)">Government Code Section 51032(b)</cite> or <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702">Business and Professions Code Section 22702</cite> et. seq., or any other crime involving dishonest, fraud, deceit, violence or moral turpitude; or that an injunction has not been issued under <cite doc="Cal. Penal Code" path="§11225">Penal Code Section 11225</cite>. Convictions under the laws of other states or countries which proscribe the same or similar conduct as the adore-designated California crimes shall be considered.</text>
+          <text>The applicant, if an individual, or any of the stockholders of the corporation, or any officers or director, if the applicant is a corporation; or a partner if the applicant is a partnership, or the managing responsible officer has not been convicted within 5 years preceding application in a court of competent jurisdiction of an offense involving conduct which requires registration under <cite doc="Cal. Penal Code" path="§290">California Penal Code Section 290</cite>, or of conduct which is a violation of the provisions of <cite doc="Cal. Penal Code">California Penal code</cite> Sections <cite doc="Cal. Penal Code" path="§314">314</cite>,            <cite doc="Cal. Penal Code" path="§315">315</cite>,            <cite doc="Cal. Penal Code" path="§316">316</cite>,            <cite doc="Cal. Penal Code" path="§318">318</cite>,            <cite doc="Cal. Penal Code" path="§647">647</cite>(a), (b), (as now written or as amended), violation of <cite path="5.44">Chapter 5.44 of the Municipal Code</cite> or of crimes that are designated in <cite doc="Cal. Gov't Code" path="§51032|(b)">Government Code Section 51032(b)</cite> or <cite doc="Cal. Bus. &amp; Prof. Code" path="§22702">Business and Professions Code Section 22702</cite> et. seq., or any other crime involving dishonest, fraud, deceit, violence or moral turpitude; or that an injunction has not been issued under <cite doc="Cal. Penal Code" path="§11225">Penal Code Section 11225</cite>. Convictions under the laws of other states or countries which proscribe the same or similar conduct as the adore-designated California crimes shall be considered.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -3534,7 +3592,8 @@
       <text>All tanning facilities or other similar establishments shall comply with the following operating and sanitation requirements:</text>
       <para>
         <num>(a)</num>
-        <text>Advertising. No such establishment granted a permit under the provisions of <cite path="5.49">this chapter</cite> shall place, publish or distribute or cause to be placed, published or distributed, any advertising matter that describes or depicts any portion of the human body or any service in a manner which would reasonably suggest to prospective patrons that any service is available other than those services described in <cite doc="Cal. Bus. &amp; Prof. Code" path="§22700">Section 22700 et seq. of the Business and Professions Code</cite>.</text>
+        <text>Advertising. No such establishment granted a permit under the provisions of <cite path="5.49">this chapter</cite> shall place, publish or distribute or cause to be placed, published or distributed, any advertising matter that describes or depicts any portion of the human body or any service in a manner which would reasonably suggest to prospective patrons that any service is available other than those services described in <cite doc="Cal. Bus. &amp; Prof. Code" path="§22700">Section 22700 et seq. of the Business and Professions Code</cite>.
+        </text>
       </para>
       <para>
         <num>(b)</num>
@@ -3583,7 +3642,8 @@
     <section>
       <num>5.49.080</num>
       <heading>INSPECTION BY OFFICIALS.</heading>
-      <text>The investigating and enforcing officials of the City of San Mateo, including the health officer for the City of San Mateo, (as designated by the City Manager) or their designees, shall have the right to enter the premises from time to time during regular business hours for the purpose of making reasonable inspections to observe and enforce compliance with building, fire, electrical, plumbing or health regulations, and to enforce compliance with applicable regulations, laws, and provisions of <cite path="5.49">this chapter</cite>.</text>
+      <text>The investigating and enforcing officials of the City of San Mateo, including the health officer for the City of San Mateo, (as designated by the City Manager) or their designees, shall have the right to enter the premises from time to time during regular business hours for the purpose of making reasonable inspections to observe and enforce compliance with building, fire, electrical, plumbing or health regulations, and to enforce compliance with applicable regulations, laws, and provisions of <cite path="5.49">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-27" path="§1" type="History"/>
       </annotations>
@@ -3618,7 +3678,8 @@
     <section>
       <num>5.49.120</num>
       <heading>NEW EMPLOYEES—NOTIFICATION.</heading>
-      <text>The holder of the permit shall notify the Chief of Police, in writing, of the name and address of each person employed as such facility within five (5) days of this person's being employed. The requirements of this section are in addition to the other provisions of <cite path="5.49">this chapter</cite>.</text>
+      <text>The holder of the permit shall notify the Chief of Police, in writing, of the name and address of each person employed as such facility within five (5) days of this person's being employed. The requirements of this section are in addition to the other provisions of <cite path="5.49">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-27" path="§1" type="History"/>
       </annotations>
@@ -3627,7 +3688,8 @@
       <num>5.49.130</num>
       <heading>RENEWAL OF PERMITS—TANNING FACILITIES.</heading>
       <text>Permits shall expire on the anniversary date of its issuance unless sooner suspended or revoked. Permittees shall have thirty (30) days from the date of expiration to renew their permit and may apply 30 days prior to expiration. If, upon the thirty-first day an application of renewal has not been received, the permit shall be deemed suspended until such time as the renewal application has been received. If a renewal application and all required information for the renewal is not received within 60 days after expiration, the license shall be deemed expired and no privilege shall exist.</text>
-      <text>Renewals shall be processed and investigated and the applicant is required to submit that information which has changed from the last application or renewal. A renewal fee in the sum as set forth in the City Fee Schedule shall be charged to pay, in part, the cost of the investigation required by <cite path="5.49">this chapter</cite>.</text>
+      <text>Renewals shall be processed and investigated and the applicant is required to submit that information which has changed from the last application or renewal. A renewal fee in the sum as set forth in the City Fee Schedule shall be charged to pay, in part, the cost of the investigation required by <cite path="5.49">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-27" path="§1" type="History"/>
       </annotations>
@@ -3635,7 +3697,8 @@
     <section>
       <num>5.49.140</num>
       <heading>APPLICATION OF REGULATIONS TO EXISTING TANNING FACILITIES.</heading>
-      <text>The provisions of <cite path="5.49">this chapter</cite> shall be applicable to all persons and businesses whether the business was established before or after the effective date of <cite path="5.49">this chapter</cite>, except that facilities legally in business prior to the effective date shall have 30 days to file for a permit and to comply with the provisions of <cite path="5.49">this chapter</cite>.</text>
+      <text>The provisions of <cite path="5.49">this chapter</cite> shall be applicable to all persons and businesses whether the business was established before or after the effective date of <cite path="5.49">this chapter</cite>, except that facilities legally in business prior to the effective date shall have 30 days to file for a permit and to comply with the provisions of <cite path="5.49">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-27" path="§1" type="History"/>
       </annotations>
@@ -3665,7 +3728,8 @@
     <section>
       <num>5.49.170</num>
       <heading>BURDEN OF PROOF.</heading>
-      <text>Unless otherwise specifically prohibited by law, the burden of proof is on the permittee/applicant in any hearing or other matter under <cite path="5.49">this chapter</cite>.</text>
+      <text>Unless otherwise specifically prohibited by law, the burden of proof is on the permittee/applicant in any hearing or other matter under <cite path="5.49">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-27" path="§1" type="History"/>
       </annotations>
@@ -3691,7 +3755,8 @@
     <prefix>Chapter</prefix>
     <num>5.51</num>
     <heading>POOL HALLS</heading>
-    <annotation type="Editor's Notes">For the license fee for pool halls, see <cite path="5.24.320" proof="needed">Section 5.24.320</cite>.</annotation>
+    <annotation type="Editor's Notes">For the license fee for pool halls, see <cite path="5.24.320" proof="needed">Section 5.24.320</cite>.
+    </annotation>
     <section>
       <num>5.51.010</num>
       <heading>CLOSING HOURS.</heading>
@@ -3705,13 +3770,15 @@
     <prefix>Chapter</prefix>
     <num>5.57</num>
     <heading>PRIVATE PATROLS AND SECURITY SERVICES</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding private detectives generally see West's Cal. Bus. &amp; P.C.A. §§ 7500 et seq. for the provisions authorizing cities to regulate any special patrol and require registration see Cal. Bus &amp; P.C.A. § 7523. For provisions relating to police badges and uniforms, see <cite path="2.39">chapter 2.39</cite>.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding private detectives generally see West's Cal. Bus. &amp; P.C.A. §§ 7500 et seq. for the provisions authorizing cities to regulate any special patrol and require registration see Cal. Bus &amp; P.C.A. § 7523. For provisions relating to police badges and uniforms, see <cite path="2.39">chapter 2.39</cite>.
+    </annotation>
     <section>
       <num>5.57.010</num>
       <heading>PERMIT—REQUIRED.</heading>
       <text>No person shall manage, conduct or carry on the business of a private patrol or security service unless under and by the authority of a written permit from the bureau.</text>
       <text>For the purposes of <cite path="5.57">this chapter</cite>, the terms "private patrol" and "security service" mean a business or occupation in which any person who performs as a street patrol officer or who furnishes street patrol service or street patrol special officers to protect persons or property, whether for public or private purposes, or to prevent the theft, unlawful taking, loss, embezzlement, misappropriation, or concealment of any goods, wares, merchandise, money, bonds, stocks, notes, documents, papers, or property of any kind; or performs the duties of such a street patrol special officer or street patrol service for any of said purposes.</text>
-      <text>A person who is engaged to safeguard private property and whose duties are carried out on private property, making only incidental use of the streets to travel from one location to another and not intending to make known his or her presence on the streets as a deterrent to law violators or engage in street surveillance is not subject to the requirements of <cite path="5.57">this chapter</cite>.</text>
+      <text>A person who is engaged to safeguard private property and whose duties are carried out on private property, making only incidental use of the streets to travel from one location to another and not intending to make known his or her presence on the streets as a deterrent to law violators or engage in street surveillance is not subject to the requirements of <cite path="5.57">this chapter</cite>.
+      </text>
       <annotations>
         <annotation type="History">prior code § 10.44(a)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1974-14" path="§1" type="History"/>
@@ -3722,7 +3789,8 @@
     <section>
       <num>5.57.080</num>
       <heading>RULES AND REGULATIONS.</heading>
-      <text>The City Manager and the police chief shall promulgate rules and regulations to govern the management, conduct and carrying on of a private patrol or security service, including the fees to be charged for processing the permit application, which shall be approved by the City Council by resolution. When so approved, they shall be enforceable as part of <cite path="5.57">this chapter</cite>.</text>
+      <text>The City Manager and the police chief shall promulgate rules and regulations to govern the management, conduct and carrying on of a private patrol or security service, including the fees to be charged for processing the permit application, which shall be approved by the City Council by resolution. When so approved, they shall be enforceable as part of <cite path="5.57">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1974-14" path="§1" type="History"/>
       </annotations>
@@ -3740,7 +3808,8 @@
     <prefix>Chapter</prefix>
     <num>5.60</num>
     <heading>PUBLIC DANCES</heading>
-    <annotation type="Editor's Notes">For the statutory provisions directing the mayor or Chief of Police to provide a sufficient number of police to attend and keep the peace at public meetings see <cite doc="Cal. Gov't Code" path="§38638">Cal. Gov. C.A. § 38638</cite>. For the license fee for a public dance, see <cite path="5.24.210">Section 5.24.210</cite>.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions directing the mayor or Chief of Police to provide a sufficient number of police to attend and keep the peace at public meetings see <cite doc="Cal. Gov't Code" path="§38638">Cal. Gov. C.A. § 38638</cite>. For the license fee for a public dance, see <cite path="5.24.210">Section 5.24.210</cite>.
+    </annotation>
     <section>
       <num>5.60.010</num>
       <heading>DEFINITIONS.</heading>
@@ -3862,7 +3931,8 @@
     <section>
       <num>5.64.020</num>
       <heading>PERMITTED USE.</heading>
-      <text>Sales of personal property to the general public by means of a "garage," "patio" or other sales similarly conducted shall be a permitted use in residential zones notwithstanding other restrictions of this code, provided such sales are held and conducted in accordance with the provisions of <cite path="5.64">this chapter</cite>.</text>
+      <text>Sales of personal property to the general public by means of a "garage," "patio" or other sales similarly conducted shall be a permitted use in residential zones notwithstanding other restrictions of this code, provided such sales are held and conducted in accordance with the provisions of <cite path="5.64">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1975-32" path="§1" type="History"/>
       </annotations>
@@ -3904,7 +3974,8 @@
     <section>
       <num>5.64.070</num>
       <heading>LICENSED RETAIL OR WHOLESALE DEALERS.</heading>
-      <text>No licensed retail or wholesale dealer shall be permitted to consign or offer for sale any goods or merchandise or participate in any private sale authorized by <cite path="5.64">this chapter</cite>.</text>
+      <text>No licensed retail or wholesale dealer shall be permitted to consign or offer for sale any goods or merchandise or participate in any private sale authorized by <cite path="5.64">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1975-32" path="§1" type="History"/>
       </annotations>
@@ -3912,7 +3983,8 @@
     <section>
       <num>5.64.080</num>
       <heading>RIGHT TO INSPECT.</heading>
-      <text>Any member of the Police Department shall have the right to inspect the merchandise on display or stored for sale on the premises during a sale authorized by <cite path="5.64">this chapter</cite>.</text>
+      <text>Any member of the Police Department shall have the right to inspect the merchandise on display or stored for sale on the premises during a sale authorized by <cite path="5.64">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1975-32" path="§1" type="History"/>
       </annotations>
@@ -4067,7 +4139,8 @@
     <section>
       <num>5.69.150</num>
       <heading>PRIOR LICENSE, PERMIT OR CERTIFICATE INVALID.</heading>
-      <text>No license, permit, or certificate granted and in effect pursuant to any provision of this code, other than those applying to regulated sales, shall be effective for a regulated sale, without first obtaining a permit for a regulated sale pursuant to <cite path="5.69">this chapter</cite>.</text>
+      <text>No license, permit, or certificate granted and in effect pursuant to any provision of this code, other than those applying to regulated sales, shall be effective for a regulated sale, without first obtaining a permit for a regulated sale pursuant to <cite path="5.69">this chapter</cite>.
+      </text>
       <annotations>
         <annotation type="History">prior code § 39.62</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§127" type="History"/>
@@ -4089,7 +4162,8 @@
     <section>
       <num>5.70.010</num>
       <heading>DEFINITIONS.</heading>
-      <text>The following definitions shall be applied to terms used in <cite path="5.70">this chapter</cite>:</text>
+      <text>The following definitions shall be applied to terms used in <cite path="5.70">this chapter</cite>:
+      </text>
       <para>
         <num>(1)</num>
         <text>"Amusement machine" is any device, game, or contrivance including, but not limited to, pin ball machines, video games, computer games and electronic games, for which a charge or payment is received for the privilege of playing, using, or operating the same and which, as the result of such use, operation, or playing does not entitle the person using, operating, or playing such device, game, or contrivance to receive the same return in market value in the form of tangible merchandise each time such device, game, or contrivance is used, operated, or played.</text>
@@ -4117,7 +4191,8 @@
     <section>
       <num>5.70.030</num>
       <heading>APPLICATION.</heading>
-      <text>Application for such a permit under <cite path="5.70">this chapter</cite> shall be made to the bureau, upon a form furnished by the City, and shall contain the following information and statements instead of that required in <cite path="5.15.010">Section 5.15.010</cite>:</text>
+      <text>Application for such a permit under <cite path="5.70">this chapter</cite> shall be made to the bureau, upon a form furnished by the City, and shall contain the following information and statements instead of that required in <cite path="5.15.010">Section 5.15.010</cite>:
+      </text>
       <para>
         <num>(1)</num>
         <text>Name of the applicant;</text>
@@ -4145,7 +4220,7 @@
       <para>
         <num>(7)</num>
         <text>A statement that the amusement machine for which a permit is sought is not intended to be, and will not be permitted to be, used for any gambling purpose whatsoever.</text>
-        <text>Each application shall be accompanied by the applicable permit fee.</text>
+        <aftertext>Each application shall be accompanied by the applicable permit fee.</aftertext>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1972-3" path="§1" type="History"/>
@@ -4219,7 +4294,8 @@
     <prefix>Chapter</prefix>
     <num>5.75</num>
     <heading>TAXICABS—PUBLIC VEHICLES</heading>
-    <annotation type="Editor's Notes">For the statutory authority of local authorities within the reasonable exercise of their police power to license and regulate the operation of any vehicle for hire and the drivers of passenger vehicles for hire see <cite doc="Cal. Veh. Code" path="§16501">Cal. Veh. C.A. § 16501</cite>. For the provisions regarding carriers generally see Cal. C. C.A. § 2085 et seq. See also Cal. Pub. U. C.A. §§ 200 et seq. For the provisions regarding financial responsibility see <cite doc="Cal. Veh. Code" path="§16550">Cal. Veh. C.A. §§ 16550 et seq.</cite></annotation>
+    <annotation type="Editor's Notes">For the statutory authority of local authorities within the reasonable exercise of their police power to license and regulate the operation of any vehicle for hire and the drivers of passenger vehicles for hire see <cite doc="Cal. Veh. Code" path="§16501">Cal. Veh. C.A. § 16501</cite>. For the provisions regarding carriers generally see Cal. C. C.A. § 2085 et seq. See also Cal. Pub. U. C.A. §§ 200 et seq. For the provisions regarding financial responsibility see <cite doc="Cal. Veh. Code" path="§16550">Cal. Veh. C.A. §§ 16550 et seq.</cite>
+    </annotation>
     <section>
       <num>5.75.010</num>
       <heading>DEFINITIONS.</heading>
@@ -4263,7 +4339,8 @@
     <section>
       <num>5.75.020</num>
       <heading>PERMIT REQUIRED—FEES.</heading>
-      <text>No public vehicle or taxicab shall be operated in the City to pick up any passengers unless a permit has been issued to the owner thereof, and is in force currently paid for, and valid. Every permit shall expire on the 30th of June of the year after it is issued. No permit shall be issued unless a certificate of public convenience and necessity has first been issued by the City Manager as set forth in <cite path="5.75">this chapter</cite>.</text>
+      <text>No public vehicle or taxicab shall be operated in the City to pick up any passengers unless a permit has been issued to the owner thereof, and is in force currently paid for, and valid. Every permit shall expire on the 30th of June of the year after it is issued. No permit shall be issued unless a certificate of public convenience and necessity has first been issued by the City Manager as set forth in <cite path="5.75">this chapter</cite>.
+      </text>
       <text>The fees for the right to operate each taxicab shall be established by the resolution of the Council. Fees for the right to operate each taxicab shall be paid by the operator to the Tax Collector upon issuance of the initial permit and each year thereafter. In addition, an initial processing fee for each operator shall be paid by the operator to the Tax Collector upon issuance of the original certificate of convenience and necessity.</text>
       <text>Any permit fees required by this section shall be in addition to the fees required by the laws of the State on all motor vehicles.</text>
       <annotations>
@@ -4313,7 +4390,8 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>This application letter should be filed along with the owner's application for a taxicab company permit (see <cite path="5.75.040">Section 5.75.040</cite>).</text>
+        <text>This application letter should be filed along with the owner's application for a taxicab company permit (see <cite path="5.75.040">Section 5.75.040</cite>).
+        </text>
       </para>
       <para>
         <num>(d)</num>
@@ -4358,9 +4436,10 @@
       <para>
         <num>(g)</num>
         <text>If the public convenience and necessity require the additional taxicab service, the City Manager or designee shall grant certificates of public convenience and necessity to those owners applying therefor.</text>
-        <text>The City Manager or designee shall determine the number of taxicabs which the public convenience and necessity indicate the applicant or applicants may operate.</text>
-        <text>No certificate of public convenience and necessity shall be issued to any owner or owners who have not fully complied with all of the requirements of <cite path="5.75">this chapter</cite>.</text>
       </para>
+      <aftertext>The City Manager or designee shall determine the number of taxicabs which the public convenience and necessity indicate the applicant or applicants may operate.</aftertext>
+      <aftertext>No certificate of public convenience and necessity shall be issued to any owner or owners who have not fully complied with all of the requirements of <cite path="5.75">this chapter</cite>.
+      </aftertext>
       <para>
         <num>(h)</num>
         <text>The provisions of this section shall not affect the number of taxicabs operating with valid licenses on the effective date hereof.</text>
@@ -4383,11 +4462,13 @@
       </para>
       <para>
         <num>(m)</num>
-        <text>No fee shall be charged for the filing of application for certificates of public convenience and necessity, as herein specified, but fees shall be paid to the Tax Collector in the amount and manner specified in <cite path="5.75.020">Section 5.75.020</cite>.</text>
+        <text>No fee shall be charged for the filing of application for certificates of public convenience and necessity, as herein specified, but fees shall be paid to the Tax Collector in the amount and manner specified in <cite path="5.75.020">Section 5.75.020</cite>.
+        </text>
       </para>
       <para>
         <num>(n)</num>
-        <text>For each taxicab that a taxicab owner desires to operate to pick up passengers within the City, the owner shall, before operating such a taxicab, obtain a permit pursuant to <cite path="5.75.040">Section 5.75.040</cite>.</text>
+        <text>For each taxicab that a taxicab owner desires to operate to pick up passengers within the City, the owner shall, before operating such a taxicab, obtain a permit pursuant to <cite path="5.75.040">Section 5.75.040</cite>.
+        </text>
       </para>
       <annotations>
         <annotation type="History">prior code § 75.07</annotation>
@@ -4420,7 +4501,8 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>This application for a taxicab company permit must be filed simultaneously with the owner's application for a certificate of convenience and necessity so that the City Manager can process the two (2) applications together. The taxicab company permit will not be issued until it is determined that public convenience and necessity justify approval of the permit (see <cite path="5.75.030">Section 5.75.030</cite>).</text>
+        <text>This application for a taxicab company permit must be filed simultaneously with the owner's application for a certificate of convenience and necessity so that the City Manager can process the two (2) applications together. The taxicab company permit will not be issued until it is determined that public convenience and necessity justify approval of the permit (see <cite path="5.75.030">Section 5.75.030</cite>).
+        </text>
       </para>
       <para>
         <num>(d)</num>
@@ -4436,7 +4518,8 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>If the owner of a taxicab company permit sells, transfers or discontinues the business, the permit to operate the taxicab company will be automatically revoked. Any new owner of an existing business must apply for a new taxicab company permit prior to taking over the operation of the business. (See also <cite path="5.75.030|(j)">Section 5.75.030(j)</cite>.)</text>
+        <text>If the owner of a taxicab company permit sells, transfers or discontinues the business, the permit to operate the taxicab company will be automatically revoked. Any new owner of an existing business must apply for a new taxicab company permit prior to taking over the operation of the business. (See also <cite path="5.75.030|(j)">Section 5.75.030(j)</cite>.)
+        </text>
       </para>
       <annotations>
         <annotation type="History">prior code § 75.08</annotation>
@@ -4447,7 +4530,8 @@
     <section>
       <num>5.75.050</num>
       <heading>LIABILITY INSURANCE REQUIRED.</heading>
-      <text>No permit to operate any public vehicle shall be issued or renewed, and it is unlawful to operate any such public vehicle, or permit such to be operated, unless and until the owner deposits with the Tax Collector a policy or policies of liability insurance issued by a responsible insurance company, approved as to sufficiency by the Tax Collector and as to legality by the City Attorney, providing indemnity for, or protection to, the insured against loss in the amounts provided for in <cite path="5.75.060">Section 5.75.060</cite>.</text>
+      <text>No permit to operate any public vehicle shall be issued or renewed, and it is unlawful to operate any such public vehicle, or permit such to be operated, unless and until the owner deposits with the Tax Collector a policy or policies of liability insurance issued by a responsible insurance company, approved as to sufficiency by the Tax Collector and as to legality by the City Attorney, providing indemnity for, or protection to, the insured against loss in the amounts provided for in <cite path="5.75.060">Section 5.75.060</cite>.
+      </text>
       <text>The insurance policy shall be valid and effective for no less a period than that for which the permit is issued.</text>
       <annotations>
         <annotation type="History">prior code § 75.09</annotation>
@@ -4510,8 +4594,8 @@
       <para>
         <num>(3)</num>
         <text>When hired, to accept other passengers until the service for which they have been hired is completed.</text>
-        <text>Taxicabs shall at all times, when in operation and not engaged, furnish service on demand to any orderly person for lawful purposes.</text>
       </para>
+      <aftertext>Taxicabs shall at all times, when in operation and not engaged, furnish service on demand to any orderly person for lawful purposes.</aftertext>
       <annotations>
         <annotation type="History">Prior code § 75.16</annotation>
       </annotations>
@@ -4541,20 +4625,14 @@
         <para>
           <num>(1)</num>
           <text>A framed panel, enclosing on separate lines the name of the owner, the word "taxicab" and the serial body number assigned the taxicab by the license collector. Such panel shall be painted on each side of the taxicab, and shall cover no less area than 10 inches by 12 inches. The form of such panel shall be substantially as follows:</text>
-          <text>
-            <center>
-              <strong>JOHN T. SMITH</strong>
-            </center>
+          <text class="center">
+            <strong>JOHN T. SMITH</strong>
           </text>
-          <text>
-            <center>
-              <strong>TAXICAB</strong>
-            </center>
+          <text class="center">
+            <strong>TAXICAB</strong>
           </text>
-          <text>
-            <center>
-              <strong>320</strong>
-            </center>
+          <text class="center" proof="needed">
+            <strong>320</strong>
           </text>
         </para>
         <para>
@@ -4568,7 +4646,8 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>No one shall cause or permit any taxicab to appear with a trade name, design, color scheme or method of painting or lettering that is not approved by the Tax Collector for the vehicle concerned, or that is not in accordance with the terms of <cite path="5.75">this chapter</cite>.</text>
+        <text>No one shall cause or permit any taxicab to appear with a trade name, design, color scheme or method of painting or lettering that is not approved by the Tax Collector for the vehicle concerned, or that is not in accordance with the terms of <cite path="5.75">this chapter</cite>.
+        </text>
       </para>
       <annotations>
         <annotation type="History">prior code § 75.17</annotation>
@@ -4630,14 +4709,15 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Able to provide the City with negative test results for alcohol and controlled substances pursuant to <cite doc="Cal. Gov't Code" path="§53075.5">Government Code Section 53075.5</cite>;</text>
+        <text>Able to provide the City with negative test results for alcohol and controlled substances pursuant to <cite doc="Cal. Gov't Code" path="§53075.5">Government Code Section 53075.5</cite>;
+        </text>
       </para>
       <para>
         <num>(6)</num>
         <text>The holder of a valid driver's license issued by the State.</text>
-        <text>The application form shall set forth such information as the Tax Collector may require, and shall be accompanied by the certificate of a physician that applicant is free from infirmities which would prevent his or her driving a public conveyance with safety.</text>
-        <text>Applicant shall also submit to fingerprinting and photographing by the Police Department for the police record. One photograph shall be filed with the Police Department. The other shall be affixed to the identification card as required in <cite path="5.75.250">Section 5.75.250</cite>. The costs of fingerprinting and photographing shall be paid before the application will be processed.</text>
       </para>
+      <aftertext>The application form shall set forth such information as the Tax Collector may require, and shall be accompanied by the certificate of a physician that applicant is free from infirmities which would prevent his or her driving a public conveyance with safety.</aftertext>
+      <aftertext>Applicant shall also submit to fingerprinting and photographing by the Police Department for the police record. One photograph shall be filed with the Police Department. The other shall be affixed to the identification card as required in <cite path="5.75.250">Section 5.75.250</cite>. The costs of fingerprinting and photographing shall be paid before the application will be processed.</aftertext>
       <annotations>
         <annotation type="History">prior code § 75.53</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§152" type="History"/>
@@ -4724,7 +4804,8 @@
     <section>
       <num>5.75.320</num>
       <heading>CAUSES FOR REVOCATION.</heading>
-      <text>The Tax Collector shall suspend the permit of any driver holding a permit under <cite path="5.75">this chapter</cite> whenever the Chief of Police recommends revocation for any of the following reasons, in addition to other reasons contained in <cite path="5">this title</cite>:</text>
+      <text>The Tax Collector shall suspend the permit of any driver holding a permit under <cite path="5.75">this chapter</cite> whenever the Chief of Police recommends revocation for any of the following reasons, in addition to other reasons contained in <cite path="5">this title</cite>:
+      </text>
       <para>
         <num>(1)</num>
         <text>The driver obtains a permit by false statements in his or her application, or upon misrepresentation, or upon false statements on his or her declaration in applying for a duplicate card;</text>
@@ -4747,11 +4828,13 @@
       </para>
       <para>
         <num>(6)</num>
-        <text>The driver tests positive for alcohol or controlled substances as outlined in <cite doc="Cal. Gov't Code" path="§53075.5">Government Code Section 53075.5</cite>;</text>
+        <text>The driver tests positive for alcohol or controlled substances as outlined in <cite doc="Cal. Gov't Code" path="§53075.5">Government Code Section 53075.5</cite>;
+        </text>
       </para>
       <para>
         <num>(7)</num>
-        <text>The driver fails to submit the necessary test results and driver's license status report required for yearly renewal of the permit (see <cite path="5.75.175">Section 5.75.175</cite>).</text>
+        <text>The driver fails to submit the necessary test results and driver's license status report required for yearly renewal of the permit (see <cite path="5.75.175">Section 5.75.175</cite>).
+        </text>
       </para>
       <annotations>
         <annotation type="History">prior code § 75.72</annotation>
@@ -4886,7 +4969,8 @@
     <section>
       <num>5.75.470</num>
       <heading>EMPLOYMENT CHANGES—NOTIFICATION.</heading>
-      <text>Every owner operating one (1) or more public vehicles shall notify the Chief of Police annually on blank forms furnished by the Police Department of every licensed taxicab driver entering or leaving its, his or her employ during the preceding year. However, terminations of drivers must be reported immediately (see <cite path="5.75.165">Section 5.75.165</cite>).</text>
+      <text>Every owner operating one (1) or more public vehicles shall notify the Chief of Police annually on blank forms furnished by the Police Department of every licensed taxicab driver entering or leaving its, his or her employ during the preceding year. However, terminations of drivers must be reported immediately (see <cite path="5.75.165">Section 5.75.165</cite>).
+      </text>
       <annotations>
         <annotation type="History">prior code § 75.34</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-28" path="§17" type="History"/>
@@ -5079,7 +5163,8 @@
     <section>
       <num>5.76.080</num>
       <heading>RULES AND REGULATIONS.</heading>
-      <text>The City Manager and the police chief shall promulgate rules and regulations to govern the management, conduct and carrying on of a towing service, including the fees to be charged for processing the permit application, which shall be approved by the City Council by resolution. When so approved, they shall be enforceable as part of <cite path="5.76">this chapter</cite>.</text>
+      <text>The City Manager and the police chief shall promulgate rules and regulations to govern the management, conduct and carrying on of a towing service, including the fees to be charged for processing the permit application, which shall be approved by the City Council by resolution. When so approved, they shall be enforceable as part of <cite path="5.76">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1974-22" path="§1" type="History"/>
       </annotations>
@@ -5173,8 +5258,8 @@
       <para>
         <num>(4)</num>
         <text>Whether the applicant will operate through independent contractors who act as escorts, and if so, the number of independent contractors through whom it expects to operate;</text>
-        <text>No applications under <cite path="5.83">this chapter</cite> shall be made by, and no permit shall be issued to, a corporation or partnership.</text>
       </para>
+      <aftertext>No applications under <cite path="5.83">this chapter</cite> shall be made by, and no permit shall be issued to, a corporation or partnership.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-32" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1984-5" path="§188" type="History"/>
@@ -5211,8 +5296,8 @@
       <para>
         <num>(5)</num>
         <text>The applicant has not knowingly and with intent to deceive made any false, misleading or fraudulent statement in his or her application or in any other document required to be submitted in conjunction with the application.</text>
-        <text>The permit shall be denied if all of the above findings are not made or if all required information has not been supplied. If the permit is denied, the reasons for the denial shall be endorsed on the application, and the bureau shall, by first class mail, notify the applicant of the denial with a copy of the application on which have been endorsed the reasons for the denial.</text>
       </para>
+      <aftertext>The permit shall be denied if all of the above findings are not made or if all required information has not been supplied. If the permit is denied, the reasons for the denial shall be endorsed on the application, and the bureau shall, by first class mail, notify the applicant of the denial with a copy of the application on which have been endorsed the reasons for the denial.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-32" path="§1" type="History"/>
       </annotations>
@@ -5306,7 +5391,8 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>A retail establishment may provide one or more recycled paper bags at no cost to any of the following individuals; a customer participating in the California Special Supplement Food Program for Women, Infants, and Children pursuant to Article 2 (commencing with Section 123275) of Chapter 1 of Part 2 of Division <cite doc="Cal. Health &amp; Safety Code" path="§106">106 of the Health and Safety Code</cite>; a customer participating in the Supplemental Food Program pursuant to Chapter 10 (commencing with Section 15500) of Part 3 of Division <cite doc="Cal. Welf. &amp; Inst. Code" path="§9">9 of the California Welfare and Institutions Code</cite>; and a customer participating in CalFresh pursuant to Chapter 10 (commencing with Section 18900) of Part 6 of Division <cite doc="Cal. Welf. &amp; Inst. Code" path="§9">9 of the California Welfare and Institutions Code</cite>.</text>
+        <text>A retail establishment may provide one or more recycled paper bags at no cost to any of the following individuals; a customer participating in the California Special Supplement Food Program for Women, Infants, and Children pursuant to Article 2 (commencing with Section 123275) of Chapter 1 of Part 2 of Division <cite doc="Cal. Health &amp; Safety Code" path="§106">106 of the Health and Safety Code</cite>; a customer participating in the Supplemental Food Program pursuant to Chapter 10 (commencing with Section 15500) of Part 3 of Division <cite doc="Cal. Welf. &amp; Inst. Code" path="§9">9 of the California Welfare and Institutions Code</cite>; and a customer participating in CalFresh pursuant to Chapter 10 (commencing with Section 18900) of Part 6 of Division <cite doc="Cal. Welf. &amp; Inst. Code" path="§9">9 of the California Welfare and Institutions Code</cite>.
+        </text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-7" path="§1" type="History"/>
@@ -5323,7 +5409,8 @@
     <section>
       <num>5.86.040</num>
       <heading>VIOLATION.</heading>
-      <text>It is unlawful to violate <cite path="5.86">this chapter</cite>.</text>
+      <text>It is unlawful to violate <cite path="5.86">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-7" path="§1" type="History"/>
       </annotations>
@@ -5342,7 +5429,8 @@
       <text>In the event that the County enforces <cite path="5.86">this chapter</cite> on the City's behalf within the City limits, the following administrative fine provisions apply:</text>
       <para>
         <num>(a)</num>
-        <text>Grounds for Fine. A fine may be imposed upon findings made by the San Mateo County Director of the Environmental Health that any retail establishment has provided a single-use carry-out bag to a customer in violation of <cite path="5.86">this chapter</cite>.</text>
+        <text>Grounds for Fine. A fine may be imposed upon findings made by the San Mateo County Director of the Environmental Health that any retail establishment has provided a single-use carry-out bag to a customer in violation of <cite path="5.86">this chapter</cite>.
+        </text>
       </para>
       <para>
         <num>(b)</num>
@@ -5422,7 +5510,8 @@
       <heading>EXEMPTIONS.</heading>
       <para>
         <num>(a)</num>
-        <text>Automatic Exemptions. The following uses are exempt from the provisions of <cite path="5.89">this chapter</cite>:</text>
+        <text>Automatic Exemptions. The following uses are exempt from the provisions of <cite path="5.89">this chapter</cite>:
+        </text>
         <para>
           <num>(1)</num>
           <text>Prepackaged food; and</text>
@@ -5444,7 +5533,8 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>Situations where no reasonable feasible available alternative exists to a specific and necessary container prohibited by <cite path="5.89">this chapter</cite>.</text>
+            <text>Situations where no reasonable feasible available alternative exists to a specific and necessary container prohibited by <cite path="5.89">this chapter</cite>.
+            </text>
           </para>
         </para>
         <para>
@@ -5502,7 +5592,8 @@
       <text>In the event that the County enforces <cite path="5.89">this chapter</cite> on the City's behalf within the City limits, the following administrative fine provisions apply:</text>
       <para>
         <num>(a)</num>
-        <text>Grounds for Fine. A fine may be imposed upon findings made by the Director of the Environmental Health Division, that any food vendor has used polystyrene-based disposable food service ware in violation of <cite path="5.89">this chapter</cite>.</text>
+        <text>Grounds for Fine. A fine may be imposed upon findings made by the Director of the Environmental Health Division, that any food vendor has used polystyrene-based disposable food service ware in violation of <cite path="5.89">this chapter</cite>.
+        </text>
       </para>
       <para>
         <num>(b)</num>
@@ -5575,7 +5666,8 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>"Minimum wage" shall have the meaning set forth in <cite path="5.92.020">Section 5.92.020</cite> of <cite path="5.92">this chapter</cite>.</text>
+        <text>"Minimum wage" shall have the meaning set forth in <cite path="5.92.020">Section 5.92.020</cite> of <cite path="5.92">this chapter</cite>.
+        </text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-7" path="§2" type="History"/>
@@ -5645,7 +5737,8 @@
       <heading>NOTICE AND POSTING.</heading>
       <para>
         <num>(a)</num>
-        <text>By October 1 of each year, the City shall publish and make available to employers a bulletin announcing the adjusted minimum wage rate, to take effect January 1 of the following year. In conjunction with this bulletin, the City shall, by November 1 of each year, publish and make available to employers, in English and other languages as provided in any implementing regulations, a notice suitable for posting by employers in the workplace informing employees of the current minimum wage rate and of their rights under <cite path="5.92">this chapter</cite>.</text>
+        <text>By October 1 of each year, the City shall publish and make available to employers a bulletin announcing the adjusted minimum wage rate, to take effect January 1 of the following year. In conjunction with this bulletin, the City shall, by November 1 of each year, publish and make available to employers, in English and other languages as provided in any implementing regulations, a notice suitable for posting by employers in the workplace informing employees of the current minimum wage rate and of their rights under <cite path="5.92">this chapter</cite>.
+        </text>
       </para>
       <para>
         <num>(b)</num>
@@ -5658,7 +5751,8 @@
     <section>
       <num>5.92.040</num>
       <heading>IMPLEMENTATION.</heading>
-      <text>The City may promulgate regulations for the implementation and enforcement of <cite path="5.92">this chapter</cite>. Any regulation promulgated by City shall have the force and effect of law and may be relied on by employers, employees and other parties to determine their rights and responsibilities under <cite path="5.92">this chapter</cite>. Any regulations may establish procedures for ensuring fair, efficient and cost-effective implementation of <cite path="5.92">this chapter</cite>, including supplementary procedures for informing employees of their rights under <cite path="5.92">this chapter</cite>, for monitoring employer compliance with <cite path="5.92">this chapter</cite>, and for providing administrative hearings or determining whether an employer has violated the requirements of <cite path="5.92">this chapter</cite>.</text>
+      <text>The City may promulgate regulations for the implementation and enforcement of <cite path="5.92">this chapter</cite>. Any regulation promulgated by City shall have the force and effect of law and may be relied on by employers, employees and other parties to determine their rights and responsibilities under <cite path="5.92">this chapter</cite>. Any regulations may establish procedures for ensuring fair, efficient and cost-effective implementation of <cite path="5.92">this chapter</cite>, including supplementary procedures for informing employees of their rights under <cite path="5.92">this chapter</cite>, for monitoring employer compliance with <cite path="5.92">this chapter</cite>, and for providing administrative hearings or determining whether an employer has violated the requirements of <cite path="5.92">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-7" path="§2" type="History"/>
       </annotations>
@@ -5668,7 +5762,8 @@
       <heading>ENFORCEMENT.</heading>
       <para>
         <num>(a)</num>
-        <text>Enforcement by the City. The City may take any enforcement action set forth in <cite path="1">Title 1</cite> of this Municipal Code to address violations of <cite path="5.92">this chapter</cite>.</text>
+        <text>Enforcement by the City. The City may take any enforcement action set forth in <cite path="1">Title 1</cite> of this Municipal Code to address violations of <cite path="5.92">this chapter</cite>.
+        </text>
       </para>
       <para>
         <num>(b)</num>
@@ -5694,7 +5789,8 @@
           </para>
           <para>
             <num>(D)</num>
-            <text>The City may require the employer to pay an additional sum as a civil penalty in the amount of $50.00 to the City for each employee or person whose rights, under <cite path="5.92">this chapter</cite>, were violated for each day or portion thereof that the violation occurred or continued, and fines imposed pursuant to other provisions of this code or State law, where there has been a previous violation of <cite path="5.92">this chapter</cite>.</text>
+            <text>The City may require the employer to pay an additional sum as a civil penalty in the amount of $50.00 to the City for each employee or person whose rights, under <cite path="5.92">this chapter</cite>, were violated for each day or portion thereof that the violation occurred or continued, and fines imposed pursuant to other provisions of this code or State law, where there has been a previous violation of <cite path="5.92">this chapter</cite>.
+            </text>
           </para>
         </para>
         <para>
@@ -5753,7 +5849,8 @@
     <section>
       <num>5.92.080</num>
       <heading>FEDERAL OR STATE FUNDING.</heading>
-      <text><cite path="5.92">This chapter</cite> shall not be applied to the extent it will cause the loss of any Federal or State funding of City activities.</text>
+      <text>
+        <cite path="5.92">This chapter</cite> shall not be applied to the extent it will cause the loss of any Federal or State funding of City activities.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2016-7" path="§2" type="History"/>
       </annotations>

@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of San Mateo, Cal., Code">
+<container xmlns="https://open.law/schemas/library" 
+  xmlns:codified="https://open.law/schemas/codified" 
+  xmlns:codify="https://open.law/schemas/codify" 
+  xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="City of San Mateo, Cal., Code">
   <prefix>Title</prefix>
   <num>11</num>
   <heading>VEHICLES AND TRAFFIC</heading>
@@ -7,13 +10,15 @@
     <prefix>Chapter</prefix>
     <num>11.04</num>
     <heading>GENERAL PROVISIONS</heading>
-    <annotation type="Editor's Notes">For statutory provisions regarding the regulation of traffic by local authorities, see <cite doc="Cal. Veh. Code" path="§21100">Cal. Veh. C.A. § 21100</cite> et seq. For the general State laws regarding the use an operation of motor vehicles upon the highways of the state see the <cite doc="Cal. Veh. Code">California Vehicle Code</cite>.</annotation>
+    <annotation type="Editor's Notes">For statutory provisions regarding the regulation of traffic by local authorities, see <cite doc="Cal. Veh. Code" path="§21100">Cal. Veh. C.A. § 21100</cite> et seq. For the general State laws regarding the use an operation of motor vehicles upon the highways of the state see the <cite doc="Cal. Veh. Code">California Vehicle Code</cite>.
+    </annotation>
     <section>
       <num>11.04.010</num>
       <heading>POLICE OFFICERS—DUTIES.</heading>
       <para>
         <num>(a)</num>
-        <text>It shall be the duty of the officers of the Police Department to enforce the provisions of <cite path="11">this title</cite>.</text>
+        <text>It shall be the duty of the officers of the Police Department to enforce the provisions of <cite path="11">this title</cite>.
+        </text>
       </para>
       <para>
         <num>(b)</num>
@@ -42,7 +47,8 @@
     <section>
       <num>11.04.040</num>
       <heading>PUBLIC EMPLOYEE OBEDIENCE REQUIRED.</heading>
-      <text>The provisions of <cite path="11">this title</cite> shall apply to the driver of any vehicle owned by, or used in the service of, the United States Government, this state, any county, city and county or municipal corporation, or other public agency, and no such driver shall violate any of the provisions of <cite path="11">this title</cite>.</text>
+      <text>The provisions of <cite path="11">this title</cite> shall apply to the driver of any vehicle owned by, or used in the service of, the United States Government, this state, any county, city and county or municipal corporation, or other public agency, and no such driver shall violate any of the provisions of <cite path="11">this title</cite>.
+      </text>
       <annotations>
         <annotation type="History">Prior code § 73.07</annotation>
       </annotations>
@@ -98,7 +104,8 @@
     <section>
       <num>11.08.020</num>
       <heading>DEFINITIONS GENERALLY.</heading>
-      <text>Words and phrases used in <cite path="11">this title</cite> are respectively defined as follows in Sections <cite path="11.08.030">11.08.030</cite> through <cite path="11.08.100">11.08.100</cite>.</text>
+      <text>Words and phrases used in <cite path="11">this title</cite> are respectively defined as follows in Sections <cite path="11.08.030">11.08.030</cite> through <cite path="11.08.100">11.08.100</cite>.
+      </text>
       <annotations>
         <annotation type="History">Prior code § 73.02</annotation>
       </annotations>
@@ -197,7 +204,8 @@
     <prefix>Chapter</prefix>
     <num>11.12</num>
     <heading>DRIVING RULES</heading>
-    <annotation type="Editor's Notes">For statutory provisions prohibiting driving on sidewalks, see <cite doc="Cal. Veh. Code" path="§21663">Cal. Veh. C.A. § 21663</cite>; for the provisions regarding interference with Fire Apparatus, see <cite doc="Cal. Veh. Code">Cal. Veh. C.A.</cite> §§ <cite doc="Cal. Veh. Code" path="§21706">21706</cite>-<cite doc="Cal. Veh. Code" path="§21708">21708</cite>; for the provision regarding the seating of passengers on a motorcycle, see <cite doc="Cal. Veh. Code" path="§27800">Cal. Veh. C.A. § 27800</cite>.</annotation>
+    <annotation type="Editor's Notes">For statutory provisions prohibiting driving on sidewalks, see <cite doc="Cal. Veh. Code" path="§21663">Cal. Veh. C.A. § 21663</cite>; for the provisions regarding interference with Fire Apparatus, see <cite doc="Cal. Veh. Code">Cal. Veh. C.A.</cite> §§      <cite doc="Cal. Veh. Code" path="§21706">21706</cite>-      <cite doc="Cal. Veh. Code" path="§21708">21708</cite>; for the provision regarding the seating of passengers on a motorcycle, see <cite doc="Cal. Veh. Code" path="§27800">Cal. Veh. C.A. § 27800</cite>.
+    </annotation>
     <section>
       <num>11.12.010</num>
       <heading>DRIVING THROUGH FUNERAL PROCESSION.</heading>
@@ -431,7 +439,8 @@
       <heading>OBEDIENCE REQUIRED.</heading>
       <para>
         <num>(a)</num>
-        <text>The driver of a vehicle, the person in charge of animals and the motorman of a streetcar, shall obey the instructions of any official traffic control device applicable thereto placed in accordance with <cite path="11">this title</cite> unless otherwise directed by a police officer, subject to the exemption granted by <cite path="11.04.050">Section 11.04.050</cite>.</text>
+        <text>The driver of a vehicle, the person in charge of animals and the motorman of a streetcar, shall obey the instructions of any official traffic control device applicable thereto placed in accordance with <cite path="11">this title</cite> unless otherwise directed by a police officer, subject to the exemption granted by <cite path="11.04.050">Section 11.04.050</cite>.
+        </text>
       </para>
       <para>
         <num>(b)</num>
@@ -559,7 +568,8 @@
     <prefix>Chapter</prefix>
     <num>11.28</num>
     <heading>RESTRICTED USE OF STREETS</heading>
-    <annotation type="Editor's Notes">For statutory provisions regarding size, weight and load restrictions see <cite doc="Cal. Veh. Code" path="§35000">Cal. Veh. C.A. § 35000</cite> et seq. For the statutory authority of cities to set by ordinance a maximum gross weight allowable on certain streets see <cite doc="Cal. Veh. Code" path="§35701">Cal. Veh. C.A. § 35701</cite>.</annotation>
+    <annotation type="Editor's Notes">For statutory provisions regarding size, weight and load restrictions see <cite doc="Cal. Veh. Code" path="§35000">Cal. Veh. C.A. § 35000</cite> et seq. For the statutory authority of cities to set by ordinance a maximum gross weight allowable on certain streets see <cite doc="Cal. Veh. Code" path="§35701">Cal. Veh. C.A. § 35701</cite>.
+    </annotation>
     <section>
       <num>11.28.010</num>
       <heading>CENTRAL TRAFFIC DISTRICT—PROHIBITED VEHICLES.</heading>
@@ -608,8 +618,10 @@
     <section>
       <num>11.28.030</num>
       <heading>DEFINITIONS.</heading>
-      <text><strong>City Manager</strong> means the City Manager or designee.</text>
-      <text><strong>GVWR</strong> means gross vehicle weight rating. A gross vehicle weight rating (GVWR) is the maximum allowable total weight of a road vehicle or trailer that is loaded, including the weight of the vehicle itself plus fuel, passengers, cargo, and trailer tongue weight.</text>
+      <text>
+        <strong>City Manager</strong> means the City Manager or designee.</text>
+      <text>
+        <strong>GVWR</strong> means gross vehicle weight rating. A gross vehicle weight rating (GVWR) is the maximum allowable total weight of a road vehicle or trailer that is loaded, including the weight of the vehicle itself plus fuel, passengers, cargo, and trailer tongue weight.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-10" path="§2" type="History"/>
       </annotations>
@@ -617,7 +629,8 @@
     <section>
       <num>11.28.032</num>
       <heading>TRUCK ROUTES.</heading>
-      <text>No person shall operate any vehicle having a gross weight in excess of five tons (GVWR) on any street in the City except on those streets specified in <cite path="11.28">this chapter</cite> and subject to the exceptions provided in <cite path="11.28.040">Section 11.28.040</cite>.</text>
+      <text>No person shall operate any vehicle having a gross weight in excess of five tons (GVWR) on any street in the City except on those streets specified in <cite path="11.28">this chapter</cite> and subject to the exceptions provided in <cite path="11.28.040">Section 11.28.040</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-10" path="§2" type="History"/>
       </annotations>
@@ -670,7 +683,8 @@
     <section>
       <num>11.28.038</num>
       <heading>TRUCK ROUTE—EXEMPTIONS.</heading>
-      <text>The following are exempt from the provisions of <cite path="11.28">this chapter</cite>:</text>
+      <text>The following are exempt from the provisions of <cite path="11.28">this chapter</cite>:
+      </text>
       <para>
         <num>(a)</num>
         <text>Emergency vehicles.</text>
@@ -764,7 +778,8 @@
       <text>The following words and phrases, whenever used in <cite path="11.32.030">Section 11.32.030</cite>, shall be construed as defined in this section:</text>
       <para>
         <num>(a)</num>
-        <text>"Commercial vehicle" shall have the meaning set forth in State <cite doc="Cal. Veh. Code" path="§260">Vehicle Code Section 260</cite>.</text>
+        <text>"Commercial vehicle" shall have the meaning set forth in State <cite doc="Cal. Veh. Code" path="§260">Vehicle Code Section 260</cite>.
+        </text>
       </para>
       <para>
         <num>(b)</num>
@@ -796,7 +811,8 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>"Recreational vehicle" shall have the meaning set forth in <cite doc="Cal. Health &amp; Safety Code" path="§18010">Health and Safety Code Section 18010</cite>.</text>
+        <text>"Recreational vehicle" shall have the meaning set forth in <cite doc="Cal. Health &amp; Safety Code" path="§18010">Health and Safety Code Section 18010</cite>.
+        </text>
       </para>
       <para>
         <num>(f)</num>
@@ -804,11 +820,13 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>"Trailer" shall have the meaning set forth in <cite doc="Cal. Veh. Code" path="§630">Vehicle Code Section 630</cite>.</text>
+        <text>"Trailer" shall have the meaning set forth in <cite doc="Cal. Veh. Code" path="§630">Vehicle Code Section 630</cite>.
+        </text>
       </para>
       <para>
         <num>(h)</num>
-        <text>"Vehicle" shall have the meaning set forth in <cite doc="Cal. Veh. Code" path="§670">Vehicle Code Section 670</cite>.</text>
+        <text>"Vehicle" shall have the meaning set forth in <cite doc="Cal. Veh. Code" path="§670">Vehicle Code Section 670</cite>.
+        </text>
       </para>
       <annotations>
         <annotation type="History">prior code § 73.104</annotation>
@@ -914,7 +932,8 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Blue means no standing or parking except by vehicles which display a distinguishing license plate or a placard issued pursuant to Section 2251.5 ("Disabled Persons' Exemption"), or Section 9105 ("Disabled or Blind Veterans"), of the <cite doc="Cal. Veh. Code">California Vehicle Code</cite>.</text>
+          <text>Blue means no standing or parking except by vehicles which display a distinguishing license plate or a placard issued pursuant to Section 2251.5 ("Disabled Persons' Exemption"), or Section 9105 ("Disabled or Blind Veterans"), of the <cite doc="Cal. Veh. Code">California Vehicle Code</cite>.
+          </text>
         </para>
       </para>
       <para>
@@ -1009,7 +1028,8 @@
     <section>
       <num>11.32.120</num>
       <heading>RESIDENTIAL PARKING PERMIT POLICIES AND PROCEDURES.</heading>
-      <text>A Residential Parking Permit Program is hereby approved and authorized for use in all residential districts or appurtenant to any authorized residential use. The excessive parking of nonresident vehicles on residential streets is detrimental to the integrity of the residential neighborhood. The purpose of this section is to avoid such detriment and allow residents to park upon streets in their own neighborhoods. The Director of Public Works is authorized to propose policies and procedures implementing a Residential Parking Permit Program. Those policies and procedures shall be reviewed by the Public Works Commission who shall thereafter make recommendations to the City Council for adoption. Such policies and procedures shall be consistent with the purpose of <cite path="11.32">this chapter</cite>. Violations of the Residential Parking Permit Program Policies and Procedures are enforceable in the same manner and to the same extent as are violations of the other provisions of <cite path="11">this title</cite>.</text>
+      <text>A Residential Parking Permit Program is hereby approved and authorized for use in all residential districts or appurtenant to any authorized residential use. The excessive parking of nonresident vehicles on residential streets is detrimental to the integrity of the residential neighborhood. The purpose of this section is to avoid such detriment and allow residents to park upon streets in their own neighborhoods. The Director of Public Works is authorized to propose policies and procedures implementing a Residential Parking Permit Program. Those policies and procedures shall be reviewed by the Public Works Commission who shall thereafter make recommendations to the City Council for adoption. Such policies and procedures shall be consistent with the purpose of <cite path="11.32">this chapter</cite>. Violations of the Residential Parking Permit Program Policies and Procedures are enforceable in the same manner and to the same extent as are violations of the other provisions of <cite path="11">this title</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-5" path="§6" type="History"/>
       </annotations>
@@ -1070,7 +1090,8 @@
     <section>
       <num>11.40.010</num>
       <heading>CENTRAL TRAFFIC DISTRICT—PROHIBITED WHEN.</heading>
-      <text>When authorized signs are in place giving notice thereof, no person shall stop, stand or park any vehicle upon any street in the central traffic district between the hours of 4:30 p.m. and 6:00 p.m. of any day except Sunday for any purpose other than the loading or unloading of passengers or materials subject to the limitations of <cite path="11.48.020">Section 11.48.020</cite>.</text>
+      <text>When authorized signs are in place giving notice thereof, no person shall stop, stand or park any vehicle upon any street in the central traffic district between the hours of 4:30 p.m. and 6:00 p.m. of any day except Sunday for any purpose other than the loading or unloading of passengers or materials subject to the limitations of <cite path="11.48.020">Section 11.48.020</cite>.
+      </text>
       <annotations>
         <annotation type="History">prior code § 73.90</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-6" path="§1" type="History"/>
@@ -1109,33 +1130,33 @@
       <para>
         <num>(a)</num>
         <text>The City Manager may limit or prohibit the stopping, standing, or parking of any vehicle upon any City street or portion thereof owned or operated by the City.</text>
-        <text>Such action may provide that the regulations shall not apply on Sundays and holidays. For the purpose of this section, holidays are defined as:</text>
-        <text>January 1, known as "New Year's Day"</text>
-        <text>The third Monday in January, known as "Dr. Martin Luther King Day"</text>
-        <text>The third Monday in February, known as "Presidents Day"</text>
-        <text>The last Monday in May, known as "Memorial Day"</text>
-        <text>July 4, known as "Independence Day"</text>
-        <text>The first Monday in September, known as "Labor Day"</text>
-        <text>November 11, known as "Veterans Day"</text>
-        <text>Thanksgiving Day</text>
-        <text>December 25, known as "Christmas Day"</text>
-        <text>When authorized signs are in place giving notice thereof, no person shall stop, stand, or park any vehicle except as provided by that action.</text>
       </para>
+      <aftertext proof="needed">Such action may provide that the regulations shall not apply on Sundays and holidays. For the purpose of this section, holidays are defined as:</aftertext>
+      <aftertext proof="needed">January 1, known as "New Year's Day"</aftertext>
+      <aftertext proof="needed">The third Monday in January, known as "Dr. Martin Luther King Day"</aftertext>
+      <aftertext proof="needed">The third Monday in February, known as "Presidents Day"</aftertext>
+      <aftertext proof="needed">The last Monday in May, known as "Memorial Day"</aftertext>
+      <aftertext proof="needed">July 4, known as "Independence Day"</aftertext>
+      <aftertext proof="needed">The first Monday in September, known as "Labor Day"</aftertext>
+      <aftertext proof="needed">November 11, known as "Veterans Day"</aftertext>
+      <aftertext proof="needed">Thanksgiving Day</aftertext>
+      <aftertext proof="needed">December 25, known as "Christmas Day"</aftertext>
+      <aftertext proof="needed">When authorized signs are in place giving notice thereof, no person shall stop, stand, or park any vehicle except as provided by that action.</aftertext>
       <para>
         <num>(b)</num>
         <text>The City Manager may limit or prohibit the stopping, standing, or parking of any vehicle upon the City Hall motor vehicle parking lots, or on any recreation building, area, or park motor vehicle lot, or on any public library motor vehicle parking lot, or other parking lots owned or operated by the City or a City parking improvement district, or the municipal golf course motor vehicle parking lot.</text>
-        <text>Such action may provide that the regulations shall not apply on Sundays and holidays. For the purpose of this section, holidays are defined as:</text>
-        <text>January 1, known as "New Year's Day"</text>
-        <text>The third Monday in January, known as "Dr. Martin Luther King Day"</text>
-        <text>The third Monday in February, known as "Presidents Day"</text>
-        <text>The last Monday in May, known as "Memorial Day"</text>
-        <text>July 4, known as "Independence Day"</text>
-        <text>The first Monday in September, known as "Labor Day"</text>
-        <text>November 11, known as "Veterans Day"</text>
-        <text>Thanksgiving Day</text>
-        <text>December 25, known as "Christmas Day"</text>
-        <text>When authorized signs are in place giving notice thereof, no person shall stop, stand, or park any vehicle except as provided by that action.</text>
       </para>
+      <aftertext proof="needed">Such action may provide that the regulations shall not apply on Sundays and holidays. For the purpose of this section, holidays are defined as:</aftertext>
+      <aftertext proof="needed">January 1, known as "New Year's Day"</aftertext>
+      <aftertext proof="needed">The third Monday in January, known as "Dr. Martin Luther King Day"</aftertext>
+      <aftertext proof="needed">The third Monday in February, known as "Presidents Day"</aftertext>
+      <aftertext proof="needed">The last Monday in May, known as "Memorial Day"</aftertext>
+      <aftertext proof="needed">July 4, known as "Independence Day"</aftertext>
+      <aftertext proof="needed">The first Monday in September, known as "Labor Day"</aftertext>
+      <aftertext proof="needed">November 11, known as "Veterans Day"</aftertext>
+      <aftertext proof="needed">Thanksgiving Day</aftertext>
+      <aftertext proof="needed">December 25, known as "Christmas Day"</aftertext>
+      <aftertext proof="needed">When authorized signs are in place giving notice thereof, no person shall stop, stand, or park any vehicle except as provided by that action.</aftertext>
       <annotations>
         <annotation type="History">prior code § 73.93</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1971-24" path="§1" type="History"/>
@@ -1279,7 +1300,8 @@
     <prefix>Chapter</prefix>
     <num>11.44</num>
     <heading>PARKING METERS</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding parking meter zones see Cal. Veh. C. § 22508. For provisions relating to temporary removal of meters, see <cite path="17.08">Chapter 17.08</cite>.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding parking meter zones see Cal. Veh. C. § 22508. For provisions relating to temporary removal of meters, see <cite path="17.08">Chapter 17.08</cite>.
+    </annotation>
     <annotation type="Editor's Notes">Prior history: Prior code §§ 74.01, 74.04-74.06, 74.09, 74.12-74.22 and Ords. 1977-1, 1979-16, 1980-14, 1992-14, 1997-13, 2003-6, 2010-11 and 2012-2.</annotation>
     <section>
       <num>11.44.010</num>
@@ -1458,7 +1480,8 @@
     <section>
       <num>11.44.070</num>
       <heading>DEFACING UNLAWFUL.</heading>
-      <text>No person shall deface, injure, tamper with, open, or willfully break, destroy, or impair the usefulness of any parking meter installed under the provisions of <cite path="11.44">this chapter</cite>.</text>
+      <text>No person shall deface, injure, tamper with, open, or willfully break, destroy, or impair the usefulness of any parking meter installed under the provisions of <cite path="11.44">this chapter</cite>.
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-4" path="§1" type="History"/>
       </annotations>
@@ -1486,7 +1509,8 @@
       <text>It shall be the duty of police officers of the City, acting in accordance with instructions issued by Chief of Police, to report:</text>
       <para>
         <num>(a)</num>
-        <text>The number of each parking meter which indicates that the vehicle occupying the parking space regulated by such parking meter is, or has been, parking in violation of any of the provisions of <cite path="11.44">this chapter</cite>;</text>
+        <text>The number of each parking meter which indicates that the vehicle occupying the parking space regulated by such parking meter is, or has been, parking in violation of any of the provisions of <cite path="11.44">this chapter</cite>;
+        </text>
       </para>
       <para>
         <num>(b)</num>
@@ -1494,13 +1518,14 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The time during which such vehicle is parking in violation of any of the provisions of <cite path="11.44">this chapter</cite>;</text>
+        <text>The time during which such vehicle is parking in violation of any of the provisions of <cite path="11.44">this chapter</cite>;
+        </text>
       </para>
       <para>
         <num>(d)</num>
         <text>Any other facts, a knowledge of which is necessary to a thorough understanding of the circumstances attending such violation.</text>
-        <text>Each such police officer shall also attach to such vehicle a notice to the owner or operator thereof that such vehicle has been parked in violation of a provision of <cite path="11.44">this chapter</cite>.</text>
       </para>
+      <aftertext proof="needed">Each such police officer shall also attach to such vehicle a notice to the owner or operator thereof that such vehicle has been parked in violation of a provision of this chapter.</aftertext>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-4" path="§1" type="History"/>
       </annotations>
@@ -1563,8 +1588,8 @@
       <para>
         <num>(d)</num>
         <text>Appeal of Temporary Permit Issuance. Any interested person may appeal the issuance of a temporary permit for exclusive use of meter parking spaces.</text>
-        <text>The appeal must be filed within 10 days after the City Manager or designee's decision. If appeal is not filed within 10 days, applicant shall be barred for a period of six months from making further application with reference to the same matter. In taking such appeal, the appellant shall file an appeal in writing within such period of 10 days with the Public Works Commission secretary, who shall set the hearing for the next regular meeting of the Commission. At the appeal hearing, the Commission shall hear all evidence offered by applicant and the City Manager or designee, and may hear other evidence with reference thereto, and may continue such hearing from time to time. At the conclusion of such hearing, the Commission shall make its findings thereon, and if it has found that the action of the City Manager or designee in denying, approving or conditioning the permit was discriminatory against applicant, or if it finds that the granting of such permit with or without conditions, or otherwise will not be injurious to the public health, safety, or welfare, it shall overturn the action of the City Manager and issue the permit. Otherwise, it shall affirm the action of the City Manager or designee and deny the appeal. The decision of the Public Works Commission at such hearing shall be final, and conclusive, and applicant shall be barred for a period of six months after such decision from making further application with reference to the same matter.</text>
       </para>
+      <aftertext proof="needed">The appeal must be filed within 10 days after the City Manager or designee's decision. If appeal is not filed within 10 days, applicant shall be barred for a period of six months from making further application with reference to the same matter. In taking such appeal, the appellant shall file an appeal in writing within such period of 10 days with the Public Works Commission secretary, who shall set the hearing for the next regular meeting of the Commission. At the appeal hearing, the Commission shall hear all evidence offered by applicant and the City Manager or designee, and may hear other evidence with reference thereto, and may continue such hearing from time to time. At the conclusion of such hearing, the Commission shall make its findings thereon, and if it has found that the action of the City Manager or designee in denying, approving or conditioning the permit was discriminatory against applicant, or if it finds that the granting of such permit with or without conditions, or otherwise will not be injurious to the public health, safety, or welfare, it shall overturn the action of the City Manager and issue the permit. Otherwise, it shall affirm the action of the City Manager or designee and deny the appeal. The decision of the Public Works Commission at such hearing shall be final, and conclusive, and applicant shall be barred for a period of six months after such decision from making further application with reference to the same matter.</aftertext>
       <para>
         <num>(e)</num>
         <text>Signs and Notification.</text>
@@ -1703,7 +1728,8 @@
     <section>
       <num>11.48.050</num>
       <heading>STANDING—IN PASSENGER LOADING ZONE.</heading>
-      <text>No person shall stop, stand or park a vehicle in any passenger loading zone for any purpose other than the loading or unloading of passengers for such time as is specified in <cite path="11.48.020">Section 11.48.020</cite>.</text>
+      <text>No person shall stop, stand or park a vehicle in any passenger loading zone for any purpose other than the loading or unloading of passengers for such time as is specified in <cite path="11.48.020">Section 11.48.020</cite>.
+      </text>
       <annotations>
         <annotation type="History">Prior code § 73.83</annotation>
       </annotations>
@@ -1772,15 +1798,15 @@
     <prefix>Chapter</prefix>
     <num>11.52</num>
     <heading>PEDESTRIANS</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding the rights and duties of pedestrians see <cite doc="Cal. Veh. Code">Cal. Veh. C.A.</cite> §§ <cite doc="Cal. Veh. Code" path="§21950">21950</cite> et seq.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding the rights and duties of pedestrians see <cite doc="Cal. Veh. Code">Cal. Veh. C.A.</cite> §§      <cite doc="Cal. Veh. Code" path="§21950">21950</cite> et seq.</annotation>
     <section>
       <num>11.52.010</num>
       <heading>CROSSWALK—ESTABLISHMENT AUTHORITY.</heading>
       <para>
         <num>(a)</num>
         <text>The City Manager shall establish, designate and maintain crosswalks at intersections, and other places, by appropriate devices, marks or lines upon the surface of the roadway as follows:</text>
-        <text>Crosswalks shall be established and maintained at all intersections within the central traffic district, and at such intersections outside said district, and at other places within or outside said district, where the City Manager determines that there is particular hazard to pedestrians crossing the roadway, subject to the limitation contained in (b).</text>
       </para>
+      <aftertext proof="needed">Crosswalks shall be established and maintained at all intersections within the central traffic district, and at such intersections outside said district, and at other places within or outside said district, where the City Manager determines that there is particular hazard to pedestrians crossing the roadway, subject to the limitation contained in (b).</aftertext>
       <para>
         <num>(b)</num>
         <text>Other than crosswalks at intersections, no crosswalk shall be established in any block which is less than four hundred feet in length. Elsewhere, not more than one additional crosswalk shall be established in any one block, and such crosswalk shall be located as nearly as practicable at midblock.</text>
@@ -1802,7 +1828,8 @@
     <prefix>Chapter</prefix>
     <num>11.56</num>
     <heading>BICYCLES</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding the regulation of the operation of bicycles, see <cite doc="Cal. Veh. Code" path="§21200">Veh. Code § 21200</cite> et seq. For the provision granting local authorities the power to provide additional consistent regulations by ordinance, see <cite doc="Cal. Veh. Code" path="§21206">Veh. Code § 21206</cite>.</annotation>
+    <annotation type="Editor's Notes">For the statutory provisions regarding the regulation of the operation of bicycles, see <cite doc="Cal. Veh. Code" path="§21200">Veh. Code § 21200</cite> et seq. For the provision granting local authorities the power to provide additional consistent regulations by ordinance, see <cite doc="Cal. Veh. Code" path="§21206">Veh. Code § 21206</cite>.
+    </annotation>
     <section>
       <num>11.56.010</num>
       <heading>LICENSE—REQUIRED—DEFINITION.</heading>
@@ -2004,19 +2031,22 @@
       <text>As used in <cite path="11.58">this chapter</cite>, the following words and phrases shall have the following meaning:</text>
       <para>
         <num>(a)</num>
-        <text>"<strong>Employment"</strong> means services, industry, or labor performed by a person for wages, a fixed sum, or other compensation or thing of value, or under any contract or hire, written, oral, express, or implied.</text>
+        <text>"          <strong>Employment"</strong> means services, industry, or labor performed by a person for wages, a fixed sum, or other compensation or thing of value, or under any contract or hire, written, oral, express, or implied.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text><strong>"Roadway"</strong> means that portion of the public right-of-way designed and ordinarily used for motor vehicle travel. "Roadway" does not include sidewalks, curbs, medians, or other areas adjacent to public streets.</text>
+        <text>
+          <strong>"Roadway"</strong> means that portion of the public right-of-way designed and ordinarily used for motor vehicle travel. "Roadway" does not include sidewalks, curbs, medians, or other areas adjacent to public streets.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text><strong>"Public right-of-way"</strong> means public streets, highways, roadways, and sidewalks, including driveways.</text>
+        <text>
+          <strong>"Public right-of-way"</strong> means public streets, highways, roadways, and sidewalks, including driveways.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text><strong>"Solicit"</strong> means any request, offer, enticement, or action which announces the availability for or of employment, the sale of goods, or a request for money or other property; or any request, offer, enticement or action which shows intent or desire to purchase or secure goods or employment, or to make a contribution of money or other property. Solicitation shall include participation in discussions undertaken in response to the solicitation by another person. A solicitation shall be deemed complete when made whether or not an actual employment relationship is created, a transaction is completed, or an exchange of money or other property takes place.</text>
+        <text>
+          <strong>"Solicit"</strong> means any request, offer, enticement, or action which announces the availability for or of employment, the sale of goods, or a request for money or other property; or any request, offer, enticement or action which shows intent or desire to purchase or secure goods or employment, or to make a contribution of money or other property. Solicitation shall include participation in discussions undertaken in response to the solicitation by another person. A solicitation shall be deemed complete when made whether or not an actual employment relationship is created, a transaction is completed, or an exchange of money or other property takes place.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-9" path="§3" type="History"/>
