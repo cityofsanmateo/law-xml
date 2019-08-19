@@ -314,14 +314,14 @@
         <num>(1)</num>
         <text>The banner and title shall be in the following form:</text>
         <include>
-          <text>
-            <center>"<strong>CITY OF SAN MATEO"</strong></center>
+          <text class="center">
+            <strong>"CITY OF SAN MATEO"</strong>
           </text>
-          <text>
-            <center>"<strong>ORDINANCE NO. YYYY-XX"</strong></center>
+          <text class="center">
+            <strong>"ORDINANCE NO. YYYY-XX"</strong>
           </text>
-          <text>
-            <center><strong>"&lt;Title&gt;</strong>"</center>
+          <text class="center">
+            <strong>"&lt;Title&gt;"</strong>
           </text>
         </include>
       </para>
