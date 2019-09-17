@@ -1,0 +1,88 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2019-11">
+  <num>2019-11</num>
+  <heading>AN UNCODIFIED ORDINANCE EXEMPTING ASSESSOR PARCEL 035-361-440 (1812 SOUTH NORFOLK STREET) FROM CHAPTER 27.18 OF THE ZONING CODE REGULATING R1 DISTRICTS</heading>
+  <meta>
+    <effective>2019-10-03</effective>
+    <citations>
+      <citation type="ord">Ord. No. 2019-11</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2019-11</citation>
+    </citations>
+    <history>
+      <introduced>2019-08-19</introduced>
+      <adopted>2019-09-03</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo leased Assessor Parcel Number 035-361-440 (1812 South Norfolk Street) (the "Site") to American Medical Response for use as an employee resting area from 2010 to the present; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>American Medical Response currently occupies the Site; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo wishes to use the Site for a Police Department sub-station, vehicle impound storage area, and sleeping quarters for police officers; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Site is zoned R1; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed use is not a permitted or specially permitted use in R1 zones; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council wishes to exempt the Site from <cite doc="City of San Mateo, Cal., Code" path="27.18">Chapter 27.18</cite> of the City's Zoning Code, which establishes zoning regulations for the R1 District;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA HEREBY ORDAINS THAT:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>Section 1.</heading>
+    <text>So long as the City owns the Site, the Site is exempted from <cite doc="City of San Mateo, Cal., Code" path="27.18">Chapter 27.18</cite> of the Zoning Code, which establishes zoning regulations for the R1 District.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15301, this uncodified ordinance is categorically exempt from the California Environmental Quality Act in that it pertains to the use and minor alteration of an existing City-owned structure and involves negligible expansion of the former use.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on August 19, 2019 and adopted on September 3, 2019 and shall be effective 30 days after its date of adoption.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Severability.</heading>
+    <text>If any provision of this Ordinance is held unconstitutional or otherwise invalid by a court of competent jurisdiction, the remaining provisions of this Ordinance shall not be invalidated.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Papan, Freschet, Bonilla, Goethals and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </section>
+</document>

@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2019-9" codify:doc="City of San Mateo, Cal., Code">
+  <num>2019-9</num>
+  <heading>AMENDING CHAPTER 23.24, "ENERGY CODE," OF TITLE 23, "BUILDING AND CONSTRUCTION," OF THE SAN MATEO MUNICIPAL CODE TO ADOPT THE CALIFORNIA ENERGY CODE, 2019 EDITION, WITH LOCAL AMENDMENTS</heading>
+  <meta>
+    <effective>2020-01-01</effective>
+    <citations>
+      <citation type="ord">Ord. No. 2019-9</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2019-9</citation>
+    </citations>
+    <history>
+      <introduced>2019-08-19</introduced>
+      <adopted>2019-09-03</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the California Energy Code, 2019 Edition, <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Part 6 of the California Code of Regulations has been released by the State and needs to be adopted by local jurisdictions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City's Climate Action Plan recommended that the City review local amendments to the California Energy Code to promote increased energy efficiency and the use of renewable energy sources; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City has completed an analysis and has determined that the requirements of the local amendments to the California Energy Code would provide a positive cost benefit to new construction within the City of San Mateo; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">California Health and Safety Code Section 17958</cite> requires that the City, in order to make local amendments, find that the local amendments are reasonably necessary due to local climatic, geographical, or topographical conditions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City's Section 17958 findings are attached as Exhibit A to this Ordinance;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO CALIFORNIA ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24">Chapter 23.24, Energy Code," of the San Mateo Municipal Code</cite> is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>23.24</num>
+        <heading>Energy Code</heading>
+        <section>
+          <codify:replace path="23.24.010"/>
+          <num>23.24.010</num>
+          <heading>Adoption</heading>
+          <para>
+            <num>(a)</num>
+            <text>The California Energy Code, 2019 Edition, <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Part 6 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Energy Code," is adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended for so long as the 2019 Edition of the Building Code is in effect;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>One copy of the Energy Code shall at all times be kept on file in the office of the City Clerk.</text>
+          </para>
+        </section>
+        <section>
+          <codify:replace path="23.24.020"/>
+          <num>23.24.020</num>
+          <heading>Local Amendment to Definitions</heading>
+          <text>Subchapter 1, "All Occupancies – General Provisions," Section 100.1(b), of the state Energy Code is amended to include the following definitions:</text><include>
+          <text><strong>All-Electric building or all-electric design</strong> is a building or building design that uses a permanent supply of electricity as the only source of energy for space conditioning (including heating and cooling), water heating (including pools and spas), cooking appliances, and clothes drying appliances, and has no natural gas or propane plumbing installed at the building.</text>
+          <text><strong>Mixed-fuel building or mixed-fuel design</strong> is a building or building design that uses natural gas or propane as fuel for space heating, water heating (including pools and spas), cooking appliances or clothes drying appliances or is plumbed for such equipment.</text>
+          <text><strong>Accessory building</strong>, shall have the meaning set forth in <cite doc="City of San Mateo, Cal., Code" path="27.04.010">Section 27.04.010</cite> of the City of San Mateo Municipal Code.</text></include>
+        </section>
+        <section>
+          <codify:replace path="23.24.030"/>
+          <num>23.24.030</num>
+          <heading>Local Amendment Regarding Mandatory Solar Installations</heading>
+          <text>Subchapter 5—"Nonresidential, High-rise Residential, and Hotel/Motel Occupancies – Performance and Prescriptive Compliance Approaches for Achieving Energy Efficiency," Section 140.0(b), of the state Energy Code is amended to include:</text>
+          <include>
+            <para>
+              <num>A.</num>
+              <text>Solar photovoltaic systems shall be installed as follows:</text>
+              <para>
+                <num>1.</num>
+                <text>New residential buildings four stories or more shall provide a minimum of a 3-kilowatt photovoltaic system.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>New non-residential buildings with less than 10,000 square feet of gross floor area shall provide a minimum of a 3- kilowatt photovoltaic system.</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>New non-residential buildings greater than or equal to 10,000 square feet of gross floor area shall provide a minimum of a 5-kilowatt photovoltaic system.</text>
+              </para>
+            </para>
+            <text><strong>Exception to Section A</strong>: As an alternative to a solar photovoltaic system, all of the building types listed above may provide a solar hot water system (solar thermal) with a minimum collector area of 40 square feet.</text>
+          </include>
+        </section>
+        <section>
+          <codify:replace path="23.24.040"/>
+          <num>23.24.040</num>
+          <heading>Local Amendment Regarding All-Electric Buildings or Energy Efficiency Standards for Mixed-Fuel Office Use Buildings</heading>
+          <para>
+            <num>(a)</num>
+            <text>All-electric buildings with office use are required to meet the established energy efficiency standards in Subchapter 5, "Nonresidential, High-rise Residential, and Hotel/Motel Occupancies – Performance and Prescriptive Compliance Approaches for Achieving Energy Efficiency," of the state Energy Code.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Mixed-fuel buildings with office use shall comply with increased energy efficiency standards. Subchapter 5, "Nonresidential, High-rise Residential, and Hotel/Motel Occupancies – Performance and Prescriptive Compliance Approaches for Achieving Energy Efficiency," of the state Energy Code is amended to require increased energy efficiency standards in the performance or prescriptive compliance approaches as follows:</text>
+            <para>
+              <num>(1)</num>
+              <text>Performance Approach: Energy Code Section 140.1 "Performance Approach: Energy Budgets" is amended to include the following performance standards for mixed-fuel buildings with office use:</text>
+              <include>
+                <text>A newly constructed mixed-fuel building complies with the performance approach if the energy budget calculated for the Proposed Design Building under Subsection (b) has a compliance margin exceeding the energy budget calculated for the Standard Design Building under Subsection (a) of at least the value specified for the corresponding occupancy type in Table 140.1-A below.</text>
+                <text>
+                  <table>
+                    <caption>Table 140.1-A Mixed-fuel Building Energy Budgets Adjustments</caption>
+                    <tr>
+                      <th>Occupancy Type</th>
+                      <th>Compliance Margin Exceeding State Code</th>
+                    </tr>
+                    <tr>
+                      <td>Office</td>
+                      <td>10%</td>
+                    </tr>
+                    <tr>
+                      <td>All Other occupancies</td>
+                      <td>
+                        <u>0%</u>
+                      </td>
+                    </tr>
+                  </table>
+                </text>
+              </include>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Prescriptive Approach: Energy Code Section 140.2 "Prescriptive Approach" is amended to include the following prescriptive standards for mixed-fuel buildings with office use:</text>
+              <include>
+                <para>
+                  <num>(A)</num>
+                  <text>Install fenestration with a solar heat gain coefficient no greater than 0.22.</text>
+                </para>
+                <para>
+                  <num>(B)</num>
+                  <text>Limit the fenestration area on east-facing and west-facing walls to one-half of the average amount of north-facing and south-facing fenestration.</text>
+                </para>
+                <para>
+                  <num>(C)</num>
+                  <text>Design Variable Air Volume (VAV) box minimum airflows to be equal to the zone ventilation minimums.</text>
+                </para>
+                <para>
+                  <num>(D)</num>
+                  <text>Include economizers and staged fan control in air handlers with a mechanical cooling capacity ≥ 33,000 Btu/h</text>
+                </para>
+                <para>
+                  <num>(E)</num>
+                  <text>Reduce the total lighting power density (Watts/ft<sup>2</sup>) by ten percent (10%) from that required from Table 140.6-C.</text>
+                </para>
+                <para>
+                  <num>(F)</num>
+                  <text>Improve lighting without claiming any Power Adjustment Factor credits:</text>
+                  <para>
+                    <num>(i)</num>
+                    <text>Control to daylight dimming plus off per Section 140.6(a)2H, and</text>
+                  </para>
+                  <para>
+                    <num>(ii)</num>
+                    <text>Install Occupant Sensing Controls in Large Open Plan Offices per Section 140.6(a)2I and Perform Institutional Tuning per Section 140.6(a)2J.</text>
+                  </para>
+                </para>
+              </include>
+            </para>
+          </para>
+        </section>
+        <section>
+          <codify:insert path="23.24"/>
+          <num>23.24.050</num>
+          <heading>Local Amendment Regarding All-Electric Buildings or Energy Efficiency Standards for Mixed-Fuel Single Family and Duplex Buildings</heading>
+          <para>
+            <num>(a)</num>
+            <text>Accessory buildings and low-rise multifamily buildings are required to meet the established energy efficiency standards in Subchapter 8, "Low-rise Residential Buildings – Performance and Prescriptive Compliance Approaches," of the state Energy Code.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All-electric single-family and duplex buildings are required to meet the established energy efficiency standards in Subchapter 8, "Low-rise Residential Buildings – Performance and Prescriptive Compliance Approaches," of the state Energy Code.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Mixed-fuel single family and duplex buildings shall comply with increased energy efficiency standards. Subchapter 8, "Low-rise Residential Buildings – Performance and Prescriptive Compliance Approaches," of the state Energy Code is amended to require increased energy efficiency standards in the performance and prescriptive compliance approaches as follows:</text>
+            <include>
+              <para>
+                <num>(1)</num>
+                <text>Performance Approach: Section 150.1.b. "Performance standards" is amended to include the following performance standard for mixed-fuel single family and duplex buildings:</text>
+                <text>The Energy Efficiency Design Rating calculated for the Proposed Design Building shall be at least 2.5 EDR points less than the Energy Efficiency Design Rating calculated for the Standard Design Building.</text>
+              </para>
+            </include>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Prescriptive Approach: Section 150.1.c. "Prescriptive standards/component packages" is amended to include the following prescriptive standards for mixed-fuel single-family and duplex buildings:</text>
+            <include>
+              <para>
+                <num>(A)</num>
+                <text>Duct System Sealing and Leakage Testing.  The duct systems shall exceed the minimum mandatory requirements of Section 150.0(m)11 A and B such that the total duct system leakage shall not exceed 2 percent of the nominal system air handler air flow.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Slab floor perimeter insulation shall be installed with an R-value equal to or greater than R10. The minimum depth of concrete-slab floor perimeter insulation shall be 16 inches or the depth of the footing of the building, whichever is less.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The hot water distribution system shall be designed and installed to meet minimum requirements for the basic compact hot water distribution credit according to the procedures outlined in the 2019 Reference Appendices RA4.4.6.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Central Fan Integrated Ventilation Systems. The duct distribution system shall be designed reduce external static pressure to meet a maximum fan efficacy equal to:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>Gas Furnaces: 0.35 Watts per cfm</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>Heat Pumps: 0.45 Watts per cfm, according to the procedures outlined in the 2019 Reference Appendices RA 3.3.</text>
+                </para>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>For buildings with either space heating or water heating systems fueled by gas or propane, also include:</text>
+                <para>
+                  <num>(i)</num>
+                  <text>5 kWh battery of battery storage, OR</text>
+                </para>
+                <para>
+                  <num>(ii)</num>
+                  <text>A solar water heating system with a minimum solar savings fraction of 0.20.</text>
+                </para>
+              </para>
+            </include>
+          </para>
+        </section>
+        <section>
+          <codify:insert path="23.24"/>
+          <num>23.24.060</num>
+          <heading>Modifications</heading>
+          <text>If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite>, the applicant may request a modification as set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06.015">Section 23.06.015</cite> of the Municipal Code. In applying for the modification, the burden is on the Applicant to demonstrate infeasibility to the City's Building Official.</text>
+        </section>
+        <section>
+          <codify:insert path="23.24"/>
+          <num>23.24.070</num>
+          <heading>Expiration</heading>
+          <text>These local code amendments shall sunset when the California Energy Code, 2019 Edition, is no longer in effect.</text>
+        </section>
+      </container>
+    </include>
+    <section>
+      <num>2</num>
+      <text>The Council adopts the findings supporting the local amendments to the California Energy Code, 2019 Edition, attached hereto as Exhibit A and incorporated herein by reference.</text>
+    </section>
+    <section>
+      <num>3</num>
+      <heading>Environmental determination.</heading>
+      <text>In accordance with CEQA Guidelines Section 15308, adoption of this Ordinance is categorially exempt from CEQA, because it imposes stricter energy efficiency requirements and is a regulatory action authorized by state law and intended to protect the environment.</text>
+    </section>
+    <section>
+      <num>4</num>
+      <heading>Severability.</heading>
+      <text>If any section, subsection, sentence, clause or phrase of this ordinance is for any reason held to be invalid, such decision shall not affect the validity of the remaining portions of this ordinance.  The City Council hereby declares that it should have adopted the ordinance and each section, subsection, sentence, clause or phrase thereof, irrespective of the fact that any one or more sections, subsections, sentences, clauses or phrases be declared invalid or unconstitutional.</text>
+    </section>
+    <section>
+      <num>5</num>
+      <heading>Publication.</heading>
+      <text>This ordinance shall be published in summary in the San Mateo Daily Journal, posted in the City Clerk's Office, and posted on the City's website, all in accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+    </section>
+    <section>
+      <num>6</num>
+      <heading>Legislative history and effective date.</heading>
+      <text>This ordinance was introduced on August 19, 2019, and adopted on September 3, 2019, and shall be effective on January 1, 2020</text>
+      <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, California by the following vote:</text>
+      <text>
+        <table>
+          <tr>
+            <th>AYES</th>
+            <td>Council Members Papan, Freschet, Bonilla, Goethals and Rodriguez</td>
+          </tr>
+          <tr>
+            <th>NOES</th>
+            <td>None</td>
+          </tr>
+          <tr>
+            <th>ABSENT</th>
+            <td>None</td>
+          </tr>
+        </table>
+      </text>
+      <text>ATTEST:</text>
+    </section>
+    <text class="center">
+      <strong>Exhibit A</strong>
+    </text>
+    <text class="center">
+      <strong>FINDINGS SUPPORTING LOCAL AMENDMENTS TO CALIFORNIA ENERGY CODE, 2019 EDITION</strong>
+    </text>
+    <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">Section 17958 of the California Health and Safety Code</cite> provides that the City may make changes to the provisions in the uniform codes that are published in the California Building Standards Code. Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7of the Health and Safety Code</cite> require that for each proposed local change to those provisions in the uniform codes and published in the California Building Standards Code which regulate buildings used for human habitation, the City Council must make findings supporting its determination that each such local change is reasonably necessary because of local climatic, geological, or topographical conditions.</text>
+    <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7 of the Health and Safety Code</cite>. Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings. Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
+  </section>
+  <text>
+    <table>
+      <tr>
+        <th>Code: California Energy Code</th>
+      </tr>
+      <tr>
+        <th>Section(s)</th>
+        <th>Title</th>
+        <th>Add</th>
+        <th>Deleted</th>
+        <th>Amended</th>
+        <th>Justification (See below for keys)</th>
+      </tr>
+      <tr>
+        <td>Subchapter 1, Section 100.1</td>
+        <td>Definitions and Rules of Construction</td>
+        <td>X</td>
+        <td/>
+        <td/>
+        <td>A, B</td>
+      </tr>
+      <tr>
+        <td>Subchapter 5, Section 140.0</td>
+        <td>Performance and Prescriptive Compliance Approaches</td>
+        <td>X</td>
+        <td/>
+        <td>X</td>
+        <td>A, B</td>
+      </tr>
+      <tr>
+        <td>Subchapter 8, Section 150.1</td>
+        <td>Performance and Prescriptive Compliance Approaches for Low-Rise Residential Buildings</td>
+        <td>X</td>
+        <td/>
+        <td>X</td>
+        <td>A, B</td>
+      </tr>
+    </table>
+  </text>
+  <text class="center">
+    <strong>Key to Justification Supporting Amendments to <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite> of the California Code of Regulations</strong>
+  </text>
+  <para>
+    <num>A.</num>
+    <text>This amendment is justified on the basis of a local <strong><u>climatic</u></strong> condition. Failure to address and significantly reduce greenhouse gas (GHG) emissions could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101 (Bayshore Freeway), particularly the mapped Flood Hazard areas of the City. Energy efficiency and the use of renewable energy sources are key components in reducing GHG emissions, and construction of more energy efficient buildings with dedicated renewable energy installations can help the City of San Mateo reduce its share of the GHG emissions that contribute to climate change. The burning of fossil fuels used in the generation of electric power and heating of buildings contributes to climate change, which could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101.</text>
+  </para>
+  <para>
+    <num>B.</num>
+    <text>Energy efficiency enhances the public health and welfare by promoting the <strong><u>environmental</u></strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite> are designed to achieve the following goals:</text>
+    <para>
+      <num>(a)</num>
+      <text>Increase energy efficiency in buildings;</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Increase resource conservation;</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Provide durable buildings that are efficient and economical to own and operate;</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>Promote the health and productivity of residents, workers, and visitors to the city;</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>Recognize and conserve the energy embodied in existing buildings; and</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Reduce disturbance of natural ecosystems.</text>
+    </para>
+  </para>
+</document>

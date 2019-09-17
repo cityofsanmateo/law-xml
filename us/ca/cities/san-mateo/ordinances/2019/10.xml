@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2019-10" codify:doc="City of San Mateo, Cal., Code">
+  <num>2019-10</num>
+  <heading>AMENDING CHAPTER 23.70, "GREEN BUILDING CODE," OF TITLE 23, "BUILDING AND CONSTRUCTION," OF THE SAN MATEO MUNICIPAL CODE TO ADOPT THE CALIFORNIA GREEN BUILDING STANDARDS CODE, 2019 EDITION, WITH LOCAL AMENDMENTS</heading>
+  <meta>
+    <effective>2020-01-01</effective>
+    <citations>
+      <citation type="ord">Ord. No. 2019-10</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2019-10</citation>
+    </citations>
+    <history>
+      <introduced>2019-08-19</introduced>
+      <adopted>2019-09-03</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the California Green Building Standards Code, 2019 Edition, <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Part 11 of the California Code of Regulations has been released by the State and needs to be adopted by local jurisdictions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City's Climate Action Plan recommended that the City review local amendments to the California Green Building Standards Code to promote clean transportation fuels and increase electric vehicle adoption; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">California Health and Safety Code Section 17958</cite> requires that the City, in order to make local amendments, find that the local amendments are reasonably necessary due to local climatic, geographical, or topographical conditions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City's Section 17958 findings are attached as Exhibit A to this Ordinance;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF SAN MATEO CALIFORNIA ORDAINS AS THAT:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70">Chapter 23.70</cite>, "Green Building Code," is hereby amended to read:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>23.70</num>
+        <heading>Green Building Code</heading>
+        <section>
+          <codify:replace path="23.70.010"/>
+          <num>23.70.010</num>
+          <heading>Adoption</heading>
+          <para>
+            <num>(a)</num>
+            <text>The California Green Building Standards Code, 2019 Edition, <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Part 11 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Green Building Code," is adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>One copy of the Green Building Code shall at all times be kept on file in the office of the City Clerk.</text>
+          </para>
+        </section>
+        <section>
+          <codify:replace path="23.70.020"/>
+          <num>23.70.020</num>
+          <heading>Local Amendments to Definitions</heading>
+          <para>
+            <num>(a)</num>
+            <text>The definitions contained Chapter 2, "Definitions" of the state Green Building Code are adopted.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The most commonly used definitions are set forth below:</text>
+          </para>
+          <include>
+            <text><strong>Electric Vehicle (EV). </strong>An automotive-type vehicle for on-road use, such as passenger automobiles, buses, trucks, vans, neighborhood electric vehicles, electric motorcycles, and the like, primarily powered by an electric motor that draws current from a rechargeable storage battery, fuel cell, photovoltaic array, or other source of electric current. Plug-in hybrid electric vehicles (PHEV) are considered electric vehicles.  For purposes of the <em>California Electrical Code</em>, off-road, self-propelled electric vehicles, such as industrial trucks, hoists, lifts, transports, golf carts, airline ground support equipment, tractors, boats, and the like, are not included.</text>
+            <text><strong>Electric Vehicle Charging Space (EV Space)</strong>. A space intended for future installation of EV charging equipment and charging of electric vehicles.</text>
+            <text><strong>Electric vehicle supply equipment (EVSE).</strong> The conductors, including the undergrounded, grounded, and equipment grounding conductors and the electric vehicles connectors, attachment plugs, and all other fittings, devices, power outlets, or apparatus installed specifically for the purpose of transferring energy between premises wiring and the electric vehicle.</text>
+          </include>
+          <para>
+            <num>(c)</num>
+            <text>Chapter 2 "Definitions," Section 202 of the state Green Building Code is amended to include the following definition:</text>
+            <include>
+              <text><strong>Level 2 EVSE.</strong> An EVSE capable of charging at 30 amperes or higher at 208 or 240 VAC. An EVSE capable of simultaneously charging at 30 amperes for each of two vehicles shall be counted as two Level 2 EVSE.</text>
+            </include>
+          </para>
+        </section>
+        <codify:remove path="23.70.050" warning="false"/>
+        <codify:replace path="23.70.040|num">
+          <num>23.70.050</num>
+        </codify:replace>
+        <codify:replace path="23.70.030|num">
+          <num>23.70.040</num>
+        </codify:replace>
+        <section>
+          <codify:insert path="23.70" after="23.70.020"/>
+          <num>23.70.030</num>
+          <heading>Local Amendment Regarding Electric Vehicle Charging For New One- and Two-Family Dwellings and Town-Houses</heading>
+          <para>
+            <num>(a)</num>
+            <text>Green Building Code Section 4.106.4.1, "New one- and two-family dwellings and town-houses with attached private garages," is amended to require the Tier 1 and Tier 2 requirement per Section A4.106.8.1 and A4.106.8.1.1 of the Green Building Code as follows:</text>
+            <include>
+              <para>
+                <num>(1)</num>
+                <text>Tier 1 and Tier 2. For each dwelling unit, a dedicated 208/240-volt branch circuit shall be installed in the raceway required by Section 4.106.4.1. The branch circuit and associated overcurrent protective device shall be rated at 40 amperes minimum. Other electrical components, including a receptacle or blank cover, related to this section shall be installed in accordance with the <em>California Electrical Code</em>.</text>
+                <text>A4.106.8.1.1 Identification. The service panel or sub-panel circuit directory shall identify the overcurrent protective device designated for future EV charging purposes as "EV READY" in accordance with the <em>California Electrical Code</em>. The receptacle or blank cover shall be identified as "EV READY."</text>
+              </para>
+            </include>
+          </para>
+        </section>
+        <section>
+          <codify:replace path="23.70.040"/>
+          <num>23.70.040</num>
+          <heading>Local Amendment Regarding Electric Vehicle Charging For New Multifamily Residential Construction</heading>
+          <para>
+            <num>(a)</num>
+            <text>Green Building Code Section 4.106.4.2, "New multifamily dwellings," is amended to require the Residential Voluntary Tier 1 Measure for EV charging space calculation per Section A4.106.8.2, "New multifamily dwellings," as follows:</text>
+            <text>Tier 1: 15 percent of the total number of parking spaces on a building site, provided for all types of parking facilities, but in no case less than one, shall be electric vehicle charging spaces (EV spaces) capable of supporting future electric vehicle supply equipment (EVSE). Calculations for required number of EV spaces shall be rounded up to the nearest whole number.</text>
+            <include>
+              <text>Requirements related to EV spaces for multifamily residential projects can be found in Green Building Code Sections 4.106.4.2.3 "Single EV space required" and 4.106.4.2.4 "Multiple EV spaces required."</text>
+            </include>
+          </para>
+        </section>
+        <section>
+          <codify:replace path="23.70.050"/>
+          <num>23.70.050</num>
+          <heading>Local Amendment Regarding Electric Vehicle Charging for New Non-residential Construction</heading>
+          <para>
+            <num>(a)</num>
+            <text>Green Building Code Section 5.106.5.3.3, "EV charging space calculation," is amended to require increased standards for new non-residential buildings with ten parking spaces or more as follows:</text>
+            <include>
+              <para>
+                <num>(1)</num>
+                <text>Ten percent of the total number of parking spaces provided for all types of parking facilities shall be EV spaces capable of supporting future EVSE. Calculations for the required number of EV spaces shall be rounded up to the nearest whole number.</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>Five percent of the total number of parking spaces provided for all types of parking facilities shall be equipped with Level 2 EVSE. Calculations for the required number of spaces with Level 2 EVSE shall be rounded up to the nearest whole number.</text>
+                <text>Requirements related to EV spaces for nonresidential projects can be found in Green Building Code Sections 5.106.5.3.1 "Single charging space requirements" and 5.106.5.3.2 "Multiple charging space requirements."</text>
+              </para>
+            </include>
+          </para>
+        </section>
+        <section>
+          <codify:insert path="23.70"/>
+          <num>23.70.060</num>
+          <heading>Local Amendment Regarding Electric Vehicle Space Design Requirements</heading>
+          <text>Green Building Code Section 4.106.4.2, "New multifamily dwellings," and Section 5.106.5.3.3, "EV charging space calculation" are amended to require EV space design requirements as follows:</text>
+          <include>
+            <text>For all projects subject to <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Part 2, Chapter 11B, construction documents shall indicate how many accessible EV spaces would be required under the California Code of Regulations <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Chapter 11B, if applicable, in order to convert EV spaces to include EVSE. Construction documents shall also demonstrate that the facility is designed such that compliance with accessibility standards, including Chapter 11B accessible routes, will be feasible for the required accessible EV Space at the time of EVSE installation. Surface slope for any area designated for accessible EV Space shall meet slope requirements in Chapter 11B and vertical clearance requirements in Chapter 11B at the time of original building construction.</text>
+          </include>
+        </section>
+        <section>
+          <codify:insert path="23.70"/>
+          <num>23.70.070</num>
+          <heading>Modifications</heading>
+          <text>If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite>, the applicant may request a modification set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06.015">Section 23.06.015</cite> of the Municipal Code. In applying for the modification, the burden is on the Applicant to show infeasibility. The Building Official may grant a modification to exempt the applicant from these requirements if he or she makes either of the following findings:</text>
+          <para>
+            <num>1.</num>
+            <text>Where there is insufficient electrical supply.</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Where there is evidence substantiating that additional local utility infrastructure design requirements, directly related to the implementation of these requirements, may have a significant adverse impact the construction cost of the project.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert path="23.70"/>
+          <num>23.70.080</num>
+          <heading>Expiration</heading>
+          <text>These local code amendments shall sunset the when the California Green Building Standards Code, 2019 Edition, is no longer in effect.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text>The Council adopts the findings supporting the local amendments to the California Green Building Standards Code, 2019 Edition, attached hereto as Exhibit A and incorporated herein by reference.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Environmental determination.</heading>
+    <text>In accordance with CEQA Guidelines Section 15308, adoption of this Ordinance is categorically exempt from CEQA because adoption of these green building standards is authorized by the state and is intended to assure the protection of the environment by reducing greenhouse gas emissions.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Severability.</heading>
+    <text>If any section, subsection, sentence, clause or phrase of this ordinance is for any reason held to be invalid, such decision shall not affect the validity of the remaining portions of this ordinance.  The City Council hereby declares that it should have adopted the ordinance and each section, subsection, sentence, clause or phrase thereof, irrespective of the fact that any one or more sections, subsections, sentences, clauses or phrases be declared invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in the San Mateo Daily Journal, posted in the City Clerk's Office, and posted on the City's website, all in accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Legislative history and effective date.</heading>
+    <text>This ordinance was introduced on August 19, 2019, and adopted on September 3, 2019, and shall be effective on January 1, 2020</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Papan, Freschet, Bonilla, Goethals and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+    <text class="center">
+      <strong>Exhibit A</strong>
+    </text>
+    <text class="center">
+      <strong>FINDINGS SUPPORTING LOCAL AMENDMENTS TO CALIFORNIA GREEN BUILDING STANDARDS CODE, 2019 EDITION</strong>
+    </text>
+    <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">Section 17958 of the California Health and Safety Code</cite> provides that the City may make changes to the provisions in the uniform codes that are published in the California Building Standards Code. Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> require that for each proposed local change to those provisions in the uniform codes and published in the California Building Standards Code which regulate buildings used for human habitation, the City Council must make findings supporting its determination that each such local change is reasonably necessary because of local climatic, geological, or topographical conditions.</text>
+    <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>. Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings. Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
+    <text>
+      <table>
+        <tr>
+          <th colspan="6">Code: California Green Building Standards Code</th>
+        </tr>
+        <tr>
+          <td>Section(s)</td>
+          <td>Title</td>
+          <td>Add</td>
+          <td>Deleted</td>
+          <td>Amended</td>
+          <td>Justification (See below for keys)</td>
+        </tr>
+        <tr>
+          <td>Chapter 4, Section 4.106.4.1</td>
+          <td>New one- and two-family dwellings and town-houses with attached private garages</td>
+          <td/>
+          <td/>
+          <td>X</td>
+          <td>A</td>
+        </tr>
+        <tr>
+          <td>Chapter 4, Section 4.106.4.2</td>
+          <td>New multifamily dwellings</td>
+          <td/>
+          <td/>
+          <td>X</td>
+          <td>A</td>
+        </tr>
+        <tr>
+          <td>Chapter 5, Section 5.106.5.3.3</td>
+          <td>EV charging space calculation</td>
+          <td/>
+          <td/>
+          <td>X</td>
+          <td>A</td>
+        </tr>
+      </table>
+    </text>
+    <text class="center">
+      <strong>Key to Justification Supporting Amendments to <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite> of the California Code of Regulations</strong>
+    </text>
+    <para>
+      <num>a.</num>
+      <text>This amendment is justified on the basis of a local <strong><u>climatic</u></strong> condition. Failure to address and significantly reduce greenhouse gas (GHG) emissions could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101 (Bayshore Freeway), particularly the mapped Flood Hazard areas of the City. Electric vehicle charging infrastructure is a key component in reducing GHG emissions, and EV charging installations can help the City of San Mateo reduce its share of the GHG emissions that contribute to climate change. Electric vehicle charging infrastructure will contribute to the reduction of GHG emissions by supporting the demand for electric vehicles and the associated EV chargers. The burning of fossil fuels used in the generation of electric power and heating of buildings contributes to climate change, which could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101. However, electric power will become cleaner over time as utilities achieve more stringent Renewable Portfolio Standard requirements, and translate the clean energy benefits to electric vehicles.</text>
+    </para>
+  </section>
+</document>
