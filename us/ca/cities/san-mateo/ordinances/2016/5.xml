@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2016-5">
   <num>2016-5</num>
-  <heading>AMENDING TITLE 23 BUILDING AND CONSTRUCTION OF THE SAN MATEO MUNICIPAL CODE TO ADOPT THE CALIFORNIA ENERGY CODE, 2016 EDITION AS A NEW CHAPTER 23.24 AND TO ADOPT LOCAL AMENDMENTS TO THE ENERGY CODE AND RELATED FINDINGS</heading>
+  <heading>Amending Title 23 Building and Construction of the San Mateo Municipal Code to Adopt the California Energy Code, 2016 Edition as a New Chapter 23.24 and to Adopt Local Amendments to the Energy Code and Related Findings</heading>
   <meta>
     <effective>2016-01-01</effective>
     <citations>
@@ -240,7 +240,9 @@
       </tr>
     </table>
   </text>
-  <text class="center"><strong>Key to Justification for Amendments to Title 24 of the California Code of Regulations</strong></text>
+  <text class="center">
+    <strong>Key to Justification for Amendments to Title 24 of the California Code of Regulations</strong>
+  </text>
   <para>
     <num>A.</num>
     <text>This amendment is justified on the basis of a <strong><u>local</u></strong> climatic condition.</text>

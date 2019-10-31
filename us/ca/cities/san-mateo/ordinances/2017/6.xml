@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2017-6">
   <num>2017-6</num>
-  <heading>AUTHORIZING THE USE OF DIGITAL SIGNATURES</heading>
+  <heading>Authorizing the Use of Digital Signatures</heading>
   <meta>
     <effective>2017-06-14</effective>
     <citations>
@@ -16,7 +16,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text><cite doc="Cal. Gov't Code">California Government Code</cite> <cite doc="Cal. Gov't Code" path="§16.5">§16.5</cite> and California Code of Regulations sections §22000 to §22005 allow and regulate the use of digital signatures for public entities when certain conditions are met; and</text>
+      <text><cite doc="Cal. Gov't Code">California Government Code</cite><cite doc="Cal. Gov't Code" path="§16.5">§16.5</cite> and California Code of Regulations sections §22000 to §22005 allow and regulate the use of digital signatures for public entities when certain conditions are met; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>

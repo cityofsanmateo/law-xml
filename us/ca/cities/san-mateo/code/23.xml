@@ -1052,9 +1052,9 @@
         <num>(d)</num>
         <heading>Fee Refunds.</heading>
         <text>The building official may authorize refunding of a fee paid hereunder which was erroneously paid or collected.</text>
-      <text>The building official may authorize refunding of not more than 80 percent of the permit fee paid when no work has been done under a permit issued in accordance with this code.</text>
-      <text>The building official may authorize refunding of not more than 80 percent of the plan review fee paid when an application for a permit for which a plan review fee has been paid is withdrawn or canceled before any examination time has been expended.</text>
-      <text>The building official shall not authorize the refunding of any fee paid except upon written application filed by the original permittee not later than 180 days after the date of fee payment.</text>
+        <text>The building official may authorize refunding of not more than 80 percent of the permit fee paid when no work has been done under a permit issued in accordance with this code.</text>
+        <text>The building official may authorize refunding of not more than 80 percent of the plan review fee paid when an application for a permit for which a plan review fee has been paid is withdrawn or canceled before any examination time has been expended.</text>
+        <text>The building official shall not authorize the refunding of any fee paid except upon written application filed by the original permittee not later than 180 days after the date of fee payment.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-8" path="§2" type="History"/>
@@ -5324,7 +5324,7 @@
           <para>
             <num>(J)</num>
             <text>On pairs of doors, the active leaf shall be secured with the type of lock required for single doors in subsection (a)(1)(B)	of this section. The inactive leaf shall be equipped with lever flush extension bolts or equivalent, protected by hardened material with a throw of three-fourths (3/4) inch at head and foot. Multiple point locks, cylinder-activated from the active leaf and satisfying the requirements above may be used in lieu of flushbolts.</text>
-          <text>An interviewer or peephole shall be provided in each main entry door and shall allow for 180 degree vision or more.</text>
+            <text>An interviewer or peephole shall be provided in each main entry door and shall allow for 180 degree vision or more.</text>
           </para>
         </para>
         <para>

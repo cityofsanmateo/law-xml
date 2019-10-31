@@ -1,4 +1,5 @@
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Legis. Drafting Manual">
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Legis. Drafting Manual">
   <heading>City of San Mateo Legislative Drafting Manual</heading>
   <meta>
     <effective>2019-07-01</effective>
@@ -41,7 +42,7 @@
       </para>
       <para>
         <num>(3)</num>
-        <text>Font is Calibri at 12 pt.</text>
+        <text>Font is Calibri at 11 pt.</text>
       </para>
       <para>
         <num>(4)</num>
@@ -49,7 +50,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>Page numbers shall be at the top of all pages starting on page 2, Calibri Italic, 12 point, .50 margin from the top, left &amp; right margins at .75 as follows:</text>
+        <text>Page numbers shall be at the top of all pages starting on page 2, Calibri Italic, 11 point, .50 margin from the top, left &amp; right margins at .75 as follows:</text>
         <include>
           <text proof="needed">
             <em>Ordinance No. YYYY-#</em>
@@ -403,7 +404,7 @@
             <text>ABSENT: None</text>
             <text>ATTEST:</text>
             <text>______________________________ ______________________________</text>
-            <text>Patrice M. Olds, City Clerk Diane Papan</text>
+            <text>Patrice M. Olds, City Clerk    _________, Mayor</text>
           </include>
         </para>
       </para>

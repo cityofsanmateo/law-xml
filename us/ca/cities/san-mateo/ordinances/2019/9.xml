@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2019-9" codify:doc="City of San Mateo, Cal., Code">
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2019-9" codify:doc="City of San Mateo, Cal., Code">
   <num>2019-9</num>
-  <heading>AMENDING CHAPTER 23.24, "ENERGY CODE," OF TITLE 23, "BUILDING AND CONSTRUCTION," OF THE SAN MATEO MUNICIPAL CODE TO ADOPT THE CALIFORNIA ENERGY CODE, 2019 EDITION, WITH LOCAL AMENDMENTS</heading>
+  <heading>Amending Chapter 23.24, "Energy Code," of Title 23, "Building and Construction," of the San Mateo Municipal Code to Adopt the California Energy Code, 2019 Edition, with Local Amendments</heading>
   <meta>
     <effective>2020-01-01</effective>
     <citations>
@@ -64,10 +64,12 @@
           <codify:replace path="23.24.020"/>
           <num>23.24.020</num>
           <heading>Local Amendment to Definitions</heading>
-          <text>Subchapter 1, "All Occupancies – General Provisions," Section 100.1(b), of the state Energy Code is amended to include the following definitions:</text><include>
-          <text><strong>All-Electric building or all-electric design</strong> is a building or building design that uses a permanent supply of electricity as the only source of energy for space conditioning (including heating and cooling), water heating (including pools and spas), cooking appliances, and clothes drying appliances, and has no natural gas or propane plumbing installed at the building.</text>
-          <text><strong>Mixed-fuel building or mixed-fuel design</strong> is a building or building design that uses natural gas or propane as fuel for space heating, water heating (including pools and spas), cooking appliances or clothes drying appliances or is plumbed for such equipment.</text>
-          <text><strong>Accessory building</strong>, shall have the meaning set forth in <cite doc="City of San Mateo, Cal., Code" path="27.04.010">Section 27.04.010</cite> of the City of San Mateo Municipal Code.</text></include>
+          <text>Subchapter 1, "All Occupancies – General Provisions," Section 100.1(b), of the state Energy Code is amended to include the following definitions:</text>
+          <include>
+            <text><strong>All-Electric building or all-electric design</strong> is a building or building design that uses a permanent supply of electricity as the only source of energy for space conditioning (including heating and cooling), water heating (including pools and spas), cooking appliances, and clothes drying appliances, and has no natural gas or propane plumbing installed at the building.</text>
+            <text><strong>Mixed-fuel building or mixed-fuel design</strong> is a building or building design that uses natural gas or propane as fuel for space heating, water heating (including pools and spas), cooking appliances or clothes drying appliances or is plumbed for such equipment.</text>
+            <text><strong>Accessory building</strong>, shall have the meaning set forth in <cite doc="City of San Mateo, Cal., Code" path="27.04.010">Section 27.04.010</cite> of the City of San Mateo Municipal Code.</text>
+          </include>
         </section>
         <section>
           <codify:replace path="23.24.030"/>

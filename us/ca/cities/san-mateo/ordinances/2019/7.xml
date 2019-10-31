@@ -1,6 +1,7 @@
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2019-7">
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2019-7">
   <num>2019-7</num>
-  <heading>AMENDING TITLE 27 OF THE SAN MATEO MUNICIPAL CODE, RELATED TO QUALIFIED OVERLAY (Q) DISTRICTS TO ESTABLISH A QUALIFIED OVERLAY DISTRICT 8 (Q8), AND AMENDING THE ZONING MAP OF THE CITY OF SAN MATEO TO REZONE THE SITE AT 1 CAREY SCHOOL LANE FROMR1-B (ONE FAMILY DWELLINGS) TO R1-B/Q8 (ONE FAMILY DWELLINGS, QUALIFIED OVERLAY DISTRICT 8)</heading>
+  <heading>Amending Title 27 of the San Mateo Municipal Code, Related to Qualified Overlay (Q) Districts to Establish a Qualified Overlay District 8 (Q8), and Amending the Zoning Map of the City of San Mateo to Rezone the Site at 1 Carey School Lane From R1-B (One Family Dwellings) to R1-B/Q8 (One Family Dwellings, Qualified Overlay District 8)</heading>
   <meta>
     <effective>2019-07-17</effective>
     <citations>
@@ -46,7 +47,7 @@
       <text>the City Council has determined that the proposed rezoning is consistent with the City's General Plan, because the Q overlay zone authorizes deviations from the standards of the underlying R1-B zoning district, the project is seeking a Special Use Permit Modification to continue operation in an R1-B zone, which will limit the uses on the site and protect the surrounding single family uses, and otherwise conforms with the Single Family Residential Land Use designation of the site;</text>
     </recital>
     <recital>
-      <conjunction></conjunction>
+      <conjunction/>
       <text>The Council of the City of San Mateo, California, ordains as follows:</text>
     </recital>
   </recitals>
