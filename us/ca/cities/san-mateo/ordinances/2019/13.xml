@@ -1,0 +1,715 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2019-13" codify:doc="City of San Mateo, Cal., Code">
+  <num>2019-13</num>
+  <heading>"Amending Title 23 Buildings and Construction to Adopt the 2019 California Building Standards Code, the Fire Code of the San Mateo Consolidated Fire Department, and Related Conforming Amendments."</heading>
+  <meta>
+    <effective>2019-12-18</effective>
+    <citations>
+      <citation type="ord">Ord. No. 2019-13</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2019-13</citation>
+    </citations>
+    <history>
+      <introduced>2019-11-04</introduced>
+      <adopted>2019-11-18</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the California Building Standards Commission publishes updated model Building Standards Code every three years, most recently on July 1, 2019; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>local jurisdictions are required to enact applicable provisions of Building Standards Code by January 1, 2020; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council adopted the California Energy Code and Green Building Standards Code and local amendments thereto on September 3, 2019; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>beginning January 2019, the San Mateo Consolidated Fire Department has been responsible for providing fire suppression and fire prevention services in the city of San Mateo, including building plan check and inspection services to ensure compliance with the applicable Fire Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to adopt by reference the Fire Code adopted by the San Mateo Consolidated Fire Department; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City continually strives to improve the quality, clarity and organization of its building codes in order to aid its users in more easily obtaining and understating the requirements contained therein.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> Administrative Code is amended as follows:</text>
+    <para>
+      <num>(a)</num>
+      <text>Sections <cite doc="City of San Mateo, Cal., Code" path="23.06.011">23.06.011</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.012">23.06.012</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.014">23.06.014</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.015">23.06.015</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.016">23.06.016</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.020">23.06.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.021">23.06.021</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.030">23.06.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.040">23.06.040</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.050">23.06.050</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.070">23.06.070</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.080">23.06.080</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.090">23.06.090</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.110">23.06.110</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.130">23.06.130</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.140">23.06.140</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.140">23.06.150</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06.160">23.06.160</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.06.170">23.06.170</cite> of the San Mateo Municipal Code are repealed.</text>
+      <codify:repeal path="23.06.011"/>
+      <codify:repeal path="23.06.012"/>
+      <codify:repeal path="23.06.014"/>
+      <codify:repeal path="23.06.015"/>
+      <codify:repeal path="23.06.016"/>
+      <codify:repeal path="23.06.020"/>
+      <codify:repeal path="23.06.021"/>
+      <codify:repeal path="23.06.030"/>
+      <codify:repeal path="23.06.040"/>
+      <codify:repeal path="23.06.050"/>
+      <codify:repeal path="23.06.070"/>
+      <codify:repeal path="23.06.080"/>
+      <codify:repeal path="23.06.090"/>
+      <codify:repeal path="23.06.110"/>
+      <codify:repeal path="23.06.130"/>
+      <codify:repeal path="23.06.140"/>
+      <codify:repeal path="23.06.150"/>
+      <codify:repeal path="23.06.160"/>
+      <codify:repeal path="23.06.170"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.06.010">Section 23.06.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+      <include>
+        <section>
+          <codify:replace path="23.06.010"/>
+          <num>23.06.010</num>
+          <heading>Adoption</heading>
+          <para>
+            <num>(a)</num>
+            <text>The 2019 California Administrative Code, California Code of Regulations, Title 24, Part 1, as adopted and amended by the State of California, hereinafter called "Administrative Code," is adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No section of the Administrative Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council, or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section, or not to enforce it.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A copy of the Administrative Code shall at all times be kept on file in the office of the City Clerk.</text>
+          </para>
+        </section>
+      </include>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.06.060">Section 23.06.060 of the San Mateo Municipal Code</cite> is redesignated and amended as follows:</text>
+      <include>
+        <section>
+          <codify:replace path="23.06.060"/>
+          <num>23.06.060</num>
+          <heading>Hours of Work</heading>
+          <text>No work regulated by this code shall be permitted between the hours of 7:00 p.m. and 7:00 a.m., Monday through Friday, nor prior to 9:00 a.m. or after 5:00 p.m. on Saturday, nor prior to 12:00 noon or after 4:00 p.m. on Sundays and holidays. These hours do not apply to construction work that takes place inside a completely enclosed building and does not exceed the exterior ambient noise level as measured ten feet from the exterior property lines.</text>
+        </section>
+      </include>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.06.061">Section 23.06.061 of the San Mateo Municipal Code</cite> is redesignated and amended as follows:</text>
+      <include>
+        <section>
+          <codify:replace path="23.06.061"/>
+          <num>23.06.061</num>
+          <heading>Hours of Work Exemption</heading>
+          <para>
+            <num>(a)</num>
+            <text>Exemptions from the hours of work designated in <cite doc="City of San Mateo, Cal., Code" path="23.06.060">Section 23.06.060</cite> may be granted:</text>
+            <para>
+              <num>(1)</num>
+              <text>As a condition of approval of a planning application issued pursuant to <cite doc="City of San Mateo, Cal., Code" path="26">Title 26</cite> or <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Upon written application to the Building Official. The Building Official may approve such application in his or her sole discretion for emergency situations or exceptional circumstances beyond the control of the applicant. An application shall contain any information required by the Building Official, including, but not limited to the type of work to be performed, the equipment to be used, the date(s) and time(s) for the proposed hours of work, and the reason(s) therefor.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The approved hours of construction activity shall be posted at the construction site in a place and manner that can be easily viewed by an interested member of the public.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The building official may revoke an exemption at any time if the contractor or owner of the property fails to abide by the conditions of the exemption or if it is determined that the peace, comfort and tranquility of the occupants of adjacent residential or commercial properties are impaired because of the location and nature of the construction.</text>
+          </para>
+        </section>
+      </include>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.06.100">Section 23.06.100 of the San Mateo Municipal Code</cite> is redesignated and amended as follows:</text>
+      <include>
+        <section>
+          <codify:replace path="23.06.100"/>
+          <num>23.06.100</num>
+          <heading>Demolition Permits</heading>
+          <para>
+            <num>(a)</num>
+            <text>Demolition permits may be issued if at least one of the following is applicable:</text>
+            <para>
+              <num>(1)</num>
+              <text>Demolition has been ordered by the building official because of major structural damage or a condition resulting in imminent or immediate danger to public health or safety; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>A building permit or site development permit has been issued authorizing work to be performed which requires the prior removal of an existing structure to accomplish the new construction; or</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The City has determined that demolition is necessary in order to perform appropriate soil tests for a proposed project; or</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Demolition is required by the City as a condition of approval of a planning application under <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite> or a subdivision under <cite doc="City of San Mateo, Cal., Code" path="26">Title 26</cite> of this code, and the application for the demolition permit complies with the time frame set in the condition of approval.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>The demolition involves a nonresidential structure smaller than 3,000 square feet.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The demolition involves an accessory building as defined in <cite doc="City of San Mateo, Cal., Code" path="27.04.010">Section 27.04.010</cite>.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>The demolition of structures where a master plan or specific plan has been approved for development of the site provided that: (1) the building official receives written confirmation that the demolition is needed to facilitate the timely construction of new structures under the approved master plan; (2) the structures are substantially vacant; (3) there is written documentation from a lending institution that the project (at least in substantial part) is capable of being financed and the applicant is credit worthy.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All demolition permits shall comply with the following conditions:</text>
+            <para>
+              <num>(1)</num>
+              <text>The site shall be fenced when open holes in the ground exist, if required by the building official because of other hazards or to ensure maintenance of the site.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>All debris, weeds, and other nuisances shall be removed from the site, and the site shall be leveled unless requirements regarding hazardous wastes make leveling infeasible. If planting is not required and construction does not commence within 30 days after demolition, the soil shall be treated with a weed inhibitor approved by the City.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>If deemed appropriate, the City may require that the entire site be planted and maintained with a drought tolerant ground cover that will fully cover all exposed soil within six months of planting, or covered to a minimum depth of two inches with crushed rock.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>That the site be fenced according to code, or if deemed appropriate, the City may require that any driveway curb cuts not used be provided with bollards and chains, located and installed so as to prevent vehicular entry into the site.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>The applicant shall comply with all other conditions that may be attached by the building official to ensure maintenance of the site, including, but not limited to, vacant lot maintenance requirements contained in <cite doc="City of San Mateo, Cal., Code" path="7.48">Chapter 7.48 of the San Mateo Municipal Code</cite>.</text>
+            </para>
+          </para>
+        </section>
+      </include>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.06.120">Section 23.06.120 of the San Mateo Municipal Code</cite> is redesignated and amended as follows:</text>
+      <include>
+        <section>
+          <codify:replace path="23.06.120"/>
+          <num>23.06.120</num>
+          <heading>Fees</heading>
+          <para>
+            <num>(a)</num>
+            <heading>General.</heading>
+            <text>All permit fees, surcharges, plan checking fees, fees for inspections and reinspections, and all other fees, shall be those established by resolution of the City Council.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Expiration of Plan Review.</heading>
+            <text>Applications for which no permit is issued within 180 days following the date of application shall expire by limitation, and plans and other data submitted for review may thereafter be returned to the applicant or destroyed by the building official. The building official may extend the time for action by the applicant for a period not exceeding 180 days on written request by the applicant showing that circumstances beyond the control of the applicant have prevented action from being taken and that extension will not result in violation of this code or any other laws. An application shall not be extended more than two times. An application shall not be extended if this code or any other pertinent laws or ordinances have been amended subsequent to the date of the application. In order to renew action on an application after expiration, the applicant shall resubmit plans and pay a new plan review fee, and the plans shall comply with the codes and other pertinent laws or ordinances in effect at the time of resubmittal.</text>
+            <para>
+              <num>(1)</num>
+              <heading>Planning Applications.</heading>
+              <text>For applications for which a planning application was approved, a completed building permit application shall be filed before the two-year expiration date of the planning approval; and a building permit shall be issued no later than six months after the expiration date. Extension for issuance of a building permit may be granted by the building official only if the applicant demonstrates that the delay in performance was caused by action or inaction of governmental permitting agencies other than the City of San Mateo, and that the applicant has diligently pursued approval of the permit.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Investigation Fees—Work Without a Permit.</heading>
+            <para>
+              <num>(1)</num>
+              <heading>Investigation.</heading>
+              <text>Whenever work for which a permit is required by this code has been commenced without first obtaining a permit, a special investigation shall be made before a permit may be issued for such work.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <heading>Fee.</heading>
+              <text>An investigation fee, in addition to the permit fee, shall be collected whether or not a permit is then or subsequently issued. The amount of the investigation fee shall be adopted by resolution of the City council. The payment of such investigation fee shall not exempt an applicant from compliance with all other provisions of either this code or the technical codes nor from the penalty prescribed by law.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Fee Refunds.</heading>
+            <text>The building official may authorize refunding of a fee paid hereunder which was erroneously paid or collected.</text>
+            <text>The building official may authorize refunding of not more than 80 percent of the permit fee paid when no work has been done under a permit issued in accordance with this code.</text>
+            <text>The building official may authorize refunding of not more than 80 percent of the plan review fee paid when an application for a permit is withdrawn and if no plan review services have been rendered.</text>
+            <text>The building official shall not authorize the refunding of any fee paid except upon written application filed by the original permittee not later than 180 days after the date of fee payment.</text>
+          </para>
+        </section>
+      </include>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.07">Chapter 23.07 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <para>
+      <num>(a)</num>
+      <text>Sections <cite doc="City of San Mateo, Cal., Code" path="23.07.020">23.07.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.07.030">23.07.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.07.040">23.07.040</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.07.060">23.07.060</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.07.070">23.07.070</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.07.080">23.07.080</cite> of the San Mateo Municipal Code are repealed.</text>
+      <codify:repeal path="23.07.020"/>
+      <codify:repeal path="23.07.030"/>
+      <codify:repeal path="23.07.040"/>
+      <codify:repeal path="23.07.060"/>
+      <codify:repeal path="23.07.070"/>
+      <codify:repeal path="23.07.080"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.07.010">Section 23.07.010</cite> is amended as follows:</text>
+      <include>
+        <section>
+          <codify:replace path="23.07.010"/>
+          <num>23.07.010</num>
+          <heading>Adoption</heading>
+          <para>
+            <num>(a)</num>
+            <text>The 2019 California Residential Code, California Code of Regulations, Title 24, Part 2.5 and Appendices H—Patio Covers, K—Sound Transmissions, and V—Swimming Pool Safety Act, as adopted and amended by the State of California, hereinafter called "Residential Code," are adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No section of the Residential Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council, or commission with discretion to enforce the section, or not to enforce it.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A copy of the Residential Code shall at all times be kept on file in the office of the City Clerk.</text>
+          </para>
+        </section>
+      </include>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.08">Chapter 23.08 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <para>
+      <num>(a)</num>
+      <text>Sections <cite doc="City of San Mateo, Cal., Code" path="23.08.020">23.08.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.030">23.08.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.040">23.08.040</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.045">23.08.045</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.090">23.08.090</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.08.080">23.08.080</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.08.160">23.08.160</cite> of the San Mateo Municipal Code are repealed.</text>
+      <codify:repeal path="23.08.020"/>
+      <codify:repeal path="23.08.030"/>
+      <codify:repeal path="23.08.040"/>
+      <codify:repeal path="23.08.045"/>
+      <codify:repeal path="23.08.090"/>
+      <!-- <codify:repeal path="23.08.080"/> -->
+      <codify:repeal path="23.08.160"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.08.010">Section 23.08.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+      <include>
+        <section>
+          <codify:replace path="23.08.010"/>
+          <num>23.08.010</num>
+          <heading>Adoption</heading>
+          <para>
+            <num>(a)</num>
+            <text>The 2019 California Building Code, California Code of Regulations,Title 24, Part 2, Volumes 1 and 2 and Appendix G—Flood Resistant Construction, as adopted and amended by the State of California, hereinafter called "Building Code," are adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No section of the Building Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section, or not to enforce it.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A copy of the Building Code shall at all times be kept on file in the office of the City Clerk.</text>
+          </para>
+        </section>
+      </include>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.08.130">Section 23.08.130 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+      <include>
+        <section>
+          <codify:replace path="23.08.130"/>
+          <num>23.08.130</num>
+          <heading>Section 1905.1.8 Plain Concrete In Earthquake Resisting Structures Amended</heading>
+          <text>1905.1.8 ACI 318 Section 14.1.4. Delete ACI 318, Section 14.1.4, and replace with the following:</text>
+          <include>
+            <para>
+              <num>14.1.4-</num>
+              <text>Plain concrete in structures assigned to Seismic Design Category C, D, E or F.</text>
+              <para>
+                <num>14.1.4.1-</num>
+                <text>Structures assigned to Seismic Design Category C, D, E or F shall not have elements of structural plain concrete, except as follows:</text>
+                <para>
+                  <num>(a)</num>
+                  <text>Isolated footings of plain concrete supporting pedestals or columns are permitted, provided the projection of the footing beyond the face of the supported member does not exceed the footing thickness.</text>
+                </para>
+                <para>
+                  <num>(b)</num>
+                  <text>Plain concrete footing supporting walls are permitted, provided the footings have at least two continuous longitudinal reinforcing bars. Bars shall not be smaller than No. 4 and shall have a total area of not less than 0.002 times the gross cross-sectional area of the footing. A minimum of one bar shall be provided at the top and bottom of the footing. Continuity of reinforcement shall be provided at corners and intersections.</text>
+                </para>
+              </para>
+            </para>
+          </include>
+        </section>
+      </include>
+    </para>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.09.010">Section 23.09.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="23.09.010"/>
+        <num>23.09.010</num>
+        <heading>Adoption</heading>
+        <para>
+          <num>(a)</num>
+          <text>The 2019 California Existing Building Code, California Code of Regulations, Title 24, Part 10, as adopted and amended by the State of California, hereinafter called "Existing Building Code," is adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No section of the Existing Building Code shall imply a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section or not to enforce it.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A copy of the Existing Building Code shall at all times be kept on file in the office of the City Clerk.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.10">Chapter 23.10 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="23.10"/>
+    <codify:repeal path="23.10.010"/>
+    <codify:repeal path="23.10.012"/>
+    <codify:repeal path="23.10.014"/>
+    <codify:repeal path="23.10.016"/>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.12.010">Section 23.12.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="23.12.010"/>
+        <num>23.12.010</num>
+        <heading>Adoption</heading>
+        <para>
+          <num>(a)</num>
+          <text>The 2019 California Electrical Code, California Code of Regulations, Title 24, Part 3, as adopted and amended by the State of California, hereinafter called "Electrical Code," is adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No section of the Electrical Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, said section shall be deemed to invest the City, and the appropriate officer, official, agent, employee, board, council, or commission thereof with discretion to enforce the section, or not to enforce it.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A copy of the California Electrical Code shall at all times be kept on file in the office of the City Clerk.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.16.010">Section 23.16.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="23.16.010"/>
+        <num>23.16.010</num>
+        <heading>Adoption</heading>
+        <para>
+          <num>(a)</num>
+          <text>The 2019 California Plumbing Code, California Code of Regulations, Title 24, Part 5, as adopted and amended by the State of California, hereinafter called "Plumbing Code," is adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No section of the Plumbing Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council, or commission with discretion to enforce the section, or not to enforce it.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>One copy of the Plumbing Code shall at all times be kept on file in the office of the City Clerk.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.20.010">Section 23.20.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="23.20.010"/>
+        <num>23.20.010</num>
+        <heading>Adoption</heading>
+        <para>
+          <num>(a)</num>
+          <text>The 2019 California Mechanical Code, California Code of Regulations, Title 24, Part 4, as adopted and amended by the State of California, hereinafter called "Mechanical Code," is adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No section of the Mechanical Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, said section shall be deemed to invest the City, and the appropriate officer, official, agent, employee, board, council or commission thereof with discretion to enforce the section or not enforce it.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A copy of the Mechanical Code shall at all times be kept on file in the office of the City Clerk.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>9</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.28">Chapter 23.28 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <para>
+      <num>(a)</num>
+      <text>Sections <cite doc="City of San Mateo, Cal., Code" path="23.28.020">23.28.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.030">23.28.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.040">23.28.040</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.050">23.28.050</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.060">23.28.060</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.090">23.28.090</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.100">23.28.100</cite>. <cite doc="City of San Mateo, Cal., Code" path="23.28.110">23.28.110</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.120">23.28.120</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.130">23.28.130</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.140">23.28.140</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.145">23.28.145</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.150">23.28.150</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.160">23.28.160</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.170">23.28.170</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.180">23.28.180</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.190">23.28.190</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.200">23.28.200</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.210">23.28.210</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.220">23.28.220</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.230">23.28.230</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.28.240">23.28.240 </cite>of the San Mateo Municipal Code are repealed.</text>
+      <codify:repeal path="23.28.020" />
+      <codify:repeal path="23.28.030" />
+      <codify:repeal path="23.28.040" />
+      <codify:repeal path="23.28.050" />
+      <codify:repeal path="23.28.060" />
+      <codify:repeal path="23.28.090" />
+      <codify:repeal path="23.28.100" />
+      <codify:repeal path="23.28.110" />
+      <codify:repeal path="23.28.120" />
+      <codify:repeal path="23.28.130" />
+      <codify:repeal path="23.28.140" />
+      <codify:repeal path="23.28.145" />
+      <codify:repeal path="23.28.150" />
+      <codify:repeal path="23.28.160" />
+      <codify:repeal path="23.28.170" />
+      <codify:repeal path="23.28.180" />
+      <codify:repeal path="23.28.190" />
+      <codify:repeal path="23.28.200" />
+      <codify:repeal path="23.28.210" />
+      <codify:repeal path="23.28.220" />
+      <codify:repeal path="23.28.230" />
+      <codify:repeal path="23.28.240" />
+    </para>
+    <para>
+      <num>(b)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.28.010">Section 23.28.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+      <include>
+        <section>
+          <codify:replace path="23.28.010"/>
+          <num>23.28.010</num>
+          <heading>Adoption</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Fire Code adopted by the San Mateo Consolidated Fire Department, and as amended from time to time, hereinafter called "Fire Code," is adopted as the rules, regulations, and standards within the City as to all matters therein, except otherwise provided.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>No section of the Fire Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council, or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, said section shall be deemed to invest the City, and the appropriate officer, official, agent, employee, board, council, or commission with discretion to enforce the section, or not to enforce it.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A copy of the Fire Code, as defined herein, shall be kept on file in the office of the City Clerk.</text>
+          </para>
+        </section>
+      </include>
+    </para>
+  </section>
+  <section>
+    <num>10</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.32">Chapter 23.32 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="23.32"/>
+    <codify:repeal path="23.32.010"/>
+    <codify:repeal path="23.32.020"/>
+    <codify:repeal path="23.32.030"/>
+    <codify:repeal path="23.32.040"/>
+    <codify:repeal path="23.32.050"/>
+    <codify:repeal path="23.32.060"/>
+    <codify:repeal path="23.32.070"/>
+    <codify:repeal path="23.32.080"/>
+    <codify:repeal path="23.32.090"/>
+    <codify:repeal path="23.32.100"/>
+    <codify:repeal path="23.32.110"/>
+  </section>
+  <section>
+    <num>11</num>
+    <heading>California Historical Building Code added.</heading>
+    <text/>
+    <para>
+      <num>(a)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.36">Chapter 23.36 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> as follows:</text>
+      <codify:insert path="23">
+        <container>
+          <prefix>Chapter</prefix>
+          <num>23.36</num>
+          <heading>Historical Building Code</heading>
+        </container>
+      </codify:insert>
+      <include>
+        <container codify:path="23.36">
+          <prefix>Chapter</prefix>
+          <num>23.36</num>
+          <heading>Historical Building Code</heading>
+          <section>
+            <codify:insert/>
+            <num>23.36.010</num>
+            <heading>Adoption</heading>
+            <para>
+              <num>(a)</num>
+              <text>The 2019 California Historical Building Code, California Code of Regulations,Title 24, Part 8, as adopted and amended by the State of California, hereinafter called "Historical Building Code," is adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>No section of the Historical Building Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council, or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section, or not to enforce it.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>A copy of the Historical Building Code shall at all times be kept on file in the office of the City Clerk.</text>
+            </para>
+          </section>
+        </container>
+      </include>
+    </para>
+  </section>
+  <section>
+    <num>12</num>
+    <heading>California Referenced Standards Code added.</heading>
+    <text/>
+    <para>
+      <num>(a)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.38">Chapter 23.38 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> as follows:</text>
+      <codify:insert path="23">
+        <container>
+          <prefix>Chapter</prefix>
+          <num>23.38</num>
+          <heading>Referenced Standards Code</heading>
+        </container>
+      </codify:insert>
+      <include>
+        <container codify:path="23.38">
+          <prefix>Chapter</prefix>
+          <num>23.38</num>
+          <heading>Referenced Standards Code</heading>
+          <section>
+            <codify:insert num-value="23.38.010"/>
+            <num>23.36.010</num>
+            <heading>Adoption</heading>
+            <para>
+              <num>(a)</num>
+              <text>The 2019 California Referenced Standards Code, California Code of Regulations, Title 24, Part 12, as adopted and amended by the State of California, hereinafter called "Referenced Standards Code," is adopted as the rules, regulations, and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>No section of the California Referenced Standards Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council, or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, that section shall invest the City, and the appropriate officer, official, agent, employee, board, council or commission with discretion to enforce the section, or not to enforce it.</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>A copy of the California Referenced Standards Code shall at all times be kept on file in the office of the City Clerk.</text>
+            </para>
+          </section>
+        </container>
+      </include>
+    </para>
+  </section>
+  <section>
+    <num>13</num>
+    <heading>Conforming amendments.</heading>
+    <text/>
+    <para>
+      <num>(a)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.24.060">Section 23.24.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+      <include>
+        <section>
+          <codify:replace path="23.24.060" applicability="2020-01-01" delay="50"/>
+          <num>23.24.060</num>
+          <heading>Modifications</heading>
+          <text>If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite>, the applicant may request a modification as set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite> of this Code. In applying for the modification, the burden is on the Applicant to demonstrate infeasibility to the City's Building Official.</text>
+        </section>
+      </include>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text><cite doc="City of San Mateo, Cal., Code" path="23.44.060">Section 23.44.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+      <include>
+        <section>
+          <codify:replace path="23.44.060"/>
+          <num>23.44.060</num>
+          <heading>Submittal Review, Permit, And Inspection</heading>
+          <para>
+            <num>(a)</num>
+            <text>The building official shall implement an administrative review process to expedite review of electric vehicle charging station permit applications, plans, and related documents. No permit or approval shall be issued which does not conform to all applicable provisions of <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite>, Buildings and Construction, and <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>, Zoning Code. The determination of conformance shall be made by the Community Development Director or designated staff members of the Community Development Department.</text>
+            <text>Where the application meets the requirements of the approved checklist and standards and there are no specific, adverse impacts upon public health or safety, the building division shall complete the building permit approval process, which is nondiscretionary. Review of the application for electric vehicle charging stations shall be limited to the building official's review of whether the application meets local, state, and federal health and safety requirements. If an application is deemed incomplete, a written correction notice detailing all deficiencies in the application and any additional information or documentation required to be eligible for expedited permit issuance shall be sent to the applicant for resubmission.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The building official may only deny an application for the electric vehicle charging station permit if the official makes written findings based upon substantial evidence in the record that the proposed installation would have a specific, adverse impact upon public health or safety and there is no feasible method to satisfactorily mitigate or avoid the adverse impact. Such findings shall include the basis for the rejection of the potential feasible alternative for preventing the adverse impact.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The building official may require an applicant to apply for an "electric vehicle charging station use permit" if the building official finds, based on the initial application submittal, that the electric vehicle charging stations could have a specific, adverse impact upon the public health and safety.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Notwithstanding the appeal provisions contained in <cite doc="City of San Mateo, Cal., Code" path="23.06">Chapter 23.06</cite>, the building official's determinations under this section may be appealed to the Planning Commission.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>A separate fire inspection may be performed by the City of San Mateo Fire Department, if required.</text>
+          </para>
+        </section>
+      </include>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Section 23.70.70 of the San Mateo Municipal Code is amended as follows:</text>
+      <include>
+        <section>
+          <codify:replace path="23.70.070" applicability="2020-01-01"/>
+          <num>23.70.070</num>
+          <heading>Modifications</heading>
+          <text>If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite>, the applicant may request a modification set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06.015">Section 23.06.015</cite> of the Municipal Code. In applying for the modification, the burden is on the Applicant to show infeasibility. The Building Official may grant a modification to exempt the applicant from these requirements if he or she makes either of the following findings:</text>
+          <para>
+            <num>1.</num>
+            <text>Where there is insufficient electrical supply; or</text>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Where there is evidence substantiating that additional local utility infrastructure design requirements, directly related to the implementation of these requirements, may have a significant adverse impact the construction cost of the project.</text>
+          </para>
+        </section>
+      </include>
+    </para>
+  </section>
+  <section>
+    <num>14</num>
+    <heading>Environmental determination.</heading>
+    <text>In accordance with California Environmental Quality Act guidelines section 15378(b)(2), introduction and adoption of this Ordinanceis not a project subject to CEQA review in that adoption of the updated Building Standards Codes is a continuing administrative activity.</text>
+  </section>
+  <section>
+    <num>15</num>
+    <heading>Severability.</heading>
+    <text>If any section, subsection, sentence, clause or phrase of this ordinance is for any reason held to be invalid, such decision shall not affect the validity of the remaining portions of this ordinance.  The City Council hereby declares that it should have adopted the ordinance and each section, subsection, sentence, clause or phrase thereof, irrespective of the fact that any one or more sections, subsections, sentences, clauses or phrases be declared invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>16</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>17</num>
+    <heading>Legislative history and effective date.</heading>
+    <text>This ordinance was introduced on November 4, 2019, and adopted on November 18, 2019, and shall be effective 30 days after its adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Papan, Bonilla, Goethals, Lee and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </section>
+</document>
