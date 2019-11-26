@@ -658,7 +658,7 @@
       <text>Section 23.70.70 of the San Mateo Municipal Code is amended as follows:</text>
       <include>
         <section>
-          <codify:replace path="23.70.070" applicability="2020-01-01"/>
+          <codify:replace path="23.70.070" applicability="2020-01-01" delay="20"/>
           <num>23.70.070</num>
           <heading>Modifications</heading>
           <text>If an applicant for a Covered Project believes that circumstances exist that make it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite>, the applicant may request a modification set forth in <cite doc="City of San Mateo, Cal., Code" path="23.06.015">Section 23.06.015</cite> of the Municipal Code. In applying for the modification, the burden is on the Applicant to show infeasibility. The Building Official may grant a modification to exempt the applicant from these requirements if he or she makes either of the following findings:</text>
