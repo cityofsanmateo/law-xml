@@ -1,4 +1,5 @@
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2019-13" codify:doc="City of San Mateo, Cal., Code">
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Ord. No. 2019-13" codify:doc="City of San Mateo, Cal., Code">
   <num>2019-13</num>
   <heading>"Amending Title 23 Buildings and Construction to Adopt the 2019 California Building Standards Code, the Fire Code of the San Mateo Consolidated Fire Department, and Related Conforming Amendments."</heading>
   <meta>
@@ -298,7 +299,6 @@
       <codify:repeal path="23.08.040"/>
       <codify:repeal path="23.08.045"/>
       <codify:repeal path="23.08.090"/>
-      <!-- <codify:repeal path="23.08.080"/> -->
       <codify:repeal path="23.08.160"/>
     </para>
     <para>
@@ -462,28 +462,28 @@
     <para>
       <num>(a)</num>
       <text>Sections <cite doc="City of San Mateo, Cal., Code" path="23.28.020">23.28.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.030">23.28.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.040">23.28.040</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.050">23.28.050</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.060">23.28.060</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.090">23.28.090</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.100">23.28.100</cite>. <cite doc="City of San Mateo, Cal., Code" path="23.28.110">23.28.110</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.120">23.28.120</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.130">23.28.130</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.140">23.28.140</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.145">23.28.145</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.150">23.28.150</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.160">23.28.160</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.170">23.28.170</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.180">23.28.180</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.190">23.28.190</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.200">23.28.200</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.210">23.28.210</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.220">23.28.220</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.28.230">23.28.230</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.28.240">23.28.240 </cite>of the San Mateo Municipal Code are repealed.</text>
-      <codify:repeal path="23.28.020" />
-      <codify:repeal path="23.28.030" />
-      <codify:repeal path="23.28.040" />
-      <codify:repeal path="23.28.050" />
-      <codify:repeal path="23.28.060" />
-      <codify:repeal path="23.28.090" />
-      <codify:repeal path="23.28.100" />
-      <codify:repeal path="23.28.110" />
-      <codify:repeal path="23.28.120" />
-      <codify:repeal path="23.28.130" />
-      <codify:repeal path="23.28.140" />
-      <codify:repeal path="23.28.145" />
-      <codify:repeal path="23.28.150" />
-      <codify:repeal path="23.28.160" />
-      <codify:repeal path="23.28.170" />
-      <codify:repeal path="23.28.180" />
-      <codify:repeal path="23.28.190" />
-      <codify:repeal path="23.28.200" />
-      <codify:repeal path="23.28.210" />
-      <codify:repeal path="23.28.220" />
-      <codify:repeal path="23.28.230" />
-      <codify:repeal path="23.28.240" />
+      <codify:repeal path="23.28.020"/>
+      <codify:repeal path="23.28.030"/>
+      <codify:repeal path="23.28.040"/>
+      <codify:repeal path="23.28.050"/>
+      <codify:repeal path="23.28.060"/>
+      <codify:repeal path="23.28.090"/>
+      <codify:repeal path="23.28.100"/>
+      <codify:repeal path="23.28.110"/>
+      <codify:repeal path="23.28.120"/>
+      <codify:repeal path="23.28.130"/>
+      <codify:repeal path="23.28.140"/>
+      <codify:repeal path="23.28.145"/>
+      <codify:repeal path="23.28.150"/>
+      <codify:repeal path="23.28.160"/>
+      <codify:repeal path="23.28.170"/>
+      <codify:repeal path="23.28.180"/>
+      <codify:repeal path="23.28.190"/>
+      <codify:repeal path="23.28.200"/>
+      <codify:repeal path="23.28.210"/>
+      <codify:repeal path="23.28.220"/>
+      <codify:repeal path="23.28.230"/>
+      <codify:repeal path="23.28.240"/>
     </para>
     <para>
       <num>(b)</num>

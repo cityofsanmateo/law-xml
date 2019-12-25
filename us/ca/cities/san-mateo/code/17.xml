@@ -3,13 +3,13 @@
   <prefix>Title</prefix>
   <num>17</num>
   <heading>STREETS AND SIDEWALKS</heading>
-  <annotation type="Editor's Notes">For the provision of the City Charter which authorizes the City to make public improvements including the improving, widening or opening of streets or highways under and in pursuance of State law or procedure ordinances adopted by the Council or electors see Section 5.25. For the statutory provisions regarding the construction, improvement and repair of streets and sidewalks by cities see Cal. Gov. C. § 40401.</annotation>
+  <annotation type="Editor's Notes" dest="container">For the provision of the City Charter which authorizes the City to make public improvements including the improving, widening or opening of streets or highways under and in pursuance of State law or procedure ordinances adopted by the Council or electors see Section 5.25. For the statutory provisions regarding the construction, improvement and repair of streets and sidewalks by cities see Cal. Gov. C. § 40401.</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>17.08</num>
     <heading>OBSTRUCTIONS—LITTER</heading>
-    <annotation type="Editor's Notes">For provisions relating to street standards, see <cite path="21.36" proof="needed">Chapter 21.36</cite> of this code.</annotation>
-    <annotation type="Editor's Notes">For the statutory provisions regarding the prevention by a city of encroachments on city streets, see <cite doc="Cal. Gov't Code" path="§38775">Gov. Code § 38775</cite>. For provisions relating to liability for injury, see <cite path="15.20">Chapter 15.20</cite>.</annotation>
+    <annotation type="Editor's Notes" dest="container">For provisions relating to street standards, see <cite path="21.36" proof="needed">Chapter 21.36</cite> of this code.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding the prevention by a city of encroachments on city streets, see <cite doc="Cal. Gov't Code" path="§38775">Gov. Code § 38775</cite>. For provisions relating to liability for injury, see <cite path="15.20">Chapter 15.20</cite>.</annotation>
     <section>
       <num>17.08.010</num>
       <heading>DIRT OR RUBBISH.</heading>
@@ -900,7 +900,7 @@
     <prefix>Chapter</prefix>
     <num>17.20</num>
     <heading>STREET SIGNS</heading>
-    <annotation type="Editor's Notes">For provisions relating to street sign standards, see <cite path="21.36" proof="needed">Chapter 21.36</cite>.</annotation>
+    <annotation type="Editor's Notes" dest="container">For provisions relating to street sign standards, see <cite path="21.36" proof="needed">Chapter 21.36</cite>.</annotation>
     <section>
       <num>17.20.010</num>
       <heading>DEFACING PROHIBITED.</heading>

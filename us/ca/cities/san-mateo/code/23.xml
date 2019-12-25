@@ -6287,7 +6287,7 @@
     <prefix>Chapter</prefix>
     <num>23.70</num>
     <heading>GREEN BUILDING CODE</heading>
-    <annotation type="Editor's Notes">Prior ordinance history: Ord. 2009-14.</annotation>
+    <annotation type="Editor's Notes" dest="container">Prior ordinance history: Ord. 2009-14.</annotation>
     <section>
       <num>23.70.010</num>
       <heading>ADOPTION.</heading>

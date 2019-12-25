@@ -3,7 +3,7 @@
   <prefix>Title</prefix>
   <num>10</num>
   <heading>PEACE, SAFETY AND MORALS</heading>
-  <annotation type="Editor's Notes">For the City charter provision giving the City all powers necessary and appropriate to a municipal corporation and the general welfare of its inhabitants which are not prohibited by the constitution see Section 1.03.</annotation>
+  <annotation type="Editor's Notes" dest="container">For the City charter provision giving the City all powers necessary and appropriate to a municipal corporation and the general welfare of its inhabitants which are not prohibited by the constitution see Section 1.03.</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>10.04</num>
@@ -382,7 +382,7 @@
     <prefix>Chapter</prefix>
     <num>10.16</num>
     <heading>FIRE REGULATIONS</heading>
-    <annotation type="Editor's Notes">For provisions relating to the City fire department, see <cite path="2.36">Chapter 2.36</cite>.</annotation>
+    <annotation type="Editor's Notes" dest="container">For provisions relating to the City fire department, see <cite path="2.36">Chapter 2.36</cite>.</annotation>
     <section>
       <num>10.16.010</num>
       <heading>RUNNING VEHICLE OVER FIRE EQUIPMENT PROHIBITED.</heading>
@@ -1015,7 +1015,7 @@
     <prefix>Chapter</prefix>
     <num>10.36</num>
     <heading>GAMBLING</heading>
-    <annotation type="Editor's Notes">For the statutory provisions prohibiting gaming see Cal. Pen. C §§ 330-337h.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the statutory provisions prohibiting gaming see Cal. Pen. C §§ 330-337h.</annotation>
     <section>
       <num>10.36.010</num>
       <heading>HAZARDING FOR RETURN OF MONEY.</heading>

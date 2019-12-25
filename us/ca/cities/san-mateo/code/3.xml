@@ -3,7 +3,7 @@
   <prefix>Title</prefix>
   <num>3</num>
   <heading>TAXATION AND FINANCE</heading>
-  <annotation type="Editor's Notes">For the taxation provisions of the California Constitution see CAL. CONST. Art. 13 (1879).</annotation>
+  <annotation type="Editor's Notes" dest="container">For the taxation provisions of the California Constitution see CAL. CONST. Art. 13 (1879).</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>3.35</num>
@@ -297,7 +297,7 @@
     <prefix>Chapter</prefix>
     <num>3.48</num>
     <heading>REAL PROPERTY DOCUMENT TRANSFER TAX</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding the document transfer tax see West's Cal. Rev. &amp; T.C.A. §§ 11901 et seq.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding the document transfer tax see West's Cal. Rev. &amp; T.C.A. §§ 11901 et seq.</annotation>
     <section>
       <num>3.48.010</num>
       <heading>AMOUNT.</heading>
@@ -702,7 +702,7 @@
     <prefix>Chapter</prefix>
     <num>3.52</num>
     <heading>SALES AND USE TAX</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding the Uniform Local Sales and Use Tax Act, see Cal. Rev. &amp; T.C.A. &amp; 7200 et seq.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding the Uniform Local Sales and Use Tax Act, see Cal. Rev. &amp; T.C.A. &amp; 7200 et seq.</annotation>
     <section>
       <num>3.52.010</num>
       <heading>SALES TAX—AMOUNT.</heading>

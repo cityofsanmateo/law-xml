@@ -3,7 +3,7 @@
   <prefix>Title</prefix>
   <num>5</num>
   <heading>BUSINESS LICENSES AND REGULATIONS</heading>
-  <annotation type="Editor's Notes">For statutory provisions authorizing cities to license for revenue and regulations purposes, see <cite doc="Cal. Gov't Code" path="§37101">Cal. Gov. C.A. § 37101</cite>. For the statutory provisions authorizing cities to license in the exercise of the police power and for purposes of regulation, see <cite doc="Cal. Bus. &amp; Prof. Code">Cal. Bus. &amp; Prof. C.A.</cite> §§ <cite doc="Cal. Bus. &amp; Prof. Code" path="§16000">16000</cite>-<cite doc="Cal. Bus. &amp; Prof. Code" path="§16003">16003</cite>.</annotation>
+  <annotation type="Editor's Notes" dest="container">For statutory provisions authorizing cities to license for revenue and regulations purposes, see <cite doc="Cal. Gov't Code" path="§37101">Cal. Gov. C.A. § 37101</cite>. For the statutory provisions authorizing cities to license in the exercise of the police power and for purposes of regulation, see <cite doc="Cal. Bus. &amp; Prof. Code">Cal. Bus. &amp; Prof. C.A.</cite> §§ <cite doc="Cal. Bus. &amp; Prof. Code" path="§16000">16000</cite>-<cite doc="Cal. Bus. &amp; Prof. Code" path="§16003">16003</cite>.</annotation>
   <container>
     <prefix>Chapter</prefix>
     <num>5.03</num>
@@ -502,7 +502,7 @@
     <prefix>Chapter</prefix>
     <num>5.09</num>
     <heading>BUREAU OF BUSINESS TAXES AND PERMITS</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding the legislative power of cities to license for revenue and regulation every kind of lawful business transacted within the City, see <cite doc="Cal. Gov't Code" path="§37101">Cal. Gov. C.A. § 37101</cite>.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding the legislative power of cities to license for revenue and regulation every kind of lawful business transacted within the City, see <cite doc="Cal. Gov't Code" path="§37101">Cal. Gov. C.A. § 37101</cite>.</annotation>
     <section>
       <num>5.09.010</num>
       <heading>CONTINUED—BOARD OF REVIEW ESTABLISHED.</heading>
@@ -1665,7 +1665,7 @@
     <prefix>Chapter</prefix>
     <num>5.42</num>
     <heading>BILL POSTING—SIGN PAINTING</heading>
-    <annotation type="Editor's Notes">See also Signs, <cite path="25">Title 25</cite>.</annotation>
+    <annotation type="Editor's Notes" dest="container">See also Signs, <cite path="25">Title 25</cite>.</annotation>
     <section>
       <num>5.42.010</num>
       <heading>CERTIFICATE REQUIRED—TAX.</heading>
@@ -2625,7 +2625,7 @@
     <prefix>Chapter</prefix>
     <num>5.44</num>
     <heading>MASSAGE</heading>
-    <annotation type="Editor's Notes">Prior ordinance history: Ord. Nos. 2009-12, 1995-9, 1994-13, 1994-10, 1994-5, 1993-14, 1991-5, 1984-5, 1973-3.</annotation>
+    <annotation type="Editor's Notes" dest="container">Prior ordinance history: Ord. Nos. 2009-12, 1995-9, 1994-13, 1994-10, 1994-5, 1993-14, 1991-5, 1984-5, 1973-3.</annotation>
     <section>
       <num>5.44.010</num>
       <heading>PURPOSE AND INTENT.</heading>
@@ -3169,7 +3169,7 @@
     <prefix>Chapter</prefix>
     <num>5.45</num>
     <heading>PAWNBROKERS—SECONDHAND DEALERS</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding pawnbrokers generally see <cite doc="Cal. Fin. Code" path="§21000">Cal. Fin. 21000</cite> et seq. For the license fee for a pawnbroker or secondhand dealer, see <cite path="5.24.320" proof="needed">Section 5.24.320</cite>.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding pawnbrokers generally see <cite doc="Cal. Fin. Code" path="§21000">Cal. Fin. 21000</cite> et seq. For the license fee for a pawnbroker or secondhand dealer, see <cite path="5.24.320" proof="needed">Section 5.24.320</cite>.</annotation>
     <section>
       <num>5.45.005</num>
       <heading>PERMIT REQUIRED.</heading>
@@ -3207,8 +3207,8 @@
     <prefix>Chapter</prefix>
     <num>5.48</num>
     <heading>PEDDLERS AND SOLICITORS—EXEMPTIONS</heading>
-    <annotation type="Editor's Notes">For the license fee for peddlers, see <cite path="5.24.190">Section 5.24.190</cite>.</annotation>
-    <annotation type="Editor's Notes">For the license fee for solicitors, see <cite path="5.24.230">Section 5.24.230</cite>.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the license fee for peddlers, see <cite path="5.24.190">Section 5.24.190</cite>.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the license fee for solicitors, see <cite path="5.24.230">Section 5.24.230</cite>.</annotation>
     <section>
       <num>5.48.010</num>
       <heading>INTERSTATE COMMERCE.</heading>
@@ -3691,7 +3691,7 @@
     <prefix>Chapter</prefix>
     <num>5.51</num>
     <heading>POOL HALLS</heading>
-    <annotation type="Editor's Notes">For the license fee for pool halls, see <cite path="5.24.320" proof="needed">Section 5.24.320</cite>.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the license fee for pool halls, see <cite path="5.24.320" proof="needed">Section 5.24.320</cite>.</annotation>
     <section>
       <num>5.51.010</num>
       <heading>CLOSING HOURS.</heading>
@@ -3705,7 +3705,7 @@
     <prefix>Chapter</prefix>
     <num>5.57</num>
     <heading>PRIVATE PATROLS AND SECURITY SERVICES</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding private detectives generally see West's Cal. Bus. &amp; P.C.A. §§ 7500 et seq. for the provisions authorizing cities to regulate any special patrol and require registration see Cal. Bus &amp; P.C.A. § 7523. For provisions relating to police badges and uniforms, see <cite path="2.39">chapter 2.39</cite>.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding private detectives generally see West's Cal. Bus. &amp; P.C.A. §§ 7500 et seq. for the provisions authorizing cities to regulate any special patrol and require registration see Cal. Bus &amp; P.C.A. § 7523. For provisions relating to police badges and uniforms, see <cite path="2.39">chapter 2.39</cite>.</annotation>
     <section>
       <num>5.57.010</num>
       <heading>PERMIT—REQUIRED.</heading>
@@ -3740,7 +3740,7 @@
     <prefix>Chapter</prefix>
     <num>5.60</num>
     <heading>PUBLIC DANCES</heading>
-    <annotation type="Editor's Notes">For the statutory provisions directing the mayor or Chief of Police to provide a sufficient number of police to attend and keep the peace at public meetings see <cite doc="Cal. Gov't Code" path="§38638">Cal. Gov. C.A. § 38638</cite>. For the license fee for a public dance, see <cite path="5.24.210">Section 5.24.210</cite>.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the statutory provisions directing the mayor or Chief of Police to provide a sufficient number of police to attend and keep the peace at public meetings see <cite doc="Cal. Gov't Code" path="§38638">Cal. Gov. C.A. § 38638</cite>. For the license fee for a public dance, see <cite path="5.24.210">Section 5.24.210</cite>.</annotation>
     <section>
       <num>5.60.010</num>
       <heading>DEFINITIONS.</heading>
@@ -3931,7 +3931,7 @@
     <prefix>Chapter</prefix>
     <num>5.69</num>
     <heading>CLOSING OUT SALES</heading>
-    <annotation type="Editor's Notes">For the statutory provisions regarding unfair trade practices with regard to regulated sales see Cal. Bus. &amp; P.C.A. § 170050.</annotation>
+    <annotation type="Editor's Notes" dest="container">For the statutory provisions regarding unfair trade practices with regard to regulated sales see Cal. Bus. &amp; P.C.A. § 170050.</annotation>
     <section>
       <num>5.69.010</num>
       <heading>PROHIBITED SALES.</heading>
@@ -4219,7 +4219,7 @@
     <prefix>Chapter</prefix>
     <num>5.75</num>
     <heading>TAXICABS—PUBLIC VEHICLES</heading>
-    <annotation type="Editor's Notes">For the statutory authority of local authorities within the reasonable exercise of their police power to license and regulate the operation of any vehicle for hire and the drivers of passenger vehicles for hire see <cite doc="Cal. Veh. Code" path="§16501">Cal. Veh. C.A. § 16501</cite>. For the provisions regarding carriers generally see Cal. C. C.A. § 2085 et seq. See also Cal. Pub. U. C.A. §§ 200 et seq. For the provisions regarding financial responsibility see <cite doc="Cal. Veh. Code" path="§16550">Cal. Veh. C.A. §§ 16550 et seq.</cite></annotation>
+    <annotation type="Editor's Notes" dest="container">For the statutory authority of local authorities within the reasonable exercise of their police power to license and regulate the operation of any vehicle for hire and the drivers of passenger vehicles for hire see <cite doc="Cal. Veh. Code" path="§16501">Cal. Veh. C.A. § 16501</cite>. For the provisions regarding carriers generally see Cal. C. C.A. § 2085 et seq. See also Cal. Pub. U. C.A. §§ 200 et seq. For the provisions regarding financial responsibility see <cite doc="Cal. Veh. Code" path="§16550">Cal. Veh. C.A. §§ 16550 et seq.</cite></annotation>
     <section>
       <num>5.75.010</num>
       <heading>DEFINITIONS.</heading>
