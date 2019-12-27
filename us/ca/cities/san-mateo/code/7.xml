@@ -1562,66 +1562,36 @@
             </p>
           </caption>
           <tr>
-            <th>
-              <strong>
-                <ul>Noise Zone</ul>
-              </strong>
-            </th>
-            <th>
-              <strong>
-                <ul>Time Period</ul>
-              </strong>
-            </th>
-            <th>
-              <strong>
-                <ul>Noise Level (dB)</ul>
-              </strong>
-            </th>
+            <th>Noise Zone</th>
+            <th>Time Period</th>
+            <th>Noise Level (dB)</th>
           </tr>
           <tr>
-            <td>Noise Zone 1</td>
+            <td rowspan="2">Noise Zone 1</td>
             <td>10 p.m.—7 a.m.</td>
             <td>50</td>
           </tr>
           <tr>
-            <td/>
             <td>7 a.m.—10 p.m.</td>
             <td>60</td>
           </tr>
           <tr>
-            <td/>
-            <td/>
-            <td/>
-          </tr>
-          <tr>
-            <td>Noise Zone 2</td>
+            <td rowspan="2">Noise Zone 2</td>
             <td>10 p.m.—7 a.m.</td>
             <td>55</td>
           </tr>
           <tr>
-            <td/>
             <td>7 a.m.—10 p.m.</td>
             <td>60</td>
           </tr>
           <tr>
-            <td/>
-            <td/>
-            <td/>
-          </tr>
-          <tr>
-            <td>Noise Zone 3</td>
+            <td rowspan="2">Noise Zone 3</td>
             <td>10 p.m.—7 a.m.</td>
             <td>60</td>
           </tr>
           <tr>
-            <td/>
             <td>7 a.m.—10 p.m.</td>
             <td>65</td>
-          </tr>
-          <tr>
-            <td/>
-            <td/>
-            <td/>
           </tr>
           <tr>
             <td>Noise Zone 4</td>

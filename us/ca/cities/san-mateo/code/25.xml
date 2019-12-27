@@ -810,22 +810,22 @@
               </tr>
               <tr>
                 <th>Types of Signs Permitted</th>
-                <td colspan="4"/>
+                <td/>
               </tr>
               <tr>
-                <td>Face</td>
-                <td colspan="4">No neon</td>
+                <td class="text-indent-1">Face</td>
+                <td>No neon</td>
               </tr>
               <tr>
-                <td>Freestanding</td>
-                <td colspan="4">No neon; plus maximum height limit of 8 ft</td>
+                <td class="text-indent-1">Freestanding</td>
+                <td>No neon; plus maximum height limit of 8 ft</td>
               </tr>
               <tr>
-                <td>Projecting</td>
-                <td colspan="4">No internal neon</td>
+                <td class="text-indent-1">Projecting</td>
+                <td>No internal neon</td>
               </tr>
               <tr>
-                <td colspan="5">No sign, regardless of type, shall be located above 40 feet above grade, except as provided for high-rise buildings in <cite path="25.06.050">Section 25.06.050</cite>.</td>
+                <td colspan="2">No sign, regardless of type, shall be located above 40 feet above grade, except as provided for high-rise buildings in <cite path="25.06.050">Section 25.06.050</cite>.</td>
               </tr>
             </table>
           </text>
@@ -858,15 +858,15 @@
                 <td colspan="4"/>
               </tr>
               <tr>
-                <td>Face</td>
+                <td class="text-indent-1">Face</td>
                 <td colspan="4">No neon</td>
               </tr>
               <tr>
-                <td>Freestanding</td>
+                <td class="text-indent-1">Freestanding</td>
                 <td colspan="4">No neon; plus maximum height limit of 8 ft.</td>
               </tr>
               <tr>
-                <td>Projecting</td>
+                <td class="text-indent-1">Projecting</td>
                 <td colspan="4">No neon</td>
               </tr>
               <tr>

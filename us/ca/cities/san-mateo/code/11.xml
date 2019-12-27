@@ -634,34 +634,38 @@
       <num>11.28.036</num>
       <heading>TRUCK ROUTES—SCHEDULE.</heading>
       <text>The following are designated as streets the use of which is permitted to any vehicle exceeding the maximum gross weight of five (5) tons (GVWR):</text>
-      <text>o	US 101 (Bayshore Freeway)</text>
-      <text>o	State Route 82 (El Camino Real)</text>
-      <text>o	State Route 92 (J. Arthur Younger Freeway)</text>
-      <text>o	2nd Avenue between South Humboldt Street and North Amphlett Boulevard</text>
-      <text>o	East 3rd Avenue (J. Hart Clinton) from the easterly city limits to US 101 (between the hours of eight-thirty a.m. to four-thirty p.m. eastbound)</text>
-      <text>o	East 3rd Avenue between US 101 and South Claremont Street</text>
-      <text>o	East 4th Avenue between US 101 and South Claremont Street</text>
-      <text>o	9th Avenue between El Camino Real and South Claremont Street</text>
-      <text>o	19th Avenue between South Delaware Street and Fashion Island Boulevard</text>
-      <text>o	East 25th Avenue between El Camino Real and South Delaware Street</text>
-      <text>o	28th Avenue between Edison Street and El Camino Real</text>
-      <text>o	37th Avenue between El Camino Real and Edison Street</text>
-      <text>o	Bridgepointe Parkway between Baker Way and Bridgepointe Circle</text>
-      <text>o	South Claremont Street between 3rd Avenue and 9th Avenue</text>
-      <text>o	Concar Drive between Westbound SR 92 Ramps and Grant Street</text>
-      <text>o	South Delaware Street between Garvey Way and 25th Avenue</text>
-      <text>o	Edison Street between 28th Avenue and the Hillsdale Shopping Center</text>
-      <text>o	Fashion Island Boulevard between 19th Avenue and Baker Way</text>
-      <text>o	Franklin Parkway between US 101 and Saratoga Drive</text>
-      <text>o	East Hillsdale Boulevard between El Camino Real and US 101</text>
-      <text>o	East Hillsdale Boulevard between US 101 and easterly city limit</text>
-      <text>o	South Humboldt Street between 2nd Avenue and 4th Avenue</text>
-      <text>o	Kehoe Avenue between Northbound US 101 Ramps and South Norfolk Street (between the hours of six a.m. to six p.m. Monday through Friday)</text>
-      <text>o	Mariner's Island Boulevard between Eastbound SR 92 Ramps and Fashion Island Boulevard</text>
-      <text>o	South Norfolk Street between East 3rd Avenue and Fashion Island Boulevard (between the hours of six a.m. to six p.m. Monday through Friday)</text>
-      <text>o	The southerly side of Peninsula Avenue, between Bayshore Freeway and El Camino Real</text>
-      <text>o	East Poplar Avenue between Southbound US 101 Ramps and Amphlett Boulevard Street</text>
-      <text>o	Saratoga Drive between Franklin Parkway and East Hillsdale Boulevard</text>
+      <text>
+        <ul>
+          <li>US 101 (Bayshore Freeway)</li>
+          <li>State Route 82 (El Camino Real)</li>
+          <li>State Route 92 (J. Arthur Younger Freeway)</li>
+          <li>2nd Avenue between South Humboldt Street and North Amphlett Boulevard</li>
+          <li>East 3rd Avenue (J. Hart Clinton) from the easterly city limits to US 101 (between the hours of eight-thirty a.m. to four-thirty p.m. eastbound)</li>
+          <li>East 3rd Avenue between US 101 and South Claremont Street</li>
+          <li>East 4th Avenue between US 101 and South Claremont Street</li>
+          <li>9th Avenue between El Camino Real and South Claremont Street</li>
+          <li>19th Avenue between South Delaware Street and Fashion Island Boulevard</li>
+          <li>East 25th Avenue between El Camino Real and South Delaware Street</li>
+          <li>28th Avenue between Edison Street and El Camino Real</li>
+          <li>37th Avenue between El Camino Real and Edison Street</li>
+          <li>Bridgepointe Parkway between Baker Way and Bridgepointe Circle</li>
+          <li>South Claremont Street between 3rd Avenue and 9th Avenue</li>
+          <li>Concar Drive between Westbound SR 92 Ramps and Grant Street</li>
+          <li>South Delaware Street between Garvey Way and 25th Avenue</li>
+          <li>Edison Street between 28th Avenue and the Hillsdale Shopping Center</li>
+          <li>Fashion Island Boulevard between 19th Avenue and Baker Way</li>
+          <li>Franklin Parkway between US 101 and Saratoga Drive</li>
+          <li>East Hillsdale Boulevard between El Camino Real and US 101</li>
+          <li>East Hillsdale Boulevard between US 101 and easterly city limit</li>
+          <li>South Humboldt Street between 2nd Avenue and 4th Avenue</li>
+          <li>Kehoe Avenue between Northbound US 101 Ramps and South Norfolk Street (between the hours of six a.m. to six p.m. Monday through Friday)</li>
+          <li>Mariner's Island Boulevard between Eastbound SR 92 Ramps and Fashion Island Boulevard</li>
+          <li>South Norfolk Street between East 3rd Avenue and Fashion Island Boulevard (between the hours of six a.m. to six p.m. Monday through Friday)</li>
+          <li>The southerly side of Peninsula Avenue, between Bayshore Freeway and El Camino Real</li>
+          <li>East Poplar Avenue between Southbound US 101 Ramps and Amphlett Boulevard Street</li>
+          <li>Saratoga Drive between Franklin Parkway and East Hillsdale Boulevard</li>
+        </ul>
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-10" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-4" path="§1" type="History"/>
