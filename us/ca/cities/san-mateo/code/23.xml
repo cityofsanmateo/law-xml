@@ -1480,28 +1480,32 @@
         <text>
           <table>
             <caption>TABLE 1505.1 MINIMUM ROOF COVERING CLASSIFICATION FOR TYPES OF CONSTRUCTION</caption>
-            <tr>
-              <th>IA</th>
-              <th>IB</th>
-              <th>IIA</th>
-              <th>IIB</th>
-              <th>IIIA</th>
-              <th>IIIB</th>
-              <th>IV</th>
-              <th>VA</th>
-              <th>VB</th>
-            </tr>
-            <tr>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-              <td>B</td>
-            </tr>
+            <thead>
+              <tr>
+                <th>IA</th>
+                <th>IB</th>
+                <th>IIA</th>
+                <th>IIB</th>
+                <th>IIIA</th>
+                <th>IIIB</th>
+                <th>IV</th>
+                <th>VA</th>
+                <th>VB</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+                <td>B</td>
+              </tr>
+            </tbody>
           </table>
         </text>
       </include>
@@ -3917,30 +3921,34 @@
         <text>
           <table>
             <caption>SLOPE SETBACKS</caption>
-            <tr>
-              <th>Slope</th>
-              <th colspan="2">Slope Height</th>
-            </tr>
-            <tr>
-              <td/>
-              <td>10 feet to 30 feet</td>
-              <td>Over 30 feet</td>
-            </tr>
-            <tr>
-              <td>15% up to 25%</td>
-              <td>15 feet from the top or toe of the slope.</td>
-              <td/>
-            </tr>
-            <tr>
-              <td>Over 25% and up to 50%</td>
-              <td>The greater of either: 15 feet; the diagonal distance of 3 horizontal to 1 vertical measured from the toe of the slope; or a distance equal to the slope height from the top or the toe of the slope.</td>
-              <td>The work is located within the greater of either: the diagonal distance of 4 horizontal to 1 vertical, measured from the toe of the slope; or a distance equal to the height of the slope.</td>
-            </tr>
-            <tr>
-              <td>Over 50%</td>
-              <td>The greater of either: 15 feet; the diagonal distance of 3 horizontal to 1 vertical measured from the toe of the slope; or a distance equal to two times the slope height from the top of the slope or one times the slope height from the toe of the slope.</td>
-              <td/>
-            </tr>
+            <thead>
+              <tr>
+                <th>Slope</th>
+                <th colspan="2">Slope Height</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td/>
+                <td>10 feet to 30 feet</td>
+                <td>Over 30 feet</td>
+              </tr>
+              <tr>
+                <td>15% up to 25%</td>
+                <td>15 feet from the top or toe of the slope.</td>
+                <td/>
+              </tr>
+              <tr>
+                <td>Over 25% and up to 50%</td>
+                <td>The greater of either: 15 feet; the diagonal distance of 3 horizontal to 1 vertical measured from the toe of the slope; or a distance equal to the slope height from the top or the toe of the slope.</td>
+                <td>The work is located within the greater of either: the diagonal distance of 4 horizontal to 1 vertical, measured from the toe of the slope; or a distance equal to the height of the slope.</td>
+              </tr>
+              <tr>
+                <td>Over 50%</td>
+                <td>The greater of either: 15 feet; the diagonal distance of 3 horizontal to 1 vertical measured from the toe of the slope; or a distance equal to two times the slope height from the top of the slope or one times the slope height from the toe of the slope.</td>
+                <td/>
+              </tr>
+            </tbody>
           </table>
         </text>
       </para>
@@ -4017,28 +4025,32 @@
           <text>Review and Approval Authority. Each site development planning application shall be processed in accordance with <cite path="27.08">Chapter 27.08</cite> (Rules of Procedure) contained in <cite path="27">Title 27</cite> (Zoning) of the Municipal Code. Such processing includes project review, noticing, hearing, approval and appeal of decisions. Decision authority for approval, approval with conditions, or denial of site development projects is set forth in the following table:</text>
           <text>
             <table>
-              <tr>
-                <th colspan="2">SITE DEVELOPMENT PLANNING APPLICATION APPROVAL AUTHORITY</th>
-              </tr>
-              <tr>
-                <th>Zoning Administrator</th>
-                <th>Planning Commission</th>
-              </tr>
-              <tr>
-                <td>
-                  <ul>
-                    <li>Grading, where the aggregate volume does not exceed 5,000 cubic yards and the site development is not occurring on slopes greater than 25% or within the setbacks from such slopes.</li>
-                    <li>Removal of major vegetation from property which has been previously developed and/or subdivided and which is being redeveloped or more intensely used.</li>
-                  </ul>
-                </td>
-                <td>
-                  <ul>
-                    <li>Grading, where the aggregate volume exceeds 5,000 cubic yards and/or the proposed grading (cut/fill) exceeds 5 feet (height/depth) at its maximum point.</li>
-                    <li>Site development occurring on slopes greater than 25% or within slope setbacks.</li>
-                    <li>Removal of major vegetation from previously undeveloped and/or unsubdivided acreage, or land which is to be resubdivided.</li>
-                  </ul>
-                </td>
-              </tr>
+              <thead>
+                <tr>
+                  <th colspan="2">SITE DEVELOPMENT PLANNING APPLICATION APPROVAL AUTHORITY</th>
+                </tr>
+                <tr>
+                  <th>Zoning Administrator</th>
+                  <th>Planning Commission</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    <ul>
+                      <li>Grading, where the aggregate volume does not exceed 5,000 cubic yards and the site development is not occurring on slopes greater than 25% or within the setbacks from such slopes.</li>
+                      <li>Removal of major vegetation from property which has been previously developed and/or subdivided and which is being redeveloped or more intensely used.</li>
+                    </ul>
+                  </td>
+                  <td>
+                    <ul>
+                      <li>Grading, where the aggregate volume exceeds 5,000 cubic yards and/or the proposed grading (cut/fill) exceeds 5 feet (height/depth) at its maximum point.</li>
+                      <li>Site development occurring on slopes greater than 25% or within slope setbacks.</li>
+                      <li>Removal of major vegetation from previously undeveloped and/or unsubdivided acreage, or land which is to be resubdivided.</li>
+                    </ul>
+                  </td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </para>
@@ -6356,42 +6368,46 @@
           <text>
             <table>
               <caption>TABLE A5.106.5.3.2</caption>
-              <tr>
-                <th>TOTAL NUMBER OF ACTUAL PARKING SPACES</th>
-                <th>TIER 2 NUMBER OF REQUIRED EV CHARGING SPACES</th>
-              </tr>
-              <tr>
-                <td>0-9</td>
-                <td>1</td>
-              </tr>
-              <tr>
-                <td>10-25</td>
-                <td>2</td>
-              </tr>
-              <tr>
-                <td>26-50</td>
-                <td>4</td>
-              </tr>
-              <tr>
-                <td>51-75</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>76-100</td>
-                <td>6</td>
-              </tr>
-              <tr>
-                <td>101-150</td>
-                <td>12</td>
-              </tr>
-              <tr>
-                <td>151-200</td>
-                <td>17</td>
-              </tr>
-              <tr>
-                <td>201 and over</td>
-                <td>10 percent of total<sup>1</sup></td>
-              </tr>
+              <thead>
+                <tr>
+                  <th>TOTAL NUMBER OF ACTUAL PARKING SPACES</th>
+                  <th>TIER 2 NUMBER OF REQUIRED EV CHARGING SPACES</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>0-9</td>
+                  <td>1</td>
+                </tr>
+                <tr>
+                  <td>10-25</td>
+                  <td>2</td>
+                </tr>
+                <tr>
+                  <td>26-50</td>
+                  <td>4</td>
+                </tr>
+                <tr>
+                  <td>51-75</td>
+                  <td>6</td>
+                </tr>
+                <tr>
+                  <td>76-100</td>
+                  <td>6</td>
+                </tr>
+                <tr>
+                  <td>101-150</td>
+                  <td>12</td>
+                </tr>
+                <tr>
+                  <td>151-200</td>
+                  <td>17</td>
+                </tr>
+                <tr>
+                  <td>201 and over</td>
+                  <td>10 percent of total<sup>1</sup></td>
+                </tr>
+              </tbody>
             </table>
           </text>
           <text>1. Calculation for spaces shall be rounded up to the nearest whole number.</text>

@@ -1282,62 +1282,64 @@
       <text>Every person, retailer, or jobber engaged in managing, operating or carrying on a business of selling at retail any goods, wares, merchandise or things of value; or engaged in managing, operating or carrying on any trade, profession, occupation, service, calling, or business in this city, shall pay an annual business tax based upon their annual gross receipts, as follows:</text>
       <text>
         <table>
-          <tr>
-            <td>Under $30,000</td>
-            <td>$25.00</td>
-          </tr>
-          <tr>
-            <td>$30,001—$40,000</td>
-            <td>30.00</td>
-          </tr>
-          <tr>
-            <td>$40,001—$45,000</td>
-            <td>38.00</td>
-          </tr>
-          <tr>
-            <td>$45,001—$50,000</td>
-            <td>46.00</td>
-          </tr>
-          <tr>
-            <td>$50,001—$55,000</td>
-            <td>54.00</td>
-          </tr>
-          <tr>
-            <td>$55,001—$65,000</td>
-            <td>62.00</td>
-          </tr>
-          <tr>
-            <td>$65,001—$70,000</td>
-            <td>70.00</td>
-          </tr>
-          <tr>
-            <td>$70,001—$75,000</td>
-            <td>78.00</td>
-          </tr>
-          <tr>
-            <td>$75,001—$80,000</td>
-            <td>86.00</td>
-          </tr>
-          <tr>
-            <td>$80,001—$85,000</td>
-            <td>94.00</td>
-          </tr>
-          <tr>
-            <td>$85,001—$90,000</td>
-            <td>102.00</td>
-          </tr>
-          <tr>
-            <td>$90,001—$95,000</td>
-            <td>110.00</td>
-          </tr>
-          <tr>
-            <td>$95,001-$100,000</td>
-            <td>115.00</td>
-          </tr>
-          <tr>
-            <td>Over $100,000,</td>
-            <td>$115.00 plus $2.85 for each $5,000 or fraction thereof, thereafter.</td>
-          </tr>
+          <tbody>
+            <tr>
+              <td>Under $30,000</td>
+              <td>$25.00</td>
+            </tr>
+            <tr>
+              <td>$30,001—$40,000</td>
+              <td>30.00</td>
+            </tr>
+            <tr>
+              <td>$40,001—$45,000</td>
+              <td>38.00</td>
+            </tr>
+            <tr>
+              <td>$45,001—$50,000</td>
+              <td>46.00</td>
+            </tr>
+            <tr>
+              <td>$50,001—$55,000</td>
+              <td>54.00</td>
+            </tr>
+            <tr>
+              <td>$55,001—$65,000</td>
+              <td>62.00</td>
+            </tr>
+            <tr>
+              <td>$65,001—$70,000</td>
+              <td>70.00</td>
+            </tr>
+            <tr>
+              <td>$70,001—$75,000</td>
+              <td>78.00</td>
+            </tr>
+            <tr>
+              <td>$75,001—$80,000</td>
+              <td>86.00</td>
+            </tr>
+            <tr>
+              <td>$80,001—$85,000</td>
+              <td>94.00</td>
+            </tr>
+            <tr>
+              <td>$85,001—$90,000</td>
+              <td>102.00</td>
+            </tr>
+            <tr>
+              <td>$90,001—$95,000</td>
+              <td>110.00</td>
+            </tr>
+            <tr>
+              <td>$95,001-$100,000</td>
+              <td>115.00</td>
+            </tr>
+            <tr>
+              <td>Over $100,000,</td>
+              <td>$115.00 plus $2.85 for each $5,000 or fraction thereof, thereafter.</td>
+            </tr>
+          </tbody>
         </table>
       </text>
       <text>The tax provided for in this section shall be based upon the gross receipts of the business for the calendar year immediately preceding the filing of the return.</text>

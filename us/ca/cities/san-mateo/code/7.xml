@@ -1561,43 +1561,47 @@
               <strong>NOISE LEVEL STANDARDS*</strong>
             </p>
           </caption>
-          <tr>
-            <th>Noise Zone</th>
-            <th>Time Period</th>
-            <th>Noise Level (dB)</th>
-          </tr>
-          <tr>
-            <td rowspan="2">Noise Zone 1</td>
-            <td>10 p.m.—7 a.m.</td>
-            <td>50</td>
-          </tr>
-          <tr>
-            <td>7 a.m.—10 p.m.</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td rowspan="2">Noise Zone 2</td>
-            <td>10 p.m.—7 a.m.</td>
-            <td>55</td>
-          </tr>
-          <tr>
-            <td>7 a.m.—10 p.m.</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td rowspan="2">Noise Zone 3</td>
-            <td>10 p.m.—7 a.m.</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>7 a.m.—10 p.m.</td>
-            <td>65</td>
-          </tr>
-          <tr>
-            <td>Noise Zone 4</td>
-            <td>Anytime</td>
-            <td>70</td>
-          </tr>
+          <thead>
+            <tr>
+              <th>Noise Zone</th>
+              <th>Time Period</th>
+              <th>Noise Level (dB)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td rowspan="2">Noise Zone 1</td>
+              <td>10 p.m.—7 a.m.</td>
+              <td>50</td>
+            </tr>
+            <tr>
+              <td>7 a.m.—10 p.m.</td>
+              <td>60</td>
+            </tr>
+            <tr>
+              <td rowspan="2">Noise Zone 2</td>
+              <td>10 p.m.—7 a.m.</td>
+              <td>55</td>
+            </tr>
+            <tr>
+              <td>7 a.m.—10 p.m.</td>
+              <td>60</td>
+            </tr>
+            <tr>
+              <td rowspan="2">Noise Zone 3</td>
+              <td>10 p.m.—7 a.m.</td>
+              <td>60</td>
+            </tr>
+            <tr>
+              <td>7 a.m.—10 p.m.</td>
+              <td>65</td>
+            </tr>
+            <tr>
+              <td>Noise Zone 4</td>
+              <td>Anytime</td>
+              <td>70</td>
+            </tr>
+          </tbody>
         </table>
       </text>
       <text>* Source: Adapted from "The Model Community Noise Control Ordinance," Office of Noise Control, California Department of Health.</text>
@@ -2699,50 +2703,54 @@
         <text>Toxicity. No person shall discharge wastewater containing in excess of the following limitations at point of discharge. All concentrations are for "total," not "dissolved":</text>
         <text>
           <table>
-            <tr>
-              <th>Pollutant</th>
-              <th>Maximum</th>
-            </tr>
-            <tr>
-              <td>Arsenic</td>
-              <td>0.1 mg/Liter</td>
-            </tr>
-            <tr>
-              <td>Cadmium</td>
-              <td>0.2 mg/Liter</td>
-            </tr>
-            <tr>
-              <td>Chromium total</td>
-              <td>0.5 mg/Liter</td>
-            </tr>
-            <tr>
-              <td>Copper</td>
-              <td>2.0 mg/Liter</td>
-            </tr>
-            <tr>
-              <td>Cyanide</td>
-              <td>1.0 mg/Liter</td>
-            </tr>
-            <tr>
-              <td>Lead</td>
-              <td>1.0 mg/Liter</td>
-            </tr>
-            <tr>
-              <td>Mercury</td>
-              <td>0.01 mg/Liter</td>
-            </tr>
-            <tr>
-              <td>Nickel</td>
-              <td>1.0 mg/Liter</td>
-            </tr>
-            <tr>
-              <td>Silver</td>
-              <td>0.2 mg/Liter</td>
-            </tr>
-            <tr>
-              <td>Zinc</td>
-              <td>3.0 mg/Liter</td>
-            </tr>
+            <thead>
+              <tr>
+                <th>Pollutant</th>
+                <th>Maximum</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Arsenic</td>
+                <td>0.1 mg/Liter</td>
+              </tr>
+              <tr>
+                <td>Cadmium</td>
+                <td>0.2 mg/Liter</td>
+              </tr>
+              <tr>
+                <td>Chromium total</td>
+                <td>0.5 mg/Liter</td>
+              </tr>
+              <tr>
+                <td>Copper</td>
+                <td>2.0 mg/Liter</td>
+              </tr>
+              <tr>
+                <td>Cyanide</td>
+                <td>1.0 mg/Liter</td>
+              </tr>
+              <tr>
+                <td>Lead</td>
+                <td>1.0 mg/Liter</td>
+              </tr>
+              <tr>
+                <td>Mercury</td>
+                <td>0.01 mg/Liter</td>
+              </tr>
+              <tr>
+                <td>Nickel</td>
+                <td>1.0 mg/Liter</td>
+              </tr>
+              <tr>
+                <td>Silver</td>
+                <td>0.2 mg/Liter</td>
+              </tr>
+              <tr>
+                <td>Zinc</td>
+                <td>3.0 mg/Liter</td>
+              </tr>
+            </tbody>
           </table>
         </text>
       </para>
