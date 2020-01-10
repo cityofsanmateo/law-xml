@@ -261,7 +261,8 @@
         <section>
           <codify:replace path="5.24.240"/>
           <num>5.24.240</num>
-          <heading>Vendor - Street. Every person conducting the business of street vendor shall pay a business tax of ten dollars per day.</heading>
+          <heading>Vendor - Street.</heading>
+          <text>Every person conducting the business of street vendor shall pay a business tax of ten dollars per day.</text>
         </section>
       </container>
     </include>
