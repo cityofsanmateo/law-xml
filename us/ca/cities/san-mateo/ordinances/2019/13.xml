@@ -532,7 +532,7 @@
     <para>
       <num>(a)</num>
       <text><cite doc="City of San Mateo, Cal., Code" path="23.36">Chapter 23.36 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> as follows:</text>
-      <codify:insert path="23">
+      <codify:insert path="23" before='23.40'>
         <container>
           <prefix>Chapter</prefix>
           <num>23.36</num>
@@ -572,7 +572,7 @@
     <para>
       <num>(a)</num>
       <text><cite doc="City of San Mateo, Cal., Code" path="23.38">Chapter 23.38 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> as follows:</text>
-      <codify:insert path="23">
+      <codify:insert path="23" before='23.40'>
         <container>
           <prefix>Chapter</prefix>
           <num>23.38</num>
