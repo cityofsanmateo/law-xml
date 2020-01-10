@@ -46,7 +46,7 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="11.30">Chapter 11.30</cite> "Shared Mobility" is added to <cite doc="City of San Mateo, Cal., Code" path="11">Title 11, "Vehicles and Traffic," of the San Mateo Municipal Code</cite> to read as follows:</text>
-    <codify:insert doc="City of San Mateo, Cal., Code" path="11" history="false">
+    <codify:insert doc="City of San Mateo, Cal., Code" path="11" before="11.32" history="false">
       <container>
         <prefix>Chapter</prefix>
         <num>11.30</num>
