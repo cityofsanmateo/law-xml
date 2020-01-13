@@ -43,6 +43,40 @@
         <prefix>Chapter</prefix>
         <num>23.70</num>
         <heading>Green Building Code</heading>
+        <toc>
+          <toc-section>
+            <num>23.70.010</num>
+            <heading>Adoption</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.70.020</num>
+            <heading>Local Amendment to Definition</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.70.030</num>
+            <heading>Local Amendment Regarding Electric Vehicle Charging For New One- and Two-Family Dwellings and Town-Houses</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.70.040</num>
+            <heading>Local Amendment Regarding Electric Vehicle Charging For New Multifamily Residential Construction</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.70.050</num>
+            <heading>Local Amendment Regarding Electric Vehicle Charging for New Non-residential Construction</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.70.060</num>
+            <heading>Local Amendment Regarding Electric Vehicle Space Design Requirements</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.70.070</num>
+            <heading>Modifications</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.70.080</num>
+            <heading>Expiration</heading>
+          </toc-section>          
+        </toc>
         <section>
           <codify:replace path="23.70.010"/>
           <num>23.70.010</num>

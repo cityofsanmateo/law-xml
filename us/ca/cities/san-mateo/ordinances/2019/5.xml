@@ -58,6 +58,29 @@
         <prefix>CHAPTER</prefix>
         <num>11.30</num>
         <heading>SHARED MOBILITY</heading>
+        <toc>
+          <heading>Sections:</heading>
+          <toc-section>
+            <num>11.30.010</num>
+            <heading>Definitions</heading>
+          </toc-section>
+          <toc-section>
+            <num>11.30.020</num>
+            <heading>Shared Mobility Permits</heading>
+          </toc-section>
+          <toc-section>
+            <num>11.30.030</num>
+            <heading>Shared Mobility Device Parking</heading>
+          </toc-section>
+          <toc-section>
+            <num>11.30.040</num>
+            <heading>Permit Revocation or Suspension</heading>
+          </toc-section>
+          <toc-section>
+            <num>11.30.050</num>
+            <heading>Appeals</heading>
+          </toc-section>
+        </toc>
         <section>
           <codify:insert/>
           <num>11.30.010</num>

@@ -47,6 +47,37 @@
         <prefix>Chapter</prefix>
         <num>23.24</num>
         <heading>Energy Code</heading>
+        <toc>
+          <heading>Sections:</heading>
+          <toc-section>
+            <num>23.24.010</num>
+            <heading>Adoption.</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.24.020</num>
+            <heading>Local Amendment to Definitions.</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.24.030</num>
+            <heading>Local Amendment Regarding Mandatory Solar Installations.</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.24.040</num>
+            <heading>Local Amendment Regarding All-Electric Buildings or Energy Efficiency Standards for Mixed-Fuel Office Use Buildings.</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.24.050</num>
+            <heading>Local Amendment Regarding All-Electric Buildings or Energy Efficiency Standards for Mixed-Fuel Single Family and Duplex Buildings.</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.24.060</num>
+            <heading>Modifications.</heading>
+          </toc-section>
+          <toc-section>
+            <num>23.24.070</num>
+            <heading>Expiration.</heading>
+          </toc-section>
+        </toc>
         <section>
           <codify:replace path="23.24.010"/>
           <num>23.24.010</num>
