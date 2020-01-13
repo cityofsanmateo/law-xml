@@ -51,21 +51,6 @@
         <codify:replace path="2.28|heading">
           <heading>SUSTAINABILITY AND INFRASTRUCTURE COMMISSION</heading>
         </codify:replace>
-        <toc>
-          <heading>Sections:</heading>
-          <toc-section>
-            <num>2.28.010</num>
-            <heading>ORGANIZATION.</heading>
-          </toc-section>
-          <toc-section>
-            <num>2.28.020</num>
-            <heading>MEETINGS.</heading>
-          </toc-section>
-          <toc-section>
-            <num>2.28.030</num>
-            <heading>POWERS—DUTIES.</heading>
-          </toc-section>
-        </toc>
         <section>
           <codify:replace path="2.28.010"/>
           <num>2.28.010</num>
