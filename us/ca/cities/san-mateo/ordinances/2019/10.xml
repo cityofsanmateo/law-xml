@@ -145,8 +145,8 @@
           <para>
             <num>(a)</num>
             <text>Green Building Code Section 4.106.4.2, "New multifamily dwellings," is amended to require the Residential Voluntary Tier 1 Measure for EV charging space calculation per Section A4.106.8.2, "New multifamily dwellings," as follows:</text>
-            <text>Tier 1: 15 percent of the total number of parking spaces on a building site, provided for all types of parking facilities, but in no case less than one, shall be electric vehicle charging spaces (EV spaces) capable of supporting future electric vehicle supply equipment (EVSE). Calculations for required number of EV spaces shall be rounded up to the nearest whole number.</text>
             <include>
+              <text>Tier 1: 15 percent of the total number of parking spaces on a building site, provided for all types of parking facilities, but in no case less than one, shall be electric vehicle charging spaces (EV spaces) capable of supporting future electric vehicle supply equipment (EVSE). Calculations for required number of EV spaces shall be rounded up to the nearest whole number.</text>
               <text>Requirements related to EV spaces for multifamily residential projects can be found in Green Building Code Sections 4.106.4.2.3 "Single EV space required" and 4.106.4.2.4 "Multiple EV spaces required."</text>
             </include>
           </para>
