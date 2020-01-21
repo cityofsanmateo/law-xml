@@ -226,41 +226,45 @@
             <text>
               <table>
                 <caption>Dwelling Unit Equivalents</caption>
-                <tr>
-                  <th>Development Type</th>
-                  <th>Unit</th>
-                  <th>EDUs</th>
-                </tr>
-                <tr>
-                  <td>Single-family dwelling</td>
-                  <td>Dwelling unit</td>
-                  <td>1</td>
-                </tr>
-                <tr>
-                  <td>Multi-family dwelling, 1 bedroom</td>
-                  <td>Dwelling unit</td>
-                  <td>0.5</td>
-                </tr>
-                <tr>
-                  <td>Multi-family dwelling, 2 bedroom</td>
-                  <td>Dwelling unit</td>
-                  <td>0.75</td>
-                </tr>
-                <tr>
-                  <td>Multi-family dwelling, 3 bedroom</td>
-                  <td>Dwelling unit</td>
-                  <td>1</td>
-                </tr>
-                <tr>
-                  <td>Hotels or motels</td>
-                  <td>Room</td>
-                  <td>0.5</td>
-                </tr>
-                <tr>
-                  <td>Nonresidential</td>
-                  <td>Fixture unit</td>
-                  <td>0.05</td>
-                </tr>
+                <thead>
+                  <tr>
+                    <th>Development Type</th>
+                    <th>Unit</th>
+                    <th>EDUs</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Single-family dwelling</td>
+                    <td>Dwelling unit</td>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <td>Multi-family dwelling, 1 bedroom</td>
+                    <td>Dwelling unit</td>
+                    <td>0.5</td>
+                  </tr>
+                  <tr>
+                    <td>Multi-family dwelling, 2 bedroom</td>
+                    <td>Dwelling unit</td>
+                    <td>0.75</td>
+                  </tr>
+                  <tr>
+                    <td>Multi-family dwelling, 3 bedroom</td>
+                    <td>Dwelling unit</td>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <td>Hotels or motels</td>
+                    <td>Room</td>
+                    <td>0.5</td>
+                  </tr>
+                  <tr>
+                    <td>Nonresidential</td>
+                    <td>Fixture unit</td>
+                    <td>0.05</td>
+                  </tr>
+                </tbody>
               </table>
             </text>
           </para>
