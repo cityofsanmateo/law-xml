@@ -223,13 +223,13 @@
           <para>
             <num>(c)</num>
             <text>Mixed-fuel single family and duplex buildings shall comply with increased energy efficiency standards. Subchapter 8, "Low-rise Residential Buildings – Performance and Prescriptive Compliance Approaches," of the state Energy Code is amended to require increased energy efficiency standards in the performance and prescriptive compliance approaches as follows:</text>
-            <include>
-              <para>
-                <num>(1)</num>
-                <text>Performance Approach: Section 150.1.b. "Performance standards" is amended to include the following performance standard for mixed-fuel single family and duplex buildings:</text>
+            <para>
+              <num>(1)</num>
+              <text>Performance Approach: Section 150.1.b. "Performance standards" is amended to include the following performance standard for mixed-fuel single family and duplex buildings:</text>
+              <include>
                 <text>The Energy Efficiency Design Rating calculated for the Proposed Design Building shall be at least 2.5 EDR points less than the Energy Efficiency Design Rating calculated for the Standard Design Building.</text>
-              </para>
-            </include>
+              </include>
+            </para>
           </para>
           <para>
             <num>(2)</num>
