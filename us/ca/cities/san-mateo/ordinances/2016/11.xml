@@ -107,42 +107,46 @@
             <text>
               <table>
                 <caption>TABLE A5.106.5.3.2</caption>
-                <tr>
-                  <th>TOTAL NUMBER OF ACTUAL PARKING SPACES</th>
-                  <th>TIER 2 NUMBER OF REQUIRED EV CHARGING SPACES</th>
-                </tr>
-                <tr>
-                  <td>0-9</td>
-                  <td>1</td>
-                </tr>
-                <tr>
-                  <td>10-25</td>
-                  <td>2</td>
-                </tr>
-                <tr>
-                  <td>26-50</td>
-                  <td>4</td>
-                </tr>
-                <tr>
-                  <td>51-75</td>
-                  <td>6</td>
-                </tr>
-                <tr>
-                  <td>76-100</td>
-                  <td>6</td>
-                </tr>
-                <tr>
-                  <td>101-150</td>
-                  <td>12</td>
-                </tr>
-                <tr>
-                  <td>151-200</td>
-                  <td>17</td>
-                </tr>
-                <tr>
-                  <td>201 and over</td>
-                  <td>10 percent of total<sup>1</sup></td>
-                </tr>
+                <thead>
+                  <tr>
+                    <th>TOTAL NUMBER OF ACTUAL PARKING SPACES</th>
+                    <th>TIER 2 NUMBER OF REQUIRED EV CHARGING SPACES</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>0-9</td>
+                    <td>1</td>
+                  </tr>
+                  <tr>
+                    <td>10-25</td>
+                    <td>2</td>
+                  </tr>
+                  <tr>
+                    <td>26-50</td>
+                    <td>4</td>
+                  </tr>
+                  <tr>
+                    <td>51-75</td>
+                    <td>6</td>
+                  </tr>
+                  <tr>
+                    <td>76-100</td>
+                    <td>6</td>
+                  </tr>
+                  <tr>
+                    <td>101-150</td>
+                    <td>12</td>
+                  </tr>
+                  <tr>
+                    <td>151-200</td>
+                    <td>17</td>
+                  </tr>
+                  <tr>
+                    <td>201 and over</td>
+                    <td>10 percent of total<sup>1</sup></td>
+                  </tr>
+                </tbody>
               </table>
             </text>
             <text>1. Calculation for spaces shall be rounded up to the nearest whole number</text>
@@ -226,41 +230,45 @@
   <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>.  Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings.  Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
   <text>
     <table>
-      <tr>
-        <th>Code: California Green Building Code</th>
-      </tr>
-      <tr>
-        <th>Section(s)</th>
-        <th>Title</th>
-        <th>Add</th>
-        <th>Deleted</th>
-        <th>Amended</th>
-        <th>Justification (See below for keys)</th>
-      </tr>
-      <tr>
-        <td>Chapter 4, Section 4.305</td>
-        <td>Mandatory Requirements for Water Reuse Systems</td>
-        <td/>
-        <td/>
-        <td>✓</td>
-        <td>A, B</td>
-      </tr>
-      <tr>
-        <td>Chapter 4, Section 4.106.4</td>
-        <td>Mandatory Requirements for Electric vehicle (EV) charging for new construction</td>
-        <td/>
-        <td/>
-        <td>✓</td>
-        <td>A</td>
-      </tr>
-      <tr>
-        <td>Chapter 5, Section 5.106.5.3</td>
-        <td>Mandatory Requirements for Electric vehicle (EV) charging</td>
-        <td/>
-        <td/>
-        <td>✓</td>
-        <td>A</td>
-      </tr>
+      <thead>
+        <tr>
+          <th>Code: California Green Building Code</th>
+        </tr>
+        <tr>
+          <th>Section(s)</th>
+          <th>Title</th>
+          <th>Add</th>
+          <th>Deleted</th>
+          <th>Amended</th>
+          <th>Justification (See below for keys)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Chapter 4, Section 4.305</td>
+          <td>Mandatory Requirements for Water Reuse Systems</td>
+          <td/>
+          <td/>
+          <td>✓</td>
+          <td>A, B</td>
+        </tr>
+        <tr>
+          <td>Chapter 4, Section 4.106.4</td>
+          <td>Mandatory Requirements for Electric vehicle (EV) charging for new construction</td>
+          <td/>
+          <td/>
+          <td>✓</td>
+          <td>A</td>
+        </tr>
+        <tr>
+          <td>Chapter 5, Section 5.106.5.3</td>
+          <td>Mandatory Requirements for Electric vehicle (EV) charging</td>
+          <td/>
+          <td/>
+          <td>✓</td>
+          <td>A</td>
+        </tr>
+      </tbody>
     </table>
   </text>
   <text class="center">

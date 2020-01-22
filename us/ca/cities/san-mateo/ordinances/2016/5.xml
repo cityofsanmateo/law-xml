@@ -211,33 +211,37 @@
   <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>.  Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings.  Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
   <text>
     <table>
-      <tr>
-        <th>Code: California Energy Code</th>
-      </tr>
-      <tr>
-        <th>Section(s)</th>
-        <th>Title</th>
-        <th>Add</th>
-        <th>Deleted</th>
-        <th>Amended</th>
-        <th>Justification (See below for keys)</th>
-      </tr>
-      <tr>
-        <td>Subchapter 2, Section 110.8(i)1</td>
-        <td>Mandatory Requirements for Insulation, Roofing Products, and Radiant Barriers – Roofing Products Solar Reflectance and thermal Emittance</td>
-        <td>✓</td>
-        <td/>
-        <td>✓</td>
-        <td>A, B</td>
-      </tr>
-      <tr>
-        <td>Subchapter 2, Section 110</td>
-        <td>Mandatory Requirements for the Manufacture, Construction and Installation of Systems, Equipment, and Building Components</td>
-        <td>✓</td>
-        <td/>
-        <td/>
-        <td>A</td>
-      </tr>
+      <thead>
+        <tr>
+          <th colspan="6">Code: California Energy Code</th>
+        </tr>
+        <tr>
+          <th>Section(s)</th>
+          <th>Title</th>
+          <th>Add</th>
+          <th>Deleted</th>
+          <th>Amended</th>
+          <th>Justification (See below for keys)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Subchapter 2, Section 110.8(i)1</td>
+          <td>Mandatory Requirements for Insulation, Roofing Products, and Radiant Barriers – Roofing Products Solar Reflectance and thermal Emittance</td>
+          <td>✓</td>
+          <td/>
+          <td>✓</td>
+          <td>A, B</td>
+        </tr>
+        <tr>
+          <td>Subchapter 2, Section 110</td>
+          <td>Mandatory Requirements for the Manufacture, Construction and Installation of Systems, Equipment, and Building Components</td>
+          <td>✓</td>
+          <td/>
+          <td/>
+          <td>A</td>
+        </tr>
+      </tbody>
     </table>
   </text>
   <text class="center">

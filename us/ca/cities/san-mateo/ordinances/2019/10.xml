@@ -254,41 +254,45 @@
     <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>. Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings. Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
     <text>
       <table>
-        <tr>
-          <th colspan="6">Code: California Green Building Standards Code</th>
-        </tr>
-        <tr>
-          <td>Section(s)</td>
-          <td>Title</td>
-          <td>Add</td>
-          <td>Deleted</td>
-          <td>Amended</td>
-          <td>Justification (See below for keys)</td>
-        </tr>
-        <tr>
-          <td>Chapter 4, Section 4.106.4.1</td>
-          <td>New one- and two-family dwellings and town-houses with attached private garages</td>
-          <td/>
-          <td/>
-          <td>X</td>
-          <td>A</td>
-        </tr>
-        <tr>
-          <td>Chapter 4, Section 4.106.4.2</td>
-          <td>New multifamily dwellings</td>
-          <td/>
-          <td/>
-          <td>X</td>
-          <td>A</td>
-        </tr>
-        <tr>
-          <td>Chapter 5, Section 5.106.5.3.3</td>
-          <td>EV charging space calculation</td>
-          <td/>
-          <td/>
-          <td>X</td>
-          <td>A</td>
-        </tr>
+        <thead>
+          <tr>
+            <th colspan="6">Code: California Green Building Standards Code</th>
+          </tr>
+          <tr>
+            <th>Section(s)</th>
+            <th>Title</th>
+            <th>Add</th>
+            <th>Deleted</th>
+            <th>Amended</th>
+            <th>Justification (See below for keys)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Chapter 4, Section 4.106.4.1</td>
+            <td>New one- and two-family dwellings and town-houses with attached private garages</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td>A</td>
+          </tr>
+          <tr>
+            <td>Chapter 4, Section 4.106.4.2</td>
+            <td>New multifamily dwellings</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td>A</td>
+          </tr>
+          <tr>
+            <td>Chapter 5, Section 5.106.5.3.3</td>
+            <td>EV charging space calculation</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td>A</td>
+          </tr>
+        </tbody>
       </table>
     </text>
     <text class="center">

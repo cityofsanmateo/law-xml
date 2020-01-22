@@ -714,22 +714,26 @@
           <text>Any non-conforming wireless facilities in existence at the time <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> becomes effective must be brought into conformance with <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> in accordance with the amortization schedule in this Section.  As used in this section, the "fair market value" will be the construction costs listed on the building permit or application for the subject wireless facility and the "minimum years" allowed will be measured from the date on which <cite doc="City of San Mateo, Cal., Code" path="17.10">this Chapter</cite> becomes effective.</text>
           <text>
             <table>
-              <tr>
-                <th>Fair Market Value on Effective Date</th>
-                <th>Minimum Years Allowed</th>
-              </tr>
-              <tr>
-                <td>Less than $50,000. . . . . . . . . . . . . . . . . . . . . . .</td>
-                <td>5</td>
-              </tr>
-              <tr>
-                <td>$50,000 to $500,000. . . . . . . . . . . . . . . . . . . . . </td>
-                <td>10</td>
-              </tr>
-              <tr>
-                <td>Greater than $500,000. . . . . . . . . . . . . . . . . . . .</td>
-                <td>15</td>
-              </tr>
+              <thead>
+                <tr>
+                  <th>Fair Market Value on Effective Date</th>
+                  <th>Minimum Years Allowed</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Less than $50,000. . . . . . . . . . . . . . . . . . . . . . .</td>
+                  <td>5</td>
+                </tr>
+                <tr>
+                  <td>$50,000 to $500,000. . . . . . . . . . . . . . . . . . . . . </td>
+                  <td>10</td>
+                </tr>
+                <tr>
+                  <td>Greater than $500,000. . . . . . . . . . . . . . . . . . . .</td>
+                  <td>15</td>
+                </tr>
+              </tbody>
             </table>
           </text>
           <text>The Director may grant a written extension to a date certain when the wireless facility owner shows: (1) a good faith effort to cure non-conformance; (2) the application of this section would violate applicable laws; or (3) extreme economic hardship would result from strict compliance with the amortization schedule. Any extension must be the minimum time period necessary to avoid such extreme economic hardship. The Director may not grant any permanent exemption from this section.</text>

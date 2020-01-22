@@ -278,88 +278,92 @@
     <text>
       <table>
         <caption>City of San Mateo Sewer Service Rates FY 2018-19 Through 2022-23</caption>
-        <tr>
-          <td/>
-          <th colspan="5">Effective Date</th>
-        </tr>
-        <tr>
-          <td/>
-          <th>July 1 2018</th>
-          <th>July 1 2019</th>
-          <th>July 1 2020</th>
-          <th>July 1 2021</th>
-          <th>July 1 2022</th>
-        </tr>
-        <tr>
-          <th colspan="6">Residential</th>
-        </tr>
-        <tr>
-          <td colspan="6"><strong>Fixed Monthly Charge</strong> (Chrge per dwelling unit)</td>
-        </tr>
-        <tr>
-          <td/>
-          <td>$36.59</td>
-          <td>$41.80</td>
-          <td>$47.34</td>
-          <td>$53.59</td>
-          <td>$60.14</td>
-        </tr>
-        <tr>
-          <td colspan="6"><strong>Sewer Usage Charge</strong> (Rate per hundred cubic feet ($/CCF) of annualized average monthly winter water use)</td>
-        </tr>
-        <tr>
-          <td>Class A Residential</td>
-          <td>$7.15</td>
-          <td>$8.18</td>
-          <td>$9.27</td>
-          <td>$10.51</td>
-          <td>$11.80</td>
-        </tr>
-        <tr>
-          <th colspan="6">Commercial</th>
-        </tr>
-        <tr>
-          <td colspan="6"><strong>Sewer Usage Charge</strong> (Rate per hundred cubic feet ($/ccf) of annualized average monthly winter use)</td>
-        </tr>
-        <tr>
-          <td>Class B Standard Strength</td>
-          <td>$14.19</td>
-          <td>$16.26</td>
-          <td>$18.47</td>
-          <td>$20.97</td>
-          <td>$23.60</td>
-        </tr>
-        <tr>
-          <td>Class C Moderate Strength</td>
-          <td>20.48</td>
-          <td>22.92</td>
-          <td>25.43</td>
-          <td>28.20</td>
-          <td>31.00</td>
-        </tr>
-        <tr>
-          <td>Class D High Strength</td>
-          <td>30.35</td>
-          <td>33.22</td>
-          <td>36.04</td>
-          <td>39.09</td>
-          <td>42.04</td>
-        </tr>
-        <tr>
-          <td>Class E</td>
-          <td colspan="5">A limited number of accounts are billed on a case-by-case basis based on sewer rates in effect.</td>
-        </tr>
-        <tr>
-          <td colspan="6"><strong>Minimum Monthly Charge</strong> (Commercial bills are subject to the minimum monthly charge)</td>
-        </tr>
-        <tr>
-          <td/>
-          <td>$36.59</td>
-          <td>$41.80</td>
-          <td>$47.34</td>
-          <td>$53.59</td>
-          <td>$60.14</td>
-        </tr>
+        <thead>
+          <tr>
+            <td/>
+            <th colspan="5">Effective Date</th>
+          </tr>
+          <tr>
+            <td/>
+            <th>July 1 2018</th>
+            <th>July 1 2019</th>
+            <th>July 1 2020</th>
+            <th>July 1 2021</th>
+            <th>July 1 2022</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th colspan="6">Residential</th>
+          </tr>
+          <tr>
+            <td colspan="6"><strong>Fixed Monthly Charge</strong> (Chrge per dwelling unit)</td>
+          </tr>
+          <tr>
+            <td/>
+            <td>$36.59</td>
+            <td>$41.80</td>
+            <td>$47.34</td>
+            <td>$53.59</td>
+            <td>$60.14</td>
+          </tr>
+          <tr>
+            <td colspan="6"><strong>Sewer Usage Charge</strong> (Rate per hundred cubic feet ($/CCF) of annualized average monthly winter water use)</td>
+          </tr>
+          <tr>
+            <td>Class A Residential</td>
+            <td>$7.15</td>
+            <td>$8.18</td>
+            <td>$9.27</td>
+            <td>$10.51</td>
+            <td>$11.80</td>
+          </tr>
+          <tr>
+            <th colspan="6">Commercial</th>
+          </tr>
+          <tr>
+            <td colspan="6"><strong>Sewer Usage Charge</strong> (Rate per hundred cubic feet ($/ccf) of annualized average monthly winter use)</td>
+          </tr>
+          <tr>
+            <td>Class B Standard Strength</td>
+            <td>$14.19</td>
+            <td>$16.26</td>
+            <td>$18.47</td>
+            <td>$20.97</td>
+            <td>$23.60</td>
+          </tr>
+          <tr>
+            <td>Class C Moderate Strength</td>
+            <td>20.48</td>
+            <td>22.92</td>
+            <td>25.43</td>
+            <td>28.20</td>
+            <td>31.00</td>
+          </tr>
+          <tr>
+            <td>Class D High Strength</td>
+            <td>30.35</td>
+            <td>33.22</td>
+            <td>36.04</td>
+            <td>39.09</td>
+            <td>42.04</td>
+          </tr>
+          <tr>
+            <td>Class E</td>
+            <td colspan="5">A limited number of accounts are billed on a case-by-case basis based on sewer rates in effect.</td>
+          </tr>
+          <tr>
+            <td colspan="6"><strong>Minimum Monthly Charge</strong> (Commercial bills are subject to the minimum monthly charge)</td>
+          </tr>
+          <tr>
+            <td/>
+            <td>$36.59</td>
+            <td>$41.80</td>
+            <td>$47.34</td>
+            <td>$53.59</td>
+            <td>$60.14</td>
+          </tr>
+        </tbody>
       </table>
     </text>
     <codify:annotation type="Editor's Notes" path="3.54.030" history="false">For sewer service charges for fiscal years 2018-2019 through 2022-2023 see <cite doc="City of San Mateo, Cal., Ord. No. 2018-1" path="2">Ord. No. 2018-1 Section 2</cite>.</codify:annotation>

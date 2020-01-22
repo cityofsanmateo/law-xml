@@ -146,20 +146,24 @@
                 <text>
                   <table>
                     <caption>Table 140.1-A Mixed-fuel Building Energy Budgets Adjustments</caption>
-                    <tr>
-                      <th>Occupancy Type</th>
-                      <th>Compliance Margin Exceeding State Code</th>
-                    </tr>
-                    <tr>
-                      <td>Office</td>
-                      <td>10%</td>
-                    </tr>
-                    <tr>
-                      <td>All Other occupancies</td>
-                      <td>
-                        <u>0%</u>
-                      </td>
-                    </tr>
+                    <thead>
+                      <tr>
+                        <th>Occupancy Type</th>
+                        <th>Compliance Margin Exceeding State Code</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>Office</td>
+                        <td>10%</td>
+                      </tr>
+                      <tr>
+                        <td>All Other occupancies</td>
+                        <td>
+                          <u>0%</u>
+                        </td>
+                      </tr>
+                    </tbody>
                   </table>
                 </text>
               </include>
@@ -337,41 +341,45 @@
   </section>
   <text>
     <table>
-      <tr>
-        <th>Code: California Energy Code</th>
-      </tr>
-      <tr>
-        <th>Section(s)</th>
-        <th>Title</th>
-        <th>Add</th>
-        <th>Deleted</th>
-        <th>Amended</th>
-        <th>Justification (See below for keys)</th>
-      </tr>
-      <tr>
-        <td>Subchapter 1, Section 100.1</td>
-        <td>Definitions and Rules of Construction</td>
-        <td>X</td>
-        <td/>
-        <td/>
-        <td>A, B</td>
-      </tr>
-      <tr>
-        <td>Subchapter 5, Section 140.0</td>
-        <td>Performance and Prescriptive Compliance Approaches</td>
-        <td>X</td>
-        <td/>
-        <td>X</td>
-        <td>A, B</td>
-      </tr>
-      <tr>
-        <td>Subchapter 8, Section 150.1</td>
-        <td>Performance and Prescriptive Compliance Approaches for Low-Rise Residential Buildings</td>
-        <td>X</td>
-        <td/>
-        <td>X</td>
-        <td>A, B</td>
-      </tr>
+      <thead>
+        <tr>
+          <th colspan="6">Code: California Energy Code</th>
+        </tr>
+        <tr>
+          <th>Section(s)</th>
+          <th>Title</th>
+          <th>Add</th>
+          <th>Deleted</th>
+          <th>Amended</th>
+          <th>Justification (See below for keys)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Subchapter 1, Section 100.1</td>
+          <td>Definitions and Rules of Construction</td>
+          <td>X</td>
+          <td/>
+          <td/>
+          <td>A, B</td>
+        </tr>
+        <tr>
+          <td>Subchapter 5, Section 140.0</td>
+          <td>Performance and Prescriptive Compliance Approaches</td>
+          <td>X</td>
+          <td/>
+          <td>X</td>
+          <td>A, B</td>
+        </tr>
+        <tr>
+          <td>Subchapter 8, Section 150.1</td>
+          <td>Performance and Prescriptive Compliance Approaches for Low-Rise Residential Buildings</td>
+          <td>X</td>
+          <td/>
+          <td>X</td>
+          <td>A, B</td>
+        </tr>
+      </tbody>
     </table>
   </text>
   <text class="center">

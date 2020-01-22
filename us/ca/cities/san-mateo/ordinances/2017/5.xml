@@ -560,36 +560,40 @@
     <text>"Parking Schedules Generally," and subsection (1)(b) of the table is amended to read as follows and subsections (c) and (d) are renumbered:</text>
     <text>
       <table>
-        <tr>
-          <th>USES</th>
-          <th>MINIMUM PARKING STALLS REQUIRED</th>
-        </tr>
-        <tr>
-          <td colspan="2">1. <strong>Residential Uses</strong>:</td>
-        </tr>
-        <tr>
-          <td>USES</td>
-          <td>MINIMUM PARKING STALLS REQUIRED</td>
-        </tr>
-        <tr>
-          <td>b. Accessory Dwelling Unit</td>
-          <td>
-            <p>1 parking space for an accessory dwelling unit with up to 1 bedroom and 1 additional parking space is required for each additional bedroom, except for the following instances when parking is exempt:</p>
-            <p>a.	The accessory dwelling unit is located within one-half (1/2) mile of a public transit stop;</p>
-            <p>b.	The accessory dwelling unit is located within an architecturally and historically significant historic district;</p>
-            <p>c.	The accessory dwelling unit is in part of the existing primary residence or an existing accessory structure;</p>
-            <p>d.	In an area requiring on-street parking, permits are required but not offered to the occupant of the accessory dwelling unit; or</p>
-            <p>e.	The Accessory Dwelling Unit (ADU) is located within one block of a car-share vehicle (car-sharing pick-up/drop-off location).</p>
-          </td>
-        </tr>
-        <tr>
-          <td>c.  Junior Accessory Dwelling Unit</td>
-          <td>No additional parking</td>
-        </tr>
-        <tr>
-          <td>d. Multiple-Family Dwelling (two-family, townhouse, condominium, apartments and apartment hotels)</td>
-          <td>Resident parking shall include at least 1 covered stall per dwelling unit.</td>
-        </tr>
+        <thead>
+          <tr>
+            <th>USES</th>
+            <th>MINIMUM PARKING STALLS REQUIRED</th>
+          </tr>
+          <tr>
+            <th colspan="2">1. <strong>Residential Uses</strong>:</th>
+          </tr>
+          <tr>
+            <th>USES</th>
+            <th>MINIMUM PARKING STALLS REQUIRED</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>b. Accessory Dwelling Unit</td>
+            <td>
+              <p>1 parking space for an accessory dwelling unit with up to 1 bedroom and 1 additional parking space is required for each additional bedroom, except for the following instances when parking is exempt:</p>
+              <p>a.	The accessory dwelling unit is located within one-half (1/2) mile of a public transit stop;</p>
+              <p>b.	The accessory dwelling unit is located within an architecturally and historically significant historic district;</p>
+              <p>c.	The accessory dwelling unit is in part of the existing primary residence or an existing accessory structure;</p>
+              <p>d.	In an area requiring on-street parking, permits are required but not offered to the occupant of the accessory dwelling unit; or</p>
+              <p>e.	The Accessory Dwelling Unit (ADU) is located within one block of a car-share vehicle (car-sharing pick-up/drop-off location).</p>
+            </td>
+          </tr>
+          <tr>
+            <td>c.  Junior Accessory Dwelling Unit</td>
+            <td>No additional parking</td>
+          </tr>
+          <tr>
+            <td>d. Multiple-Family Dwelling (two-family, townhouse, condominium, apartments and apartment hotels)</td>
+            <td>Resident parking shall include at least 1 covered stall per dwelling unit.</td>
+          </tr>
+        </tbody>
       </table>
     </text>
   </section>

@@ -1290,28 +1290,32 @@
           <text>
             <table>
               <caption>TABLE 1505.1  Minimum Covering Classification For Types Of Construction.  AMENDED TABLE 1505.1 MINIMUM ROOF COVERING CLASSIFICATION FOR TYPES OF CONSTRUCTION</caption>
-              <tr>
-                <th>IA</th>
-                <th>IB</th>
-                <th>IIA</th>
-                <th>IIB</th>
-                <th>IIIA</th>
-                <th>IIIB</th>
-                <th>IV</th>
-                <th>VA</th>
-                <th>VB</th>
-              </tr>
-              <tr>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-                <td>B</td>
-              </tr>
+              <thead>
+                <tr>
+                  <th>IA</th>
+                  <th>IB</th>
+                  <th>IIA</th>
+                  <th>IIB</th>
+                  <th>IIIA</th>
+                  <th>IIIB</th>
+                  <th>IV</th>
+                  <th>VA</th>
+                  <th>VB</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>B</td>
+                  <td>B</td>
+                  <td>B</td>
+                  <td>B</td>
+                  <td>B</td>
+                  <td>B</td>
+                  <td>B</td>
+                  <td>B</td>
+                  <td>B</td>
+                </tr>
+              </tbody>
             </table>
           </text>
         </section>
