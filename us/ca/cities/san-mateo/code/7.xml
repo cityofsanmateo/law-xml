@@ -868,26 +868,90 @@
       <num>7.17.100</num>
       <heading>ABATEMENT—NOTICES.</heading>
       <text>A 10-day notice of intention to abate and remove the vehicle, or parts thereof, as a public nuisance shall be mailed by registered mail to the owner of the land and to the owner of the vehicle, unless the vehicle is in such condition that identification numbers are not available to determine ownership in which case the vehicle and/or land will be posted and the owner of the land noticed as required. The notices of intention shall be in substantially the following forms:</text>
-      <text>"NOTICE OF INTENTION TO ABATE AND REMOVE AN ABANDONED, WRECKED, DISMANTLED, OR INOPERATIVE VEHICLE OR PARTS THEREOF AS A PUBLIC NUISANCE.</text>
-      <text>To: _______________________________________</text>
-      <text>Name of Owner</text>
-      <text>Address: ____________________________________________________</text>
-      <text>"As owner shown on the last equalized assessment roll of the land located at_______________, you are hereby notified that the undersigned, pursuant to Section of Ordinance No. has determined that there exists upon said land an abandoned, wrecked, dismantled or inoperative vehicle, or parts of a vehicle, registered to______________, license number, which constitutes a public nuisance pursuant to the provisions of Ordinance No.___________.</text>
-      <text>"You are hereby notified to abate said nuisance by the removal of said vehicle (or said parts of a vehicle) within 10 days from the date of mailing of this notice, and upon your failure to do so the same will be abated and removed by the City of San Mateo, and the costs thereof, together with administrative costs, assessed to you as owner of the land on which said vehicle (or said parts of a vehicle) is located.</text>
-      <text>"As owner of the land on which said vehicle (or said parts of a vehicle) is located, you are hereby notified that you may, within 10 days after the mailing of this notice of intention, request a public hearing and if such a request is not received by the hearing officer within such 10-day period, the locally designated officer shall have the authority to abate and remove said vehicle (or said parts of a vehicle) as a public nuisance and assess the costs as aforesaid without a public hearing. You may submit a sworn, written statement within such 10-day period denying responsibility for the presence of said vehicle (or said parts of a vehicle) on said land, with your reasons for denial, and such statement shall be construed as a request for hearing at which your presence is not required. You may appear in person at any hearing requested by you or the owner of the vehicle, or, in lieu thereof, may present a sworn, written statement as aforesaid in time for consideration at such hearing.</text>
-      <text>Notice Mailed__________________				/s/</text>
-      <text>Date					"Locally designated officer"</text>
-      <text>"NOTICE OF INTENTION TO ABATE AND REMOVE AN ABANDONED, WRECKED, DISMANTLED, OR INOPERATIVE VEHICLE OR PARTS THEREOF AS A PUBLIC NUISANCE.</text>
-      <text>To:_______________________________			To:______________________________</text>
-      <text>Name of last registered Owner of Record		Name of last registered Owner of Record</text>
-      <text>__________________________________			__________________________________</text>
-      <text>ddress							Address</text>
-      <text>"As last registered (and/or legal) owner of record of the following described vehicle: Make__________, Model__________, License Number______, you are hereby notified that the undersigned pursuant to Section__________ of Ordinance No.__________, has determined that said vehicle or parts of a vehicle exists as an abandoned, wrecked, dismantled or inoperative vehicle at_________________.</text>
-      <text>Description of location on public or private property and constitutes a public nuisance pursuant to the provisions of Ordinance No.___________.</text>
-      <text>"You are hereby notified to abate said nuisance by the removal of said vehicle or said parts of a vehicle within 10 days from the date of mailing of this notice.</text>
-      <text>"As registered and/or legal owner of record of said vehicle, or said parts of a vehicle, you are hereby notified that you may, within 10 days after the mailing of this notice of intention, request a public hearing; and if such a request is not received by the hearing officer within such 10-day period, the locally designated officer shall have the authority to abate and remove said vehicle or said parts of a vehicle without a hearing.</text>
-      <text>Notice Mailed_______________________				/s/</text>
-      <text>Date					"Locally designated officer"</text>
+      <text>
+        <table class="layout-table">
+          <tbody>
+            <tr>
+              <td colspan="3">"NOTICE OF INTENTION TO ABATE AND REMOVE AN ABANDONED, WRECKED, DISMANTLED, OR INOPERATIVE VEHICLE OR PARTS THEREOF AS A PUBLIC NUISANCE.</td>
+            </tr>
+            <tr>
+              <td colspan="2">To: _______________________________________</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td class="text-indent-5">Name of Owner</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td colspan="3">Address: ____________________________________________________</td>
+            </tr>
+            <tr>
+              <td colspan="3">"As owner shown on the last equalized assessment roll of the land located at_______________, you are hereby notified that the undersigned, pursuant to Section of Ordinance No. has determined that there exists upon said land an abandoned, wrecked, dismantled or inoperative vehicle, or parts of a vehicle, registered to______________, license number, which constitutes a public nuisance pursuant to the provisions of Ordinance No.___________.</td>
+            </tr>
+            <tr>
+              <td colspan="3">"You are hereby notified to abate said nuisance by the removal of said vehicle (or said parts of a vehicle) within 10 days from the date of mailing of this notice, and upon your failure to do so the same will be abated and removed by the City of San Mateo, and the costs thereof, together with administrative costs, assessed to you as owner of the land on which said vehicle (or said parts of a vehicle) is located.</td>
+            </tr>
+            <tr>
+              <td colspan="3">"As owner of the land on which said vehicle (or said parts of a vehicle) is located, you are hereby notified that you may, within 10 days after the mailing of this notice of intention, request a public hearing and if such a request is not received by the hearing officer within such 10-day period, the locally designated officer shall have the authority to abate and remove said vehicle (or said parts of a vehicle) as a public nuisance and assess the costs as aforesaid without a public hearing. You may submit a sworn, written statement within such 10-day period denying responsibility for the presence of said vehicle (or said parts of a vehicle) on said land, with your reasons for denial, and such statement shall be construed as a request for hearing at which your presence is not required. You may appear in person at any hearing requested by you or the owner of the vehicle, or, in lieu thereof, may present a sworn, written statement as aforesaid in time for consideration at such hearing.</td>
+            </tr>
+            <tr>
+              <td>Notice Mailed__________________</td>
+              <td></td>
+              <td>/s/</td>
+            </tr>
+            <tr>
+              <td class="text-indent-5">Date</td>
+              <td></td>
+              <td>"Locally designated officer"</td>
+            </tr>
+            <tr>
+              <td colspan="3">"NOTICE OF INTENTION TO ABATE AND REMOVE AN ABANDONED, WRECKED, DISMANTLED, OR INOPERATIVE VEHICLE OR PARTS THEREOF AS A PUBLIC NUISANCE.</td>
+            </tr>
+            <tr>
+              <td>To:_______________________________</td>
+              <td></td>
+              <td>To:______________________________</td>
+            </tr>
+            <tr>
+              <td>Name of last registered Owner of Record</td>
+              <td></td>
+              <td>Name of last registered Owner of Record</td>
+            </tr>
+            <tr>
+              <td>__________________________________</td>
+              <td></td>
+              <td>__________________________________</td>
+            </tr>
+            <tr>
+              <td class="text-indent-4">ddress</td>
+              <td></td>
+              <td class="text-indent-4">Address</td>
+            </tr>
+            <tr>
+              <td colspan="3">"As last registered (and/or legal) owner of record of the following described vehicle: Make__________, Model__________, License Number______, you are hereby notified that the undersigned pursuant to Section__________ of Ordinance No.__________, has determined that said vehicle or parts of a vehicle exists as an abandoned, wrecked, dismantled or inoperative vehicle at_________________.</td>
+            </tr>
+            <tr>
+              <td colspan="3">Description of location on public or private property and constitutes a public nuisance pursuant to the provisions of Ordinance No.___________.</td>
+            </tr>
+            <tr>
+              <td colspan="3">"You are hereby notified to abate said nuisance by the removal of said vehicle or said parts of a vehicle within 10 days from the date of mailing of this notice.</td>
+            </tr>
+            <tr>
+              <td colspan="3">"As registered and/or legal owner of record of said vehicle, or said parts of a vehicle, you are hereby notified that you may, within 10 days after the mailing of this notice of intention, request a public hearing; and if such a request is not received by the hearing officer within such 10-day period, the locally designated officer shall have the authority to abate and remove said vehicle or said parts of a vehicle without a hearing.</td>
+            </tr>
+            <tr>
+              <td colspan="2">Notice Mailed_______________________</td>
+              <td>/s/</td>
+            </tr>
+            <tr>
+              <td class="text-indent-6">Date</td>
+              <td></td>
+              <td>"Locally designated officer"</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-19" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-1" path="§1" type="History"/>
