@@ -4545,11 +4545,9 @@
           <text>A framed panel, enclosing on separate lines the name of the owner, the word "taxicab" and the serial body number assigned the taxicab by the license collector. Such panel shall be painted on each side of the taxicab, and shall cover no less area than 10 inches by 12 inches. The form of such panel shall be substantially as follows:</text>
           <text class="center">
             <strong>JOHN T. SMITH</strong>
-          </text>
-          <text class="center">
+            <br/>
             <strong>TAXICAB</strong>
-          </text>
-          <text class="center">
+            <br/>
             <strong>320</strong>
           </text>
         </para>
