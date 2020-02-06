@@ -1,0 +1,135 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2020-1" codify:doc="City of San Mateo, Cal., Code">
+  <num>2020-1</num>
+  <heading type="long">Amending Section 7.38.432 Private Sewer Laterals to Require Inspection and Testing</heading>
+  <meta>
+    <effective>2020-03-04</effective>
+    <heading type="short">Private Sewer Lateral</heading>
+    <citations>
+      <citation type="ord">Ord. No. 2020-1</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2020-1</citation>
+    </citations>
+    <history>
+      <introduced>2020-01-21</introduced>
+      <adopted>2020-02-03</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>an objective of the City's Clean Water Program is to prevent sanitary sewer overflows, or SSOs, because they create a public health hazard and negatively impact the water quality of the City's creeks and lagoons. SSOs frequently occur during wet weather as a result of inflow and infiltration into the City's sewer collection system; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City is undertaking several projects to reduce inflow and infiltration through repair and rehabilitation of sewer mains; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>damaged and defective private sewer laterals are a significant and additional source of inflow and infiltration; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Council finds that by requiring property owners to test and inspect their sewer laterals, a greater number of damaged or defective private sewer laterals will be identified, and therefore repaired.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.38.432">Section 7.38.432</cite> Private Sewer Laterals is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="7.38.432"/>
+        <num>7.38.432</num>
+        <heading>Private Sewer Laterals</heading>
+        <para>
+          <num>(a)</num>
+          <text>Responsibility for repair, replacement and maintenance of sewer lateral. The owner of the property(ies) serviced shall be responsible for any portion of the private sewer lateral extending from a building to the public sewer main, including the wye connection which joins the private sewer lateral to the public sewer main. Any repairs, replacement or maintenance, such as the clearing of pipes using common industry hydro or mechanical cleaning tools, will not be provided by the City on private sewer laterals or in private sewer systems. Responsibility for such repairs, replacement and maintenance is that of the owner of the property(ies) serviced by the lateral.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Mandatory installation of cleanout. When installing or replacing a sewer lateral connection from a building to the public main sewer, if not already present, the property owner shall install a cleanout near the property structure in accordance with the requirements of the Uniform Building Code, the California Plumbing Code, and any other applicable regulations adopted by the City, City standards, or plans and specifications approved by the City Engineer.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Sewer lateral inspections. The owner(s) of the property served by a private sewer lateral shall be responsible for inspecting, testing, the lateral as required by this subsection, and providing the results to the City. The Public Works Director shall establish standards and regulations for the manner and scope of sewer lateral inspections.</text>
+          <para>
+            <num>(1)</num>
+            <text>When required.</text>
+            <para>
+              <num>(A)</num>
+              <text>Upon the sale of real property served by a private sewer lateral.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Prior to issuance of a building permit where the cost of the improvements for an addition or alteration/remodel project exceeds such amount as established by resolution of the City Council.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>For commercial or multifamily residential buildings, upon the occurrence of a sewer lateral backup or blockage resulting in a sanitary sewer overflow.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Upon a change in sewer customer class, as defined by <cite doc="City of San Mateo, Cal., Code" path="3.54.020">section 3.54.020</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Exemptions. No inspection and testing of a sewer lateral shall be required if:</text>
+            <para>
+              <num>(A)</num>
+              <text>The sewer lateral has been inspected within the 5 years immediately preceding one of the events listed above, and the results of such inspection showed that either no repairs were required, or only partial repairs were required, and those repairs were in fact completed; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The sewer lateral has been completely replaced within the 25 years, as evidenced by a plumbing permit issued by the City; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Upon other exemption approved by the Director of Public Works.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>in accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(2), this action is not a project subject to CEQA review in that this ordinance is a general policy making activity.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on January 21, 2020, and adopted on February 3, 2020, and shall be effective 30 days after its adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Rodriguez, Bonilla, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </section>
+</document>

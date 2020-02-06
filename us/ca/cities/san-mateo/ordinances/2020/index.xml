@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="2020">
+  <heading>2020 Ordinances</heading>
+  <heading type="short">2020</heading>
+  <subheading>Codified Ordinances</subheading>
+  <xi:include href="./1.xml"/>
+</collection>
