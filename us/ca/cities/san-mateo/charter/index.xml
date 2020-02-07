@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of San Mateo, Cal., Charter">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library">
   <heading>San Mateo City Charter</heading>
   <meta>
-    <effective>0001-01-01</effective>
+    <effective>2017-12-04</effective>
   </meta>
   <container>
     <prefix>ARTICLE</prefix>
@@ -10,17 +10,17 @@
     <heading>NAME, BOUNDARIES, AND POWERS OF THE CITY</heading>
     <section>
       <num>1.01</num>
-      <heading>NAME OF THE CITY.</heading>
+      <heading>Name of The City.</heading>
       <text>The municipal corporation now existing and known as the City of San Mateo shall remain and continue to be a body politic and corporate as at present, in name, in fact and in law.</text>
     </section>
     <section>
       <num>1.02</num>
-      <heading>BOUNDARIES.</heading>
+      <heading>Boundaries.</heading>
       <text>The boundaries of said city shall be the same as now established, with power and authority to change the same as provided by law.</text>
     </section>
     <section>
       <num>1.03</num>
-      <heading>POWERS.</heading>
+      <heading>Powers.</heading>
       <text>Said city, by and through its council and other officials, shall have, and may exercise, all powers necessary or appropriate to a municipal corporation and the general welfare of its inhabitants which are not prohibited by the constitution and which it would be competent for this Charter to set forth particularly or specifically, including all powers now or hereafter granted, and the specification herein of any particular powers shall not be held to be exclusive or any limitation of this general grant of powers.</text>
     </section>
   </container>
@@ -30,54 +30,78 @@
     <heading>LEGISLATIVE DEPARTMENT</heading>
     <section>
       <num>2.01</num>
-      <heading>COMPOSITION, ELIGIBILITY, ELECTION AND TERMS.</heading>
+      <heading>Composition, Eligibility, Election and Terms.</heading>
       <para>
         <num>(a)</num>
         <text>There shall be a city council of five members elected by the voters of the city at large.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>No person shall be eligible to hold office as a member of the city council or for election thereto unless he or she is, and shall have been continuously for at least thirty days immediately preceding the appointment or final filing date for nomination papers for such office a qualified elector and resident of the city, or of territory annexed to or consolidated with the city.</text>
+        <text>No person shall be eligible to hold office as a member of the city council or for election thereto unless he or she is, and shall have been continuously for at least 30 days immediately preceding the appointment or final filing date for nomination papers for such office, a qualified elector and resident of the city, or of territory annexed to or consolidated with the city.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>The members of the city council shall be elected by the voters of the city at a general municipal election to be held therein every odd-numbered year as hereinafter provided. Two council members shall be elected at the general municipal election to be held the year immediately preceding Leap Year, and three council members shall be elected at the general municipal election to be held the year immediately after Leap Year. They shall hold office for terms commencing the first regular council meeting in December and until the general municipal election the fourth year thereafter and the election and qualification of their successors. In the event two or more candidates receive the same number of votes and it is necessary for any reason to break the tie, the tie shall be broken by drawing lots under the supervision of the city attorney at the earliest meeting of the council after such a tie has been determined.</text>
+        <text>The members of the city council shall be elected by the voters of the city at a general municipal election to be held in the year 2020 and every even-numbered year as follows:</text>
+        <para>
+          <num>1.</num>
+          <text>Two councilmembers shall be elected at the general municipal election held in the year 2020. They shall hold office for a term of four years, commencing on the first regular council meeting in the December immediately following the general municipal election until the general municipal election the fourth year thereafter.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Three councilmembers shall be elected at the general municipal election held in the year 2022. They shall hold office for a term of four years, commencing on the first regular council meeting in the December immediately following the general municipal election until the general municipal election the fourth year thereafter.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>In the event two or more candidates receive the same number of votes and it is necessary for any reason to break the tie, the tie shall be broken by drawing lots under the supervision of the city attorney at the earliest meeting of the council after such a tie has been determined.</text>
+        </para>
       </para>
       <para>
         <num>(d)</num>
-        <text>The incumbent city councilmembers holding office at the time this Charter takes effect, and the successors who fill any vacancies then existing, shall constitute the first council under this Charter and shall hold office until expiration of the terms for which they were elected or appointed. A vacancy then existing shall be filled as provided by and with the same effect as a vacancy under this Charter.</text>
+        <text>Provisions applicable to the councilmembers elected at the general municipal election held in 2015 and the councilmembers elected at the general municipal election held in 2017.</text>
+        <para>
+          <num>1.</num>
+          <text>The incumbent councilmembers elected at the general municipal election held in 2015 shall have their term extended by one year, until the general municipal election held in 2020.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The three councilmembers elected at the general municipal election held in 2017 shall hold office for a term of five years, commencing on the first regular council meeting in December 2017 until the general municipal election held in 2022.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>These provisions are necessary to effectuate the change in timing of general municipal elections from odd-numbered years to even-numbered years, as approved by the voters of city in the general municipal election held in 2017.</text>
+        </para>
       </para>
       <para>
         <num>(e)</num>
-        <text>Councilmembers shall not be eligible for election to nor serve more than three consecutive terms in office provided that no partial term of office shall be counted as any portion of the consecutive terms.</text>
+        <text>Councilmembers shall not be eligible for election to nor serve more than three consecutive terms in office provided that no partial term of office shall be counted as any portion of the consecutive terms. (Res. No. 65 § 2, eff. 11-7-17)</text>
       </para>
     </section>
     <section>
       <num>2.02</num>
-      <heading>MAYOR.</heading>
+      <heading>Mayor.</heading>
       <text>The Council shall elect from among its members officers of the city who shall have the titles of mayor and deputy mayor, each of whom shall serve at the pleasure of the council. The mayor shall preside at meetings of the council, shall be recognized as head of the city government for all ceremonial purposes and by the governor for purposes of military law, but shall have no administrative duties. The deputy mayor shall act as mayor during the absence or disability of the mayor.</text>
     </section>
     <section>
       <num>2.03</num>
-      <heading>COMPENSATION.</heading>
+      <heading>Compensation.</heading>
       <text>The mayor and other members of the city council shall each receive $600.00 per month compensation for their services as council. Compensation may be adjusted in the manner authorized by the general laws of the State for general law cities of the same population as San Mateo.</text>
     </section>
     <section>
       <num>2.04</num>
-      <heading>BENEFITS AND EXPENSES.</heading>
+      <heading>Benefits and Expenses.</heading>
       <text>Retirement, health and welfare, and social security benefits shall be in addition to, and not be included in, the amount of compensation authorized by this Charter. The mayor and other members of the city council shall receive their actual and necessary expenses incurred in the performance of their duties of office upon presentation of verified claims therefor on uniform forms to be prescribed by resolution of the city council.</text>
     </section>
     <section>
       <num>2.05</num>
-      <heading>GENERAL POWERS AND DUTIES.</heading>
+      <heading>General Powers and Duties.</heading>
       <text>All powers of the city shall be vested in the council, except as otherwise provided by law or this Charter, and the council shall provide for the exercise thereof and for the performance of all duties and obligations imposed on the city by law.</text>
     </section>
     <section>
       <num>2.06</num>
-      <heading>PROHIBITIONS.</heading>
+      <heading>Prohibitions.</heading>
       <para>
         <num>(a)</num>
-        <text>Holding Other Office: Except where authorized by law, no councilmember shall hold any other city office or city employment during the term for which he was elected or appointed by the council, and no former councilmember shall hold any compensated appointed city office or employment until one year after the expiration of the term for which he/she was elected or appointed to the council.</text>
+        <text>Holding Other Office: Except where authorized by law, no councilmember shall hold any other city office or city employment during the term for which he/she was elected or appointed by the council, and no former councilmember shall hold any compensated appointed city office or employment until one year after the expiration of the term for which he/she was elected or appointed to the council.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -90,48 +114,48 @@
     </section>
     <section>
       <num>2.07</num>
-      <heading>FORFEITURE OF OFFICE.</heading>
-      <text>Any councilmember shall forfeit his/her office who (1) fails to qualify within ten days after appointment or certification of election, or (2) is absent from the city continuously for more than thirty days without permission of a majority of the remaining councilmembers, or (3) fails to attend three consecutive regular meetings of the council without being excused by a majority of the remaining councilmembers, and the excuse entered in the minutes, or (4) fails to attend at least two-thirds of all regular meetings of the council during any twelve-month period, or (5) is convicted of a violation of any express provision of this Charter or of a crime involving moral turpitude, or (6) attempts to influence the city manager or city attorney in the making of any appointment or in the purchase of supplies, or (7) lacks at any time during his/her term of office any qualification for the office prescribed by this Charter or by law.</text>
+      <heading>Forfeiture of Office.</heading>
+      <text>Any councilmember shall forfeit his/her office who (1) fails to qualify within 10 days after appointment or certification of election, or (2) is absent from the city continuously for more than 30 days without permission of a majority of the remaining councilmembers, or (3) fails to attend three consecutive regular meetings of the council without being excused by a majority of the remaining councilmembers, and the excuse entered in the minutes, or (4) fails to attend at least two-thirds of all regular meetings of the council during any 12-month period, or (5) is convicted of a violation of any express provision of this Charter or of a crime involving moral turpitude, or (6) attempts to influence the city manager or city attorney in the making of any appointment or in the purchase of supplies, or (7) lacks at any time during his/her term of office any qualification for the office prescribed by this Charter or by law.</text>
     </section>
     <section>
       <num>2.08</num>
-      <heading>VACANCIES IN OFFICE.</heading>
-      <text>A vacancy on the city council from whatever cause arising shall be filled by appointment by the council provided, that if the council fails to agree or for any other reason does not fill such vacancy within thirty days after the same occurs, then such vacancy shall be filled by the mayor. The appointee shall hold office until the next general election, when a successor shall be chosen by the electors for the unexpired term. If for any reason the seats of a majority of the council become vacant, then the city clerk shall call a special election at once to fill the vacancies for the unexpired terms, and the same shall be conducted substantially in the manner provided for general municipal elections. The candidates receiving the most votes shall serve the longer, if any, of the unexpired terms, and in case of ties the terms shall be fixed by lot.</text>
+      <heading>Vacancies in Office.</heading>
+      <text>A vacancy on the city council from whatever cause arising shall be filled by appointment by the council provided, that if the council fails to agree or for any other reason does not fill such vacancy within 30 days after the same occurs, then such vacancy shall be filled by the mayor. The appointee shall hold office until the next general election, when a successor shall be chosen by the electors for the unexpired term. If for any reason the seats of a majority of the council become vacant, then the city clerk shall call a special election at once to fill the vacancies for the unexpired terms, and the same shall be conducted substantially in the manner provided for general municipal elections. The candidates receiving the most votes shall serve the longer, if any, of the unexpired terms, and in case of ties the terms shall be fixed by lot.</text>
     </section>
     <section>
       <num>2.09</num>
-      <heading>MEETINGS. GENERALLY.</heading>
+      <heading>Meetings. Generally.</heading>
       <text>The council shall meet at the first regular council meeting in December following a general municipal election and canvass the returns thereof. The new members shall then be inducted into office, whereupon the council shall elect the mayor and deputy mayor. The regular meetings of the council shall be held on the first and third Monday of each month not earlier than 6:30 p.m., but any regular meeting may be adjourned to a date and time certain, which adjourned meeting shall be a regular meeting for all purposes. The council may, in its discretion, change the date of any regularly scheduled Monday council meeting which would fall on a holiday or other inconvenient day to the nearest convenient day subsequent to the regularly scheduled Monday council meeting.</text>
       <text>Except as otherwise provided by state law, all meetings shall be open to the public.</text>
     </section>
     <section>
       <num>2.10</num>
-      <heading>PLACE OF MEETINGS.</heading>
-      <text>All regular and adjourned regular meetings of the council shall be held in the City Hall, unless by reason of fire, flood or other disaster, the City Hall cannot be used for that purpose.</text>
+      <heading>Place of Meetings.</heading>
+      <text>All regular and adjourned regular meetings of the council shall be held in the City Hall, unless, by reason of fire, flood or other disaster, the City Hall cannot be used for that purpose, or the council determines that another location in the city would be more suitable <u>due to the capacity or condition of the City Hall</u>. (Res. No. 66 § 3, eff. 11-7-17)</text>
     </section>
     <section>
       <num>2.11</num>
-      <heading>SPECIAL MEETINGS.</heading>
+      <heading>Special Meetings.</heading>
       <text>Special meetings may be called and held in the manner and as provided from time to time by the general law of the state.</text>
     </section>
     <section>
       <num>2.12</num>
-      <heading>RULES AND JOURNAL.</heading>
+      <heading>Rules and Journal.</heading>
       <text>The council shall adopt rules for conducting its proceedings, and shall provide for keeping a journal of its proceedings, which shall be a public record. A reasonable number of copies of such rules shall be made available in the office of the city clerk for inspection by members of the public, and copies shall be furnished by the clerk upon payment of a reasonable charge for same.</text>
     </section>
     <section>
       <num>2.13</num>
-      <heading>QUORUM.</heading>
+      <heading>Quorum.</heading>
       <text>A majority of the council shall constitute a quorum for the transaction of any business, but a less number may adjourn from time to time and compel the attendance of absent members in such manner and under such penalties as may be prescribed by ordinance.</text>
     </section>
     <section>
       <num>2.14</num>
-      <heading>VOTING.</heading>
+      <heading>Voting.</heading>
       <text>The affirmative vote of at least a majority of the council shall be necessary to adopt any resolutions, and the affirmative vote of a majority of the council shall be sufficient for adoption of ordinances except where a larger vote shall be required by law or other provisions of this Charter. Such votes shall be taken by "ayes" and "noes" and entered upon the record.</text>
     </section>
     <section>
       <num>2.15</num>
-      <heading>ORDINANCES, GENERALLY.</heading>
+      <heading>Ordinances, Generally.</heading>
       <para>
         <num>(a)</num>
         <text>All proposed ordinances introduced in the council shall be in printed or typewritten form. The enacting clause of all ordinances passed by the council shall read as follows: "The Council of the City of San Mateo ordains as follows:". The enacting clause of all ordinances initiated by the people shall read as follows: "The People of the City of San Mateo ordain as follows:".</text>
@@ -151,17 +175,17 @@
     </section>
     <section>
       <num>2.16</num>
-      <heading>EMERGENCY ORDINANCES.</heading>
+      <heading>Emergency Ordinances.</heading>
       <text>Any ordinance declared by the council to be necessary as an emergency measure for preserving the public peace, health, safety, or welfare and containing the reasons for its urgency, may be introduced and passed at one and the same meeting and, if passed by a majority of the council plus one, shall become effective immediately. As soon as practicable after its passage an emergency ordinance shall be published in the official city newspaper, but the validity of the ordinance shall not depend upon such publication. Every such ordinance, except one for emergency appropriations or calling an election, shall automatically stand repealed as of the ninety-first day following the date on which it was adopted, but this shall not prevent reenactment of the ordinance if the emergency still exists.</text>
     </section>
     <section>
       <num>2.17</num>
-      <heading>INVESTIGATIONS.</heading>
+      <heading>Investigations.</heading>
       <text>The council may make investigations into the affairs of the city and the conduct of any city department, office or agency, and for this purpose may subpoena witnesses, administer oaths and affirmations, take testimony and require the production of evidence. Any person who fails or refuses to obey a lawful order issued in the exercise of these powers by the council shall be guilty of a misdemeanor.</text>
     </section>
     <section>
       <num>2.18</num>
-      <heading>CITY ATTORNEY. POWERS AND DUTIES.</heading>
+      <heading>City Attorney. Powers and Duties.</heading>
       <text>There shall be a city attorney who shall be appointed by and who shall serve at the pleasure of the council. The city attorney shall be an attorney at law licensed as such under the laws of this state, a specialist in municipal law, and must have been engaged in the practice of law for three years or have served in the capacity of municipal attorney or assistant municipal attorney for at least three years prior to appointment. The city attorney shall have the power and be required to:</text>
       <para>
         <num>(a)</num>
@@ -188,7 +212,7 @@
     </section>
     <section>
       <num>2.19</num>
-      <heading>CONTROL OF LEGAL PROCEEDINGS.</heading>
+      <heading>Control of Legal Proceedings.</heading>
       <text>Acting through the city attorney, the city council shall have control of all legal business and may employ additional attorneys to take charge of any litigation or matter or to assist the city attorney therein.</text>
     </section>
   </container>
@@ -198,12 +222,12 @@
     <heading>CITY MANAGER</heading>
     <section>
       <num>3.01</num>
-      <heading>APPOINTMENT. QUALIFICATIONS. COMPENSATION.</heading>
+      <heading>Appointment. Qualifications. Compensation.</heading>
       <text>There shall be a city manager who shall be appointed by and who shall serve at the pleasure of the city council. The city manager shall be appointed solely on the basis of the city manager's executive and administrative qualifications. The city manager shall receive such compensation for services as the council shall determine.</text>
     </section>
     <section>
       <num>3.02</num>
-      <heading>REMOVAL.</heading>
+      <heading>Removal.</heading>
       <text>The council may remove the city manager from office in accordance with the following procedures:</text>
       <para>
         <num>(a)</num>
@@ -228,12 +252,12 @@
     </section>
     <section>
       <num>3.03</num>
-      <heading>ACTING CITY MANAGER.</heading>
+      <heading>Acting City Manager.</heading>
       <text>By letter filed with the city clerk the city manager shall designate a qualified city administrative officer to exercise the powers and perform the duties of the city manager during a temporary absence or disability. During such absence or disability, the council may revoke such designation at any time and appoint another officer of the city to serve until the city manager shall return.</text>
     </section>
     <section>
       <num>3.04</num>
-      <heading>POWERS AND DUTIES OF THE CITY MANAGER.</heading>
+      <heading>Powers and Duties of the City Manager.</heading>
       <text>The city manager shall be the chief administrative officer of the city. The city manager shall be responsible to the council for the administration of all city affairs placed in his/her charge by or under this Charter. The city manager shall have the following powers and duties:</text>
       <para>
         <num>(a)</num>
@@ -283,71 +307,71 @@
     <heading>GENERAL ADMINISTRATION</heading>
     <section>
       <num>4.01</num>
-      <heading>OFFICERS AND EMPLOYEES. GENERALLY.</heading>
+      <heading>Officers and Employees. Generally.</heading>
       <text>In addition to members of the city council, the mayor, city manager, and city attorney, the officers and employees of the City of San Mateo shall consist of those provided for in this Charter, and such other officers and employees as the council may provide by ordinance or resolution or as may be required by law from time to time.</text>
     </section>
     <section>
       <num>4.02</num>
-      <heading>ADMINISTRATIVE DEPARTMENTS. GENERALLY.</heading>
-      <text>The city council may provide by ordinance for the organization, conduct, creation, and operation of the departments of the city, and for their consolidation, alteration, or abolition. When the positions are not incompatible the city council may combine in one person the powers and duties of two or more officers. There shall be a separate Police Department, Fire Department, and Free Public Library, each of which shall remain as a separate department with its own department head, provided, however, that the city council may enter into agreements with other agencies for the consolidation and/or joint provision of police, library, and/or library services.</text>
+      <heading>Administrative Departments. Generally.</heading>
+      <text>The city council may provide by ordinance for the organization, conduct, creation, and operation of the departments of the city, and for their consolidation, alteration, or abolition. When the positions are not incompatible the city council may combine in one person the powers and duties of two or more officers. There shall be a separate Police Department and Free Public Library, each of which shall remain as a separate department with its own department head, provided, however, that the city council may enter into agreements with other agencies for the joint provision of police or library services.</text>
       <text>The city council may assign additional functions or duties to offices, departments or agencies.</text>
       <text>No office provided by this Charter to be filled by appointment by the city manager may be consolidated with an office to be filled by appointment by the city council.</text>
-      <text>Subject to the provisions of this Charter, the city council shall provide for the number, titles, qualifications, powers, duties, compensation, benefits, and other conditions of employment of all officers and employees. Salaries shall be fixed by resolution.</text>
+      <text>Subject to the provisions of this Charter, the city council shall provide for the number, titles, qualifications, powers, duties, compensation, benefits, and other conditions of employment of all officers and employees. Salaries shall be fixed by resolution. (Res. No. 75 § 2, eff. 12-5-16)</text>
     </section>
     <section>
       <num>4.03</num>
-      <heading>NEW DEPARTMENT.</heading>
+      <heading>New Department.</heading>
       <text>Each department created by the city council shall be headed by an officer as department head who shall be appointed by and serve at the pleasure of the city manager.</text>
     </section>
     <section>
       <num>4.04</num>
-      <heading>CITY MANAGER AS EX OFFICIO DEPARTMENT HEAD.</heading>
+      <heading>City Manager As Ex Officio Department Head.</heading>
       <text>Except as inconsistent with law or this Charter, with the consent of the city council the city manager may serve as the head of one or more of the administrative departments or may appoint one person as the head of two or more of them.</text>
     </section>
     <section>
       <num>4.05</num>
-      <heading>GENERAL DUTIES OF OFFICERS.</heading>
+      <heading>General Duties of Officers.</heading>
       <text>All officers who serve at the pleasure of the city manager shall have such duties as may be required of them by the city manager in addition to duties prescribed by law, by ordinance, or by this Charter.</text>
     </section>
     <section>
       <num>4.06</num>
-      <heading>ADMINISTRATIVE EMPLOYEES. APPOINTMENT AND REMOVAL.</heading>
+      <heading>Administrative Employees. Appointment and Removal.</heading>
       <text>Except as may otherwise be provided in this Charter or in ordinances relating to personnel approved by vote of the people, all administrative officers and employees shall be appointed by and serve at the pleasure of the city manager. With the consent of the city council the city manager may authorize any administrative officer to exercise these powers with respect to subordinates in that officer's department.</text>
     </section>
     <section>
       <num>4.07</num>
-      <heading>ADMINISTERING OATHS.</heading>
+      <heading>Administering Oaths.</heading>
       <text>Each department head and deputies shall have the power to administer oaths and affirmations in connection with any official business pertaining to the department head's department.</text>
     </section>
     <section>
       <num>4.08</num>
-      <heading>DELIVERY OF PROPERTIES TO SUCCESSORS.</heading>
+      <heading>Delivery of Properties to Successors.</heading>
       <text>All officers, boards, and commissions and members thereof shall surrender and deliver to their successors all official papers, books, documents, records, archives and other properties pertaining to their respective offices or departments in their possession or under their control.</text>
     </section>
     <section>
       <num>4.09</num>
-      <heading>CITY CLERK. POWERS AND DUTIES.</heading>
+      <heading>City Clerk. Powers and Duties.</heading>
       <text>There shall be a city clerk, who shall be appointed by and serve at the pleasure of the city manager.	He/she shall be clerk of the council and keep an accurate record of all ordinances, resolutions and motions, shall have custody of the official seal and all official records committed to his/her care, make affidavits and administer oaths without charge in matters affecting the business of the city, conduct elections, and shall perform the duties of a city clerk as provided by the general law of the state except as inconsistent with this Charter, and such other duties required by this Charter.</text>
     </section>
     <section>
       <num>4.10</num>
-      <heading>TREASURER/FISCAL DIRECTOR. POWERS AND DUTIES.</heading>
+      <heading>Treasurer/Fiscal Director. Powers and Duties.</heading>
       <text>There shall be a city treasurer/fiscal director who shall be appointed by the city manager, subject to approval by the city council, and who shall serve at the pleasure of the city manager as the head of the finance department. The treasurer/fiscal director shall have the power and shall be required to receive and safely keep all money and securities belonging to the city, and pay out the same only on written authority of the city manager or other officer or officers designated by the city manager or as otherwise authorized by law, this Charter or ordinances adopted pursuant thereto, and not otherwise. He/she shall also serve as ex officio tax and license collector for the city with the duties thereof as provided by ordinance or the general law of the state, unless the council by ordinance provides otherwise. The council may contract for the performance of the functions and duties of the treasurer/fiscal director.</text>
-      <text>Responsibility for the accounting system, accounts and controls, receipts and expenditures, and deposit and investment may be delegated by the city manager to a the fiscal director. The fiscal director shall also have the power and be required to perform such other duties as are consistent with this Charter</text>
+      <text>Responsibility for the accounting system, accounts and controls, receipts and expenditures, and deposit and investment may be delegated by the city manager to the fiscal director. The fiscal director shall also have the power and be required to perform such other duties as are consistent with this Charter.</text>
     </section>
     <section>
       <num>4.11</num>
-      <heading>LIBRARIAN. POWERS AND DUTIES.</heading>
+      <heading>Librarian. Powers and Duties.</heading>
       <text>There shall be a librarian who shall be appointed by the city manager with the approval of the library board of trustees. The librarian shall serve at the pleasure of the manager, subject, however, to the power of the library board of trustees by the affirmative vote of a majority plus one to disapprove the suspension or removal of the librarian. The librarian shall be the department head, and subject to other provisions of this Charter, shall have charge of administration of the city libraries.</text>
     </section>
     <section>
       <num>4.12</num>
-      <heading>PERSONNEL DIRECTOR. POWERS AND DUTIES.</heading>
-      <text>There shall be a personnel director who shall be appointed by and who shall serve at the pleasure of the city manager. The personnel director shall have the responsibility of attending all meetings of any board or commission established to advise or deal with personnel matters, and shall administer laws, rules and ordinances affecting employees in the classified service not specifically reserved to the city manager or other officer or board or commission, by law, ordinance or this Charter, and shall establish and keep records of all officials and employees in the classified service. The personnel director shall have had at least three years progressively responsible experience in personnel administration and such other qualifications as may be required by ordinance.</text>
+      <heading>Human Resources Director. Powers and Duties.</heading>
+      <text>There shall be a human resources director who shall be appointed by and who shall serve at the pleasure of the city manager. The human resources director shall have the responsibility of attending all meetings of any board or commission established to advise or deal with personnel matters, and shall administer laws, rules and ordinances affecting employees in the classified service not specifically reserved to the city manager or other officer or board or commission, by law, ordinance or this Charter, and shall establish and keep records of all officials and employees in the classified service. The human resources director shall have had at least three years progressively responsible experience in human resources administration and such other qualifications as may be required by ordinance. (Res. No. 66 § 3, eff. 11-7-17)</text>
     </section>
     <section>
       <num>4.13</num>
-      <heading>OATH OF OFFICE.</heading>
+      <heading>Oath of Office.</heading>
       <text>Every officer, whether appointed or elected, shall take the constitutional oath of office and subscribe thereto before entering upon the performance of his/her official duties.</text>
     </section>
   </container>
@@ -357,37 +381,37 @@
     <heading>FISCAL ADMINISTRATION</heading>
     <section>
       <num>5.01</num>
-      <heading>FISCAL YEAR.</heading>
+      <heading>Fiscal Year.</heading>
       <text>Unless changed by ordinance adopted by the affirmative vote of a majority of the council plus one, the fiscal year shall begin on the first day of July and shall end on the last day of June of the following year.</text>
     </section>
     <section>
       <num>5.02</num>
-      <heading>BUDGET.</heading>
-      <text>Each department of the city shall provide, in the form and at the time directed by the city manager, all information required by the city manager to develop a budget, including capital accounts, conforming to modern budget practices and procedures as well as specific information which may be prescribed by the council. At least thirty days before the commencement of a fiscal year, the city manager shall prepare and present to the council in such form and manner as it may prescribe budget recommendations for the next succeeding fiscal year. Following a public budget hearing, the council shall adopt by resolution a budget of proposed expenditures and appropriations necessary therefor for the ensuing year, failing which the appropriations and budget for the fiscal year shall be deemed effective in the new fiscal year until the new budget and appropriation measures are adopted.</text>
+      <heading>Budget.</heading>
+      <text>Each department of the city shall provide, in the form and at the time directed by the city manager, all information required by the city manager to develop a budget, including capital accounts, conforming to modern budget practices and procedures as well as specific information which may be prescribed by the council. At least 30 days before the commencement of a fiscal year, the city manager shall prepare and present to the council in such form and manner as it may prescribe budget recommendations for the next succeeding fiscal year. Following a public budget hearing, the council shall adopt by resolution a budget of proposed expenditures and appropriations necessary therefor for the ensuing year, failing which the appropriations and budget for the fiscal year shall be deemed effective in the new fiscal year until the new budget and appropriation measures are adopted.</text>
     </section>
     <section>
       <num>5.03</num>
-      <heading>BUDGET LIMITATION.</heading>
-      <text>The total proposed budget expenditures shall not exceed estimated revenues.</text>
+      <heading>Budget Limitation.</heading>
+      <text>The total proposed budget requirements shall not exceed total available resources. (Res. No. 66 § 3, eff. 11-7-17)</text>
     </section>
     <section>
       <num>5.04</num>
-      <heading>UNEXPENDED AND UNOBLIGATED FUNDS.</heading>
-      <text>As a separate item in the proposed budget the city manager shall set forth the estimated total of the unexpended and unobligated funds from the preceding budget and include the same in the new budget as part of the estimated revenue for the ensuing fiscal year.</text>
+      <heading>Unexpended and Unobligated Funds.</heading>
+      <text>Unexpended and unobligated funds shall be held in reserve for contingencies or other purposes as determined by council. Funds held in reserve may be appropriated by resolution of the council, including, but not limited to, the annual budget resolution. (Res. No. 66 § 3, eff. 11-7-17)</text>
     </section>
     <section>
       <num>5.05</num>
-      <heading>LIMITATION ON RESERVES FOR CONTINGENCIES.</heading>
+      <heading>Limitation on Reserves for Contingencies.</heading>
       <text>The council shall establish reserves which in its discretion are proper.</text>
     </section>
     <section>
       <num>5.06</num>
-      <heading>BUDGET NOTICES TO PUBLIC.</heading>
-      <text>On the first Monday and first Thursday in the last month of each fiscal year, the city manager shall cause to be published in the official city newspaper a notice of the time for holding a public hearing on the budget. Copies of the proposed budget shall be made available for inspection by the public in the office of the city clerk at least ten days prior to said hearing, and copies of the proposed budget shall be furnished at a reasonable charge to persons requesting same upon payment therefor.</text>
+      <heading>Budget Notices to Public.</heading>
+      <text>On the first Monday and first Thursday in the last month of each fiscal year, the city manager shall cause to be published in the official city newspaper notice of the time for holding a public hearing on the budget. Copies of the proposed budget shall be made available for inspection by the public in the office of the city clerk at least 10 days prior to said hearing, and copies of the proposed budget shall be furnished at a reasonable charge to persons requesting same upon payment therefor.</text>
     </section>
     <section>
       <num>5.07</num>
-      <heading>CAPITAL PROGRAM.</heading>
+      <heading>Capital Program.</heading>
       <para>
         <num>(a)</num>
         <text>The city manager shall annually prepare and submit to the council a five-year capital program at the same time budget recommendations for the next succeeding fiscal year are submitted to the council by the city manager.</text>
@@ -419,106 +443,106 @@
     </section>
     <section>
       <num>5.08</num>
-      <heading>CAPITAL IMPROVEMENT FUNDS.</heading>
+      <heading>Capital Improvement Funds.</heading>
       <text>The council shall create a capital improvement fund with such capital improvement accounts as may be required to finance the improvements specified in the creation of such accounts, and each such account shall remain inviolate except for the purposes for which it was created, whether general or specific unless the use of any such account for some other capital improvement purpose is authorized by the affirmative vote of at least a majority of the council plus one. When the purpose of any capital improvement account has been accomplished, the council may transfer any unexpended or unencumbered surplus remaining in such account to any other general or specific capital improvement account.</text>
     </section>
     <section>
       <num>5.09</num>
-      <heading>COUNCIL ACTION ON CAPITAL PROGRAM.</heading>
+      <heading>Council Action on Capital Program.</heading>
       <text>On or before the last day of the first month of a current fiscal year the council, after due notice and public hearing, shall by resolution, adopt the capital program, with or without amendment thereto.</text>
     </section>
     <section>
       <num>5.10</num>
-      <heading>OTHER FUNDS.</heading>
+      <heading>Other Funds.</heading>
       <text>The council shall create such other special funds as are required for proper accounting and fiscal management, or required as a condition of receiving funds from any other government or to fulfill any bonded or other contractual obligation of the city.</text>
     </section>
     <section>
       <num>5.11</num>
-      <heading>LEVY OF PROPERTY TAX. PROCEDURE FOR ASSESSMENT AND COLLECTION.</heading>
+      <heading>Levy of Property Tax. Procedure for Assessment and Collection.</heading>
       <text>To the extent that the Constitution does not limit the setting of the ad valorem property tax rate, the city council shall: Not later than the date set by state law for this purpose, the council shall by resolution fix the rate of property tax to be levied and levy the tax upon all taxable property in the city. Such rate shall be adequate to meet all obligations of the city for the fiscal year, taking into account estimated revenue from all other sources. Should the council fail to fix the rate and levy taxes within the time prescribed, the rate for the next preceding fiscal year shall thereupon be automatically effective, and a tax at such rate shall be levied upon all taxable property in the city for the current fiscal year. The procedure for the assessment and collection of taxes upon property, taxable for municipal purposes, shall be prescribed by ordinance of the city council.</text>
     </section>
     <section>
       <num>5.12</num>
-      <heading>DOLLAR LIMIT.</heading>
-      <text>The amount of the annual tax levy shall not exceed the rate of One Dollar on each One Hundred Dollars assessed valuation, except for the tax to pay contractual obligations for employees' retirement, for maintenance and improvement of the parks, squares, public grounds, and public libraries of the city and other taxes excluded now or hereafter by the general law of the state. The foregoing limitation shall not apply in the event of any great necessity or emergency as declared by vote of a majority of the council plus one, in which case the rate may be suspended by ordinance for a period of not to exceed one year and a different rate established. Other than in such cases of great necessity or emergency no increase over the dollar limit shall be made in any fiscal year unless authorized by vote of the people.</text>
+      <heading>Dollar Limit.</heading>
+      <text>Repealed. (Res. No. 66 § 2, eff. 11-7-17)</text>
     </section>
     <section>
       <num>5.13</num>
-      <heading>SUPPLEMENTAL, EMERGENCY, AND LAPSED APPROPRIATIONS.</heading>
+      <heading>Supplemental, Emergency, and Lapsed Appropriations.</heading>
       <para>
         <num>(a)</num>
-        <text>Supplemental Appropriations: If during the fiscal year the city manager certifies that there are available for appropriation revenues in excess of those estimated in the budget, the council by resolution may make supplemental appropriations for the year up to the amount of such excess. At any time during the fiscal year the city manager may transfer part or all of any unencumbered appropriation balance among programs within a department and, upon written request of the city manager, the council may by resolution transfer part or all of any unencumbered appropriation balance from one department to another; provided that no appropriation for debt service may be reduced or transferred, and no appropriation may be reduced below any amount required by law to be appropriated or by more than the amount of the unencumbered balance thereof.</text>
+        <text>Supplemental Appropriations: If during the fiscal year there are funds available for appropriation, the council by resolution may make supplemental appropriations. At any time during the fiscal year the city manager may transfer part or all of any unencumbered appropriation balance among programs within a department and, upon written request of the city manager, the council may by resolution transfer part or all of any unencumbered appropriation balance from one department to another; provided that no appropriation for debt service may be reduced or transferred, and no appropriation may be reduced below any amount required by law to be appropriated or by more than the amount of the unencumbered balance thereof.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Lapsed Appropriations: Every appropriation, except an appropriation for a capital expenditure, grant funds, or other funds not within the budgeting authority of the city council, shall lapse at the close of the fiscal year to the extent that it has not been expended or encumbered.</text>
+        <text>Lapsed Appropriations: Every appropriation, except an appropriation for a capital expenditure, grant funds, or other funds not within the budgeting authority of the city council, shall lapse at the close of the fiscal year to the extent that it has not been expended or encumbered. (Res. No. 66 § 3, eff. 11-7-17)</text>
       </para>
     </section>
     <section>
       <num>5.14</num>
-      <heading>ACCOUNTING SYSTEM.</heading>
+      <heading>Accounting System.</heading>
       <text>The city manager shall establish and maintain a system of financial procedures, accounts and controls for the city government and each of its departments, which shall conform to generally accepted principles of accounting which shall be adequate to account for all money on hand and for all income and expenditures in such detail as will provide complete and informative data concerning the financial affairs of the city and in such manner as the council may prescribe and as will be readily susceptible to audit and review.</text>
     </section>
     <section>
       <num>5.15</num>
-      <heading>RECEIPTS AND EXPENDITURES.</heading>
-      <text>All money received by the city shall be deposited in the city treasury and in institutions and investments authorized for cities by law, and no money shall be disbursed without the approval of the city manager or of another officer duly authorized by him/her. No expenditure of city funds shall be made except for the purposes and in the manner specified by an appropriation of the council; nor shall any disbursement be made unless obligations are properly supported by accounting evidence, sufficient money is available and there is an adequate unencumbered appropriation balance in the proper account classification. The city manager or other officer authorized by him/her to make disbursements shall be represented by the city attorney in all legal matters in connection therewith.</text>
+      <heading>Receipts and Expenditures.</heading>
+      <text>All money received by the city shall be deposited in the city treasury and in institutions and investments authorized for cities by law, and no money shall be disbursed without the approval of the city manager or of another officer duly authorized by him/her. No expenditure of city funds shall be made except for the purposes and in the manner specified by an appropriation of the council; nor shall any disbursement be made unless obligations are properly supported by accounting evidence and sufficient funds are available. The city manager or other officer authorized by him/her to make disbursements shall be represented by the city attorney in all legal matters in connection therewith. (Res. No. 66 § 3, eff. 11-7-17)</text>
     </section>
     <section>
       <num>5.16</num>
-      <heading>DEPOSIT AND INVESTMENT.</heading>
+      <heading>Deposit and Investment.</heading>
       <text>The city manager shall arrange for the deposit in the city treasury and in institutions and investments authorized for cities by law of all funds collected by the city, according to a schedule prescribed by him/her. After taking into account the amounts necessary to meet the current and pending requirements of the city, the city manager may arrange for the term deposit in financial institutions authorized by law and investment in securities authorized by law of any balances available for such purpose and the yield therefrom shall be credited as revenue to the general fund unless otherwise provided by law or directed by the council.</text>
     </section>
     <section>
       <num>5.17</num>
-      <heading>CASH POOL OPERATIONS. CHECK SYSTEM.</heading>
+      <heading>Cash Pool Operations. Check System.</heading>
       <text>The council may by ordinance provide for financing of municipal obligations by cash pool operations, and for utilization of a check system, or other system equivalent or comparable thereto, including credit and debit cards, rather than the warrant system. Except for those funds restricted by bond indentures, state or federal law, other sections of this Charter or specific conditions of the legislation creating them, temporary transfers between funds are permitted.</text>
       <text>The council shall from time to time by ordinance provide for methods for issuance of checks, drafts and/or other orders for payment of money in the name of the city, and for authorized signatures to negotiable instruments drawn in the name of the city, and may authorize facsimile as well as actual signatures to be valid and binding on the city, and shall prescribe such system as it shall deem advisable to protect against unauthorized issuance of checks, drafts or other orders for payment of money in the name of the city.</text>
     </section>
     <section>
       <num>5.18</num>
-      <heading>PAYMENT OF SALARIES.</heading>
+      <heading>Payment of Salaries.</heading>
       <text>All demands for salaries which are fixed by law, resolution, or this Charter, shall be allowed and paid regularly without the necessity of any specific approval for each payment.</text>
     </section>
     <section>
       <num>5.19</num>
-      <heading>SURPLUS BOND MONEY.</heading>
+      <heading>Surplus Bond Money.</heading>
       <text>All money derived from the sale of bonds, including premiums and accrued interest, shall be applied only to the purposes for which the bonds were issued. After such purposes have been fully completed and paid for, any remaining surplus shall be transferred to the fund established for meeting the interest and redemption of such bonds.</text>
     </section>
     <section>
       <num>5.20</num>
-      <heading>PURCHASES AND CONTRACTS.</heading>
+      <heading>Purchases and Contracts.</heading>
       <text>The city manager or an officer authorized by him/her shall purchase or contract for equipment, materials, supplies and public works required by the city in the manner prescribed by ordinance.</text>
     </section>
     <section>
       <num>5.21</num>
-      <heading>BIDS AND AWARDS.</heading>
+      <heading>Bids and Awards.</heading>
       <text>The council shall establish by ordinance the conditions and procedures for any purchase or contract, and establish advertising and bidding requirements, and may provide that all bids may be rejected. The ordinance may provide that under specified conditions which the awarding authority must find and determine to exist in each applicable instance, advertising and bidding may be dispensed with, except the ordinance may provide that where the expenditure required for a purchase or contract does not exceed a sum fixed by the ordinance advertising and bidding shall be dispensed with unless the council shall for a particular purchase or contract order advertising and bidding.</text>
     </section>
     <section>
       <num>5.22</num>
-      <heading>OFFICIAL BONDS.</heading>
+      <heading>Official Bonds.</heading>
       <text>The council shall determine which officers and employees shall give bonds for the faithful performance of their official duties, and fix the amount of said bonds and provide for payment of the premium of such bonds by the city. Such officers and employees, before entering upon their official duties, shall execute a bond to the city in the penal sum required, which bond shall include any other offices of which they may be ex officio incumbent. Said bonds shall be approved by the council and filed with the city clerk.</text>
     </section>
     <section>
       <num>5.23</num>
-      <heading>REVENUE BONDS.</heading>
+      <heading>Revenue Bonds.</heading>
       <text>The council may issue revenue bonds for any lawful purpose in such manner and upon such terms and conditions as it may fix and establish by the provisions of a procedural ordinance.</text>
     </section>
     <section>
       <num>5.24</num>
-      <heading>PUBLIC IMPROVEMENTS AND STREET WORK.</heading>
+      <heading>Public Improvements and Street Work.</heading>
       <text>All public improvements, including improving, widening or opening of streets or highways, may be done under and in pursuance of the general law of the state or procedural ordinances adopted by the council or the electors, and the whole or any portion of the cost thereof paid by the city or assessed on the property benefitted; provided that, except in a case of actual emergency the nature and existence of which is found and determined by resolution adopted by unanimous vote of the council, no public improvements to be financed by a bonded indebtedness of a city-wide district to be created under ordinances heretofore or hereafter enacted shall be made unless the indebtedness is authorized by vote of the people as required under state law for issuance of general obligation municipal bonds.</text>
     </section>
     <section>
       <num>5.25</num>
-      <heading>FRANCHISES.</heading>
+      <heading>Franchises.</heading>
       <text>Every franchise, contract, or privilege for a public utility to construct, maintain, or operate any railroad or other means of transportation in or over any street or highway, or to lay pipes or conduits, or erect poles or wires or other structures in or across any street or highway for the transmission of gas, electricity, or other commodity or utility, or for the use of public property or places now or hereafter belonging to the city, shall be granted by the city council pursuant to ordinance or the general laws of the State upon such terms and conditions as the city council deems proper.</text>
       <text>No franchise, privilege, or contract shall be construed to impair or affect the right of the city to acquire the property of the grantee either by purchase or through the exercise of the right of eminent domain.</text>
     </section>
     <section>
       <num>5.26</num>
-      <heading>AUDITING.</heading>
+      <heading>Auditing.</heading>
       <text>The council shall employ, by majority vote, a certified public accountant, or a firm of certified public accountants as independent auditor to conduct an annual audit and examination of the fiscal administration of the city. Copies of the annual audit and report shall, within a reasonable time after receipt thereof by the council, be furnished at a reasonable charge to persons requesting same upon payment therefor.</text>
       <text>Unless the council shall by ordinance make other provision for the performance of the following functions, the independent auditor shall by contract also be required:</text>
       <para>
@@ -542,7 +566,7 @@
     <heading>BOARDS AND COMMISSIONS</heading>
     <section>
       <num>6.01</num>
-      <heading>LIBRARY BOARD OF TRUSTEES. POWERS AND DUTIES.</heading>
+      <heading>Library Board of Trustees. Powers and Duties.</heading>
       <text>There shall be a library board of trustees consisting of five members which shall have the power and duty to:</text>
       <para>
         <num>(a)</num>
@@ -581,24 +605,24 @@
     </section>
     <section>
       <num>6.02</num>
-      <heading>LIBRARY FUND.</heading>
+      <heading>Library Fund.</heading>
       <text>At such times that the council sets the tax rate, the council shall provide for maintaining the libraries and the operation thereof, and apportion the revenue thus provided to a fund designated in the budget as the library fund. Such tax shall be in addition to other taxes permitted in the municipality, but shall not exceed Thirty Cents per One Hundred Dollars assessed valuation. Payments from the library fund shall be made for all claims properly chargeable against the same.</text>
     </section>
     <section>
       <num>6.03</num>
-      <heading>LIBRARY BOARD OF TRUSTEES. APPOINTMENT, REMOVAL, TERMS.</heading>
+      <heading>Library Board of Trustees. Appointment, Removal, Terms.</heading>
       <text>Members of the library board of trustees shall be appointed in the same manner and for the same terms, and subject to the same limitations, as in this Charter provided for city commissions in general, except that a member of the library board of trustees shall be subject to removal from office by action of the council only after being furnished on demand a written statement of the cause and being afforded an opportunity for a public hearing.</text>
       <text>The incumbent members of the library board of trustees at the time this Charter takes effect, and any successor by appointment to fill any vacancy then existing, shall constitute the first library board of trustees under this Charter.</text>
     </section>
     <section>
       <num>6.04</num>
-      <heading>PLANNING COMMISSION. OTHER BOARDS AND COMMISSIONS.</heading>
+      <heading>Planning Commission. Other Boards and Commissions.</heading>
       <text>In addition to the library board of trustees there shall be a planning commission which shall have the powers and duties from time to time provided by law or by ordinance.</text>
       <text>There shall also be such other boards and commissions as may from time to time be established by ordinance adopted by the council or approved by the people. Except as may otherwise be provided by this Charter, or ordinance of the council or ordinance approved by the people, all such other boards and commissions now or hereafter established shall be for advisory purposes only to the council, the city manager, or to departments within the city. A board or commission shall be considered to be advisory even if it is authorized to take final action subject to appeal to the city council.</text>
     </section>
     <section>
       <num>6.05</num>
-      <heading>COMPOSITION. QUALIFICATIONS. TERMS AND LIMITS OF TERMS.</heading>
+      <heading>Composition. Qualifications. Terms and Limits of Terms.</heading>
       <text>The members of all boards and commissions created by ordinance or by this Charter shall be appointed by the council, and shall at the time of appointment and while serving possess the same qualifications as required by this Charter for election or appointment to the council.</text>
       <text>The number of members of such a board or commission shall not exceed the authorized number of members of the city council unless the ordinance establishing such additional number be approved by vote of the people or by unanimous vote of the council.</text>
       <text>The members of such boards and commissions shall be appointed for terms of four years, except that if the ordinance provides, initial terms may be pared by lot as necessary so that each year one or more terms will expire.</text>
@@ -607,38 +631,38 @@
     </section>
     <section>
       <num>6.06</num>
-      <heading>PAYMENT OF EXPENSES. PROHIBITION OF COMPENSATION.</heading>
+      <heading>Payment of Expenses. Prohibition of Compensation.</heading>
       <text>The members of such boards and commissions shall receive no compensation for their services as such, but may receive reimbursement for their actual and necessary expenses authorized by the city council and incurred in performance of their duties of office upon presentation of verified claims therefor on uniform forms to be prescribed by resolution of the city council.</text>
     </section>
     <section>
       <num>6.07</num>
-      <heading>APPROPRIATIONS FOR BOARDS AND COMMISSIONS.</heading>
+      <heading>Appropriations for Boards and Commissions.</heading>
       <text>The city council shall include in its annual budget such appropriations of funds as in its opinion shall be sufficient for the efficient and proper functioning of such boards and commissions.</text>
     </section>
     <section>
       <num>6.08</num>
-      <heading>REMOVAL FROM OFFICE. VACANCIES.</heading>
+      <heading>Removal from Office. Vacancies.</heading>
       <text>Members of such boards and commissions shall serve at the pleasure of the city council, and any member may be removed by the vote of a majority of the council plus one. If a member of a board or commission absents himself from three consecutive meetings unless by permission of the board or commission expressed in its minutes, or is convicted of a crime involving moral turpitude, or loses the qualifications required for appointment in the first instance, his office shall automatically become vacant and shall be so declared by the city council.</text>
       <text>Any vacancies shall be filled by appointment by the city council for the remainder of the unexpired term.</text>
     </section>
     <section>
       <num>6.09</num>
-      <heading>SPECIAL COMMITTEES. LIMITATIONS.</heading>
+      <heading>Special Committees. Limitations.</heading>
       <text>The city council may from time to time establish citizens or taxpayers' committees for specific advisory purposes only, and for periods not exceeding two years. Such a committee may be renewed or extended by action of the council anew for a period not exceeding the original term of the committee. The city council may include in its annual budget, or in interim appropriations, such funds as in its opinion shall be sufficient to accomplish the purpose of such committees.</text>
     </section>
     <section>
       <num>6.10</num>
-      <heading>EX OFFICIO MEMBERS.</heading>
+      <heading>Ex Officio Members.</heading>
       <text>The city manager and the city attorney, or their representatives, and a representative from the city council, shall be ex officio members of all boards, commissions, and committees. The council may in the ordinance establishing any advisory board, commission, or committee provide for additional ex officio members who shall be appointed by the council for such terms as may be prescribed but who need not possess the qualifications required of regular members. Ex officio members shall have the same rights as official members including the right to attend meetings and participate in discussions, but shall not be entitled to vote.</text>
     </section>
     <section>
       <num>6.11</num>
-      <heading>POWER OF SUBPOENA. LIMITATIONS.</heading>
+      <heading>Power of Subpoena. Limitations.</heading>
       <text>No board, commission, or committee shall have the power of subpoena to compel attendance of witnesses, to examine them under oath, to compel production of evidence before it and to administer oaths and affirmations, unless such power shall be granted by ordinance approved by a majority of the city council plus one. The power of subpoena being so granted, the same may be exercised by issuance of subpoena by the city clerk upon application in writing by the city attorney, by the chairperson of the board, commission, or committee, or by a majority of the board, commission, or committee. Disobedience of a lawful order issued in exercise of such powers shall be a misdemeanor.</text>
     </section>
     <section>
       <num>6.12</num>
-      <heading>DECLARATION OF POLICY. CITIZEN PARTICIPATION.</heading>
+      <heading>Declaration of Policy. Citizen Participation.</heading>
       <text>It is and shall be the policy of the City of San Mateo to foster a climate of human relations favorable to the full acceptance and participation of all citizens in the community in the economic, educational, political and cultural aspects of the community and opportunity to share in the benefits thereof without regard to race, religion, gender, national origin, or other factors which are prohibited from discrimination in appointments to local government boards, commissions, and committees by federal or state law.</text>
       <text>To that end, and to secure for the city the benefit of the talents, skills and counsel of public-spirited and dedicated citizens in all areas of local government, it is the policy of the city that advisory boards, commissions and committees be established from time to time as the council deems appropriate in furtherance of community progress and harmony, and the solution of community problems.</text>
     </section>
@@ -649,22 +673,22 @@
     <heading>ELECTIONS</heading>
     <section>
       <num>7.01</num>
-      <heading>GENERAL MUNICIPAL ELECTIONS.</heading>
-      <text>General municipal elections shall be held in the city on the first Tuesday after the first Monday in November of each odd-numbered year, in the manner provided by state law governing elections in general law cities; provided, that in the event any other election shall be held in the city in the month of November of the same year, the council may consolidate the general municipal election with such other election whenever practicable, and shall in any event call and schedule the general municipal election for the same date as any such other election.</text>
+      <heading>General Municipal Elections.</heading>
+      <text>General municipal elections shall be held in the city on the first Tuesday after the first Monday in November of each even-numbered year, in the manner provided by state law governing elections in general law cities; provided, that in the event any other election shall be held in the city in the month of November of the same year, the council may consolidate the general municipal election with such other election whenever practicable, and shall in any event call and schedule the general municipal election for the same date as any such other election. (Res. No. 65 § 3, eff. 11-7-17)</text>
     </section>
     <section>
       <num>7.02</num>
-      <heading>SPECIAL MUNICIPAL ELECTIONS.</heading>
+      <heading>Special Municipal Elections.</heading>
       <text>Special municipal elections may be called and held in accordance with and in the manner provided by state law governing elections in general law cities.</text>
     </section>
     <section>
       <num>7.03</num>
-      <heading>INITIATIVE, REFERENDUM AND RECALL.</heading>
+      <heading>Initiative, Referendum and Recall.</heading>
       <text>The people of the city reserve to themselves the powers of initiative, referendum, and the recall of elected officials, to be exercised in accordance with and in the manner provided by state law governing general law cities.</text>
     </section>
     <section>
       <num>7.04</num>
-      <heading>VERIFIED STATEMENT OF CANDIDATES.</heading>
+      <heading>Verified Statement of Candidates.</heading>
       <para>
         <num>(a)</num>
         <text>No earlier than the first day, and no later than the last day, specified or provided under state law for the filing of nomination papers by any candidate for elective municipal office in general law cities, as such law shall be in effect on the first day of January next preceding the municipal election, each candidate for an elective office shall file with the city clerk a statement containing the following information in the order herein set forth:</text>
@@ -706,11 +730,11 @@
         </para>
         <para>
           <num>10.</num>
-          <text>The names of not more than fifteen residents who know something of his/her character and abilities;</text>
+          <text>The names of not more than 15 residents who know something of his/her character and abilities;</text>
         </para>
         <para>
           <num>11.</num>
-          <text>Any other information which, in his/her opinion, would enable the electors to determine his qualifications for said office.</text>
+          <text>Any other information which, in his/her opinion, would enable the electors to determine his/her qualifications for said office.</text>
         </para>
       </para>
       <para>
@@ -719,7 +743,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The city clerk shall cause the publication of the statements of each candidate so filed, with the candidate's photo engraving annexed thereto, in the official city newspaper by two insertions therein prior to the day of election. No response to any one of the various requirements above-mentioned shall exceed one hundred words in length.</text>
+        <text>The city clerk shall cause the publication of the statements of each candidate so filed, with the candidate's photo engraving annexed thereto, in the official city newspaper by two insertions therein prior to the day of election. No response to any one of the various requirements above-mentioned shall exceed 100 words in length.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -733,12 +757,12 @@
     <heading>PARKS</heading>
     <section>
       <num>8.01</num>
-      <heading>DEDICATION FOR PARK PURPOSES.</heading>
+      <heading>Dedication for Park Purposes.</heading>
       <text>Lands owned by the City which are more than four acres in size and which are dedicated by ordinance of the City Council for park, playground, recreation, or open space purposes shall not thereafter be sold or otherwise disposed of, nor converted to different purposes, except pursuant to majority vote of the electorate. The City Council may lease such dedicated lands for park, playground, recreation, or open space purposes. "Majority vote of the electorate" shall mean majority of the persons voting on the measure.</text>
     </section>
     <section>
       <num>8.02</num>
-      <heading>CONVEYANCE OF MINOR PORTION.</heading>
+      <heading>Conveyance of Minor Portion.</heading>
       <text>Without an election, the City Council may convey a minor portion of such dedicated lands after (a) notice and public hearing, (b) determination that the conveyance is in the public interest, and (c) adoption of a resolution authorizing the conveyance.</text>
     </section>
   </container>
@@ -748,12 +772,12 @@
     <heading>MISCELLANEOUS</heading>
     <section>
       <num>9.01</num>
-      <heading>PERSONAL FINANCIAL INTEREST.</heading>
+      <heading>Personal Financial Interest.</heading>
       <text>City officers and employees shall comply with the general law regarding disclosure of and disqualification on account of personal financial interests.</text>
     </section>
     <section>
       <num>9.02</num>
-      <heading>PROHIBITIONS.</heading>
+      <heading>Prohibitions.</heading>
       <para>
         <num>(a)</num>
         <text>Activities Prohibited:</text>
@@ -785,39 +809,38 @@
     </section>
     <section>
       <num>9.03</num>
-      <heading>NEPOTISM.</heading>
+      <heading>Nepotism.</heading>
       <text>The city council shall not appoint to a salaried position under the city government, or to any board or commission, any person who is a relative by blood or marriage within the third degree of any one or more of the members of such city council, nor shall any department head or other officer having appointive power appoint any relative of his/her or of one or more of the members of such city council within such degree to any such position.</text>
     </section>
     <section>
       <num>9.04</num>
-      <heading>DUAL OFFICES.</heading>
+      <heading>Dual Offices.</heading>
       <text>Any elective officer of the city who shall accept or retain any other incompatible elective public office shall be deemed thereby to have vacated his/her office under the city government.</text>
     </section>
     <section>
       <num>9.05</num>
-      <heading>VIOLATIONS OF CHARTER AND ORDINANCES.</heading>
+      <heading>Violations of Charter and Ordinances.</heading>
       <text>The violation of any express provision of this Charter shall be deemed to be a misdemeanor as well as any violation specifically declared herein to be a misdemeanor. Such violations shall be punishable by fine not exceeding One Thousand Dollars or by imprisonment for not exceeding six months, or by both such fine and imprisonment. The violation of an ordinance shall be punishable as in the ordinance. The city council by ordinance may establish civil penalty provisions.</text>
     </section>
     <section>
       <num>9.06</num>
-      <heading>MUNICIPAL AFFAIRS.</heading>
+      <heading>Municipal Affairs.</heading>
       <text>The city may adopt and enforce all ordinances, resolutions, and regulations in respect to municipal affairs, subject only to restrictions and limitations provided in this Charter and the Constitution of the State of California. It shall also have the power to exercise any and all rights, powers, and privileges, including proprietary powers, heretofore or hereafter established, granted, or prescribed by any law of the State, by this Charter, or by any other lawful authority, or which a municipal corporation might or could exercise under the Constitution of the State of California, including all powers not in conflict with the provisions of this Charter now or hereafter granted to cities organized under the general law of the State of California. The enumeration in this Charter of any power shall not be held to be exclusive of or a limitation upon this general grant of power. To the extent permissible by law, general laws of the State, even in the absence of council action, shall not be of any force or effect insofar as they attempt to regulate municipal affairs.</text>
     </section>
     <section>
       <num>9.07</num>
-      <heading>OFFICIAL CITY NEWSPAPER.</heading>
+      <heading>Official City Newspaper.</heading>
       <text>The council periodically shall advertise for or call for the submission of sealed proposals or bids from all newspapers adjudicated to be newspapers of general circulation within the city, or if none, then from newspapers adjudicated to be newspapers of general circulation with in the County of San Mateo, for the publication of all ordinances and other legal notices required to be published. The council may designate the requirements for award of contract. The contract therefor shall be awarded to the lowest responsible bidder, provided the rates for such publication shall not exceed the customary rate charged for publishing legal notices of a private character. The newspaper to whom such contract is awarded shall be known and designated as the official city newspaper.</text>
       <text>In the event no such newspaper will contract with the city as herein provided, or if the official city newspaper is not published, then notice of the matters required to be published in the official city newspaper shall be given by posting copies thereof at three or more public places in the city as designated by the council, and such posting shall be equivalent to legal publication.</text>
     </section>
     <section>
       <num>9.08</num>
-      <heading>DEFINITIONS.</heading>
-      <text>Unless the provision or the context requires otherwise, as used in this Charter: "shall" is mandatory and "may" is permissive; "law", "state law", "general law", and similar terms, mean the law as it now exists or may hereafter be enacted applicable to general law cities in this state; "state" means the State of California; "county"</text>
-      <text>means the County of San Mateo; "city" means the City of San Mateo; nouns or pronouns includes the masculine, feminine, and the neuter, and the singular includes the plural.</text>
+      <heading>Definitions.</heading>
+      <text>Unless the provision or the context requires otherwise, as used in this Charter: "shall" is mandatory and "may" is permissive; "law", "state law", "general law", and similar terms, mean the law as it now exists or may hereafter be enacted applicable to general law cities in this state; "state" means the State of California; "county" means the County of San Mateo; "city" means the City of San Mateo; nouns or pronouns include<s>s</s> the masculine, feminine, and the neuter, and the singular includes the plural.</text>
     </section>
     <section>
       <num>9.09</num>
-      <heading>SEVERABILITY.</heading>
+      <heading>Severability.</heading>
       <text>If any section or subsection of this Charter, or the application thereof, is held invalid, that invalidity shall not affect the validity and enforceability of any other section or subsection and this Charter shall continue in full force and effect as if the invalid section or subsection were not a part of the Charter.</text>
     </section>
   </container>
@@ -827,22 +850,22 @@
     <heading>TRANSITIONAL PROVISIONS</heading>
     <section>
       <num>10.01</num>
-      <heading>CONTINUING OFFICERS AND EMPLOYEES.</heading>
+      <heading>Continuing Officers and Employees.</heading>
       <text>Until the election or appointment and induction into office of the officers and employees in this Charter provided for, the present officers and employees shall without interruption, continue to perform the duties of their respective offices and employments, and until otherwise provided by ordinance or resolution adopted pursuant to this Charter.</text>
     </section>
     <section>
       <num>10.02</num>
-      <heading>CONTINUING ORDINANCES IN FORCE.</heading>
+      <heading>Continuing Ordinances in Force.</heading>
       <text>All lawful ordinances, resolutions, and regulations in force at the time this Charter takes effect, and not inconsistent with its provisions, are hereby continued in force so far as not inconsistent until the same shall have been duly amended, repealed, or superseded. To the extent the same are inconsistent or interfere with the effective operation of this Charter or of ordinances or resolutions adopted pursuant thereto they are repealed as of the effective date of this Charter.</text>
     </section>
     <section>
       <num>10.03</num>
-      <heading>CONTINUING CONTRACTS IN FORCE.</heading>
+      <heading>Continuing Contracts in Force.</heading>
       <text>All vested rights of the city shall continue and shall not in any manner be affected by the adoption of this Charter; nor shall any right, liability, pending suit or prosecution, either in behalf of or against the city, be affected by the adoption of this Charter. All contracts entered into by the city prior to the taking effect of this Charter shall continue in full force and effect. All public work begun prior to the taking effect of this Charter shall be continued and perfected hereunder.</text>
     </section>
     <section>
       <num>10.04</num>
-      <heading>WHEN CHARTER EFFECTIVE. TEMPORARY ORDINANCES.</heading>
+      <heading>When Charter Effective. Temporary Ordinances.</heading>
       <text>This Charter shall go into effect for all purposes at the first regular meeting of the city council following approval of this Charter by the legislature. At that meeting or at any meeting held within sixty days thereafter the council may adopt temporary ordinances, plainly labeled as such, to deal with cases of urgent need for prompt action in connection with transition of government in which delay incident to appropriate ordinance procedures would probably cause serious hardship or impair effective city government. Such a temporary ordinance may be adopted with or without amendment at the meeting at which it is introduced and may be made effective immediately, and shall not be subject to the referendum, but it shall stand repealed on the ninety-first day following its adoption and shall not be renewed or otherwise extended as a temporary or emergency ordinance. It shall be published in the same manner as an emergency ordinance.</text>
     </section>
   </container>
