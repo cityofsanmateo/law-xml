@@ -1614,61 +1614,61 @@
       <para>
         <num>(b)</num>
         <text>If the measured ambient level for any area is higher than the standard set in Table <cite path="7.30.040">7.30.040</cite>, then the ambient shall be the base noise level standard for purposes of subsection (a)(1) of this section. In such cases, the noise levels for purposes of subsections (a)(2) through (a)(5) of this section shall be increased in five dB increments above the ambient.</text>
+        <text>
+          <table>
+            <caption>
+              <p>
+                <strong>Table 7.30.040</strong>
+              </p>
+              <p>
+                <strong>NOISE LEVEL STANDARDS*</strong>
+              </p>
+            </caption>
+            <thead>
+              <tr>
+                <th>Noise Zone</th>
+                <th>Time Period</th>
+                <th>Noise Level (dB)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="2">Noise Zone 1</td>
+                <td>10 p.m.—7 a.m.</td>
+                <td>50</td>
+              </tr>
+              <tr>
+                <td>7 a.m.—10 p.m.</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td rowspan="2">Noise Zone 2</td>
+                <td>10 p.m.—7 a.m.</td>
+                <td>55</td>
+              </tr>
+              <tr>
+                <td>7 a.m.—10 p.m.</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td rowspan="2">Noise Zone 3</td>
+                <td>10 p.m.—7 a.m.</td>
+                <td>60</td>
+              </tr>
+              <tr>
+                <td>7 a.m.—10 p.m.</td>
+                <td>65</td>
+              </tr>
+              <tr>
+                <td>Noise Zone 4</td>
+                <td>Anytime</td>
+                <td>70</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>* Source: Adapted from "The Model Community Noise Control Ordinance," Office of Noise Control, California Department of Health.</text>
       </para>
-      <text>
-        <table>
-          <caption>
-            <p>
-              <strong>Table 7.30.040</strong>
-            </p>
-            <p>
-              <strong>NOISE LEVEL STANDARDS*</strong>
-            </p>
-          </caption>
-          <thead>
-            <tr>
-              <th>Noise Zone</th>
-              <th>Time Period</th>
-              <th>Noise Level (dB)</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td rowspan="2">Noise Zone 1</td>
-              <td>10 p.m.—7 a.m.</td>
-              <td>50</td>
-            </tr>
-            <tr>
-              <td>7 a.m.—10 p.m.</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td rowspan="2">Noise Zone 2</td>
-              <td>10 p.m.—7 a.m.</td>
-              <td>55</td>
-            </tr>
-            <tr>
-              <td>7 a.m.—10 p.m.</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td rowspan="2">Noise Zone 3</td>
-              <td>10 p.m.—7 a.m.</td>
-              <td>60</td>
-            </tr>
-            <tr>
-              <td>7 a.m.—10 p.m.</td>
-              <td>65</td>
-            </tr>
-            <tr>
-              <td>Noise Zone 4</td>
-              <td>Anytime</td>
-              <td>70</td>
-            </tr>
-          </tbody>
-        </table>
-      </text>
-      <text>* Source: Adapted from "The Model Community Noise Control Ordinance," Office of Noise Control, California Department of Health.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-16" path="§1" type="History"/>
       </annotations>
@@ -2141,8 +2141,8 @@
       <aftertext>"Deconstruction" means the soft demolition of any facility, Structure, Hardscape Improvement or building through a planned dismantling and salvaging of reusable materials and parts.</aftertext>
       <aftertext>"Demolition" means, for the purposes of the recycling and diversion requirements in <cite path="7.33">this chapter</cite>, the intentional removal or partial removal of an existing building.</aftertext>
       <aftertext>"Designated Recyclable and Reusable Materials" means that portion of C&amp;D Debris that includes the following:</aftertext>
-      <para proof="done">
-        <num>(a)</num>
+      <para>
+        <num proof="done">(a)</num>
         <text>Masonry building materials including all products generally used in construction including, but not limited to asphalt, concrete, rock, stone and brick;</text>
       </para>
       <para>
@@ -2404,8 +2404,8 @@
       <aftertext>"Interference" means a discharge which, alone or in conjunction with a discharge or discharges from other sources, inhibits or disrupts the sanitary sewer system, wastewater treatment system processes or operations, or sludge processes, use or disposal, and therefore, causes a violation of the POTW's National Pollutant Discharge Elimination System (NPDES) permit or prevents sewage sludge use or disposal in compliance with any of the following statutory or regulatory provisions or permits issued thereunder, or any more stringent State or local regulations: Section 405 of the Clean Water Act; the Solid Waste Disposal Act (SWDA); any State regulations contained in any State sludge management plan prepared pursuant to SWDA Subtitle D; the Clean Air Act (CAA); the Toxic Substances Control Act (TSCA); and the Marine Protection, Research and Sanctuaries Act.</aftertext>
       <aftertext>"New source" means any building, structure, facility, or installation from which there is, or may be, a discharge of pollutants, the construction of which commenced after the effective date of <cite path="7.38">this chapter</cite>, or after publication of proposed pretreatment standards under Section 307(c) of the Clean Water Act which will be applicable to such source if such standards are promulgated, provided certain location and construction criteria are met.</aftertext>
       <aftertext>"Nuisance" means anything that meets all of the following requirements:</aftertext>
-      <para proof="done">
-        <num>(1)</num>
+      <para>
+        <num proof="done">(1)</num>
         <text>Is injurious to human health or the environment, or is indecent or offensive to the senses, or an obstruction to the free use of property, so as to interfere with the comfortable enjoyment of life and property;</text>
       </para>
       <para>
@@ -2430,8 +2430,8 @@
       <aftertext>"Publicly owned treatment works" or "POTW." A treatment works as defined by Section 212 of the Clean Water Act (33 U.S.C. 1292), which, in this instance, is the City of San Mateo Wastewater Treatment Plant, and all publicly owned devices or systems used in the conveyance, storage, treatment, reclamation, and disposal of wastewater.</aftertext>
       <aftertext>"Sewage" or "wastewater" means water carried domestic and/or industrial wastes from residences and commercial, industrial, and institutional establishments, together with such groundwater, surface water, and stormwater as may enter the sanitary sewer system.</aftertext>
       <aftertext>"Sewer" or "sanitary sewer" means sewers, lift stations, and other appurtenances designed for conveyance of sewage, and further defined as follows:</aftertext>
-      <para proof="done">
-        <num>(1)</num>
+      <para>
+        <num proof="done">(1)</num>
         <text>"Building sewer" means a sewer conveying wastewater from the premises of a user to a public sewer;</text>
       </para>
       <para>
@@ -2448,8 +2448,8 @@
       </para>
       <aftertext>"Significant industrial user" means: (1) a categorical industrial user, as defined in the Federal Pretreatment Regulations; (2) discharges an average of 25,000 gallons per day (gpd) or more of process wastewater; (3) contributes a process waste stream which makes up five percent or more of the average dry weather hydraulic or organic capacity of the WWTP; or (4) is designated as such by the Director on the basis that the user has a reasonable potential to adversely affect the operation of the WWTP or agency sanitary sewer systems or to violate any pretreatment standard or requirement.</aftertext>
       <aftertext>"Significant noncompliance" for the purpose of complying with public participation provisions in the Federal Pretreatment Regulations and <cite path="7.38">this chapter</cite>, means:</aftertext>
-      <para proof="done">
-        <num>(1)</num>
+      <para>
+        <num proof="done">(1)</num>
         <text>Chronic violations of wastewater discharge limits, defined here as those in which 66% or more of all of the measurements taken during a six-month period exceed (by any magnitude) a numeric pretreatment standard or requirement;</text>
       </para>
       <para>
