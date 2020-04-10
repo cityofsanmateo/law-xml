@@ -101,12 +101,12 @@
           <para>
             <num>(b)</num>
             <text>The most commonly used definitions are set forth below:</text>
+            <include>
+              <text><strong>Electric Vehicle (EV). </strong>An automotive-type vehicle for on-road use, such as passenger automobiles, buses, trucks, vans, neighborhood electric vehicles, electric motorcycles, and the like, primarily powered by an electric motor that draws current from a rechargeable storage battery, fuel cell, photovoltaic array, or other source of electric current. Plug-in hybrid electric vehicles (PHEV) are considered electric vehicles.  For purposes of the <em>California Electrical Code</em>, off-road, self-propelled electric vehicles, such as industrial trucks, hoists, lifts, transports, golf carts, airline ground support equipment, tractors, boats, and the like, are not included.</text>
+              <text><strong>Electric Vehicle Charging Space (EV Space)</strong>. A space intended for future installation of EV charging equipment and charging of electric vehicles.</text>
+              <text><strong>Electric vehicle supply equipment (EVSE).</strong> The conductors, including the undergrounded, grounded, and equipment grounding conductors and the electric vehicles connectors, attachment plugs, and all other fittings, devices, power outlets, or apparatus installed specifically for the purpose of transferring energy between premises wiring and the electric vehicle.</text>
+            </include>
           </para>
-          <include>
-            <text><strong>Electric Vehicle (EV). </strong>An automotive-type vehicle for on-road use, such as passenger automobiles, buses, trucks, vans, neighborhood electric vehicles, electric motorcycles, and the like, primarily powered by an electric motor that draws current from a rechargeable storage battery, fuel cell, photovoltaic array, or other source of electric current. Plug-in hybrid electric vehicles (PHEV) are considered electric vehicles.  For purposes of the <em>California Electrical Code</em>, off-road, self-propelled electric vehicles, such as industrial trucks, hoists, lifts, transports, golf carts, airline ground support equipment, tractors, boats, and the like, are not included.</text>
-            <text><strong>Electric Vehicle Charging Space (EV Space)</strong>. A space intended for future installation of EV charging equipment and charging of electric vehicles.</text>
-            <text><strong>Electric vehicle supply equipment (EVSE).</strong> The conductors, including the undergrounded, grounded, and equipment grounding conductors and the electric vehicles connectors, attachment plugs, and all other fittings, devices, power outlets, or apparatus installed specifically for the purpose of transferring energy between premises wiring and the electric vehicle.</text>
-          </include>
           <para>
             <num>(c)</num>
             <text>Chapter 2 "Definitions," Section 202 of the state Green Building Code is amended to include the following definition:</text>

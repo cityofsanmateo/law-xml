@@ -52,10 +52,10 @@
         <num>(5)</num>
         <text>Page numbers shall be at the top of all pages starting on page 2, Calibri Italic, 11 point, .50 margin from the top, left &amp; right margins at .75 as follows:</text>
         <include>
-          <text proof="needed">
+          <text>
             <em>Ordinance No. YYYY-#</em>
           </text>
-          <text proof="needed">
+          <text>
             <em>
               <u>Title of Ordinance Page # of #</u>
             </em>
@@ -194,7 +194,7 @@
           <num>(E)</num>
           <text>consecutive upper-case Roman numerals with left indent of 2".</text>
         </para>
-        <aftertext proof="needed">Where each number is of the format "(&lt;para num&gt;)" with a trailing space.</aftertext>
+        <aftertext>Where each number is of the format "(&lt;para num&gt;)" with a trailing space.</aftertext>
       </para>
       <para>
         <num>(3)</num>
@@ -300,7 +300,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Statutes of the State or Federal government may be referred to when, and only when, they are not to be codified.  For example, the City's tidelands trust grant is in a statute that will not be codified; however, laws regarding State redevelopment will almost always be codified in either the <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite> or the <cite doc="Cal. Health &amp; Safety Code" proof="needed">Health and Safety Code</cite>.</text>
+        <text>Statutes of the State or Federal government may be referred to when, and only when, they are not to be codified.  For example, the City's tidelands trust grant is in a statute that will not be codified; however, laws regarding State redevelopment will almost always be codified in either the <cite doc="Cal. Gov't Code">Government Code</cite> or the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>.</text>
       </para>
     </para>
   </section>
