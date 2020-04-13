@@ -65,8 +65,8 @@
               <table>
                 <tr>
                   <th>Use</th>
-                  <th>Employee/Resident</th>
-                  <th>Visitor/Customer</th>
+                  <th>Employee/&#8203;Resident</th>
+                  <th>Visitor/&#8203;Customer</th>
                   <th>Total</th>
                 </tr>
                 <tr>
@@ -124,7 +124,7 @@
                   <td/>
                 </tr>
                 <tr>
-                  <td>Studio</td>
+                  <td class="text-indent-1">Studio</td>
                   <td>1.0 per unit</td>
                   <td>0.2</td>
                   <td>1.2 per unit</td>
