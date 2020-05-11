@@ -63,112 +63,116 @@
             <text>Minimum Parking Requirements. Where a parcel of real property is located within the Central Parking and Improvement District, new projects to be located on said parcel shall either fund a City-commissioned project-specific parking demand study to determine the number of required parking spaces or meet the off-street parking requirements set forth below:</text>
             <text>
               <table>
-                <tr>
-                  <th>Use</th>
-                  <th>Employee/&#8203;Resident</th>
-                  <th>Visitor/&#8203;Customer</th>
-                  <th>Total</th>
-                </tr>
-                <tr>
-                  <td>(A) Hotels, excluding accessory restaurants and bars</td>
-                  <td>1 per 5 units</td>
-                  <td>1 per 5 units</td>
-                  <td>2 per 5 units</td>
-                </tr>
-                <tr>
-                  <td>(B) Indoor Theatres and Cinemas</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                </tr>
-                <tr>
-                  <td class="text-indent-1">Weekly matinees</td>
-                  <td>1 per 50 fixed seats</td>
-                  <td>1 per 5.5 fixed seats</td>
-                  <td>1 per 5 fixed seats</td>
-                </tr>
-                <tr>
-                  <td class="text-indent-1">Weekend matinees and evenings</td>
-                  <td>1 per 50 fixed seats</td>
-                  <td>0</td>
-                  <td>1 per 50 fixed seats</td>
-                </tr>
-                <tr>
-                  <td>(C) Offices</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                </tr>
-                <tr>
-                  <td class="text-indent-1">Financial</td>
-                  <td>1.3</td>
-                  <td>0.8</td>
-                  <td>2.1</td>
-                </tr>
-                <tr>
-                  <td class="text-indent-1">General</td>
-                  <td>2.4</td>
-                  <td>0.2</td>
-                  <td>2.6</td>
-                </tr>
-                <tr>
-                  <td class="text-indent-1">Medical</td>
-                  <td>3.1</td>
-                  <td>0.2</td>
-                  <td>3.3</td>
-                </tr>
-                <tr>
-                  <td>(D) Residential uses (within the Retail Core Subarea as defined in the Downtown Specific Plan)</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                </tr>
-                <tr>
-                  <td class="text-indent-1">Studio</td>
-                  <td>1.0 per unit</td>
-                  <td>0.2</td>
-                  <td>1.2 per unit</td>
-                </tr>
-                <tr>
-                  <td class="text-indent-1">1 bedroom</td>
-                  <td>1.3 per unit</td>
-                  <td>0.2</td>
-                  <td>1.5 per unit</td>
-                </tr>
-                <tr>
-                  <td class="text-indent-1">2 bedrooms</td>
-                  <td>1.5 per unit</td>
-                  <td>0.2</td>
-                  <td>1.7 per unit</td>
-                </tr>
-                <tr>
-                  <td class="text-indent-1">3 or more bedrooms</td>
-                  <td>1.8 per unit</td>
-                  <td>0.2</td>
-                  <td>2.0 per unit</td>
-                </tr>
-                <tr>
-                  <td>(E) Restaurants and bars, excluding fast food restaurants</td>
-                  <td>1.4</td>
-                  <td>2.5</td>
-                  <td>3.9</td>
-                </tr>
-                <tr>
-                  <td>(F) Retail stores</td>
-                  <td>1.4</td>
-                  <td>0.5</td>
-                  <td>1.9</td>
-                </tr>
-                <tr>
-                  <td>(G) Services</td>
-                  <td>1.4</td>
-                  <td>0.5</td>
-                  <td>1.9</td>
-                </tr>
-                <tr>
-                  <td>(H) Other Uses</td>
-                  <td colspan="3">All uses not specified above shall provide the off-street parking facilities as specified in Sections <cite doc="City of San Mateo, Cal., Code" path="27.64.160">27.64.160</cite> through <cite doc="City of San Mateo, Cal., Code" path="27.64.270">27.64.270</cite>.</td>
-                </tr>
+                <thead>
+                  <tr>
+                    <th>Use</th>
+                    <th>Employee/&#8203;Resident</th>
+                    <th>Visitor/&#8203;Customer</th>
+                    <th>Total</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>(A) Hotels, excluding accessory restaurants and bars</td>
+                    <td>1 per 5 units</td>
+                    <td>1 per 5 units</td>
+                    <td>2 per 5 units</td>
+                  </tr>
+                  <tr>
+                    <td>(B) Indoor Theatres and Cinemas</td>
+                    <td/>
+                    <td/>
+                    <td/>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">Weekly matinees</td>
+                    <td>1 per 50 fixed seats</td>
+                    <td>1 per 5.5 fixed seats</td>
+                    <td>1 per 5 fixed seats</td>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">Weekend matinees and evenings</td>
+                    <td>1 per 50 fixed seats</td>
+                    <td>0</td>
+                    <td>1 per 50 fixed seats</td>
+                  </tr>
+                  <tr>
+                    <td>(C) Offices</td>
+                    <td/>
+                    <td/>
+                    <td/>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">Financial</td>
+                    <td>1.3</td>
+                    <td>0.8</td>
+                    <td>2.1</td>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">General</td>
+                    <td>2.4</td>
+                    <td>0.2</td>
+                    <td>2.6</td>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">Medical</td>
+                    <td>3.1</td>
+                    <td>0.2</td>
+                    <td>3.3</td>
+                  </tr>
+                  <tr>
+                    <td>(D) Residential uses (within the Retail Core Subarea as defined in the Downtown Specific Plan)</td>
+                    <td/>
+                    <td/>
+                    <td/>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">Studio</td>
+                    <td>1.0 per unit</td>
+                    <td>0.2</td>
+                    <td>1.2 per unit</td>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">1 bedroom</td>
+                    <td>1.3 per unit</td>
+                    <td>0.2</td>
+                    <td>1.5 per unit</td>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">2 bedrooms</td>
+                    <td>1.5 per unit</td>
+                    <td>0.2</td>
+                    <td>1.7 per unit</td>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">3 or more bedrooms</td>
+                    <td>1.8 per unit</td>
+                    <td>0.2</td>
+                    <td>2.0 per unit</td>
+                  </tr>
+                  <tr>
+                    <td>(E) Restaurants and bars, excluding fast food restaurants</td>
+                    <td>1.4</td>
+                    <td>2.5</td>
+                    <td>3.9</td>
+                  </tr>
+                  <tr>
+                    <td>(F) Retail stores</td>
+                    <td>1.4</td>
+                    <td>0.5</td>
+                    <td>1.9</td>
+                  </tr>
+                  <tr>
+                    <td>(G) Services</td>
+                    <td>1.4</td>
+                    <td>0.5</td>
+                    <td>1.9</td>
+                  </tr>
+                  <tr>
+                    <td>(H) Other Uses</td>
+                    <td colspan="3">All uses not specified above shall provide the off-street parking facilities as specified in Sections <cite doc="City of San Mateo, Cal., Code" path="27.64.160">27.64.160</cite> through <cite doc="City of San Mateo, Cal., Code" path="27.64.270">27.64.270</cite>.</td>
+                  </tr>
+                </tbody>
               </table>
             </text>
           </para>
@@ -291,24 +295,26 @@
                 <text>Demonstration by the applicant that the amount of floor area per full-time equivalent employee exceeds the following due to unusual circumstances:</text>
                 <text>
                   <table>
-                    <tr>
-                      <td>Retail/Service</td>
-                      <td>1 per 450 sq. ft.</td>
-                      <td>General Office</td>
-                      <td>1 per 250 sq. ft.</td>
-                    </tr>
-                    <tr>
-                      <td>Financial</td>
-                      <td>1 per 540 sq. ft.</td>
-                      <td>Medical Office</td>
-                      <td>1 per 210 sq. ft.</td>
-                    </tr>
-                    <tr>
-                      <td>Restaurants</td>
-                      <td>1 per 520 sq. ft.</td>
-                      <td/>
-                      <td/>
-                    </tr>
+                    <tbody>
+                      <tr>
+                        <td>Retail/Service</td>
+                        <td>1 per 450 sq. ft.</td>
+                        <td>General Office</td>
+                        <td>1 per 250 sq. ft.</td>
+                      </tr>
+                      <tr>
+                        <td>Financial</td>
+                        <td>1 per 540 sq. ft.</td>
+                        <td>Medical Office</td>
+                        <td>1 per 210 sq. ft.</td>
+                      </tr>
+                      <tr>
+                        <td>Restaurants</td>
+                        <td>1 per 520 sq. ft.</td>
+                        <td/>
+                        <td/>
+                      </tr>
+                    </tbody>
                   </table>
                 </text>
               </para>
