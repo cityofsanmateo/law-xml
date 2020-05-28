@@ -1435,8 +1435,8 @@
           <text>A tax of ten dollars for the entire period of such meeting for each person employed in such business within the City;</text>
         </para>
         <aftertext>Where any such meeting extends over a period of fewer than thirty days:</aftertext>
-        <para proof="done">
-          <num>(1)</num>
+        <para>
+          <num proof="done">(1)</num>
           <text>A tax of five dollars for each day during such meeting for selling any racing form under one title or name, and</text>
         </para>
         <para>
@@ -4544,11 +4544,7 @@
           <num>(1)</num>
           <text>A framed panel, enclosing on separate lines the name of the owner, the word "taxicab" and the serial body number assigned the taxicab by the license collector. Such panel shall be painted on each side of the taxicab, and shall cover no less area than 10 inches by 12 inches. The form of such panel shall be substantially as follows:</text>
           <text class="center">
-            <strong>JOHN T. SMITH</strong>
-            <br/>
-            <strong>TAXICAB</strong>
-            <br/>
-            <strong>320</strong>
+            <strong>JOHN T. SMITH<br/>TAXICAB<br/>320</strong>
           </text>
         </para>
         <para>

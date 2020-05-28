@@ -1616,14 +1616,7 @@
         <text>If the measured ambient level for any area is higher than the standard set in Table <cite path="7.30.040">7.30.040</cite>, then the ambient shall be the base noise level standard for purposes of subsection (a)(1) of this section. In such cases, the noise levels for purposes of subsections (a)(2) through (a)(5) of this section shall be increased in five dB increments above the ambient.</text>
         <text>
           <table>
-            <caption>
-              <p>
-                <strong>Table 7.30.040</strong>
-              </p>
-              <p>
-                <strong>NOISE LEVEL STANDARDS*</strong>
-              </p>
-            </caption>
+            <caption>Table 7.30.040<br/>NOISE LEVEL STANDARDS*</caption>
             <thead>
               <tr>
                 <th>Noise Zone</th>
