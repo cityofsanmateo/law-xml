@@ -30,15 +30,7 @@ install:
   - ps: $key += $env:GH_SSH_PRIVATE_KEY.Replace(" ", "`n")
   - ps: $key += "`n-----END RSA PRIVATE KEY-----`n"
   - ps: Set-Content c:\users\appveyor\.ssh\id_rsa $key
-  - ps: $fileContent = "-----BEGIN RSA PRIVATE KEY-----`n"
-  - ps: $fileContent += $env:snapshot_key.Replace(" ", "`n")
-  - ps: $fileContent += "`n-----END RSA PRIVATE KEY-----`n"
-  - ps: Set-Content c:\users\appveyor\snapshot $fileContent
-  - ps: $fileContent = "-----BEGIN RSA PRIVATE KEY-----`n"
-  - ps: $fileContent += $env:timestamp_key.Replace(" ", "`n")
-  - ps: $fileContent += "`n-----END RSA PRIVATE KEY-----`n"
-  - ps: Set-Content c:\users\appveyor\timestamp $fileContent
-  - set US_CA_CITIS_SAN_MATEO_XML_CODIFIED_PATH ..\cityofsanmateo\law-xml-codified-preview
+  - set US_CA_CITIS_SAN_MATEO_XML_CODIFIED_PATH=..\cityofsanmateo\law-xml-codified-preview
 
 
 before_build:
