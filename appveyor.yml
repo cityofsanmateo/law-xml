@@ -7,6 +7,14 @@ environment:
 # Do not build feature branch with open Pull Requests
 skip_branch_with_pr: true
 
+
+on_finish:
+  - ps: >-
+      If ($env:DEBUG -eq $True) {
+        $blockRdp = $true; iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/appveyor/ci/master/scripts/enable-rdp.ps1'))
+      };
+
+
 init:
   # exit if secure variables are unset (saves time if fired by a non-team pull request)
   - ps: if ($env:GH_SSH_PRIVATE_KEY -eq $null) { exit }
@@ -30,7 +38,7 @@ install:
   - ps: $fileContent += $env:timestamp_key.Replace(" ", "`n")
   - ps: $fileContent += "`n-----END RSA PRIVATE KEY-----`n"
   - ps: Set-Content c:\users\appveyor\timestamp $fileContent
-  - set DEFAULT_PARTNER=OLL_PARTNERS_US_CA_CITIES_SAN_MATEO oll.partners.us.ca.cities.san_mateo
+  - set US_CA_CITIS_SAN_MATEO_XML_CODIFIED_PATH ..\cityofsanmateo\law-xml-codified-preview
 
 
 before_build:
