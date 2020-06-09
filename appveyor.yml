@@ -34,6 +34,32 @@ install:
 
 
 before_build:
+  - ps: >-
+      If ($env:TAF_BRANCH) {
+        git clone -q git@github.com:openlawlibrary/taf.git ..\wheels\taf
+        git -C ..\wheels\taf checkout -q $env:TAF_BRANCH
+        $env:TAF_WHEEL = "-e ..\wheels\taf"
+      } else {
+        $env:TAF_WHEEL = "taf"
+      };
+
+      If ($env:PLATFORM_BRANCH) {
+        git clone -q git@github.com:openlawlibrary/platform.git ..\wheels\platform
+        git -C ..\wheels\platform checkout -q $env:PLATFORM_BRANCH
+        $env:CORE_WHEEL = "-e ..\wheels\platform\core"
+        $env:PARTNERS_WHEEL = "-e ..\wheels\platform\partners[test]"
+      } else {
+        $env:CORE_WHEEL = "--pre oll-core"
+        $env:PARTNERS_WHEEL = "--pre oll-partners[test]"
+      };
+
+  - "%PYTHON%\\python.exe -m pip -q install wheel"
+  - "%PYTHON%\\python.exe -m pip -q install %TAF_WHEEL%"
+  - "%PYTHON%\\python.exe -m pip -q install %CORE_WHEEL%"
+  - "%PYTHON%\\python.exe -m pip -q install %PARTNERS_WHEEL%"
+  - "%PYTHON%\\python.exe -m pip list"
+
+
   - ps: Copy-Item $env:APPVEYOR_BUILD_FOLDER '..\cityofsanmateo\law-xml' -Recurse
   - git clone git@github.com:cityofsanmateo/law-xml-codified.git ..\cityofsanmateo\law-xml-codified
   - git clone git@github.com:cityofsanmateo/law-html.git ..\cityofsanmateo\law-html
