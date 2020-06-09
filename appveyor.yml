@@ -47,10 +47,10 @@ before_build:
         git clone -q git@github.com:openlawlibrary/platform.git ..\wheels\platform
         git -C ..\wheels\platform checkout -q $env:PLATFORM_BRANCH
         $env:CORE_WHEEL = "-e ..\wheels\platform\core"
-        $env:PARTNERS_WHEEL = "-e ..\wheels\platform\partners[test]"
+        $env:PARTNERS_WHEEL = "-e ..\wheels\platform\partners"
       } else {
         $env:CORE_WHEEL = "--pre oll-core"
-        $env:PARTNERS_WHEEL = "--pre oll-partners[test]"
+        $env:PARTNERS_WHEEL = "--pre oll-partners"
       };
 
   - "%PYTHON%\\python.exe -m pip -q install wheel"
@@ -69,6 +69,7 @@ before_build:
   
   # install versioned resources (if and only if the build is a tag or cron build)
   - "%PYTHON%\\python.exe -m pip -q install -r requirements.txt"
+  - "%PYTHON%\\python.exe -m pip -q install pytest"
   # print out the git commits for each repo
   - git -C ..\cityofsanmateo\law-xml-codified rev-parse HEAD
   - git -C ..\cityofsanmateo\law-html rev-parse HEAD
