@@ -10,8 +10,12 @@ skip_branch_with_pr: true
 
 on_finish:
   - ps: >-
+      if (Test-Path $env:APPVEYOR_BUILD_FOLDER\test_roundtrip.log){
+          Push-AppveyorArtifact test_roundtrip.log
+      };
+
       If ($env:DEBUG -eq $True) {
-        $blockRdp = $true; iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/appveyor/ci/master/scripts/enable-rdp.ps1'))
+          $blockRdp = $true; iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/appveyor/ci/master/scripts/enable-rdp.ps1'))
       };
 
 
@@ -78,6 +82,8 @@ build_script:
    - ps: $env:FLAG = if ($env:APPVEYOR_PULL_REQUEST_NUMBER -eq $null) { "--deploy" }
    - "%PYTHON%\\python.exe -m oll.tools.cli ci build_preview --library-root .. --auth ../law %FLAG%"
    - "cd %APPVEYOR_BUILD_FOLDER% && %PYTHON%\\python.exe -m pytest --pyargs oll.partners.us.ca.cities.san_mateo.tests.docs.code.roundtrip -m \"full_roundtrip\" -vv"
+
+after_build:
 
 
 test_script:
