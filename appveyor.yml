@@ -61,11 +61,11 @@ before_build:
 
 
   - ps: Copy-Item $env:APPVEYOR_BUILD_FOLDER '..\cityofsanmateo\law-xml' -Recurse
-  - git clone git@github.com:cityofsanmateo/law-xml-codified.git ..\cityofsanmateo\law-xml-codified
-  - git clone git@github.com:cityofsanmateo/law-html.git ..\cityofsanmateo\law-html
-  - git clone --depth 1 git@github.com:cityofsanmateo/law-xml-codified-preview.git ..\cityofsanmateo\law-xml-codified-preview
-  - git clone --depth 1 git@github.com:cityofsanmateo/law-html-preview.git ..\cityofsanmateo\law-html-preview
-  - git clone  git@github.com:cityofsanmateo/law.git ..\law
+  - git clone git@github.com:oll-test-repos/cityofsanmateo-law-xml-codified.git ..\cityofsanmateo\law-xml-codified
+  - git clone git@github.com:oll-test-repos/cityofsanmateo-law-html.git ..\cityofsanmateo\law-html
+  - git clone --depth 1 git@github.com:oll-test-repos/cityofsanmateo-law-xml-codified-preview.git ..\cityofsanmateo\law-xml-codified-preview
+  - git clone --depth 1 git@github.com:oll-test-repos/cityofsanmateo-law-html-preview.git ..\cityofsanmateo\law-html-preview
+  - git clone  git@github.com:oll-test-repos/cityofsanmateo-law.git ..\law
   
   # install versioned resources (if and only if the build is a tag or cron build)
   - "%PYTHON%\\python.exe -m pip -q install -r requirements.txt"
