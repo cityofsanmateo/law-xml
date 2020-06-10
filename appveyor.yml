@@ -83,6 +83,13 @@ build_script:
    - "%PYTHON%\\python.exe -m oll.tools.cli ci build_preview --library-root .. --auth ../law %FLAG%"
    - "cd %APPVEYOR_BUILD_FOLDER% && %PYTHON%\\python.exe -m pytest --pyargs oll.partners.us.ca.cities.san_mateo.tests.docs.code.roundtrip -m \"full_roundtrip\""
 
+notifications:
+  - provider: Slack
+    incoming_webhook:
+      # post to the fire channel
+      secure: KUaR+KAqX1jU0LF7kRDKHHGEAoItFzIHSjcreyRvnrT1vcX5+4iV77Ivysxl8jhh8ocUE0JCcmcKI0xPTb+M+EMfb8xk9L7+XCTdNubjU5w=
+    on_build_success: false
+    
 
 test_script:
   - echo Skipping doomed test discovery to save time
