@@ -13,7 +13,6 @@ on_finish:
       if (Test-Path $env:APPVEYOR_BUILD_FOLDER\test_roundtrip.log){
           Push-AppveyorArtifact test_roundtrip.log
       };
-
       If ($env:DEBUG -eq $True) {
           $blockRdp = $true; iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/appveyor/ci/master/scripts/enable-rdp.ps1'))
       };
@@ -56,32 +55,30 @@ before_build:
         $env:CORE_WHEEL = "--pre oll-core"
         $env:PARTNERS_WHEEL = "--pre oll-partners"
       };
-
   - "%PYTHON%\\python.exe -m pip -q install wheel"
   - "%PYTHON%\\python.exe -m pip -q install %TAF_WHEEL%"
   - "%PYTHON%\\python.exe -m pip -q install %CORE_WHEEL%"
   - "%PYTHON%\\python.exe -m pip -q install %PARTNERS_WHEEL%"
   - "%PYTHON%\\python.exe -m pip list"
 
-
   - ps: Copy-Item $env:APPVEYOR_BUILD_FOLDER '..\cityofsanmateo\law-xml' -Recurse
-  - git clone git@github.com:oll-test-repos/cityofsanmateo-law-xml-codified.git ..\cityofsanmateo\law-xml-codified
-  - git clone git@github.com:oll-test-repos/cityofsanmateo-law-html.git ..\cityofsanmateo\law-html
   - git clone --depth 1 git@github.com:oll-test-repos/cityofsanmateo-law-xml-codified-preview.git ..\cityofsanmateo\law-xml-codified-preview
   - git clone --depth 1 git@github.com:oll-test-repos/cityofsanmateo-law-html-preview.git ..\cityofsanmateo\law-html-preview
   - git clone  git@github.com:oll-test-repos/cityofsanmateo-law.git ..\law
-  
+
   # install versioned resources (if and only if the build is a tag or cron build)
   - "%PYTHON%\\python.exe -m pip -q install -r requirements.txt"
   - "%PYTHON%\\python.exe -m pip -q install pytest"
-  # print out the git commits for each repo
-  - git -C ..\cityofsanmateo\law-xml-codified rev-parse HEAD
-  - git -C ..\cityofsanmateo\law-html rev-parse HEAD
+  # print out the git commits for xml repo
+  - git -C ..\cityofsanmateo\law-xml rev-parse HEAD
 
 build_script:
-   - ps: $env:FLAG = if ($env:APPVEYOR_PULL_REQUEST_NUMBER -eq $null) { "--deploy" }
-   - "%PYTHON%\\python.exe -m oll.tools.cli ci build_preview --library-root .. --auth ../law %FLAG%"
-   - "cd %APPVEYOR_BUILD_FOLDER% && %PYTHON%\\python.exe -m pytest --pyargs oll.partners.us.ca.cities.san_mateo.tests.docs.code.roundtrip -m \"full_roundtrip\""
+  - ps: $env:FLAG = if ($env:APPVEYOR_PULL_REQUEST_NUMBER -eq $null) { "--deploy" }
+  - "%PYTHON%\\python.exe  -m oll.tools.cli ci build_preview --library-root .. --auth ../law %FLAG%"
+
+test_script:
+  # run roundtrip tests
+  - "cd %APPVEYOR_BUILD_FOLDER% && %PYTHON%\\python.exe -m pytest --pyargs oll.partners.us.ca.cities.san_mateo.tests.docs.code.roundtrip -m \"full_roundtrip\""
 
 notifications:
   - provider: Slack
@@ -89,11 +86,7 @@ notifications:
       # post to the fire channel
       secure: KUaR+KAqX1jU0LF7kRDKHHGEAoItFzIHSjcreyRvnrT1vcX5+4iV77Ivysxl8jhh8ocUE0JCcmcKI0xPTb+M+EMfb8xk9L7+XCTdNubjU5w=
     on_build_success: false
-    
-
-test_script:
-  - echo Skipping doomed test discovery to save time
 
 artifacts:
-    - path: test_roundtrip.log
-      name: roundtrip log
+  - path: test_roundtrip.log
+    name: roundtrip log
