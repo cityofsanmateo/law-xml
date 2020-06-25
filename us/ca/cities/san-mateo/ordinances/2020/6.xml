@@ -1,0 +1,84 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2020-6">
+  <num>2020-6</num>
+  <heading type="short">Open Container &amp; Outdoor Dining In Public Right of Way – Amendment </heading>
+  <heading type="long">Amending Section 10.04.080, "Drinking – Public Areas," of Title 10, "Peace, Safety and Morals," of the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2020-07-15</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2020-6.pdf">Ord. No. 2020-6</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2020-6</citation>
+    </citations>
+    <history>
+      <introduced>2020-06-01</introduced>
+      <adopted>2020-06-15</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Code" path="10.04.080">Section 10.04.080</cite> currently makes it unlawful for any person to drink or possess any open container of an alcoholic beverage in a public place; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council wishes to enable restaurants to offer outdoor dining on portions of public right-of-way; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council wishes to enable restaurants offering outdoor dining to provide alcoholic beverages to customers;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="10.04.080">Section 10.04.080</cite>, "Drinking – Public Areas," of <cite doc="City of San Mateo, Cal., Code" path="10.04">Chapter 10.04, "Public Peace and Order" of the San Mateo Municipal Code</cite> is amended to read:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="10.04.080"/>
+        <num>10.04.080</num>
+        <heading codify:value="Drinking—Public Areas.">– Drinking – Public Areas.</heading>
+        <text>It is unlawful for any person to drink or possess any open container of beer, wine, or other intoxicating beverage on any public sidewalk, alley, street, or highway, unless expressly permitted at that location pursuant to a permit, such as an outdoor dining permit or special event permit, and the consumption is in conformance with the terms of the permit.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines Section 15378, adoption of this Ordinance is not a project subject to CEQA because it can be seen with certainty that amending the City's open container ordinance will not impact the environment.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on June 1, 2020, and adopted on June 15, 2020, and shall be effective 30 days after its adoption.</text>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Rodriguez, Bonilla, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </section>
+</document>
