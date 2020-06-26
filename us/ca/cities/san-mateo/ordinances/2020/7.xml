@@ -100,6 +100,8 @@
     <num>6</num>
     <heading>Publication.</heading>
     <text>In accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.16">City Charter Section 2.16</cite>, as soon as practicable after its passage, this Ordinance shall be published in its entirety in the official city newspaper.</text>
+  </section>
+  <procedural-data>
     <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
     <text>
       <table>
@@ -118,5 +120,5 @@
       </table>
     </text>
     <text>ATTEST:</text>
-  </section>
+  </procedural-data>
 </document>

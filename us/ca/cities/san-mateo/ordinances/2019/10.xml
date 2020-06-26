@@ -226,6 +226,8 @@
     <num>6</num>
     <heading>Legislative history and effective date.</heading>
     <text>This ordinance was introduced on August 19, 2019, and adopted on September 3, 2019, and shall be effective on January 1, 2020</text>
+  </section>
+  <procedural-data>
     <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, California by the following vote:</text>
     <text>
       <table>
@@ -244,6 +246,8 @@
       </table>
     </text>
     <text>ATTEST:</text>
+  </procedural-data>
+  <attachment id="Ex. A">
     <text class="center">
       <strong>Exhibit A</strong>
     </text>
@@ -302,5 +306,5 @@
       <num>a.</num>
       <text>This amendment is justified on the basis of a local <strong><u>climatic</u></strong> condition. Failure to address and significantly reduce greenhouse gas (GHG) emissions could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101 (Bayshore Freeway), particularly the mapped Flood Hazard areas of the City. Electric vehicle charging infrastructure is a key component in reducing GHG emissions, and EV charging installations can help the City of San Mateo reduce its share of the GHG emissions that contribute to climate change. Electric vehicle charging infrastructure will contribute to the reduction of GHG emissions by supporting the demand for electric vehicles and the associated EV chargers. The burning of fossil fuels used in the generation of electric power and heating of buildings contributes to climate change, which could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101. However, electric power will become cleaner over time as utilities achieve more stringent Renewable Portfolio Standard requirements, and translate the clean energy benefits to electric vehicles.</text>
     </para>
-  </section>
+  </attachment>
 </document>
