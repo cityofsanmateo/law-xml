@@ -639,15 +639,9 @@
     <text>ATTEST:</text>
   </procedural-data>
   <attachment id="Ex. A">
-    <text class="center">
-      <strong>Exhibit A</strong>
-    </text>
-    <text class="center">
-      <strong>NECESSARY MODIFICATIONS TO THE</strong>
-    </text>
-    <text class="center">
-      <strong>2016 CALIFORNIA FIRE CODE DUE TO LOCAL CONDITIONS</strong>
-    </text>
+    <prefix>Exhibit</prefix>
+    <num>A</num>
+    <heading>NECESSARY MODIFICATIONS TO THE 2016 CALIFORNIA FIRE CODE DUE TO LOCAL CONDITIONS</heading>
     <text class="center">
       <strong>INTRODUCTION</strong>
     </text>
