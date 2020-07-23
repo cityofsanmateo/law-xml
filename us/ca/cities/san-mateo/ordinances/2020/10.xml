@@ -1,0 +1,133 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2020-10">
+  <num>2020-10</num>
+  <heading type="short">Affordable Housing Near Transit</heading>
+  <heading type="long">Amending the San Mateo Municipal Code by Adding Section 27.15.080, "Affordable Housing Projects Near Transit," to Chapter 27.15, "Density Bonus"</heading>
+  <meta>
+    <effective>2020-08-19</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2020-10.pdf">Ord. No. 2020-10</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2020-10</citation>
+    </citations>
+    <history>
+      <introduced>2020-06-15</introduced>
+      <adopted>2020-07-20</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code" path="§65915">Government Code Section 65915</cite> provides for a density bonus for housing developments that include affordable units; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in conformance with state law, the City has codified an existing density bonus ordinance at Municipal Code <cite doc="City of San Mateo, Cal., Code" path="27.15">Chapter 27.15</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the state Legislature has enacted Assembly Bill 1763, which amends <cite doc="Cal. Gov't Code" path="§65915">Government Code Section 65915</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Assembly Bill 1763 provides that housing developments in which 100 percent of the total units, exclusive of a manager's unit or units, are for lower income households, except that up to 20 percent of the total units in the development may be for moderate-income households, and within a half-mile of a major transit stop, are entitled to: unlimited density, a height increase of up to three additional stories or up to 33 feet, and up to four incentives or concessions as defined by <cite doc="Cal. Gov't Code" path="§65915">Government Code Section 65915</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Measure P amended the City's General Plan to provide for a height limit of 55 feet; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code" path="§65915">Government Code Section 65915</cite> preempts the City's General Plan height limit; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code" path="§65915">Government Code Section 65915</cite>, as amended by Assembly Bill 1763, provides for unlimited density and additional height, but did not address other land use restrictions impacted by increased density and building height; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in order to comply with Assembly Bill 1763, the City wishes to address the land use restrictions impacted by increased density and height for housing developments that are 100% affordable to low and moderate income households as defined by state law and located within a half- mile of a major transit stop;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.15">Chapter 27.15 of the San Mateo Municipal Code</cite>, "Density Bonus," is amended to add a new <cite doc="City of San Mateo, Cal., Code" path="27.15.080">Section 27.15.080</cite>, "Affordable Housing Projects Near Transit," to read:</text>
+    <include>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="27.15" num-value="27.15.080"/>
+        <num>1.10.010</num>
+        <heading>AFFORDABLE HOUSING PROJECTS NEAR TRANSIT</heading>
+        <para>
+          <num>(a)</num>
+          <text>Applicability. This Section applies to housing developments in which 100 percent of the total units, exclusive of a manager's unit or units, are for lower income households (as defined in <cite doc="Cal. Health &amp; Safety Code" path="§50079.5">Section 50079.5 of the Health and Safety Code</cite>), except that up to 20 percent of the total units in the development may be for moderate-income households (as defined in <cite doc="Cal. Health &amp; Safety Code" path="§50053">Section 50053 of the Health and Safety Code</cite>) and located within a half-mile of a major transit stop as defined in <cite doc="Cal. Pub. Res. Code" path="§21155">Public Resources Code Section 21155</cite> ("Covered Projects").</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Reduced Requirements for Covered Projects. When a development standard would physically preclude a proposed project from achieving allowable density, planning applications submitted for Covered projects may request waivers or reductions from up to six applicable development standards in addition to the incentives or concessions otherwise provided by state law. The request to waive or reduce development standards shall be considered by the decision-making body with the authority to act on the Covered Project, and shall be subject to the following findings:</text>
+          <para>
+            <num>(1)</num>
+            <text>The requested deviations will not conflict with the General Plan;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The development is of an excellent design quality and is consistent with applicable Design Guidelines;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The development is in the best interests of the public health, safety, or welfare;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The development will not impair the desirability of investment or occupation in the vicinity; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The project has demonstrated use of all allowable incentives consistent with <cite doc="Cal. Gov't Code" path="§65915">Government Code Section 65915</cite>.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>The City has prepared an initial study and negative declaration for this Ordinance.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect. It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on June 15, 2020, and adopted on July 20, 2020, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Rodriguez, Bonilla, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

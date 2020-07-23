@@ -1,0 +1,101 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2020-9">
+  <num>2020-9</num>
+  <heading type="short">Private Park &amp; Recreation Facility Space Credit – Amendment</heading>
+  <heading type="long">Amending Section 26.64.030 "Private Park and Recreational Facility Space Credit," of Title 26, "Subdivisions," of the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2020-08-19</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2020-9.pdf">Ord. No. 2020-9</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2020-9</citation>
+    </citations>
+    <history>
+      <introduced>2020-06-15</introduced>
+      <adopted>2020-07-20</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Municipal Code currently allows for credits against the Park Impact Fee for on-site amenities provided within projects that reduce the potential impact on park use by project residents; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in order to qualify for the potential credits, the on-site amenities must meet a minimum threshold of at least 25% of the total project's required acreage of dedicated park land; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to encourage the development of affordable housing projects; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it can be difficult for 100% affordable housing projects to meet the City's minimum threshold for receiving a credit for on-site recreational amenities; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>staff recommends amending Municipal Code <cite doc="City of San Mateo, Cal., Code" path="26.64.030">Section 26.64.030</cite>, Private Park and Recreational Facility Space Credit, to waive the minimum threshold requirement for 100% affordable housing projects in order for them to receive credits against the Park Impact Fee for any amount of on-site recreational amenities; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Park and Recreation Commission has reviewed staff's proposal and recommends adoption to the City Council; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Subsection (b)(1) of <cite doc="City of San Mateo, Cal., Code" path="26.64.030">Section 26.64.030</cite>, "Private Park and Recreational Facility Space Credit," of <cite doc="City of San Mateo, Cal., Code" path="26.64">Chapter 26.64, "Dedication of Land for Community Purposes" of the San Mateo Municipal Code</cite> is amended to read:</text>
+    <include>
+      <section>
+        <num>26.64.030</num>
+        <heading>PRIVATE PARK AND RECREATIONAL FACILITY SPACE CREDIT</heading>
+        <para>
+          <codify:replace doc="City of San Mateo, Cal., Code" path="26.64.030|(b)|(1)"/>
+          <num>(1)</num>
+          <text>The proposed private park and recreational facility space equals at least 25% of the acreage of the total parkland dedication requirement, except that residential development projects, which are 100% affordable to low and moderate income households, will have no minimum threshold. "Low or moderate income" households means persons and families whose income does not exceed 120 percent of area median income, as defined in <cite doc="Cal. Health &amp; Safety Code" path="§50093">Health and Safety Code section 50093</cite>.<span codify:value="">"</span></text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15061(b)(3),  adoption of this Ordinance is not a project subject to CEQA because it can be seen with certainty that lowering the threshold at which 100% affordable housing projects receive a park fee credit for providing private recreation improvements will not impact the environment because only 100% affordable housing projects located within ½ mile of major transit facilities will receive the credit and private recreational amenities will be provided.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on June 15, 2020, and adopted on July 20, 2020, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Rodriguez, Bonilla, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

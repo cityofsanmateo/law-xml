@@ -1,0 +1,185 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2020-8">
+  <num>2020-8</num>
+  <heading type="short">Emergency Ordinance – Extending a Moratorium on Business Evictions During Covid-19</heading>
+  <heading type="long">Adopting an Emergency Ordinance Amending an Ordinance Imposing a Moratorium on Evictions for Non- Payment of Rent by Tenants Impacted by the COVID-19 Pandemic</heading>
+  <meta>
+    <effective>2020-06-29</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2020-8.pdf">Ord. No. 2020-8</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2020-8</citation>
+    </citations>
+    <history>
+      <introduced>2020-06-29</introduced>
+      <adopted>2020-06-29</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>international, national, state, and local health and governmental authorities are responding to an outbreak of respiratory disease caused by a novel coronavirus named "SARS-CoV-2," and the disease it causes has been named "coronavirus disease 2019," abbreviated COVID-19, ("COVID-19"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>On March 4, 2020, the Board of Supervisors of the County of San Mateo proclaimed a local state of emergency and the Health Officer of County of San Mateo declared a local health emergency in response to the COVID-19 outbreak; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Centers for Disease Control and Prevention, the California Department of Health, and the San Mateo County Department of Public Health have all issued recommendations including but not limited to social distancing, staying home if sick, canceling or postponing large group events, working from home, and other precautions to protect public health and prevent transmission of this communicable virus; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 13, 2020, the President of the United States of America declared a national emergency and announced that the federal government would make emergency funding available to assist state and local governments in preventing the spread of and addressing the effects of COVID-19; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 16, 2020, the County Health Officer issued a further order directing, among other things, that all individuals living in the county to shelter at their place of residence except to provide or receive essential services, or engage in essential activities, and that all businesses and governmental agencies cease non-essential operations at all physical locations in the county; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Code" path="7.04.010">Section 7.04.010</cite> of the Municipal Code of the City of San Mateo appoints the San Mateo County Department of Health and Public Welfare as the Health Officer of the City; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Code" path="7.04.050">Section 7.04.050</cite> of the Municipal Code of the City of San Mateo authorizes the City Council to make such additional rules and regulations as it may deem necessary to secure the prompt and effective control of communicable diseases within the City; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 16, 2020 the City Council adopted Resolution No. 25 (2020) proclaiming the existence of a local emergency.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 16, 2020, the Governor of the State of California, through Executive Order N-28-20, suspended the preemptive reach of state statutes imposing substantive limitations on residential and commercial evictions to the extent a local government chooses to impose limitations on evictions for non- payment of rent arising out of a substantial decrease in household or business income or substantial out-of- pocket medical expenses caused by the COVID-19 pandemic or by an local, state or federal government response to COVID-19; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>by its term, the Governor's order suspending the preemptive effect of the state statutes on evictions will expire on May 31, 2020, unless extended; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 19, the Governor of the State of California, through Executive Order N-33-20, imposed a statewide shelter in place order except as needed to maintain continuity of operations of the federal critical infrastructure sectors or to access necessities such as food, prescriptions, and health care or other authorized activities; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Governor of the State of California has stated that individuals exposed to COVID-19 may be temporarily unable to report to work due to illness caused by COVID-19 or quarantines related to COVID-19 and individuals directly affected by COVID-19 may experience potential loss of income, health care and medical coverage, and ability to pay for housing and basic needs, thereby placing increased demands on already strained regional and local health and safety resources, including shelters and food banks; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as a result of the public health emergency, the precautions recommended by state and county health officers, and in compliance with orders issued by those officers, many businesses in San Mateo have experienced or expect soon to experience sudden and unexpected income loss; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 23, 2020, the San Mateo City Council adopted Ordinance No. 2020-2 to establish emergency limitations on the ability of landlords to evict small business and nonprofit tenants for nonpayment of rent due to financial difficulties arising out of the COVID-19 Pandemic; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council desires to extend the term of an eviction moratorium originally enacted by Ordinance No. 2020-2 and to provide additional time for tenants to pay rent deferred during the local emergency as described in the administrative report provided to the City Council with this ordinance;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>Incorporation of Recitals.</heading>
+    <text>The City Council finds that the foregoing recitals and administrative report presented with this Ordinance are true and correct and are incorporated into this Ordinance by this reference and adopted as findings of the City Council.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Findings.</heading>
+    <text>The City Council hereby finds, determines, and declares that this emergency ordinance, adopted pursuant to <cite doc="City of San Mateo, Cal., Charter" path="2.16">Section 2.16 of the City Charter</cite> of the City of San Mateo, is necessary because:</text>
+    <para>
+      <num>(a)</num>
+      <text>further economic impacts are anticipated as result of COVID-19-related workplace closures, childcare expenditures due to school closures, health care expenses, labor shortages, and other expenditures stemming from compliance with emergency orders, leaving nonprofit and small business tenants vulnerable to eviction; and</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>these economic impacts may inhibit nonprofits and small businesses from fulfilling their financial obligations, including rent and public utility payments such as water, sewer, and solid waste collection charges; and</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>during this local emergency, and in the interest of protecting the public welfare it is essential to avoid unnecessary termination of nonprofit and small business tenancies; and</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>In the interest of the public welfare, as affected by the emergency caused by the spread of COVID- 19, it is necessary for the City Council to its authority to adopt this Ordinance related to the protection of life and property.</text>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Urgent Need.</heading>
+    <text>Based on the foregoing recitals and findings, all of which are deemed true and correct, this Ordinance is urgently needed for the immediate preservation of the public peace, health, safety, or welfare. This Ordinance shall take effect immediately upon adoption in accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.16">Section 2.16 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text>A temporary moratorium on eviction for non-payment of rent by small business and nonprofit entity tenants impacted by the COVID-19 crisis is imposed as follows:</text>
+    <para>
+      <num>(a)</num>
+      <text>During the period of local emergency declared in response to COVID-19, no landlord shall endeavor to evict a tenant in either of the following situations: (1) for nonpayment of rent if the tenant demonstrates that the tenant is unable to pay rent due to financial impacts related to COVID-19 or (2) for a no-fault eviction unless necessary for the health and safety of tenants, neighbors, or the landlord. A landlord who knows that a tenant cannot pay some or all of the rent temporarily for the reasons set forth above shall not serve a notice pursuant to <cite doc="Cal. Civ. Proc. Code" path="§1161|(2)">CCP 1161(2)</cite>, file or prosecute an unlawful detainer action based on a 3-day pay rent or quit notice, or otherwise seek to evict for nonpayment of rent. A landlord knows of a tenant's inability to pay rent within the meaning of this ordinance if the tenant, within 14 days after the date the landlord provides written notice of this emergency ordinance as required below, notifies the landlord in writing of lost income and inability to pay full rent due to financial impacts related to COVID-19, and provides documentation to support the claim. For purposes of this Ordinance, "in writing" includes email or text communications to a landlord or the landlord's representative with whom the tenant has previously corresponded by email or text. Any medical or financial information provided to the landlord shall be held in confidence, and only used for evaluating the tenant's claim. Nothing in this Ordinance shall relieve the tenant of liability for the unpaid rent, which the landlord may seek after expiration of the local emergency. The tenant must pay all unpaid rent within six months of the date the local emergency is lifted. If after this initial six month period the tenant is unable to repay some or all of the unpaid rent, the tenant shall be entitled to another six months to pay all unpaid rent, provided that during this second six month period the tenant shall pay on a monthly basis at least 50% of the average monthly rent that has been deferred. A landlord may not charge or collect a late fee for rent that is delayed for the reasons stated in this Ordinance; nor may a landlord seek rent that is delayed for the reasons stated in this Ordinance through the eviction process.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Prior to taking any action, during the term of this emergency ordinance, to endeavor to evict a tenant for nonpayment of rent or under any circumstance that constitutes a no-fault termination of tenancy, the landlord must first provide the affected tenant or tenants with written notice of this emergency ordinance using a form developed and approved by the San Mateo City Attorney, which form shall include at a minimum (1) the amount of rent to which the landlord is legally entitled pursuant to any written or oral agreement and under the provisions of State or local law; (2) that this rent is due unless the tenant promptly establishes in writing to the landlord that the amount of rent due qualifies for deferral under this ordinance; and (3) that the notice from the tenant to the landlord of the deferral of rent payment must be provided to the landlord within fourteen (14) days of receipt from the landlord of the written notice required by the subdivision.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>For purposes of this Ordinance, "financial impacts related to COVID-19" include, but are not limited to, loss of income due to any of the following: (1) being sick with COVID-19, or caring for a household or family member who is sick with COVID-19; (2) lay-off, loss of hours, or other income reduction resulting from business closure or other economic or employer impacts of COVID-19; (3) compliance with a recommendation from a government health authority to stay home, self-quarantine, or avoid congregating with others during the state of emergency; (4) extraordinary out-of-pocket medical expenses; or (5) child care needs arising from school closures related to COVID-19.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>For purposes of this Ordinance, "no-fault eviction" refers to any eviction for which the notice to terminate tenancy is not based on alleged fault by the tenant, including but not limited to eviction notices served pursuant to Code of Civil Procedure sections 1161(1) or 1161(5).</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>For the purposes of this Ordinance a "small business" is a business entity with gross receipts of less than $25 million per year and includes persons and entities who earn income through the rental of housing.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>Violations of this Ordinance shall be punishable as set forth in <cite doc="City of San Mateo, Cal., Code" path="1.04">Chapter 1.04 of the San Mateo Municipal Code</cite>. In addition, this Ordinance shall serve a defense in the event that an unlawful detainer action is commenced in violation of this Ordinance. In the event of a violation of this Ordinance, an aggrieved Tenant may institute a civil proceeding for injunctive relief, money damages of not less than three times actual damages (including damages for mental or emotional distress as specified below), and any other relief the Court deems appropriate. In the case of an award of damages for mental or emotional distress, said award shall only be trebled in the trier of fact finds that the Landlord acted in knowing violation of or in reckless disregard of this Ordinance. The prevailing party shall be entitled to reasonable attorney's fees and costs pursuant to court order. The remedies available under this section shall be in addition to any existing remedies which may be available to the tenant under local, state or federal law.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>Administrative review. The City Manager shall have the authority to review and grant relief to a landlord who experiences undue or excessive hardship as a result of this moratorium. An aggrieved landlord shall file a written request for relief explaining the nature of the hardship. Such request shall be accompanied by documentation supporting the claimed hardship, such as the property owner's interest in the property, price paid or option price, assessed value, tax on the property, mortgage indebtedness, income and expense statements for income-producing property, and the like. Decisions of the City Manager shall be appealable the City Council in the manner prescribed in Sections <cite doc="City of San Mateo, Cal., Code" path="7.16.100">7.16.100</cite>-<cite doc="City of San Mateo, Cal., Code" path="7.16.110">110</cite> of the Municipal Code.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>This ordinance shall remain in effect until July 31, 2020. Notwithstanding the foregoing, the provisions of subdivision 4(a) deferring the tenant's obligation to pay rent for 12 months after the date the local emergency has been lifted shall remain in effect until the completion of that 12 month period.</text>
+    </para>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with the California Environmental Quality Act (CEQA) guidelines section 15061(b)(3), adoption of this emergency ordinance is exempt from the provisions of CEQA, because there is no possibility that the implementation of this ordinance may have a significant effect on the environment. This ordinance will apply tenant protections to tenants in existing buildings for a limited period of time.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in a newspaper of general circulation in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.16">Section 2.16 of the City Charter</cite>.</text>
+    <text><strong>Legislative History and Effective Date. </strong>This ordinance was introduced and adopted on June 29, 2020, and shall be effective immediately upon adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Rodriguez, Bonilla, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
