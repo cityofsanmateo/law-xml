@@ -171,24 +171,26 @@
   <section>
     <num>7</num>
     <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
-    <text>PASSED AND ADOPTED by the City Council of the City of San Mateo, California at a regular City Council meeting held this 5<sup>th</sup> day of March 2018 by the following vote:</text>
-    <text>
-      <table>
-        <tr>
-          <th>AYES</th>
-          <td>Council Members Bonilla, Papan, Freschet, Goethals and Rodriguez</td>
-        </tr>
-        <tr>
-          <th>NOES</th>
-          <td>None</td>
-        </tr>
-        <tr>
-          <th>ABSENT</th>
-          <td>None</td>
-        </tr>
-      </table>
-    </text>
-    <text>ATTEST:</text>
   </section>
+    <procedural-data>
+      <text>PASSED AND ADOPTED by the City Council of the City of San Mateo, California at a regular City Council meeting held this 5<sup>th</sup> day of March 2018 by the following vote:</text>
+      <text>
+        <table>
+          <tr>
+            <th>AYES</th>
+            <td>Council Members Bonilla, Papan, Freschet, Goethals and Rodriguez</td>
+          </tr>
+          <tr>
+            <th>NOES</th>
+            <td>None</td>
+          </tr>
+          <tr>
+            <th>ABSENT</th>
+            <td>None</td>
+          </tr>
+        </table>
+      </text>
+      <text>ATTEST:</text>
+    </procedural-data>
   <codify:annotation doc="City of San Mateo, Cal., Code" path="27.16.050" type="Editor's Notes" history="false">See <cite doc="City of San Mateo, Cal., Ord. No. 2018-2">Ord. No. 2018-2</cite> for a moratorium on the development of residential rental units, with exceptions.</codify:annotation>
 </document>

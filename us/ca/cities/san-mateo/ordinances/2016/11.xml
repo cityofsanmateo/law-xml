@@ -201,6 +201,8 @@
     <num>6</num>
     <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
     <text>This Ordinance was introduced on November 7, 2016 and adopted on November 21, 2016, and shall be effective January 1, 2017.</text>
+  </section>
+  <procedural-data>
     <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
     <text>
       <table>
@@ -219,92 +221,91 @@
       </table>
     </text>
     <text>ATTEST:</text>
-  </section>
-  <text class="center">
-    <strong>Exhibit A</strong>
-  </text>
-  <text class="center">
-    <strong>FINDINGS FOR LOCAL AMENDMENTS TO CALIFORNIA GREEN BUILDING STANDARDS CODE, 2016 EDITION</strong>
-  </text>
-  <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">Section 17958 of the California Health and Safety Code</cite> provides that the City may make changes to the provisions in the uniform codes that are published in the California Building Standards Code.  Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> require that for each proposed local change to those provisions in the uniform codes and published in the California Building Standards Code which regulate buildings used for human habitation, the City Council must make findings supporting its determination that each such local change is reasonably necessary because of local climatic, geological, or topographical conditions.</text>
-  <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>.  Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings.  Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
-  <text>
-    <table>
-      <thead>
-        <tr>
-          <th>Code: California Green Building Code</th>
-        </tr>
-        <tr>
-          <th>Section(s)</th>
-          <th>Title</th>
-          <th>Add</th>
-          <th>Deleted</th>
-          <th>Amended</th>
-          <th>Justification (See below for keys)</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Chapter 4, Section 4.305</td>
-          <td>Mandatory Requirements for Water Reuse Systems</td>
-          <td/>
-          <td/>
-          <td>✓</td>
-          <td>A, B</td>
-        </tr>
-        <tr>
-          <td>Chapter 4, Section 4.106.4</td>
-          <td>Mandatory Requirements for Electric vehicle (EV) charging for new construction</td>
-          <td/>
-          <td/>
-          <td>✓</td>
-          <td>A</td>
-        </tr>
-        <tr>
-          <td>Chapter 5, Section 5.106.5.3</td>
-          <td>Mandatory Requirements for Electric vehicle (EV) charging</td>
-          <td/>
-          <td/>
-          <td>✓</td>
-          <td>A</td>
-        </tr>
-      </tbody>
-    </table>
-  </text>
-  <text class="center">
-    <strong>Key to Justification for Amendments to Title 24 of the California Code of Regulations</strong>
-  </text>
-  <para>
-    <num>A.</num>
-    <text>This amendment is justified on the basis of a local <strong><u>climatic</u></strong> condition.</text>
-    <text>Failure to address and significantly reduce greenhouse gas (GHG) emissions could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101 (Bayshore Freeway), particularly the mapped Flood Hazard areas of the City. Electric vehicle charging infrastructure is a key component in reducing GHG emissions, and EV charging installations can help the City of San Mateo reduce its share of the GHG emissions that contribute to climate change. Electric vehicle charging infrastructure will contribute to the reduction of GHG emissions by supporting the demand for electric vehicles and the associated EV chargers. The burning of fossil fuels used in the generation of electric power and heating of buildings contributes to climate change, which could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101. However, electric power will become cleaner over time as utilities achieve more stringent Renewable Portfolio Standard requirements, and translate the clean energy benefits to electric vehicles. Due to decrease in annual rain fall, the City experiences the effect of drought and water saving more than some other communities in California.</text>
-  </para>
-  <para>
-    <num>B.</num>
-    <text>Energy efficiency and water conservation enhances the public health and welfare by promoting the <strong><u>environmental</u></strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite> are designed to achieve the following goals:</text>
+  </procedural-data>
+  <attachment id="Ex. A">
+    <prefix>Exhibit</prefix>
+    <num>A</num>
+    <heading>FINDINGS FOR LOCAL AMENDMENTS TO CALIFORNIA GREEN BUILDING STANDARDS CODE, 2016 EDITION</heading>
+    <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">Section 17958 of the California Health and Safety Code</cite> provides that the City may make changes to the provisions in the uniform codes that are published in the California Building Standards Code.  Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> require that for each proposed local change to those provisions in the uniform codes and published in the California Building Standards Code which regulate buildings used for human habitation, the City Council must make findings supporting its determination that each such local change is reasonably necessary because of local climatic, geological, or topographical conditions.</text>
+    <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>.  Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings.  Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>Code: California Green Building Code</th>
+          </tr>
+          <tr>
+            <th>Section(s)</th>
+            <th>Title</th>
+            <th>Add</th>
+            <th>Deleted</th>
+            <th>Amended</th>
+            <th>Justification (See below for keys)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Chapter 4, Section 4.305</td>
+            <td>Mandatory Requirements for Water Reuse Systems</td>
+            <td/>
+            <td/>
+            <td>✓</td>
+            <td>A, B</td>
+          </tr>
+          <tr>
+            <td>Chapter 4, Section 4.106.4</td>
+            <td>Mandatory Requirements for Electric vehicle (EV) charging for new construction</td>
+            <td/>
+            <td/>
+            <td>✓</td>
+            <td>A</td>
+          </tr>
+          <tr>
+            <td>Chapter 5, Section 5.106.5.3</td>
+            <td>Mandatory Requirements for Electric vehicle (EV) charging</td>
+            <td/>
+            <td/>
+            <td>✓</td>
+            <td>A</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>Key to Justification for Amendments to Title 24 of the California Code of Regulations</strong>
+    </text>
     <para>
-      <num>(a)</num>
-      <text>Increase energy efficiency in buildings;</text>
+      <num>A.</num>
+      <text>This amendment is justified on the basis of a local <strong><u>climatic</u></strong> condition.</text>
+      <text>Failure to address and significantly reduce greenhouse gas (GHG) emissions could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101 (Bayshore Freeway), particularly the mapped Flood Hazard areas of the City. Electric vehicle charging infrastructure is a key component in reducing GHG emissions, and EV charging installations can help the City of San Mateo reduce its share of the GHG emissions that contribute to climate change. Electric vehicle charging infrastructure will contribute to the reduction of GHG emissions by supporting the demand for electric vehicles and the associated EV chargers. The burning of fossil fuels used in the generation of electric power and heating of buildings contributes to climate change, which could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101. However, electric power will become cleaner over time as utilities achieve more stringent Renewable Portfolio Standard requirements, and translate the clean energy benefits to electric vehicles. Due to decrease in annual rain fall, the City experiences the effect of drought and water saving more than some other communities in California.</text>
     </para>
     <para>
-      <num>(b)</num>
-      <text>Increase water and resource conservation;</text>
+      <num>B.</num>
+      <text>Energy efficiency and water conservation enhances the public health and welfare by promoting the <strong><u>environmental</u></strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code" path="23.70">this Chapter</cite> are designed to achieve the following goals:</text>
+      <para>
+        <num>(a)</num>
+        <text>Increase energy efficiency in buildings;</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Increase water and resource conservation;</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Provide durable buildings that are effcient and economical to own and operate;</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Promote the health and productivity of resients, workers, and visitors to the city;</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Recognize and conserve the eergy embodied in existing buildings; and</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Reduce disturbance of natural ecosystems.</text>
+      </para>
     </para>
-    <para>
-      <num>(c)</num>
-      <text>Provide durable buildings that are effcient and economical to own and operate;</text>
-    </para>
-    <para>
-      <num>(d)</num>
-      <text>Promote the health and productivity of resients, workers, and visitors to the city;</text>
-    </para>
-    <para>
-      <num>(e)</num>
-      <text>Recognize and conserve the eergy embodied in existing buildings; and</text>
-    </para>
-    <para>
-      <num>(f)</num>
-      <text>Reduce disturbance of natural ecosystems.</text>
-    </para>
-  </para>
+  </attachment>
 </document>

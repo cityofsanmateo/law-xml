@@ -1723,6 +1723,8 @@
   <section>
     <num>15</num>
     <text>The City Clerk is directed to send this Ordinance to the California Building Standards Commission.</text>
+  </section>
+  <procedural-data>
     <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
     <text>
       <table>
@@ -1741,47 +1743,46 @@
       </table>
     </text>
     <text>ATTEST:</text>
-  </section>
-  <text class="center">
-    <strong>
-      <u>EXHIBIT A</u>
-    </strong>
-  </text>
-  <text>
-    <strong><cite doc="City of San Mateo, Cal., Code" path="23.07.080">23.07.080</cite> SECTIONS R902.1 AMENDED--ROOFING REQUIREMENTS.</strong>
-  </text>
-  <text>
-    <strong><cite doc="City of San Mateo, Cal., Code" path="23.08.100">23.08.100</cite> SECTIONS 1505.1, 1505.1.3 AMENDED--ROOFING REQUIREMENTS,</strong>
-  </text>
-  <text>FINDINGS:</text>
-  <text><u>Local Climatic Conditions</u> - The weather patterns within the City of San Mateo are considered to be moderately affected by westerly winds that can average from 10-15 mph and gusts that can exceed 40 mph which are experienced almost year round.  An average year's rainfall is approximately 22.95 inches, while summer conditions are hot and dry.  These summer conditions create hazardous fuel situations that have caused grassland and brush land fires in recent years.  Year round average temperatures range from 58 in the winter to 81 degrees during the summer, however high temperatures have ranged from 75 in the winter to 110 degrees in the summer.  Low humidity, high temperatures and gusting winds can move a fire quickly in the hillsides and canyon areas of the City and can tax the capabilities of its urban designed fire department. Lower water pressure in these areas also affects the abilities to quickly suppress any fires.</text>
-  <text>Because of the unpredictable weather patterns, drought and water rationing can be expected, causing dry vegetation and hazardous fire conditions.  Weather patterns can go to the other extreme with heavy rains creating higher fuel load in the hillsides.  A heavy rain pattern would also impact a flood plain area located in the northeast portion of the City.  This condition has the potential of causing additional barriers in this area when flooding blocks streets and underpasses.</text>
-  <text>The conditions described in this section make it reasonably necessary for the City to adopt the following ordinance section as modifications to the 2016 California Residential and Building Codes and these findings are specifically intended to satisfy the requirements of <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">California Health and Safety Code Section 17958.7</cite> in that regard:  <cite doc="City of San Mateo, Cal., Code" path="23.07.080">San Mateo Municipal Code Section 23.07.080</cite> and <cite doc="City of San Mateo, Cal., Code" path="23.08.100">23.08.100</cite><strong>.</strong></text>
-  <text>
-    <strong><cite doc="City of San Mateo, Cal., Code" path="23.07.110">23.07.110</cite> SECTION R Section R602.10.3(3) and Table R602.10.4.4 AMENDED— prohibit the use of gypsum board and limit the use of Portland cement plaster as prescriptive wall bracing materials in Seismic Design Categories D</strong>
-    <sub>
-      <strong>0</strong>
-    </sub>
-    <strong>, D</strong>
-    <sub>
-      <strong>1</strong>
-    </sub>
-    <strong> and D</strong>
-    <sub>
-      <strong>2</strong>
-    </sub>
-  </text>
-  <text>FINDINGS:</text>
-  <text><u>Local Geological Conditions</u> – San Mateo is located near a vast array of fault systems capable of producing major earthquakes, including but not limited to, the recent 1989 Loma Prieta. Gypsum wallboard and exterior Portland cement plaster have performed poorly during recent California seismic events. The shear values for gypsum wallboard and portland cement stucco contained in the code are based on mono-directional testing. It is appropriate to limit the use of these products until cyclic loading testing are performed and evaluated.</text>
-  <text>
-    <strong><cite doc="City of San Mateo, Cal., Code" path="23.08.120">23.08.120</cite> SECTION 1705.3 Concrete Construction – Amended</strong>
-  </text>
-  <text>
-    <strong><cite doc="City of San Mateo, Cal., Code" path="23.08.130">23.08.130</cite> SECTION 1905.1.7, ACI 318 Section 14.1.4 – Amended</strong>
-  </text>
-  <text>FINDINGS:</text>
-  <text><u>Local Geological Conditions</u> – San Mateo is located near a vast array of fault systems capable of producing major earthquakes, including but not limited to, the recent 1989 Loma Prieta. Results from studies after the 1994 Northridge earthquake indicated that a lot of the damages were attributed to lack of quality control during construction. The proposed amendment improves quality control during construction and therefore needs to be incorporated into the Code. Revise CBC Section 1705.3 exception No. 1 to allow special inspection not to be required for isolated spread footing where the structural design of the footing is based on a specified compressive strength, f'c, no greater than 2,500 psi. This proposed amendment is a continuation of an amendment adopted during the previous code adoption cycle.</text>
-  <text><strong><cite doc="City of San Mateo, Cal., Code" path="23.16.020">23.16.020</cite> SECTION 719.0 AMENDED--CLEANOUTS</strong>.</text>
-  <text>FINDINGS:</text>
-  <text><u>Local Geological Conditions</u> – San Mateo soils are expansive in nature. These expansive soils create unstable conditions which increase the potential of breaks in sewer laterals. To maintain health and sanitary services, it is necessary to gain access and to periodically maintain public sanitary laterals. This is accomplished by the additional cleanout as required above.</text>
+  </procedural-data>
+  <attachment id="Ex. A">
+    <prefix>Exhibit</prefix>
+    <num>A</num>
+    <text>
+      <strong><cite doc="City of San Mateo, Cal., Code" path="23.07.080">23.07.080</cite> SECTIONS R902.1 AMENDED--ROOFING REQUIREMENTS.</strong>
+    </text>
+    <text>
+      <strong><cite doc="City of San Mateo, Cal., Code" path="23.08.100">23.08.100</cite> SECTIONS 1505.1, 1505.1.3 AMENDED--ROOFING REQUIREMENTS,</strong>
+    </text>
+    <text>FINDINGS:</text>
+    <text><u>Local Climatic Conditions</u> - The weather patterns within the City of San Mateo are considered to be moderately affected by westerly winds that can average from 10-15 mph and gusts that can exceed 40 mph which are experienced almost year round.  An average year's rainfall is approximately 22.95 inches, while summer conditions are hot and dry.  These summer conditions create hazardous fuel situations that have caused grassland and brush land fires in recent years.  Year round average temperatures range from 58 in the winter to 81 degrees during the summer, however high temperatures have ranged from 75 in the winter to 110 degrees in the summer.  Low humidity, high temperatures and gusting winds can move a fire quickly in the hillsides and canyon areas of the City and can tax the capabilities of its urban designed fire department. Lower water pressure in these areas also affects the abilities to quickly suppress any fires.</text>
+    <text>Because of the unpredictable weather patterns, drought and water rationing can be expected, causing dry vegetation and hazardous fire conditions.  Weather patterns can go to the other extreme with heavy rains creating higher fuel load in the hillsides.  A heavy rain pattern would also impact a flood plain area located in the northeast portion of the City.  This condition has the potential of causing additional barriers in this area when flooding blocks streets and underpasses.</text>
+    <text>The conditions described in this section make it reasonably necessary for the City to adopt the following ordinance section as modifications to the 2016 California Residential and Building Codes and these findings are specifically intended to satisfy the requirements of <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">California Health and Safety Code Section 17958.7</cite> in that regard:  <cite doc="City of San Mateo, Cal., Code" path="23.07.080">San Mateo Municipal Code Section 23.07.080</cite> and <cite doc="City of San Mateo, Cal., Code" path="23.08.100">23.08.100</cite><strong>.</strong></text>
+    <text>
+      <strong><cite doc="City of San Mateo, Cal., Code" path="23.07.110">23.07.110</cite> SECTION R Section R602.10.3(3) and Table R602.10.4.4 AMENDED— prohibit the use of gypsum board and limit the use of Portland cement plaster as prescriptive wall bracing materials in Seismic Design Categories D</strong>
+      <sub>
+        <strong>0</strong>
+      </sub>
+      <strong>, D</strong>
+      <sub>
+        <strong>1</strong>
+      </sub>
+      <strong> and D</strong>
+      <sub>
+        <strong>2</strong>
+      </sub>
+    </text>
+    <text>FINDINGS:</text>
+    <text><u>Local Geological Conditions</u> – San Mateo is located near a vast array of fault systems capable of producing major earthquakes, including but not limited to, the recent 1989 Loma Prieta. Gypsum wallboard and exterior Portland cement plaster have performed poorly during recent California seismic events. The shear values for gypsum wallboard and portland cement stucco contained in the code are based on mono-directional testing. It is appropriate to limit the use of these products until cyclic loading testing are performed and evaluated.</text>
+    <text>
+      <strong><cite doc="City of San Mateo, Cal., Code" path="23.08.120">23.08.120</cite> SECTION 1705.3 Concrete Construction – Amended</strong>
+    </text>
+    <text>
+      <strong><cite doc="City of San Mateo, Cal., Code" path="23.08.130">23.08.130</cite> SECTION 1905.1.7, ACI 318 Section 14.1.4 – Amended</strong>
+    </text>
+    <text>FINDINGS:</text>
+    <text><u>Local Geological Conditions</u> – San Mateo is located near a vast array of fault systems capable of producing major earthquakes, including but not limited to, the recent 1989 Loma Prieta. Results from studies after the 1994 Northridge earthquake indicated that a lot of the damages were attributed to lack of quality control during construction. The proposed amendment improves quality control during construction and therefore needs to be incorporated into the Code. Revise CBC Section 1705.3 exception No. 1 to allow special inspection not to be required for isolated spread footing where the structural design of the footing is based on a specified compressive strength, f'c, no greater than 2,500 psi. This proposed amendment is a continuation of an amendment adopted during the previous code adoption cycle.</text>
+    <text><strong><cite doc="City of San Mateo, Cal., Code" path="23.16.020">23.16.020</cite> SECTION 719.0 AMENDED--CLEANOUTS</strong>.</text>
+    <text>FINDINGS:</text>
+    <text><u>Local Geological Conditions</u> – San Mateo soils are expansive in nature. These expansive soils create unstable conditions which increase the potential of breaks in sewer laterals. To maintain health and sanitary services, it is necessary to gain access and to periodically maintain public sanitary laterals. This is accomplished by the additional cleanout as required above.</text>
+  </attachment>
 </document>
