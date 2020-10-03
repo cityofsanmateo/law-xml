@@ -71,6 +71,13 @@ before_build:
   - git -C ..\cityofsanmateo\law-xml rev-parse HEAD
 
 build_script:
+  - ps: >-
+      If (-Not $env:APPVEYOR_SCHEDULED_BUILD -eq $null){
+        git remote add upstream https://github.com/cityofsanmateo/law-xml.git
+        git fetch upstream
+        git merge upstream/master      
+      }
+
   - ps: $env:FLAG = if ($env:APPVEYOR_PULL_REQUEST_NUMBER -eq $null) { "--deploy" }
   - "%PYTHON%\\python.exe  -m oll.tools.cli ci build_preview --library-root .. --auth ../law %FLAG%"
 
