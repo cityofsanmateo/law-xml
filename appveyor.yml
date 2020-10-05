@@ -75,7 +75,8 @@ build_script:
       If (-Not $env:APPVEYOR_SCHEDULED_BUILD -eq $null){
         git remote add upstream https://github.com/cityofsanmateo/law-xml.git
         git fetch upstream
-        git merge upstream/master      
+        git merge upstream/master
+        git push        
       }
 
   - ps: $env:FLAG = if ($env:APPVEYOR_PULL_REQUEST_NUMBER -eq $null) { "--deploy" }
