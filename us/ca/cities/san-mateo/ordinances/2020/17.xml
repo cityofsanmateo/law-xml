@@ -1,0 +1,392 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2020-17">
+  <num>2020-17</num>
+  <heading type="short">Building Electrification Reach Codes</heading>
+  <heading type="long">Amending Chapter 23.24, "Energy Code," of Title 23, "Building and Construction," of the San Mateo Municipal Code to Require New Residential Buildings and Buildings with Office Use to be All-Electric and to Encourage Multifamily Residential Buildings with 100% Affordable Housing to be All-Electric</heading>
+  <meta>
+    <effective>2021-01-01</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2020-17.pdf">Ord. No. 2020-17</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2020-17</citation>
+    </citations>
+    <history>
+      <introduced>2020-09-21</introduced>
+      <adopted>2020-10-05</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City's Climate Action Plan recommended that the City review local amendments to the California Energy Code to promote increased energy efficiency and the use of renewable energy sources; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on August 19, 2019, the City Council adopted the California Energy Code, 2019 Edition, with local amendments to require solar installation on new nonresidential buildings and encourage building electrification in new single family and duplex homes and buildings with office use; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council identified additional local amendments to further reduce greenhouse gas emissions in new construction in alignment with the City's Climate Action Plan; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council recommends adopting local amendments to require new residential buildings and buildings with office use be all-electric; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council also recommends adopting local amendments to encourage multifamily buildings that consist of 100% affordable units to be all-electric; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>these local amendments would replace the City's previously adopted reach codes encouraging building electrification in new single family and duplex homes and buildings with office use; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City has completed an analysis and has determined that the requirements of the local amendments to the California Energy Code would provide a positive cost benefit to new construction within the City of San Mateo; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">California Health and Safety Code Section 17958</cite> requires that the City, in order to make local amendments, find that the local amendments are reasonably necessary due to local climatic, geographical, or topographical conditions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City's Section 17958 findings are attached as <cite path="attachments|Ex. A">Exhibit A</cite> to this Ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.020">Section 23.24.020 of the San Mateo Municipal Code</cite> is hereby amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.020"/>
+        <num>23.24.020</num>
+        <heading>Local Amendment to Definitions</heading>
+        <text>Subchapter 1, "All Occupancies – General Provisions," Section 100.1(b), of the 2019 state Energy Code is amended to add the following definitions:</text>
+        <text><strong>Affordable unit</strong> means housing that meets either of the following criteria:</text>
+        <para>
+          <num>(a)</num>
+          <text>housing that is affordable to very low-income, low-income, or moderate-income households, or designated as 100% for senior households. Very low-income, low-income, and moderate-income households have the meaning set forth in the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> sections <cite doc="Cal. Health &amp; Safety Code" path="§50105">50105</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§50079.5">50079.5</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§50093">50093</cite>, respectively. Senior households means households composed of qualifying residents as defined in <cite doc="Cal. Civ. Code" path="§51.3">Section 51.3 of the Civil Code</cite>; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>housing that meets the criteria of the Low-Income Housing Tax Credit Project or Department of Housing and Urban Development programs that assist low-income and moderate-income households.</text>
+        </para>
+        <aftertext><strong>All-electric building or all-electric design</strong> is a building or building design that uses a permanent supply of electricity as the only source of energy for space conditioning (including heating and cooling), water heating (including pools and spas), cooking appliances, and clothes drying appliances, and has no natural gas or propane plumbing installed at the building.</aftertext>
+        <aftertext><strong>Mixed-fuel building or mixed-fuel design</strong> is a building or building design that uses natural gas or propane as fuel for space heating, water heating (including pools and spas), cooking appliances or clothes drying appliances or is plumbed for such equipment.</aftertext>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.040">Section 23.24.040 of the San Mateo Municipal Code</cite> is hereby amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.040"/>
+        <num>23.24.040</num>
+        <heading>Local Amendment Regarding All-Electric Requirements for Residential Buildings and Buildings with Office Use.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Subchapter 2 "All Occupancies—Mandatory Requirements for The Manufacture, Construction And Installation Of Systems, Equipment And Building Components" is amended to add a new section 110.13 "All-Electric Buildings." Section 110.13 "All-Electric Buildings" shall read as follows:</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All newly constructed office buildings and residential buildings shall be designed, constructed, and equipped as All-Electric Buildings.</text>
+        </para>
+        <aftertext><strong>Exception to Section 110.13</strong>. Multifamily buildings that consist of 100% affordable units shall be exempt from the all-electric building provisions of this section. For purposes of this exception, "affordable unit" is defined in Section 100.1(b).</aftertext>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.050">Section 23.24.050 of the San Mateo Municipal Code</cite> is hereby amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.050"/>
+        <num>23.24.050</num>
+        <heading>Local Amendment Regarding All-Electric or Energy Efficiency Standards for High-Rise Multifamily Residential Buildings with 100% Affordable Units.</heading>
+        <para>
+          <num>(a)</num>
+          <text>All-electric high-rise multifamily buildings that consist of 100% affordable units are required to meet the established energy efficiency standards in Subchapter 5, "Nonresidential, High-rise Residential, and Hotel/Motel Occupancies – Performance and Prescriptive Compliance Approaches for Achieving Energy Efficiency," of the 2019 state Energy Code.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Mixed-fuel high-rise multifamily buildings that consist of 100% affordable units shall comply with increased energy efficiency standards. Subchapter 5, "Nonresidential, High-rise Residential, and Hotel/Motel Occupancies – Performance and Prescriptive Compliance Approaches for Achieving Energy Efficiency," of the 2019 state Energy Code is amended to require increased energy efficiency standards in the performance or prescriptive compliance approaches as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>Performance Approach: Energy Code Section 140.1 "Performance Approach: Energy Budgets" is amended to include the following performance standards for mixed-fuel high-rise multifamily building that consists of 100% affordable units: A newly constructed mixed-fuel high-rise multifamily building that consists of 100% affordable units complies with the performance approach if the energy budget calculated for the Proposed Design Building under Subsection (b) has a compliance margin exceeding the energy budget calculated for the Standard Design Building under Subsection (a) of at least 5%.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Prescriptive Approach: Energy Code Section 140.2 "Prescriptive Approach" is amended to include the following prescriptive standards for newly constructed mixed-fuel high-rise multifamily buildings that consist of 100% affordable units:</text>
+            <para>
+              <num>(A)</num>
+              <text>Install fenestration with a solar heat gain coefficient no greater than 0.22.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Design Variable Air Volume (VAV) box minimum airflows to be equal to the zone ventilation minimums.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Include economizers and staged fan control in air handlers with a mechanical cooling capacity ≥ 33,000 Btu/h</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Reduce the total lighting power density (Watts/ft2) by ten percent (10%) from that required from Table 140.6-C in the 2019 state Energy Code.</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Improve lighting without claiming any Power Adjustment Factor credits:</text>
+              <para>
+                <num>(i)</num>
+                <text>Control to daylight dimming plus off per 2019 state Energy Code Section 140.6(a)2H, and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Perform Institutional Tuning per 2019 state Energy Code Section 140.6(a)2J.</text>
+              </para>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>For all ducted central forced air heating systems and central fan integrated ventilation systems the duct distribution system shall be designed to reduce external static pressure to meet a maximum fan efficacy equal to 0.25 Watts per cfm according to the procedures outlined in the 2019 state Energy Code Reference Appendices RA3.3.</text>
+            </para>
+            <para>
+              <num>(G)</num>
+              <text>Hot water pipe insulation shall be verified by a HERS inspector, in accordance with the 2019 state Energy Code Reference Appendices Section RA3.6.3.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.060">Section 23.24.060 of the San Mateo Municipal Code</cite> is hereby amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.060"/>
+        <num>23.24.060</num>
+        <heading>Local Amendment Regarding All-Electric Buildings or Energy Efficiency Standards for Low-Rise Residential Buildings with 100% Affordable Units.</heading>
+        <para>
+          <num>(a)</num>
+          <text>All-electric low-rise residential buildings that consist of 100% affordable units are required to meet the established energy efficiency standards in Subchapter 8, "Low-rise Residential Buildings – Performance and Prescriptive Compliance Approaches," of the 2019 state Energy Code.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Mixed-fuel low-rise residential buildings that consist of 100% affordable units shall comply with increased energy efficiency standards. Subchapter 8, "Low-rise Residential Buildings – Performance and Prescriptive Compliance Approaches," of the 2019 state Energy Code is amended to require increased energy efficiency standards in the performance and prescriptive compliance approaches as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>Performance Approach: Section 150.1.b. "Performance standards" is amended to include the following performance standard for newly constructed mixed-fuel low-rise residential buildings that consist of 100% affordable units:</text>
+            <text>The Total Energy Design Rating calculated for the Proposed Design Building shall be at least 0.5 EDR points less than the Total Energy Design Rating calculated for the Standard Design Building.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Prescriptive Approach: Section 150.1.c. "Prescriptive standards/component packages" is amended to include the following prescriptive standards for newly constructed mixed-fuel low-rise residential buildings that consist of 100% affordable units:</text>
+            <para>
+              <num>(A)</num>
+              <text>Slab floor perimeter insulation shall be installed with an R-value equal to or greater than R10. The minimum depth of concrete-slab floor perimeter insulation shall be 16 inches or the depth of the footing of the building, whichever is less.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The hot water distribution system shall be designed and installed to meet minimum requirements for the basic compact hot water distribution credit according to the procedures outlined in the 2019 state Energy Code Reference Appendices RA4.4.6.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Central Fan Integrated Ventilation Systems. Central forced air system fans used to provide outside air, shall have an air-handling unit fan efficacy less than or equal to 0.35 W/CFM. The airflow rate and fan efficacy requirements in this section shall be confirmed through field verification and diagnostic testing in accordance with all applicable procedures specified in 2019 state Energy Code Reference Residential Appendix RA3.3. Central Fan Integrated Ventilation Systems shall be certified to the Energy Commission as Intermittent Ventilation Systems as specified in 2019 state Energy Code Reference Residential Appendix RA3.7.4.2.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Energy storage or Solar Thermal. Either of the following shall be installed:</text>
+              <para>
+                <num>(i)</num>
+                <text>A battery energy storage system with a capacity equivalent to the PV system shall be installed.  The system shall have automatic controls programmed to have the ability to charge anytime PV generation is greater than the building load and discharge to the electric grid during the highest priced time of use hours of the day , OR</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>A solar water heating system with a minimum solar savings fraction of 0.20.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.070">Section 23.24.070 of the San Mateo Municipal Code</cite> is hereby amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.24.070"/>
+        <num>23.24.070</num>
+        <heading>Infeasibility Exemption.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Exemption. If an applicant believes that circumstances exist that makes it infeasible to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite>, the applicant may request an exemption from the Building Official or designee at the time of planning application submittal. In applying for an exemption, the burden is on the applicant to show infeasibility. The applicant shall indicate the maximum threshold of compliance he or she believes is feasible to fully comply with <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Infeasibility. Circumstances that constitute infeasibility include, but are not limited to the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>There is a lack of commercially available materials and technologies to comply with the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite>;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Applying the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite> would effectuate an unconstitutional taking of property or otherwise have an unconstitutional application to the property.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Granting of Exemption. If the Building Official or designee determines that it is infeasible for the applicant to fully meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite> based on the information provided, the Building Official or designee, shall determine the maximum feasible threshold of compliance reasonably achievable for the project. The decision of the Building Official or designee shall be provided to the applicant in writing. If an exemption is granted, the applicant shall be required to comply with <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite> in all other respects and shall be required to achieve, in accordance with <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite>, the threshold of compliance determined to be achievable by the Building Official or designee.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Denial of Exemption. If the Building Official or designee determines that it is reasonably possible for the applicant to fully meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite>, the request shall be denied and the Building Official or designee shall so notify the applicant in writing. The project and compliance documentation shall be modified to comply with <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite> prior to further review of any pending planning or building permit application.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Appeals of Exemption Denial. If denied the infeasibility exemption, the applicant may appeal in writing to the Community Development Department (CDD) Director. The CDD Director will consider the information provided and render a written decision regarding infeasibility based on the factors set forth in <cite doc="City of San Mateo, Cal., Code" path="23.24">this Chapter</cite>. The decision of the CDD Director shall be final.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.080">Section 23.24.080 of the San Mateo Municipal Code</cite> is hereby added to <cite doc="City of San Mateo, Cal., Code" path="23.24">Chapter 23.24</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="23.24"/>
+        <num>23.24.080</num>
+        <heading>Expiration.</heading>
+        <text>These local code amendments shall sunset when the California Energy Code, 2019 Edition, is no longer in effect.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text>The Council adopts the findings supporting the local amendments to the California Energy Code, 2019 Edition, attached hereto as <cite path="attachments|Ex. A">Exhibit A</cite> and incorporated herein by reference.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15308, adoption of this Ordinance is categorially exempt from CEQA, because it imposes stricter energy efficiency requirements and is a regulatory action authorized by state law and intended to protect the environment.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>10</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>11</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on September 21, 2020, and adopted on October 5, 2020, and shall be effective January 1, 2021.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Rodriguez, Bonilla, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+  <attachment id="Ex. A">
+    <text class="center">
+      <strong>Exhibit A</strong>
+    </text>
+    <text class="center">
+      <strong>FINDINGS SUPPORTING LOCAL AMENDMENTS TO</strong>
+    </text>
+    <text class="center">
+      <strong>CALIFORNIA ENERGY CODE, 2019 EDITION</strong>
+    </text>
+    <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">Section 17958 of the California Health and Safety Code</cite> provides that the City may make changes to the provisions in the uniform codes that are published in the California Building Standards Code. Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> require that for each proposed local change to those provisions in the uniform codes and published in the California Building Standards Code which regulate buildings used for human habitation, the City Council must make findings supporting its determination that each such local change is reasonably necessary because of local climatic, geological, or topographical conditions.</text>
+    <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>. Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings. Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th colspan="6">Code: California Energy Code</th>
+          </tr>
+          <tr>
+            <th>Section(s)</th>
+            <th>Title</th>
+            <th>Add</th>
+            <th>Deleted</th>
+            <th>Amended</th>
+            <th>Justification (See below for keys)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Subchapter 1, Section 100.1</td>
+            <td>Definitions and Rules of Construction</td>
+            <td>X</td>
+            <td/>
+            <td/>
+            <td>A, B</td>
+          </tr>
+          <tr>
+            <td>Subchapter 2, Section 110.13</td>
+            <td>All Electric Buildings</td>
+            <td>X</td>
+            <td/>
+            <td>X</td>
+            <td>A, B</td>
+          </tr>
+          <tr>
+            <td>Subchapter 5, Section 140.0</td>
+            <td>Performance and Prescriptive Compliance Approaches</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td>A, B</td>
+          </tr>
+          <tr>
+            <td>Subchapter 8, Section 150.1</td>
+            <td>Performance and Prescriptive Compliance Approaches for Low-Rise Residential Buildings</td>
+            <td/>
+            <td/>
+            <td>X</td>
+            <td>A, B</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text class="center">
+      <strong>Key to Justification Supporting Amendments to <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite> of the California Code of Regulations</strong>
+    </text>
+    <para>
+      <num>1.</num>
+      <text>This amendment is justified on the basis of a local <strong><u>climatic</u></strong> condition. Failure to address and significantly reduce greenhouse gas (GHG) emissions could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101 (Bayshore Freeway), particularly the mapped Flood Hazard areas of the City. Energy efficiency and the use of renewable energy sources are key components in reducing GHG emissions, and construction of more energy efficient buildings with dedicated renewable energy installations can help the City of San Mateo reduce its share of the GHG emissions that contribute to climate change. The burning of fossil fuels used in the generation of electric power and heating of buildings contributes to climate change, which could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Energy efficiency enhances the public health and welfare by promoting the <strong><u>environmental</u></strong> and economic health of the City through the design, construction, maintenance, operation and deconstruction of buildings and sites by incorporating green practices into all development. The provisions in <cite doc="City of San Mateo, Cal., Code">this Chapter</cite> are designed to achieve the following goals:</text>
+    </para>
+    <text>a) Increase energy efficiency in buildings;</text>
+    <text>b) Increase resource conservation;</text>
+    <text>c) Provide durable buildings that are efficient and economical to own and operate;</text>
+    <text>d) Promote the health and productivity of residents, workers, and visitors to the city;</text>
+    <text>e) Recognize and conserve the energy embodied in existing buildings; and</text>
+    <text>f) Reduce disturbance of natural ecosystems.</text>
+  </attachment>
+</document>

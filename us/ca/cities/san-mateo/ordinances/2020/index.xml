@@ -3,6 +3,8 @@
   <heading>2020 Ordinances</heading>
   <heading type="short">2020</heading>
   <subheading>Codified Ordinances</subheading>
+  <xi:include href="./17.xml"/>
+  <xi:include href="./16.xml"/>
   <xi:include href="./15.xml"/>
   <xi:include href="./10.xml"/>
   <xi:include href="./9.xml"/>
