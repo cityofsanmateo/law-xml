@@ -38,7 +38,7 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="2.26">Chapter 2.26, "Sustainability Commission," of the San Mateo Municipal Code</cite> is hereby repealed.</text>
-    <codify:remove path="2.26" warning="false"/>
+    <codify:remove path="2.26" warning="false" history="false"/>
   </section>
   <section>
     <num>2</num>
