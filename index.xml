@@ -12,6 +12,7 @@
       <static-assets>https://github.com/oll-test-repos/openlawlibrary-law-static-assets</static-assets>
       <html>https://sanmateo.ca.us.open.law</html>
     </canonical-urls>
+	 <history-start>2018-01-01</history-start>
   </meta>
   <xi:include href="./us/ca/cities/san-mateo/charter/index.xml"/>
   <xi:include href="./us/ca/cities/san-mateo/code/index.xml"/>
