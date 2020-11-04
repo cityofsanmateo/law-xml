@@ -11,7 +11,7 @@
       <html-bulk>https://github.com/cityofsanmateo/law-html</html-bulk>
       <html>https://sanmateo.ca.us.open.law</html>
     </canonical-urls>
-	 <history-start>2018-03-05</history-start>
+    <history-start>2018-03-05</history-start>
   </meta>
   <xi:include href="./us/ca/cities/san-mateo/charter/index.xml"/>
   <xi:include href="./us/ca/cities/san-mateo/code/index.xml"/>
