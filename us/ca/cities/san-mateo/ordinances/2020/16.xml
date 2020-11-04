@@ -1,0 +1,238 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2020-16">
+  <num>2020-16</num>
+  <heading type="short">Electronic Cigarettes, Flavored Tobacco Regulations</heading>
+  <heading type="long">Add Sections 7.40.120, 7.40.130 and 7.40.140 to Chapter 7.40 of the San Mateo Municipal Code and amend Section 7.41.070 of the San Mateo Municipal Code to prohibit the sale of electronic cigarettes and flavored tobacco products and to prohibit the sale of tobacco products in pharmacies</heading>
+  <meta>
+    <effective>2021-01-01</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2020-16.pdf">Ord. No. 2020-16</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2020-16</citation>
+    </citations>
+    <history>
+      <introduced>2020-09-21</introduced>
+      <adopted>2020-10-05</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the San Mateo City Council has received expert testimony and finds that the use of electronic cigarettes by teens and young adults has increased significantly over the last few years and is now the tobacco product most often used by teens and young adults; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the testimony indicates and the City Council finds that the amount of nicotine contained in these products far exceeds the amount contained in cigarettes and greatly increases the likelihood that teen and young adult users will become addicted to the products; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the testimony indicates and the City Council finds that the use of these products causes damage to the lungs and brains of teens and young adult users; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the testimony indicates and the City Council finds that flavored tobacco products have become prevalent and have the effect of increasing the use of tobacco products by teens and young adults; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the testimony indicates and the City Council finds that teens and young adults frequently purchase tobacco products from brick and mortar retail establishments (including pharmacies) and that age restrictions have not prevented the ready access to tobacco products, including electronic cigarettes and flavored tobacco; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council is mindful of the provisions of state law restricting the sale of flavored tobacco products but finds that these restrictions do not sufficiently protect teens and young adults from the harmful effects of electronic cigarettes and flavored tobacco products.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.40.120">Section 7.40.120 "Sale of Electronic Cigarettes Prohibited" of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.40">Chapter 7.40</cite> "Smoking Control" as follows:</text>
+    <include>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.40"/>
+        <num>7.40.120</num>
+        <heading>Sale of Electronic Cigarettes Prohibited</heading>
+        <para>
+          <num>(a)</num>
+          <text>No person or tobacco retailer shall sell or distribute any Electronic Cigarette.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For the purposes of this section, the following definitions shall govern:</text>
+          <para>
+            <num>(1)</num>
+            <text>"Distribute" or "Distribution" means the transfer by any person other than a common carrier, at any point from the place of manufacture or thereafter to a Person who sells the electronic cigarette or other electronic smoking device.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>"Electronic Cigarette" has the meaning set forth in <cite doc="Cal. Rev. &amp; Tax. Code" path="§30121">Section 30121 of the California Revenue and Taxation Code</cite>, as may be amended from time to time.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>"Person" means any individual, partnership, cooperative association, private corporation, or any other legal entity.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>"Tobacco Retailer" means any person that engages in the retail sale or exchange of tobacco products (as defined in subsection (l) of <cite doc="City of San Mateo, Cal., Code" path="7.40.020">section 7.40.020</cite> of this Code).</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>"Sell", "Sale" or "to Sell" mean any transaction where, for any consideration, ownership is transferred from one Person or entity to another including, but not limited to any transfer of title or possession for consideration, exchange or barter, in any manner or by any means.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.40.130">Section 7.40.130 "Sale of Flavored Tobacco Prohibited" of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.40">Chapter 7.40</cite> "Smoking Control" as follows:</text>
+    <include>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.40"/>
+        <num>7.40.130</num>
+        <heading>Sale of Flavored Tobacco Prohibited</heading>
+        <para>
+          <num>(a)</num>
+          <text>The sale or offer for sale, by any person or tobacco retailer of any flavored tobacco product is prohibited and no person or tobacco retailer shall sell, or offer for sale, any flavored tobacco product.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>There shall be a rebuttable presumption that a tobacco product is a flavored tobacco product if a manufacturer or any of the manufacturer's agents or employees, in the course of their agency or employment, has made a statement or claim directed to consumers or to the public that the tobacco product has or produces a characterizing flavor including, but not limited to, text, color, and/or images on the product's labeling or packaging that are used to explicitly or implicitly communicate that the tobacco product has a characterizing flavor.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For the purposes of this section, the following definitions shall govern:</text>
+          <para>
+            <num>(1)</num>
+            <text>"Characterizing flavor" means a distinguishable taste or aroma or both, other than the taste or aroma of tobacco, imparted by a tobacco product or any byproduct produced by the tobacco product. Characterizing flavors include, but are not limited to, tastes or aroma relating to any fruit, chocolate, vanilla, honey, candy, cocoa, dessert, alcoholic beverage, menthol, mint, wintergreen, herb, or spice. A tobacco product shall not be determined to have a characterizing flavor solely because of the use of additives or flavorings or the provision of ingredient information. Rather, it is the presence of a distinguishable taste or aroma, or both, as described in the first sentence of this definition, that constitutes a characterizing flavor.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>"Constituent" means any ingredient, substance, chemical, or compound, other than tobacco, water, or reconstituted tobacco sheet that is added by the manufacturer to a tobacco product during the processing, manufacture, or packing of the tobacco product.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>"Distinguishable" means perceivable by either the sense of smell or taste.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>"Flavored tobacco product" means any tobacco product that contains a constituent that imparts a characterizing flavor.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>"Labeling" means written, printed, pictorial, or graphic matter upon any tobacco product or any of its packaging.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>"Packaging" means a pack, box, carton, or container of any kind or, if no other container, any wrapping (including cellophane) in which a tobacco product is sold, or offered for sale, to a consumer.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>"Tobacco product" is defined as set forth in subsection (l) of <cite doc="City of San Mateo, Cal., Code" path="7.40.020">Section 7.40.020</cite> of this Code.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>"Tobacco Retailer" means any person that engages in the retail sale or exchange of tobacco products.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.40.140">Section 7.40.140 "Sale of Tobacco Products in Pharmacies Prohibited" of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.40">Chapter 7.40</cite> "Smoking Control" as follows:</text>
+    <include>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.40"/>
+        <num>7.40.140</num>
+        <heading>Sale of Tobacco Products in Pharmacies Prohibited</heading>
+        <para>
+          <num>(a)</num>
+          <text>No pharmacy or pharmacy employee or agent shall sell or offer for sale any tobacco product.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No new tobacco retailer permit may be issued to a pharmacy under <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> of this Code.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No existing tobacco retailer permit issued under <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> of this Code may be renewed by a pharmacy.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>For the purposes of this section "pharmacy" means any retail establishment in which the profession of pharmacy is practiced by a pharmacist licensed by the State of California in accordance with the <cite doc="Cal. Bus. &amp; Prof. Code">Business and Professions Code</cite> and where prescription pharmaceuticals are offered for sale, regardless of whether the retail establishment sells other retail goods in addition to prescription pharmaceuticals.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.060">Section 7.41.060 "Enforcement of Applicable Law" of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="7.41.060"/>
+        <num>7.41.060</num>
+        <heading>Enforcement of Applicable Law</heading>
+        <text>If an agent or employee of the tobacco retailer violates any provisions of <cite doc="City of San Mateo, Cal., Code" path="7.41">this chapter</cite> or any city, federal, or state tobacco-related law, the tobacco retailer shall immediately report the violation to the Police Department and the Environmental Health Division.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text>Subsection (a) of <cite doc="City of San Mateo, Cal., Code" path="7.41.070">Section 7.41.070 "Suspension of Permit" of the San Mateo Municipal Code</cite> is amended as follows</text>
+    <include>
+      <para>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="7.41.070|(a)"/>
+        <num>(a)</num>
+        <text>Grounds for Suspension. A tobacco retailer's permit may be suspended, as set forth below in subdivision (b), by the Director upon a finding, after notice and opportunity to be heard, that either of the following occurred:</text>
+        <para>
+          <num>(1)</num>
+          <text>After the permit was issued it was determined that the application for the permit is incomplete or inaccurate.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The permittee or his or her agent has violated any provision of <cite doc="City of San Mateo, Cal., Code" path="7.41">this chapter</cite> or any city, federal, or state tobacco-related law.</text>
+        </para>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) section 21065, this action is not a project because it can be seen with certainty that it will not cause a physical change in the environment.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on September 21, 2020, and adopted on October 5, 2020, and shall be effective on January 1, 2021.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Rodriguez, Bonilla, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

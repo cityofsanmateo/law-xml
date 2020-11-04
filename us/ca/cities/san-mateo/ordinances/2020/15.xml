@@ -1,0 +1,144 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2020-15" codify:doc="City of San Mateo, Cal., Code">
+  <num>2020-15</num>
+  <heading type="short">Safe Gun Storage</heading>
+  <heading type="long">Add Chapter 10.28 "Safe Gun Storage" to the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2020-10-21</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2020-15.pdf">Ord. No. 2020-15</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2020-15</citation>
+    </citations>
+    <history>
+      <introduced>2020-09-08</introduced>
+      <adopted>2020-09-21</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>unsecured guns may increase the likelihood of crime and violence through an increased risk of gun theft; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>each year, an estimated 200,000 to 500,000 guns are stolen, and many are funneled into the underground market; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>access to unsecured firearms contributes to gun violence among children and teens; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>despite the safety risks, the majority of gun owners do not secure all of their firearms; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>contrary to popular belief, locking devices do not prevent owners from readily accessing their firearms; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>we are all safer when guns are stored unloaded, locked and separate from ammunition.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Section 1. <cite doc="City of San Mateo, Cal., Code" path="10.28">Chapter 10.28</cite> "Safe Gun Storage" is added to <cite doc="City of San Mateo, Cal., Code" path="10">Title 10, "Peace, Safety and Morals" of the San Mateo Municipal Code</cite> to read as follows:</text>
+    <codify:insert path="10" after='10.26'>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>10.28</num>
+        <heading>Safe Gun Storage</heading>
+      </container>
+    </codify:insert>
+    <include>
+      <container codify:path="10.28">
+        <prefix>Chapter</prefix>
+        <num>10.28</num>
+        <heading>Safe Gun Storage</heading>
+        <section>
+          <codify:insert/>
+          <num>10.28.010</num>
+          <heading>Title</heading>
+          <text><cite doc="City of San Mateo, Cal., Code" path="10.28">This Chapter</cite> shall be known as Safe Gun Storage.</text>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>10.28.020</num>
+          <heading>Definitions</heading>
+          <text>For the purposes of the <cite doc="City of San Mateo, Cal., Code" path="10.28">Chapter 10.28</cite>, the following words and phrases shall have the meaning set forth herein:</text>
+          <para>
+            <num>(a)</num>
+            <text>"Firearm" means a device, designed to be used as a weapon, from which is expelled through a barrel, a projectile by the force of an explosion or other form of combustion.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Locked container" means a secure container that is fully enclosed and locked by a padlock, keylock, combination lock, or similar locking device. "Locked container" shall not include the utility or glove compartment of a motor vehicle.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Locking device" means a trigger lock or other designed to prevent a firearm from functioning and, when applied to the firearm, renders the firearm inoperable.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Unloaded" means without a cartridge in the chamber of the firearm; in the cylinder of the firearm, if the firearm is a revolver; or in the magazine of the firearm, if any part of the magazine is in or affixed to the firearm.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>10.28.030</num>
+          <heading>Safe Gun Storage Required</heading>
+          <text>No person shall store or keep any firearm on any premises unless the firearm is unloaded and in a locked container, or unloaded and affixed with a locking device; or carried on the person, or is otherwise in the immediate possession of an individual in accordance with all applicable laws.</text>
+        </section>
+        <section>
+          <codify:insert/>
+          <num>10.28.040</num>
+          <heading>Violations and Enforcement</heading>
+          <text>Any violation of <cite doc="City of San Mateo, Cal., Code" path="10.28">this chapter</cite> is punishable as specified in <cite doc="City of San Mateo, Cal., Code" path="1">Title 1 of the San Mateo Municipal Code</cite>.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 21065, this ordinance is not a project because it can be seen with certainty that it's adoption will not cause a physical change in the environment.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on September 8, 2020, and adopted on September 21, 2020, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Rodriguez, Bonilla, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
