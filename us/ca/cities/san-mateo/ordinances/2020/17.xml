@@ -287,6 +287,8 @@
     <num>11</num>
     <heading>Legislative History and Effective Date.</heading>
     <text>This ordinance was introduced on September 21, 2020, and adopted on October 5, 2020, and shall be effective January 1, 2021.</text>
+  </section>
+  <procedural-data>
     <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
     <text>
       <table>
@@ -305,6 +307,8 @@
       </table>
     </text>
     <text>ATTEST:</text>
+  </procedural-data>
+  <attachment id="Ex. A">
     <text class="center">
       <strong>Exhibit A</strong>
     </text>
@@ -384,5 +388,5 @@
     <text>d) Promote the health and productivity of residents, workers, and visitors to the city;</text>
     <text>e) Recognize and conserve the energy embodied in existing buildings; and</text>
     <text>f) Reduce disturbance of natural ecosystems.</text>
-  </section>
+  </attachment>
 </document>

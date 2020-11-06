@@ -226,6 +226,8 @@
     <num>6</num>
     <heading>Legislative history and effective date.</heading>
     <text>This ordinance was introduced on August 19, 2019, and adopted on September 3, 2019, and shall be effective on January 1, 2020</text>
+  </section>
+  <procedural-data>
     <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, California by the following vote:</text>
     <text>
       <table>
@@ -244,12 +246,11 @@
       </table>
     </text>
     <text>ATTEST:</text>
-    <text class="center">
-      <strong>Exhibit A</strong>
-    </text>
-    <text class="center">
-      <strong>FINDINGS SUPPORTING LOCAL AMENDMENTS TO CALIFORNIA GREEN BUILDING STANDARDS CODE, 2019 EDITION</strong>
-    </text>
+  </procedural-data>
+  <attachment id="Ex. A">
+    <prefix>Exhibit</prefix>
+    <num>A</num>
+    <heading>FINDINGS SUPPORTING LOCAL AMENDMENTS TO CALIFORNIA GREEN BUILDING STANDARDS CODE, 2019 EDITION</heading>
     <text><cite doc="Cal. Health &amp; Safety Code" path="§17958">Section 17958 of the California Health and Safety Code</cite> provides that the City may make changes to the provisions in the uniform codes that are published in the California Building Standards Code. Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> require that for each proposed local change to those provisions in the uniform codes and published in the California Building Standards Code which regulate buildings used for human habitation, the City Council must make findings supporting its determination that each such local change is reasonably necessary because of local climatic, geological, or topographical conditions.</text>
     <text>Local building regulations having the effect of amending the uniform codes, which were adopted by the City prior to November 23, 1970, were unaffected by the regulations of Sections <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite> of the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>. Therefore, amendments to the uniform codes which were adopted by the City Council prior to November 23, 1970, and have been carried through from year to year without significant change, need no required findings. Also, amendments to provisions not regulating buildings used for human habitation, including amendments made only for administrative consistency, do not require findings.</text>
     <text>
@@ -302,5 +303,5 @@
       <num>a.</num>
       <text>This amendment is justified on the basis of a local <strong><u>climatic</u></strong> condition. Failure to address and significantly reduce greenhouse gas (GHG) emissions could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101 (Bayshore Freeway), particularly the mapped Flood Hazard areas of the City. Electric vehicle charging infrastructure is a key component in reducing GHG emissions, and EV charging installations can help the City of San Mateo reduce its share of the GHG emissions that contribute to climate change. Electric vehicle charging infrastructure will contribute to the reduction of GHG emissions by supporting the demand for electric vehicles and the associated EV chargers. The burning of fossil fuels used in the generation of electric power and heating of buildings contributes to climate change, which could result in rises in sea level, including in San Francisco Bay, that could put at risk City homes and businesses, public facilities, and Highway 101. However, electric power will become cleaner over time as utilities achieve more stringent Renewable Portfolio Standard requirements, and translate the clean energy benefits to electric vehicles.</text>
     </para>
-  </section>
+  </attachment>
 </document>
