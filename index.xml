@@ -10,6 +10,7 @@
       <xml-bulk>https://github.com/cityofsanmateo/law-xml</xml-bulk>
       <html-bulk>https://github.com/cityofsanmateo/law-html</html-bulk>
       <html>https://sanmateo.ca.us.open.law</html>
+      <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
     </canonical-urls>
     <history-start>2018-03-05</history-start>
   </meta>
