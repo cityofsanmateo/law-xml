@@ -18,6 +18,7 @@
   <xi:include href="./us/ca/cities/san-mateo/code/index.xml"/>
   <collection name="us/ca/cities/san-mateo/ordinances">
     <heading>Ordinances</heading>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2021/index.xml"/>
     <xi:include href="./us/ca/cities/san-mateo/ordinances/2020/index.xml"/>
     <xi:include href="./us/ca/cities/san-mateo/ordinances/2019/index.xml"/>
     <xi:include href="./us/ca/cities/san-mateo/ordinances/2018/index.xml"/>

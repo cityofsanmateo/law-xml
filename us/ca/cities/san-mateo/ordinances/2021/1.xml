@@ -1,0 +1,80 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-1">
+  <num>2021-1</num>
+  <heading type="short">“Housing Rehabilitation Loan Committee” Code Chapter Deletion</heading>
+  <heading type="long">Repeal Chapter 2.25 of Municipal Code, "Housing Rehabilitation Loan Committee"</heading>
+  <meta>
+    <effective>2021-02-18</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-1.pdf">Ord. No. 2021-1</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-1</citation>
+    </citations>
+    <history>
+      <introduced>2021-01-04</introduced>
+      <adopted>2021-01-19</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>from 1975 to 2012 the City funded a Housing Rehabilitation Loan program funded primarily with federal Community Development Block Grant funds, and augmented with a State CalHome grant from 2008-2012; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Housing Rehabilitation Loan Program was discontinued in 2012 due to reductions in staffing and grant funding, as well as the difficulty in locating eligible low-income homeowners who were willing to obtain loans secured against their property; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the role of the Housing Rehabilitation Loan Committee was to meet monthly and review and approve loan applications for the program; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City has determined that there no longer is a need for the Housing Rehabilitation Loan Committee; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+      <text><cite doc="City of San Mateo, Cal., Code" path="2.25">Chapter 2.25</cite> "Housing Rehabilitation Loan Committee" is repealed from the City of San Mateo Municipal Code.</text>
+      <codify:repeal doc="City of San Mateo, Cal., Code" path="2.25"/>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>Environmental Determination.</heading>
+    <text>This ordinance is not a project subject to CEQA, because it is an organizational or administrative activity that will not result in direct or indirect physical changes in the environment. (CEQA Guidelines Section 15378(b)(5).)</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on January 4, 2021, and adopted on January 19, 2021, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
