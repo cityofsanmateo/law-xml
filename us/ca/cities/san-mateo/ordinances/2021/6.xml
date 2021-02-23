@@ -35,8 +35,8 @@
     <num>1</num>
     <text>The table in <cite doc="City of San Mateo, Cal., Code" path="1.04.050">Section 1.04.050</cite> of <cite doc="City of San Mateo, Cal., Code" path="1">Title 1</cite> is amended to add <cite doc="City of San Mateo, Cal., Code" path="5.66">Chapter 5.66</cite> to the list of Municipal Code Chapters of the San Mateo Municipal Code that may be enforced by the Community Development Director, Neighborhood Improvement and Housing Manager, Senior Code Enforcement Officer, and Code Enforcement Officer.</text>
     <codify:find-replace doc="City of San Mateo, Cal., Code" path="1.04.050" count="1">
-      <find>, Sections</find>
-      <replace>, <cite path="5.66">5.66</cite>, Sections</replace>
+      <find><cite path="5.64">5.64</cite>, Sections</find>
+      <replace><cite path="5.64">5.64</cite>, <cite path="5.66">5.66</cite>, Sections</replace>
     </codify:find-replace>
   </section>
   <section>
