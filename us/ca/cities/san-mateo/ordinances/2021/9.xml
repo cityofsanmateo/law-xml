@@ -263,7 +263,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.20.065">Section 27.20.065 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replacedoc="City of San Mateo, Cal., Code" path="27.20.065"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.20.065"/>
         <num>27.20.065</num>
         <heading>Maximum Floor Area Ratio (Central Neighborhood &amp; North Central Neighborhood)</heading>
         <text>The floor area ratio of buildings and structures on zoning plots in the R2 district located in the Central Neighborhood and North Central Neighborhood shall not exceed 0.5 for parcels up to 7,500 square feet and 0.6 for parcels greater than 7,500 square feet.</text>
