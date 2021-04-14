@@ -335,11 +335,11 @@
           <text>1905.1.8 ACI 318 Section 14.1.4. Delete ACI 318, Section 14.1.4, and replace with the following:</text>
           <include>
             <para>
-              <num>14.1.4-</num>
-              <text>Plain concrete in structures assigned to Seismic Design Category C, D, E or F.</text>
+              <num>14.1.4</num>
+              <text>- Plain concrete in structures assigned to Seismic Design Category C, D, E or F.</text>
               <para>
-                <num>14.1.4.1-</num>
-                <text>Structures assigned to Seismic Design Category C, D, E or F shall not have elements of structural plain concrete, except as follows:</text>
+                <num>14.1.4.1</num>
+                <text>- Structures assigned to Seismic Design Category C, D, E or F shall not have elements of structural plain concrete, except as follows:</text>
                 <para>
                   <num>(a)</num>
                   <text>Isolated footings of plain concrete supporting pedestals or columns are permitted, provided the projection of the footing beyond the face of the supported member does not exceed the footing thickness.</text>
