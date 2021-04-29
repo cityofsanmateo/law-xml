@@ -33,7 +33,7 @@
     <include>
       <container>
         <codify:insert doc="City of San Mateo, Cal., Code" path="10" after="10.16"/>
-        <prefix>CHAPTER</prefix>
+        <prefix codify:value="Chapter">CHAPTER</prefix>
         <num>10.20</num>
         <heading>FIREWORKS</heading>
         <section>
@@ -61,7 +61,7 @@
           </para>
         </section>
         <section>
-          <num>10.020.020</num>
+          <num codify:value="10.20.020">10.020.020</num>
           <heading>Sale and Use of Fireworks Prohibited</heading>
           <para>
             <num>(a)</num>
@@ -73,11 +73,11 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>Should the provisions of <cite doc="City of San Mateo, Cal., Code" path="10.020">this chapter</cite> conflict with the provisions of any other ordinance or city code section of the city, the provisions of this section shall prevail.</text>
+            <text>Should the provisions of <cite doc="City of San Mateo, Cal., Code" path="10.20">this chapter</cite> conflict with the provisions of any other ordinance or city code section of the city, the provisions of this section shall prevail.</text>
           </para>
         </section>
         <section>
-          <num>10.020.030</num>
+          <num codify:value="10.20.030">10.020.030</num>
           <heading>Fireworks Seizure</heading>
           <text>The Chief of Police or his/her designee shall seize, remove or cause to be removed at the expense of the owner all stocks of fireworks offered or exposed for sale, stored, or held in violation of this code.</text>
         </section>
