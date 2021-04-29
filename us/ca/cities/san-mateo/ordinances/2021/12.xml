@@ -32,7 +32,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="10.20">Chapter 10.20 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="10">Title 10</cite> as follows:</text>
     <include>
       <container>
-        <codify:inseert doc="City of San Mateo, Cal., Code" path="10" after="10.16"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="10" after="10.16"/>
         <prefix>CHAPTER</prefix>
         <num>10.20</num>
         <heading>FIREWORKS</heading>
