@@ -39,6 +39,19 @@ install:
 
 before_build:
   - ps: >-
+      If (-Not $env:APPVEYOR_SCHEDULED_BUILD -eq $null){
+        git remote add upstream https://github.com/cityofsanmateo/law-xml.git;
+        git fetch upstream;
+        git merge upstream/master;
+        git diff --name-only --diff-filter=U >> output.log;
+        If (-Not [String]::IsNullOrWhiteSpace((Get-content output.log))){
+          throw 'Merge with upstream failed. Please update the repository manually';
+        }
+        else {
+          git push;
+        }
+      }
+
       If ($env:TAF_BRANCH) {
         git clone -q git@github.com:openlawlibrary/taf.git ..\wheels\taf
         git -C ..\wheels\taf checkout -q $env:TAF_BRANCH
@@ -56,6 +69,7 @@ before_build:
         $env:CORE_WHEEL = "--pre oll-core"
         $env:PARTNERS_WHEEL = "--pre oll-partners"
       };
+
   - "%PYTHON%\\python.exe -m pip -q install wheel"
   - "%PYTHON%\\python.exe -m pip -q install %TAF_WHEEL%"
   - "%PYTHON%\\python.exe -m pip -q install %CORE_WHEEL%"
@@ -74,14 +88,6 @@ before_build:
   - git -C ..\cityofsanmateo\law-xml rev-parse HEAD
 
 build_script:
-  - ps: >-
-      If (-Not $env:APPVEYOR_SCHEDULED_BUILD -eq $null){
-        git remote add upstream https://github.com/cityofsanmateo/law-xml.git
-        git fetch upstream
-        git merge upstream/master
-        git push        
-      }
-
   - ps: $env:FLAG = if ($env:APPVEYOR_PULL_REQUEST_NUMBER -eq $null) { "--deploy" }
   - "%PYTHON%\\python.exe  -m oll.tools.cli ci build_preview --library-root .. --auth ../law %FLAG%"
 
