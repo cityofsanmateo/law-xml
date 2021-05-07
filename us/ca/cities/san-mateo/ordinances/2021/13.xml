@@ -41,10 +41,10 @@
     <codify:repeal doc="City of San Mateo, Cal., Code" path="13.35"/>
     <codify:repeal doc="City of San Mateo, Cal., Code" path="13.52"/>
   </section>
-  <section codify:doc="City of San Mateo, Cal., Code" codify:path="1.04.050|(a)">
+  <section codify:doc="City of San Mateo, Cal., Code" codify:path="1.04.050">
     <num>2</num>
     <text>The table in <cite doc="City of San Mateo, Cal., Code" path="1.04.050">Section 1.04.050</cite>, "Enforcement – Citation Authority," is amended to:</text>
-    <para>
+    <para codify:path="(a)">
       <num>(a)</num>
       <text>replace the references to Chapters <cite doc="City of San Mateo, Cal., Code" path="13.35">13.35</cite> and <cite doc="City of San Mateo, Cal., Code" path="13.52">13.52</cite> with references to <cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40</cite>; and</text>
       <codify:find-replace>
@@ -66,7 +66,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40 of the San Mateo Municipal Code</cite> is adopted to read as follows:</text>
     <include>
       <container>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="13"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="13" before="13.52"/>
         <prefix>Chapter</prefix>
         <num>13.40</num>
         <heading>Protected Trees</heading>
