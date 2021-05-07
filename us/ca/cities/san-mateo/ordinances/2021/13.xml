@@ -41,7 +41,7 @@
     <codify:repeal doc="City of San Mateo, Cal., Code" path="13.35"/>
     <codify:repeal doc="City of San Mateo, Cal., Code" path="13.52"/>
   </section>
-  <section>
+  <section codify:doc="City of San Mateo, Cal., Code" codify:path="1.04.050|(a)">
     <num>2</num>
     <text>The table in <cite doc="City of San Mateo, Cal., Code" path="1.04.050">Section 1.04.050</cite>, "Enforcement – Citation Authority," is amended to:</text>
     <para>
