@@ -39,7 +39,8 @@ install:
 
 before_build:
   - ps: >-
-      If (-Not $env:APPVEYOR_SCHEDULED_BUILD -eq $null){
+      If ($env:APPVEYOR_SCHEDULED_BUILD -eq $True){
+        echo 'Scheduled build. Checking if upstream can be merged';
         git remote add upstream https://github.com/cityofsanmateo/law-xml.git;
         git fetch upstream;
         git merge upstream/master;
@@ -50,7 +51,7 @@ before_build:
         else {
           git push;
         }
-      }
+      };
 
       If ($env:TAF_BRANCH) {
         git clone -q git@github.com:openlawlibrary/taf.git ..\wheels\taf
