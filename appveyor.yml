@@ -49,7 +49,13 @@ before_build:
           throw 'Merge with upstream failed. Please update the repository manually';
         }
         else {
-          git push;
+          echo 'Upstream changes have been merged.';
+          git remote set-url origin git@github.com:oll-test-repos/cityofsanmateo-law-xml.git;
+          $requirementsContent = 'oll-partners # oll.partners.us.ca.cities.san_mateo';
+          $requirementsContent | Set-Content -Path 'requirements.txt';
+          git add requirements.txt;
+          git commit -m "Reverted requirements.txt update";
+          git push origin HEAD:master;
         }
       };
 
@@ -94,7 +100,14 @@ build_script:
 
 test_script:
   # run roundtrip tests
-  - "cd %APPVEYOR_BUILD_FOLDER% && %PYTHON%\\python.exe -m pytest --pyargs oll.partners.us.ca.cities.san_mateo.tests.docs.code.roundtrip -m \"full_roundtrip\""
+  - ps: >-
+      if ($env:APPVEYOR_REPO_BRANCH -eq 'master' -Or $env:APPVEYOR_PULL_REQUEST_HEAD_REPO_BRANCH -eq 'master'){
+        cd $env:APPVEYOR_BUILD_FOLDER;
+        $run_roundtrip = $env:PYTHON + '\python.exe -m pytest --pyargs oll.partners.us.ca.cities.san_mateo.tests.docs.code.roundtrip -m "full_roundtrip"';
+        iex $run_roundtrip;
+      } else {
+        echo "Skipping rountrip tests - not master branch build";
+      }
 notifications:
   - provider: Slack
     incoming_webhook:
