@@ -1,0 +1,86 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2020-18">
+  <num>2020-18</num>
+  <heading type="short">Hotel Transient Occupancy Tax</heading>
+  <heading type="long">Amending Section 3.56.030, "General Tax," of Title 3, "Taxation and Finance," of the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2021-01-01</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2020-18.pdf">Ord. No. 2020-18</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2020-18</citation>
+    </citations>
+    <history>
+      <introduced>2020-07-20</introduced>
+      <adopted>2020-11-16</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Code" path="3.56.030">Section 3.56.030</cite> currently provides for a 10% general tax on the privilege of occupying a hotel room within the city; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council has determined that an 2% increase in the Transient Occupancy Tax is an important part of a comprehensive fiscal sustainability plan developed to respond to financial challenges that have been exacerbated by the novel coronavirus pandemic; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council submitted a ballot measure approving this tax rate increase to the city's voters, and the voters approved the proposed increase.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="3.56.030">Section 3.56.030</cite> "General Tax", of <cite doc="City of San Mateo, Cal., Code" path="3.56">Chapter 3.56, "Transient Occupancy Tax" of the San Mateo Municipal Code</cite> is amended to read:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="3.56.030"/>
+        <num>3.56.030</num>
+        <heading>GENERAL TAX</heading>
+        <text>For the privilege of occupancy in any hotel, each transient is subject to and shall pay a general tax in the amount of 12% of the rent charged by the operator. Said tax constitutes a debt owed by the transient to the City which is extinguished only by payment to the operator or to the City. The transient shall pay the tax to the operator of the hotel at the time the rent is paid. If the rent is paid in installments, a proportionate share of the tax shall be paid with each installment. The unpaid tax shall be due upon the transient's ceasing to occupy space in the hotel. If for any reason the tax due is not paid to the operator of the hotel, the Tax Collector may require that such tax shall be paid directly to the Tax Collector.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>in accordance with <cite doc="Cal. Pub. Res. Code" path="§21065">California Public Resources Code Section 21065</cite> the adoption of this ordinance is not a project under the California Environmental Quality Act (CEQA), because it can be seen with certainty that it will not cause a physical effect on the environment.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on July 20, 2020, and adopted on November 16, 2020, and shall be effective on January 1, 2021.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Goethals, Rodriguez, Bonilla, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

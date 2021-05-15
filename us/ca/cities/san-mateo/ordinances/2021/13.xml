@@ -1,0 +1,667 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-13">
+  <num>2021-13</num>
+  <heading type="short">Chapter 13.40 “Protected Trees”</heading>
+  <heading type="long">Repealing Chapter 13.35, "Street Trees" and Chapter 13.52 "Heritage Trees" of Title 13, "Parks and Recreation," and Adopting a New Chapter 13.40, "Protected Trees," of the San Mateo Municipal Code.</heading>
+  <meta>
+    <effective>2021-07-01</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-13.pdf">Ord. No. 2021-13</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-13</citation>
+    </citations>
+    <history>
+      <introduced>2021-04-19</introduced>
+      <adopted>2021-05-03</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City has a street tree ordinance codified at <cite doc="City of San Mateo, Cal., Code" path="13.35">Chapter 13.35</cite> of the Municipal Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City has a heritage tree ordinance codified at <cite doc="City of San Mateo, Cal., Code" path="13.52">Chapter 13.52</cite> of the Municipal Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City wishes to combine those Chapters into a new <cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40</cite> addressing all protected trees; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City wishes to simplify and update the provisions protecting trees to match current best practices;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Chapters <cite doc="City of San Mateo, Cal., Code" path="13.35">13.35</cite> and <cite doc="City of San Mateo, Cal., Code" path="13.52">13.52</cite> of the San Mateo Municipal Code are repealed.</text>
+    <codify:repeal doc="City of San Mateo, Cal., Code" path="13.35"/>
+    <codify:repeal doc="City of San Mateo, Cal., Code" path="13.52"/>
+  </section>
+  <section codify:doc="City of San Mateo, Cal., Code" codify:path="1.04.050">
+    <num>2</num>
+    <text>The table in <cite doc="City of San Mateo, Cal., Code" path="1.04.050">Section 1.04.050</cite>, "Enforcement – Citation Authority," is amended to:</text>
+    <para codify:path="(a)">
+      <num>(a)</num>
+      <text>replace the references to Chapters <cite doc="City of San Mateo, Cal., Code" path="13.35">13.35</cite> and <cite doc="City of San Mateo, Cal., Code" path="13.52">13.52</cite> with references to <cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40</cite>; and</text>
+      <codify:find-replace>
+        <find>Chapters <cite path="13.35">13.35</cite>, <cite path="13.52">13.52</cite></find>
+        <replace><cite path="13.40">Chapter 13.40</cite></replace>
+      </codify:find-replace>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Add Managing Arborist and Director of Parks and Recreation to the list of positions authorized to enforce <cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40</cite>.</text>
+      <codify:find-replace>
+        <find>Tree Maintenance Specialist</find>
+        <replace>Tree Maintenance Specialist, Managing Arborist, Director of Parks and Recreation</replace>
+      </codify:find-replace>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40 of the San Mateo Municipal Code</cite> is adopted to read as follows:</text>
+    <include>
+      <container>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="13" before="13.52"/>
+        <prefix>Chapter</prefix>
+        <num>13.40</num>
+        <heading>Protected Trees</heading>
+        <subheading>Article I. General Provisions</subheading>
+        <section>
+          <num>13.40.010</num>
+          <heading>Purpose and Intent</heading>
+          <text><cite doc="City of San Mateo, Cal., Code" path="13.40">This Chapter</cite> is adopted because the City has been forested with a variety of healthy and valuable trees which must be protected, preserved, and replenished for the health and welfare of residents and in order to preserve scenic beauty, maintain property values, prevent erosion, protect against flood hazards and landslides, counteract pollutants in the air, maintain climatic balance, decrease wind velocities, and relieve the public costs of installing and maintaining stormwater drainage systems. It is the intent of <cite doc="City of San Mateo, Cal., Code" path="13.40">this chapter</cite> to establish regulations for the protection of trees within the City in order to retain as many trees as possible consistent with these purposes and the reasonable economic enjoyment of private property.</text>
+        </section>
+        <section>
+          <num>13.40.020</num>
+          <heading>Applicability</heading>
+          <para>
+            <num>(a)</num>
+            <text>The provisions of <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite> shall apply to all persons or entities, including the City of San Mateo, or as specifically regulated under other provisions of the San Mateo Municipal Code.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Exception for Planning Applications Other Than Single Family Dwelling Design Review Applications. A person or entity who has received approval of a planning application which is also subject to the landscape regulations contained in <cite doc="City of San Mateo, Cal., Code" path="27.71">Chapter 27.71</cite>, need only obtain a site development permit pursuant to <cite doc="City of San Mateo, Cal., Code" path="23.40">Chapter 23.40</cite> from the Planning Division for the Removal and/or Major Pruning of Protected Trees on the property proposed for development.</text>
+          </para>
+        </section>
+        <section>
+          <num>13.40.030</num>
+          <heading>Definitions</heading>
+          <text>Terms used in <cite doc="City of San Mateo, Cal., Code" path="13.40">this chapter</cite> shall be defined as follows:</text>
+          <para>
+            <num>(a)</num>
+            <text><strong>Administrative Guidelines</strong> means Director-approved regulations implementing <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><strong>Best Management Practices</strong> means the current edition of the International Society of Arboriculture (ISA) "Best Management Practices" publications.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><strong>Certified Arborist</strong> means an arborist certified by the ISA.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><strong>City Arborist</strong> means any Certified Arborist designated by the City to perform arborist functions on behalf of the City.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><strong>City Manager</strong> means City Manager or his or her designee.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text><strong>Commission</strong> means the Park and Recreation Commission of the City.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text><strong>Construction Activity</strong> means any construction work associated with or requiring a permit for any new building, building addition, building demolition, grading, excavation or paving. This includes the necessary related activities which may or may not be shown on site plans, including but not limited to: storing/staging of materials, site access, parking, placement of temporary structures, debris disposal, additional excavation and landscaping.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text><strong>Damage</strong> means any act inconsistent with Best Management Practices, without prior approval from the City Arborist. "Damage" includes, but is not limited to:</text>
+            <para>
+              <num>(1)</num>
+              <text>Removal of bark greater than 3" across;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Breaking, splitting or dislocation of the main trunk;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Cutting, ripping, or tearing of roots greater that 2 inches in diameter;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Grade changes or soil compaction beneath the Dripline;</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Any act compromising its future health or structural integrity;</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Any act detrimental to its overall aesthetics;</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Pruning a tree incrementally within any three-year period for the purpose of staying below the 25% threshold, with a cumulative effect that harms the condition or aesthetics of the tree; or</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Any act inconsistent with Best Management Practices.</text>
+            </para>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text><strong>Director</strong> means the Director of Parks and Recreation or his or her designee.</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text><strong>Dripline </strong>means the area underneath the tree's canopy and defined by the outermost spread of the tree's canopy<strong>.</strong></text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text><strong>Heritage Tree</strong> means any of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>Any oak (Quercus spp.)  tree with a trunk that has a diameter of ten inches or more (31.4 inches in circumference) measured at 54 inches above natural grade;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Any other tree with a trunk diameter of fifteen inches (47.1 inches in circumference) or more, measured at 54 inches above natural grade.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Multi-stem trees. Trees with more than one stem (arising at or below 54 inches) shall be measured at the smallest diameter point below the main union of all stems unless the union occurs below grade, in which case each stem shall be measured as a stand-alone tree.  For oak trees, if one stem is ten inches or more in diameter, the tree will constitute one Heritage Tree.  For all other species, if one stem is fifteen inches or more in diameter, the tree will constitute one Heritage Tree.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Any tree or stand of trees designated by resolution of the City Council to be of special historical value or of significant community benefit; or</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>A stand of trees, the nature of which makes each dependent on the others for survival.</text>
+            </para>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text><strong>Major Pruning</strong> means any Pruning of a Street Tree or removal of more than 25% of the crown or existing foliage of the Heritage Tree, or any root cutting within a radius of six times the trunk diameter, topping, or any other Pruning that has the potential to negatively affect the condition of a tree as determined by the Managing Arborist in accordance with the current editions of the American National Standards Institute A-300 Best Management Practices.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text><strong>Managing Arborist</strong> means a Certified Arborist appointed by the Director to manage the City's tree programs.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text><strong>Project Arborist</strong> means an ISA Certified Arborist designated to evaluate the potential impacts of Construction Activity on Protected Trees, write specifications for tree preservation, oversee Construction Activity within the Dripline of Protected Trees and other necessary activities as determined by the City Arborist.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text><strong>Protected Tree</strong> means a Heritage Tree, a Street Tree, or a tree designated as protected as part of an approved Planning Application that is subject to <cite doc="City of San Mateo, Cal., Code" path="27.71">Chapter 27.71</cite>.</text>
+          </para>
+          <para>
+            <num>(p)</num>
+            <text><strong>Prune</strong> means to remove any limb, branch, foliage, or root of a tree.</text>
+          </para>
+          <para>
+            <num>(q)</num>
+            <text><strong>Removal</strong> means:</text>
+            <para>
+              <num>(1)</num>
+              <text>Cutting to the ground, complete extraction, or killing by spraying, girdling, or any other means; or.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Major Pruning not done in conformance with a Major Pruning Permit.</text>
+            </para>
+          </para>
+          <para>
+            <num>(r)</num>
+            <text><strong>Replacement Value</strong> means the cost to replace a tree as determined by the City Arborist, utilizing the most recent edition of the Guide for Plant Appraisal, published by the Council of Tree and Landscape Appraisers.</text>
+          </para>
+          <para>
+            <num>(s)</num>
+            <text><strong>Street</strong> means "Public Right of Way" or all the land which has been dedicated, or condemned, or established by use for a public thoroughfare whether paved or unpaved, in whole or in part, except state highways and freeways.</text>
+          </para>
+          <para>
+            <num>(t)</num>
+            <text><strong>Street Tree</strong> means any woody perennial plant having a single main axis or stem capable of achieving ten feet or more in height, growing along or within public right of way or planted within public right of way or a designated planting easement.</text>
+          </para>
+          <para>
+            <num>(u)</num>
+            <text><strong>Street Tree Master Plan</strong> means the document which designates species of trees which may be planted on each street by block.</text>
+          </para>
+          <para>
+            <num>(v)</num>
+            <text><strong>Tree Protection Plan</strong> means a written plan for the preservation of Protected Trees approved by the City Arborist in compliance with <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(w)</num>
+            <text><strong>Tree Protection Zone (TPZ)</strong> means the area surrounding a tree to be protected based upon tree species, age, health, soil, and proposed construction. The TPZ shall have a radius measured from the trunk equal to ten times the diameter of the trunk measured at 54" above grade or as otherwise specified by a Project Arborist and approved by the City Arborist.</text>
+          </para>
+        </section>
+        <subheading>Article II. Tree Planting</subheading>
+        <section>
+          <num>13.40.040</num>
+          <heading>Street Tree Planting</heading>
+          <para>
+            <num>(a)</num>
+            <text>Designation of Street Tree Species. The Director shall designate those tree species existing or hereafter planted in the City which are not infested with pests or disease, or hazardous to the public health and safety or dangerous to public improvements and utilities as official Street Trees species.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Director shall prepare and submit to the Commission for approval and adoption, a comprehensive master plan of Street Trees for all Streets of the City where planting areas are available and provided for trees. The plan may be revised from time to time and shall be reviewed regularly. In accordance with the plan, the Director shall proceed each year to plant or remove and replace trees to the extent that funds are made available by the City Council or otherwise exist in the tree planting fund.</text>
+          </para>
+        </section>
+        <section>
+          <num>13.40.050</num>
+          <heading>Street Tree Planting Permit Required</heading>
+          <text>No person, other than the Director or his or her authorized representative, shall plant any tree within a Street without first procuring a written permit to do so from the Director. The request for such a permit shall state the type and quantity of trees to be planted, the location, and such other information as may be required by the Director.</text>
+        </section>
+        <section>
+          <num>13.40.060</num>
+          <heading>Street Tree Planting Application</heading>
+          <text>In processing an application for a permit, consideration shall be given to the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Whether the planting is adaptable to the location proposed;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Whether the planting would involve a hazard to public improvements in the area;</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Whether the planting would unduly burden the City in any way with maintenance to prevent infestation and/or physical damage to persons or property;</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The qualifications of the person or organization proposed to perform the planting and the need for experienced personnel considering the type of tree, the location, and adjacent hazards;</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The aesthetic result of the proposed planting as well as the benefits to the continued health of the planting and plantings in the immediate neighborhood; and</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Conformance with the City's approved Street Tree Master Plan.</text>
+          </para>
+        </section>
+        <subheading>Article III. Tree Protection and Preservation</subheading>
+        <section>
+          <num>13.40.070</num>
+          <heading>General</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any person who owns, controls, has custody or possession of any real property within the City shall use reasonable efforts to maintain and preserve all Protected Trees located thereon in a state of good health, structure, and form pursuant to the provisions of <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Director shall have the authority to adopt, modify, and implement Administrative Guidelines to support <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite>, except that any changes to the replanting requirements require approval of the Park and Recreation Commission.</text>
+          </para>
+        </section>
+        <section>
+          <num>13.40.080</num>
+          <heading>Discretionary Development Approvals</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any application for discretionary development approval for real property or for any other Construction Activity shall be accompanied by a signed statement by the property owner or authorized agent which discloses, and shows graphically in the site plans, whether any Protected Trees appear to exist on the property or on any property within 30 feet of the proposed Construction Activity and describe on the plans associated with the application the location, estimatedtrunk size, and Dripline area.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>With regard to any tree required to be identified under section (a) above, any Construction Activity performed within a radius measured from the trunk equal to ten times the diameter of the tree trunk measured at 54" above grade shall require the preparation and submittal of a Tree Protection Plan for review and approval by the City Arborist prior to the issuance of any permit authorizing Construction Activity. The Tree Protection Plan shall be prepared by a Certified Arborist and include the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>The tree location and description (including species, size, condition, and Replacement Value if applicable) shown on the land survey or site plans.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Limits of Construction Activity, including but not limited to demolition, grading and drainage, site and utility construction, and landscape plan.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Any project-specific tree protection specifications, based on Best Management Practices, in addition to the specifications required by the Ordinance.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>The Project Arborist's Tree Protection Plan shall be reproduced on one or more full-size sheets of the plan set. The plan set shall also contain a full-size scaled site plan showing the proposed work in relation to all Protected Trees, numbered as per the Tree Protection Plan, with accurate Driplines, and the location of tree protection measures specified in the Project Arborist's Tree Protection Plan, including but not limited to fencing, trunk wrap, soil protection, areas of excavation by hand, air or water. The site plan shall reference the sheet number(s) where the Tree Protection Plan can be found.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Prohibit the following activities within the Tree Protection Zone (TPZ):</text>
+              <para>
+                <num>(A)</num>
+                <text>Excavation, grading, soil deposit, drainage and leveling unless approved by the City Arborist.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Disposal or depositing of oil, gasoline, chemicals, paints, solvents or other materials within the TPZ or in drainage channels, swales or areas that may lead to the Dripline.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Soil Compaction from heavy machinery and vehicles, storage of materials, structures, paving, etc.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Trenching or excavation to provide irrigation, utility lines, services, pipe, drainage or other improvements below grade.</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>Storage of any materials or equipment of any kind.</text>
+              </para>
+              <para>
+                <num>(F)</num>
+                <text>Parking or driving vehicles or self-propelled equipment.</text>
+              </para>
+              <para>
+                <num>(G)</num>
+                <text>Alteration of the Dripline so as to increase the encroachment of the construction.</text>
+              </para>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Include provision for the retention of the services of a Project Arborist for periodic monitoring of the project site and the health of Protected Trees. The Project Arborist shall be present whenever activities occur which will pose a potential threat to the health of the Protected Trees or whenever any work needs to be done within the Dripline of such tree.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Include other provisions as deemed necessary by the City Arborist to preserve the Protected Trees and ensure compliance with those provisions.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>Include all requirements for Construction Activity set forth in (d) below.</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Contain the signature of the property owner and building permit applicant.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Tree Protection Plan Review. The Tree Protection Plan shall be reviewed by the City Arborist. If the plan is sufficient to prevent harm to Protected Trees from reasonably foreseeable construction activities, it shall be approved and related building permits otherwise complete shall issue.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Construction Activities must adhere to the following requirements :</text>
+            <para>
+              <num>(1)</num>
+              <text>Utility service and irrigation lines must be located outside of the Dripline or approved TPZ when feasible and, if not feasible, provisions must be made in the Tree Protection Plan by the Project Arborist to protect the soil within the Dripline from compaction and to protect the trunk and branches from injury.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Prior to the commencement of any Construction Activity, all tree protection measures shall be properly installed, including but not limited to, tree protection fencing, trunk wrap, and root buffer. A six-foot tall chain link fence shall be required. If the fencing cannot be placed at the Dripline or if necessary Construction Activity must take place within the Dripline, provisions must be made in the Tree Protection Plan by the Project Arborist to protect the soil within the Dripline from compaction and to protect the trunk and branches from injury. The Dripline shall not be altered in any way so as to increase the encroachment of the construction.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The City Building Official and Managing Arborist must be notified whenever any Damage or injury occurs to a Protected Tree during construction so that proper treatment may be administered.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>13.40.090</num>
+          <heading>Pruning and Removal of Protected Trees –Permit Required.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Heritage Trees. A permit from the Director is required before Major Pruning or Removal, or causing Major Pruning or Removal.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Street Trees. No person or entity, other than City staff shall Prune or cause to be Pruned, below or above the ground, or remove or cause to be removed, any Street Tree without first procuring a permit to do so from the Director.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Emergency Removal of Street Trees. All Street Trees presenting an immediate threat to health and safety, including obstructed public right-of-way, may be removed by the City without notice.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Any franchised public utility or representative of the City may Remove or Prune Protected Trees which interfere with the safe and efficient operation of the public service for which they are responsible, but only to the extent made necessary by such interference.</text>
+          </para>
+        </section>
+        <section>
+          <num>13.40.100</num>
+          <heading>Major Pruning or Removal Permit Application</heading>
+          <para>
+            <num>(a)</num>
+            <text>Major Pruning and Removal for Projects Subject to <cite doc="City of San Mateo, Cal., Code" path="27.71">Chapter 27.71</cite> Planning Application Requirements.  Projects for which planning application approval is required pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.71">Chapter 27.71</cite> of the Municipal Code must comply with the conditions of approval related to Protected Trees.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>All Other Major Pruning and Removal of Protected Trees or Pruning and Removal of Street Trees.  All other Protected Tree Major Pruning and Removal projects must be conducted in accordance with an approved Major Pruning or Removal Permit as set forth below:</text>
+            <para>
+              <num>(1)</num>
+              <text>Application. The application for a permit shall be made on forms provided for this purpose and shall state, among other things, the number and location of the trees to be Removed or Pruned by types and the reason for Removal or Major Pruning of each. The request for a Removal permit may only be made by the owner of the property on which the tree is located.  Requests for a Major Pruning permit may be made by the owner of a property onto which tree parts extend, after the applicant has notified the tree owner of the application. Permits are valid for six months from date of issue. Extensions may be authorized by the Director. Major Pruning permit applications shall include Pruning specifications prepared by a Certified Arborist in accordance with the most recent ANSI Standards and the ISA Best Management Practices publications.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Decision by Managing Arborist. The Managing Arborist shall review each application and shall consider and evaluate the following:</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>In rendering a decision regarding Major Pruning:</text>
+              <para>
+                <num>(A)</num>
+                <text>Current tree condition as well as potential impact to future tree condition;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Danger to people or property; and</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Interference with existing structures or utilities; and</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>In rendering a decision regarding tree Removal;</text>
+              <para>
+                <num>(A)</num>
+                <text>Factors listed above;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Necessity to remove the tree or trees in order to allow reasonable economic enjoyment of the property;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>Effect of tree Removal on erosion and soil retention;</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>Effect of tree Removal on neighborhood; and</text>
+              </para>
+              <para>
+                <num>(E)</num>
+                <text>Number of trees a particular parcel can support in accordance with good forestry practices.</text>
+              </para>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>In reviewing applications, the Managing Arborist shall give priority to those based on hazard. (S)he may refer any application to another department, committee, board or commission of the City for a report and recommendation or may require the applicant to supply a Certified Arborist's report.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The cost of all work authorized by the permit shall be borne by the party securing the permit.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>13.40.110</num>
+          <heading>Protected Tree Replacement.</heading>
+          <text>If a permit is granted for Protected Tree Removal, the applicant shall at his or her election either replace the tree in accordance with the Administrative Guidelines or pay an in-lieu fee.  Permits for Removal may contain direction on location and species.</text>
+        </section>
+        <section>
+          <num>13.40.120</num>
+          <heading>Notification</heading>
+          <text>A decision by the Managing Arborist shall be rendered for each permit application. If a permit is approved, it will include conditions for the tree Pruning or Removal. With the exception of trees the Managing Arborist determines to be dead or at imminent risk of failure, the Managing Arborist shall give written notification of a decision affecting a Heritage Tree to the applicant and abutting property owners and include a copy of the City's appeal provisions. If such real property is occupied by other than the owner, a like copy shall also be left with the occupant. The failure of any property owner to receive the notice shall not affect the validity of any proceedings taken pursuant to the notice.</text>
+        </section>
+        <section>
+          <num>13.40.130</num>
+          <heading>Appeal of Permit Decision.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Appeal to Director. With the exception of decisions approving Pruning or Removal of Protected Trees determined to be dead or at imminent risk of failure by the Managing Arborist, decisions of the Managing Arborist may be appealed to the Director by submitting the City's appeal form.  Any appellants other than the applicant must pay an appeal fee in accordance with the City's master fee schedule. The appeal must be filed with the Director not later than five p.m. of the tenth calendar day after the Managing Arborist's decision. The Director shall review the request and render a decision.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Appeal of Director's Decision. Any person may appeal the Director's decision to the Park and Recreation Commission by filing an appeal in writing with the Director not later than five p.m. of the tenth calendar day after the decision.  Any appellants other than the applicant must pay an appeal fee in accordance with the City's master fee schedule. The Director shall set the matter for review by the Commission at its next convenient regular meeting and provide notice by mail of the Commission hearing to the appellant and applicant at least five days prior thereto. The Commission hearing shall be de novo.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Appeal of Commission's Decision. The Commission's decision may be appealed to the City Council in the same manner as to the Commission by filing a written appeal and with the City Clerk not later than five p.m. of the tenth calendar day after the final decision.  Any appellants other than the applicant must pay an appeal fee in accordance with the City's master fee schedule.  The City Clerk shall set the matter for hearing before the City Council at its next convenient regular meeting which is at least ten days after receipt of the appeal. Notice of the hearing shall be given the appellant and the applicant for permit by mail at least five calendar days prior to the date of the hearing. The City Council hearing shall be de novo and the decision of the City Council shall be final.</text>
+          </para>
+        </section>
+        <subheading>Article IV. Violations and Remedies</subheading>
+        <section>
+          <num>13.40.140</num>
+          <heading>Violations.</heading>
+          <para>
+            <num>(a)</num>
+            <text>It is unlawful for any person or entity to engage in, or cause, Major Pruning or Removal of a Protected Tree in the City without obtaining a permit to do so. This applies to any owner, possessor or manager of property who engages in Major Pruning or removes or allows or instructs another to engage in Major Pruning or remove a Protected Tree and to any other person, tree removal company or other entity that actually removes or participates in the Major Pruning or Removal of the Protected Tree.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>It is unlawful for any person or entity to:</text>
+            <para>
+              <num>(1)</num>
+              <text>cause Damage to a Protected Tree compromising its health or structural integrity according to accepted industry standards;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>to cause Damage that is severely detrimental to its overall aesthetics;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>to remove fencing or other protective barrier surrounding a Protected Tree that was required as a condition of development on the property;</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>to violate any provisions of <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite> or the terms of any permit or Tree Protection Plan issued in accordance with <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite>; or</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>knowingly or negligently providing false or misleading information in response to any disclosure requirements of <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite> or in application for any permit issued under <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Citizen complaints regarding a potential violation must be received by the Managing Arborist within one year of the alleged violation.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>When a tree has been removed from the site and its diameter is no longer visible, the Managing Arborist may rely on a stump measurement and allow use of photographs, neighboring trees, and or any other available methods to determine the diameter of the tree that was removed.</text>
+          </para>
+        </section>
+        <section>
+          <num>13.40.150</num>
+          <heading>Remedies</heading>
+          <text>In all cases where Protected Trees are removed or Damaged unlawfully, the Director may require replacement by anyone participating in an unlawful act as follows:</text>
+          <para>
+            <num>(a)</num>
+            <text>Heritage Tree Removal.  Heritage Trees removed without a valid tree Removal permit shall be replaced with one 48" box tree or the equivalent as set forth in the Administrative Guidelines.  Enhanced replant conditions may be imposed if the Director determines that the value of the removed tree was greater than that of a 48" box tree. In such cases, the Director shall determine the level of replacement, which may not exceed the tree's Replacement Value. In addition to the requirements of this subsection, penalties in accordance with <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite> or other sanctions allowed by law may be imposed for Removal of Heritage Trees without a permit.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Street Tree Removal.  Tree replacement shall be in accordance with the Street Tree Master Plan and shall be a maximum of one 48" box tree for each Street Tree removed, as determined in the discretion of the Director. Replacement, as determined by the Director, may be in a different location than the location from which Removal occurred.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Street Tree Pruning.  In the event Pruning of a Street Tree or other cause results in Damage to the tree compromising its health or structural integrity or is severely detrimental to its overall form, the Director may require replacement by the person or entity causing the Damage.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>If the Street Tree that is removed is a Heritage Tree, the provisions for replacement of Heritage Trees shall apply.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Where the Director determines that replacement is not feasible and/or appropriate, the Director may:</text>
+            <para>
+              <num>(1)</num>
+              <text>require that a payment of equal value to the cost of the purchase and installation of the replacement tree(s) be made to the City tree planting fund; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>place other conditions on the permit which are of equal value to the cost of the purchase and installation of the replacement tree(s).</text>
+            </para>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Additional Measures for All Protected Trees.  Any person causing Damage to a Protected Tree shall be required to take such steps as may be required by the Director to assure the future vitality of the tree, including costs of treatment and/or construction of protective barriers, or if the Director determines that the Damage is so great that the tree is no longer reasonably sustainable, replacement of the Damaged tree.</text>
+          </para>
+        </section>
+        <section>
+          <num>13.40.160</num>
+          <heading>Penalties.</heading>
+          <para>
+            <num>(a)</num>
+            <text>In addition to the replanting requirements described above, if the Director finds that any person has violated any provisions of <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite>, the Director may impose a civil penalty of up to $10,000 per participant per tree for such illegal act and the civil penalty amount will be determined based upon the egregiousness of the conduct in accordance with <cite doc="City of San Mateo, Cal., Code" path="1.11">Chapter 1.11</cite>.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>In addition to all other remedies set forth in this code or otherwise provided by law, the following remedies shall be available to the City for violation of <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite>:</text>
+            <para>
+              <num>(1)</num>
+              <text>Any person or entity violating the provisions of <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite> may be directed by the Building Official or inspector to stop work and to prepare a mitigation plan to correct the violation and mitigate the Damage inflicted. Once the violation is corrected and mitigation implemented, the Building Official or inspector shall allow construction to resume. The mitigation plan shall be filed and approved by the City Arborist, agreed to in writing by the property owner(s) and either implemented or guaranteed by the posting of adequate bond or other security. The mitigation plan shall include measures for protection of any remaining Protected Trees on the property and shall provide for replacement of each tree removed or Damaged on the property or at locations approved by the Director. The replacement ratio shall be determined by the Director according to the provisions of <cite doc="City of San Mateo, Cal., Code" path="13.40">this Chapter</cite>.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>If a violation occurs in the absence of development, or while an application for a building permit or discretionary development approval for the lot upon which the tree is located is pending, the Building Official may condition the issuance of any building permit or approval upon the completion of a study, to be conducted by the City or consultant designated by the City, but in either case at the expense of the property owner, for the purpose of providing the City an opportunity to consider and determine appropriate mitigation measures for the tree Removal and to insure measures are incorporated into any future development approvals for the property for the protection of any remaining Heritage Trees in the area.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Administrative Citations may be issued under <cite doc="City of San Mateo, Cal., Code" path="1.10">Chapter 1.10</cite> of the Municipal Code.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Appeal of Penalties or Replacement requirements. Any person required to provide replacement or assessed penalties shall have the right to appeal that determination to the City Manager by submitting a written appeal to the City Manager within 30 days of the date of the Managing Arborist's written notice imposing the penalty.  The City Manager will hold an administrative hearing within 30 days of receipt of the written appeal and will render a written decision within 30 days of the administrative hearing. The decision of the City Manager shall be final.</text>
+          </para>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15061(b)(3), this action is not a project subject to CEQA because it is intended to protect existing trees and therefore will not significantly impact the environment.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on April 19, 2021, and adopted on May 3, 2021, and shall be effective on July 1, 2021.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

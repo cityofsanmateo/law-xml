@@ -1,0 +1,133 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-2">
+  <num>2021-2</num>
+  <heading type="short">Transient Occupancy Tax Municipal Code Amendment</heading>
+  <heading type="long">Amend Section 3.56.120 "Actions to Collect", of Chapter 3.56 "Transient Occupancy Tax," of Title 3 "Taxation and Finance" of the San Mateo Municipal Code to Authorize the Recordation of a Lien on Real Property Owned by Hotel Operators Who Fail to Pay Taxes Collected from Transients</heading>
+  <meta>
+    <effective>2021-02-18</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-1.pdf">Ord. No. 2021-2</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-2</citation>
+    </citations>
+    <history>
+      <introduced>2021-01-04</introduced>
+      <adopted>2021-01-19</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo imposes a tax on transient occupancy (TOT) which is collected by hotel operators and then paid by them to the City; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>From time to time, hotel operators fail to pay to the City TOT they have collected from transients;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>at present the City's sole remedy for collection of unpaid and delinquent TOT is to sue the hotel operator, which is a time consuming and costly process; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments to <cite doc="City of San Mateo, Cal., Code" path="3.56">Chapter 3.56 of the San Mateo Municipal Code</cite> would authorize the tax collector to record a lien on real property owned by hotel operators who fail to pay to the City TOT they have collected from their patrons, providing a strong incentive for operators to make timely payment of TOT they collect.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="3.56.120">Section 3.56.120 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="3.56.120"/>
+        <num>3.56.120</num>
+        <heading>Actions to Collect.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Debt deemed owed to City. Any tax required to be paid by any transient under the provisions of <cite doc="City of San Mateo, Cal., Code" path="3.56">this chapter</cite> is a debt owed by the transient to the City. Any such tax collected by an operator which has not been paid to the City shall be deemed a debt owed by the operator to the City. Any person owing money to the City under the provisions of <cite doc="City of San Mateo, Cal., Code" path="3.56">this chapter</cite> is liable to an action brought in the name of the City for the recovery of such amount.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Lien – Recordation. If any amount required to be paid to the city under the ordinance codified in <cite doc="City of San Mateo, Cal., Code" path="3.56">this chapter</cite> is not paid when due, the Tax Collector, upon expiration of the continued delinquency period referenced in <cite doc="City of San Mateo, Cal., Code" path="3.56.080|(b)">Section 3.56.080(b)</cite>, may, within three years after the amount is due, record in the office(s) of the county recorder(s) of any county in the State of California a certificate specifying the amount of tax, penalties, and interest due, the name and address of the operator liable for the same, and the fact that the Tax Collector has complied with all provisions of <cite doc="City of San Mateo, Cal., Code" path="3.56">this chapter</cite> in the determination of the amount required to be paid. From the time of the recording, the amount required to be paid, together with penalties and interest, shall constitute a lien upon any and all real property in any county owned by the operator or thereafter acquired by the operator. The lien shall have the force, effect, and priority of a judgment lien, and shall continue for ten years from the time of filing of the certificate unless sooner released or otherwise discharged. The lien may be renewed in the same manner as the renewal of judgment liens under state law.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Priority and Lien of Tax. The amounts required to be paid by any operator under <cite doc="City of San Mateo, Cal., Code" path="3.56">this chapter</cite> with penalties and interest shall be satisfied first in any of the following cases:</text>
+          <para>
+            <num>(1)</num>
+            <text>Whenever the person is insolvent;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Whenever the person makes a voluntary assignment of his or her assets;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Whenever the estate of the person in the hands of executors, administrators, or heirs is insufficient to pay all the debts due from the deceased; or</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Whenever the estate and effects of an absconding, concealed, or absent person required to pay any amount under <cite doc="City of San Mateo, Cal., Code" path="3.56">this chapter</cite> are levied upon by process of law.</text>
+          </para>
+        </para>
+        <aftertext>This chapter does not give the city a preference over any recorded lien which is attached prior to the date when the amounts required to be paid became a lien.</aftertext>
+        <para>
+          <num>(d)</num>
+          <text>Warrant for Collection of Tax. At any time within three years after any operator is delinquent in the payment of any amount herein required to be paid off and after the last recording of a certificate of lien under <cite doc="City of San Mateo, Cal., Code" path="3.56.120|(b)">section 3.56.120(b)</cite>, the Tax Collector may issue a warrant for the enforcement of any liens and for the collection of any amount required to be paid to the city under <cite doc="City of San Mateo, Cal., Code" path="3.56">this chapter</cite>. The warrant shall be directed to any sheriff, marshal, or constable, and shall have the same effect as a writ of execution. The warrant shall be levied and sale made pursuant to it in the same manner and with the same effect as a levy of and a sale pursuant to a writ of execution. The Tax Collector may pay or advance to the sheriff, marshal, or constable the same fees, commissions, and expenses for his or her services as are provided by law for similar services pursuant to a writ of execution.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Seizure and Sale. At any time within three years after any operator is delinquent in the payment of any amount, the Tax Collector may forthwith collect the amount in the following manner: The Tax Collector shall seize any property, real or personal, of the operator and sell the property, or a sufficient part of it, at public auction to pay the amount due, together with any penalties and interest, imposed for the delinquency and any costs incurred on account of the seizure and sale. Any seizure made to collect occupancy taxes due shall be only of property of the operator not exempt from execution under the provisions of the California Code of Civil Procedure.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Successor's and Assignee's Responsibility and Liability. If any operator, while liable for any amount under <cite doc="City of San Mateo, Cal., Code" path="3.56">this chapter</cite>, sells, assigns, or otherwise transfers the hotel or quits the hotel, whether voluntarily or involuntarily, the operator's subsequent successor, assign, other transferee, or other person or entity obtaining ownership or control of the hotel, shall satisfy any transient occupancy tax liability owed to the city associated with the property. Failure to do so for the benefit of the city will result in the successor operator, assign, purchaser, transferee, or other person or entity obtaining ownership or control of the hotel being personally liable to the city for the full amount of the transient occupancy tax liability, which includes interest and penalties.</text>
+        </para>
+        <aftertext>The successor operator, assign, purchaser, transferee, or other person or entity seeking to obtain ownership or control of the hotel shall notify the Tax Collector of the date of transfer at least thirty days prior to the transfer date; or if the agreement to sell, transfer, or otherwise dispose of the hotel was made less than thirty days prior to the date of transfer, notice shall be provided immediately.</aftertext>
+        <aftertext>The successor operator, assign, purchaser, transferee, or other person or entity who obtains ownership or control of the hotel shall be deemed to have complied with the requirement of this section to satisfy the unpaid transient occupancy tax liability, if that person or entity complies with the requirements of California Revenue and Taxation Code Section 7283.5 by withholding from the purchase price an amount sufficient to cover the tax liability, or by otherwise paying the tax liability until the Tax Collector provides a transient occupancy tax clearance certificate showing that it has been paid and stating that no amount is due through the date of transfer.</aftertext>
+        <aftertext>The Tax Collector, within ninety days of receiving a written request from a successor operator, assign, purchaser, transferee, or other person or entity who obtains or attempts to obtain ownership or control of the hotel, may issue a transient occupancy tax clearance certificate stating either the amount of tax liability due and owing for the property, or stating that there is no tax liability due and owing for the property. The Tax Collector may also request financial records from the current or former owner or operator to conduct an audit of the transient occupancy tax that may be due and owing. After completing the audit within ninety days after the date that the records were made available, the Tax Collector may issue a tax clearance certificate within thirty days of completing the audit, stating the amount of the tax liability owed, if any. If the city determines that the records provided for an audit are insufficient, the Tax Collector may rely on the facts and information available to estimate any transient occupancy tax liability associated with the property. The Tax Collector may issue a tax clearance certificate stating the amount of the tax liability, if any, based on such facts and information available. A written application for a hearing on the amount assessed on the tax clearance certificate must be made within ten days after the serving or mailing of the certificate. The hearing provision of Section 3.56.090 shall apply. If an application for a hearing is not made within the time prescribed, the tax clearance certificate shall serve as conclusive evidence of the tax liability associated with the property as of the date specified on the certificate.</aftertext>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>This ordinance is not a project subject to CEQA, because it is an organizational or administrative activity that will not result in direct or indirect physical changes in the environment. (CEQA Guidelines Section (15378(b)(5)).</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on January 4, 2021, and adopted on January 19, 2021, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

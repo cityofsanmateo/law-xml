@@ -1,0 +1,300 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-6">
+  <num>2021-6</num>
+  <heading type="short">Short Term Rental Regulations</heading>
+  <heading type="long">An Ordinance of the City Council of the City of San Mateo Amending Section 1.04.050, "Enforcement – Citation Authority," of Title 1, "General Provisions, " and Adding Section 5.66, "Short Term Rentals," to Title 5, "Business Licenses and Regulations, " of the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2021-03-18</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-6.pdf">Ord. No. 2021-6</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-6</citation>
+    </citations>
+    <history>
+      <introduced>2021-02-01</introduced>
+      <adopted>2021-02-16</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>short-term rentals of residential properties have increased in popularity; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to regulate short-term rentals in order to prevent public nuisances and preserve a high quality of life;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council held a noticed public hearing on the proposed ordinance on February 1, 2021;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>The table in <cite doc="City of San Mateo, Cal., Code" path="1.04.050">Section 1.04.050</cite> of <cite doc="City of San Mateo, Cal., Code" path="1">Title 1</cite> is amended to add <cite doc="City of San Mateo, Cal., Code" path="5.66">Chapter 5.66</cite> to the list of Municipal Code Chapters of the San Mateo Municipal Code that may be enforced by the Community Development Director, Neighborhood Improvement and Housing Manager, Senior Code Enforcement Officer, and Code Enforcement Officer.</text>
+    <codify:find-replace doc="City of San Mateo, Cal., Code" path="1.04.050" count="1">
+      <find><cite path="5.64">5.64</cite>, Sections</find>
+      <replace><cite path="5.64">5.64</cite>, <cite path="5.66">5.66</cite>, Sections</replace>
+    </codify:find-replace>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.66">Chapter 5.66</cite>, "Short Term Rentals," is added to <cite doc="City of San Mateo, Cal., Code" path="5">Title 5, "Business Licenses and Regulations," of the San Mateo Municipal Code</cite> to read as follows:</text>
+    <include>
+      <container>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="5" after="5.64" />
+        <prefix>Chapter</prefix>
+        <num>5.66</num>
+        <heading>Short Term Rentals</heading>
+        <section>
+          <num>5.66.010</num>
+          <heading>Purpose.</heading>
+          <text>The purpose of <cite doc="City of San Mateo, Cal., Code" path="5.66">this Chapter</cite> is to:</text>
+          <para>
+            <num>(a)</num>
+            <text>Allow limited Short-term Rental uses while preventing the loss of housing stock;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Preserve residential character and establish operating standards to reduce potential noise, parking, traffic, property maintenance, and safety impacts on adjacent neighbors; and</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Provide a registration process for the City to track and enforce these requirements as needed and ensure appropriate collection of transient occupancy taxes.</text>
+          </para>
+        </section>
+        <section>
+          <num>5.66.020</num>
+          <heading>Definitions</heading>
+          <text>For purposes of this section, the following definitions shall apply:</text>
+          <para>
+            <num>(a)</num>
+            <heading>Adjacent Properties.</heading>
+            <text>The dwelling units located next to the dwelling unit in which the Short-term Rental is located.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <heading>Community Development Director.</heading>
+            <text>The City's Community Development Director or designee, which includes any third party program administrator.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <heading>Host.</heading>
+            <text>Any person who is the owner of record of residential real property or any person who is a lessee of residential real property pursuant to a written agreement for the lease of such real property, who offers a dwelling unit, or portion thereof, for Short-term Rental either through a Hosting Platform or individually as an operator.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <heading>Hosting Platform.</heading>
+            <text>A means through which a host may offer a dwelling unit, or portion thereof, for short-term rental. A Hosting Platform includes, but is not limited to, an internet-based platform that allows a host to advertise and potentially arrange for temporary occupation of the dwelling unit, or portion thereof, through a publicly searchable website, whether the Short-term Renter pays rent directly to the host or to the Hosting Platform.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <heading>Short-term Rental.</heading>
+            <text>The use or possession of or the right to use or possess any room or rooms, or portions thereof in any dwelling unit for residing, sleeping, or lodging purposes for less than 30 consecutive calendar days, counting portions of days as full calendar days.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <heading>Short-term renter.</heading>
+            <text>A person who exercises occupancy or is entitled to occupancy by reason of concession, permit, right of access, license, or other agreement for a period of less than 30 consecutive calendar days, counting portions of calendar days as full calendar days.</text>
+          </para>
+        </section>
+        <section>
+          <num>5.66.030</num>
+          <heading>Permitted Use</heading>
+          <text>Short-Term Rental uses shall be permitted in any residence subject to all Municipal Code requirements, including compliance with the operating standards, registration, Transient Occupancy Tax payments, payment of business license taxes, and recordkeeping obligations. Except as provided for in this section, all other Short-Term Rental uses shall be prohibited.</text>
+        </section>
+        <section>
+          <num>5.66.040</num>
+          <heading>Operating Standards</heading>
+          <text>The following operating standards shall apply to Short-Term Rentals:</text>
+          <para>
+            <num>(a)</num>
+            <text>Legal Dwelling. Short-Term Rentals may only occur within legal dwelling units.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Annual Limit. A primary residence may be occupied as a Short-Term Rental for no more than 120 days per calendar year.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Local Contact Person. Hosts shall identify to all guests and all occupants of adjacent properties a local contact person to be available 24 hours per day, seven days per week during the term of any stay. The designated local contact person shall:</text>
+            <para>
+              <num>(1)</num>
+              <text>Respond within 60 minutes to complaints regarding the condition or operation of the dwelling unit or the conduct of guests; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Take remedial action to resolve such complaints.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Parking. Properties with three or fewer bedrooms must provide at least one off-street parking space. Properties with four or more bedrooms must provide at least two off-street parking spaces.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Special Event. Weddings, parties, corporate events, commercial functions, and any other similar events which have the potential to cause traffic, parking, noise, or other problems in the neighborhood are prohibited from occurring at the Short-Term Rental property, as a component of Short-Term Rental activities.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Occupancy is limited to two people per bedroom or ten people per property, whichever is less.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Hosts must notify guests of all City noise, trash, and parking ordinances.</text>
+          </para>
+        </section>
+        <section>
+          <num>5.66.050</num>
+          <heading>Registration and Annual Renewal</heading>
+          <para>
+            <num>(a)</num>
+            <text>Application. Prior to advertising or making available the primary residence for Short-term Rental, Hosts shall register their primary residence as a Short-Term Rental with the City. This registration shall be submitted on a form prepared by the City and shall include the name and contact information of the Host, the address of the primary residence being used for Short-Term Rental, the contact information for the local contact person, an acknowledgement of compliance with the requirements of the City's Zoning Ordinance, Municipal Codes, including the requirement to obtain a business license, applicable health and safety standards, and other information as requested.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Fee. The registration form shall be accompanied by a filing fee in an amount established by resolution of the City Council and updated from time to time.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Application Completeness. The submitted information shall be used to determine whether to register the Short-Term Rental. The Host will be notified if an application is incomplete. If the Host fails to timely submit the required information or fees necessary to complete the application, the application shall expire and be deemed withdrawn.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Decision. The Community Development Director shall review Short-term Rental registration applications. After an application is deemed complete, registration shall be approved where:</text>
+            <para>
+              <num>(1)</num>
+              <text>The host demonstrates the ability to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="5.66">this Chapter</cite>,</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The subject primary residence is not currently the subject of an unresolved code enforcement case involving health and safety issues in the past twelve months, and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>A Short-term Rental registration for the primary residence has not been denied or revoked in the prior twelve-month period.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num codify:value="5.66.060">5.66.60</num>
+          <heading>Validity</heading>
+          <text>An approved registration shall be valid on a fiscal year basis and annual renewal shall be required beginning on or before July 1. An approved registration shall be personal to the Host and shall automatically expire upon sale or transfer of the dwelling unit. No registration may be assigned, transferred, or loaned to any other person.</text>
+        </section>
+        <section>
+          <num>5.66.070</num>
+          <heading>Annual Renewal</heading>
+          <text>A registration may be renewed annually upon payment of registration renewal fees no later than July 1 annually and all required transient occupancy tax remittance associated with the Short-term Rental. The Host shall submit such information concerning the Short-Term Rental activity as may be required to enable the Tax Collector to verify the amount of tax paid. Failure to renew prior to the expiration date will result in expiration of the registration.</text>
+        </section>
+        <section>
+          <num>5.66.080</num>
+          <heading>Requirements Not Exclusive</heading>
+          <text>The issuance of a Short-Term Rental registration shall not relieve any person of the obligation to comply with all other provisions of this Code applicable to the use and occupancy of the property.</text>
+        </section>
+        <section>
+          <num>5.66.090</num>
+          <heading>Administrative Policy</heading>
+          <text>The City Manager or his/her designee shall have the authority to develop administrative policies to implement the intent of <cite doc="City of San Mateo, Cal., Code" path="5.66">this Chapter</cite>.</text>
+        </section>
+        <section>
+          <num>5.66.100</num>
+          <heading>Transient Occupancy Tax Collection</heading>
+          <text>Transient occupancy taxes (TOT) must be collected for Short-Term Rentals and paid to the City pursuant to Municipal Code. Collection of transient occupancy taxes for Short-Term Rentals shall be the responsibility of the Host, except that the Hosting Platform shall collect TOT when it has entered into a voluntary collection agreement (or equivalent) with the City.</text>
+        </section>
+        <section>
+          <num>5.66.110</num>
+          <heading>Business License</heading>
+          <text>Hosts must obtain a City business license in accordance with <cite doc="City of San Mateo, Cal., Code" path="5">Title 5</cite> of the Municipal Code.</text>
+        </section>
+        <section>
+          <num>5.66.120</num>
+          <heading>Enforcement</heading>
+          <para>
+            <num>(a)</num>
+            <text>Revocation of Registration. A Short-term Rental registration may be revoked by the Community Development Director after notice and hearing, for any of the following reasons:</text>
+            <para>
+              <num>(1)</num>
+              <text>Fraud, misrepresentation, or false statements contained in the application;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Fraud, misrepresentation, or false statements made in the course of carrying on a Short-term Rental;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Any violation of any provision of the Municipal Code, including <cite doc="City of San Mateo, Cal., Code" path="5.66">this Chapter</cite>; or</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Any violation of any provision of federal, state, or local laws.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Revocation Hearing. Before revoking a Short-term Rental registration, the Community Development Director shall give the responsible Host notice in writing of the proposed revocation and of the grounds thereunder, and also of the time and place at which the Host will be given a reasonable opportunity to show cause why the registration should not be revoked. The notice may be served personally upon the Host or may be mailed to the host at the last known address or at any address shown upon the application at least ten days prior to the date of the hearing. Upon conclusion of the hearing, the Community Development Director may, for the grounds set forth herein, revoke the registration.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Appeal from Denial or Revocation of Registration. Any Host whose application has been denied or registration has been revoked shall have the right to an administrative appeal before Community Relations Commission. An appeal shall be filed within ten days of the decision in writing on a form provided by the City to the City Clerk stating the grounds for the appeal and accompanied by payment of the appeal fee. The Community Relations Commission shall hold a hearing thereon within a reasonable time and the decision shall be final.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Waiting Period. Any Host whose registration has been denied or revoked shall be ineligible from applying for a new registration for a 24-month period.</text>
+          </para>
+        </section>
+        <section>
+          <num>5.66.130</num>
+          <heading>Records of Compliance</heading>
+          <text>The Host shall retain records documenting the compliance with these requirements for a period of three years after each period of Short-Term Rental, including but not limited to records showing payment of transient occupancy taxes. Upon reasonable notice, the Host shall provide any such documentation to City upon request for the purpose of inspection or audit to the City Manager or his/her designee.</text>
+        </section>
+        <section>
+          <num>5.66.140</num>
+          <heading>Violations</heading>
+          <text>The City will utilize any and all enforcement options as provided for <cite doc="City of San Mateo, Cal., Code" path="1">Title 1</cite> for failure to comply with the provisions of this Section.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with <cite doc="Cal. Pub. Res. Code" path="§21065">Public Resources Code Section 21065</cite> and California Environmental Quality Act (CEQA) Guidelines, section 15061(b)(3) , adoption of the ordinance is not a project subject to CEQA as it will not result in a direct or reasonably foreseeable indirect physical change in the environment, because the short-term rental use will have no environmental impacts other than impacts associated with residential uses.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause, or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause, or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on February 1, 2021, and adopted on February 16, 2021, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

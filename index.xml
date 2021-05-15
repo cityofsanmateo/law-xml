@@ -11,13 +11,15 @@
       <html-bulk>https://github.com/oll-test-repos/cityofsanmateo-law-html</html-bulk>
       <static-assets>https://github.com/oll-test-repos/openlawlibrary-law-static-assets</static-assets>
       <html>https://sanmateo.ca.us.open.law</html>
+      <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
     </canonical-urls>
-	 <history-start>2018-03-05</history-start>
+    <history-start>2018-03-05</history-start>
   </meta>
   <xi:include href="./us/ca/cities/san-mateo/charter/index.xml"/>
   <xi:include href="./us/ca/cities/san-mateo/code/index.xml"/>
   <collection name="us/ca/cities/san-mateo/ordinances">
     <heading>Ordinances</heading>
+    <xi:include href="./us/ca/cities/san-mateo/ordinances/2021/index.xml"/>
     <xi:include href="./us/ca/cities/san-mateo/ordinances/2020/index.xml"/>
     <xi:include href="./us/ca/cities/san-mateo/ordinances/2019/index.xml"/>
     <xi:include href="./us/ca/cities/san-mateo/ordinances/2018/index.xml"/>

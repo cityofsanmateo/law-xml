@@ -1,0 +1,127 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-12">
+  <num>2021-12</num>
+  <heading type="short">Adding Chapter 10.20 “Fireworks”</heading>
+  <heading type="long">Adding Chapter 10.20 "Fireworks" to Title 10 of the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2021-05-19</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-12.pdf">Ord. No. 2021-12</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-12</citation>
+    </citations>
+    <history>
+      <introduced>2021-04-05</introduced>
+      <adopted>2021-04-19</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Staff has identified Municipal Code provisions related to enforcement of fireworks violations that require clarification; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Staff recommends adding a section to the Municipal Code to clearly indicate that the Police Department is authorized to seize fireworks, as well as issue a citation.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="10.20">Chapter 10.20 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="10">Title 10</cite> as follows:</text>
+    <include>
+      <container>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="10" after="10.16"/>
+        <prefix codify:value="Chapter">CHAPTER</prefix>
+        <num>10.20</num>
+        <heading>FIREWORKS</heading>
+        <section>
+          <num>10.20.010</num>
+          <heading>Definitions</heading>
+          <para>
+            <num>(a)</num>
+            <text>As used in <cite doc="City of San Mateo, Cal., Code" path="10.20">this Chapter</cite> "fireworks" means and includes:</text>
+            <para>
+              <num>(1)</num>
+              <text>Any combustible or explosive composition or any substance or combination of substances or articles prepared for the purpose of producing a visible or an audible effect by combustion, explosion, deflagration or detonation, whether manufactured, homemade or improvised;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Fireworks classified by the State Fire Marshal as "dangerous fireworks" and as "safe and sane fireworks" pursuant to <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> Sections <cite doc="Cal. Health &amp; Safety Code" path="§12561">12561</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§12562">12562</cite>;</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Any pyrotechnic devices for which the State Fire Marshal requires a license to manufacture, sell, transport or operate; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Firecrackers, torpedoes, skyrockets, roman candles, cherry bombs, sparklers, chasers, snakes or other fireworks of like or similar construction and any fireworks containing any explosive or flammable compound or substance.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num codify:value="10.20.020">10.020.020</num>
+          <heading>Sale and Use of Fireworks Prohibited</heading>
+          <para>
+            <num>(a)</num>
+            <text>It is unlawful to sell or offer for sale fireworks of any kind or nature in the city.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>It is unlawful to fire, discharge, burn or use fireworks of any kind or nature within the city except that a public display of fireworks may be permitted by a permit issued by the fire chief subject to such conditions as he/she may impose to ensure that such public display of fireworks is conducted in such a manner as to avoid the ignition of fires and injury to persons and property.  Public displays are not permitted in residential neighborhoods under any conditions.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Should the provisions of <cite doc="City of San Mateo, Cal., Code" path="10.20">this chapter</cite> conflict with the provisions of any other ordinance or city code section of the city, the provisions of this section shall prevail.</text>
+          </para>
+        </section>
+        <section>
+          <num codify:value="10.20.030">10.020.030</num>
+          <heading>Fireworks Seizure</heading>
+          <text>The Chief of Police or his/her designee shall seize, remove or cause to be removed at the expense of the owner all stocks of fireworks offered or exposed for sale, stored, or held in violation of this code.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>This municipal code amendment is not a project subject to CEQA, because it can be seen with certainty that it will not cause a physical change in the environment.  (<cite doc="Cal. Pub. Res. Code" path="§21065">Public Resources Code Section 21065</cite>.)</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on April 5, 2021, and adopted on April 19, 2021, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

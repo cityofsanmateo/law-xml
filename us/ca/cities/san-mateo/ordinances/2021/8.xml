@@ -1,0 +1,317 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-8">
+  <num>2021-8</num>
+  <heading type="short">Emergency Ordinance – Hazard Pay to Large Grocery Store Employees</heading>
+  <heading type="long">An Emergency Ordinance Requiring Large Grocery Stores and Large Drugstores to Provide Hazard Pay to their Employees</heading>
+  <meta>
+    <effective>2021-03-01</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-8.pdf">Ord. No. 2021-8</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-8</citation>
+    </citations>
+    <history>
+      <introduced>2021-03-01</introduced>
+      <adopted>2021-03-01</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 19, 2020, the California State Public Health Officer, designated specific sectors and their workers, including grocery stores, as Essential Critical Infrastructure Workers ("essential workers") to ensure the "continuity of functions critical to public health and safety, as well as economic and national security;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>since the beginning of the COVID-19 pandemic, grocery workers in the City of San Mateo have continued to report to work and serve their communities, despite the ongoing hazards and danger of being exposed to and infected by the novel coronavirus, helping to ensure individuals throughout the City of San Mateo have had access to the food they need during this pandemic; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>essential grocery workers cannot choose to work from home--they must come to work to do their jobs, which involve heightened risk of exposure and infection of COVID-19 through substantial interaction with customers on an ongoing basis and indoors where there is less air circulation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>despite the efforts of grocery stores to take precautions and keep customers and employees safe, including requiring masks, social distancing, and sanitizing cash registers, food conveyor belts, and shopping carts, the health threats that these grocery workers face cannot be overstated; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>United Food and Commercial Workers ("UFCW") Locals in Northern California, which represent grocery workers, report that over 700 grocery workers in their ranks have tested positive with COVID-19, and members of their union have been hospitalized or have died from the coronavirus; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo recognizes that essential grocery workers must be justly compensated for the clear and present dangers of doing their jobs during the pandemic, and increases in wages result in more money being spent to stimulate our local economy; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>there are numerous large grocery chains operating in San Mateo that employ workers in San Mateo, and have at least 500 employees nationwide, with workers who are facing the hazards of COVID-19 in the workplace every day; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on January 17, 2021, the California Department of Public Health reported another COVID-19 variant that had grown more common across the state since December, with worrisome signs that this variant may be highly transmissible; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in December 2020 and January 2021, a growing list of cities across California, including Berkeley, Los Angeles, Long Beach, San Jose, and San Leandro began announcing legislation for hazard pay for essential grocery workers during the period where counties are in the Purple, Red, or Orange level of Community Transmission for COVID-19 under State Health orders; and</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Recitals</text>
+    <text>The City Council finds the foregoing recitals to be true and correct and hereby incorporates those recitals into this Ordinance.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Emergency Need</text>
+    <include>
+      <text> accordance with Section 2.16 of the San Mateo City Charter, the City Council finds and declares that adoption of this Emergency Ordinance is necessary for preserving the public peace, health, safety, or welfare for the following reasons:</text>
+      <para>
+        <num>(a)</num>
+        <text>The COVID-19 pandemic has led to the current state of emergency in California.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The virus is spreading rapidly across the region with many clusters arising within retail stores. Grocery stores remain a critical piece of infrastructure in our fight against the COVID-19 virus and in protecting the food supply chain.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Grocery stores are the primary points of distribution for food and other daily necessities for the residents of the City of San Mateo and are therefore essential to the vitality of our community.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Turnover, inability to pay for housing and increased childcare costs as a result of school closures and other necessities could become an immediate problem for certain grocery workers if they are not given relief.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>To protect the food supply chain and the public health and safety, the City of San Mateo must take steps to guard against turnover and ensure that large grocery stores in San Mateo have well-trained, consistent and stable staffing.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Effective Date</text>
+    <text>Pursuant to Section 2.16 of the San Mateo City Charter, this ordinance shall go into effect immediately and automatically stand repealed as of the ninety-first day following the date on which it was adopted, unless it is reenacted.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Definitions</text>
+    <text>The definitions set forth in this Section shall govern the construction and meaning of the terms used in this Ordinance:</text>
+    <para>
+      <num>(a)</num>
+      <text>Base Wage" means the hourly wage paid to Covered Employees as of the effective date of this ordinance less Hazard Pay owed under this ordinance or any other premium hourly rate already paid to compensate Covered Employees for working during the pandemic (referred to herein as "employer-initiated hazard pay").</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>"City" means the City of San Mateo.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>"Covered Employee" means any individual who qualifies as an employee entitled to payment of a minimum wage from any employer under <cite doc="City of San Mateo, Cal., Code" path="5.92.010">San Mateo Municipal Code Section 5.92.010</cite>, who works in a Grocery Store or Drugstore on either a full-time or part-time basis, and whose work exposes them to contact with store patrons.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <text>"Covered Employer" means any Person who (a) directly or indirectly or through an agent or any other Person owns or operates a Grocery Store or a Drugstore and employs or exercises control over the wages, hours or working conditions of any Covered Employee; and (b) employs 750 or more employees nationwide regardless of where those employees are employed. To determine the number of employees employed by a Grocery Store or  Drugstore, the calculation shall be based upon:</text>
+      <para>
+        <num>(1)</num>
+        <text>The actual number of employees who worked for compensation during the two workweeks preceding the effective date of this ordinance; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>All employees who worked for compensation shall be counted, including but not limited to:</text>
+        <para>
+          <num>(A)</num>
+          <text>Employees who are not covered by this ordinance;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Employees who worked within the geographic limits of the City;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Employees who worked outside the geographic limits of the City; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Employees who worked in full-time employment, part-time employment, joint employment, temporary employment, or through the services of a temporary services or staffing agency or similar entity.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>"Employer-Initiated Hazard Pay" means a premium hourly rate to compensate Covered Employees for the hardships and/or risks associated with working during the COVID-19 pandemic. If a Covered Employer pays such Employer–Initiated Hazard pay on a flat rate basis, the premium hourly rate is derived by dividing the flat rate payment for a workweek by the number of hours worked in the workweek.</text>
+    </para>
+    <para>
+      <num>(f)</num>
+      <text>"Hazard Pay" means an additional $5.00 per hour wage bonus in addition to each Covered Employee's Base Wage or Holiday Premium wage for each hour worked within the City.</text>
+    </para>
+    <para>
+      <num>(g)</num>
+      <text>"Holiday Premium" means the hourly wage paid to Covered Employees for performing work during a holiday or holiday season.</text>
+    </para>
+    <para>
+      <num>(h)</num>
+      <text>"Hours Worked" means the time during which a Covered Employee is subject to the control of a Covered Employer, including all the time the employee is suffered or permitted to work, and on-call.</text>
+    </para>
+    <para>
+      <num>(i)</num>
+      <text>"Drugstore" means a store that devotes seventy percent (70%) or more of its business to retailing a general range of drugs, pharmaceuticals, cosmetics and related products, including food products, which may be fresh or packaged. There is a rebuttable presumption that if a store receives seventy percent (70%) or more revenue from retailing a general range of drugs, pharmaceuticals, cosmetics and related products, including food products, then it qualifies as a drug store.</text>
+    </para>
+    <para>
+      <num>(j)</num>
+      <text>"Grocery Store" means a retail store that is located within the geographic limits of the City, and that sells primarily household foodstuffs for offsite consumption, including the sale of fresh produce, meats, poultry, fish, deli products, dairy products, canned foods, dry foods, beverages, baked foods, or prepared foods. Other household supplies or other products shall be secondary to the primary purpose of food sales.  For the purposes of this ordinance, "Grocery Store" also means a retail store of any kind located within the geographic limits of the City that devotes 10% or more of its interior space to the sale of household foodstuffs for offsite consumption, including the sale of fresh produce, meats, poultry, fish, deli products, dairy products, canned foods, dry foods, beverages, baked foods, or prepared foods.</text>
+    </para>
+    <para>
+      <num>(k)</num>
+      <text>"Person" means any individual, corporation, partnership, limited partnership, limited liability partnership, limited liability company, business trust, estate, trust, association, joint venture, agency, instrumentality, or any other legal or commercial entity, whether domestic or foreign.</text>
+    </para>
+  </section>
+  <section>
+    <num>5</num>
+    <text>Payment of Hazard Pay to Covered Employees.</text>
+    <para>
+      <num>(a)</num>
+      <text>Hazard Pay. Covered Employers shall pay Covered Employees a wage of no less than the premium hourly rate set under the authority of this ordinance. The premium hourly rate for each Covered Employee shall be an additional five dollars ($5.00) per hour for all hours worked at a Grocery Store or Drugstore on top of the Covered Employee's Base Wage or Holiday Premium, whichever applicable at the time of hours worked. The Hazard Pay rate shall not include compensation already owed to Covered Employees, Holiday Premium rates, gratuities, service charge distributions, or other bonuses.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Credits. Covered Employers providing employer-initiated hazard pay will be credited for doing so in accordance with Section 6.</text>
+    </para>
+  </section>
+  <section>
+    <num>6</num>
+    <text>Credit for Employer–Initiated Hazard Pay</text>
+    <para>
+      <num>(a)</num>
+      <text>Employer-Initiated Hazard Pay shall be credited against the five dollars ($5.00) per hour for the hourly amount paid to each Covered Employee (e.g., A Covered Employer offering two dollars ($2.00) per hour in Employer-Initiated Hazard Pay owes an additional three dollars ($3.00) per hour in Hazard Pay per <cite doc="City of San Mateo, Cal., Code" path="_">this Chapter</cite>.) To receive credit for paying a Covered Employee Employer–Initiated Hazard Pay, a Covered Employer must demonstrate that, as of the effective date of this ordinance and in any subsequent covered workweeks, the Covered Employer paid such Employer-Initiated Hazard Pay to the Covered Employee. No Covered Employer shall be credited prospectively for any past payments. No Covered Employer shall be credited for any hourly premiums already owed to Covered Employees, such as but not limited to, Holiday Premiums. Nothing herein shall be interpreted to prohibit any employer from paying more than five dollars ($5.00) per hour in Hazard Pay.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Covered Employers must, upon request, immediately provide the following to the City Manager's Office to receive credit for Employer- Initiated Hazard Pay:</text>
+      <para>
+        <num>(1)</num>
+        <text>A copy of the Employer's Hazard Pay policy; and</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>A statement, provided under penalty of perjury, explaining Covered Employees' hourly Base Wages, hourly Holiday Premiums, hourly employer-initiated hazard pay, and any other wage bonuses received during the last twelve (12) all months; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>For any Covered Employee(s) as to whom a Covered Employer seeks credit for Employer–Initiated Hazard Pay, documentation reflecting that such payments were made, for each hour claimed; and</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Documentation that allows the City to review for compliance by assessing wages for the past twelve (12) months and that is itemized in such a way that the City can understand a Covered Employee's Base Wage distinguished from Holiday Premiums and other bonuses or pay increases that are separate and distinct from employer-initiated hazard pay.</text>
+        <para>
+          <num>(A)</num>
+          <text>The following constitutes acceptable evidence of employer-initiated hazard pay described in Subsection (B)(4): A spreadsheet, of all Covered Employees and their wages for each pay period for the last twelve (12) months, that allows the City to distinguish Base Wage from Holiday Pay and other bonuses or pay increases that are separate and distinct from employer-initiated hazard pay.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Production of the evidence described in Subsection (B)(4)(a) does not exempt any Covered Employer from maintaining, and providing access to, the underlying payroll records described in this Section.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>Any offer of proof under subsection (b)(4) shall be accompanied by a written acknowledgment that it was submitted under penalty of perjury.</text>
+    </para>
+  </section>
+  <section>
+    <num>7</num>
+    <text>Paid Time Off for Vaccination</text>
+    <text>Covered Employers shall provide Covered Employees up to 4 hours of paid time off to compensate Covered Employees for the time required to obtain COVID-19 vaccinations.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <text>Waiver</text>
+    <text>The provisions of this ordinance may not be waived by agreement between an individual Covered Employee and a Covered Employer. All the provisions of this ordinance, or any part thereof, may be waived in a bona fide collective bargaining agreement, but only if the waiver is explicitly set forth in such agreement in clear and unambiguous terms.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <text>Prohibitions</text>
+    <text>It shall be unlawful for a Covered Employer or any other Person to interfere with, restrain or deny the existence of, or the attempt to exercise, any rights protected under this ordinance.  Employers shall not take retaliatory action or discriminate against any employee or former employee because the individual has exercised rights protected under this ordinance. Such rights include, but are not limited to, the right to request Hazard Pay pursuant to this ordinance; the right to file a complaint with the City or inform any person about an employer's alleged violation of this ordinance; the right to participate in an investigation, hearing or proceeding or cooperate with or assist the City in its investigations of alleged violations of this ordinance, and the right to inform any person of their rights under this ordinance. Protections of this ordinance shall apply to any employee who mistakenly, but in good faith, alleges noncompliance with this ordinance. Taking adverse action against an employee, including lowering an employee's Base Wage or Holiday Premium Wages or reducing work hours, within 90 days of the employee's exercise of rights protected under this ordinance shall raise a rebuttable presumption of having done so in retaliation for the exercise of such rights.</text>
+  </section>
+  <section>
+    <num>10</num>
+    <text>Enforcement</text>
+    <para>
+      <num>(a)</num>
+      <text>The failure of any person to comply with any requirement imposed under this ordinance is a violation of city law and may be enforced through any of the remedies provided in <cite doc="City of San Mateo, Cal., Code" path="1.04">San Mateo Municipal Code Chapter 1.04</cite>.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Any covered grocery or drug store worker that suffers financial injury as a result of a violation of this ordinance, or is the subject of prohibited retaliation under Section 8, may bring a civil action in a court of competent jurisdiction against the Covered Employer or other person violating this ordinance and, upon prevailing, may be awarded reasonable attorney fees and costs and such legal or equitable relief as may be appropriate to remedy the violation including, without limitation: the payment of any unpaid compensation plus interest due to the person and liquidated damages in an additional amount of up to twice the unpaid compensation; and a reasonable penalty payable to any aggrieved party if the aggrieved party was subject to prohibited retaliation.</text>
+    </para>
+  </section>
+  <section>
+    <num>11</num>
+    <text>Regulations</text>
+    <text>The City Manager's Office may promulgate and enforce rules and regulations, and issue determinations and interpretations, consistent with and necessary for the implementation of this ordinance. Such rules and regulations, determinations, and interpretations shall have the force of law and may be relied upon by employers, employees, and other persons to determine their rights and responsibilities under this ordinance.</text>
+  </section>
+  <section>
+    <num>12</num>
+    <text>Conflict</text>
+    <text>Nothing in this ordinance shall be interpreted or applied to create any power or duty in conflict with any federal or state law. The term "Conflict," means a conflict that is preemptive under federal or state law.</text>
+  </section>
+  <section>
+    <num>13</num>
+    <text>Notice</text>
+    <para>
+      <num>(a)</num>
+      <text>Covered Employers shall provide covered grocery or drug store workers with a written notice of rights established by this ordinance. The notice of rights shall be in a form and manner sufficient to inform grocery or drug store workers of their rights under this ordinance. The notice of rights shall provide information on:</text>
+      <para>
+        <num>(1)</num>
+        <text>the right to premium pay guaranteed by this ordinance;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>the right to be protected from retaliation for exercising in good faith the rights afforded by this ordinance; and</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>the right to bring a civil action for a violation of the requirements of this ordinance, including a Covered Employer's denial of premium pay as required by this ordinance and a Covered Employer or other person's retaliation against a covered grocery or drug store or drug store worker or other person for asserting the right to premium pay or otherwise engaging in an activity protected by this ordinance.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>Covered Employers shall provide the notice of rights required by posting a written notice of rights in a location of the grocery or drug utilized by employees for breaks, and in an electronic format that is readily accessible to the grocery or drug store workers. The notice of rights shall be made available to the grocery or drug store workers via smartphone application or an online web portal, in English and any language that the Covered Employer knows or has reason to know is the primary language of the grocery or drug store worker(s).</text>
+    </para>
+  </section>
+  <section>
+    <num>14</num>
+    <text>Environmental Determination. This ordinance is not a project under CEQA because it can be seen with certainty that it will not cause a physical change in the environment.</text>
+  </section>
+  <section>
+    <num>15</num>
+    <text>Severability. If any subsection, sentence, clause or phrase of this ordinance is for any reason held to be invalid or unconstitutional by a court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this ordinance, which shall remain in full force and effect. The City Council hereby declares that it would have passed this ordinance and each and every subsection, sentence, clause and phrase thereof not declared invalid or unconstitutional, without regard to whether any portion of the article would be subsequently declared invalid or unconstitutional. The courts are hereby authorized to reform the provisions of this ordinance in order to preserve the maximum permissible effect of each subsection herein.</text>
+  </section>
+  <section>
+    <num>16</num>
+    <text>Publication. This Ordinance shall be published in the official city newspaper in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.16">Section 2.16 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>17</num>
+    <text>Legislative History and Effective Date. This ordinance was adopted on March 1, 2021 and shall be effective immediately.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

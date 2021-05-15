@@ -1,0 +1,139 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-11">
+  <num>2021-11</num>
+  <heading type="short">Public Interest Signage in Public Right of Way</heading>
+  <heading type="long">Amending Section 17.08.020 of the San Mateo Municipal Code to Allow Temporary Signs to Identify a Place of Public Interest in the Public Right-of-Way with an Encroachment Permit</heading>
+  <meta>
+    <effective>2021-05-19</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-11.pdf">Ord. No. 2021-11</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-11</citation>
+    </citations>
+    <history>
+      <introduced>2021-04-05</introduced>
+      <adopted>2021-04-19</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Code" path="17.08.020">Section 17.08.020 of the San Mateo Municipal Code</cite> addresses objects in the public right-of- way; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City wishes to add a provision allowing the City to install signage marking points of public interest; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City also wishes to update <cite doc="City of San Mateo, Cal., Code" path="17.08.020">Section 17.08.020</cite> to refer to the Public Works Director and reference City Council adopted policies regarding outdoor dining in the public right-of-way;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="17.08.020">Section 17.08.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace  doc="City of San Mateo, Cal., Code" path="17.08.020"/>
+        <num>17.08.020</num>
+        <heading>Placing Certain Objects in the Public Right-of-Way Prohibited</heading>
+        <text>No person shall place or cause to be placed, anywhere upon any public way, right-of-way, street, or sidewalk, and no person owning, occupying, or having the control of any premises shall suffer to remain in front thereof, upon any sidewalk, in the public right-of-way, of the half of the street or way next to such premises any appliances, furniture, bench, inoperable vehicles, boats, machinery, foods, merchandise, implement box, debris box, mailbox, or other object, which shall be an obstruction for more than one hour at a time.</text>
+        <text>The foregoing shall not apply to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Goods or merchandise in actual course of receipt, delivery, or removal;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Ornamental trees and planter boxes placed along the outer line of the sidewalk, behind the curbs under permit or direction of the Public Works Director or designee;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Barriers for the protection of permitted ornamental trees;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Poles erected under franchises obtained from the City or other authority;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Hydrants or other objects erected by permission or direction of the City;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Clocks or fountains erected for the accommodation of the public under permit or direction of the Public Works Director or designee;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Debris boxes and materials used in the construction, repair, or demolition of any building; if such debris boxes and materials are permitted by the Public Works Director or designee under permit issued in the manner, and meeting the requirements and conditions of Sections <cite doc="City of San Mateo, Cal., Code" path="17.08.070">17.08.070</cite>, <cite doc="City of San Mateo, Cal., Code" path="17.08.080">17.08.080</cite>, and <cite doc="City of San Mateo, Cal., Code" path="17.08.090">17.08.090</cite>, including the posting of bonds and insurance meeting the City's minimum requirements. Such permit shall require the placement of necessary barricades and sufficient nighttime warning lights and/or reflectors;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Garbage and rubbish containers conforming to the specifications of the Public Works Director or designee may be placed on sidewalks or gutters in direct proximity to the curb on scheduled garbage collection days between the hours of 5:00 a.m. and 8:00 p.m. and during "Annual Cleanup" weeks in accordance with published annual cleanup regulations;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Bus benches and passenger waiting shelters erected by a public transit agency that conform to State building standards and do not cause a pedestrian or vehicular hazard</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Restaurant seating and associated means of delineating the physical extent of the seating area conforming to either the standards set forth in <cite doc="City of San Mateo, Cal., Code" path="27.87.030">Section 27.87.030</cite> or as adopted by City Council resolution and under permit or direction of the Public Works Director or designee;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Sidewalk vendors; and</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Storage containers placed in the public right-of-way for no longer than seven days with the option of a seven-day extension for a maximum term of fourteen days, if permitted by the Director of Public Works or designee pursuant to Municipal Code Sections <cite doc="City of San Mateo, Cal., Code" path="17.08.070">17.08.070</cite>, <cite doc="City of San Mateo, Cal., Code" path="17.08.080">17.08.080</cite>, and <cite doc="City of San Mateo, Cal., Code" path="17.08.090">17.08.090</cite>.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Signs placed by a public officer or employee acting in their official capacity to identify a place of public interest.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with <cite doc="Cal. Pub. Res. Code" path="§21065">Public Resources Code Section 21065</cite>, adoption of this Ordinance is not a project subject to CEQA in that it can be seen with certainty that there is no possibility that the amendments will cause a significant impact to the environment, because the amendments authorize City signage regarding points of public interest in the public right-of-way, update terms, and reference an existing City Council policy regarding outdoor dining in the public right-of-way.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on April 5, 2021, and adopted on April 19, 2021, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
