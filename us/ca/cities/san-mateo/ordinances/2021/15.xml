@@ -1,0 +1,117 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-15">
+  <num>2021-15</num>
+  <!-- <heading type="short">Electronic Campaign</heading>
+  <heading>AN UNCODIFIED ORDINANCE OF THE CITY COUNCIL OF THE CITY OF SAN MATEO AMENDING THE CITY'S ORDINANCE REQUIRING ELECTRONIC FILING OF CAMPAIGN STATEMENTS</heading> -->
+  <heading type="long">An Uncodified Ordinance of the City Council of the City of San Mateo Amending the City's Ordinance Requiring Electronic Filing of Campaign Statements</heading>
+  <meta>
+    <effective>2021-07-07</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-15.pdf">Ord. No. 2021-15</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-15</citation>
+    </citations>
+    <history>
+      <introduced>2021-05-17</introduced>
+      <adopted>2021-06-07</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code" path="§84615">Government Code Section 84615</cite> currently provides that a local agency may adopt an ordinance to require an elected officer, candidate, committee, or other person required to file campaign disclosure statements, required by Chapter 4 of the Political Reform Act (commencing with <cite doc="Cal. Gov't Code" path="§84100">Section 84100 of the Government Code</cite>); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council of the City of San Mateo previously adopted an ordinance requiring electronic filing of campaign disclosure statements (the "Ordinance"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City has entered into an agreement with Secretary of State-approved vendor, to provide an online electronic filing system ("System") for campaign disclosure statements and wishes to remove the Ordinance's original reference to a specific vendor; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to update the dollar limit at which electronic filing of campaign disclosure statements is required in order to comport with <cite doc="Cal. Gov't Code" path="§84200">Government Code Sections 84200</cite> and following:</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO FINDS AND ORDAINS AS FOLLOWS:</text>
+      <para>
+        <num>(a)</num>
+        <text>The System will operate securely and effectively and will not unduly burden filers.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Specifically:</text>
+        <para>
+          <num>(1)</num>
+          <text>the System will ensure the integrity of the data and includes safeguards against efforts to tamper with, manipulate, alter, or subvert data;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>the System will only accept a filing the standardized record format developed by the Secretary of State and compatible with the Secretary of State's system for receiving an online or electronic filing; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>the System will be available free of charge to filers and to the public for viewing filings.</text>
+        </para>
+      </para>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Electronic Filing of Campaign Statements</text>
+    <include>
+      <para>
+        <num>(a)</num>
+        <text>Any elected officer, candidate, committee or other person required to file statements, required by Chapter 4 (commencing with <cite doc="Cal. Gov't Code" path="§84100">Section 84100 of the Government Code</cite>), except an elected officer, candidate, committee or other person who receives contributions totaling less than two thousand dollars ($2,000), or makes expenditures totaling less than two thousand dollars ($2,000), in a calendar year shall file those statements, online or electronically with the City Clerk.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>In any instance in which an original statement, report or other document must be filed with the California Secretary of State and a copy of that statement, report or other document is required to be filed with the City Clerk, the filer may, but is not required to, file the copy electronically.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If the City Clerk's electronic system is not capable of accepting a particular type of statement, report or other document, an elected officer, candidate, committee or other person shall file that document with the City Clerk in an alternative format.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>1</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(5), this action is categorically exempt from (CEQA) as an administrative activity that will not result in a potentially significant physical impact on the environment.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect. (Ord. 2004-15 § 1, 2004).</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on May 17, 2021, and adopted on June 7, 2021, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
