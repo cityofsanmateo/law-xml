@@ -1,8 +1,7 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-15">
   <num>2021-15</num>
-  <!-- <heading type="short">Electronic Campaign</heading>
-  <heading>AN UNCODIFIED ORDINANCE OF THE CITY COUNCIL OF THE CITY OF SAN MATEO AMENDING THE CITY'S ORDINANCE REQUIRING ELECTRONIC FILING OF CAMPAIGN STATEMENTS</heading> -->
-  <heading type="long">An Uncodified Ordinance of the City Council of the City of San Mateo Amending the City's Ordinance Requiring Electronic Filing of Campaign Statements</heading>
+  <heading type="short">Electronic Campaign Statement Filing Requirement Amendment</heading>
+  <heading type="long">AN UNCODIFIED ORDINANCE OF THE CITY COUNCIL OF THE CITY OF SAN MATEO AMENDING THE CITY'S ORDINANCE REQUIRING ELECTRONIC FILING OF CAMPAIGN STATEMENTS</heading>
   <meta>
     <effective>2021-07-07</effective>
     <citations>
@@ -59,38 +58,37 @@
   <section>
     <num>1</num>
     <text>Electronic Filing of Campaign Statements</text>
-    <include>
-      <para>
-        <num>(a)</num>
-        <text>Any elected officer, candidate, committee or other person required to file statements, required by Chapter 4 (commencing with <cite doc="Cal. Gov't Code" path="§84100">Section 84100 of the Government Code</cite>), except an elected officer, candidate, committee or other person who receives contributions totaling less than two thousand dollars ($2,000), or makes expenditures totaling less than two thousand dollars ($2,000), in a calendar year shall file those statements, online or electronically with the City Clerk.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>In any instance in which an original statement, report or other document must be filed with the California Secretary of State and a copy of that statement, report or other document is required to be filed with the City Clerk, the filer may, but is not required to, file the copy electronically.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>If the City Clerk's electronic system is not capable of accepting a particular type of statement, report or other document, an elected officer, candidate, committee or other person shall file that document with the City Clerk in an alternative format.</text>
-      </para>
-    </include>
+    <para>
+      <num>(a)</num>
+      <text>Any elected officer, candidate, committee or other person required to file statements, required by Chapter 4 (commencing with <cite doc="Cal. Gov't Code" path="§84100">Section 84100 of the Government Code</cite>), except an elected officer, candidate, committee or other person who receives contributions totaling less than two thousand dollars ($2,000), or makes expenditures totaling less than two thousand dollars ($2,000), in a calendar year shall file those statements, online or electronically with the City Clerk.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>In any instance in which an original statement, report or other document must be filed with the California Secretary of State and a copy of that statement, report or other document is required to be filed with the City Clerk, the filer may, but is not required to, file the copy electronically.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>If the City Clerk's electronic system is not capable of accepting a particular type of statement, report or other document, an elected officer, candidate, committee or other person shall file that document with the City Clerk in an alternative format.</text>
+    </para>
+    
   </section>
   <section>
-    <num>1</num>
+    <num>2</num>
     <heading>Environmental Determination.</heading>
     <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(5), this action is categorically exempt from (CEQA) as an administrative activity that will not result in a potentially significant physical impact on the environment.</text>
   </section>
   <section>
-    <num>2</num>
+    <num>3</num>
     <heading>Severability.</heading>
     <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect. (Ord. 2004-15 § 1, 2004).</text>
   </section>
   <section>
-    <num>3</num>
+    <num>4</num>
     <heading>Publication.</heading>
     <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
   </section>
   <section>
-    <num>4</num>
+    <num>5</num>
     <heading>Legislative History and Effective Date.</heading>
     <text>This ordinance was introduced on May 17, 2021, and adopted on June 7, 2021, and shall be effective 30 days after its adoption.</text>
   </section>
