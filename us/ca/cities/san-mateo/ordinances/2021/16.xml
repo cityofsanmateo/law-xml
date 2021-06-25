@@ -47,39 +47,49 @@
       <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
     </recital>
   </recitals>
-  <section>
+  <section codify:doc="City of San Mateo, Cal., Code" codify:path="3.35">
     <num>1</num>
     <text>The heading of <cite doc="City of San Mateo, Cal., Code" path="3.35">Chapter 3.35</cite> is amended to read: "Claims."</text>
+    <codify:find-replace>
+        <find>CLAIMS FOR TAX REFUNDS</find>
+        <replace>Claims</replace>
+      </codify:find-replace>
   </section>
   <section>
     <num>2</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="3.35.020">Section 3.35.020</cite> is amended as follows:</text>
-    <section>
-      <num>3.35.020</num>
-      <heading>Claims Required</heading>
-      <text>All claims against the City for money or damages not otherwise governed by the Government Claims Act, codified at <cite doc="Cal. Gov't Code" >Government Code</cite> Sections 900 and following,  or another state law (hereinafter in <cite doc="City of San Mateo, Cal., Code" path="3.35">this Chapter</cite>, "Claims") shall be presented within the time, and in the manner, prescribed by Part 3 of Division 3.6 of Title <cite doc="Cal. Gov't Code" path="§1">1 of the California Government Code</cite> (commencing with Section 900 thereof) for the claims to which that Part applies by its own terms, as those provisions now exist or shall be hereafter amended, and as further provided by <cite doc="City of San Mateo, Cal., Code" path="3.35" >this Chapter</cite>.
-      </text>
-    </section>
+    <include>
+      <section>
+        <codify:replace  doc="City of San Mateo, Cal., Code" path="3.35.020"/>
+        <num>3.35.020</num>
+        <heading>Claims Required</heading>
+        <text>All claims against the City for money or damages not otherwise governed by the Government Claims Act, codified at <cite doc="Cal. Gov't Code">Government Code</cite> Sections 900 and following, or another state law (hereinafter in <cite doc="City of San Mateo, Cal., Code" path="3.35">this Chapter</cite>, "Claims") shall be presented within the time, and in the manner, prescribed by Part 3 of Division 3.6 of Title <cite doc="Cal. Gov't Code" path="§1">1 of the California Government Code</cite> (commencing with Section 900 thereof) for the claims to which that Part applies by its own terms, as those provisions now exist or shall be hereafter amended, and as further provided by <cite doc="City of San Mateo, Cal., Code" path="3.35">this Chapter</cite>.</text>
+      </section>
+    </include>
   </section>
   <section>
     <num>3</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="03.35.030">Section 03.35.030</cite> is amended as follows:</text>
-    <section>
-      <num>03.35.030</num>
-      <heading>Form of Claim</heading>
-      <text>All claims shall be made in writing, which may include electronic transmissions, and verified by the claimant or by his or her guardian, conservator, executor or administrator. No claim may be filed on behalf of a class of persons unless verified by every member of that class as required by this section. In addition, all claims shall contain the information required by <cite doc="Cal. Gov't Code" path="§910">California Government Code Section 910</cite>.
-      </text>
-    </section>
+    <text><cite doc="City of San Mateo, Cal., Code" path="3.35.030">Section 03.35.030</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace  doc="City of San Mateo, Cal., Code" path="3.35.030"/>
+        <num codify:value="3.35.030">03.35.030</num>
+        <heading>Form of Claim</heading>
+        <text>All claims shall be made in writing, which may include electronic transmissions, and verified by the claimant or by his or her guardian, conservator, executor or administrator. No claim may be filed on behalf of a class of persons unless verified by every member of that class as required by this section. In addition, all claims shall contain the information required by <cite doc="Cal. Gov't Code" path="§910">California Government Code Section 910</cite>.</text>
+      </section>
+    </include>
   </section>
   <section>
     <num>4</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="3.35.040">Section 3.35.040</cite> is amended as follows:</text>
-    <section>
-      <num>3.35.040</num>
-      <heading>Claim Prerequisite to Suit</heading>
-      <text>In accordance with <cite doc="Cal. Gov't Code">California Government Code</cite> Sections 935(b) and 945.6, all claims shall be presented prior to the filing of any action on such claims and no such action may be maintained by a person who has not complied with the requirements of <cite doc="City of San Mateo, Cal., Code" path="3.35">this Chapter</cite>.
-      </text>
-    </section>
+    <include>
+      <section>
+        <codify:replace  doc="City of San Mateo, Cal., Code" path="3.35.040"/>
+        <num>3.35.040</num>
+        <heading>Claim Prerequisite to Suit</heading>
+        <text>In accordance with California Government Code Sections <cite doc="Cal. Gov't Code" path="§935">935(b)</cite> and <cite doc="Cal. Gov't Code" path="§945.6">945.6</cite>, all claims shall be presented prior to the filing of any action on such claims and no such action may be maintained by a person who has not complied with the requirements of <cite doc="City of San Mateo, Cal., Code" path="3.35" >this Chapter</cite>.</text>
+      </section>
+    </include>
   </section>
   <section>
     <num>5</num>
@@ -94,7 +104,7 @@
   <section>
     <num>7</num>
     <heading>Publication.</heading>
-    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" >Section 2.15 of the City Charter</cite>.</text>
   </section>
   <section>
     <num>8</num>
