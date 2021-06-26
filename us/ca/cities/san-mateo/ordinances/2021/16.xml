@@ -1,0 +1,134 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-16">
+  <num>2021-16</num>
+  <heading type="short">Claims for Tax Refunds and Electronic Claim Filings</heading>
+  <heading type="long">AMENDING CHAPTER HEADING OF 3.35 TO REMOVE SPECIFIC REFERENCE TO TAX REFUNDS AND SECTION 3.35.030, "FORM OF CLAIMS," OF THE SAN MATEO MUNICIPAL CODE TO PROVIDE FOR ELECTRONIC CLAIMS</heading>
+  <meta>
+    <effective>2021-07-21</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-16.pdf">Ord. No. 2021-16</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-16</citation>
+    </citations>
+    <history>
+      <introduced>2021-06-07</introduced>
+      <adopted>2021-06-21</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City's claims procedure is currently set forth in <cite doc="City of San Mateo, Cal., Code" path="3.35">Chapter 3.35</cite> of the City's Municipal Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The heading of <cite doc="City of San Mateo, Cal., Code" path="3.35">Chapter 3.35</cite> is currently "Claims for Tax Refunds" and should be "Claims;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Senate Bill 1473 has amended <cite doc="Cal. Gov't Code">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§915">915</cite>, <cite doc="Cal. Gov't Code" path="§915.2">915.2</cite> and <cite doc="Cal. Gov't Code" path="§915.4">915.4</cite> to authorize the electronic submission of claims against a city can be submitted electronically if authorized by city resolution or ordinance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City of San Mateo has a claims-filing procedure codified in <cite doc="City of San Mateo, Cal., Code" path="3.35">Chapter 3.35 of the San Mateo Municipal Code</cite>;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City of San Mateo wishes to authorize the electronic filing of claims;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Because <cite doc="Cal. Gov't Code">Government Code</cite> Sections 900 and following are now commonly referred to as the "Government Claims Act," the City of San Mateo wishes to update references to the "Tort Claims Act" with references to the "Government Claims Act;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City of San Mateo wishes to make other minor editorial edits;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section codify:doc="City of San Mateo, Cal., Code" codify:path="3.35">
+    <num>1</num>
+    <text>The heading of <cite doc="City of San Mateo, Cal., Code" path="3.35">Chapter 3.35</cite> is amended to read: "Claims."</text>
+    <codify:find-replace>
+        <find>CLAIMS FOR TAX REFUNDS</find>
+        <replace>Claims</replace>
+      </codify:find-replace>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="3.35.020">Section 3.35.020</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace  doc="City of San Mateo, Cal., Code" path="3.35.020"/>
+        <num>3.35.020</num>
+        <heading>Claims Required</heading>
+        <text>All claims against the City for money or damages not otherwise governed by the Government Claims Act, codified at <cite doc="Cal. Gov't Code">Government Code</cite> Sections 900 and following, or another state law (hereinafter in <cite doc="City of San Mateo, Cal., Code" path="3.35">this Chapter</cite>, "Claims") shall be presented within the time, and in the manner, prescribed by Part 3 of Division 3.6 of Title <cite doc="Cal. Gov't Code" path="§1">1 of the California Government Code</cite> (commencing with Section 900 thereof) for the claims to which that Part applies by its own terms, as those provisions now exist or shall be hereafter amended, and as further provided by <cite doc="City of San Mateo, Cal., Code" path="3.35">this Chapter</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="3.35.030">Section 03.35.030</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace  doc="City of San Mateo, Cal., Code" path="3.35.030"/>
+        <num codify:value="3.35.030">03.35.030</num>
+        <heading>Form of Claim</heading>
+        <text>All claims shall be made in writing, which may include electronic transmissions, and verified by the claimant or by his or her guardian, conservator, executor or administrator. No claim may be filed on behalf of a class of persons unless verified by every member of that class as required by this section. In addition, all claims shall contain the information required by <cite doc="Cal. Gov't Code" path="§910">California Government Code Section 910</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="3.35.040">Section 3.35.040</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace  doc="City of San Mateo, Cal., Code" path="3.35.040"/>
+        <num>3.35.040</num>
+        <heading>Claim Prerequisite to Suit</heading>
+        <text>In accordance with California Government Code Sections <cite doc="Cal. Gov't Code" path="§935">935(b)</cite> and <cite doc="Cal. Gov't Code" path="§945.6">945.6</cite>, all claims shall be presented prior to the filing of any action on such claims and no such action may be maintained by a person who has not complied with the requirements of <cite doc="City of San Mateo, Cal., Code" path="3.35" >this Chapter</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Environmental Determination.</heading>
+    <text>This proposed ordinance is not a project subject to CEQA, because it is an organizational or administrative activity that will not result in direct or indirect physical changes in the environment. (CEQA Guidelines Section 15378(b)(5).)</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" >Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on June 7, 2021, and adopted on June 21, 2021, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
