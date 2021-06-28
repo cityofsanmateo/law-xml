@@ -63,7 +63,7 @@
         <codify:replace  doc="City of San Mateo, Cal., Code" path="3.35.020"/>
         <num>3.35.020</num>
         <heading>Claims Required</heading>
-        <text>All claims against the City for money or damages not otherwise governed by the Government Claims Act, codified at <cite doc="Cal. Gov't Code">Government Code</cite> Sections 900 and following, or another state law (hereinafter in <cite doc="City of San Mateo, Cal., Code" path="3.35">this Chapter</cite>, "Claims") shall be presented within the time, and in the manner, prescribed by Part 3 of Division 3.6 of Title <cite doc="Cal. Gov't Code" path="§1">1 of the California Government Code</cite> (commencing with Section 900 thereof) for the claims to which that Part applies by its own terms, as those provisions now exist or shall be hereafter amended, and as further provided by <cite doc="City of San Mateo, Cal., Code" path="3.35">this Chapter</cite>.</text>
+        <text>All claims against the City for money or damages not otherwise governed by the Government Claims Act, codified at <cite doc="Cal. Gov't Code">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§900">900</cite> and following, or another state law (hereinafter in <cite doc="City of San Mateo, Cal., Code" path="3.35">this Chapter</cite>, "Claims") shall be presented within the time, and in the manner, prescribed by Part 3 of Division 3.6 of Title 1 of the <cite doc="Cal. Gov't Code">California Government Code</cite> (commencing with <cite doc="Cal. Gov't Code" path="§900">Section 900</cite> thereof) for the claims to which that Part applies by its own terms, as those provisions now exist or shall be hereafter amended, and as further provided by <cite doc="City of San Mateo, Cal., Code" path="3.35">this Chapter</cite>.</text>
       </section>
     </include>
   </section>
@@ -87,7 +87,7 @@
         <codify:replace  doc="City of San Mateo, Cal., Code" path="3.35.040"/>
         <num>3.35.040</num>
         <heading>Claim Prerequisite to Suit</heading>
-        <text>In accordance with California Government Code Sections <cite doc="Cal. Gov't Code" path="§935">935(b)</cite> and <cite doc="Cal. Gov't Code" path="§945.6">945.6</cite>, all claims shall be presented prior to the filing of any action on such claims and no such action may be maintained by a person who has not complied with the requirements of <cite doc="City of San Mateo, Cal., Code" path="3.35" >this Chapter</cite>.</text>
+        <text>In accordance with <cite doc="Cal. Gov't Code">California Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§935">935(b)</cite> and <cite doc="Cal. Gov't Code" path="§945.6">945.6</cite>, all claims shall be presented prior to the filing of any action on such claims and no such action may be maintained by a person who has not complied with the requirements of <cite doc="City of San Mateo, Cal., Code" path="3.35" >this Chapter</cite>.</text>
       </section>
     </include>
   </section>
