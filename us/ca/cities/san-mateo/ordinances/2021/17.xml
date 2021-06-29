@@ -50,8 +50,7 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="5.66.020">Section 5.66.020</cite> is amended to add the following definition:</text>
-    <text>"Dwelling Unit" means any legal dwelling unit but does not include accessory dwelling units.
-    </text>
+    <text>"Dwelling Unit" means any legal dwelling unit but does not include accessory dwelling units.</text>
     <codify:replace doc="City of San Mateo, Cal., Code" path="5.66.020|(f)|num">
       <num>(g)</num>
     </codify:replace>
@@ -77,8 +76,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="5.66.040">Section 5.66.040</cite>, "Operating Standards," is amended to read as follows:</text>
     <include>
       <codify:replace-content doc="City of San Mateo, Cal., Code" path="5.66.040"/>
-      <text>The following operating standards shall apply to Short-Term Rentals:
-      </text>
+      <text>The following operating standards shall apply to Short-Term Rentals:</text>
       <para>
         <num>(a)</num>
         <text>Permitted in Dwelling Units. Any Dwelling Unit, with the exception of Accessory Dwelling Units as defined in <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19 of the San Mateo Municipal Code</cite>, may be registered as a Short-Term Rental.</text>
