@@ -3,9 +3,9 @@
   <heading type="short">Short Term Rentals Amendment</heading>
   <heading type="long">An Ordinance of the City Council of the City of San Mateo Amending Section 5.66, "Short Term Rentals," of Title 5, "Business Licenses and Regulations, "of the San Mateo Municipal Code</heading>
   <meta>
-    <effective proof="needed">2021-07-21</effective>
+    <effective>2021-07-21</effective>
     <citations>
-      <citation type="ord" url="./adopted/2021-17.pdf" proof="needed">Ord. No. 2021-17</citation>
+      <citation type="ord" url="./adopted/2021-17.pdf">Ord. No. 2021-17</citation>
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-17</citation>
     </citations>
     <history>
@@ -49,7 +49,7 @@
   </recitals>
   <section>
     <num>1</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="5.66.020" proof="needed">Section 5.66.020</cite> is amended to add the following definition:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.66.020">Section 5.66.020</cite> is amended to add the following definition:</text>
     <text>
       <ul proof="needed">
         <li>"Dwelling Unit" means any legal dwelling unit but does not include accessory dwelling units.</li>
@@ -58,18 +58,17 @@
   </section>
   <section>
     <num>2</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="5.66.040" proof="needed">Section 5.66.040</cite>, "Operating Standards," is amended to read as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.66.040">Section 5.66.040</cite>, "Operating Standards," is amended to read as follows:</text>
     <include>
-      <text>
-        <ul proof="needed">
-          <li>The following operating standards shall apply to Short-Term Rentals:</li>
-        </ul>
+      <text>The following operating standards shall apply to Short-Term Rentals:
       </text>
       <para>
+        <codify:replace  doc="City of San Mateo, Cal., Code" path="5.66.040|(a)"/>
         <num>(a)</num>
-        <text>Permitted in Dwelling Units. Any Dwelling Unit, with the exception of Accessory Dwelling Units as defined in <cite doc="City of San Mateo, Cal., Code" path="27.19" proof="needed">Chapter 27.19 of the San Mateo Municipal Code</cite>, may be registered as a Short-Term Rental.</text>
+        <text>Permitted in Dwelling Units. Any Dwelling Unit, with the exception of Accessory Dwelling Units as defined in <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19 of the San Mateo Municipal Code</cite>, may be registered as a Short-Term Rental.</text>
       </para>
       <para>
+        <codify:replace  doc="City of San Mateo, Cal., Code" path="5.66.040|(b)"/>
         <num>(b)</num>
         <text>Annual Limit. When a Host is present on site, a Dwelling Unit may be occupied as a Short-Term Rental for an unlimited number of days.  When a Host is not present on site, a Dwelling Unit may be occupied as a Short-Term Rental for no more than 120 days per year, beginning on the date that the Short-Term Rental was registered.</text>
       </para>
@@ -105,9 +104,10 @@
   </section>
   <section>
     <num>3</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="5.66.050" proof="needed">Section 5.66.050</cite>, "Registration and Annual Renewal," is amended to read as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.66.050">Section 5.66.050</cite>, "Registration and Annual Renewal," is amended to read as follows:</text>
     <include>
       <para>
+        <codify:replace  doc="City of San Mateo, Cal., Code" path="5.66.050|(a)"/>
         <num>(a)</num>
         <text>Application. Prior to advertising or making available the Dwelling Unit for Short-term Rental, Hosts shall register a Dwelling Unit as a Short-Term Rental with the City. This registration shall be submitted on a form prepared by the City and shall include the name and contact information of the Host, the address of the Dwelling Unit being used for Short-Term Rental, the contact information for the local contact person, an acknowledgement of compliance with the requirements of the City's Zoning Ordinance, Municipal Codes, including the requirement to obtain a business license, applicable health and safety standards, and other information as requested.</text>
       </para>
@@ -120,11 +120,12 @@
         <text>Application Completeness. The submitted information shall be used to determine whether to register the Short-Term Rental. The Host will be notified if an application is incomplete. If the Host fails to timely submit the required information or fees necessary to complete the application, the application shall expire and be deemed withdrawn.</text>
       </para>
       <para>
+        <codify:replace  doc="City of San Mateo, Cal., Code" path="5.66.050|(d)"/>
         <num>(d)</num>
         <text>Decision. The Community Development Director shall review Short-term Rental registration applications. After an application is deemed complete, registration shall be approved where:</text>
         <para>
           <num>(1)</num>
-          <text>The Host demonstrates the ability to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="3" proof="needed">this Chapter</cite>,</text>
+          <text>The Host demonstrates the ability to meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="5.66">this Chapter</cite>,</text>
         </para>
         <para>
           <num>(2)</num>
@@ -150,7 +151,7 @@
   <section>
     <num>5</num>
     <heading>Publication.</heading>
-    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" proof="needed">Section 2.15 of the City Charter</cite>.</text>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" >Section 2.15 of the City Charter</cite>.</text>
   </section>
   <section>
     <num>6</num>
