@@ -51,7 +51,7 @@
   <section codify:doc="City of San Mateo, Cal., Code" codify:path="3.35">
     <num>1</num>
     <text>The heading of <cite doc="City of San Mateo, Cal., Code" path="3.35">Chapter 3.35</cite> is amended to read: "Claims."</text>
-    <codify:find-replace history="false">
+    <codify:find-replace history-dest="container">
       <find>CLAIMS FOR TAX REFUNDS</find>
       <replace>Claims</replace>
     </codify:find-replace>
