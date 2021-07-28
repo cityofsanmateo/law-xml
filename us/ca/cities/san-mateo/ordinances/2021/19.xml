@@ -161,7 +161,7 @@
     <num>3</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.14.030">Section 7.14.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <codify:replace-content doc="City of San Mateo, Cal., Code" target="7.14.030"/>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.030"/>
       <text>Chapter 2 Section 202 Definitions is amended as follows:</text>
       <para>
         <num>(a)</num>
@@ -197,7 +197,7 @@
     <num>4</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.14.040">Section 7.14.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <codify:replace-content doc="City of San Mateo, Cal., Code" target="7.14.040"/>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.040"/>
       <text>Chapter 3 General Requirements is amended as follows:</text>
       <para>
         <num>(a)</num>
@@ -284,7 +284,7 @@
     <num>5</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.14.050">Section 7.14.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <codify:replace-content doc="City of San Mateo, Cal., Code" target="7.14.050"/>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.050"/>
       <text>Chapter 5 Plumbing Facilities and Fixture Requirements is amended as follows:</text>
       <para>
         <num>(a)</num>
@@ -299,7 +299,7 @@
     <num>6</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.14.060">Section 7.14.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <codify:replace-content doc="City of San Mateo, Cal., Code" target="7.14.060"/>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.060"/>
       <text>Chapter 6 Mechanical and Electrical Requirements is amended as follows:</text>
       <para>
         <num>(a)</num>
@@ -328,7 +328,7 @@
     <num>7</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="7.14.070">Section 7.14.070 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <codify:replace-content doc="City of San Mateo, Cal., Code" target="7.14.070"/>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.070"/>
       <text>Chapter 7 Fire Safety Requirements is amended as follows:</text>
       <para>
         <num>(a)</num>
