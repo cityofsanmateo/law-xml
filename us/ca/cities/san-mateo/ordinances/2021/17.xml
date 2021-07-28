@@ -5,7 +5,7 @@
   <meta>
     <effective>2021-07-21</effective>
     <citations>
-      <citation type="ord" url="./adopted/2021-17-revised.pdf">Ord. No. 2021-17</citation>
+      <citation type="ord" url="./adopted/2021-17.pdf">Ord. No. 2021-17</citation>
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-17</citation>
     </citations>
     <history>
@@ -50,13 +50,7 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="5.66.020">Section 5.66.020</cite> is amended to add the following definition:</text>
-    <include>
-      <para>
-        <num>(c)</num>
-        <heading>Dwelling Unit.</heading> 
-        <text>Any legal dwelling unit but does not include accessory dwelling units.</text>
-      </para>
-    </include>
+    <text>"Dwelling Unit" means any legal dwelling unit but does not include accessory dwelling units.</text>
     <codify:replace doc="City of San Mateo, Cal., Code" path="5.66.020|(f)|num">
       <num>(g)</num>
     </codify:replace>
