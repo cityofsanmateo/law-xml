@@ -1,11 +1,11 @@
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Emergency Ord. No. 2021-20">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-20">
   <num>2021-20</num>
   <heading type="short">Parking Requirement Suspension and Outdoor Business Zoning Regulation Enforcement</heading>
   <heading type="long">An Emergency Ordinance Imposing a Moratorium on Enforcement of Minimum Parking Space Requirements and Enforcement of Zoning Regulations for Outdoor Businesses</heading>
   <meta>
     <effective>2021-08-15</effective>
     <citations>
-      <citation type="ord" url="./adopted/2021-20.pdf" proof="needed">Emergency Ord. No. 2021-20</citation>
+      <citation type="ord" url="./adopted/2021-20.pdf">Emergency Ord. No. 2021-20</citation>
       <citation type="bb">City of San Mateo, Cal., Emergency Ord. No. 2021-20</citation>
     </citations>
     <history>
@@ -36,7 +36,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the City's minimum parking space requirements are codified in Municipal Code <cite doc="City of San Mateo, Cal., Code" path="27.64.160" proof="needed">Section 27.64.160</cite>; and</text>
+      <text>the City's minimum parking space requirements are codified in Municipal Code <cite doc="City of San Mateo, Cal., Code" path="27.64.160">Section 27.64.160</cite>; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -44,7 +44,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the City's zoning regulations are codified in Municipal Code <cite doc="City of San Mateo, Cal., Code" path="27" proof="needed">Title 27</cite>; and</text>
+      <text>the City's zoning regulations are codified in Municipal Code <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -60,7 +60,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text><cite doc="City of San Mateo, Cal., Charter" path="2.16" proof="needed">City Charter Section 2.16</cite> authorizes the re-enactment of emergency ordinances so long as the emergency continues to exist; and</text>
+      <text><cite doc="City of San Mateo, Cal., Charter" path="2.16">City Charter Section 2.16</cite> authorizes the re-enactment of emergency ordinances so long as the emergency continues to exist; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -88,7 +88,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text><cite doc="City of San Mateo, Cal., Charter" path="2.16" proof="needed">City Charter section 2.16</cite> provides that any ordinance declared by the City Council to be necessary as an emergency measure for preserving the public peace, health, safety, or welfare and containing the reasons for its urgency, may be introduced, and passed at one meeting.</text>
+      <text><cite doc="City of San Mateo, Cal., Charter" path="2.16">City Charter section 2.16</cite> provides that any ordinance declared by the City Council to be necessary as an emergency measure for preserving the public peace, health, safety, or welfare and containing the reasons for its urgency, may be introduced, and passed at one meeting.</text>
     </recital>
     <recital>
       <conjunction>NOW, THEREFORE,</conjunction>
@@ -98,7 +98,7 @@
   <section>
     <num>1</num>
     <heading>Findings.</heading>
-    <text>In accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.16" proof="needed">City Charter Section 2.16</cite>, this Ordinance is necessary as an emergency measure to preserve the public health, safety, and welfare. Due to the COVID-19 pandemic, the Governor of the State of California has declared an emergency and the County of San Mateo has issued a mask mandate for everyone regardless of vaccination status. In order to mitigate the financial impact of the COVID-19 pandemic on businesses in the City and to reduce community transmission of COVID-19, the City wishes to temporarily enable the use of private parking lots for gyms and fitness centers, places of worship, personal care services, hair salons, barber shops, places of worship, shopping malls, educational facilities, including day cares, and other educational uses by imposing a moratorium on the enforcement of minimum parking space and other zoning requirements including those related to private parking facilities, so long as the parking lots are utilized in accordance with State and County Health Order requirements and City guidelines.</text>
+    <text>In accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.16">City Charter Section 2.16</cite>, this Ordinance is necessary as an emergency measure to preserve the public health, safety, and welfare. Due to the COVID-19 pandemic, the Governor of the State of California has declared an emergency and the County of San Mateo has issued a mask mandate for everyone regardless of vaccination status. In order to mitigate the financial impact of the COVID-19 pandemic on businesses in the City and to reduce community transmission of COVID-19, the City wishes to temporarily enable the use of private parking lots for gyms and fitness centers, places of worship, personal care services, hair salons, barber shops, places of worship, shopping malls, educational facilities, including day cares, and other educational uses by imposing a moratorium on the enforcement of minimum parking space and other zoning requirements including those related to private parking facilities, so long as the parking lots are utilized in accordance with State and County Health Order requirements and City guidelines.</text>
   </section>
   <section>
     <num>2</num>
@@ -106,7 +106,7 @@
     <text>For restaurants, gyms and fitness centers, personal care services, hair salons and barbershops, places of worship, shopping malls, educational facilities, including daycares, and other educational uses operated in accordance with State Health Order requirements and local guidelines, this Ordinance imposes a moratorium on the enforcement of the following minimum parking space requirements for a period of 90 days from the adoption of this Ordinance:</text>
     <para>
       <num>(a)</num>
-      <text>Minimum parking space requirements codified in <cite doc="City of San Mateo, Cal., Code" path="27.64.160" proof="needed">San Mateo Municipal Code Section 27.64.160</cite>;</text>
+      <text>Minimum parking space requirements codified in <cite doc="City of San Mateo, Cal., Code" path="27.64.160">San Mateo Municipal Code Section 27.64.160</cite>;</text>
     </para>
     <para>
       <num>(b)</num>
@@ -130,7 +130,7 @@
   <section>
     <num>5</num>
     <heading>Publication.</heading>
-    <text>This Ordinance shall be published in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" proof="needed">Section 2.15 of the City Charter</cite>.</text>
+    <text>This Ordinance shall be published in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
   </section>
   <section>
     <num>6</num>
