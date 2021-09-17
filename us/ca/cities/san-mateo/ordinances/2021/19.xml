@@ -1,0 +1,387 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-19">
+  <num>2021-19</num>
+  <heading type="short">“Property Maintenance” Code Amendment</heading>
+  <heading type="long">AMENDING TITLE 7, CHAPTER 7.14 OF THE SAN MATEO MUNICIPAL CODE "PROPERTY MAINTENANCE CODE"</heading>
+  <meta>
+    <effective>2021-08-18</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-19.pdf">Ord. No. 2021-19</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-19</citation>
+    </citations>
+    <history>
+      <introduced>2021-06-21</introduced>
+      <adopted>2021-07-19</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the International Code Council (ICC), an internationally recognized association of professionals, maintains, amends, and updates elective model codes and standards used by local jurisdictions related to building design, construction, and compliance processes; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the ICC model codes and standards include an International Property Maintenance Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City utilizes the International Property Maintenance Code as a basis for its local property maintenance code as codified in <cite doc="City of San Mateo, Cal., Code" path="7">Title 7</cite>, <cite doc="City of San Mateo, Cal., Code" path="7.14">Chapter 7.14</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City reviews the ICC model codes every three years for amendments; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City's wishes to adopt the 2021 International Property Maintenance Code with local amendments.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.14.010">Section 7.14.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="7.14.010"/>
+        <num>7.14.010</num>
+        <heading>Adoption</heading>
+        <text><cite doc="City of San Mateo, Cal., Code" path="7.14">This chapter</cite> shall be known and may be cited as the "Property Maintenance Code" and will be referred to in <cite doc="City of San Mateo, Cal., Code" path="7.14">this chapter</cite> as "this code."</text>
+        <para>
+          <num>(a)</num>
+          <text>The purpose of <cite doc="City of San Mateo, Cal., Code" path="7.14">this chapter</cite> is to protect the public health, safety, and welfare in both existing residential and nonresidential buildings, structures, and premises within the City.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The 2021 edition of the International Property Maintenance Code as published by the International Code Council is adopted with amendments as listed below as the rules, regulations, and standards as to all matters contained therein.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A copy of this code shall be maintained on file in the office of the City Clerk.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.14.020">Section 7.14.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="7.14.020"/>
+        <num>7.14.020</num>
+        <heading>Scope and Administration</heading>
+        <text>Chapter 1 Scope and Administration is amended as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>Section 102.8.1 Conflicts is amended as follows:</text>
+          <include>
+            <text>Where conflicts occur between provision of this code and the referenced standards, the provisions of this code shall apply. Where conflicts occur between either this code or the referenced standards and California Building Standards Code, as adopted by the City in <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction of the municipal code, the provisions of <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> shall apply.</text>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Section 103.1 Creation of agency is amended as follows:</text>
+          <include>
+            <text>The community development director, or their designees, shall be known as the code official.</text>
+          </include>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Section 105.1 General is amended as follows:</text>
+          <include>
+            <text>The code official is hereby authorized and directed to enforce the provisions of this code, as well as the State Housing Law as contained in Part 1.5 of Division <cite doc="Cal. Health &amp; Safety Code" path="§13">13 of the Health and Safety Code</cite>. The code official shall have the authority to render interpretations of this code and to adopt policies and procedures in order to clarify the application of its provisions. Such interpretations, policies, and procedures shall be in compliance with the intent and purpose of this code. Such policy and procedures shall not have the effect of waiving requirements specifically provided for in this code.</text>
+          </include>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Section 107 Means of Appeal is not adopted:</text>
+          <text>Appeals of administrative citations or compliance orders of the code official issued under this code shall be conducted in accordance with <cite doc="City of San Mateo, Cal., Code" path="1.10">Chapter 1.10</cite> Administrative Citations or <cite doc="City of San Mateo, Cal., Code" path="1.14">Chapter 1.14</cite> Administrative Compliance Orders</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Section 109.1 Unlawful acts is amended as follows:</text>
+          <include>
+            <text>It is unlawful and a public nuisance for any person, firm or corporation to erect, construct, enlarge, alter, repair, move, improve, remove, convert or demolish, equip, use, occupy or maintain any premises, building, structure, building service equipment in violation of this code or <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite>, or in a substandard condition; or cause or permit the same to be done.</text>
+          </include>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Section 110.4 Failure to comply is amended as follows:</text>
+          <include>
+            <text>Any person who shall continue any work after having been served with a stop work order, except such work as that person is directed to perform to remove a violation or unsafe condition, shall be liable for penalties in accordance with <cite doc="City of San Mateo, Cal., Code" path="1.04">Chapter 1.04</cite> General Penalty.</text>
+          </include>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Section 111.1 Unsafe conditions is amended as follows:</text>
+          <include>
+            <text>When a premises, building, structure, or equipment is found by the code official based on a determination by the building official to be unsafe, or when a structure is found unfit for human occupancy, or is found unlawful, such structure shall be posted in accordance with this section and declared to be a public nuisance and the violations shall be abated by repair, rehabilitation, demolition or removal pursuant to the applicable provisions of the adopted California Standards Building Code and this code where applicable.</text>
+          </include>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Section 111.4 Unlawful structure is amended as follows:</text>
+          <include>
+            <text>An unlawful structure is one found in whole or in part to be occupied by more persons than permitted under this code, or was erected, altered, occupied or maintained contrary to law; or one that is partially constructed, reconstructed or demolished, and such work is abandoned. Work is deemed abandoned if there is no valid building or demolition permit.</text>
+          </include>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Section 111.7 Placarding is amended as follows:</text>
+          <include>
+            <text>When the code official determines a structure, equipment or premise has been erected, constructed, enlarged, altered, repaired, moved, improved, removed, damaged, converted or demolished, equipped, used, occupied or maintained in violation of the adopted building codes and/or this code and/or the structure, equipment or premise constitutes a danger to the life, limb, property or safety of the public or the occupants, the code official shall post a placard on the structure, equipment or premise in a conspicuous place in or about the affected structure, equipment or premise. The placard shall clearly state the code official's order regarding the structure, equipment or premise, and specify the conditions which necessitated the posting. Furthermore, the placard shall direct the premise owner/ manager to contact building department for necessary approvals/ permits/ inspections where applicable. (model code text removed in its entirety)</text>
+          </include>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Section 111.7.1 Placard removal is amended as follows:</text>
+          <include>
+            <text>The code official shall remove the placard whenever the defect or defects upon which the placarding action was based has been eliminated. Any person who defaces or removes a placard without the approval of the code official shall be subject to the penalties provided by this code and applicable state law.</text>
+          </include>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Section 111.8 Prohibited occupancy is amended as follows:</text>
+          <include>
+            <text>It shall be unlawful for any person, owner, owner's authorized agent, or other person responsible for the premise to occupy or allow to be occupied a placarded structure or premise or operate placarded equipment in violation of the code official's posted order.</text>
+          </include>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Section 112.6 Hearing is amended as follows:</text>
+          <include>
+            <text>Any person ordered to take emergency measures shall comply with such order forthwith. Any affected person shall thereafter, upon petition directed to the Community Relations Commission, be afforded an appeal hearing as prescribed in <cite doc="City of San Mateo, Cal., Code" path="1.10.060">Section 1.10.060</cite>.</text>
+          </include>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.14.030">Section 7.14.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.030"/>
+      <text>Chapter 2 Section 202 Definitions is amended as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text><strong>Inoperable Motor Vehicle</strong> is amended as follows:</text>
+        <include>
+          <text>Inoperative motor vehicle is defined in <cite doc="City of San Mateo, Cal., Code" path="7.16.041">section 7.16.041</cite> of the municipal code.</text>
+        </include>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text><strong>Substandard Building</strong> is added as follows:</text>
+        <include>
+          <text>A substandard building is any building or portion thereof, or the premises on which the same is located, in which there exists any of the conditions listed in the rules and regulations of the State Housing Law, as codified in <cite doc="Cal. Health &amp; Safety Code" path="§17920.3">section 17920.3 of the Health and Safety Code</cite>.</text>
+        </include>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text><strong>Temporary</strong> is added as follows:</text>
+        <include>
+          <text>Temporary shall mean buildings, facilities, or structures intended for use at one location for not more than 180 days or as approved by the building official for the purpose of this code only.</text>
+        </include>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text><strong>Weeds</strong> is added as follows:</text>
+        <include>
+          <text>Weeds is defined in <cite doc="City of San Mateo, Cal., Code" path="7.20.020">section 7.20.020</cite> of the municipal code.</text>
+        </include>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.14.040">Section 7.14.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.040"/>
+      <text>Chapter 3 General Requirements is amended as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>Section 302.1 Sanitation is amended as follows:</text>
+        <include>
+          <text>The property owner is responsible for ensuring the property exterior and premises is maintained in a clean, safe and sanitary condition. Such owner or authorized agent shall remain liable for violations thereof regardless of any contract or agreement with any third party regarding such property. The occupant may also be held jointly and severally liable for causing or contributing violations of this section.</text>
+        </include>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Section 302.2 Grading and drainage is amended as follows:</text>
+        <include>
+          <text>All premises shall be graded and maintained in accordance with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Building and Construction, to prevent the erosion of soil and prevent the accumulation of stagnant water thereon, or within any structure located thereon. Exception: Approved retention areas and reservoirs.</text>
+        </include>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Section 302.4 Weeds is amended as follows:</text>
+        <include>
+          <text>No owner, authorized agent, lessee or occupant or other person having charge or control of any building, lot or premises within the city shall permit weeds exceeding twelve inches in height to remain or accumulate upon such premises or upon public sidewalks or streets or alleys between such premises and the centerline of any public street or alley. All noxious weeds shall be prohibited.</text>
+          <text>Upon failure of the owner or agent having charge of a property to cut and destroy weeds after service of a notice of violation, they shall be subject to citation, administrative enforcement, or other means of enforcement prescribed by the municipal code or state law. Upon failure to comply with the notice of violation, any duly authorized employee of the city or contractor hired by the city shall be authorized to enter upon the property in violation and cut and destroy the weeds growing thereon, and the costs of such removal shall be paid by the owner or authorized agent responsible for the property.</text>
+        </include>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Section 303 Swimming Pools, Spas, and Hot Tubs is not adopted.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Section 304.3 Premises identification is not adopted.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>Section 304.14 Insect screens is amended as follows:</text>
+        <include>
+          <text>Every door, window and other outside opening required for ventilation of habitable rooms, food preparation areas, food service areas or any areas where products to be included or utilized in food for human consumption are processed, manufactured, packaged or stored shall be supplied with approved tightly fitting screens of minimum 16 mesh per inch (16 mesh per 25mm), and every screen door used for insect control shall have a self-closing in good working condition.</text>
+          <text>Exception: Screens shall not be required where other approved means, such as air curtains or insect repellent fans, are employed.</text>
+        </include>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Section 304.15 Doors is amended as follows:</text>
+        <include>
+          <text>All exterior doors, door assemblies including weather stripping, thresholds and hardware shall be maintained in good condition. Locks at all entrances to dwelling units and sleeping units shall tightly secure the door.</text>
+        </include>
+      </para>
+      <para>
+        <num>(h)</num>
+        <text>Section 304.16 Basement hatchways is amended as follows:</text>
+        <include>
+          <text>Basement hatchways and under-floor access doors and ventilation openings shall be maintained to prevent the entrance of rodents, rain and surface drainage water. Doors shall be tight fitting and ventilation openings shall be properly screened with corrosion-resistant wire mesh having openings not exceeding 1/4 inch in any dimension or alternate approved materials pursuant to the adopted California Building Standards Code.</text>
+        </include>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Section 309 Pest Elimination is amended as follows:</text>
+        <include>
+          <text>If pest infestation, determined by a licensed pest control professional, is found in the habitable space the owner of the structure shall promptly eliminate the infestation by an approved process that will not be injurious to human health. After pest elimination, proper precautions shall be taken to prevent reinfestation.</text>
+          <text>If reinfestation is determined by a licensed pest control professional to be caused by failure of an occupant to prevent such infestation in the area occupied, the occupant and owner shall be responsible for pest elimination.</text>
+        </include>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>309.3 Single occupant is amended as follows:</text>
+        <include>
+          <text>The occupant of a one-family dwelling or of a single- tenant nonresidential structure, who has occupied the structure for two (2) years or more, shall be responsible for pest elimination on the premises.</text>
+        </include>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>309.4 Multiple occupancy</text>
+        <include>
+          <text>The owner of a structure containing four (4) or more dwelling units, a multiple occupancy, a rooming house or a nonresidential structure shall be responsible for pest elimination in the public or shared areas of the structure and exterior property.</text>
+          <text>The Code Official shall require the property owner to provide a report and remediation plan from a licensed pest control professional.</text>
+        </include>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>309.5 Occupant Is not adopted.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.14.050">Section 7.14.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.050"/>
+      <text>Chapter 5 Plumbing Facilities and Fixture Requirements is amended as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>Section 505.4 Water heating facilities is amended as follows:</text>
+        <include>
+          <text>Water heating facilities shall be properly installed, maintained and capable of providing an adequate amount of water to be drawn at every required sink, lavatory, bathtub, shower and laundry facility at a minimum temperature of 110° F (43°C). A gas-burning water heater shall not be located in any bathroom, toilet room, bedroom or other occupied room normally kept closed, unless the installation complies with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction. An approved combination temperature and pressure-relief valve discharge pipe shall be properly installed and maintained on water heaters.</text>
+        </include>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.14.060">Section 7.14.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.060"/>
+      <text>Chapter 6 Mechanical and Electrical Requirements is amended as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>Section 602.2 Residential occupancies is amended as follows:</text>
+        <include>
+          <text>Dwellings shall be provided with heating facilities in accordance with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction. Cooking appliances, fireplaces, and portable space heaters shall not be used as a means to provide required heating.</text>
+        </include>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Section 602.3 Heat Supply is amended as follows:</text>
+        <include>
+          <text>Every owner and operator of any building who rents, leases or lets one or more dwelling units or sleeping units on terms, either expressed or implied, to furnish heat to the occupants thereof shall supply heat in accordance with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction.</text>
+        </include>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Section 604.3 Electrical system hazards is amended as follows:</text>
+        <include>
+          <text>Where it is found by the code official that the electrical system in a structure constitutes a hazard to the occupants or the structure by reason of inadequate service, improper fusing, insufficient receptacle and lighting outlets, improper wiring or installation including the improper use of extension cords as permanent wiring, deterioration or damage, or for similar reasons, the code official shall require the defects to be corrected to eliminate the hazard.</text>
+        </include>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.14.070">Section 7.14.070 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <codify:replace-content doc="City of San Mateo, Cal., Code" path="7.14.070"/>
+      <text>Chapter 7 Fire Safety Requirements is amended as follows:</text>
+      <para>
+        <num>(a)</num>
+        <text>Section 702.1 General is amended as follows:</text>
+        <include>
+          <text>A safe, continuous and unobstructed path of travel shall be provided from any point in a building or structure to the public way. Means of egress shall comply with <cite doc="City of San Mateo, Cal., Code" path="23">Title 23</cite> Buildings and Construction.</text>
+        </include>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Appendix B Means of Appeal is not adopted.</text>
+        <text>Appeals of administrative citations or compliance orders of the code official issued under this code shall be conducted in accordance with <cite doc="City of San Mateo, Cal., Code" path="1.10">Chapter 1.10</cite> Administrative Citations or <cite doc="City of San Mateo, Cal., Code" path="1.14">Chapter 1.14</cite> Administrative Compliance Orders.</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Environmental Determination.</heading>
+    <text>This item is exempt from environmental review in that amending the Property Maintenance Code is a continuing administrative activity under section 15378(b)(2), of the California Environmental Quality Act (CEQA) Guidelines.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>10</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>11</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on June 21, 2021, and adopted on July 19, 2021, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
