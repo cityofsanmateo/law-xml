@@ -3,6 +3,7 @@
   <heading>2021 Ordinances</heading>
   <heading type="short">2021</heading>
   <subheading>Codified Ordinances</subheading>
+  <xi:include href="./21.xml"/>
   <xi:include href="./19.xml"/>
   <xi:include href="./18.xml"/>
   <xi:include href="./17.xml"/>
