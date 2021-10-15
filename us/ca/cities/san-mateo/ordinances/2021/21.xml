@@ -1,0 +1,181 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-21">
+  <num>2021-21</num>
+  <heading type="short">Chapter 11.29 “Pedestrian Malls” Title Addition </heading>
+  <heading type="long">ADDING CHAPTER 11.29, "PEDESTRIAN MALLS," TO TITLE 11, "VEHICLES AND TRAFFIC," OF THE SAN MATEO MUNICIPAL CODE</heading>
+  <meta>
+    <effective>2021-11-03</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-21.pdf">Ord. No. 2021-21</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-21</citation>
+    </citations>
+    <history>
+      <introduced>2021-09-20</introduced>
+      <adopted>2021-10-04</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council of the City of San Mateo has adopted a resolution establishing two pedestrian malls on segments of B Street, between 1st and 2nd Avenues and between 2nd and 3rd Avenues, while still maintaining through east-west traffic on 1st, 2nd, and 3rd Avenues, pursuant to the Pedestrian Mall Act of 1960 (<cite doc="Cal. Sts. &amp; High. Code" path="§11000">California Streets and Highways Code Section 11000</cite> et seq); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the resolution will go into effect as of the effective date of this ordinance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to amend the Municipal Code to add a new chapter establishing rules and regulations prohibiting motorized vehicular traffic and governing the use of the pedestrian malls.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="11.29">Chapter 11.29 "Pedestrian Malls" of the San Mateo Municipal Code</cite> is added as follows:</text>
+    <codify:insert doc="City of San Mateo, Cal., Code" path="11" after="11.28">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>11.29</num>
+        <heading>Pedestrian Malls</heading>
+      </container> 
+    </codify:insert>
+    <include>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29"/>
+        <num>11.29.010</num>
+        <heading>Adoption and Purpose</heading>
+        <text><cite doc="City of San Mateo, Cal., Code" path="11.29">This chapter</cite> shall be known and may be cited as the "Pedestrian Malls Ordinance." The purpose of <cite doc="City of San Mateo, Cal., Code" path="11.29">this chapter</cite> is to establish rules and regulations pertaining to the operation of pedestrian malls.</text>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29"/>
+        <num>11.29.020</num>
+        <heading>Definitions</heading>
+        <text><strong>Pedestrian Malls </strong>means streets, or portions thereof, on which vehicle traffic is restricted in whole or in part and which is to be used exclusively or primarily for pedestrian travel.</text>
+        <text><strong>Motorized Vehicular Traffic </strong>means vehicular traffic powered by motor, including without limitation, automobiles, trucks, buses, motorcycles, motor or e-scooters.</text>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29"/>
+        <num>11.29.030</num>
+        <heading>Boundaries</heading>
+        <text>Pedestrian malls are established along the following boundaries, excluding the east-west traffic on the intersecting streets:</text>
+        <para>
+          <num>(a)</num>
+          <text>B Street between 1st and 2nd Avenues.</text>
+        </para
+        ><para>
+          <num>(b)</num>
+          <text>B Street between 2nd and 3rd Avenues.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29"/>
+        <num>11.29.040</num>
+        <heading>Prohibition of Vehicular Traffic</heading>
+        <text>All motorized vehicular traffic is prohibited on a pedestrian mall subject to the following exceptions:</text>
+        <para>
+          <num>(a)</num>
+          <text>Emergency vehicles and equipment of all types;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Public utility vehicles and equipment;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Garbage/recycling trucks operating on their established routes;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Sweepers, trucks or other vehicles or equipment operated by or at the direction of the Public Works Director, or designee, for the purpose of performing City services on a pedestrian mall;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Commercial vehicles and equipment entering a pedestrian mall during hours to be established by the Public Works Director, or designee, where such entry is reasonably necessary for the purpose of making deliveries of mail, merchandise, or goods or equipment to the business establishments occupying property abutting on the pedestrian mall and where such deliveries cannot be made to said business establishments through entrances other than those on the pedestrian mall; and</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Commercial vehicles and equipment entering a pedestrian mall where such entry is reasonably necessary for the purpose of performing work or services on the pedestrian mall or on private property or properties abutting thereon and where the owner or operator of any such vehicle or equipment holds a permit issued by or at the direction of the Public Works Director, or designee.</text>
+        </para>
+      </section>
+      <section>t
+        <codify:insert doc="City of San Mateo, Cal., Code" path="11.29"/>
+        <num>11.29.050</num>
+        <heading>Permits for Use of Pedestrian Mall</heading>
+        <para>
+          <num>(a)</num>
+          <text>Business establishments occupying property abutting on a pedestrian mall may apply for a permit from the Public Works Director or designee in accordance with <cite doc="City of San Mateo, Cal., Code" path="17.08">Chapter 17.08</cite> to use the portion of the pedestrian mall fronting their property for the purpose of restaurant seating and/or outdoor merchandise display, provided they meet the requirements set forth in the permit, including indemnity and insurance requirements, and the following conditions:</text>
+          <para>
+            <num>(1)</num>
+            <text>All furniture and fixtures placed within a pedestrian mall shall be removable in nature to allow for the full extent of the pedestrian mall to be used for the purpose of special events, required maintenance, or other City purposes and must be removed at the request of the Public Works Director or designee within 48 hours of receiving notice.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Physical Delineation of Area. The physical extent of the business encroachment may be clearly delineated by physical means, which, if either required or voluntarily placed, shall be approved as part of the encroachment permit and designed to be decorative, durable, removable and minimize tripping hazards.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Clearance. No furniture and fixtures may be placed within the center emergency vehicle access lane of the pedestrian mall, the dimensions of which shall be determined by the Public Works Director or designee.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Site Maintenance. Restaurant seating areas and outdoor merchandize display areas shall be maintained free of litter, refuse, and debris. The area shall be scrubbed and mopped to remove any food or drink stains on a daily basis. Such cleaning shall be performed in accordance with the City's Stormwater Management and Discharge Control Program, which prohibits any discharge other than stormwater into the stormwater drainage system. Failure to maintain the site shall be cause for termination of the encroachment permit.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Encroachment Fee. The applicant shall pay an annual fee in the amount set forth in the City's Comprehensive Fee Schedule.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Accessibility. Restaurant seating and merchandise display areas shall meet accessibility requirements for the disabled.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Special Events on a pedestrian mall may be permitted subject to the requirements of <cite doc="City of San Mateo, Cal., Code" path="17.34">Chapter 17.34</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>CEQA.</heading>
+    <text>The City completed an Initial Study/Negative Declaration, adopted by the City Council on February 1, 2021, that adequately assessed the environmental impacts of the proposed pedestrian malls. No potentially significant impacts on the environment have been identified.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on September 20, 2021, and adopted on October 4, 2021, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>Papan</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
