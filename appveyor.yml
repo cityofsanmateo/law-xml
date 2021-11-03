@@ -1,8 +1,8 @@
 build_cloud:
-  - aws-ci
+  - AWS-us-east-2-t3-medium
   
 image:
-  - Windows Server 2019 on EC2
+  - Windows 0.1
 
 environment:
   matrix:
