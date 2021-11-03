@@ -1,3 +1,9 @@
+build_cloud:
+  - AWS us-east-2 t3.medium
+  
+image:
+  - Windows 0.1
+
 environment:
   matrix:
     # For Python versions available on Appveyor, see
