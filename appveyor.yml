@@ -2,7 +2,7 @@ build_cloud:
   - AWS-us-east-2-t3-medium
   
 image:
-  - Windows 2019
+  - Windows 0.1
 
 environment:
   matrix:
