@@ -1,4 +1,4 @@
-build_cloud: AWS us-east-2 t3.medium
+build_cloud: AWS-us-east-2-t3-medium
   
 image: Windows
 
