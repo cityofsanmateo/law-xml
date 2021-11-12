@@ -27,6 +27,7 @@ init:
   - git config --global user.email developers@openlawlib.org
   - ps: echo $env:APPVEYOR_REPO_NAME
   - ps: echo $env:APPVEYOR_PROJECT_NAME
+  - ps: echo $env:APPVEYOR_BUILD_FOLDER
   - ps: ls ../
   - ps: ls .
 
