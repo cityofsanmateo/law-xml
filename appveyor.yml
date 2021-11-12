@@ -27,8 +27,8 @@ init:
   - git config --global user.email developers@openlawlib.org
   - ps: echo $env:APPVEYOR_REPO_NAME
   - ps: echo $env:APPVEYOR_PROJECT_NAME
-  - ps: ls -a ../
-  - ps: ls -a .
+  - ps: ls ../
+  - ps: ls .
 
 install:
   # upgrade pip
