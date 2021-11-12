@@ -1,5 +1,5 @@
-build_cloud: AWS-us-east-2-t3-medium
-image: Windows
+# build_cloud: AWS-us-east-2-t3-medium
+image: Visual Studio 2019
 
 environment:
   matrix:
