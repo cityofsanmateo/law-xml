@@ -25,6 +25,7 @@ init:
 
   - git config --global user.name oll-bot
   - git config --global user.email developers@openlawlib.org
+  - ps: echo $env:APPVEYOR_REPO_NAME
 
 install:
   # upgrade pip
