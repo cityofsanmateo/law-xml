@@ -1,5 +1,7 @@
-build_cloud: AWS-us-east-2-t3-medium
-image: Windows
+# build_cloud: AWS-us-east-2-t3-medium
+image: Visual Studio 2019
+
+
 
 environment:
   matrix:
@@ -25,6 +27,10 @@ init:
 
   - git config --global user.name oll-bot
   - git config --global user.email developers@openlawlib.org
+  - ps: echo $env:APPVEYOR_REPO_NAME
+  - ps: echo $env:APPVEYOR_PROJECT_NAME
+  - ps: ls ../
+  - ps: ls .
 
 install:
   # upgrade pip
