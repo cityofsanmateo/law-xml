@@ -27,10 +27,6 @@ init:
 
   - git config --global user.name oll-bot
   - git config --global user.email developers@openlawlib.org
-  - ps: echo $env:APPVEYOR_REPO_NAME
-  - ps: echo $env:APPVEYOR_PROJECT_NAME
-  - ps: ls ../
-  - ps: ls .
 
 install:
   # upgrade pip
@@ -43,14 +39,13 @@ install:
   - ps: $key += $env:GH_SSH_PRIVATE_KEY.Replace(" ", "`n")
   - ps: $key += "`n-----END RSA PRIVATE KEY-----`n"
   - ps: Set-Content c:\users\appveyor\.ssh\id_rsa $key
-  - set US_CA_CITIES_SAN_MATEO_XML_CODIFIED_PATH=..\cityofsanmateo\law-xml-codified-preview
-
+  - set $env:PARTNER'_XML_CODIFIED_PATH'='..\'$env:UPSTREAM'-codified-preview'
 
 before_build:
   - ps: >-
       If ($env:APPVEYOR_SCHEDULED_BUILD -eq $True){
         echo 'Scheduled build. Checking if upstream can be merged';
-        git remote add upstream https://github.com/cityofsanmateo/law-xml.git;
+        git remote add upstream 'https://github.com/'$env:UPSTREAM'.git';
         git fetch upstream;
         git merge upstream/master;
         git diff --name-only --diff-filter=U >> output.log;
@@ -59,8 +54,15 @@ before_build:
         }
         else {
           echo 'Upstream changes have been merged.';
-          git remote set-url origin git@github.com:oll-test-repos/cityofsanmateo-law-xml.git;
-          $requirementsContent = 'oll-partners # oll.partners.us.ca.cities.san_mateo';
+          git remote set-url origin git@github.com:$env:APPVEYOR_REPO_NAME'.git';
+          
+          # read requirements.txt and split it by # to get partners namespace, 
+          # example result:  oll.partners.us.ca.cities.san_mateo
+          $REQUIREMENTS_CONTENT = Get-Content .\requirements.txt -Raw;
+          $CONTENT_ARRAY = $REQUIREMENTS_CONTENT -split "# ";
+          $global:PARTNER_NAMESPACE = $CONTENT_ARRAY[1];
+          
+          $requirementsContent = $REQUIREMENTS_CONTENT;
           $requirementsContent | Set-Content -Path 'requirements.txt';
           git add requirements.txt;
           git commit -m "Reverted requirements.txt update";
@@ -92,16 +94,15 @@ before_build:
   - "%PYTHON%\\python.exe -m pip -q install %PARTNERS_WHEEL%"
   - "%PYTHON%\\python.exe -m pip list"
 
-  - ps: Copy-Item $env:APPVEYOR_BUILD_FOLDER '..\cityofsanmateo\law-xml' -Recurse
-  - git clone --depth 1 git@github.com:oll-test-repos/cityofsanmateo-law-xml-codified-preview.git ..\cityofsanmateo\law-xml-codified-preview
-  - git clone --depth 1 git@github.com:oll-test-repos/cityofsanmateo-law-html-preview.git ..\cityofsanmateo\law-html-preview
-  - git clone  git@github.com:oll-test-repos/cityofsanmateo-law.git ..\law
+  - "%PYTHON%\\python.exe  -m oll.tools.cli ci clone-repos --library-root .. --xml . "
 
   # install versioned resources (if and only if the build is a tag or cron build)
   - "%PYTHON%\\python.exe -m pip -q install -r requirements.txt"
   - "%PYTHON%\\python.exe -m pip -q install pytest"
   # print out the git commits for xml repo
-  - git -C ..\cityofsanmateo\law-xml rev-parse HEAD
+  - git -C ..\%UPSTREAM% rev-parse HEAD
+
+  - ps: echo $global:PARTNER_NAMESPACE.tests.docs.code.roundtrip
 
 build_script:
   - ps: $env:FLAG = if ($env:APPVEYOR_PULL_REQUEST_NUMBER -eq $null) { "--deploy" }
@@ -112,7 +113,7 @@ test_script:
   - ps: >-
       if ($env:APPVEYOR_REPO_BRANCH -eq 'master' -Or $env:APPVEYOR_PULL_REQUEST_HEAD_REPO_BRANCH -eq 'master'){
         cd $env:APPVEYOR_BUILD_FOLDER;
-        $run_roundtrip = $env:PYTHON + '\python.exe -m pytest --pyargs oll.partners.us.ca.cities.san_mateo.tests.docs.code.roundtrip -m "full_roundtrip"';
+        $run_roundtrip = $env:PYTHON + '\python.exe -m pytest --pyargs ' + $global:PARTNER_NAMESPACE + '.tests.docs.code.roundtrip -m "full_roundtrip"';
         iex $run_roundtrip;
       } else {
         echo "Skipping rountrip tests - not master branch build";
