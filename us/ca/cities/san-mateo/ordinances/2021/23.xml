@@ -1,0 +1,169 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-23">
+  <num>2021-23</num>
+  <heading type="short">Campaign Regulations</heading>
+  <heading type="long">Amending Chapter 2.80 "Contributions and Loans to City Candidate Campaigns" of Title 2 of the San Mateo Municipal Code to Include In-Kind Donations as Contributions and to Provide for the Aggregation of Contributions</heading>
+  <meta>
+    <effective >2022-01-22</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-23.pdf" >Ord. No. 2021-23</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-23</citation>
+    </citations>
+    <history>
+      <introduced>2021-11-01</introduced>
+      <adopted>2021-11-15</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on October 4, 2021, the City Council directed the City Attorney to draft amendments to Municipal Code <cite doc="City of San Mateo, Cal., Code" path="2.80" >Chapter 2.80</cite> (Contributions and Loans to City Candidate Campaigns) to address in-kind donations that are currently not subject to existing contribution limits, and to require the aggregation of contributions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments set forth below would further the purpose of <cite doc="City of San Mateo, Cal., Code" path="2.80">Chapter 2.80</cite>, by helping to preserve integrity and openness in the political process, promote public confidence in government, and reduce the influence of special interests and wealthy individuals on the electoral process.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.020">Section 2.80.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="2.80.020"/>
+        <num>2.80.020</num>
+        <heading>Definitions.</heading>
+        <text>As used in <cite doc="City of San Mateo, Cal., Code" path="2.80">this chapter</cite>, the words and phrases shall be defined in the same manner as they are defined in the Political Reform Act of 1974 (including any amendments thereto) as found in <cite doc="Cal. Gov't Code" path="§81000">California Government Code Section 81000</cite> et seq., unless defined otherwise in this section. For the purposes of <cite doc="City of San Mateo, Cal., Code" path="2.80">this chapter</cite>, the terms below are defined as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Candidate" means any individual listed on the ballot for election to any City office, or who otherwise has taken affirmative action to seek election to City office, or who receives a contribution or makes an expenditure, or who gives his or her consent for any other person to receive a contribution or make an expenditure with the purpose of bringing about his or her election to any City office. "Candidate" also means an officeholder in connection with a recall election relating to such officeholder.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Candidate committee" means a committee that is controlled directly or indirectly by a candidate or that acts jointly with a candidate in connection with the making of expenditures.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Contribution" means a payment, a forgiveness of a loan, a payment of a loan by a third party, or an enforceable promise to make a payment except to the extent full and adequate consideration is received unless it is clear from the surrounding circumstances that it is not made for political purposes. Except as provided herein, "contribution" includes (1) an expenditure made at the behest of a candidate or candidate committee unless full and adequate consideration is received for making the expenditure, and (2) any goods or services received by or behested by a candidate or candidate committee at no charge or at a discount from the fair market value, unless the discount is given in the regular course of business to members of the public.</text>
+          <text>The term "contribution" does not include a payment made by the occupant of a home or business for costs related to any meeting or fund raising event held in the occupant's home or business; or volunteer personal or professional services if the services are donated without any understanding or agreement that they shall be directly or indirectly repaid to him or her.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Individual" means a natural person and shall not include a partnership, corporation, association, firm, business entity, committee, club, or other organization.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Organization" means a partnership, corporation, association, firm, business entity, committee, club, union, or company.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.045" >Section 2.80.045 of the San Mateo Municipal Code</cite> is added to read as follows:</text>
+    <include>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="2.80" after="2.80.040"/>
+        <num>2.80.045</num>
+        <heading>Aggregation of Contributions.</heading>
+        <para>
+          <num>(a)</num>
+          <text>To determine when contributions are aggregated under <cite doc="City of San Mateo, Cal., Code" path="2.80" >this chapter</cite>, "majority owned" means ownership of more than 50 percent<strong>.</strong></text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If an individual directs or controls an organization's contributions, the organization's contributions shall be aggregated with contributions made by both of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>That individual.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any other organization whose contributions that individual directs or controls.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If two or more organizations make contributions that are directed or controlled by a majority of the same persons, the contributions of those entities shall be aggregated.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Contributions made by organizations that are majority owned by a person shall be aggregated with the contributions of the majority owner and all other organizations majority owned by that person, unless those organizations act independently in their contribution-making decisions.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.050">Section 2.80.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="2.80.050"/>
+        <num>2.80.050</num>
+        <heading>Candidate Campaigns Only.</heading>
+        <text>The provisions of <cite doc="City of San Mateo, Cal., Code" path="2.80">this chapter</cite> apply to election campaigns for candidates only. The provisions of <cite doc="City of San Mateo, Cal., Code" path="2.80">this chapter</cite> do not apply to any ballot measure, referendum or initiative election.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.080">Section 2.80.080 of the San Mateo Municipal Code</cite> is amended non-substantively to letter each existing paragraph as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="2.80.080"/>
+        <num>2.80.080</num>
+        <heading>Post Election Review.</heading>
+        <para>
+          <num>(a)</num>
+          <text>No later than three (3) months after the certification of the results of a City election at which a City Council member is elected, the City Clerk shall calendar for City Council consideration a review of the provisions of <cite doc="City of San Mateo, Cal., Code" path="2.80" >this chapter</cite>. The purpose of such review is to allow the City Council to consider the ongoing appropriateness of the provisions of <cite doc="City of San Mateo, Cal., Code" path="2.80" >this chapter</cite>, including, but not limited to, the amount of the contribution and loan limits established in Sections <cite doc="City of San Mateo, Cal., Code" path="2.80.030">2.80.030</cite> and <cite doc="City of San Mateo, Cal., Code" path="2.80.040">2.80.040</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notwithstanding any other provision of this code, the City Clerk's failure to calendar this review within the time period specified shall not subject the City Clerk to any criminal or civil penalty.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Environmental Determination.</heading>
+    <text>This ordinance is not a project subject to CEQA, because it is an organizational or administrative activity that will not result in direct or indirect physical changes in the environment.  (CEQA Guidelines Section 15378(b)(5).).</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" >Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on November 1, 2021, and adopted on November 15, 2021, and shall be effective on January 1, 2022.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
