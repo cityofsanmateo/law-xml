@@ -39,9 +39,16 @@ install:
   - ps: $key += $env:GH_SSH_PRIVATE_KEY.Replace(" ", "`n")
   - ps: $key += "`n-----END RSA PRIVATE KEY-----`n"
   - ps: Set-Content c:\users\appveyor\.ssh\id_rsa $key
-  - set $env:PARTNER'_XML_CODIFIED_PATH'='..\'$env:UPSTREAM'-codified-preview'
+  - set %PARTNER%_XML_CODIFIED_PATH=..\%UPSTREAM%-codified-preview
 
 before_build:
+  # read requirements.txt and split it by # to get partners namespace.
+  # this is necessary because pytest expects an argument containing specific partner
+  # example result:  oll.partners.us.ca.cities.san_mateo
+  - ps: $REQUIREMENTS_CONTENT = Get-Content .\requirements.txt -Raw;
+  - ps: $CONTENT_ARRAY = $REQUIREMENTS_CONTENT -split "# ";
+  - ps: $env:PARTNER_NAMESPACE = $CONTENT_ARRAY[1];
+
   - ps: >-
       If ($env:APPVEYOR_SCHEDULED_BUILD -eq $True){
         echo 'Scheduled build. Checking if upstream can be merged';
@@ -55,13 +62,7 @@ before_build:
         else {
           echo 'Upstream changes have been merged.';
           git remote set-url origin git@github.com:$env:APPVEYOR_REPO_NAME'.git';
-          
-          # read requirements.txt and split it by # to get partners namespace, 
-          # example result:  oll.partners.us.ca.cities.san_mateo
-          $REQUIREMENTS_CONTENT = Get-Content .\requirements.txt -Raw;
-          $CONTENT_ARRAY = $REQUIREMENTS_CONTENT -split "# ";
-          $global:PARTNER_NAMESPACE = $CONTENT_ARRAY[1];
-          
+
           $requirementsContent = $REQUIREMENTS_CONTENT;
           $requirementsContent | Set-Content -Path 'requirements.txt';
           git add requirements.txt;
@@ -102,7 +103,7 @@ before_build:
   # print out the git commits for xml repo
   - git -C ..\%UPSTREAM% rev-parse HEAD
 
-  - ps: echo $global:PARTNER_NAMESPACE.tests.docs.code.roundtrip
+  - ps: echo $env:PARTNER_NAMESPACE'.tests.docs.code.roundtrip'
 
 build_script:
   - ps: $env:FLAG = if ($env:APPVEYOR_PULL_REQUEST_NUMBER -eq $null) { "--deploy" }
@@ -113,7 +114,7 @@ test_script:
   - ps: >-
       if ($env:APPVEYOR_REPO_BRANCH -eq 'master' -Or $env:APPVEYOR_PULL_REQUEST_HEAD_REPO_BRANCH -eq 'master'){
         cd $env:APPVEYOR_BUILD_FOLDER;
-        $run_roundtrip = $env:PYTHON + '\python.exe -m pytest --pyargs ' + $global:PARTNER_NAMESPACE + '.tests.docs.code.roundtrip -m "full_roundtrip"';
+        $run_roundtrip = $env:PYTHON + '\python.exe -m pytest --pyargs ' + $env:PARTNER_NAMESPACE + '.tests.docs.code.roundtrip -m "full_roundtrip"';
         iex $run_roundtrip;
       } else {
         echo "Skipping rountrip tests - not master branch build";
