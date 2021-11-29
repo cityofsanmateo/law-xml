@@ -48,6 +48,7 @@ before_build:
   - ps: $REQUIREMENTS_CONTENT = Get-Content .\requirements.txt -Raw;
   - ps: $CONTENT_ARRAY = $REQUIREMENTS_CONTENT -split "# ";
   - ps: $env:PARTNER_NAMESPACE = $CONTENT_ARRAY[1];
+  - ps: throw
 
   - ps: >-
       If ($env:APPVEYOR_SCHEDULED_BUILD -eq $True){
@@ -102,8 +103,6 @@ before_build:
   - "%PYTHON%\\python.exe -m pip -q install pytest"
   # print out the git commits for xml repo
   - git -C ..\%UPSTREAM% rev-parse HEAD
-
-  - ps: echo $env:PARTNER_NAMESPACE'.tests.docs.code.roundtrip'
 
 build_script:
   - ps: $env:FLAG = if ($env:APPVEYOR_PULL_REQUEST_NUMBER -eq $null) { "--deploy" }
