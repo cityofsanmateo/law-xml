@@ -1,0 +1,225 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-24">
+  <num>2021-24</num>
+  <heading type="short">Impact and In-Lieu Fee Updates</heading>
+  <heading type="long">AMENDING THE SAN MATEO MUNICIPAL CODE TO REPEAL SECTIONS 3.54.060, "SEWER CONNECTION CHARGE," AND 3.54.080, "SOUTH TRUNK SEWER AREA IMPACT FEE," ESTABLISH A WASTEWATER CAPACITY CHARGE IN SECTION 7.38.065, UPDATE AND CODIFY A CHILDCARE DEVELOPMENT FEE IN CHAPTER 23.65, AND UPDATE THE EXISTING ART IN PUBLIC PLACES FEE IN CHAPTER 23.60 AND THE TRANSPORTATION IMPROVEMENT FEE IN CHAPTER 27.13</heading>
+  <meta>
+    <effective >2021-01-14</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-24.pdf" >Ord. No. 2021-24</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-24</citation>
+    </citations>
+    <history>
+      <introduced>2021-11-01</introduced>
+      <adopted>2021-11-15</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to consolidate the existing Sewer Connection Charge and South Trunk Area Development Impact Fee, both codified in <cite doc="City of San Mateo, Cal., Code" path="3.54" >San Mateo Municipal Code Chapter 3.54</cite>, and the City's Wastewater Treatment Plant Phase II Expansion fee, adopted by Resolution No. 24 in 2006, into a new wastewater capacity charge; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to amend <cite doc="City of San Mateo, Cal., Code" path="23.60">Chapter 23.60</cite>, establishing the "Art in Public Places Fee," to provide that the fee amount will be adopted by City Council resolution; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City's childcare development impact fee is currently established by City Council resolution and the City wishes to codify the requirement in a new <cite doc="City of San Mateo, Cal., Code" path="23.65">Chapter 23.65</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to provide that the childcare development impact fee is now applicable to commercial development of any size as well as all residential development; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to amend <cite doc="City of San Mateo, Cal., Code" path="27.13">Chapter 27.13</cite>, establishing the "Transportation Impact Fee," to add "Institution" as a land use; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in accordance with <cite doc="Cal. Gov't Code" path="§66018">Government Code Section 66018</cite>, newspaper notice of the time and place and a general explanation of the matter to be considered was published; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in accordance with <cite doc="Cal. Gov't Code" path="§66016">Government Code Section 66016</cite>, 14 days' mailed notice was provided to interested parties and information regarding the cost to provide the services for which these charges are levied, as well as the anticipated revenue sources, was available to the public ten days before the hearing; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in accordance with <cite doc="Cal. Gov't Code" path="§66018">Government Code Section 66018</cite>, the City held an open and public hearing.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Legislative Findings.  In accordance with state Mitigation Fee Act (<cite doc="Cal. Gov't Code" path="§66000|(a)">Gov. Code Section 66000(a)</cite>, the City Council finds that.</text>
+    <para>
+      <num>(a)</num>
+      <text>With regard to the amended childcare development impact fee:</text>
+      <para>
+        <num>(1)</num>
+        <text>The purpose of the fee is to enhance public welfare and implement the City's General Plan Land Use Policy 4.22, "Childcare and New Construction," by enhancing the City's supply of childcare facilities and mitigating the increased need for childcare facilities created by new commercial and residential development in the City of San Mateo.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The fee will be used to fund childcare facilities in the City of San Mateo to serve the need created by new residential and commercial development.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>There is a reasonable relationship between the fee's use and the type of development on which the fee will be imposed, because both commercial and residential development in the City contribute to the need for childcare facilities, as demonstrated in the April 2021 nexus study prepared by Matrix Consulting Group, which is attached as <cite doc="City of San Mateo, Cal., Ord. No. 2021-22" path="attachments|Ex. A">Exhibit A</cite> to the resolution being considered concurrently with this ordinance (the "Childcare Fee Nexus Study").</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>There is a reasonable relationship between the need for childcare facilities and both commercial and residential development in the City, because the fee is calculated based upon the proposed development and the anticipated need for childcare facilities resulting from the development as demonstrated in the Childcare Fee Nexus Study.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>There is a reasonable relationship between the amount of the fee and cost of childcare facilities or portions of childcare facilities attributable to commercial and residential development, because the amount of the fee is tied to the demand for childcare facilities generated by the type and square footage of the proposed development, as demonstrated in the Childcare Fee Nexus Study.</text>
+      </para>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>With regard to the wastewater capacity charge, the proposed charge does not exceed the estimated reasonable cost of providing wastewater connections and capacity as demonstrated by the April 2021 nexus study prepared by Bartle Wells, which is attached as <cite doc="City of San Mateo, Cal., Ord. No. 2021-22" path="attachments|Ex. A" >Exhibit B</cite> to the resolution being considered concurrently with this ordinance.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="3.54.060" >Section 3.54.060</cite>, "Sewer Connection Charges," and <cite doc="City of San Mateo, Cal., Code" path="3.54.080" >Section 3.54.080</cite>, "South Trunk Sewer Area Impact Fee," are repealed and replaced with a new wastewater capacity charge to be codified in <cite doc="City of San Mateo, Cal., Code" path="7.38" >Chapter 7.38, "Sanitary Sewer Use," of the San Mateo Municipal Code</cite> as identified in Section 3 of this ordinance.</text>
+    <codify:repeal doc="City of San Mateo, Cal., Code" path="3.54.060"/>
+    <codify:repeal doc="City of San Mateo, Cal., Code" path="3.54.080"/>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.38.065" >Section 7.38.065 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.38" >Chapter 7.38</cite>, "Sanitary Sewer Use," as follows:</text>
+    <include>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.38" after="7.38.060" />
+        <num>7.38.065</num>
+        <heading>Wastewater Capacity Charge</heading>
+        <text>A wastewater capacity charge is imposed on all new development to recover a proportionate share of costs for existing and future wastewater system facilities and assets from new or expanded connections to City wastewater systems. The applicable wastewater capacity charge is determined by use, wastewater flow, and wastewater strength loadings and the amount shall be established by City Council resolution.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Subsection (a) of <cite doc="City of San Mateo, Cal., Code" path="23.60.060" >Section 23.60.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <para>
+      <codify:replace doc="City of San Mateo, Cal., Code" path="23.60.060|(a)" />
+      <num>(a)</num>
+      <text>The program allocation, as used in <cite doc="City of San Mateo, Cal., Code" path="4" >this Chapter</cite>, is the percentage of the building cost which is set aside for the City's Art in Public Places Program.  The amount of the program allocation shall be established by City Council resolution and based upon total building valuation, excluding land acquisition and off-site improvement costs.  The total building valuation shall be computed using the latest building valuation data as set forth by the International Conference of Building Officials (ICBO) unless, in the opinion of the Building Official, a different valuation measure should be used.</text>
+    </para>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.65" >Chapter 23.65 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="23" >Title 23</cite> as follows:</text>
+    <include>
+      <container>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="23" after="23.61" />
+        <prefix>Chapter</prefix>
+        <num>23.65</num>
+        <heading>Child Care Development Fee</heading>
+        <section>
+          <num>23.65.010</num>
+          <heading>Purpose</heading>
+          <text>The purpose of the childcare development fee is to fund the development of child care facilities in order to serve a need created by both commercial and residential development.</text>
+        </section>
+        <section>
+          <num>23.65.020</num>
+          <heading>Fee</heading>
+          <text>A childcare development impact fee, in an amount established by City Council resolution is imposed on all residential and commercial development, including new development, addition of square footage to existing development, and tenant improvements to existing structures if those tenant improvements require planning approval.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text>Subsection (c) of <cite doc="City of San Mateo, Cal., Code" path="27.13.040" >Section 27.13.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <text>
+      <codify:replace doc="City of San Mateo, Cal., Code" path="27.13.040|(c)|text" />
+      Land use categories are defined as follows:
+    </text>
+    <para>
+      <codify:replace doc="City of San Mateo, Cal., Code" path="27.13.040|(c)|(1)" />
+      <num>(1)</num>
+      <text>Hotel, which includes facilities used for the overnight lodging of guests.</text>
+    </para>
+    <para>
+      <codify:replace doc="City of San Mateo, Cal., Code" path="27.13.040|(c)|(2)" />
+      <num>(2)</num>
+      <text>Industrial, which includes but is not limited to, facilities used for the manufacturing, processing, or storage of goods.</text>
+    </para>
+    <para>
+      <codify:replace doc="City of San Mateo, Cal., Code" path="27.13.040|(c)|(3)" />
+      <num>(3)</num>
+      <text>Institution, which includes but is not limited to, religious, governmental, educational, and cultural uses.</text>
+    </para>
+    <para>
+      <codify:replace doc="City of San Mateo, Cal., Code" path="27.13.040|(c)|(4)" />
+      <num>(4)</num>
+      <text>Multi-family residential, which includes but is not limited to, a secondary unit, duplex, townhouse, apartment, condominium, mobile home, multiple family dwelling, and community care facility with more than six residents.</text>
+    </para>
+    <para>
+      <codify:replace doc="City of San Mateo, Cal., Code" path="27.13.040|(c)|(5)" />
+      <num>(5)</num>
+      <text>Office, which includes but is not limited to, facilities primarily used for professional (legal, engineering, accounting), financial, insurance, real estate, and other office-related uses which do not provide primarily walk-in services to the public.</text>
+    </para>
+    <para>
+      <codify:replace doc="City of San Mateo, Cal., Code" path="27.13.040|(c)|(6)" />
+      <num>(6)</num>
+      <text>Retail, which includes but is not limited to, facilities primarily used for the sale of retail goods or personal services, including all retail sales outlets, facilities for the on-site sale of food or beverages, and personal services such as laundries, cleaners, copy stores, and hairdressers.</text>
+    </para>
+    <para>
+      <codify:replace doc="City of San Mateo, Cal., Code" path="27.13.040|(c)|(7)" />
+      <num>(7)</num>
+      <text>Single Family Residential, which includes but is not limited to, a single-family dwelling and a small community care facility with six or fewer residents.</text>
+    </para>
+    <para>
+      <codify:replace doc="City of San Mateo, Cal., Code" path="27.13.040|(c)|(8)" />
+      <num>(8)</num>
+      <text>Other uses. The zoning administrator shall determine the appropriate land use category for any use not set forth above, based on similarity of use and peak hour trip characteristics of the use as indicated in the most current edition of the International Transportation Engineering Manual.</text>
+    </para>
+    <codify:remove doc="City of San Mateo, Cal., Code" path="27.13.040|(c)|(9)" />
+    <codify:remove doc="City of San Mateo, Cal., Code" path="27.13.040|(c)|(10)" />
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(4), this action is not a project subject to CEQA because the adoption or amendment of fees is a fiscal activity not involving a commitment to any particular project.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" >Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>10</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on November 1, 2021, and adopted on November 15, 2021, and shall be effective 60 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
