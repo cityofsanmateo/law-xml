@@ -1,0 +1,1565 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-26">
+  <num>2021-26</num>
+  <heading type="short">Municipal Code Cleanup Amendments</heading>
+  <heading type="long">Repealing Section 27.04.140, "Curb Level," Amending Sections 17.24.020 "Definitions," 27.04.200, "Floor Area," 27.64.390, "Schedule of Loading Requirements," and Chapters 23.40, "Site Development Code," 27.71, "Landscape for Planning Applications," 27.78, "Variances," and Adding References to California Building Code and Director of Public Works Throughout the Municipal Code</heading>
+  <meta>
+    <effective>2022-01-05</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-26.pdf">Ord. No. 2021-26</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-26</citation>
+    </citations>
+    <history>
+      <introduced>2021-11-15</introduced>
+      <adopted>2021-12-06</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to replace references to the "Uniform Building Code" with references to the "California Building Code" throughout the Municipal Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to replace references to City Engineer" with references to "Public Works Director" throughout the Municipal Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City's Zoning Code is codified in <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite> of the City of San Mateo Municipal Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to make several minor revisions to <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>, including deleting the definition for "curb level," clarifying the manner in which floor area is calculated, revising the circumstances under which on-street loading berths will be considered, and updating tree provisions including cross-references to the City's protected tree ordinance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to update tree provisions including references to the City's protected tree ordinance in <cite doc="City of San Mateo, Cal., Code" path="17.24.020">Section 17.24.020</cite>, "Definitions" and <cite doc="City of San Mateo, Cal., Code" path="23.40">Chapter 23.40</cite>, "Site Development Code."</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.140">Section 27.04.140 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal doc="City of San Mateo, Cal., Code" path="27.04.140"/>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.200">Section 27.04.200 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.04.200"/>
+        <num>27.04.200</num>
+        <heading>Floor Area.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Definitions.</text>
+          <para>
+            <num>(1)</num>
+            <text>Floor Area. Floor area means the sum of the gross horizontal areas of all principal and accessory buildings and above grade covered parking on a zoning plot.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Floor Area Ratio (FAR). Floor area ratio means the gross floor area of the buildings on a zoning plot divided by the net lot area.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Measurement, other than single-family dwellings in R1 zoning districts.</text>
+          <para>
+            <num>(1)</num>
+            <text>Floor area is measured from the exterior façade of the building's wall planes, from the centerline of party walls, or from a line three feet from the edge of an eave, whichever produces the largest floor area. Stories exceeding fifteen (15) feet in height shall be counted as additional floor area, with the exception that ground floor retail may be up to eighteen (18) feet in height measured from first finish floor to second finish floor before being counted as additional floor area. Floor area also includes all accessory structures on the site and basements that meet the definition in subsection (c)(6).</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Exclusions. The following are not counted as floor area:</text>
+            <para>
+              <num>(A)</num>
+              <text>Covered or open courts, and atriums, on the ground floor, provided that the area is not used as dwelling, office, retailing, or required access;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>In multiple-level buildings, covered courts, if the retailing uses are open to the public. Multiple-level stairwells and elevators shall be counted only as ground floor area;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Covered walkways and balconies;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>First floors, mechanical areas, penthouse, and top floors are counted only once as floor area, regardless of height;</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Bicycle parking facilities;</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>Floor area designated for day care centers accessory to and intended to serve a multi-family, commercial, office or manufacturing use. Such floor area may be located within the primary structure or may be in a freestanding structure accessory to the primary structure;</text>
+            </para>
+            <para>
+              <num>(G)</num>
+              <text>Covered parking for office use shall not be counted as floor area in areas delineated for exclusion within an adopted plan, such as the Mariner's Island Specific Plan or the Bay Meadows Specific Plan.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Measurement, for single-family dwellings in R1 zoning districts, shall include the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>A covered structure or portion of a building where it has a horizontal or sloped covering which consists of 50% or more solid material.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>All area enclosed within the walls of the principal structure (as measured from the outside perimeter of walls), and the area (or footprint) of any attached carports, covered balconies or porches (as measured from the outside perimeter of its support structures).</text>
+            <para>
+              <num>(A)</num>
+              <text>Exception: To encourage street frontage activity, the first 100 square feet of a covered front porch shall not be included as floor area.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The area of all detached accessory structures, regardless of the number of open sides, including:</text>
+            <para>
+              <num>(A)</num>
+              <text>Detached garages and carports;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Storage sheds and other similar structures; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Covered patios or similar structures.</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Any interior space where the vertical distance between the upper surface of the floor and the floor above is fifteen (15) feet or more shall be counted as twice the floor area. If there is no floor above the space, then the distance shall be measured to the underside of the roof structure.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Attic space is considered floor area when area "A" is at least 50% of areas "A" and "B" combined in the following plan-view diagram:</text>
+            <text>
+              <table>
+                <tbody>
+                  <tr>
+                    <td/>
+                    <td>
+                      <p class="text-indent-2">Area "B"</p>
+                      <p class="text-indent-2">(ceiling height between 5′ and 7′ 6″)</p>
+                    </td>
+                    <td>
+                      <p class="text-indent-2">Area "A"</p>
+                      <p class="text-indent-2">(ceiling height 7′ 6″ or greater)</p>
+                    </td>
+                    <td>
+                      <p class="text-indent-2">Area "B"</p>
+                      <p class="text-indent-2">(ceiling height between 5′ and 7′ 6″)</p>
+                    </td>
+                    <td/>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>A basement is considered floor area when:</text>
+            <para>
+              <num>(A)</num>
+              <text>It is habitable space as defined in the current California Building Code, and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>More than one-half the area of the outermost basement walls is above finished or pre-existing grade (whichever is lower), and the surface of the finished floor level above is either:</text>
+              <para>
+                <num>(i)</num>
+                <text>More than four (4) above finished or pre-existing grade (whichever is lower) for more than 50% of the total perimeter, and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>More than twelve (12) feet above finished or pre-existing grade (whichever is lower) at any point.</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Off-Street Parking and Loading. Floor area for determining off-street parking and loading requirements as contained in <cite doc="City of San Mateo, Cal., Code" path="27.64">Chapter 27.64</cite>, shall be based on physical floor space and shall not include the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Storage areas except for areas located within selling or working space such as counters, racks, and closets;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Utility areas including, but not limited to, elevator shafts, telephone switching rooms, stairwells, rest rooms, and heating and cooling rooms;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Accessory facilities to be used only by employees of the principal uses;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Off-street parking and loading facilities, including aisles, ramps, and maneuvering space;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Basement, attic, or mezzanine floor area other than area devoted to retailing activities, to the production of processing of goods, or to business or professional offices;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Floor area designated for day care centers accessory to and intended to serve a multi-family, commercial, office or manufacturing use. Such floor area may be located within the primary structure or may be in a freestanding structure accessory to the primary structure;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Floor Area Computed for Building Volume. Additional parking shall be required in the event of change of excluded floor areas into uses generating parking.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Interpretation. All interpretations of floor area shall be subject to the review and approval of the Zoning Administrator.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>No change in the definition or calculation of floor area, except to the extent that the City Council expressly states that the change allows greater floor area, shall be construed to authorize an expansion of the allowable floor area of a building or structure, whether pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.72">Chapter 27.72</cite> or otherwise.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.64.390">Section 27.64.390 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.64.390"/>
+        <num>27.64.390</num>
+        <heading>Schedule of Loading Requirements.</heading>
+        <text>All planning applications shall include a description of the means by which loading activities for the intended use are to be accommodated. For the uses listed in the following table, off-street loading berths shall be provided on the basis of number of residential units or gross floor area of building or portions thereof devoted to such uses in the amounts shown herein. Off-street loading berths as prescribed below shall be accessible from a public alley, driveway easement, or from an adjacent off-street parking area. The requirements for off-street loading berths may be modified by one of the following means:</text>
+        <para>
+          <num>(a)</num>
+          <text>Approval of a site plan and architectural review (SPAR) by the Zoning Administrator, based on the following findings:</text>
+          <para>
+            <num>(1)</num>
+            <text>Adequate on-street parking is available along a parcel frontage to accommodate a loading berth;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The on-street parking intended for temporary loading purposes is located at least 50 feet from any intersections, and provides convenient access to building entrances; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The street width is adequate to accommodate loading vehicles without impeding use of the sidewalk or local traffic circulation or otherwise be detrimental to public safety; or</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Approval of a variance application in accordance with <cite doc="City of San Mateo, Cal., Code" path="27.78">Chapter 27.78</cite>.</text>
+          <text>
+            <table>
+              <caption>LOADING BERTH REQUIREMENTS (ON- AND OFF-SITE)</caption>
+              <thead>
+                <tr>
+                  <th>USE</th>
+                  <th>GROSS FLOOR AREA IN SQUARE FEET <u>OR NUMBER OF RESIDENTIAL UNITS</u></th>
+                  <th>NO.</th>
+                  <th>OF BERTHS</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td rowspan="2">A. Hospitals, Sanitariums, and other institutional uses.</td>
+                  <td>20,000 to 100,000</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td>for each additional 100,000 or fraction, add</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td rowspan="3">B. Hotels, Clubs, Lodges—when containing any of the following: Retail Shops, Restaurants, Convention Halls, Auditoriums, Exhibition Halls, or Business or Professional Offices (other than accessory)</td>
+                  <td>10,000 to 20,000</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td>20,000 to 150,000</td>
+                  <td>2</td>
+                  <td>10' x 50'</td>
+                </tr>
+                <tr>
+                  <td>for each additional 150,000 or fraction, add</td>
+                  <td>1</td>
+                  <td>10' x 50'</td>
+                </tr>
+                <tr>
+                  <td rowspan="5">
+                    <p>C. Retail Stores</p>
+                    <p>D. Establishments Dispensing Food or Beverage, for Consumption on the Premises, except for Fast Food Establishments</p>
+                    <p>E. Motor Vehicle and Machinery Sales</p>
+                    <p>F. Wholesale Establishments (but not including warehouse and storage buildings other than accessory)</p>
+                  </td>
+                  <td>5,000 to 12,000</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td>12,000 to 25,000</td>
+                  <td>2</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td>25,000 to 40,000</td>
+                  <td>2</td>
+                  <td>10' x 50'</td>
+                </tr>
+                <tr>
+                  <td>40,000 to 100,000</td>
+                  <td>3</td>
+                  <td>10' x 50'</td>
+                </tr>
+                <tr>
+                  <td>for each additional 100,000 or fraction, add</td>
+                  <td>1</td>
+                  <td>10' x 50'</td>
+                </tr>
+                <tr>
+                  <td rowspan="3">
+                    <p>G. Auditoriums, Convention Halls, Exhibition Halls, Sports Arenas, Stadiums</p>
+                    <p>H. Bowling Alleys</p>
+                  </td>
+                  <td>10,000 to 20,000</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td>20,000 to 100,000</td>
+                  <td>1</td>
+                  <td>10' x 50'</td>
+                </tr>
+                <tr>
+                  <td>for each additional 100,000 or fraction, add</td>
+                  <td>1</td>
+                  <td>10' x 50'</td>
+                </tr>
+                <tr>
+                  <td rowspan="2">I. Banks and Offices – Business, Professional and Governmental</td>
+                  <td>50,000 to 100,000</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td>for each additional 100,000 or fraction of 500,000, add</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td rowspan="4">
+                    <p>J. Establishments engaged in Production, Processing, Cleaning, Servicing, Testing, or Repair of Materials, Goods, or Products</p>
+                    <p>K. Warehouses and Storage Buildings</p>
+                  </td>
+                  <td>5,000 to 10,000</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td>10,000 to 40,000</td>
+                  <td>1</td>
+                  <td>10' x 50'</td>
+                </tr>
+                <tr>
+                  <td>40,000 to 100,000</td>
+                  <td>2</td>
+                  <td>10' x 50'</td>
+                </tr>
+                <tr>
+                  <td>for each additional 100,000 or fraction of 500,000, add</td>
+                  <td>1</td>
+                  <td>10' x 50'</td>
+                </tr>
+                <tr>
+                  <td rowspan="2">L. Theaters</td>
+                  <td>8,000 to 25,000</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td>for each additional 50,000 or fraction, add</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td rowspan="2">M. Funeral Homes</td>
+                  <td>8,000 to 25,000</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td>for each additional 50,000 or fraction, add</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td rowspan="2">N. Fast Food Establishments</td>
+                  <td>2,000 to 7,000</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td>7,000 to 12,000</td>
+                  <td>2</td>
+                  <td>10' x 25'</td>
+                </tr>
+                <tr>
+                  <td>O. Multiple-Family Residential*</td>
+                  <td>50 or more units</td>
+                  <td>1</td>
+                  <td>10' x 25'</td>
+                </tr>
+              </tbody>
+              <tfoot>
+                <tr>
+                  <td colspan="4">*May be eliminated in mixed-use developments where a minimum of 1 loading berth is required for nonresidential uses</td>
+                </tr>
+              </tfoot>
+            </table>
+          </text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.71.020">Section 27.71.020 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.020"/>
+        <num>27.71.020</num>
+        <heading>Scope.</heading>
+        <para>
+          <num>(a)</num>
+          <text><cite doc="City of San Mateo, Cal., Code" path="27.71">This chapter</cite> shall apply as a minimum for all projects requiring approval of a planning application pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.08.010">Section 27.08.010</cite>, except for single-family dwelling design review applications. Landscaping not subject to <cite doc="City of San Mateo, Cal., Code" path="27.71">this chapter</cite> shall be governed by the provisions of <cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40</cite>. The Zoning Administrator may determine that minor additions or changes to existing property are not reasonably related to the purpose of <cite doc="City of San Mateo, Cal., Code" path="27.71">this chapter</cite> and may be exempt from the requirements of <cite doc="City of San Mateo, Cal., Code" path="27.71">this chapter</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.71.040">Section 27.71.040 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.040"/>
+        <num>27.71.040</num>
+        <heading>Definitions.</heading>
+        <text>The following definitions shall apply to <cite doc="City of San Mateo, Cal., Code" path="27.71">this chapter</cite>:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Existing Trees" means all existing trees over six inches in trunk diameter (measured at 54 inches from natural grade) on the subject property and any Protected Trees on the subject property or any property within 30 feet of the proposed Construction Activity, as outlined in <cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Groundcover" means low growing live perennial vegetation, other than turf, of a species which is sold as a groundcover or shrub by licensed nurserymen.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A "heritage tree" is as defined in <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Landscape" or "landscaped area" means an area that consists of living plantings.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Landscape unit (LU)" means the unit of measurement for trees which indicates the worth of each relative to one another and towards satisfying City requirements.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Natural landscaping" means an area consisting of uncultivated native plant growth and other features of natural terrain such as rock outcroppings, streams or other areas covered by water.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Plantings" means annuals, groundcover, turf grass, shrubs or trees.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Protected Tree" means a Heritage Tree or Street Tree as defined in <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite> or a tree designated as protected as part of an approved Planning Application that is subject to <cite doc="City of San Mateo, Cal., Code" path="27.71" >this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Project Arborist" means an ISA Certified Arborist designated to evaluate the potential impacts of Construction Activity on Protected Trees, write specifications for tree preservation, oversee Construction Activity within the Dripline of Protected Trees and other necessary activities as determined by the City Arborist.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Shrubs" means live perennial vegetation, greater than an average height of two (2) feet and maintained below twelve (12) feet in height. Vines shall be considered shrubs.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Street Tree" means any woody perennial plant having a single main axis or stem capable of achieving ten (10) feet or more in height, growing along or within public right of way or planted within public right of way or a designated planting easement.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Trees" means a live self-supporting woody plant having at least one well defined stem or trunk and normally attaining a mature height and spread of at least twelve (12) feet, and having a trunk that may, at maturity, be kept clear of leaves and branches at least six (6) feet above grade.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Turfgrass" means live vegetation of a species normally grown as turf by a nursery and which is maintained at a height of three inches or less.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.71.070" >Section 27.71.070 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.070"/>
+        <num>27.71.070</num>
+        <heading>Submittals Required for a Planning Application.</heading>
+        <para>
+          <num>(a)</num>
+          <text>All landscape plans must be at a reasonable scale to indicate all types of improvements. All plans must contain sufficient information to ensure conformance with the requirements of <cite doc="City of San Mateo, Cal., Code" path="27.71" >this chapter</cite> and must include, but are not limited to, the following information:</text>
+          <para>
+            <num>(1)</num>
+            <text>North arrow and scale;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The name of the applicant/owner;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The name, address, and phone number of the person or firm responsible for the preparation of the plans and other required information;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The dates the plans are submitted and revised;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>All existing and proposed buildings and other structures, paved areas, planted areas, power poles, fire hydrants, light standards, signs, fences, and other permanent features to be added and/or retained on the site;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>All existing plant material to remain and to be removed, a tree evaluation schedule identifying Major Vegetation (as defined in <cite doc="City of San Mateo, Cal., Code" path="23.40" >Chapter 23.40</cite>) and all Protected Trees including trunk diameter, species, the condition of trees to be removed as determined by an arborist and the existing and proposed replacement Landscape Unit (LU) values;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>All existing and proposed streets, sidewalks, curbs and gutters, railroad tracks, drainage ditches, and other public or semi-public improvements within and immediately adjacent to the site;</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Contour lines, if the slopes are in excess of 10%;</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Existing and proposed topographic elevations at sufficient locations, to clearly show the drainage pattern unless this information is provided on a grading plan or other documents in the planning application;</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>All property lines and easements;</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>Square footage of all planted area;</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>Species, sizes and location of all proposed plant material including the accurate driplines of all Protected Trees;</text>
+          </para>
+          <para>
+            <num>(13)</num>
+            <text>Soil tests as required by the discretion of the Zoning Administrator; and</text>
+          </para>
+          <para>
+            <num>(14)</num>
+            <text>A tree protection plan consistent with <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite> and the Administrative Guidelines.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All projects with over 1,000 square feet of new or modified planting areas as required to meet the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.71" >this chapter</cite> shall have all landscape plans and accompanying documents prepared or reviewed and found acceptable by a licensed landscape architect registered with the State of California.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.71.080" >Section 27.71.080 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.080"/>
+        <num>27.71.080</num>
+        <heading>Submittals Required for a Building Permit Application.</heading>
+        <para>
+          <num>(a)</num>
+          <text>All of the required submittals for a planning application;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Type and depth of mulch indicated on the plan;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An irrigation plan accurately drawn to scale that indicates all components of the irrigation system including sprinklers and other outlets, valves, the backflow prevention device(s), controller(s), and piping;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>All tree information required in <cite doc="City of San Mateo, Cal., Code" path="27.71.150" >Section 27.71.150</cite> and <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite>;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>For projects with less than 10,000 square feet of landscaped area, proof of a contract with a licensed landscape contractor to maintain the landscape area for the plant establishment period;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>For projects with greater than 10,000 square feet of landscape area, financial securities as required in <cite doc="City of San Mateo, Cal., Code" path="27.71.090" >Section 27.71.090</cite>; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Soil tests as required in <cite doc="City of San Mateo, Cal., Code" path="27.71.110" >Section 27.71.110</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.71.110" >Section 27.71.110 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.110"/>
+        <num>27.71.110</num>
+        <heading>Plant Coverage and Tree Sizes.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Allowed Bare Ground. Areas of bare ground or ground covered only by bark or rocks shall be allowed on-site only where required as part of an approved facility, such as a baseball diamond, vegetable garden, flowerbed, or similar use.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Allowed Natural Landscaping. Natural landscaping shall be allowed only in areas where it is compatible with the surrounding environment.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Minimum Tree Size. All required trees shall be a minimum size of 15-gallon container at time of installation, except for heritage tree replacements, which shall be replaced according to <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite> and the Administrative Guidelines.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Plant Coverage.</text>
+          <para>
+            <num>(1)</num>
+            <text>Trees shall be planted at a minimum ratio of one per 400 square feet of required landscaped area. The ratio may include existing trees and required parking area trees. Public parks, golf courses, cemeteries, school recreation areas and public facilities need not comply with this ratio.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Groundcover and shrub massing areas shall be planted in a manner or at the spacings recommended by the American Association of Nurserymen, to uniformly cover the proposed groundcover areas within two years and the shrub areas within five years or a period optimum for the species.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Security Planting. The use of plant materials that promote building security is encouraged. A list of such materials may be obtained from the Planning Division. Perimeter landscaped areas should incorporate thorny plant materials to discourage persons from cutting through parking areas, trampling vegetation near ground floor windows, or climbing perimeter fences and walls.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>9</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.71.120" >Section 27.71.120 of the San Mateo Municipal Code</cite> is amended as follows:'</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.120"/>
+        <num>27.71.120</num>
+        <heading>Street Trees.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Tree Planting.</text>
+          <para>
+            <num>(1)</num>
+            <text>24-inch box size or larger street trees shall be planted along public streets in accordance with the City Street Tree Master Plan. The City Arborist shall have the authority to recommend planting of fifteen (15) gallon street trees when:</text>
+            <para>
+              <num>(A)</num>
+              <text>Upon written request by the applicant; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The fifteen (15) gallon size trees are the only ones available in stock, or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The quality of the fifteen (15) gallon size trees are superior to that available in 24-inch box size.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Trees shall be planted at a spacing not to exceed thirty (30) feet except to allow for utilities, street furnishings, driveways, or other features necessary to ensure public safety, as approved by the City Arborist.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Access Easement. Where a planning application requires a parcel or tentative map, an access easement shall be required if the street trees are to be located on private property and no such easement exists. However, it is recommended that even when a parcel or tentative map is not required or included, an easement be provided to the City for site access purposes in the event of an emergency or a hazardous situation.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>10</num>
+    <text>Subsection (a) of <cite doc="City of San Mateo, Cal., Code" path="27.71.150" >Section 27.71.150, "Preservation of Existing Trees," of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <para>
+      <num>(a)</num>
+      <text>Evaluation of Existing Trees. Trees over six inches in trunk diameter, measured at 54 inches from natural grade and Protected Trees as defined in <cite doc="City of San Mateo, Cal., Code" path="13.40.080" >Chapter 13.40.080</cite> shall be evaluated on the basis of species, size, condition, location and classification as a Protected Tree.</text>
+    </para>
+  </section>
+  <section>
+    <num>11</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.71.150" >Section 27.71.150 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.71.150"/>
+        <num>27.71.150</num>
+        <heading>Preservation of Existing Trees.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Evaluation of Existing Trees. Trees over six (6) inches in trunk diameter, measured at 54 inches from natural grade and Protected Trees as defined in <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite> shall be evaluated on the basis of species, size, condition, location and classification as a Protected Tree.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Required Submittals. To evaluate the existing trees the landscape plan and a tree evaluation schedule shall be submitted with the planning application showing:</text>
+          <para>
+            <num>(1)</num>
+            <text>The location of all existing trees six (6) inches or greater in trunk diameter (measured at 54 inches from natural grade), noting which are to be removed and which are located within the allowable building area;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Trunk diameter in inches measured 54 inches above natural grade;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Species name and species value as determined by utilizing the most recent edition of the Guide for Plant Appraisal, published by the Council of Tree and Landscape Appraisers;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Condition and location value of trees as determined by an ISA Certified Arborist;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The total LU value of trees to be removed; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>The total LU value of replacement trees.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Landscape Unit Value (LU).</text>
+          <para>
+            <num>(1)</num>
+            <text>The tree species, condition, and location values of the trees shall be based on an evaluation by an experienced landscape appraiser recognized by the American Society of Consulting Arborists utilizing the most recent Guide for Plant Appraisal, published by the Council of Tree and Landscape Appraisers; and approved by the Zoning Administrator.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Trees not within the allowable building area shall receive a location factor of 1.0 (100%). Trees located within the allowable building area shall receive a location factor of .70 (70%).</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Trees designated as heritage trees shall receive a bonus percentage value of 1.25 (125%). Trees located within the allowable building area shall receive a location factor of .70 (70%).</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Trees designated as heritage trees shall receive a bonus percentage value of 1.25 (125%). The species, condition and location value assume an average tree value to be .70 (.7 x .7 x .7 = .343). All existing trees to be removed shall be given a LU value based upon the following calculation:</text>
+            <text>
+              <table class="layout-table">
+                <tbody>
+                  <tr>
+                    <td style="text-align: center;">species value% x condition value% x location value%</td>
+                    <td />
+                    <td style="text-align: center;">Trunk diameter inches x bldg.</td>
+                    <td />
+                    <td />
+                  </tr>
+                  <tr>
+                    <td><hr/></td>
+                    <td style="width: 3em; text-align: center;" >x</td>
+                    <td><hr/></td>
+                    <td style="width: 3em; text-align: center;">=</td>
+                    <td>LU</td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;">.35</td>
+                    <td />
+                    <td style="text-align: center;">setback% x heritage tree%</td>
+                    <td />
+                    <td />
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Tree Replacement. Existing trees to be removed shall be replaced with new trees to equal the total removed LU value. The following rates shall be given to replacement trees to obtain the replacement LU value:</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th>LU Value</th>
+                  <th>Replacement Tree Size</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>15-gallon</td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>24-inch box</td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>36-inch box</td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td>48-inch box</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+          <text>The LU value for replacement Street Trees shall be calculated separately from other replacement trees.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Preservation of Heritage Trees. The site design shall make every reasonable effort to preserve Heritage Trees, consistent with <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite>. Conditions shall also be imposed to protect Heritage Trees during construction. Heritage Trees shall be removed only when the City Arborist determines that their preservation would result in a threat to health, safety, and welfare due to a hazardous tree condition, impacts on soil erosion and stability, or an unreasonable effect upon the economic enjoyment of the property, consistent with <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite>.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Protection of Existing Trees. The site design shall make reasonable effort to protect existing trees. The design shall be evaluated as to how it protects existing trees or the reasons for removal of existing trees. Tree protection measures shall be provided for trees to remain on-site, which shall be consistent with <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite> and imposed as a condition of approval<s>s</s>.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Alternates to On-Site Replacement. If the required LU value for replacement of existing trees to be removed is not made up with replacement trees on-site, the City shall require that trees be planted in another location on-site or off-site or a contribution of funds be made to the City to be used for plantings on public land or a combination of the above options. If a contribution of funds is required, it shall be the fee as established by resolution of the City Council in the annual Comprehensive Fee Schedule.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>12</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.78.020" >Section 27.78.020 of the San Mateo Municipal Code</cite> is amended to read:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.78.020"/>
+        <num>27.78.020</num>
+        <heading>Conditions for Granting.</heading>
+        <para>
+          <num>(a)</num>
+          <text>In order to make its determination that there is hardship, the approval body designated in <cite doc="City of San Mateo, Cal., Code" path="27" >this Title</cite> shall determine if each of the following conditions pertain:</text>
+          <para>
+            <num>(1)</num>
+            <text>There are exceptional or extraordinary circumstances or conditions applicable to the property that do not apply generally to property in the same zone or neighborhood including buildings of architectural or historical significance or of architectural interest as recognized by action of the City Council or another government agency.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A variance is necessary for the preservation and enjoyment of a substantial property right of the applicant possessed by other property owners in the same zone or neighborhood;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Granting of the variance will not be materially detrimental to the public health, safety or welfare or materially injurious to other property or improvements in the neighborhood in which the property is located; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Granting of the variance will not adversely affect or be inconsistent with the general plan.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Parking stall dimension variances shall also meet all of the following limitations:</text>
+          <para>
+            <num>(1)</num>
+            <text>Handicapped stalls required by the State Architect's Handicapped Access Regulations are not eligible for this process.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The application must be based on constraints imposed by physical features of the site (such as slopes, Major Vegetation to be preserved as defined in <cite doc="City of San Mateo, Cal., Code" path="23.40" >Chapter 23.40</cite>, or Protected Trees as defined in <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite>), or existing structural improvements. No variance shall be granted for stall dimensions due to mere lack of space on the site to meet standard requirements for the project, nor for the sole purposes of design simplicity, reduced cost or other convenience of the applicant.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Variances for the width of stalls shall only be allowed for locating posts or stub walls in the very front or rear part of the stalls where they will not obstruct the swing of doors for passenger vehicles, or to allow continued use of established parking structures.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The application meets one or more of the following:</text>
+            <para>
+              <num>(A)</num>
+              <text>The variance is needed to continue using existing facilities;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>No more than one dimension is to vary, and by not more than 1 foot width or 6 inches height or 2 feet length;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>No more than 10% of all required stalls, or 3 stalls, whichever is greater, are to vary;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>The total volume of each of the stalls will be at least 95% of the unvaried volume of height, width and depth combined.</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>13</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="17.24.020" >Section 17.24.020 of the San Mateo Municipal Code</cite> is amended to read:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="17.24.020"/>
+        <num>17.24.020</num>
+        <heading>Definitions.</heading>
+        <text>For the purpose of <cite doc="City of San Mateo, Cal., Code" path="17.24" >this chapter</cite>, the following words and phrases shall have the meanings set forth below. Unless in direct conflict with terms defined herein, other words and phrases shall be interpreted as defined in the <cite doc="Cal. Sts. &amp; High. Code" >Streets and Highways Code</cite>:</text>
+        <para>
+          <num>(a)</num>
+          <heading>Director of Public Works.</heading>
+          <text>Director of Public Works or his or her designee.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Driveway Approach.</heading>
+          <text>The concrete structure located in the public right-of-way between the public street and a driveway or parking area on private property.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Protected Tree.</heading>
+          <text>A tree as defined in <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite> as a Protected Tree.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Planting strip.</heading>
+          <text>The area of the street lying between the curb line and the street line or edge of right-of-way along any street; including the sidewalk.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Property Owner.</heading>
+          <text>Without limitation, the fee owner of real property and the person or persons in possession of the real property.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Sidewalk.</heading>
+          <text>Any area provided for the use of pedestrians, including planting areas, driveway approaches or parking strips, between the public vehicular roadway and the edge of right-of-way bordering adjacent private property.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Street Tree.</heading>
+          <text>Any woody perennial plant having a single main axis or stem achieving ten feet or more in height, growing within a street right-of-way; planted within a street right-of-way and/or designated planting easement.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>14</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.40.020" >Section 23.40.020 of the San Mateo Municipal Code</cite> is amended to read:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.40.020"/>
+        <num>23.40.020</num>
+        <heading>Definitions.</heading>
+        <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="23.40" >this Chapter</cite>, the following terms are defined as set forth below:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Best Management Practice (BMP)" means a technique or series of techniques which, when utilized in a designated manner, is proven to be effective in controlling construction-related runoff, erosion, and sedimentation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Certify" or "Certification" means the specific inspections and tests where required have been performed, and that such tests comply with the applicable requirements of State and Federal law and of <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Cubic Yards" means the amount of material in excavation and/or fill measured by the method of "average end areas".</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Erosion" means the action or process of wearing away of earth or soil by the action of water.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Excavation" means any act by which organic matter, earth, sand, gravel, rock or any other similar material is cut into, dug, quarried, uncovered, removed, displaced, relocated or bulldozed, and includes the conditions resulting therefrom.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Existing Grade" means the vertical location of the existing ground surface prior to excavation or filling.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Filling" means any act by which earth, sand, gravel, rock or any other material is deposited, placed, replaced, pushed, dumped, pulled, transported or moved by man to a new location and shall include the conditions resulting therefrom.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Final Erosion and Sediment Control Plan" means a set of measures designed to control surface runoff and erosion and to retain sediment on a particular site after all other planned final structures and permanent improvements have been erected or installed.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Grading" means excavation <u>or</u> fill or any combination thereof and includes the conditions resulting from any excavation or fill.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Intensify" means the addition of one or more dwelling units in a residential district; or the physical extension of a structure or the expansion of a parking area in any commercial, executive, or industrial district.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Interim Erosion and Sediment Control Plan" means a set of measures designed to control surface runoff and erosion and to retain sediment on a particular site during the period in which pre-construction and construction-related grading occurs.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Landscape Architect" means a person who is licensed by the State of California to practice landscape architecture.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Major Vegetation" means live vegetation, consisting of tree growth with a trunk diameter of six (6) inches or greater (circumference of eighteen and nine-tenths inches) measured at fifty-four (54) inches above natural grade.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>"Manual of Standards (Manual)" means a compilation of technical application standards and design specifications adopted by the Director of Public Works as being proven methods of controlling construction-related runoff, erosion, and sedimentation.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>"Natural Slope" means the predominant slope or slopes of land in its natural condition disregarding minor surface humps or hollows.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>"Natural Terrain" means the natural contour of a site before man-made development, or as the same exists prior to the undertaking of any new improvement.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>"Parcel" means an area of land which has been legally subdivided.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>"Permittee" means any person to whom a site development permit is issued.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>"Project Arborist" means an ISA Certified Arborist designated to evaluate the potential impacts of Construction Activity on Protected Trees, write specifications for tree preservation, oversee Construction Activity within the Dripline of Protected Trees and other necessary activities as determined by the City Arborist.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>"Protected Tree" means a Heritage Tree or a Street Tree (as defined in SMMC 13.40 Protected Trees), or a tree designated as protected as part of an approved Planning Application that is subject to <cite doc="City of San Mateo, Cal., Code" path="27.71" >Chapter 27.71</cite>.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>"Removal" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>Cutting to the ground, complete extraction, or killing by spraying, girdling, or any other means; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Major Pruning not done in conformance with a Major Pruning Permit as defined in Section 13.40.</text>
+          </para>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>"Sediment" means material deposited by water.</text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <text>"Site" means a lot or parcel of land, or a contiguous combination thereof, where grading is performed as a single unified operation.</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>"Site Development" means grading and/or removing major vegetation.</text>
+        </para>
+        <para>
+          <num>(y)</num>
+          <text>"Site Development Planning Application" means an application through the Planning Division for approval of a project requiring a site development permit.</text>
+        </para>
+        <para>
+          <num>(z)</num>
+          <text>"Site Development Permit" means a permit issued through the Public Works Department to proceed with site development.</text>
+        </para>
+        <para>
+          <num>(aa)</num>
+          <text>"Slope" shall be defined as an inclined ground surface, expressed as a fraction of vertical over horizontal distance (rise over run) across any portion of a parcel. The term "gradient" shall be synonymous with the term "percent slope". For purposes of <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>, slope shall be measured across the predominant slope or slopes of land disregarding minor surface humps or hollows.</text>
+        </para>
+        <para>
+          <num>(bb)</num>
+          <text>"Slope Height" means the vertical dimension between the high (top) and low (toe) points of a slope. The top and the toe of the slope shall be the points at which the slope intersects flat planes. A flat plane shall be considered any surface with a gradient of five (5%) percent or less. The overall height of separated slopes shall be added in calculating slope height unless the slopes are separated by a flat area at least forty (40) feet wide. The height of existing engineered retaining walls shall not be included in the calculation of slope height.</text>
+        </para>
+        <para>
+          <num>(cc)</num>
+          <text>"Soils Engineer" means a registered engineer recognized by the State Board of Registration for Professional Engineers and Land Surveyors as authorized and competent to do the work required.</text>
+        </para>
+        <para>
+          <num>(dd)</num>
+          <text>"Vacant" means land on which there are no structures or only structures which are secondary to the use or maintenance of the land itself.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>15</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.40.040" >Section 23.40.040 of the San Mateo Municipal Code</cite> is amended to read:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="23.40.040"/>
+        <num>23.40.040</num>
+        <heading>Procedures.</heading>
+        <text>This Section contains the provisions for the 2 phases of the site development approval and permitting process. Phase I consists of the site development planning application, which is processed through the Planning Division. Phase II provides for obtaining the site development permit from the Public Works Department following approval of the site development planning application.</text>
+        <para>
+          <num>(a)</num>
+          <text>Phase I—Site Development Planning Application. Each application for site development through the Planning Division shall be made by the owner of record or his or her authorized agent, submitted on forms furnished for that purpose, and accompanied by the required project submittals, fees and deposits.</text>
+          <para>
+            <num>(1)</num>
+            <text>Review and Approval Authority. Each site development planning application shall be processed in accordance with <cite doc="City of San Mateo, Cal., Code" path="27.08" >Chapter 27.08</cite> (Rules of Procedure) contained in <cite doc="City of San Mateo, Cal., Code" path="27" >Title 27</cite> (Zoning) of the Municipal Code. Such processing includes project review, noticing, hearing, approval and appeal of decisions. Decision authority for approval, approval with conditions, or denial of site development projects is set forth in the following table:</text>
+            <text>
+              <table>
+                <thead>
+                  <tr>
+                    <th  colspan="2">
+                      <p>SITE DEVELOPMENT PLANNING APPLICATION <u>(SDPA)</u></p>
+                      <p>APPROVAL AUTHORITY</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th>Zoning Administrator</th>
+                    <th>Planning Commission</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Grading, where the aggregate volume does not exceed 5,000 cubic yards and the site development is not occurring on slopes greater than 25% or within the setbacks from such slopes <u>would require a Site Development Planning Application for Grading.</u></td>
+                    <td>Grading, where the aggregate volume exceeds 5,000 cubic yards and/or the proposed grading (cut/fill) exceeds 5 feet (height/depth) at its maximum point <u>would require a Site Development Planning Application for Grading</u>.</td>
+                  </tr>
+                  <tr>
+                    <td>Removal of major vegetation Protected Trees from property which has been previously developed and/or subdivided and which is being redeveloped or more intensely used <u>would require a Site Development Planning Application for Tree Removal.</u></td>
+                    <td>Site development occurring on slopes greater than 25% or within slope setbacks <u>would require a Site Development Planning Application for Grading</u>.</td>
+                  </tr>
+                  <tr>
+                    <td />
+                    <td>Removal of major vegetation Protected Trees from previously undeveloped and/or unsubdivided acreage, or land which is to be resubdivided <u>would require a Site Development Planning Application for Tree Removal</u>.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Basic Submittals. Each site development planning application shall be accompanied by a plot plan signed by a civil engineer, showing the following, however, at the time of application, the <u>Director of Public Works</u> may modify these requirements based upon special site conditions or unique circumstances that clearly indicate that the required submittal is unnecessary. During the review process, the City may require additional information necessary to make a final determination.</text>
+            <para>
+              <num>(A)</num>
+              <text>Location of existing and proposed buildings or structures on the property;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Location of all existing and proposed streets, roadways, driveways, easements, public utilities and rights-of-way;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Details of any proposed culverts, drainage structures, collection system, cribbing, terraces, and/or surface protection, not including vegetative cover, required for drainage and erosion control of the property, or adjoining property;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Delineation and brief description of the surface runoff and erosion control measures to be implemented, including any applicable construction phase BMPs;</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>The present contours of the site in dashed lines and the proposed contours in solid lines. Contour intervals shall be not more than two (2) feet where slopes are predominantly five (5%) percent or less, and not more than five (5) feet where slopes are predominantly steeper than five (5%) percent. Ninety (90%) percent of all contours shall be accurate within one-half contour interval of correct position. The source of topographical information shall be indicated;</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>The location of all drainage to, from, and across the site including the location of any intermittent and permanent springs or other potential locations of water quality impact;</text>
+            </para>
+            <para>
+              <num>(G)</num>
+              <text>The location of all Protected Trees as defined in <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite> and <cite doc="City of San Mateo, Cal., Code" path="23.40" >Chapter 23.40</cite> together with an indication of those which must be removed;</text>
+            </para>
+            <para>
+              <num>(H)</num>
+              <text>Geotechnical study prepared by a soils engineer which shall include at a minimum, historical data (such as from original subdivision records) and conclusions/recommendations based upon an adequate number of soil borings driver to adequate depth, for foundation footings, retaining walls, provisions for differential settlement, and for grading procedures and designs for interim and final soil stabilization devices and measures.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Supplemental Submittals. The following information may be required for any site development planning application, or as a condition of approval of said application, if the <u>Director of Public Works</u>, after preliminary review of the application, finds any or all necessary to accomplish the purpose of <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>.</text>
+            <para>
+              <num>(A)</num>
+              <text>A statement of the estimated quantity of material proposed to be excavated and/or the amount of fill in cubic yards;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Grading specifications prepared by a soils engineer;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Roadway and/or driveway geometry including profiles and cross-Sections;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Drainage calculations, including at a minimum, existing and post-project run-off quantities, capacity of existing downstream drainage systems, and impact of the project on those systems;</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Interim Erosion and Sediment Control Plan (Interim Plan). All of the following information shall be provided with respect to conditions existing on the site during grading activities or soil storage:</text>
+              <para>
+                <num>(i)</num>
+                <text>Maximum surface runoff from the site shall be calculated using the method approved by the <u>Director of Public Works</u> and maintained in the Manual, or any other method proven to the <u>Director of Public Works</u> to be as or more accurate;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Sediment yield shall be calculated suing the method approved by the <u>Director of Public Works</u> and maintained in the Manual, or any other method proven to the <u>Director of Public Works</u> to be as or more accurate;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>A delineation and brief description of the measures to be undertaken to retain sediment on the site, including, but not limited to, the designs and specifications for berms and sediment detention basins, and a schedule for their maintenance and upkeep;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>A delineation and brief description of the surface runoff and erosion control measures to be implemented, including, but not limited to, types and method of applying mulches, and designs and specifications for diverters, dikes and drains, and a schedule for their maintenance and upkeep;</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>A delineation and brief description of the vegetative measures to be taken, including, but not limited to, seeding methods, the type, location, and extent of pre-existing and undisturbed vegetation types, and a schedule for their maintenance and upkeep;</text>
+              </para>
+              <para>
+                <num>(vi)</num>
+                <text>The location of all the measures listed by the permittee under Subsections (iii), (iv) and (v) above, shall be depicted on the site map and/or grading plan;</text>
+              </para>
+              <para>
+                <num>(vii)</num>
+                <text>A contingency plan to be implemented in the case of failure of control measures or in the case of intense or prolonged rainfall;</text>
+              </para>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>Final Erosion and Sediment Control Plan (Final Plan). The Final Plan shall provide all of the information listed in E, above, with respect to conditions existing on the site after final structures and improvements (except for those required under this Section) have been completed and where these final structures have not been covered by an Interim Plan.</text>
+            </para>
+            <para>
+              <num>(G)</num>
+              <text>A master work schedule showing the following information:</text>
+              <para>
+                <num>(i)</num>
+                <text>Statement of the estimated starting and completion dates for the grading work proposed and any landscape work that may be required;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Proposed schedule for installation of all interim erosion and sediment control measures including, but not limited to, the stage of completion of erosion and sediment control devices and vegetative measures;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>Schedule for construction, if any;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>Schedule for installation of permanent erosion and sediment control devices where required;</text>
+              </para>
+            </para>
+            <para>
+              <num>(H)</num>
+              <text>Plans and specifications showing functional planting for the protection of the public safety and, if appropriate, information relating to landscaping of adjacent or surrounding areas affected by the proposed development. Such plans and specifications shall be prepared and signed by a landscape architect<u>, except where specified below</u>. These plans shall show:</text>
+              <para>
+                <num>(i)</num>
+                <text>Distribution of plant material; location, quantity and key number of each species of plant in each group; outline of all lawn areas, areas to be seeded, sodded or sprigged; existing trees, if any, to be preserved, transplanted or removed; kind, size, and work involved as related to slope control and/or physical environment;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>A Tree Evaluation Schedule of existing trees as defined in <cite doc="City of San Mateo, Cal., Code" path="27.71" >Chapter 27.71</cite> prepared and signed by an ISA Certified Arborist (Project Arborist), identifying trees to be preserved, transplanted or removed;</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>A Tree Protection Plan prepared and signed by the Project Arborist specifying tree protection measures in accordance with <cite doc="City of San Mateo, Cal., Code" path="13.40" >Chapter 13.40</cite>;</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>The kind, size, and work involved as related to slope control and/or physical environment;</text>
+              </para>
+              <para>
+                <num>(v)</num>
+                <text>List of plant material giving standard botanical plant names and key number for each variety for reference to plan, and in addition, the size, quality or other pertinent description common to the trade;</text>
+              </para>
+              <para>
+                <num>(vi)</num>
+                <text>A Required Tree Planting Form specifying the mitigation for removal of existing trees in the form of tree planting and/or payment of in-lieu fees;</text>
+              </para>
+              <para>
+                <num>(vii)</num>
+                <text>A specification describing the methods for planting the areas to be landscaped with special emphasis on: (a) soil preparation, fertilization, plant material and methods of planting, and (b) initial maintenance of the plant material and slopes until a specified percentage of plant coverage is established uniformly on the cut and fill slopes;</text>
+              </para>
+              <para>
+                <num>(viii)</num>
+                <text>A statement by landscape architect regarding: (a) The length of time after planting, with the specified maintenance normally required to produce the specified percentage of plant coverage on the slopes in the slope control areas, and (b) the additional length of time, without any special maintenance, normally required to produce a coverage of permanent planting which will control erosion;</text>
+              </para>
+              <para>
+                <num>(ix)</num>
+                <text>Details of all items and features pertaining to site preservation and improvements such as retaining walls, and tree wells, and details not shown on other plans accompanying the application;</text>
+              </para>
+              <para>
+                <num>(x)</num>
+                <text>Such other and further details as may be specified and required by the <u>Director of Public Works</u> to carry out the purposes of <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>.</text>
+              </para>
+            </para>
+            <para>
+              <num>(I)</num>
+              <text>The name, address, and phone numbers of all persons, if any, who will receive excavated material in excess of five hundred cubic yards;</text>
+            </para>
+            <para>
+              <num>(J)</num>
+              <text>If fill material is to be obtained from elsewhere other than the site, a statement as to the source and type thereof if such information is known at the time of application. If not known at such time, such information shall be submitted when known and, in any event, not later than commencement of hauling operations of the imported fill material;</text>
+            </para>
+            <para>
+              <num>(K)</num>
+              <text>The route or routes proposed to be followed in San Mateo, excavation or fill material, as required by the schedule of truck routes on file in the office of the City Clerk;</text>
+            </para>
+            <para>
+              <num>(L)</num>
+              <text>Such further applicable information as the  <u>Director of Public Works</u> may required in order to carry out the purposes of <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Findings for Approval. Prior to recommending approval of a site development planning application, the approval body shall find that all concerns regarding surface grading, structure foundations, drainage, subsurface conditions, erosion, landscaping and tree removal have been addressed. The approval body shall consider the following factors, where applicable, in making the above finding:</text>
+            <para>
+              <num>(A)</num>
+              <text>Saturation of fill and unsupported cuts by water, both natural and domestic;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Runoff of surface waters that produce erosion, and silting of drainage ways;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Subsurface conditions such as the rock strata and faults;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Nature and type of soil or rock that when disturbed by the proposed grading may create earth movements;</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Effect upon the potential for optimum subdivision design;</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>Effect upon the visual relationships with other development in the vicinity of the site;</text>
+            </para>
+            <para>
+              <num>(G)</num>
+              <text>Appropriateness of the proposed site development for the character of a planned community or planned unit development proposal;</text>
+            </para>
+            <para>
+              <num>(H)</num>
+              <text>Capability of proposed slopes to be landscaped;</text>
+            </para>
+            <para>
+              <num>(I)</num>
+              <text>Whether the natural landscape and major vegetation is unnecessarily scarred through the proposed grading or removal of vegetation;</text>
+            </para>
+            <para>
+              <num>(J)</num>
+              <text>The report from the Project Arborist with respect to Protected Trees pursuant to Chapters <cite doc="City of San Mateo, Cal., Code" path="27.71" >27.71</cite> and <cite doc="City of San Mateo, Cal., Code" path="13.40" >13.40</cite>;</text>
+            </para>
+            <para>
+              <num>(K)</num>
+              <text>Any other considerations arising from any environmental impact report which will eliminate or mitigate environmental damage.</text>
+            </para>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Exceptions. The approval body may authorize exceptions to any of the requirements and regulations set forth in <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>. Application for any exception shall be made by stating fully the grounds of the application and the facts relied upon. Such application shall be filed with the site development planning application. In order for the land referred to in the application to come within the provisions of this Section, it is necessary that the approval body make all of the following findings:</text>
+            <para>
+              <num>(A)</num>
+              <text>The land is of such shape or size, or is affected by such physical conditions, or is subject to such title limitations of record that it is impossible or impractical for applicant to comply with all of the regulations of <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The exception is necessary for the preservation and enjoyment of a substantial property right of the applicant;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The granting of the exception will not be detrimental to the public welfare or injurious to other property in the vicinity of the subject property.</text>
+              <para>
+                <num>(i)</num>
+                <text>Planning Application Expiration. Every site development planning application shall expire as provided in <cite doc="City of San Mateo, Cal., Code" path="27.08.060" >San Mateo Municipal Code Section 27.08.060</cite>—Approval Expiration (Zoning Code).</text>
+              </para>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Phase II—Site Development Permit. Subsequent to approval of a site development planning application but prior to site development, the applicant shall obtain a site development permit <u>for grading</u> from the Public Works Department <u>and a site development permit for tree removal from Community Development Department</u>. Application for a site development permit shall be made by the owner of record or his or her authorized agent, and shall be accompanied by the required fees, deposits, and project submittals specified in any conditions of approval for the planning application or required by <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>.</text>
+          <para>
+            <num>(1)</num>
+            <text>Permit Issuance. Following approval of a site development planning application, a site development permit may be issued if:</text>
+            <para>
+              <num>(A)</num>
+              <text>The planning application has not expired and all conditions of approval of the planning application have been met; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Such permit is accompanied by, or combined with, a valid building permit issued by the City; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The proposed grading is coordinated with any overall grading plans previously approved by the City, under the subdivision regulations or other Sections of This Code, for the area in which the site is situated.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Approved Plans. The approved site development permit, including plans for grading work, as well as, the location of trees (existing on-site trees, Protected Trees and Street Trees), trees proposed to be removed, trees proposed to be protected, and tree protection measures shall be maintained at the site during the progress of the grading, excavation, building demolition, construction and/or other site work. In order to obtain the inspections required by <cite doc="City of San Mateo, Cal., Code" path="23.40" >this Chapter</cite> in accordance with the following schedule, the permittee shall notify the Director of Public Works, Director of Parks and Recreation, and Director of Community Development Department (or their designees) at least two full working days before said inspection is to be made.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Inspections. The <u>Director of Public Works</u>, and where applicable, the Director of Parks and Recreation or the Building Official <u>(or their designees)</u>, shall make the following required inspections, as applicable, and shall either approve that portion of the work completed or shall notify the permittee, as provided in (4), below, wherein the same fails to comply with <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite> or the terms of the permit granted. Where it is found by inspection that conditions are not substantially as stated or shown in the application for a site development permit, the <u>Director of Public Works</u> may stop further work until approval is obtained for a revised site development permit, conforming to the existing conditions.</text>
+            <para>
+              <num>(A)</num>
+              <text>Initial Inspection. Before commencement of grading operations, and after required construction stakes have been set;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Erosion Control. When all interim erosion control devices have been installed and planting requirements have been completed;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Rough Grading. When all rough grading has been completed;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Final Inspection. When all work, including, but not limited to, final grading, installation of all drainage devices, and final erosion control measures, has been completed;</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Inspector. All inspections performed under site development permits specified in <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite> shall be performed by a representative of the issuing department, and all orders issued to the permittee shall be issued through said representative.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Inspection by Building Official. Structures requiring building permits shall be inspected by the Building Official, or their designee, in accordance with procedures established by this Code, provided, however, no building permit for such structures shall be issued until a site development permit for the building site has been issued or it has been determined that a site development permit is not required by <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Site Development Permit Sign-Off. If, upon final inspection, it is found that the work authorized by the site development permit has been completed in accordance with the requirements of the permit and <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>, the <u>Director of Public Works</u> shall indicate that such work, has to the best of his or her knowledge, been satisfactorily performed.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Permit Revocation.</text>
+            <para>
+              <num>(A)</num>
+              <text>Violations. No person shall construct, enlarge, alter, repair or maintain any grading, or cause the same to be done, contrary to or in violation of any provisions of <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>. The  <u>Director of Public Works</u>, <u>Planning Manager</u>, Building Official, and/or the Director of Parks and Recreation are empowered to investigate and make reports to the Planning Commission on any violations of <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>. The Planning Commission, if it determines from the evidence presented that a violation exists, may recommend to the City Council that action be taken to seek compliance with <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite>.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Authority. In the event any person holding a site development permit pursuant to <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite> violates the terms of the permit, or conducts, carries on or permits to be conducted or carried on said site development in such a manner as materially or adversely to affect the health, welfare, or safety of persons residing or working in the neighborhood of the property of the permittee, or conducts or carries on or permits to be conducted or carried on said site development so that it is materially detrimental to the public welfare, or injurious to property, or improvements in the neighborhood, the <u>Director of Public Works</u> may order a temporary suspension, effective immediately upon notification, and the permittee shall show cause before the Planning Commission that the permit should not be permanently revoked.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Procedure for Revoking Site Development Permit. No site development permit shall be permanently revoked or suspended until a hearing is held by the Planning Commission. Written notice of such hearing shall be served upon the permittee, either personally or by certified mail. Such notice shall be given the permittee at least five days prior to the date set for the hearing and shall state:</text>
+              <para>
+                <num>(i)</num>
+                <text>The grounds for complain or reasons for the revocation or suspension, in clear and concise language;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>The time when, and the place where, such hearing is to be held.</text>
+              </para>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Hearing. The Planning Commission shall hold such hearing at the next regularly scheduled meeting at which all conditions of this Subsection can be met. At any such hearing, the permittee shall be given an opportunity to be heard, and he or she may call witnesses and present evidence on his or her behalf. Upon conclusion of such hearing the Planning Commission shall determine whether or not the permit shall be suspended, revoked or modified.</text>
+            </para>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Fees.</text>
+            <para>
+              <num>(A)</num>
+              <text>Filing Fees. Filing fees and deposits for services shall be as set forth in fee schedules to be adopted from time to time by the City Council.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Consultant Fees. City officers administering <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite> may engage consulting professional services to advise in the review of site development permit applications and may charge not to exceed 100 percent (100%) of the cost of such services to the applicant.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Applicable fees for Landscape Unit (LU) value are subject to the Comprehensive Fee Schedule in effect at the time of issuance of the Site Development Permit for tree removal.</text>
+            </para>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Permit Expiration. Every site development permit shall expire by limitation and become null and void if the work authorized by such permit has not been commenced within one hundred eighty days, or is not completed within one year from date of issue unless the time is specified on the permit or as provided in <cite doc="City of San Mateo, Cal., Code" path="23.40.050|(k)|(2)" >Section 23.40.050(k)(2)</cite>, except that the <u>Director of Public Works</u> may, if the permit holder presents satisfactory evidence that unusual difficulties have prevented work being started or completed within the specified time limits, grant a reasonable extension of time if written application is made before the expiration date of the permit.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Prohibited Activities. The provisions of <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite> shall not be construed as permitting the removal of topsoil solely for resale, or of permitting quarrying of any nature within the limits of the City. <cite doc="City of San Mateo, Cal., Code" path="23.40" >This chapter</cite> shall also not be construed as authorizing any persons to maintain a private or public nuisance upon their property, and compliance with the provisions of <cite doc="City of San Mateo, Cal., Code" path="23.40" >this chapter</cite> shall not be a defense in any action to abate such nuisance.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>16</num>
+    <text>Throughout the Municipal Code, replace references to "Uniform Building Code (UBC)" with "Building Code."</text>
+    <codify:find-replace doc="City of San Mateo, Cal., Code">
+      <find>Uniform Building Code</find>
+      <replace>Building Code</replace>
+    </codify:find-replace>
+  </section>
+  <section>
+    <num>17</num>
+    <text>Throughout the Municipal Code, replace references to "City Engineer" with "Director of Public Works."</text>
+    <codify:find-replace doc="City of San Mateo, Cal., Code" ignore-case="true">
+      <find>City Engineer</find>
+      <replace>Director of Public Works</replace>
+    </codify:find-replace>
+    <!-- <codify:find-replace doc="City of San Mateo, Cal., Code">
+      <find>City engineer</find>
+      <replace>Director of Public Works</replace>
+    </codify:find-replace> -->
+    <codify:find-replace doc="City of San Mateo, Cal., Code" path="2.48.025">
+      <find>"Director of Public Works"</find>
+      <replace>"City Engineer"</replace>
+    </codify:find-replace>
+  </section>
+  <section>
+    <num>18</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with <cite doc="Cal. Pub. Res. Code" path="§21065">Public Resources Code section 21065</cite>, these proposed Municipal Code amendments are not a "project" subject to CEQA in that the amendments will not have a direct or indirect effect on the physical environment.</text>
+  </section>
+  <section>
+    <num>19</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>20</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" >Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>21</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on November 15, 2021, and adopted on December 6, 2021, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
