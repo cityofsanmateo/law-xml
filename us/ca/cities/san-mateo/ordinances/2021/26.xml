@@ -773,23 +773,23 @@
               <table class="layout-table">
                 <tbody>
                   <tr>
-                    <td style="text-align: center;">species value% x condition value% x location value%</td>
+                    <td class="center">species value% x condition value% x location value%</td>
                     <td />
-                    <td style="text-align: center;">Trunk diameter inches x bldg.</td>
+                    <td class="center">Trunk diameter inches x bldg.</td>
                     <td />
                     <td />
                   </tr>
                   <tr>
-                    <td><hr/></td>
-                    <td style="width: 3em; text-align: center;" >x</td>
-                    <td><hr/></td>
-                    <td style="width: 3em; text-align: center;">=</td>
+                    <td class="center">___________________________________________</td>
+                    <td class="center" style="width: 2em;">x</td>
+                    <td class="center">________________________</td>
+                    <td class="center" style="width: 2em;">=</td>
                     <td>LU</td>
                   </tr>
                   <tr>
-                    <td style="text-align: center;">.35</td>
+                    <td class="center">.35</td>
                     <td />
-                    <td style="text-align: center;">setback% x heritage tree%</td>
+                    <td class="center">setback% x heritage tree%</td>
                     <td />
                     <td />
                   </tr>
