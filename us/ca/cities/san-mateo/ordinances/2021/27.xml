@@ -1,0 +1,1284 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-27">
+  <num>2021-27</num>
+  <heading type="short">Mandatory Organic Waste Disposal Reduction</heading>
+  <heading type="long">Adding Chapter 7.35, "Mandatory Organic Waste Disposal Reduction Ordinance" to Title 7, "Health, Sanitation, and Public Nuisances," of the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2022-01-05</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2021-27.pdf">Ord. No. 2021-27</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2021-27</citation>
+    </citations>
+    <history>
+      <introduced>2021-11-15</introduced>
+      <adopted>2021-12-06</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the State of California passed Senate Bill 1383 (Chapter 395, Statutes of 2016), the Short-lived Climate Pollutant Reduction Act of 2016, which requires the California Department of Resources Recycling and Recovery (CalRecycle) to adopt regulations to reduce organic waste; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>CalRecycle has finalized implementing regulations by revising Chapter 12 (Short-Lived Climate Pollutants) of Division 7 of <cite doc="City of San Mateo, Cal., Code" path="14">Title 14 of the California Code of Regulations (SB 1383 Regulations)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the SB 1383 Regulations require a 50 percent reduction of organic waste by 2020 from 2014 baseline levels and a 75 percent reduction by 2025, and further require the recovery by 2025 of at least 20 percent of currently disposed of edible food for human consumption; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the SB 1383 Regulations require cities, counties, and special districts providing solid waste collection services to adopt and enforce an implementing ordinance or other mechanism by January 1, 2022 that includes the regulation of waste haulers and generators of organic waste and edible food, as well as enforcement provisions and penalties for violations; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the South Bayside Waste Management Authority (SBWMA) developed a Model Mandatory Organic Waste Disposal Reduction Ordinance (Model Ordinance) for its member agencies to utilize; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on July 24, 2021, SBWMA adopted Resolution No. 2021-24 recommending its member agencies to utilize the Model Ordinance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo has tailored the Model Ordinance to comply with its policies and existing municipal code.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.35">Chapter 7.35 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7">Title 7</cite> as follows:</text>
+    <codify:insert doc="City of San Mateo, Cal., Code" path="7" after="7.33">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>7.35</num>
+        <heading>Mandatory Organic Waste Disposal Reduction Ordinance</heading>
+      </container> 
+    </codify:insert>
+    <include>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.010</num>
+        <heading>Title</heading>
+        <text><cite doc="City of San Mateo, Cal., Code" path="7.35">This Chapter</cite> shall be known as the "Mandatory Organic Waste Disposal Reduction Ordinance" and may be so cited and commonly referred to in <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite> as the "Ordinance."</text>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.020</num>
+        <heading>Purpose and Findings</heading>
+        <text>The City finds and declares:</text>
+        <para>
+          <num>(a)</num>
+          <text>State recycling law, Assembly Bill 939 of 1989, the California Integrated Waste Management Act of 1989 (<cite doc="Cal. Pub. Res. Code" path="§40000">California Public Resources Code Section 40000</cite>, et seq., as amended, supplemented, superseded, and replaced from time to time), requires cities and counties to reduce, reuse, and recycle (including composting) Solid Waste generated in their Jurisdictions to the maximum extent feasible before any incineration or landfill disposal of waste, to conserve water, energy, and other natural resources, and to protect the environment.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>State recycling law, Assembly Bill 341 of 2011 (approved by the Governor of the State of California on October 5, 2011, which amended Sections 41730, 41731, 41734, 41735, 41736, 41800, 42926, 44004, and 50001 of, and added Sections 40004, 41734.5, and 41780.01 and Chapter 12.8 (commencing with Section 42649) to Part 3 of Division 30 of, and added and repealed Section 41780.02 of, the <cite doc="Cal. Pub. Res. Code">Public Resources Code</cite>, as amended, supplemented, superseded and replaced from time to time), places requirements on businesses and Multi-Family property owners that generate a specified threshold amount of Solid Waste to arrange for recycling services and requires Jurisdictions to implement a Mandatory Commercial Recycling program.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>State organics recycling law, Assembly Bill 1826 of 2014 (approved by the Governor of the State of California on September 28, 2014, which added Chapter 12.9 (commencing with Section 42649.8) to Part 3 of Division <cite doc="Cal. Pub. Res. Code" path="§30">30 of the Public Resources Code</cite>, relating to Solid Waste, as amended, supplemented, superseded, and replaced from time to time), requires businesses and Multi-Family property owners that generate a specified threshold amount of Solid Waste, Recycling, and Organic Waste per week to arrange for recycling services for that waste, requires Jurisdictions to implement a recycling program to divert Organic Waste from businesses subject to the law, and requires Jurisdictions to implement a Mandatory Commercial Organics Recycling program.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>SB 1383, the Short-lived Climate Pollutant Reduction Act of 2016, requires CalRecycle to develop regulations to reduce organics in landfills as a source of methane. The regulations place requirements on multiple entities including Jurisdictions, residential households, Commercial Businesses and business owners, Commercial Edible Food Generators, haulers, Self-Haulers, Food Recovery Organizations, and Food Recovery Services to support achievement of Statewide Organic Waste disposal reduction targets.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>SB 1383, the Short-lived Climate Pollutant Reduction Act of 2016, requires Jurisdictions to adopt and enforce an ordinance or enforceable mechanism to implement relevant provisions of SB 1383 Regulations. This ordinance will also help reduce food insecurity by requiring Commercial Edible Food Generators to arrange to have the maximum amount of their Edible Food, that would otherwise be disposed, be recovered for human consumption.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Requirements in <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite> are consistent with other adopted goals and policies of the City.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Even if the City delegates responsibility for enforcement to another public entity, the City remains ultimately responsible for compliance of this ordinance as required in 14 CCR Section 18981.2(c).</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Additionally, the City will implement Recovered Organic Waste Product procurement and Recycled-Content Paper procurement programs in furtherance of these goals.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.030</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="7.35">this chapter</cite>, the following definitions and those contained in 14 CCR Section 18982 shall apply. Wherever a conflict exists between <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite> and the definitions in the CCR, the definitions in the CCR shall prevail.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Blue Container" has the same meaning as in 14 CCR Section 18982.2(a)(5) and shall be used for the purpose of storage and collection of Source Separated Recyclable Materials or Source Separated Blue Container Organic Waste.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Black Container" has the same meaning as in 14 CCR Section 18982.2(a)(28) and shall be used for the purpose of storage and collection of Black Container Waste.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Black Container Waste" means Solid Waste that is collected in a Black Container that is part of a three-container Organic Waste collection service that prohibits the placement of Organic Waste or Source Separated Recyclables in the Black Container as specified in 14 CCR Sections 18984.1(a) and (b), or as otherwise defined in 14 CCR Section 17402(a)(6.5).</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"CalRecycle" means California's Department of Resources Recycling and Recovery, which is the Department designated with responsibility for developing, implementing, and enforcing SB 1383 Regulations on Jurisdictions (and others).</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"California Code of Regulations" or "CCR" means the State of California Code of Regulations. CCR references in this ordinance are preceded with a number that refers to the relevant Title of the CCR (e.g., "14 CCR" refers to <cite doc="City of San Mateo, Cal., Code" path="14">Title 14</cite> of CCR).</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"City" means the City of San Mateo.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Commercial Business" or "Commercial" means a firm, partnership, proprietorship, joint-stock company, corporation, or association, whether for-profit or nonprofit, strip mall, industrial facility, or a multifamily residential dwelling, or as otherwise defined in 14 CCR Section 18982(a)(6). A Multi-Family Residential Dwelling that consists of fewer than five (5) units is not a Commercial Business for purposes of implementing this ordinance.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Commercial Edible Food Generator" includes a Tier One or a Tier Two Commercial Edible Food Generator as defined in this ordinance. For the purposes of this definition, Food Recovery Organizations and Food Recovery Services are not Commercial Edible Food Generators pursuant to 14 CCR Section 18982(a)(7).</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Compliance Review" means a review of records by the City, County, SBWMA, or the City's designated entity to determine compliance with this ordinance.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Community Composting" means any activity that composts green material, agricultural material, food material, and vegetative food material, alone or in combination, and the total amount of feedstock and Compost on-site at any one time does not exceed 100 cubic yards and 750 square feet, as specified in 14 CCR Section 17855(a)(4); or, as otherwise defined by 14 CCR Section 18982(a)(8).</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Compost" has the same meaning as in 14 CCR Section 17896.2(a)(4), which stated, as of the effective date of this ordinance, that "Compost" means the product resulting from the controlled biological decomposition of organic Solid Wastes that are Source Separated from the municipal Solid Waste stream, or which are separated at a centralized facility.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Container Contamination" or "Contaminated Container" means a container, regardless of color, that contains Prohibited Container Contaminants, or as otherwise defined in 14 CCR Section 18982(a)(55).</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>"County" means the County of San Mateo.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>"C&amp;D" means construction and demolition debris.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>"Designated Source Separated Organic Waste Facility", as defined in 14 CCR Section 18982(14.5), means a Solid Waste facility that accepts a Source Separated Organic Waste collection stream as defined in 14 CCR Section 17402(a)(26.6) and complies with one of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>The facility is a "transfer/processor," as defined in 14 CCR Section 18815.2(a)(62), that is in compliance with the reporting requirements of 14 CCR Section 18815.5(d), and meets or exceeds an annual average Source Separated organic content Recovery rate of 50 percent between January 1, 2022 and December 31, 2024 and 75 percent on and after January 1, 2025 as calculated pursuant to 14 CCR Section 18815.5(f) for Organic Waste received from the Source Separated Organic Waste collection stream.</text>
+            <para>
+              <num>(A)</num>
+              <text>If a transfer/processor has an annual average Source Separated organic content Recovery rate lower than the rate required in Paragraph 1 of this definition for two (2) consecutive reporting periods, or three (3) reporting periods within three (3) years, the facility shall not qualify as a "Designated Source Separated Organic Waste Facility".</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The facility is a "composting operation" or "composting facility" as defined in 14 CCR Section 18815.2(a)(13), that pursuant to the reports submitted under 14 CCR Section 18815.7 demonstrates that the percent of the material removed for landfill disposal that is Organic Waste is less than the percent specified in 14 CCR Section 17409.5.8(c)(2) or 17409.5.8(c)(3), whichever is applicable, and, if applicable, complies with the digestate handling requirements specified in 14 CCR Section 17896.5. The definition of composting operation includes in-vessel digestion as regulated in 14 CCR Section 17896.</text>
+            <para>
+              <num>(A)</num>
+              <text>If the percent of the material removed for landfill disposal that is Organic Waste is more than the percent specified in 14 CCR Section 17409.5.8(c)(2) or 17409.5.8(c)(3), for two (2) consecutive reporting periods, or three (3) reporting periods within three (3) years, the facility shall not qualify as a "Designated Source Separated Organic Waste Facility." For the purposes of this ordinance, the reporting periods shall be consistent with those defined in 14 CCR Section 18815.2(a)(49).</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>"Designee" means an entity that the City contracts with or otherwise arranges to carry out any of the City's responsibilities within this ordinance as authorized in 14 CCR Section 18981.2. A Designee may be a government entity, a hauler, a private entity, or a combination of those entities.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>"Designee for Edible Food Recovery" means the County of San Mateo's Office of Sustainability with which the City has a Memorandum of Understanding for the purposes of Edible Food Recovery including, but not limited to, inspection, investigation, and enforcement of the Edible Food Recovery provisions of this ordinance. Contact information for the Designee for Edible Food Recovery can be found on the County of San Mateo's Office of Sustainability website.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>"Edible Food" means food intended for and fit for human consumption and collected or received from a Tier One or Tier Two Commercial Edible Food Generator. For the purposes of this ordinance "Edible Food" is not Solid Waste if it is recovered and not discarded. Nothing in this ordinance or in 14 CCR, Division 7, Chapter 12 requires or authorizes the Recovery of Edible Food that does not meet the food safety requirements of the California Retail Food Code.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>"Edible Food Recovery" means actions to collect, receive, and/or re-distribute Edible Food for human consumption from Tier One and Tier Two Commercial Edible Food Generators that otherwise would be disposed.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>"Enforcement Action" means an action of the City or County of San Mateo's Office of Sustainability to address non-compliance with this ordinance including, but not limited to, issuing administrative citations, fines, penalties, or using other remedies.</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>"Excluded Waste" means hazardous substance, hazardous waste, infectious waste, designated waste, volatile, corrosive, medical waste, infectious, regulated radioactive waste, and toxic substances. Excluded wastes also includes construction materials, dirt, rock and concrete, electronic waste and batteries, fluorescent lights, hazardous waste, liquids and grease, medicines and sharps and treated wood. These include material that facility collectors and operator(s), which receive materials from the City and its generators, reasonably believe(s) would, as a result of or upon acceptance, transfer, processing, or disposal, be a violation of local, State, or Federal law, regulation, or ordinance, including: land use restrictions or conditions, waste that cannot be disposed of in Class III landfills or accepted at the facility by permit conditions, waste that in the City, or its Designee's reasonable opinion, would present a significant risk to human health or the environment, cause a nuisance or otherwise create or expose the City, or its Designee, to potential liability; but not including de minimis volumes or concentrations of waste of a type and amount normally found in Single-Family or Multi-Family Solid Waste after implementation of programs for the safe collection, processing, recycling, treatment, and disposal of batteries and paint in compliance with Sections <cite doc="Cal. Pub. Res. Code" path="§41500">41500</cite> and <cite doc="Cal. Pub. Res. Code" path="§41802">41802</cite> of the <cite doc="Cal. Pub. Res. Code">California Public Resources Code</cite>. Excluded Waste does not include household batteries placed in a sealed clear plastic bag placed on top of the black can, or any other universal wastes if such materials are defined as allowable materials for collection through the City's collection programs and the generator or customer has properly placed the materials for collection pursuant to instructions provided by the City or its Designee for collection services.</text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <text>"Food Distributor" means a company that distributes food to entities including, but not limited to, Supermarkets and Grocery Stores.</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>"Food Facility" has the same meaning as in <cite doc="Cal. Health &amp; Safety Code" path="§113789">Section 113789 of the Health and Safety Code</cite>.</text>
+        </para>
+        <para>
+          <num>(y)</num>
+          <text>"Food Recovery" means actions to collect, receive and or re-distribute edible food for human consumption from Tier One and Tier Two Commercial Edible Food Generators, that otherwise would be disposed.</text>
+        </para>
+        <para>
+          <num>(z)</num>
+          <text>"Food Recovery Organization" means an entity that engages in the collection or receipt of Edible Food from Commercial Edible Food Generators and distributes that Edible Food to the public for Food Recovery either directly or through other entities or as otherwise defined in 14 CCR Section 18982(a)(25), including, but not limited to:</text>
+          <para>
+            <num>(1)</num>
+            <text>A food bank as defined in <cite doc="Cal. Health &amp; Safety Code" path="§113783">Section 113783 of the Health and Safety Code</cite>;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A nonprofit charitable organization as defined in <cite doc="Cal. Health &amp; Safety Code" path="§113841">Section 113841 of the Health and Safety code</cite>; and,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A nonprofit charitable temporary food facility as defined in <cite doc="Cal. Health &amp; Safety Code" path="§113842">Section 113842 of the Health and Safety Code</cite>.</text>
+            <text>A Food Recovery Organization is not a Commercial Edible Food Generator for the purposes of this ordinance and implementation of 14 CCR, Division 7, Chapter 12 pursuant to 14 CCR Section 18982(a)(7).</text>
+            <text>If the definition in 14 CCR Section 18982(a)(25) for Food Recovery Organization differs from this definition, the definition in 14 CCR Section 18982(a)(25) shall apply to this ordinance.</text>
+          </para>
+        </para>
+        <para>
+          <num>(aa)</num>
+          <text>"Food Recovery Service" means a person or entity that collects and transports Edible Food from a Tier One or Tier Two Commercial Edible Food Generator to a Food Recovery Organization or other entities for Edible Food Recovery. A Food Recovery Service is not a Commercial Edible Food Generator for the purposes of this ordinance and implementation of 14 CCR, Division 7, Chapter 12 pursuant to 14 CCR Section 18982(a)(7).</text>
+        </para>
+        <para>
+          <num>(bb)</num>
+          <text>"Food Scraps" means all food such as, but not limited to, fruits, vegetables, meat, poultry, seafood, shellfish, bones, rice, beans, pasta, bread, cheese, and eggshells. Food Scraps excludes fats, oils, and grease when such materials are Source Separated from other Food Scraps.</text>
+        </para>
+        <para>
+          <num>(cc)</num>
+          <text>"Food Service Provider" means an entity primarily engaged in providing food services to institutional, governmental, commercial, or industrial locations of others based on contractual arrangements with these types of organizations.</text>
+        </para>
+        <para>
+          <num>(dd)</num>
+          <text>"Food-Soiled Paper" is compostable paper material that has come in contact with food or liquid, such as, but not limited to, compostable paper plates, paper coffee cups, napkins, pizza boxes, and milk cartons and should be placed in the green compost container with food scraps.</text>
+        </para>
+        <para>
+          <num>(ee)</num>
+          <text>"Food Waste" means Food Scraps, Food-Soiled Paper, and bio-plastics labeled "BPI Certified Compostable".</text>
+        </para>
+        <para>
+          <num>(ff)</num>
+          <text>"Green Container" has the same meaning as in 14 CCR Section 18982.2(a)(29) and shall be used for the purpose of storage and collection of Source Separated Green Container Organic Waste.</text>
+        </para>
+        <para>
+          <num>(gg)</num>
+          <text>"Greenhouse gas (GHG)" means carbon dioxide (CO2), methane (CH4), nitrous oxide (N20), sulfur hexafluoride (SF6), hydrofluorocarbons (HFC), perfluorocarbons (PFC) and other fluorinated greenhouse gases.</text>
+        </para>
+        <para>
+          <num>(hh)</num>
+          <text>"Greenhouse gas emission reduction" or "greenhouse gas reduction" means a calculated decrease in greenhouse gas emissions relative to a project baseline over a specified period of time, resulting from actions designed to achieve such a decrease.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>"Grocery Store" means a store primarily engaged in the retail sale of canned food; dry goods; fresh fruits and vegetables; fresh meats, fish, and poultry; and any area that is not separately owned within the store where the food is prepared and served, including a bakery, deli, and meat and seafood departments, or as otherwise defined in 14 CCR Section 18982(a)(30).</text>
+        </para>
+        <para>
+          <num>(jj)</num>
+          <text>"High Diversion Organic Waste Processing Facility" means a facility that is in compliance with the reporting requirements of 14 CCR Section 18815.5(d) and meets or exceeds an annual average Mixed Waste organic content Recovery rate of 50 percent between January 1, 2022 and December 31, 2024, and 75 percent after January 1, 2025, as calculated pursuant to 14 CCR Section 18815.5(e) for Organic Waste received from the "Mixed waste organic collection stream" as defined in 14 CCR Section 17402(a)(11.5); or, as otherwise defined in 14 CCR Section 18982(a)(33).</text>
+        </para>
+        <para>
+          <num>(kk)</num>
+          <text>"Inspection" means a site visit where the City or its designee, reviews records, containers, and an entity's collection, handling, recycling, or landfill disposal of Organic Waste or Edible Food handling to determine if the entity is complying with requirements set forth in this ordinance, or as otherwise defined in 14 CCR Section 18982(a)(35). "Inspection" for the purposes of Edible Food Recovery, means actions to review contracts and other records related to the recovery of edible food and may occur off-site via email and other forms of electronic communication, as well as the on-site review of an entity's records and collection, handling and other procedures for the recovery of edible food to determine if the entity is complying with the requirements of this ordinance.</text>
+        </para>
+        <para>
+          <num>(ll)</num>
+          <text>"Jurisdiction" is the entity responsible for ensuring solid waste, recycling and organics service is provided in accordance with SB 1383 guidelines. Jurisdiction may mean City, County, SBWMA, or other designee who is/are partially or wholly responsible for enforcing the ordinance</text>
+        </para>
+        <para>
+          <num>(mm)</num>
+          <text>"Jurisdiction Enforcement Official" means the city manager, city public works director, county administrative official, chief operating officer, executive director, or other executive in charge or their authorized Designee(s) who is/are partially or wholly responsible for enforcing the ordinance. See also "Designee for Edible Food Recovery."</text>
+        </para>
+        <para>
+          <num>(nn)</num>
+          <text>"Large Event" means an event, including, but not limited to, a sporting event or a flea market, that charges an admission price, or is operated by a local agency, and serves an average of more than 2,000 individuals per day of operation of the event, at a location that includes, but is not limited to, a public, nonprofit, or privately owned park, parking lot, golf course, street system, or other open space when being used for an event. If the definition in 14 CCR Section 18982(a)(38) differs from this definition, the definition in 14 CCR Section 18982(a)(38) shall apply to this ordinance.</text>
+        </para>
+        <para>
+          <num>(oo)</num>
+          <text>"Large Venue" means a permanent venue facility that annually seats or serves an average of more than 2,000 individuals within the grounds of the facility per day of operation of the venue facility. For purposes of this ordinance and implementation of 14 CCR, Division 7, Chapter 12, a venue facility includes, but is not limited to, a public, nonprofit, or privately owned or operated stadium, amphitheater, arena, hall, amusement park, conference or civic center, zoo, aquarium, airport, racetrack, horse track, performing arts center, fairground, museum, theater, or other public attraction facility. For purposes of this ordinance and implementation of 14 CCR, Division 7, Chapter 12, a site under common ownership or control that includes more than one Large Venue that is contiguous with other Large Venues in the site, is a single Large Venue. If the definition in 14 CCR Section 18982(a)(39) differs from this definition, the definition in 14 CCR Section 18982(a)(39) shall apply to this ordinance.</text>
+        </para>
+        <para>
+          <num>(pp)</num>
+          <text>"Local Education Agency" means a school district, charter school, or county office of education that is not subject to the control of city or county regulations related to Solid Waste, or as otherwise defined in 14 CCR Section 18982(a)(40).</text>
+        </para>
+        <para>
+          <num>(qq)</num>
+          <text>"Mixed Waste Organic Collection Stream" or "Mixed Waste" means Organic Waste collected in a black container that is required by 14 CCR Sections 18984.1, 18984.2 or 18984.3 to be taken to a High Diversion Organic Waste Processing Facility or as otherwise defined in 14 CCR Section 17402(a)(11.5). This definition is only applicable to select commercial and MF customers provided with a two container collection system. Three container collection system customers will use the black container waste definition instead.</text>
+        </para>
+        <para>
+          <num>(rr)</num>
+          <text>"Multi-Family Residential Dwelling" or "Multi-Family" means of, from, or pertaining to residential premises with five (5) or more dwelling units. Multi-Family premises do not include hotels, motels, or other transient occupancy facilities, which are considered Commercial Businesses. Under the SB 1383 Regulations and in this Ordinance, Multi-Family Residential Dwellings with five (5) or more units are included under the definition of a Commercial Business per 14 CCR Section 18982(a)(6).</text>
+        </para>
+        <para>
+          <num>(ss)</num>
+          <text>"Non-Compostable Paper" includes but is not limited to paper that is coated in a plastic material that will not breakdown in the composting process, or as otherwise defined in 14 CCR Section 18982(a)(41).</text>
+        </para>
+        <para>
+          <num>(tt)</num>
+          <text>"Non-Local Entity" means the following entities that are not subject to the Jurisdiction's enforcement authority, or as otherwise defined in 14 CCR Section 18982(a)(42):</text>
+          <para>
+            <num>(1)</num>
+            <text>Special district(s);</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Federal facilities, including military installations;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Facilities operated by the State park system;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Public universities (including community colleges);</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>County fairgrounds; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>State agencies.</text>
+          </para>
+        </para>
+        <para>
+          <num>(uu)</num>
+          <text>"Non-Organic Recyclables" means non-putrescible and non-hazardous recyclable wastes including but not limited to bottles, cans, metals, plastics and glass, or as otherwise defined in 14 CCR Section 18982(a)(43).</text>
+        </para>
+        <para>
+          <num>(vv)</num>
+          <text>"Notice of Violation (NOV)" means a notice that a violation has occurred that includes a compliance date to avoid an action to seek penalties, or as otherwise defined in 14 CCR Section 18982(a)(45) or further explained in 14 CCR Section 18995.4.</text>
+        </para>
+        <para>
+          <num>(ww)</num>
+          <text>"Organic Waste" means Solid Wastes containing material originated from living organisms and their metabolic waste products, including but not limited to food, green material, landscape and pruning waste, organic textiles and carpets, lumber, wood, Paper Products, Printing and Writing Paper, manure, biosolids, digestate, and sludges or as otherwise defined in 14 CCR Section 18982(a)(46). Biosolids and digestate are as defined by 14 CCR Section 18982(a).</text>
+        </para>
+        <para>
+          <num>(xx)</num>
+          <text>"Organic Waste Generator" means a person or entity that is responsible for the initial creation of Organic Waste, or as otherwise defined in 14 CCR Section 18982(a)(48).</text>
+        </para>
+        <para>
+          <num>(yy)</num>
+          <text>"Paper Products" include, but are not limited to, paper janitorial supplies, cartons, wrapping, packaging, file folders, hanging files, corrugated boxes, tissue, and toweling, or as otherwise defined in 14 CCR Section 18982(a)(51).</text>
+        </para>
+        <para>
+          <num>(zz)</num>
+          <text>"Printing and Writing Papers" include, but are not limited to, copy, xerographic, watermark, cotton fiber, offset, forms, computer printout paper, white wove envelopes, manila envelopes, book paper, note pads, writing tablets, newsprint, and other uncoated writing papers, posters, index cards, calendars, brochures, reports, magazines, and publications, or as otherwise defined in 14 CCR Section 18982(a)(54).</text>
+        </para>
+        <para>
+          <num>(aaa)</num>
+          <text>"Prohibited Container Contaminants"</text>
+          <para>
+            <num>(1)</num>
+            <text>For those generators provided with a three container collection system (blue, green and black): "Prohibited Container Contaminants" means the following: (i) discarded materials placed in the Blue Container that are not identified as acceptable Source Separated Recyclable Materials for the Jurisdiction's Blue Container; (ii) discarded materials placed in the Green Container that are not identified as acceptable Source Separated Green Container Organic Waste for the Jurisdiction's Green Container; (iii) discarded materials placed in the Black Container that are acceptable Source Separated Recyclable Materials and/or Source Separated Green Container Organic Wastes that belong in Jurisdiction's Green or Blue Container and (iv) Excluded Waste placed in any container.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For those (limited commercial and MF) generators provided with two-container (blue/black) collection service for Source Separated Recyclable Materials and mixed materials): "Prohibited Container Contaminants" means the following: (i) discarded materials placed in a Blue Container that are not identified as acceptable Source Separated Recyclable Materials for the Blue Container; (ii) discarded materials placed in the Black Container that are identified as acceptable Source Separated Recyclable Materials, which are to be separately collected in the Blue Container; and, (iii) Excluded Waste placed in any container.</text>
+          </para>
+        </para>
+        <para>
+          <num>(bbb)</num>
+          <text>"Recovered Organic Waste Products" means products made from California, landfill-diverted recovered Organic Waste processed in a permitted or otherwise authorized facility, or as otherwise defined in 14 CCR Section 18982(a)(60).</text>
+        </para>
+        <para>
+          <num>(ccc)</num>
+          <text>"Recovery" means any activity or process described in 14 CCR Section 18983.1(b), or as otherwise defined in 14 CCR Section 18982(a)(49).</text>
+        </para>
+        <para>
+          <num>(ddd)</num>
+          <text>"Recycled-Content Paper" means Paper Products and Printing and Writing Paper that consists of at least 30 percent, by fiber weight, postconsumer fiber, or as otherwise defined in 14 CCR Section 18982(a)(61).</text>
+        </para>
+        <para>
+          <num>(eee)</num>
+          <text>"Regional Agency" means the South Bayside Waste Management Authority (SBWMA) as a regional agency as defined in <cite doc="Cal. Pub. Res. Code" path="§40181">Public Resources Code Section 40181</cite>.</text>
+        </para>
+        <para>
+          <num>(fff)</num>
+          <text>"Remote Monitoring" means the use of the internet of things (IoT) and/or wireless electronic devices to visualize the contents of Blue Containers, Green Containers, and Black Containers for purposes of identifying the quantity of materials in containers (level of fill) and/or presence of Prohibited Container Contaminants.</text>
+        </para>
+        <para>
+          <num>(ggg)</num>
+          <text>"Renewable Gas" means gas derived from Organic Waste that has been diverted from a California landfill and processed at an in-vessel digestion facility that is permitted or otherwise authorized by 14 CCR to recycle Organic Waste, or as otherwise defined in 14 CCR Section 18982(a)(62).</text>
+        </para>
+        <para>
+          <num>(hhh)</num>
+          <text>"Restaurant" means an establishment primarily engaged in the retail sale of food and drinks for on-premises or immediate consumption, or as otherwise defined in 14 CCR Section 18982(a)(64).</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>"SB 1383" means Senate Bill 1383 of 2016 approved by the Governor on September 19, 2016, which added Sections 39730.5, 39730.6, 39730.7, and 39730.8 to the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>, and added Chapter 13.1 (commencing with Section 42652) to Part 3 of Division <cite doc="Cal. Pub. Res. Code" path="§30">30 of the Public Resources Code</cite>, establishing methane emissions reduction targets in a Statewide effort to reduce emissions of short-lived climate pollutants as amended, supplemented, superseded, and replaced from time to time.</text>
+        </para>
+        <para>
+          <num>(jjj)</num>
+          <text>"SB 1383 Eligible Mulch" means mulch eligible to meet the Annual Recovered Organic Waste Product Procurement Target, pursuant to 14 CCR Chapter 12 of Division 7. This SB 1383 Eligible Mulch shall meet the following conditions for the duration of the applicable procurement compliance year, as specified by 14 CCR Section 18993.1(f)(4):</text>
+          <para>
+            <num>(1)</num>
+            <text>Produced at one of the following facilities:</text>
+            <para>
+              <num>(A)</num>
+              <text>A compostable material handling operation or facility as defined in 14 CCR Section 17852(a)(12), that is permitted or authorized under 14 CCR Division 7, other than a chipping and grinding operation or facility as defined in 14 CCR Section 17852(a)(10).</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>A transfer/processing facility or transfer/processing operation as defined in 14 CCR Sections 17402(a)(30) and (31), respectively, that is permitted or authorized under 14 CCR Division 7; or,</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>A solid waste landfill as defined in <cite doc="Cal. Pub. Res. Code" path="§40195.1">Public Resources Code Section 40195.1</cite> that is permitted under 27 CCR Division 2.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Meet or exceed the physical contamination, maximum metal concentration, and pathogen density standards for land application specified in 14 CCR Sections 17852(a)(24.5)(A)1 through 3, as enforced with this ordinance.</text>
+          </para>
+        </para>
+        <para>
+          <num>(kkk)</num>
+          <text>"SB 1383 Regulations" or "SB 1383 Regulatory" means or refers to, for the purposes of this ordinance, the Short-Lived Climate Pollutants: Organic Waste Reduction regulations developed by CalRecycle and adopted in 2020 that created 14 CCR, Division 7, Chapter 12 and amended portions of regulations of 14 CCR and 27 CCR.</text>
+        </para>
+        <para>
+          <num>(lll)</num>
+          <text>"SBWMA" means the South Bayside Waste Management Authority, a regional agency, as defined in <cite doc="Cal. Pub. Res. Code" path="§40181">Public Resources Section 40181</cite>, serving its member agencies on recycling and waste issues.</text>
+        </para>
+        <para>
+          <num>(mmm)</num>
+          <text>"Self-Hauler" means a person, who hauls Solid Waste, Organic Waste or recyclable material he or she has generated to another person. Self-hauler also includes a person who back-hauls waste, or as otherwise defined in 14 CCR Section 18982(a)(66). Back-haul means generating and transporting Organic Waste to a destination owned and operated by the generator using the generator's own employees and equipment, or as otherwise defined in 14 CCR Section 18982(a)(66)(A). "Self-Hauler" for the purposes of Edible food recovery, means a commercial edible food generator who holds a contract with and hauls edible food to a Food Recovery Organization or other site for redistribution according to the requirements of this ordinance.</text>
+        </para>
+        <para>
+          <num>(nnn)</num>
+          <text>"Single-Family" means of, from, or pertaining to any residential premises with fewer than five (5) units.</text>
+        </para>
+        <para>
+          <num>(ooo)</num>
+          <text>"Solid Waste" has the same meaning as defined in State <cite doc="Cal. Pub. Res. Code" path="§40191">Public Resources Code Section 40191</cite>, which defines Solid Waste as all putrescible and nonputrescible solid, semisolid, and liquid wastes, including garbage, trash, refuse, paper, rubbish, ashes, industrial wastes, demolition and construction wastes, abandoned vehicles and parts thereof, discarded home and industrial appliances, dewatered, treated, or chemically fixed sewage sludge which is not hazardous waste, manure, vegetable or animal solid and semi-solid wastes, and other discarded solid and semisolid wastes, with the exception that Solid Waste does not include any of the following wastes:</text>
+          <para>
+            <num>(1)</num>
+            <text>Hazardous waste, as defined in the State <cite doc="Cal. Pub. Res. Code" path="§40141">Public Resources Code Section 40141</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Radioactive waste regulated pursuant to the State Radiation Control Law (Chapter 8 (commencing with Section 114960) of Part 9 of Division 104 of the State <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>).</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Medical waste regulated pursuant to the State Medical Waste Management Act (Part 14 (commencing with Section 117600) of Division 104 of the State <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>). Untreated medical waste shall not be disposed of in a Solid Waste landfill, as defined in State <cite doc="Cal. Pub. Res. Code" path="§40195.1">Public Resources Code Section 40195.1</cite>. Medical waste that has been treated and deemed to be Solid Waste shall be regulated pursuant to Division 30 of the State <cite doc="Cal. Pub. Res. Code">Public Resources Code</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(ppp)</num>
+          <text>"Source Separated" means materials, including commingled recyclable materials, that have been separated or kept separate from the Solid Waste stream, at the point of generation, for the purpose of additional sorting or processing those materials for recycling or reuse in order to return them to the economic mainstream in the form of raw material for new, reused, or reconstituted products, which meet the quality standards necessary to be used in the marketplace, or as otherwise defined in 14 CCR Section 17402.5(b)(4). For the purposes of the ordinance, Source Separated shall include separation of materials by the generator, property owner, property owner's employee, property manager, or property manager's employee into different containers for the purpose of collection such that Source Separated materials are separated from Black container Waste or other Solid Waste for the purposes of collection and processing.</text>
+        </para>
+        <para>
+          <num>(qqq)</num>
+          <text>"Source Separated Blue Container Organic Waste" means Source Separated Organic Wastes that can be placed in a Blue Container including clean paper and cardboard.</text>
+        </para>
+        <para>
+          <num>(rrr)</num>
+          <text>"Source Separated Green Container Organic Waste" means Source Separated Organic Waste that can be placed in a Green Container that is specifically intended for the separate collection of Organic Waste, excluding Source Separated Blue Container Organic Waste, carpets, Non-Compostable Paper, and textiles. Acceptable materials include food scraps, food soiled paper, plants and bio-plastics labeled BPI Certified Compostable.</text>
+        </para>
+        <para>
+          <num>(sss)</num>
+          <text>"Source Separated Recyclable Materials" means Source Separated Non-Organic Recyclables and Source Separated Blue Container Organic Waste and includes clean paper and cardboard, glass bottles, cans and plastic bottles, tubs and containers.</text>
+        </para>
+        <para>
+          <num>(ttt)</num>
+          <text>"State" means the State of California.</text>
+        </para>
+        <para>
+          <num>(uuu)</num>
+          <text>"Supermarket" means a full-line, self-service retail store with gross annual sales of two million dollars ($2,000,000), or more, and which sells a line of dry grocery, canned goods, or nonfood items and some perishable items, or as otherwise defined in 14 CCR Section 18982(a)(71).</text>
+        </para>
+        <para>
+          <num>(vvv)</num>
+          <text>"Tier One Commercial Edible Food Generator" means a Commercial Edible Food Generator that is one of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Supermarket.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Grocery Store with a total facility size equal to or greater than 10,000 square feet.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Food Service Provider.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Food Distributor.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Wholesale Food Vendor.</text>
+            <text>If the definition in 14 CCR Section 18982(a)(73) of Tier One Commercial Edible Food Generator differs from this definition, the definition in 14 CCR Section 18982(a)(73) shall apply to this ordinance.</text>
+          </para>
+        </para>
+        <para>
+          <num>(www)</num>
+          <text>"Tier Two Commercial Edible Food Generator" means a Commercial Edible Food Generator that is one of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Restaurant with 250 or more seats, or a total facility size equal to or greater than 5,000 square feet.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Hotel with an on-site Food Facility and 200 or more rooms.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Health facility with an on-site Food Facility and 100 or more beds.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Large Venue.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Large Event.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>A State agency with a cafeteria with 250 or more seats or total cafeteria facility size equal to or greater than 5,000 square feet.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>A Local Education Agency facility with an on-site Food Facility.</text>
+            <text>If the definition in 14 CCR Section 18982(a)(74) of Tier Two Commercial Edible Food Generator differs from this definition, the definition in 14 CCR Section 18982(a)(74) shall apply to this ordinance.</text>
+          </para>
+        </para>
+        <para>
+          <num>(xxx)</num>
+          <text>"Wholesale Food Vendor" means a business or establishment engaged in the merchant wholesale distribution of food, where food (including fruits and vegetables) is received, shipped, stored, prepared for distribution to a retailer, warehouse, distributor, or other destination, or as otherwise defined in 14 CCR Section 189852(a)(76).</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.040</num>
+        <heading>Requirements for Single-Family Generators</heading>
+        <text>Single-Family Organic Waste Generators shall comply with the following requirements. In addition to these requirements, Single-Family generators may also self-haul pursuant to the Self-Hauler requirements in <cite doc="City of San Mateo, Cal., Code" path="7.35.100">Section 7.35.100</cite> of <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite>.</text>
+        <para>
+          <num>(a)</num>
+          <text>Shall subscribe to the City's authorized Organic Waste collection services for all Organic Waste generated as described in this Section. The City, or its Designee, shall have the right to review the number and size of a generator's containers to evaluate adequacy of capacity provided for each type of collection service for proper separation of materials and containment of materials; and, Single-Family generators shall adjust its service level for its collection services as requested by the City, or its Designee. Generators may additionally manage their Organic Waste by preventing or reducing their Organic Waste, managing Organic Waste on site, and/or using a Community Composting site pursuant to 14 CCR Section 18984.9(c).</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Shall participate in the City's authorized three container Organic Waste collection service(s) by placing designated materials in designated containers as described below, and shall not place Prohibited Container Contaminants in collection containers.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Shall place Source Separated Green Container Organic Waste, including Food Waste, in the Green Container; Source Separated Blue Container Organic Waste and Recyclable Materials in the Blue Container; and Black Container Waste in the Black Container. Generators shall not place materials designated for the Black Container into the Green Container or Blue Container.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.050</num>
+        <heading>Requirements for Commercial Businesses</heading>
+        <text>Generators that are Commercial Businesses, including Multi-Family Residential Dwellings, shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Subscribe to the City's authorized three container collection services and comply with requirements of those services as described below in <cite doc="City of San Mateo, Cal., Code" path="7.35.050|(b)">Section 7.35.050(b)</cite>. In addition to these requirements, Commercial Businesses may also self-haul provided they meet the Self-Hauler requirements in <cite doc="City of San Mateo, Cal., Code" path="7.35.100">Section 7.35.100</cite> of this ordinance. The City, or its Designee, shall have the right to review the number and size of a generator's containers and frequency of collection to evaluate adequacy of capacity provided for each type of collection service for proper separation of materials and containment of materials; and, Commercial Businesses shall adjust their service level for their collection services as requested by the City, or its Designee, or as otherwise required.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Participate in the City's Organic Waste collection service(s) by placing designated materials in designated containers as described below. Commercial businesses may also self-haul as a supplement to required collection services provided that they meet the self-hauler requirements in <cite doc="City of San Mateo, Cal., Code" path="7.35.100">Section 7.35.100</cite> of this ordinance.</text>
+          <para>
+            <num>(1)</num>
+            <text>Generator shall place Source Separated Green Container Organic Waste, including Food Waste, in the Green Container; Source Separated Blue Container Organic Waste and Source Separated Recyclable Materials in the Blue Container; and Black Container Waste in the Black Container. Generator shall not place materials designated for the Black Container into the Green Container or Blue Container.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Generators that are offered two container service  shall place only Source Separated Blue Container Organic Waste and Source Separated Recyclable Materials in a Blue Container and all other materials (mixed waste) in a Black Container. Two container service will be limited to a specified number of commercial and MF generators on an invitation only basis, based on waste quantities and type, and availability of new organics to energy processing system.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Supply and allow access to an adequate number, size and location of collection containers with sufficient labels or colors (conforming with Sections 5(d)(1) and 5(d)(2) below) for employees, contractors, tenants, and customers, consistent with the City's authorized Blue Container, Green Container, and Black Container collection service or, if self-hauling, per the Commercial Businesses' instructions to support its compliance with its self-haul program, as a supplement, in accordance with <cite doc="City of San Mateo, Cal., Code" path="7.35.100">Chapter 7.35.100</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Excluding Multi-Family Residential Dwellings, provide containers for the collection of Source Separated Green Container Organic Waste and Source Separated Recyclable Materials in all indoor and outdoor areas where disposal containers are provided for customers, for materials generated by that business. Such containers do not need to be provided in restrooms. If a Commercial Business does not generate any of the materials that would be collected in one type of container, then the business does not have to provide that particular container in all areas where disposal containers are provided for customers. Pursuant to 14 CCR Section 18984.9(b), the containers provided by the business shall have either:</text>
+          <para>
+            <num>(1)</num>
+            <text>A body or lid that conforms with the container colors provided through the collection service provided by the City's authorized refuse collector, with either lids conforming to the color requirements or bodies conforming to the color requirements or both lids and bodies conforming to color requirements. A Commercial Business is not required to replace functional containers, including containers purchased prior to January 1, 2022, that do not comply with the requirements of the subsection prior to the end of the useful life of those containers, or prior to January 1, 2036, whichever comes first.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Container labels that include language or graphic images, or both, indicating the primary material accepted and the primary materials prohibited in that container, or containers with imprinted text or graphic images that indicate the primary materials accepted and primary materials prohibited in the container. Pursuant 14 CCR Section 18984.8, the container labeling requirements are required on new containers commencing January 1, 2022.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Multi-Family Residential Dwellings are not required to comply with container placement requirements or labeling requirement in <cite doc="City of San Mateo, Cal., Code" path="7.35.050|(d)">Section 7.35.050(d)</cite> pursuant to 14 CCR Section 18984.9(b).</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>To the extent practical through education, training, Inspection, and/or other measures, excluding Multi-Family Residential Dwellings, prohibit employees from placing materials in a container not designated for those materials per the City's authorized Blue Container, Green Container, and Black Container collection service or, if self-hauling, per the Commercial Businesses' instructions to support its compliance with its self-haul program, in accordance with <cite doc="City of San Mateo, Cal., Code" path="7.35.100">Section 7.35.100</cite>.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Excluding Multi-Family Residential Dwellings, at a minimum, annually inspect Blue Containers, Green Containers, and Black Containers for contamination and inform employees if containers are contaminated and of the requirements to keep contaminants out of those containers pursuant to 14 CCR Section 18984.9(b)(3).</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Annually provide information to employees, contractors, tenants, and customers about Organic Waste Recovery requirements and about proper sorting of Source Separated Green Container Organic Waste and Source Separated Recyclable Materials.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Provide education information before or within fourteen (14) days of occupation of the premises to new tenants that describes requirements to keep Source Separated Green Container Organic Waste and Source Separated Recyclable Materials separate from Black Container Waste (when applicable) and the location of containers and the rules governing their use at each property.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Provide or arrange access for the City, its agent, or its Designee to their properties during all Inspections conducted in accordance with <cite doc="City of San Mateo, Cal., Code" path="7.35.120">Section 7.35.120</cite> to confirm compliance with the requirements of <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Accommodate and cooperate with the City's or its Designee's Remote Monitoring program for Inspection of the contents of containers for Prohibited Container Contaminants, which may be implemented at a later date, to evaluate generator's compliance with <cite doc="City of San Mateo, Cal., Code" path="7.35.050|(b)">Section 7.35.050(b)</cite>. Should a remote monitoring program be required by the City, it shall involve installation of Remote Monitoring equipment on or in the Blue Containers, Green Containers, and Black Containers.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>At Commercial Business's option and subject to any approval required from the City or its Designee, implement a Remote Monitoring program for Inspection of the contents of its Blue Containers, Green Containers, and Black Containers for the purpose of monitoring the contents of containers to determine appropriate levels of service and to identify Prohibited Container Contaminants. Generators may install Remote Monitoring devices on or in the Blue Containers, Green Containers, and Black Containers subject to written notification to or approval by the City or its Designee.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>If a Commercial Business wants to perform supplemental self hauling, meet the Self-Hauler requirements in <cite doc="City of San Mateo, Cal., Code" path="7.35.100">Chapter 7.35.100</cite>.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Nothing in this Section prohibits a generator from preventing or reducing waste generation, managing Organic Waste on site, or using a Community Composting site pursuant to 14 CCR Section 18984.9(c).</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Commercial Businesses that are Tier One or Tier Two Commercial Edible Food Generators shall comply with Edible Food Recovery requirements, pursuant to the Edible Food Recovery provisions of <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite>.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.060</num>
+        <heading>Waivers for Generators</heading>
+        <para>
+          <num>(a)</num>
+          <text>De Minimis Waivers: The City, or its Designee, may waive a Commercial Business' obligation (including Multi-Family Residential Dwellings) to comply with some or all of the Organic Waste requirements of this ordinance if the Commercial Business provides documentation that the business generates below a certain amount of Organic Waste material as described in subsection (a)(2) below. Commercial Businesses requesting a de minimis waiver shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>Submit an application specifying the services that they are requesting a waiver from and provide documentation as noted below in (2) (A) or (B).</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Provide documentation that either:</text>
+            <para>
+              <num>(A)</num>
+              <text>The Commercial Business' total Solid Waste collection service is two cubic yards or more per week and Organic Waste subject to collection in the Green Container comprises less than 20 gallons per week per applicable container of the business' total waste; or,</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The Commercial Business' total Solid Waste collection service is less than two cubic yards per week and Organic Waste subject to collection in the Green Container comprises less than 10 gallons per week per applicable container of the business' total waste.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Notify the City, and its Designee, if circumstances change such that Commercial Business's Organic Waste exceeds threshold required for waiver, in which case waiver will be rescinded.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Provide written verification of eligibility for de minimis waiver every 5 years, if the City or its Designee has approved de minimis waiver.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Physical Space Waivers. The City or its Designee may waive a Commercial Business' or property owner's obligations (including Multi-Family Residential Dwellings) to comply with some or all of the recyclable materials and/or Organic Waste collection service requirements if the City or its Designee has evidence from its own staff, a hauler, licensed architect, or licensed engineer demonstrating that the premises lacks adequate space for the collection containers required for compliance with the Organic Waste collection requirements of <cite doc="City of San Mateo, Cal., Code" path="7.35.050">Section 7.35.050</cite>.</text>
+          <text>A Commercial Business or property owner may request a physical space waiver through the following process:</text>
+          <para>
+            <num>(1)</num>
+            <text>Submit an application form specifying the type(s) of collection services for which they are requesting a compliance waiver.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Provide documentation that the premises lacks adequate space for Blue Containers and/or Green Containers including documentation from knowledgeable professional(s) such as an authorized hauler, licensed architect, or licensed engineer.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Provide written verification to the City or its Designee that it is still eligible for physical space waiver every five years, if the City or its Designee has approved application for a physical space waiver.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.070</num>
+        <heading>Requirements for Tier-One and Tier-Two Commercial Edible Food Generators</heading>
+        <para>
+          <num>(a)</num>
+          <text>Tier One Commercial Edible Food Generators must comply with the requirements of this Section commencing January 1, 2022, and Tier Two Commercial Edible Food Generators must comply commencing January 1, 2024, pursuant to 14 CCR Section 18991.3.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Large Venue or Large Event operators not providing food services, but allowing for food to be provided by others, shall require Food Facilities operating at the Large Venue or Large Event to comply with the requirements of <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite> commencing January 1, 2024.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Tier One and Tier Two Commercial Edible Food Generators shall comply with the following requirements.</text>
+          <para>
+            <num>(1)</num>
+            <text>Recover the maximum amount of Edible Food that would otherwise be disposed.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Use the CalRecycle Model Food Recovery Agreement or the contractual elements contained in the Requirements for Food Recovery Organizations and Food Recovery Services section of this Ordinance to contract with, or otherwise enter into a written agreement with Food Recovery Organizations or Food Recovery Services for the following:</text>
+            <para>
+              <num>(A)</num>
+              <text>The collection of Edible Food for Edible Food Recovery from the Tier One or Tier Two Commercial Edible Food Generator's premises; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The acceptance of Edible Food that the Tier One or Tier Two Commercial Edible Food Generator self-hauls to the Food Recovery Organization.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Contract with Food Recovery Organizations and Food Recovery Services able to demonstrate a positive reduction in greenhouse gas emissions from their Edible Food Recovery activity. A list of Food Recovery Organizations and Food Recovery Services is available on the County of San Mateo Office of Sustainability website.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Shall not intentionally spoil Edible Food that is capable of being recovered by a Food Recovery Organization or a Food Recovery Service.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Allow the City's enforcement entity or their Designee for Edible Food Recovery to access the premises and inspect procedures and review records related to Edible Food Recovery and/or provide them electronically if requested by the City or the Designee for Edible Food Recovery.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Keep records that include the following information:</text>
+            <para>
+              <num>(A)</num>
+              <text>A list of each Food Recovery Organization or a Food Recovery Service that collects or receives Edible Food from the Tier One or Tier Two Commercial Edible Food Generator pursuant to a contract or written agreement as required by this Ordinance.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>A copy of all contracts or written agreements established under the provisions of this Ordinance.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>A record of the following information for each of those Food Recovery Services or Food Recovery Organizations:</text>
+              <para>
+                <num>(i)</num>
+                <text>The name, address and contact information of the Food Recovery Service or Food Recovery Organization.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>The types of food that will be collected by or self-hauled to the Food Recovery Service or Food Recovery Organization.</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>The established schedule or frequency that food will be collected or self-hauled.</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>The quantity of food, measured in pounds recovered per month, collected or self-hauled to a Food Recovery Service or Food Recovery Organization for Food Recovery.</text>
+              </para>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Or any other information required by the City or its Designee.</text>
+            </para>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>No later than June 30th of each year commencing no later than July 1, 2022 for Tier One Commercial Edible Food Generators and July 1, 2024 for Tier Two Commercial Edible Food Generators, they shall provide an annual Edible Food Recovery report to the Designee for Edible Food Recovery that includes, but is not limited to, the following information: a list of all contracts with Food Recovery Organizations and Food Recovery Services, the amount and type of Edible Food donated to Food Recovery Organizations and Food Recovery Services, the schedule of Edible Food pickup by Food Recovery Organizations and Food Recovery Services, a list of all types of Edible Food categories they generate, such as "baked goods," that are not accepted by the Food Recovery Organizations and Food Recovery Services with whom they contract, the contact information for the manager and all staff responsible for Edible Food Recovery, and certification that all staff responsible for Edible Food Recovery have obtained a food handler card through an American National Standards Institute (ANSI) accredited training provider that meets ASTM International E2659-09 Standard Practice for Certificate Programs, such as ServSafe. With the exception of the food safety and handling training certification, Tier One and Tier Two Commercial Edible Food Generators may coordinate with their Edible Food Recovery contractors to supply this information. The Designee for Edible Food Recovery will assist in the preparation of these reports by providing guidance and a template located on the County of San Mateo Office of Sustainability website.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Mandate their Edible Food Recovery staff learn and follow the donation guidelines and attend trainings conducted by Food Recovery Organizations or Food Recovery Services with which they contract regarding best practices and requirements for the timely identification, selection, preparation, and storage of Edible Food to ensure the maximum amount of Edible Food is recovered and to avoid supplying food for collection that is moldy, has been improperly stored, or is otherwise unfit for human consumption.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Tier One and Tier Two Commercial Edible Food Generators who self-haul Edible Food shall require those transporting Edible Food for recovery to obtain a food handler card through an American National Standards Institute (ANSI) accredited training provider that meets ASTM International E2659-09 Standard Practice for Certificate Programs, such as ServSafe and follow the best practices and standards for proper temperature control, methods, and procedures for the safe handling and transport of food.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Nothing in this Ordinance shall be construed to limit or conflict with the protections provided by the California Good Samaritan Food Donation Act of 2017, the Federal Good Samaritan Act, or share table and school food donation guidance pursuant to Senate Bill 557 of 2017 (approved by the Governor of the State of California on September 25, 2017, which added Article 13 [commencing with Section 49580] to Chapter 9 of Part 27 of Division 4 of <cite doc="Cal. Educ. Code" path="§2">Title 2 of the Education Code</cite>, and to amend <cite doc="Cal. Health &amp; Safety Code" path="§114079">Section 114079 of the Health and Safety Code</cite>, relating to food safety, as amended, supplemented, superseded and replaced from time to time).</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.080</num>
+        <heading>Requirements for Food Recovery Organizations and Services</heading>
+        <para>
+          <num>(a)</num>
+          <text>Food Recovery Services operating in the City and collecting or receiving Edible Food directly from Tier One and/or Tier Two Commercial Edible Food Generators via a contract or written agreement established under the requirements of this Ordinance, shall maintain the following records:</text>
+          <para>
+            <num>(1)</num>
+            <text>The name, address, and contact information for each Tier One and Tier Two Commercial Edible Food Generator from which the service collects Edible Food.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The quantity in pounds of Edible Food by type collected from each Tier One and Tier Two Commercial Edible Food Generator per month.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The quantity in pounds of Edible Food by type transported to each Food Recovery Organization or redistribution site per month.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The name, address, and contact information for each Food Recovery Organization or redistribution site that the Food Recovery Service transports Edible Food to for Edible Food Recovery.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Or any other information required by the City, its Designee, or other agency responsible for compliance with <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Food Recovery Organizations operating in the City and collecting or receiving Edible Food directly from Tier One and/or Tier Two Commercial Edible Food Generators via a contract or written agreement established under the requirements of this Ordinance, or receiving Edible Food from Food Recovery Services or from other Food Recovery Organizations, shall maintain the following records:</text>
+          <para>
+            <num>(1)</num>
+            <text>The name, address, and contact information for each Tier One and Tier Two Commercial Edible Food Generator, Food Recovery Service, or other Food Recovery Organization from which the organization collects or receives Edible Food.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The quantity in pounds of Edible Food by type collected or received from each Tier One or Tier Two Commercial Edible Food Generator, Food Recovery Service, or other Food Recovery Organization per month.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The name, address, and contact information for other Food Recovery Organizations or redistribution sites that the Food Recovery Organization transports Edible Food to for Edible Food Recovery.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Or any other information required by the City, its Designee, or other agency responsible for compliance with <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Food Recovery Organizations and Food Recovery Services operating in the City shall inform Tier One and Tier Two Commercial Edible Food Generators from which they collect or receive Edible Food about California and Federal Good Samaritan Food Donation Act protection in written communications, such as in their contract or agreement established as required by this Ordinance.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Commencing no later than July 1, 2022, Food Recovery Organizations and Food Recovery Services operating in the City and collecting or receiving Edible Food from Tier One and Tier Two Commercial Edible Food Generators or any other source shall report to the Designee for Edible Food Recovery the following: a detailed Edible Food activity report of the information collected as required under this Ordinance, including weight in pounds by type and source of Edible Food, the schedule/frequency of pickups/drop-offs of Edible Food from/to each Edible Food source or redistribution site, brief analysis of any necessary process improvements or additional infrastructure needed to support Edible Food Recovery efforts, such as training, staffing, refrigeration, vehicles, etc., and an up to date list of Tier One and Tier Two Commercial Edible Food Generators with whom they have contracts or agreements established as required under this Ordinance. The Designee for Edible Food Recovery will assist in the preparation of these reports by providing guidance and a template located on the County of San Mateo Office of Sustainability website. This Edible Food activity report shall be submitted quarterly, or at the discretion of the Designee for Edible Food Recovery, less frequently, and shall cover the activity that occurred since the period of the last submission.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Food Recovery Organizations and Food Recovery Services operating in the City shall contact the Designee for Edible Food Recovery to discuss the requirements of this Ordinance before establishing new contracts or agreements with Tier One or Tier Two Commercial Edible Food Generators and in order to maintain existing contracts or agreements for the recovery of Edible Food with Tier One and Tier Two Commercial Edible Food Generators.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>In order to provide the required records to the State, the City, or the Designee for Edible Food Recovery, and Tier One or Tier Two Commercial Edible Food Generators, contracts between Food Recovery Organizations and Food Recovery Services operating in the City and Tier One and Tier Two Commercial Edible Food Generators shall either:</text>
+          <para>
+            <num>(1)</num>
+            <text>Use the Model Food Recovery Agreement developed by the State of California's Department of Resources Recycling and Recovery (CalRecycle,) and include a clause requiring the Food Recovery Organization or Food Recovery Service to report to the Tier One and Tier Two Commercial Edible Food Generators with whom they have contracts the annual amount of Edible Food recovered and to inform them of the tax benefits available to those who donate Edible Food to non-profits</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Or include in their contracts the following elements:</text>
+            <para>
+              <num>(A)</num>
+              <text>List/description of allowable foods the Food Recovery Organization/Food Recovery Service will receive.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>List/description of foods not accepted by the Food Recovery Organization/Food Recovery Service.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Conditions for refusal of food.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Food safety requirements, training, and protocols.</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Transportation and storage requirements and training.</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>A protocol for informing the Tier One or Tier Two Commercial Edible Food Generators of a missed or delayed pickup.</text>
+            </para>
+            <para>
+              <num>(G)</num>
+              <text>Notice that donation dumping is prohibited.</text>
+            </para>
+            <para>
+              <num>(H)</num>
+              <text>Provisions to collect sufficient information to meet the record-keeping requirements of this Ordinance.</text>
+            </para>
+            <para>
+              <num>(I)</num>
+              <text>Fees/financial contributions/acknowledgement of terms for the pickup and redistribution of Edible Food.</text>
+            </para>
+            <para>
+              <num>(J)</num>
+              <text>Terms and conditions consistent with the CalRecycle Model Food Recovery Agreement.</text>
+            </para>
+            <para>
+              <num>(K)</num>
+              <text>Information supplying the Tier One or Tier Two Commercial Edible Food Generators with the annual amount of Edible Food recovered and informing them of the tax benefits that may be available to those who donate Edible Food to non-profits.</text>
+            </para>
+            <para>
+              <num>(L)</num>
+              <text>Contact name, address, phone number, and email for both responsible parties, including the current on-site staff responsible for Edible Food Recovery.</text>
+            </para>
+            <para>
+              <num>(M)</num>
+              <text>Food Recovery Organizations accepting self-hauling of Edible Food from Tier One and Tier Two Commercial Edible Food Generators must provide a schedule, including days of the week and acceptable times for drop-offs, and information about any limitation on the amount of food accepted, and/or the packaging requirements or other conditions of transport, such as, but not limited to, maintaining proper temperature control, and other requirements for the safe handling and transport of food, the self-hauler must follow for the Edible Food to be accepted.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Food Recovery Organizations and Food Recovery Services operating in the City shall demonstrate that all persons, including volunteers and contracted workers using their own vehicle, involved in the handling or transport of Edible Food, have obtained a food handler card through an American National Standards Institute (ANSI) accredited training provider that meets ASTM International E2659-09 Standard Practice for Certificate Programs, such as ServSafe.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Food Recovery Organizations and Food Recovery Services operating in the City shall use the appropriate temperature control equipment and methods and maintain the required temperatures for the safe handling of Edible Food recovered from Tier One and Tier Two Commercial Edible Food Generators for the duration of the transportation of the Edible Food for redistribution, including Edible Food transported by private vehicles.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>In order to ensure recovered Edible Food is eaten and to prevent donation dumping, Food Recovery Organizations and Food Recovery Services operating in the City shall provide documentation that all redistribution sites which are not themselves Food Recovery Organizations to which they deliver Edible Food have a feeding or redistribution program in place to distribute, within a reasonable time, all the Edible Food they receive. Such documentation may include a website address which explains the program or pamphlets/brochures prepared by the redistribution site.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Food Recovery Organizations and Food Recovery Services operating in the City unable to demonstrate a positive reduction in GHG emissions for their Edible Food Recovery operational model cannot contract with Tier One and Tier Two Commercial Edible Food Generators in the City for the purpose of recovering Edible Food as defined in this Ordinance. Food Recovery Organizations and Food Recovery Services contracting to recover Edible Food from a Tier One and Tier Two Commercial Edible Food Generator for redistribution shall consult with the City's Designee for Edible Food Recovery to document that their overall operational model will achieve a greenhouse gas emissions reduction. Such review may analyze route review, miles traveled for pick-up and redistribution, amount of food rescued, and the likelihood of consumption after redistribution.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Food Recovery Organizations and Food Recovery Services operating in the City shall visually inspect all Edible Food recovered or received from a Tier One and Tier Two Commercial Edible Food Generator. If significant spoilage is found, or if the food is otherwise found to be unfit for redistribution for human consumption, Food Recovery Organizations and Food Recovery Services shall immediately notify the Designee for Edible Food Recovery using the process found on the County of San Mateo Office of Sustainability's website. The notice shall include:</text>
+          <para>
+            <num>(1)</num>
+            <text>The type and amount, in pounds, of spoiled food or food unfit for redistribution for human consumption, or provide a photographic record of the food, or both.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The date and time such food was identified.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The name, address and contact information for the Tier One or Tier Two Commercial Edible Food Generator which provided the food.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The date and time the food was picked up or received.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>A brief explanation of why the food was rejected or refused.</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Contracts between Tier One or Tier Two Commercial Edible Food Generators and Food Recovery Organizations or Food Recovery Services shall not include any language prohibiting Tier One or Tier Two Commercial Edible Food Generators from contracting or holding agreements with multiple Food Recovery Organizations or Food Recovery Services listed on the County of San Mateo Office of Sustainability website.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Food Recovery Organizations and Food Recovery Services operating in the City shall conduct trainings and develop educational material such as donation guidelines and handouts to provide instruction and direction to Tier One and Tier Two Commercial Edible Food Generators with whom they contract regarding best practices and requirements for the timely identification, selection, preparation, and storage of Edible Food to ensure the maximum amount of Edible Food is recovered and to avoid the collection of food that is moldy, has been improperly stored, or is otherwise unfit for human consumption.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Edible Food Recovery Capacity Planning</text>
+          <para>
+            <num>(1)</num>
+            <text>Food Recovery Services and Food Recovery Organizations. In order to support Edible Food Recovery capacity planning assessments or other such studies, Food Recovery Services and Food Recovery Organizations operating in the Jurisdiction shall provide information and consultation to the Jurisdiction and its Designee for Edible Food Recovery upon request, regarding existing, or proposed new or expanded, Edible Food Recovery capacity that could be accessed by the Jurisdiction and its Tier One and Tier Two Commercial Edible Food Generators. A Food Recovery Service or Food Recovery Organization contacted by the City or its Designee for Edible Food Recovery shall respond to such requests for information within 60 days.</text>
+          </para>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Allow the City's enforcement entity or their Designee for Edible Food Recovery to access the premises and inspect procedures and review records related to Edible Food Recovery and/or provide them electronically if requested by the City or its Designee for Edible Food Recovery.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.090</num>
+        <heading>Requirements for Haulers and Facility Operators</heading>
+        <para>
+          <num>(a)</num>
+          <text>Requirements for Haulers</text>
+          <para>
+            <num>(1)</num>
+            <text>Exclusive Franchised hauler and other appropriately licensed and permitted haulers providing residential, Commercial, or industrial Organic Waste collection services to generators within the City's boundaries shall meet the following requirements and standards as a condition of approval of a contract, agreement, or other authorization with the City to collect Organic Waste:</text>
+            <para>
+              <num>(A)</num>
+              <text>Through written notice to the City annually on or before January 31, identify, for customers with three container collection, the facilities to which they will transport Organic Waste including facilities for Source Separated Recyclable Materials and Source Separated Green Container Organic Wastes and black container waste.</text>
+              <text>Through written notice to the City annually on or before January 31, identify, for customers with two container collection system, the facilities to which they will transport Source Separated Recyclable Materials and black container waste.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>For customers with three container collection, transport Source Separated Blue Container Waste to a facility that recovers those materials and Source Separated Green Container Organic Waste to a facility, operation, activity, or property that recovers Organic Waste as defined in 14 CCR, Division 7, Chapter 12, Article 2.</text>
+              <text>For customers with two container collection, transport Source Separated Blue Container Waste to a facility that recovers those materials and black container waste to a high diversion organic waste processing facility.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Obtain approval from the City to haul Organic Waste, unless it is transporting Source Separated Organic Waste to a Community Composting site or lawfully transporting C&amp;D in a manner that complies with 14 CCR Section 18989.1, Section 11 of this ordinance, and the City's C&amp;D ordinance and/or regulations.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Franchised hauler and any permitted or licensed hauler with authorization to collect Organic Waste shall comply with education, equipment, signage, container labeling, container color, contamination monitoring, reporting, and other requirements contained within its franchise agreement, permit, license, or other agreement entered into with Jurisdiction.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Requirements for Facility Operators and Community Composting Operation</text>
+          <para>
+            <num>(1)</num>
+            <text>Owners of facilities, operations, and activities that recover Organic Waste, including, but not limited to, Compost facilities, in-vessel digestion facilities, and publicly-owned treatment works shall, upon request from the City or its Designee, provide information regarding available and potential new or expanded capacity at their facilities, operations, and activities, including information about throughput and permitted capacity necessary for planning purposes. Entities contacted by the City or its Designee shall respond within 60 days.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Community Composting operators, upon request from the City or its Designee, shall provide information to support Organic Waste capacity planning, including, but not limited to, an estimate of the amount of Organic Waste anticipated to be handled at the Community Composting operation. Entities contacted by the City or its Designee shall respond within 60 days.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.100</num>
+        <heading>Self-Hauler Requirements</heading>
+        <para>
+          <num>(a)</num>
+          <text>Pursuant to <cite doc="City of San Mateo, Cal., Code" path="7.32">Chapter 7.32</cite>, owner(s) of residential or non-residential property generating waste shall be responsible for the collection and removal of all solid waste from that property and shall be required to contract with the refuse collector(s) authorized by City for collection and removal. Owner(s), in addition to a contract with City-authorized refuse collectors, may self-haul in compliance with <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Self-Haulers shall source separate all recyclable materials and Organic Waste (materials that the City or its Designee otherwise requires generators to separate for collection in the City's organics and recycling collection program) generated on-site from Solid Waste in a manner consistent with 14 CCR Sections 18984.1 and 18984.2, or shall haul Organic Waste to a High Diversion Organic Waste Processing Facility as specified in 14 CCR Section 18984.3.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Self-Haulers shall haul their Source Separated Recyclable Materials to a facility that recovers those materials; and haul their Source Separated Green Container Organic Waste to a Solid Waste facility, operation, activity, or property that processes or recovers Source Separated Organic Waste. Alternatively, Self-Haulers may haul Organic Waste to a High Diversion Organic Waste Processing Facility.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Self-Haulers that are Commercial Businesses (including Multi-Family Residential Dwellings) shall keep a record of the amount of Organic Waste delivered to each Solid Waste facility, operation, activity, or property that processes or recovers Organic Waste; this record shall be subject to Inspection by the City or its Designee. The records shall include the following information:</text>
+          <para>
+            <num>(1)</num>
+            <text>Delivery receipts and weight tickets from the entity accepting the waste.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The amount of material in cubic yards or tons transported by the generator to each entity.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If the material is transported to an entity that does not have scales on-site, or employs scales incapable of weighing the Self-Hauler's vehicle in a manner that allows it to determine the weight of materials received, the Self-Hauler is not required to record the weight of material but shall keep a record of the entities that received the Organic Waste.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Self-Haulers that are Commercial Businesses (including Multi-Family Self-Haulers) shall provide information collected in <cite doc="City of San Mateo, Cal., Code" path="7.35.100|(c)">Section 7.35.100(c)</cite> to the City or its Designee upon request.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>A residential Organic Waste Generator that self hauls Organic Waste is not required to record or report information in Sections <cite doc="City of San Mateo, Cal., Code" path="7.35.100|(c)">7.35.100(c)</cite> and (d).</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.110</num>
+        <heading>Compliance with CALGreen Recycling Requirements</heading>
+        <para>
+          <num>(a)</num>
+          <text>Persons applying for a permit from the City for new construction and building additions and alternations shall comply with the requirements of this Section and all required components of the California Green Building Standards Code, 24 CCR, Part 11, known as CALGreen, as amended, if its project is covered by the scope of CALGreen. If the requirements of CALGreen are more stringent then the requirements of this Section, the CALGreen requirements shall apply. Project applicants shall refer to <cite doc="City of San Mateo, Cal., Code" path="23.70">Chapter 23.70</cite> for complete CALGreen requirements.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For projects covered by CALGreen, the applicants must, as a condition of the City's permit approval, comply with the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Where five (5) or more Multi-Family dwelling units are constructed on a building site, provide readily accessible areas that serve occupants of all buildings on the site and are identified for the storage and collection of Blue Container, Green Container and black container materials, consistent with the City's authorized three container collection program, or comply with provision of adequate space for recycling for Multi-Family and Commercial premises pursuant to Sections 4.408.1, 4.410.2, 5.408.1, and 5.410.1 of the California Green Building Standards Code, 24 CCR, Part 11 as amended provided amended requirements are more stringent than the CALGreen requirements for adequate recycling space effective January 1, 2020.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>New Commercial construction or additions resulting in more than 30% of the floor area shall provide readily accessible areas identified for the storage and collection of Blue Container and Green Container materials, consistent with the City's authorized three container collection program , or shall comply with provision of adequate space for recycling for Multi-Family and Commercial premises pursuant to Sections 4.408.1, 4.410.2, 5.408.1, and 5.410.1 of the California Green Building Standards Code, 24 CCR, Part 11 as amended provided amended requirements are more stringent than the CALGreen requirements for adequate recycling space effective January 1, 2020.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Comply with all applicable CALGreen requirements and applicable law related to management of C&amp;D, including diversion of Organic Waste in C&amp;D from disposal. Comply with <cite doc="City of San Mateo, Cal., Code" path="7.33">Chapter 7.33</cite> and all written and published City policies and/or administrative guidelines regarding the collection, recycling, diversion, tracking, and/or reporting of C&amp;D.</text>
+          </para>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.120</num>
+        <heading>Inspections and Investigations</heading>
+        <para>
+          <num>(a)</num>
+          <text>City representatives and/or its designated entity, including the Designee for Edible Food Recovery are authorized to conduct Inspections and investigations, at random or otherwise, of any collection container, collection vehicle loads, or transfer, processing, or disposal facility for materials collected from generators, or Source Separated materials to confirm compliance with <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite> by Organic Waste Generators, Commercial Businesses (including Multi-Family Residential Dwellings), property owners, Tier One and Tier Two Commercial Edible Food Generators, haulers, Self-Haulers, Food Recovery Services, and Food Recovery Organizations, subject to applicable laws.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Inspections and investigations shall not include entry into the interior of a private residential property for Inspection.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>For the purposes of inspecting Commercial Business containers for compliance with <cite doc="City of San Mateo, Cal., Code" path="7.35.050|(b)">Section 7.35.050(b)</cite> of <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite>, the City or its Designee may conduct container Inspections for Prohibited Container Contaminants using Remote Monitoring, and Commercial Businesses shall accommodate and cooperate with the Remote Monitoring pursuant to <cite doc="City of San Mateo, Cal., Code" path="7.35.050|(k)">Section 7.35.050(k)</cite> of this ordinance if Remote Monitoring is required by the City or its Designee.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Organic Waste Generators, Commercial Businesses (including Multi-Family Residential Dwellings), property owners, Tier One and Tier Two Commercial Edible Food Generators, haulers, Self-Haulers, Food Recovery Services, and Food Recovery Organizations shall provide or arrange for access during all Inspections (with the exception of residential property interiors) and shall cooperate with the City or its designated entity or Designee for Edible Food Recovery during such Inspections and investigations. Such Inspections and investigations may include confirmation of proper placement of materials in containers, Edible Food Recovery activities, records, or any other requirement of this ordinance described herein. Failure to provide or arrange for: (i) access to an entity's premises; (ii) installation and operation of Remote Monitoring equipment as determined appropriate by the City or its Designee ; or (iii) access to records for any Inspection or investigation is a violation of <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite> and may result in penalties described.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Any records obtained by the City or its Designee for Edible Food Recovery during its Inspections, Remote Monitoring, and other reviews shall be subject to the requirements and applicable disclosure exemptions of the Public Records Act as set forth in <cite doc="Cal. Gov't Code" path="§6250">Government Code Section 6250</cite> et seq.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>City representatives, its designated entity, and/or Designee for Edible Food Recovery are authorized to conduct any Inspections, Remote Monitoring, or other investigations as reasonably necessary to further the goals of this ordinance, subject to applicable laws.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The City and Designee for Edible Food shall receive written complaints from persons regarding an entity that may be potentially non-compliant with SB 1383 Regulations, including receipt of anonymous complaints.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.130</num>
+        <heading>Enforcement</heading>
+        <para>
+          <num>(a)</num>
+          <text>Violation of any provision of <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite> shall constitute grounds for issuance of a Notice of Violation and assessment of a fine by the Jurisdiction Enforcement Official, Designee for Edible Food Recovery, or representative. Enforcement Actions under this ordinance are issuance of an administrative citation and assessment of a fine. The City's procedures on imposition of administrative fines are hereby incorporated in their entirety, as modified from time to time, and shall govern the imposition, enforcement, collection, and review of administrative citations issued to enforce this ordinance and any rule or regulation adopted pursuant to this ordinance, except as otherwise indicated in this ordinance.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Other remedies allowed by law may be used, including civil action or prosecution as misdemeanor or infraction. The City or its Designee for Edible Food Recovery may pursue civil actions in the California courts to seek recovery of unpaid administrative citations. The City or its Designee for Edible Food Recovery may choose to delay court action until such time as a sufficiently large number of violations, or cumulative size of violations exist such that court action is a reasonable use of the City's or Designee for Edible Food Recovery's staff and resources.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Responsible Entity for Enforcement</text>
+          <para>
+            <num>(1)</num>
+            <text>Enforcement pursuant to this ordinance may be undertaken by the Jurisdiction Enforcement Official, which may be the city manager, city attorney, or their designee, or combination thereof, or Designee for Edible Food Recovery.</text>
+            <para>
+              <num>(A)</num>
+              <text>Jurisdiction Enforcement Official(s) and Designee for Edible Food Recovery (for Edible Food Recovery provisions) will interpret ordinance; determine the applicability of waivers, if violation(s) have occurred; implement Enforcement Actions; and, determine if compliance standards are met.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Jurisdiction Enforcement Official(s) and Designee for Edible Food Recovery (for Edible Food Recovery provisions) may issue Notices of Violation(s).</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Process for Enforcement</text>
+          <para>
+            <num>(1)</num>
+            <text>Jurisdiction Enforcement Officials or Designee for Edible Food Recovery and/or their Designee will monitor compliance with the ordinance randomly and through Compliance Reviews, Route Reviews, investigation of complaints, and an Inspection program (that may include Remote Monitoring). Section 14 establishes Jurisdiction's and Designee for Edible Food Recovery's right to conduct Inspections and investigations.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The City or its Designee for Edible Food Recovery may issue an official notification to notify regulated entities of its obligations under the ordinance.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For incidences of Prohibited Container Contaminants found in containers, The City or its Designee will issue a Notice of Violation to any generator found to have Prohibited Container Contaminants in a container. Such notice will be provided via a cart tag or other communication immediately upon identification of the Prohibited Container Contaminants or within 30 days after determining that a violation has occurred. If the City or its Designee observes Prohibited Container Contaminants in a generator's containers on more than two (2) consecutive occasion(s), the City or its Designee may assess contamination processing fees or contamination or other penalties on the generator provided by law.</text>
+            <text>The City or its Designee for Edible Food Recovery will issue a Notice of Violation to any Tier One or Tier Two Commercial Edible Food Generator found to have Edible Food in any waste container or to any Food Recovery Organization or Food Recovery Service found to have Edible Food recovered from a Tier One or Tier Two Edible Food Generator in a waste collection container which has not been documented by a notice of significant spoilage as required in this Ordinance. Such notice will be provided by email communication immediately upon identification of the violation or within three (3) calendar days after determining that a violation has occurred. If the City or its Designee for Edible Food Recovery observes Edible Food in a Tier One or Tier Two Commercial Edible Food Generator, or Food Recovery Organization, or Food Recovery Service waste container on more than two (2) consecutive occasion(s), the City or its Designee for Edible Food Recovery may assess an administrative citation and fine, pursuant to the Edible Food Recovery penalties provisions contained in this Ordinance, on the Tier One or Tier Two Commercial Edible Food Generator, Food Recovery Organization, or Food Recovery Service.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>With the exception of violations of generator contamination of container contents addressed under Section 15(d)(3), the City or its Designee for Edible Food Recovery shall issue a Notice of Violation requiring compliance within 60 days of issuance of the notice.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Absent compliance by the respondent within the deadline set forth in the Notice of Violation, the City or its Designee for Edible Food Recovery (for the Edible Food Recovery provisions) may commence an action to impose penalties via an administrative citation and fine, pursuant to its Administrative citation and fine procedures.</text>
+            <text>For the purposes of Edible Food Recovery, the Designee for Edible Food Recovery may commence an action to impose penalties, via an administrative citation and fine, pursuant to the Edible Food Recovery penalties provisions contained in this Ordinance and/or <cite doc="City of San Mateo, Cal., Code" path="1">Title 1 of the San Mateo Municipal Code</cite>.</text>
+            <text>Notices shall be sent to "owner" at the official address of the owner maintained by the tax collector for the City or if no such address is available, to the owner at the address of the dwelling or Commercial property or to the party responsible for paying for the collection services, depending upon available information</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Penalty Amounts for Types of Violations</text>
+          <text>The penalty levels for violations unrelated to the Edible Food Recovery requirement are as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>For a first violation, the amount of the base penalty shall be $100 per violation.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For a second violation, the amount of the base penalty shall be $200 per violation.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For a third or subsequent violation, the amount of the base penalty shall be $500 per violation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Compliance Deadline Extension Considerations</text>
+          <text>The City or its Designee for Edible Food Recovery may extend the compliance deadlines set forth in a Notice of Violation issued in accordance with Section 15 if it finds that there are extenuating circumstances beyond the control of the respondent that make compliance within the deadlines impracticable, including the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Acts of God such as earthquakes, wildfires, flooding, and other emergencies or natural disasters;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Delays in obtaining discretionary permits or other government agency approvals; or,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Deficiencies in Organic Waste recycling infrastructure or Edible Food Recovery capacity and the City is under a corrective action plan with CalRecycle pursuant to 14 CCR Section 18996.2 due to those deficiencies.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Appeals Process</text>
+          <text>Persons receiving an administrative citation containing a penalty for an uncorrected violation may request a hearing to appeal the citation. A hearing will be held only if it is requested within the time prescribed and consistent with the City or its Designee for Edible Food Recovery's procedures in the City's or its Designee for Edible Food Recovery's codes for appeals of administrative citations. Evidence may be presented at the hearing. The City or its Designee for Edible Food Recovery will appoint a hearing officer who shall conduct the hearing and issue a final written order.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Education Period for Non-Compliance</text>
+          <text>Beginning January 1, 2022 and through December 31, 2023, the City or its Designee for Edible Food Recovery (for edible food generator and food recovery organization and service requirements) may conduct Inspections, Remote Monitoring, Route Reviews or waste evaluations, and Compliance Reviews, depending upon the type of regulated entity, to determine compliance, and if the City or its Designee for Edible Food Recovery determines that Organic Waste Generator, Self-Hauler, hauler, Tier One Commercial Edible Food Generator, Food Recovery Organization, Food Recovery Service, or other entity is not in compliance, it shall provide educational materials and/or, for the purposes of Edible Food Recovery, training to the entity describing its obligations under this ordinance and a notice that compliance is required by January 1, 2022, and that violations may be subject to administrative civil penalties starting on January 1, 2024.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Civil Penalties for Non-Compliance</text>
+          <text>Beginning January 1, 2024, if the City or its Designee for Edible Food Recovery (Designee for Edible Food determination only for Tier 1 and Tier 2 Commercial Edible food generator and food recovery organization and service requirements) determines that an Organic Waste Generator, Self-Hauler, hauler, Tier One or Tier Two Commercial Edible Food Generator, Food Recovery Organization, Food Recovery Service, or other entity is not in compliance with this ordinance, it shall document the noncompliance or violation, issue a Notice of Violation, and take Enforcement Action pursuant to Section 15, as needed.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.35"/>
+        <num>7.35.140</num>
+        <heading>Effective Date</heading>
+        <text><cite doc="City of San Mateo, Cal., Code" path="7.35">This Chapter</cite> shall be effective commencing on January 1, 2022.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text>The City Council finds that the City's adoption of a Mandatory Organic Waste Disposal Reduction Ordinance does not require further environmental review because 1) in accordance with CEQA Guidelines Section 15168, the activities described in this Ordinance are entirely within the scope of a program Environmental Impact Report prepared by CalRecycle concerning the SB 1383 Regulations (PEIR), SCH # 2018122023, and the PEIR adequately described the activities described in this Ordinance; and 2) in accordance with CEQA Guidelines Section 15168 and 15162, no conditions exist necessitating supplemental or subsequent environmental review. Additionally, this action is categorically exempt from CEQA as it is an action taken to protect the environment. (CEQA Guidelines Section 15308.)</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on November 15, 2021, and adopted on December 6, 2021, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Rodriguez, Bonilla, Goethals, Lee and Papan</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
