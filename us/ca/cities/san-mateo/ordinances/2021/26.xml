@@ -1513,10 +1513,6 @@
       <find>City Engineer</find>
       <replace>Director of Public Works</replace>
     </codify:find-replace>
-    <!-- <codify:find-replace doc="City of San Mateo, Cal., Code">
-      <find>City engineer</find>
-      <replace>Director of Public Works</replace>
-    </codify:find-replace> -->
     <codify:find-replace doc="City of San Mateo, Cal., Code" path="2.48.025">
       <find>"Director of Public Works"</find>
       <replace>"City Engineer"</replace>
