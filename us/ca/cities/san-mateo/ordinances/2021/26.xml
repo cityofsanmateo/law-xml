@@ -1498,13 +1498,17 @@
       </section>
     </include>
   </section>
-  <section>
+  <section codify:doc="City of San Mateo, Cal., Code">
     <num>16</num>
     <text>Throughout the Municipal Code, replace references to "Uniform Building Code (UBC)" with "Building Code."</text>
-    <codify:find-replace doc="City of San Mateo, Cal., Code">
-      <find>Uniform Building Code</find>
-      <replace>Building Code</replace>
-    </codify:find-replace>
+    <codify:find-replace path="7.38.432" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="8.24.010" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="26.65.060" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="27.04.057" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="27.04.144" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="27.17.020" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="27.17.060" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="27.64.165" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
   </section>
   <section codify:doc="City of San Mateo, Cal., Code">
     <num>17</num>
@@ -1545,7 +1549,7 @@
     <codify:find-replace path="26.58.010" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
     <codify:find-replace path="26.60.010" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
     <codify:find-replace path="26.60.040" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
-    <codify:find-replace path="26.65.020" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.65.020" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>c
     <codify:find-replace path="27.04.220" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
     <codify:find-replace path="27.44.040" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
     <codify:find-replace path="27.64.025" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
