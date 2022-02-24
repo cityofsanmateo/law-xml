@@ -69,7 +69,7 @@
     <codify:replace doc="City of San Mateo, Cal., Code" path="5.66.020|(c)|num">
       <num>(d)</num>
     </codify:replace>
-    <codify:insert doc="City of San Mateo, Cal., Code" path="5.66.020" after="5.66.020|(b)">
+    <codify:insert doc="City of San Mateo, Cal., Code" path="5.66.020" after="(b)">
       <para>
         <num>(c)</num>
         <heading>Dwelling Unit.</heading> 
