@@ -1,0 +1,615 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2022-02">
+  <num>2022-02</num>
+  <heading type="short">Accessory Dwelling Unit Ordinance Amendments</heading>
+  <heading type="long">Amend Section 27.04.165 "Dwelling," to add a definition for "Junior Accessory Dwelling Unit," and Amend Various Sections of Chapter 27.19, "Accessory Dwelling Unit and Junior Accessory Dwelling Unit – Residential Zones," of the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2022-04-20</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2022-02.pdf">Ord. No. 2022-02</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2022-02</citation>
+    </citations>
+    <history>
+      <introduced>2022-03-07</introduced>
+      <adopted>2022-03-21</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>an existing ordinance addressing accessory dwelling units and junior accessory dwelling units is codified at <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65852.2">65852.2</cite> and <cite doc="Cal. Gov't Code" path="§65852.22">65852.22</cite> govern accessory dwelling units and junior accessory dwelling units and were recently amended; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>these changes in state law necessitate amendments to <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code" path="§65852.2|(a)|(1)|(B)">Government Code Section 65852.2(a)(1)(B)</cite> authorizes cities to impose standards on accessory dwelling units in conformance with state law that include, but are not limited to, parking, height, setback, landscape, architectural review, maximum unit size, and standards that prevent adverse impacts on any real property that is listed in the California Register of Historic Resources; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code" path="§65852.2|(h)|(A)">Government Code Section 65852.2(h)(A)</cite> provides that the state Department of Housing and Community Development (HCD) is to make findings regarding local agency ordinance compliance with Section 65852.2.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Legislative Findings. The City Council of the City of San Mateo finds:</text>
+    <para>
+      <num>(a)</num>
+      <text>The City's amended ordinance that establishes development standards for accessory dwelling units and junior accessory dwelling units is consistent with <cite doc="Cal. Gov't Code">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65852.2">65852.2</cite> and <cite doc="Cal. Gov't Code" path="§65852.22">65852.22</cite>.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The side and rear setback and parking standards for accessory dwelling units in the City's amended ordinance are in conformance with <cite doc="Cal. Gov't Code" path="§65852.2|(a)|(1)|(B)">Government Code Section 65852.2(a)(1)(B)</cite>.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>In order to allow vehicles exiting lots to see passing pedestrians and vehicles, ADUs are not permitted within a required front yard setback.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Subsection (c) of <cite doc="City of San Mateo, Cal., Code" path="27.04.165">Section 27.04.165 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>27.04.165</num>
+        <heading>Dwelling.</heading>
+        <text>"Dwelling" means a building or portion thereof, designed or used exclusively for residential occupancy, including a one-family dwelling unit, an accessory dwelling unit, a junior accessory unit, a two-family dwelling unit, and a multiple-family dwelling unit but does not include a hotel, motel, boarding or lodging houses or other lodging facilities, or a vessel or boat, or a house trailer.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Accessory dwelling unit" means an attached or detached residential dwelling unit which provides complete independent living facilities for one or more persons, is accessory to the primary single-family residential dwelling unit, and includes permanent provisions for living, sleeping, eating, cooking facilities and sanitation on the same parcel as the primary residential dwelling unit.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Bachelor, efficiency or studio unit" means a dwelling unit consisting of one principal room used for living and sleeping purposes, plus cooking facilities, a bathroom, and closets.</text>
+        </para>
+        <para>
+          <codify:replace doc="City of San Mateo, Cal., Code" path="27.04.165|(c)" />
+          <num>(c)</num>
+          <text>"Junior accessory dwelling unit" means an additional, independent living unit constructed within the walls of a proposed or legally existing single-family residence, including attached garages.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Multiple-family dwelling" means a building or portion thereof, designed or altered for occupancy by three or more families living independently of each other.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"One-family dwelling" means a building containing one cooking facility only and designed exclusively for use and occupancy by one family, including the provision of interior access to all bedrooms, and may include a junior accessory dwelling unit within the principal dwelling.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Two-family dwelling" means a building(s) designed or altered to provide attached (duplex) or detached dwelling units for occupancy by two families living independently of each other.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.010">Section 27.19.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.010"/>
+        <num>27.19.010</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of this Article is to set forth regulations to permit accessory dwelling units (ADUs) in accordance with state law.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.020">Section 27.19.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.020"/>
+        <num>27.19.020</num>
+        <heading>Reserved.</heading>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.030">Section 27.19.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.030"/>
+        <num>27.19.030</num>
+        <heading>Prohibition on Sale and Limitation on Rental.</heading>
+        <para>
+          <num>(a)</num>
+          <text>An ADU shall not be sold separately from the primary residence.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If an ADU is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.040">Section 27.19.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.040"/>
+        <num>27.19.040</num>
+        <heading>Ministerial Permit Approval.</heading>
+        <text>An ADU permit application for either an attached or a detached ADU is required in order to demonstrate that a unit is in compliance with the provisions of this Article. If the ADU is in full compliance with the provisions of this Article, a ministerial, non-discretionary permit will be issued.  Notwithstanding anything to the contrary in this Code, the issuance of a ministerial ADU permit is not appealable.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.045">Section 27.19.045 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="27.19" after="27.19.040"/>
+        <num>27.19.045</num>
+        <heading>Discretionary Review as Alternative to Ministerial Approval.</heading>
+        <para>
+          <num>(a)</num>
+          <text>As an alternative to ministerial review, an applicant may submit an application for discretionary review of an ADU proposal that is not in full compliance with the provisions of this Article.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The application for discretionary approval shall be granted if the Zoning Administrator finds each of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>The proposed ADU is consistent with all applicable objective design standards in the adopted R1 Single-Family Dwelling Design Guidelines;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The proposed ADU would not result in a negative privacy impact on an abutting residential lot; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The proposed ADU would not result in a negative impact to public health, safety, or welfare.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The proposed ADU, when detached and exceeding the height limit, should provide at least one additional off-street parking space.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The decision of the Zoning Administrator shall not preclude the ability of an applicant to receive a ministerial permit pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.19.040">Section 27.19.040</cite> for an ADU that is in full compliance with the provisions of this Article.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The decision of the Zoning Administrator may be appealed to the Planning Commission, and the decision of the Planning Commission may be appealed to the City Council, in accordance with SMMC <cite doc="City of San Mateo, Cal., Code" path="27.08.090">27.08.090</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.050">Section 27.19.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.050"/>
+        <num>27.19.050</num>
+        <heading>Development Standards</heading>
+        <text>An ADU, as defined in <cite doc="City of San Mateo, Cal., Code" path="27.04.165">Section 27.04.165</cite>, shall comply with the following development standards:</text>
+        <para>
+          <num>(a)</num>
+          <text>Permitted Zoning Districts. ADUs shall only be constructed on a lot zoned to allow residential uses.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Number of Units. No more than the number of ADUs allowed by state law may be constructed on any lot.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>State Exempted "By Right" ADUs. An attached or detached ADU of at least 800 square-feet in size and of at least 16 feet in building height with four-foot side and rear setbacks may be constructed on a lot regardless of any size limitation based on the size of the proposed or existing primary dwelling, lot coverage, floor area ratio, daylight plane, open space, or minimum lot size that would otherwise preclude or limit its construction. The floor area of any new ADU in excess of 800 square feet shall be applied to the maximum floor area allowance of the subject lot as prescribed by the underlying zoning district.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Maximum Unit Size. Floor area size maximums for both attached and detached ADU development in excess of 800 square feet are governed by the floor area maximum established by the underlying zoning district and remaining floor area allowance available on the lot. In instances when the existing floor area allowance of a lot has been fully utilized, only the state exempted "by right" ADU of up to 800 square feet is permitted.</text>
+          <para>
+            <num>(1)</num>
+            <text>Accessory Dwelling Unit Conversions. An ADU conversion within the walls of an existing primary residence or accessory structure is not subject to size requirements. ADU conversions may be expanded up to 150 square feet beyond the existing footprint provided the expansion is used to accommodate ingress and egress to the ADU.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Detached Accessory Dwelling Unit and Junior Accessory Dwelling Unit. Subject to the floor area requirements, one new detached ADU may be constructed on a lot with a junior accessory dwelling unit (JADU).</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Height. The specific height maximums are applicable to all zoning districts which permit ADUs.</text>
+          <para>
+            <num>(1)</num>
+            <text>Attached Accessory Dwelling Units. Maximum building height for an attached ADU is 24 feet to top plateline and 32 feet to roof peak as measured from existing grade.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Detached Accessory Dwelling Units. Maximum building height for a detached ADU is 16 feet to top plateline and 24 feet to roof peak as measured from existing grade.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Alternative Discretionary Review for Detached Accessory Dwelling Units.  For a detached ADU proposed to exceed the height limit, an application for discretionary review, pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.19.045">Section 27.19.045</cite>, shall be submitted.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Setbacks. An ADU shall have setbacks as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>No setback shall be required for an existing legally permitted garage or accessory structure that is converted to an ADU which is constructed in the same location and to the same dimensions as the existing structure.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A minimum setback of four feet shall be required from the side and rear lot lines for all new ADU construction not meeting the criteria set forth in subsection (1) above, including ADUs constructed above an existing legally permitted garage.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A minimum setback from the front lot line, as required in the lot's underlying zone district, shall be required for all new ADU construction not meeting the criteria set forth in subsection (1) above, including ADUs constructed above an existing legally permitted garage.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The ADU, whether attached or detached, shall provide a separate exterior entrance, and permanent provisions for living, sleeping, eating, cooking, and sanitation.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Location of Accessory Dwelling Unit. The ADU may be within, attached to, or detached from the primary dwelling unit. ADUs shall be accessory to the primary residence and are permitted in the same locations on the parcel as the primary residence as specified in the underlying zoning district.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Number and Type of Required Parking Spaces.</text>
+          <para>
+            <num>(1)</num>
+            <text>General Requirements. There shall be a minimum of one standard size off-street parking space for each ADU. All required parking spaces shall be a minimum of 10 feet wide by 18 feet long without any obstructions. Parking associated with ADU or JADU development, whether required or voluntary, must be located entirely on the same lot, and may be provided in a garage, carport, uncovered, or in tandem orientation. Additionally, maximum driveway width for single-car garages may be up to 20 feet to accommodate additional off-street parking. The required parking for the primary residential dwelling unit must comply with current standards, as specified by the underlying zoning district.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Location of Parking for Accessory Dwelling Units.  Parking for the accessory dwelling unit may be located in the required front, side, and rear yard setback areas.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Replacement off-street parking is not required when a garage, carport, or covered parking structure is demolished in conjunction with the construction of an ADU or converted to an ADU.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Parking Exemptions.  No additional off-street parking shall be required for an ADU in the following instances:</text>
+            <para>
+              <num>(A)</num>
+              <text>The ADU is located within one-half (1/2) mile walking distance of public transit; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The ADU is located within an architecturally and historically significant historic district; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The ADU is in part of the proposed or existing legally permitted primary residence or an existing legally permitted accessory structure; or</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>In an area requiring on-street parking, permits are required but not offered to the occupant of the ADU; or</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>When the ADU is located within one block of a car share location.</text>
+            </para>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Voluntary Parking. If no parking space is required, a maximum of one off-street parking space per ADU or JADU may be voluntarily provided.</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Architectural Standards. New ADUs and conversions of an existing legally permitted structure shall be designed to comply with the following standards:</text>
+          <para>
+            <num>(1)</num>
+            <text>Attached Accessory Dwelling Units. ADUs that are attached to the primary dwelling unit shall:</text>
+            <para>
+              <num>(A)</num>
+              <text>Be of the same architectural style as the primary dwelling unit;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Be constructed of similar exterior materials, finishes, and family of colors as the primary dwelling unit;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Offset windows from neighbor's windows to maximize privacy; and</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Be designed to meet the daylight plane requirements of the R-1 zoning district as applied to the nearest adjacent side and rear lot lines.</text>
+              <para>
+                <num>(i)</num>
+                <text>Application of the daylight plane requirement shall not preclude a State Exempted "By Right" ADU as defined in <cite doc="City of San Mateo, Cal., Code" path="27.19">this Chapter</cite>.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Detached Accessory Dwelling Unit. An ADU that is detached from the primary dwelling unit shall:</text>
+            <para>
+              <num>(A)</num>
+              <text>In instances when an ADU is attached to an accessory structure, provide a uniform and integrated design with that accessory structure;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Offset windows from neighbor's windows to maximize privacy;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Provide and maintain obscured glazing on second-story windows up to five feet from the finished floor when the windows are located within five feet of a lot line with an abutting residential lot;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>When an exterior staircase is proposed, it shall have a setback of at least five feet from the nearest lot line and the size of the second story landing shall be limited to the minimum area required to allow ingress and egress as specified by the California Building Code;</text>
+              <para>
+                <num>(i)</num>
+                <text>For an ADU that seeks to have a larger second story deck, an application for discretionary review, pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.19.045">Section 27.19.045</cite>, shall be submitted.</text>
+              </para>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Be designed to meet the daylight plane requirements of the R-1 zoning district as applied to the nearest adjacent side and rear lot lines.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Development Impact Fees. Development impact fees for ADUs shall be established in an amount set forth by resolution of the City Council.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Utility Service. If an ADU is constructed within existing space, a separate water connection, a sewer service connection, or power connection is not required for an ADU. If an ADU is not constructed within existing space, the City may require new or separate utility connections.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Utility Fees. For an ADU located within an existing structure, payment of a connection fee or capacity charge is not required. For an ADU that is separate from an existing structure, the City will require payment of a connection fee or capacity charge that is proportionate to the ADU's burden.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Address Assignment.  An application for a building permit for an ADU must include application for a separate address assignment.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Other Requirements. All other zoning requirements shall be complied with unless an authorized variance is approved.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>For ADUs proposed within an existing multi-family structure or on a lot with an existing multi-family dwelling, the provisions of <cite doc="Cal. Gov't Code" path="§65852.2|(e)|(1)">Government Code Section 65852.2(e)(1)</cite> apply.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>9</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.060">Section 27.19.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.060"/>
+        <num>27.19.060</num>
+        <heading>Reserved.</heading>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>10</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.070">Section 27.19.070 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.070"/>
+        <num>27.19.070</num>
+        <heading>Purpose.</heading>
+        <text>The purpose of this Article is to set forth regulations to permit junior accessory dwelling units (JADUs).</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>11</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.080">Section 27.19.080 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.080"/>
+        <num>27.19.080</num>
+        <heading>Reserved.</heading>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>12</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.090">Section 27.19.090 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.090"/>
+        <num>27.19.090</num>
+        <heading>Prohibition on Sale and Limitation on Rental.</heading>
+        <para>
+          <num>(a)</num>
+          <text>A JADU shall not be sold separately from the primary residence.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If a JADU is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>13</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.100">Section 27.19.100 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.100"/>
+        <num>27.19.100</num>
+        <heading>Ministerial Permit Required.</heading>
+        <text>A JADU permit application is required in order to demonstrate that the unit is in compliance with the provisions of this Article. If the JADU is in full compliance with the provisions of this Article, a ministerial, non-discretionary permit shall be issued.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>14</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.110">Section 27.19.110 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.110"/>
+        <num>27.19.110</num>
+        <heading>Development Standards.</heading>
+        <text>A "junior accessory dwelling unit," as defined in <cite doc="City of San Mateo, Cal., Code" path="27.04.165">Section 27.04.165</cite>, must comply with the following development standards:</text>
+        <para>
+          <num>(a)</num>
+          <text>Permitted Zoning Districts. JADUs shall only be constructed on lots zoned to allow single-family residential use, or for which a single-family residence exists or is proposed to be built. The residential lot shall not be part of a condominium, townhouse, or other multi-family development.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Limit to the Number of Junior Accessory Dwelling Units. The number of JADUs is limited to one per residential lot with a single-family residence. Lots with multi-family housing or more than one detached single-family dwelling are not eligible for JADUs.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Setback and Other Zoning Regulations. For purposes of setbacks and other zoning regulations, the JADU shall be considered to be a part of the principal use of subject site and shall be subject to the same requirements of the underlying zoning district.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Maximum Unit Size. The floor area of a JADU shall not exceed 650 square feet, including attic and basement areas as defined in <cite doc="City of San Mateo, Cal., Code" path="27.04.200">Section 27.04.200</cite> for the applicable zoning district.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Construct within Existing Structure. The JADU shall be constructed within the walls of the proposed or legally existing single-family dwelling unit, including an attached garage. Detached accessory structures, including detached garages or carports, are not permitted to be converted into JADUs.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Unit Access. A JADU must include:</text>
+          <para>
+            <num>(1)</num>
+            <text>A separate exterior entry from the main entrance to the single-family dwelling, which shall be provided to serve the JADU only; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An interior entry access between the JADU and the single-family dwelling. This interior entry access may be a door equipped with a double lock. A permitted JADU may include a second interior door for sound attenuation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Efficiency Food Preparation Area. A JADU shall include an efficiency kitchen that includes the following components:</text>
+          <para>
+            <num>(1)</num>
+            <text>Cooking facility with appliances; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Food preparation counter and storage with cabinets that are of reasonable size in relation to the size of the JADU.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Sanitation Facilities. A JADU may include its own separate sanitation facilities or may share sanitation facilities with the primary dwelling unit.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Building and Fire Requirements.</text>
+          <para>
+            <num>(1)</num>
+            <text>No fire wall separation or noise attenuation measures are required between the main dwelling and the JADU. No fire sprinklers are required for the JADU, unless the associated improvements meet the threshold for a "substantial remodel" as defined by Chapter 23, Building and Construction, of the San Mateo Municipal Code. The JADU shall have an adjoining door connected to the main living area for fire separation. A smoke alarm shall be required in the JADU and shall be connected to the smoke alarm in the main residence.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The JADU shall be equipped with a carbon monoxide detector.</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Utility Service. A separate water connection, a separate sewer service connection, and power connection as water, sewer, and power service is not required for a JADU.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Parking. No additional off-street parking is required for a JADU.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Address Assignment. An application for a building permit for a JADU must include application for a separate address assignment.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>15</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.19.120">Section 27.19.120 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="27.19.120"/>
+        <num>27.19.120</num>
+        <heading>Recordation of Deed Restriction.</heading>
+        <para>
+          <num>(a)</num>
+          <text>A deed restriction shall be recorded to run with the land and submitted to the City prior to building permit issuance which indicates the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>The property owner must occupy either the single-family residence or the JADU.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the JADU is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Sale of the JADU separately from the single-family residence is prohibited.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The approved size and attributes of the JADU.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A copy of this deed restriction must be given to each prospective occupant.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>16</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with <cite doc="Cal. Pub. Res. Code" path="§21080.17">Public Resources Code Section 21080.17</cite> and California Environmental Quality Act (CEQA) Guidelines, section 15282(h), the portion of this ordinance addressing accessory dwelling units is statutorily exempt from CEQA, because it relates to second units in a single family or multifamily residential zone.  In accordance with CEQA Guidelines Section 15061(b)(3), the portion of this ordinance addressing junior accessory dwelling units is exempt from CEQA, because it can be seen with certainty that there is no possibility that amending the City's Zoning Code to comply with state law requirements pertaining to junior accessory dwelling units within existing residences will have a significant effect on the environment.</text>
+  </section>
+  <section>
+    <num>17</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>18</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>19</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on March 7, 2022, and adopted on March 21, 2022, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Rodriguez, Goethals, and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

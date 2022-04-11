@@ -1498,25 +1498,65 @@
       </section>
     </include>
   </section>
-  <section>
+  <section codify:doc="City of San Mateo, Cal., Code">
     <num>16</num>
     <text>Throughout the Municipal Code, replace references to "Uniform Building Code (UBC)" with "Building Code."</text>
-    <codify:find-replace doc="City of San Mateo, Cal., Code">
-      <find>Uniform Building Code</find>
-      <replace>Building Code</replace>
-    </codify:find-replace>
+    <codify:find-replace path="7.38.432" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="8.24.010" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="26.65.060" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="27.04.057" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="27.04.144" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="27.17.020" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="27.17.060" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
+    <codify:find-replace path="27.64.165" find="Uniform Building Code" replace="Building Code" ignore-case="true"/>
   </section>
-  <section>
+  <section codify:doc="City of San Mateo, Cal., Code">
     <num>17</num>
     <text>Throughout the Municipal Code, replace references to "City Engineer" with "Director of Public Works."</text>
-    <codify:find-replace doc="City of San Mateo, Cal., Code" ignore-case="true">
-      <find>City Engineer</find>
-      <replace>Director of Public Works</replace>
-    </codify:find-replace>
-    <codify:find-replace doc="City of San Mateo, Cal., Code" path="2.48.025">
-      <find>"Director of Public Works"</find>
-      <replace>"City Engineer"</replace>
-    </codify:find-replace>
+    <codify:find-replace path="2.48.010" find="City Engineer" replace="director of public works" ignore-case="true"/>
+    <codify:find-replace path="7.38.432" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="13.25.080" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="23.40.010" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="23.40.030" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="23.40.050" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="25.04.030" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.04.090" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.16.010" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.16.020" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.20.080" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.28.050" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.28.070" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.28.080" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.48.010" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.48.020" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.48.100" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.52.010" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.52.060" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.52.070" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.52.080" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.52.090" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.52.100" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.56.010" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.56.070" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.56.085" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.56.090" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.56.120" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.56.125" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.56.130" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.56.140" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.56.150" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.57.010" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.58.010" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.60.010" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.60.040" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="26.65.020" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>c
+    <codify:find-replace path="27.04.220" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="27.44.040" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="27.64.025" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="27.64.125" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="27.64.130" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="27.64.267" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
+    <codify:find-replace path="27.64.340" find="City Engineer" replace="Director of Public Works" ignore-case="true"/>
   </section>
   <section>
     <num>18</num>
