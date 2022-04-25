@@ -1,0 +1,1271 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2022-4" codify:doc="City of San Mateo, Cal., Code">
+  <num>2022-4</num>
+  <heading type="short">Sign Code Amendments</heading>
+  <heading type="long">AN ORDINANCE AMENDING TITLE 25, "SIGNS," OF THE SAN MATEO MUNICIPAL CODE</heading>
+  <meta>
+    <effective>2022-05-18</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2022-4.pdf">Ord. No. 2022-4</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2022-4</citation>
+    </citations>
+    <history>
+      <introduced>2022-04-04</introduced>
+      <adopted>2022-04-18</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City's sign ordinance is codified in <cite doc="City of San Mateo, Cal., Code" path="25">Title 25 of the San Mateo Municipal Code</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City wishes to clarify several definitions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The City wishes to clarify the activities that can occur in the public right-of-way.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="25.02.030">Section 25.02.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|25.02.030"/>
+        <num>25.02.030</num>
+        <heading>DEFINITIONS.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Awning Sign.</heading>
+          <text>A sign attached to, painted upon, appearing upon, incorporated in, or supported by an awning or hood.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Banner.</heading>
+          <text>A sign, including pennants and flags, which uses cloth, paper, plastic or other non-rigid material as the sign surface.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Business.</heading>
+          <text>Professions, trades, occupations, and all and every kind of calling (including nonprofit organizations) carried on for profit, livelihood, or fund-raising.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Construction Sign.</heading>
+          <text>A sign displayed on the site of a construction development project, during the time of actual construction.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Electric Face Sign.</heading>
+          <text>A sign containing an electrical system, but not including signs illuminated by an exterior light source.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Exterior Light Source.</heading>
+          <text>A light source which illuminates a sign but is not a component of the sign itself.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Face Sign.</heading>
+          <text>A sign painted on a wall or structure, or constructed as an integral unit or as individual words, letters, or figures, and located approximately parallel with (not more than 18 inches away from) the face of a building or structure.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Flashing Sign.</heading>
+          <text>An illuminated sign on which the electrical light is not maintained stationary or constant in intensity and color at all times.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Freestanding Sign.</heading>
+          <text>A sign which is self-supporting in a fixed location and not attached to or projecting over any building.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <heading>High Rise Building.</heading>
+          <text>Any building which is more than fifty feet in height as measured from average grade.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <heading>Illuminated Sign.</heading>
+          <text>A sign which has characters, letters, figures, designs, or outline illuminated by electric lights or luminous tubes on, within, or attached to the sign, or by an unattached light source.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <heading>Internally Illuminated Sign.</heading>
+          <text>The illumination of a sign by a light source that is fully incorporated into the sign itself.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <heading>Internal Reverse Illumination.</heading>
+          <text>The illumination of individual letters, numbers or graphics by the use of internal, reverse illumination, where the light source is not directly visible.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <heading>Logo.</heading>
+          <text>A graphic representation or symbol of a company name, trademark, or abbreviation of the name of the business occupying the building or property.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <heading>Marquee Sign.</heading>
+          <text>A sign attached to or supported by a marquee. A marquee means a permanent roofed structure attached to and supported by a building.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <heading>Mural.</heading>
+          <text>A large picture painted or affixed directly on a wall or ceiling. A mural is not considered a sign as defined by <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <heading>Non-Conforming Sign.</heading>
+          <text>A sign which does not conform to each and every applicable provision of <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite> but was:</text>
+          <para>
+            <num>(1)</num>
+            <text>Lawfully in existence and complied with all Municipal Code and other laws at the time of its erection and in use in the City prior to and at the time the provisions of <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite> with which it does not conform became effective; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Lawfully in existence and in use on property outside the City at the time of annexation of such property to the City.</text>
+          </para>
+        </para>
+        <para>
+          <num>(r)</num>
+          <heading>Nonresidential Use.</heading>
+          <text>A church; community service building, including but not limited to, libraries, parks, playgrounds and community centers; public and private educational facilities; day care centers when located in a public or quasi-public structure such as a school, recreation center, church, temple or similar facility; philanthropic uses; and public utility facilities. Except as to uses specifically included in this section, nonresidential use does not include commercial uses.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <heading>Off-Site Advertising Sign.</heading>
+          <text>A sign which directs attention to activity including a business, commodity, real property, service, or attraction or entertainment conducted, sold, or offered elsewhere than upon the premises where the sign is located.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <heading>Permanent Sign.</heading>
+          <text>A sign located on a structure for more than 90 days.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <heading>Portable Sign.</heading>
+          <text>A portable sign capable of standing without support or attachment.</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <heading>Private Property.</heading>
+          <text>Property other than Public Property or Public Right-of-Way.</text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <heading>Projecting Sign.</heading>
+          <text>A sign which projects more than eighteen inches from the building face, and is supported by a wall, so that the sign face is perpendicular to the building face or wall, but does not exceed the height of the roof or parapet.</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <heading>Public Property.</heading>
+          <text>Property owned by the City, but excluding Public Right of Way.</text>
+        </para>
+        <para>
+          <num>(y)</num>
+          <heading>Public Right-of-Way.</heading>
+          <text>That area or those areas dedicated to public use for public street purposes including, but not limited to, roadways, parkways, alleys, and sidewalks.</text>
+        </para>
+        <para>
+          <num>(z)</num>
+          <heading>Roof Sign.</heading>
+          <text>A sign which exceeds the height of the top of the building parapet, plate line of a pitched roof or top of a mansard roof, or projects more than 18 inches from a mansard roof.</text>
+        </para>
+        <para>
+          <num>(aa)</num>
+          <heading>Shopping Center.</heading>
+          <text>A cluster of retail and general commercial uses which share common parking facilities.</text>
+          <para>
+            <num>(1)</num>
+            <heading>Community shopping center.</heading>
+            <text>"Community shopping center" means a shopping center between 20,000 and 100,000 square feet of gross floor area, capable of supporting two or more retail or commercial businesses.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Regional shopping center.</heading>
+            <text>"Regional shopping center" means a shopping center generally totaling more than 100,000 square feet of gross floor area, including one or more anchor department stores.</text>
+          </para>
+        </para>
+        <para>
+          <num>(bb)</num>
+          <heading>Sign.</heading>
+          <text>Any structure, display, device, balloon or graphic placed on any land, building or structure, which is used to communicate any message, or which advertises or promotes any business, product, activity, person or interest. Signs include, but are not limited to, any writing, pictorial representation, logo, symbol, banner, or any other figure of similar character of whatever material which is used to identify, announce, direct attention to, advertise or communicate, which is not inside a building. The term "placed" shall include constructing, erecting, posting, painting, printing, tacking, nailing, gluing, sticking, carving, stringing, or otherwise fastening, affixing, or making visible in any manner whatsoever. Notwithstanding the general scope of the foregoing, the following shall not be deemed to be signs for the purposes of <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>:</text>
+          <para>
+            <num>(1)</num>
+            <text>Automatic Teller Machines;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Architectural features that do not perform a communicative function;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Foundation and cornerstones;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Grave markers;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Inflatable gymnasium devices;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Newsracks;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>License plates, license plate frames, and messages painted on street legal and operable vehicles; or</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Vending machines and product dispensing devices which do not display commercial messages unrelated to the goods or services provided by the machine or device.</text>
+          </para>
+        </para>
+        <para>
+          <num>(cc)</num>
+          <heading>Sign Area.</heading>
+          <text>The area in square feet within the smallest rectangle enclosing the total exterior surface of a sign or one face of a "double faced sign". Sign area for a multi-faced sign that has an angle between sides of the sign that exceeds 30 degrees shall be counted for all sides. Where the lettered or illustrated material of a sign consists of individual letters or if the message surface consists of noncontiguous segments or has an irregularly shaped perimeter, then the area of the sign shall be all of the area encompassed within a single continuous rectilinear-perimeter of not more than six straight lines, including any color, material or graphic which is integrated therein which differentiates the message from the background.</text>
+          <text>
+            <img alt="4 examples of signs by example" src="data:image/png;base64,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"/>
+          </text>
+        </para>
+        <para>
+          <num>(dd)</num>
+          <heading>Street Frontage.</heading>
+          <text>The side of a building abutting a street or parking lot on the same zoning plot, and that is measured by calculating either the width of the building or the width of the parcel, whichever is greater.</text>
+          <para>
+            <num>(1)</num>
+            <heading>Primary Street Frontage.</heading>
+            <text>The street upon which a business's main entrance is located or upon which its address is located. In the case of multiple businesses on a zoning plot, there can only be one primary street frontage.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Secondary Street Frontage.</heading>
+            <text>A street frontage other than the primary street frontage.</text>
+          </para>
+        </para>
+        <para>
+          <num>(ee)</num>
+          <heading>Temporary Sign.</heading>
+          <text>A sign to be displayed only for a limited time as specified by <cite doc="City of San Mateo, Cal., Code" path="25.02">this Chapter</cite>.  A temporary sign includes a temporary banner.</text>
+        </para>
+        <para>
+          <num>(ff)</num>
+          <heading>Window Sign.</heading>
+          <text>A sign on the window or in the interior of a building within no less than 1 foot of a window.</text>
+        </para>
+        <para>
+          <num>(gg)</num>
+          <heading>Zoning Plot.</heading>
+          <text>A plot of land consisting of one or more lots or parcels on which an improvement has been, or can be, authorized by <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>. A division of airspace for condominiums or stock for a cooperative shall not establish individual zoning plots for each divided space.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text>The title of <cite doc="City of San Mateo, Cal., Code" path="25.04">Chapter 25.04 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>25.04</num>
+        <heading>SIGNS ON PUBLIC PROPERTY AND IN THE PUBLIC RIGHT-OF-WAY</heading>
+      </container>
+    </include>
+    <codify:replace path="|25.04|heading">
+      <heading>SIGNS ON PUBLIC PROPERTY AND IN THE PUBLIC RIGHT-OF-WAY</heading>
+    </codify:replace>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="25.04.010">Section 25.04.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|25.04.010"/>
+        <num>25.04.010</num>
+        <heading>FINDINGS.</heading>
+        <text>In enacting <cite doc="City of San Mateo, Cal., Code" path="25.04">this Chapter</cite>, the City Council finds:</text>
+        <para>
+          <num>(a)</num>
+          <text>If carefully regulated, the placement of signs on city sidewalks by private individuals can provide a useful outlet for the expression of ideas and the communication of information related to beneficial commercial activity, including, but not limited to, the advertisement of real estate open house events.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>It is the desire of the City Council to enact standards that would allow for the regulated use of city sidewalks for these communication purposes.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In enacting these regulations it is not the intention of the City Council to regulate the content of messages on signs to be placed on city sidewalks, but, instead, it is the City Council's intention to enact reasonable time, place and manner restrictions aimed at insuring the safety of those using the public sidewalks and those driving on adjacent streets, and to achieve the City's aesthetic interests by reducing visual clutter that would result from the unregulated posting of signs on sidewalks.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="25.04.020">Section 25.04.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|25.04.020"/>
+        <num>25.04.020</num>
+        <heading>RESTRICTIONS APPLICABLE TO SIGNS ON PUBLIC PROPERTY AND IN THE PUBLIC RIGHT-OF-WAY</heading>
+        <para>
+          <num>(a)</num>
+          <text>Except as otherwise provided in <cite doc="City of San Mateo, Cal., Code" path="25.04">this Chapter</cite>, it is unlawful for any person other than a City representative to place a sign on public property or in the public right-of-way where such sign fails to comply with any of the restrictions stated in this section.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Restrictions Applicable to Signs.</text>
+          <para>
+            <num>(1)</num>
+            <text>No sign shall exceed thirty-six inches in height.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>No sign shall exceed six square feet in area.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>All signs shall be constructed or anchored to prevent movement of the sign by the wind, except that an anchoring shall not be permanent and shall not damage the property on which the sign is placed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Restrictions Applicable to the Placement of Signs.</text>
+          <para>
+            <num>(1)</num>
+            <text>No sign shall be placed during hours of darkness.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>No sign shall be placed within the median of any public street.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>No sign shall be attached to, or leaned against, any street furniture, utility facility (including poles and boxes), street light, building, fence, or any other sign.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>No sign shall be placed within 50 feet of any other sign placed under the provisions of <cite doc="City of San Mateo, Cal., Code" path="25.04">this chapter</cite>, except that as many as 4 signs may be placed on sidewalks within 50 feet of the intersection of public streets on each corner of such intersections.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>No sign shall be placed in such a manner as to reduce the unobstructed path of travel on any sidewalk to less than 36 inches, and if the existing unobstructed path of travel of a sidewalk is 36 inches or less, no sign shall be placed on that sidewalk.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>No sign shall be placed within a curb cut or ramp installed to provide improved access to a sidewalk to the disabled.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>No sign shall be placed upon any public right-of-way other than a public sidewalk, except that signs may be placed in unimproved right-of-way with the consent of the owner of the adjoining property.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>No sign shall be placed upon public right-of-way within the areas bounded by Baldwin Avenue to the north, Railroad Avenue to the east, Fifth Avenue to the south, and El Camino Real to the west.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No person shall display a sign that would otherwise be in violation of any of the standards provided in subsections (b) and (c) by placing the sign upon, or leaning the sign against, a vehicle parked within the public right-of-way. This prohibition shall not apply to signs placed within the interior of a vehicle, signs that are painted on a vehicle, or to signs that are affixed to a vehicle in such a manner that the vehicle may be driven with the sign attached.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="25.04.030">Section 25.04.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|25.04.030"/>
+        <num>25.04.030</num>
+        <heading>EXEMPTIONS.</heading>
+        <text>Notwithstanding any other provisions of <cite doc="City of San Mateo, Cal., Code" path="25.04">this Chapter</cite>, the following signs are permitted:</text>
+        <para>
+          <num>(a)</num>
+          <text>Signs being held by one or more persons on public property.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Traffic safety signs placed on public property by private persons as directed by a public official as part of the authorization to perform work on public property or in the public right-of-way, or in connection with an event taking place on public or private property.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Signs placed by a public officer or employee acting in their official capacity, including such signs as traffic signs, public transit signs, public restroom signs, public parking signs, warning signs, or signs identifying the location of emergency centers, public facilities or places of public interest.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Banners placed on street light poles subject to the following limitations and requirements:</text>
+          <para>
+            <num>(1)</num>
+            <text>Banners may only be placed on street light poles within commercial areas designated by City Council resolution;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Only banners that announce an activity or event of community-wide interest, or commemorate a community institution located in the City of San Mateo may be placed on street light poles;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>No banner shall be placed on a street light pole for more than 90 days within a calendar year, except that banners announcing an event or activity, or commemorating a community institution that are placed by a public agency (such as a local, state or federal agency or special district) and at least partially sponsored by the City may be placed on a street light pole for up to 180 days within a calendar year;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>No banner placed on a street light pole shall exceed 25 square feet in area;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>At least 75% of the display area of banners placed on street light poles shall contain artwork or text describing the community activity or event, or the institution being commemorated, and no more than 25% of the display area may be used to depict the name or logo of the sponsoring entity, or entities;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Banners and attachments placed on street light poles must obtain approval from the Director of Public Works to ensure the banners will remain safely affixed to the street light poles and will not present a threat to the safety of those making use of nearby streets and sidewalks;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>No banner or attachment shall be placed on a street light pole before an encroachment permit is issued under <cite doc="City of San Mateo, Cal., Code" path="17.08">San Mateo Municipal Code Chapter 17.08</cite>; and</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Banners must be removed no later than the last date of the authorized display period.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="25.06.010">Section 25.06.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|25.06.010"/>
+        <num>25.06.010</num>
+        <heading>PERMIT REQUIRED.</heading>
+        <text>Unless exempt, all signs require a sign permit issued by the City. Unless otherwise provided in <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>, no person shall install, erect, display, alter, move or replace any nonexempt sign without first obtaining a sign permit issued by the City in accordance with <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>. Signs requiring permits such as a building or electrical permit under the uniform construction codes shall obtain those permits prior to being erected; application for a building or other uniform construction code permit shall be filed concurrently with the sign application.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="25.06.050">Section 25.06.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|25.06.050"/>
+        <num>25.06.050</num>
+        <heading>SIGNS ALLOWED.</heading>
+        <text>Except as otherwise provided in <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>, only the following signs are allowed on private property.</text>
+        <para>
+          <num>(a)</num>
+          <heading>Temporary Banners.</heading>
+          <text>Temporary banners may be maintained for a period of 30 consecutive days. The use of banners shall not exceed a total of 90 days per calendar year per business. One banner per street frontage, per zoning plot, shall be permitted with a maximum size of 50 square feet each. No banner shall exceed the height of the business's building parapet, plate line of a pitched roof, or top of a mansard roof. Temporary banners are allowed in addition to the number and size of permanent signs allowed for the zoning plot.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Permanent Signs.</heading>
+          <text>The following types of permanent signs are permitted:</text>
+          <para>
+            <num>(1)</num>
+            <heading>Signs Approved as Part of Planned Signing District.</heading>
+            <text>A Planned Signing District shall be reviewed by the Zoning Administrator under <cite doc="City of San Mateo, Cal., Code" path="27.08">Chapter 27.08</cite> and shall be subject to appeal to the Planning Commission pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.08.090">Section 27.08.090</cite>. The Planned Signing District must conform to the following standards:</text>
+            <para>
+              <num>(A)</num>
+              <text>Be consistent with the applicable restrictions for the zoning district, type of use and zoning plot size.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Each sign shall be designed to be compatible with the architectural style of the main building on the zoning plot and with the predominant visual elements of the building, such as construction materials, color, or other design detail. Each sign located on a zoning plot with more than one building shall be designed to be compatible with the predominant visual elements common or similar to such buildings or the buildings occupied by the anchor tenants or principal uses such as construction materials, color, or other design detail. Signs located on commercial sites but in a predominantly residential area shall take into consideration the architectural style in the residential area.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Freestanding Signs Over Eight Feet in Height.</heading>
+            <text>Freestanding signs over eight feet in height shall be reviewed by the Zoning Administrator under <cite doc="City of San Mateo, Cal., Code" path="27.08">Chapter 27.08</cite> and shall be subject to appeal to the Planning Commission pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.08.090">Section 27.08.090</cite>. The freestanding sign shall be subject to the following standards:</text>
+            <para>
+              <num>(A)</num>
+              <text>The applicable restrictions are based upon the zoning district, type of use and zoning plot size. Any freestanding sign over eight feet in height shall be consistent with these regulations.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Each sign shall be designed to be compatible with the architectural style of the main building on the zoning plot and with the predominant visual elements of the building, such as construction materials, color, or other design detail. Each sign located on a zoning plot with more than one building shall be designed to be compatible with the predominant visual elements common or similar to such buildings or the buildings occupied by the anchor tenants or principal uses such as construction materials, color, or other design detail. Signs located on commercial sites but in a predominantly residential area shall take into consideration the architectural style in the residential area.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The height must be in scale with the surrounding neighborhood.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Signs on High Rise Buildings.</heading>
+            <text>High rise buildings within Commercial (C), Executive Office (E) and Transportation Oriented Development (TOD) zoning districts may have face signs located 40 feet above ground level. These signs are subject to the following restrictions:</text>
+            <para>
+              <num>(A)</num>
+              <text>Only open block letter signs shall be permitted. Such signs shall be an integral part of the design of the building; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>No method of illumination shall be permitted that either exposes the lighting tubes or bulbs. Signs must use internal reverse illumination, with low intensity lighting with tubing or bulbs concealed behind or within translucent or opaque letters, logos or similar signage. However, 20 percent of the sign area may be internally illuminated with a direct light source; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The total area and number of all signs, including any signs above 40 feet, shall not exceed the maximum area and number permitted in the zoning district in which the building is located; however, they can be located on any side of the building and are not limited to the primary, secondary street frontage or parking frontage.</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Freeway Oriented Signs.</heading>
+            <text>On zoning plots which are immediately adjacent to the freeway right-of-way, signs may be erected facing towards the freeway. A freeway sign is allowed in addition to signs authorized for the zoning district of the zoning plot. The additional sign area allowed for a freeway sign may not be combined with the sign area square footage otherwise allowed for the zoning plot in order to exceed the allowed square feet per sign on street frontages or to create larger signs. In addition, the sign area authorized for the zoning district of the zoning plot may not be used to create additional or larger freeway signs. Such signage shall be subject to the following restrictions:</text>
+            <para>
+              <num>(A)</num>
+              <text>Maximum letter height of four feet and a maximum length of 50 feet.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Maximum size of 150 square feet total.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Maximum number of three signs is permitted.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Face signs if placed on the building wall.</text>
+            </para>
+          </para>
+          <para>
+            <num>(5)</num>
+            <heading>Motor Vehicle Fuel Service Stations.</heading>
+            <text>Motor vehicle fuel service stations shall be permitted to exceed the number of signs otherwise authorized by <cite doc="City of San Mateo, Cal., Code" path="25.06">this Chapter</cite> in order to erect those signs designated in <cite doc="Cal. Bus. &amp; Prof. Code" path="§13400">Business and Professions Code Section 13400</cite> et seq., for motor vehicle fuel prices and services.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Signs permitted in the applicable zoning district in accordance with <cite doc="City of San Mateo, Cal., Code" path="25.06.070">Section 25.06.070</cite>.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="25.06.060">Section 25.06.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|25.06.060"/>
+        <num>25.06.060</num>
+        <heading>SIGNS ALLOWED WITHOUT PERMIT (EXEMPT SIGNS).</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Exempt Signs.</heading>
+          <text>The following signs are exempt from the permit and fee requirements of <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>, but are subject to the other restrictions set forth in <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>. Signs allowed by this Section shall not be counted against the signage allowed in <cite doc="City of San Mateo, Cal., Code" path="25.06.070">Section 25.06.070</cite>, but may not be added to that signage to create a larger sign.</text>
+          <para>
+            <num>(1)</num>
+            <heading>Sign Size per Zoning District.</heading>
+            <text>Signs up to 10 square feet in R1 and R2 districts and 16 square feet in all other districts. No sign may be larger than six square feet, except as allowed under flags and pennants below.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Window Signs.</heading>
+            <text>In addition to signs authorized by <cite doc="City of San Mateo, Cal., Code" path="25.06.070">Section 25.06.070</cite>, each residential unit, nonresidential use or individual business may have the window signs listed below. The square footage may not be combined with that allowed for other residential units, nonresidential use or businesses to exceed the allowed square feet per residential unit, nonresidential use or per business or to create larger signs. Window signs shall not cover more than 25% of the window area of any window within a building.</text>
+            <para>
+              <num>(A)</num>
+              <text>Signs up to four square feet in size.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Ground floor retail businesses may have 50 square feet of window signs per street frontage.</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Address Signs.</heading>
+            <text>In addition to signs authorized by <cite doc="City of San Mateo, Cal., Code" path="25.06.070">Section 25.06.070</cite>, each building, unit, or property with an address may place a sign not to exceed one square foot limited to the street address for the building, unit, or property.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Parking Lots and Garages.</heading>
+            <text>Signs in parking lots and garages that direct vehicle traffic or state parking limitations.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <heading>Flags and Pennants.</heading>
+            <text>Two flags or any number of pennants totaling 30 square feet in addition to the square footage allowed by <cite doc="City of San Mateo, Cal., Code" path="25.06.070">Section 25.06.070</cite>.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <heading>Law.</heading>
+            <text>Signs required by law. The sign area of signs permitted under this subsection shall not be counted against any sign area limit provided for in <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <heading>Construction Signs.</heading>
+            <para>
+              <num>(A)</num>
+              <text>The following construction signs are allowed on a zoning plot:</text>
+              <para>
+                <num>(i)</num>
+                <text>For zoning plots less than one acre in size, one sign is allowed per street frontage with a total maximum area of 32 square feet.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>For zoning plots one acre in size or more, one sign is allowed per lot frontage with a total maximum area of 64 square feet.</text>
+              </para>
+            </para>
+            <para>
+              <num>(B)</num>
+              <heading>Limitations.</heading>
+              <text>Construction signs on each zoning plot are subject to the following limitations:</text>
+              <para>
+                <num>(i)</num>
+                <heading>Maximum Height.</heading>
+                <text>Eight feet in height, measured at grade, sidewalk or street, whichever is lower.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <heading>Permissible Display Time.</heading>
+                <text>Beginning with the grant of a building permit and ending with the earlier of notice of completion or certificate of occupancy for the subject development, or their functional equivalent.</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <heading>Private Property.</heading>
+                <text>If attached to a fence surrounding the zoning plot, the sign should be located on private property and not encroach into the public right-of-way.</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <heading>Abandoned Construction Signs.</heading>
+                <text>Construction signs that remain following the issuance of a certificate of occupancy shall be deemed abandoned and may be abated by the City as a public nuisance.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(8)</num>
+            <heading>Change in Sign Copy.</heading>
+            <text>Changes in sign copy to an existing permitted and legally erected sign without any accompanying change in square footage, height, and sign structure are exempt from the permit and fee requirements of <cite doc="City of San Mateo, Cal., Code" path="25">this title</cite>, provided that the change in sign copy complies with <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <heading>Legal Nonconforming Signs.</heading>
+            <text>Any on-premises advertising display, as that term is defined in <cite doc="Cal. Bus. &amp; Prof. Code" path="§5490">Business and Professions Code Section 5490</cite> et seq., which lawfully exists on the effective date of the ordinance codified in <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>, but which is not authorized by <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>, is a legal nonconforming sign, and may continue as an exception to <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>, and to any zoning provisions of this Code. However, a legal nonconforming sign shall be removed or brought into conformance with the provisions of <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite> if such sign meets any of the criteria set forth in <cite doc="Cal. Bus. &amp; Prof. Code" path="§5497">Business and Professions Code Section 5497</cite>. For the purposes of applying <cite doc="Cal. Bus. &amp; Prof. Code" path="§5497">Business and Professions Code Section 5497</cite>, an advertising display shall be considered "abandoned" if it has not displayed any message (either commercial or noncommercial) for a period of 90 consecutive days.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Limitations.</heading>
+          <text>Exempt signs on each zoning plot are subject to the following limitations:</text>
+          <para>
+            <num>(1)</num>
+            <text>Freestanding signs shall not exceed the maximum height of six feet above grade or the adjacent street or sidewalk whichever is lower.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Individual signs shall not exceed six square feet, except as allowed for flags and pennants.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>In a Residential Zoning District, signs shall be limited to face, pennants, flags, window and freestanding signs.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Signs may not be internally illuminated.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>9</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="25.06.070">Section 25.06.070 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|25.06.070"/>
+        <num>25.06.070</num>
+        <heading>ZONING REGULATIONS APPLICABLE TO SIGNS ON PRIVATE PROPERTY.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Residential Districts (R1-A, R1-B, R1-C, R2, R3, R4, R5, R4-D, R5-D and R6-D).</text>
+          <para>
+            <num>(1)</num>
+            <text>For single-family residential uses and multiple-family residential uses on zoning plots of less than 10,000 square feet, no signs other than those designated in <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite> are authorized.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For nonresidential uses, as defined in <cite doc="City of San Mateo, Cal., Code" path="25.02.030">Section 25.02.030</cite>, and multiple family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For commercial uses, the restrictions set forth in Table 25.06-3, Sign Restrictions in Commercial Districts, shall apply.</text>
+            <text>
+              <table>
+                <caption>Table 25.06-1: Sign Restrictions in Residential (R) Districts for Residential Uses on Zoning Plots less than 10,000 Square Feet (R1-A, R1-B, R1-C, R2, R3, R4, R5, R4-D, R5-D, R6-D)</caption>
+                <tbody>
+                  <tr>
+                    <th>Total Sign Area Permitted</th>
+                    <td>Signs up to 10 sq. ft. in R1 and R2 districts and 16 sq. ft. in all other districts. No sign may be larger than 6 sq. ft., except as allowed as flags and pennants.</td>
+                  </tr>
+                  <tr>
+                    <th>Number of Signs Permitted</th>
+                    <td>No restrictions other than those set forth in <cite doc="City of San Mateo, Cal., Code" path="25.06">this Chapter</cite>.</td>
+                  </tr>
+                  <tr>
+                    <th>Types of Signs Permitted</th>
+                    <td/>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">Face</td>
+                    <td>No neon</td>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">Freestanding</td>
+                    <td>No neon; plus maximum height limit of 8 ft</td>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">Projecting</td>
+                    <td>No internal neon</td>
+                  </tr>
+                  <tr>
+                    <td colspan="2">No sign, regardless of type, shall be located above 40 feet above grade, except as provided for high-rise buildings in <cite doc="City of San Mateo, Cal., Code" path="25.06.050">Section 25.06.050</cite>.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+            <text>
+              <table>
+                <caption>Table 25.06-2: Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger (R1-A, R1-B, R1-C, R2, R3, R4, R5, R4-D, R5-D, R6-D)</caption>
+                <thead>
+                  <tr>
+                    <th>Zoning Plot Size</th>
+                    <th>10K-15K sq. ft.</th>
+                    <th>15K-30K sq. ft.</th>
+                    <th>30K-50K sq. ft.</th>
+                    <th>50K sq. ft. and Above</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th>Total Sign Area Permitted (10 sq. ft. minimum for all plot sizes)</th>
+                    <td>0.5 sq. ft. per lineal ft. of street frontage; maximum 20 sq. ft.</td>
+                    <td>0.5 sq. ft. per lineal ft. of street frontage; maximum 25 sq. ft.</td>
+                    <td>0.5 sq. ft. per lineal ft. of street frontage; maximum 50 sq. ft.</td>
+                    <td>0.5 sq. ft. per lineal ft. of street frontage; maximum 100 sq. ft.</td>
+                  </tr>
+                  <tr>
+                    <th>Number of Signs</th>
+                    <td>Three signs, none exceeding 10 sq. ft.; one may be freestanding.</td>
+                    <td>Three signs, none exceeding 15 sq. ft.; one may be freestanding.</td>
+                    <td>Four signs, none exceeding 25 sq. ft.; one may be freestanding.</td>
+                    <td>Four signs, none exceeding 40 sq. ft.; two may be freestanding.</td>
+                  </tr>
+                  <tr>
+                    <th>Types of Signs Permitted</th>
+                    <td colspan="4"/>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">Face</td>
+                    <td colspan="4">No neon</td>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">Freestanding</td>
+                    <td colspan="4">No neon; plus maximum height limit of 8 ft.</td>
+                  </tr>
+                  <tr>
+                    <td class="text-indent-1">Projecting</td>
+                    <td colspan="4">No neon</td>
+                  </tr>
+                  <tr>
+                    <td colspan="5">No sign, regardless of type, shall be located above 40 feet above grade, except as provided for high-rise buildings in <cite doc="City of San Mateo, Cal., Code" path="25.06.050">Section 25.06.050</cite>.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Regulations in all Commercial (C) Districts (C1, C2, C3, C4 and CBD Support).</heading>
+          <text>(Except CBD-Required Retail Frontage Area). The following restrictions shall apply in all commercial districts, except Central Business District (CBD)-Required Retail Frontage Area. Community or Regional shopping centers have other restrictions even though they are located in a commercial district:</text>
+          <para>
+            <num>(1)</num>
+            <text>For commercial uses, the restrictions set forth in Table 25.06-3, Sign Restrictions in Commercial Districts, shall apply.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For single-family residential uses and multiple-family residential uses on zoning plots of less than 10,000 square feet, the restrictions set forth in Table 25.06-1, Residential (R) Districts for Residential Uses on Zoning Plots less than 10,000 Square Feet, shall apply.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For nonresidential uses, as defined in <cite doc="City of San Mateo, Cal., Code" path="25.02.030">Section 25.02.030</cite>, and multiple-family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Existing Community and Regional Shopping Centers.</heading>
+            <text>All businesses or other allowed uses within existing community shopping centers that do not have an approved planned sign district shall be limited to a maximum of 25 square feet of individual sign area.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <heading>New Community and Regional Shopping Centers.</heading>
+            <text>All new community and regional shopping centers, and existing community and regional shopping centers undergoing substantial exterior remodeling pursuant to a Site Plan and Architectural Review (SPAR) under <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>, shall require review and approval of a Planned Signing District concurrent with SPAR review. All signs shall conform to the provisions of the Planned Signing District.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <heading>Multiple Tenants.</heading>
+            <text>Where a building contains more than one tenant, the following regulations shall apply:</text>
+            <para>
+              <num>(A)</num>
+              <heading>Sign Area.</heading>
+              <text>Shall be calculated per the restrictions set forth in Tables 25.06-3, 25.06-4 and 25.06-5, whichever is applicable. The total area of signs shall not exceed that required for the zoning plot. When a building contains more than one tenant and has more than one street frontage, for the purposes of calculating maximum square footage, the primary street frontage for all the tenants shall be the street upon which the building's main entrance is located, irrespective of the location or address of each individual tenant's main address.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <heading>Number of Signs.</heading>
+              <text>Shall be based on the number of ground floor tenants within the building (that have a street frontage). One sign per each ground floor tenant with street frontage shall be allowed. These signs may be used to advertise any tenant in the building. In addition, one freestanding sign for the entire building may be permitted.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <heading>Location of Signs.</heading>
+              <text>Except as provided in subdivision (E), signs for all tenants must be located on the ground level.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <heading>Multiple Tenant Buildings.</heading>
+              <text>Multiple tenant buildings can opt to conform to the restrictions for single tenant buildings set forth in Tables 25.06-3, 25.06-4 and 25.06-5, whichever is applicable.</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <heading>High Rise Buildings with Multiple Tenants.</heading>
+              <text>High rise buildings with multiple tenants may have one face sign not to exceed 150 square feet in sign area in addition to the sign area and number of signs allowed in subsections (b)(6)(A) and (b)(6)(B). High rise building face signs are subject to the requirements set forth in <cite doc="City of San Mateo, Cal., Code" path="25.06.050|(b)|(3)">Section 25.06.050(b)(3)</cite>.</text>
+              <text>
+                <table>
+                  <caption>Table 25.06-3: Sign Restrictions in Commercial (C) Districts (C1, C2, C3, C4 and CBD Support) (Except CBD-Required Retail Frontage Area)</caption>
+                  <tbody>
+                    <tr>
+                      <th>Total Sign Area Permitted</th>
+                      <td colspan="2"><strong>Primary Street Frontage:</strong> 1.5 sq. ft./1 lineal foot of street frontage (allowable minimum of 50 sq. ft. regardless of primary street frontage size, and up to maximum of 300 sq. ft)</td>
+                      <td><strong>Secondary Street Frontage:</strong> 1.0 sq. ft./1 lineal foot of street frontage; maximum 100 sq. ft., minimum 25 sq. ft.</td>
+                    </tr>
+                    <tr>
+                      <th>Number of Signs Permitted</th>
+                      <td colspan="3">2 signs per street frontage per business. Only 1 sign per street frontage may be either a freestanding or projecting sign. For multi-tenant buildings see <cite doc="City of San Mateo, Cal., Code" path="25.06.070|(b)|(6)">Section 25.06.070(b)(6)</cite>.</td>
+                    </tr>
+                    <tr>
+                      <th>Types of Permitted Signs</th>
+                      <th>Maximum Size</th>
+                      <th>Minimum and/or Maximum Height</th>
+                      <th>Additional Requirements</th>
+                    </tr>
+                    <tr>
+                      <td>Awning</td>
+                      <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                      <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                      <td>None other than the total sign area and number of permitted signs as specified above.</td>
+                    </tr>
+                    <tr>
+                      <td>Face</td>
+                      <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                      <td>
+                        <p>Shall be at least 10 ft. above the ground or sidewalk if sign projects more than 6 inches from building.</p>
+                        <p>Shall not extend above the building roof line or parapet line.</p>
+                      </td>
+                      <td>None other than the total sign area and number of permitted signs as specified above.</td>
+                    </tr>
+                    <tr>
+                      <td>Freestanding</td>
+                      <td>
+                        <p>For lots up to 50 ft. in width, maximum size of 40 sq. ft.</p>
+                        <p>For lots over 50 ft. in width, an additional 0.35 sq. ft./1 ft. of frontage permitted up to a maximum size of 75 sq. ft.</p>
+                      </td>
+                      <td>
+                        <p>For lots up to 50 ft. in width, maximum height to top of sign of 15 ft.</p>
+                        <p>For lots over 50 ft. in width, an additional 0.1 ft. of height/1 ft. of frontage permitted up to a maximum height to top of sign of 25 ft.</p>
+                      </td>
+                      <td>
+                        <p>Signs over 8 ft. in height require approval by the Planning Commission.</p>
+                        <p>The area below the sign shall be landscaped and enclosed by a 4-inch high curb.</p>
+                        <p>Where area below the sign copy is not generally solid from the ground to the lower edge of the display area, a minimum height of 10 ft. to bottom of sign shall be provided.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>Marquee</td>
+                      <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                      <td>
+                        <p>Shall be at least 10 ft. above the ground or sidewalk.</p>
+                        <p>Shall not extend above the building roof line or parapet line.</p>
+                      </td>
+                      <td>
+                        <p>Shall not be more than 4 ft. in vertical dimension.</p>
+                        <p>Shall be approximately parallel with face of marquee.</p>
+                        <p>Shall not project more than 6 inches beyond face of marquee nor be within 2 ft. of perpendicular projection of curb line.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>Projecting</td>
+                      <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                      <td>
+                        <p>Shall be at least 10 ft. above the ground or sidewalk.</p>
+                        <p>Shall not extend above the building roof line or parapet line.</p>
+                      </td>
+                      <td>
+                        <p>Shall not project more than 4 ft. from the face of building.</p>
+                        <p>Shall not project within 2 ft. of curb line.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="4">No sign, regardless of type, shall be located above 40 ft. above grade, except as provided for high-rise buildings in <cite doc="City of San Mateo, Cal., Code" path="25.06.050">Section 25.06.050</cite>.</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Sign Regulations in the Central Business District (CBD)-Required Retail Frontage Area.</text>
+          <para>
+            <num>(1)</num>
+            <text>For commercial uses, the restrictions set forth in Table 25.06-4, Sign Restrictions in the Central Business District (CBD)-Required Retail Frontage Area, shall apply.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For single-family residential uses and multiple-family residential uses on zoning plots of less than 10,000 square feet, the restrictions set forth in Table 25.06-1, Residential (R) Districts for Residential Uses on Zoning Plots less than 10,000 Square Feet, shall apply.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For nonresidential uses, as defined in <cite doc="City of San Mateo, Cal., Code" path="25.02.030">Section 25.02.030</cite>, and multiple-family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Multiple Tenants.</heading>
+            <text>Where a building contains more than one tenant and individual signs are desired, the provisions of <cite doc="City of San Mateo, Cal., Code" path="25.06.070|(b)|(6)">Section 25.06.070(b)(6)</cite> shall apply.</text>
+            <text>
+              <table>
+                <caption>Table 25.06-4: Sign Restrictions in the Central Business District (CBD)-Required Retail Frontage Area</caption>
+                <tbody>
+                  <tr>
+                    <th>Total Sign Area Permitted</th>
+                    <td colspan="2"><strong>Primary Street Frontage:</strong> 1 sq. ft./1 lineal foot of street frontage (allowable minimum of 35 sq. ft. regardless of primary street frontage size, and up to a maximum of 100 sq. ft.)</td>
+                    <td><strong>Secondary Street Frontage:</strong> 0.5 sq. ft./1 lineal foot of street frontage; maximum 50 sq. ft., minimum 25 sq. ft.</td>
+                  </tr>
+                  <tr>
+                    <th>Number of Signs Permitted</th>
+                    <td colspan="3">2 signs per street frontage for a single tenant building. Only 1 sign per street frontage may be a projecting sign. For multi-tenant buildings see <cite doc="City of San Mateo, Cal., Code" path="25.06.070|(b)|(6)">Section 25.06.070(b)(6)</cite>.</td>
+                  </tr>
+                  <tr>
+                    <th>Types of Permitted Signs</th>
+                    <th>Maximum Size</th>
+                    <th>Minimum and/or Maximum Height</th>
+                    <th>Additional Requirements</th>
+                  </tr>
+                  <tr>
+                    <td>Awning</td>
+                    <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                    <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                    <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                  </tr>
+                  <tr>
+                    <td>Face</td>
+                    <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                    <td>
+                      <p>Maximum height of 20 ft.</p>
+                      <p>Shall not extend above the building roof line or parapet line.</p>
+                      <p>Illuminated or electric face signs shall be at least 8 ft. above the sidewalk or ground.</p>
+                    </td>
+                    <td>
+                      <p>Illuminated face signs shall not project more than 12 inches from building face.</p>
+                      <p>Un-illuminated face signs shall not project more than 6 inches from building face.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>Marquee</td>
+                    <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                    <td>
+                      <p>Shall be at least 10 ft. above the ground or sidewalk.</p>
+                      <p>Shall not extend above the building roof line or parapet line.</p>
+                    </td>
+                    <td>
+                      <p>Shall not be more than 4 ft. in vertical dimension.</p>
+                      <p>Shall be approximately parallel with face of marquee.</p>
+                      <p>Shall not project more than 6 inches beyond face of marquee nor within 2 ft. of curb line.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>Projecting</td>
+                    <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                    <td>
+                      <p>Shall be at least 10 ft. above the ground or sidewalk.</p>
+                      <p>Shall not extend above the building roof line or parapet line.</p>
+                    </td>
+                    <td>
+                      <p>Shall not project more than 4 ft. from the face of building.</p>
+                      <p>Shall not be more than 2-ft. thick.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="4">No sign, regardless of type, shall be located above 40 ft. above grade, except as provided for high-rise buildings in <cite doc="City of San Mateo, Cal., Code" path="25.06.050">Section 25.06.050</cite>.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Sign Regulations in Executive Office Districts (E1, E2).</text>
+          <para>
+            <num>(1)</num>
+            <text>For commercial uses, the restrictions set forth in Table 25.06-5, Sign Restrictions in Executive Office Districts, shall apply.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For single-family residential uses and multiple-family residential uses on zoning plots of less than 10,000 square feet, the restrictions set forth in Table 25.06-1, Residential (R) Districts for Residential Uses on Zoning Plots less than 10,000 Square Feet, shall apply.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For nonresidential uses, as defined in <cite doc="City of San Mateo, Cal., Code" path="25.02.030">Section 25.02.030</cite>, and multiple-family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <heading>Multiple Tenants.</heading>
+            <text>Where a building contains more than one tenant and individual signs are desired, the provisions of <cite doc="City of San Mateo, Cal., Code" path="25.06.070|(b)|(6)">Section 25.06.070(b)(6)</cite> shall apply.</text>
+            <text>
+              <table>
+                <caption>Table 25.06-5: Sign Restrictions in Executive Office Districts (E1, E2)</caption>
+                <tbody>
+                  <tr>
+                    <td/>
+                    <th colspan="2">All E Districts, except San Mateo Drive Between Baldwin &amp; Villa Terrace</th>
+                    <th>E Districts on San Mateo Drive Between Baldwin &amp; Villa Terrace</th>
+                  </tr>
+                  <tr>
+                    <th>Total Sign Area Permitted</th>
+                    <td colspan="2">1.5 sq. ft./1 lineal foot of street frontage (allowable minimum of 50 sq. ft. regardless of street frontage size, and up to a maximum of 300 sq. ft.)</td>
+                    <td>Maximum of 35 sq. ft.</td>
+                  </tr>
+                  <tr>
+                    <th>Number of Signs Permitted</th>
+                    <td colspan="2">2 signs per street frontage per business. Only 1 freestanding sign per zoning plot. For multi-tenant buildings, see <cite doc="City of San Mateo, Cal., Code" path="25.06.070|(b)|(6)">Section 25.06.070(b)(6)</cite>.</td>
+                    <td>One sign per building.</td>
+                  </tr>
+                  <tr>
+                    <th>Types of Permitted Signs</th>
+                    <th>Maximum Size</th>
+                    <th>Minimum and/or Maximum Height</th>
+                    <th>Additional Requirements</th>
+                  </tr>
+                  <tr>
+                    <td>Awning</td>
+                    <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                    <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                    <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                  </tr>
+                  <tr>
+                    <td>Face</td>
+                    <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                    <td>
+                      <p>Shall be at least 10 ft. above the ground if sign projects more than 6 inches from the building.</p>
+                      <p>Shall not extend above the building roof line or parapet line.</p>
+                    </td>
+                    <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                  </tr>
+                  <tr>
+                    <td>Freestanding</td>
+                    <td>
+                      <p>For lots up to 50 ft. in width, maximum size of 40 sq. ft.</p>
+                      <p>For lots over 50 ft. in width, an additional 0.35 sq. ft./1 ft. of frontage permitted up to a maximum size of 75 sq. ft.</p>
+                    </td>
+                    <td>Maximum of 8 ft. in height.</td>
+                    <td>The area below freestanding signs shall be landscaped and enclosed by a 6-inch high curb.</td>
+                  </tr>
+                  <tr>
+                    <td>Marquee</td>
+                    <td>No specified limit other than the total sign area and number of permitted signs as specified above.</td>
+                    <td>
+                      <p>Shall be at least 10 ft. above the ground or sidewalk.</p>
+                      <p>Shall not extend above the building roof line or parapet line.</p>
+                    </td>
+                    <td>
+                      <p>Shall not be more than 4 ft. in vertical dimension.</p>
+                      <p>Shall be approximately parallel with face of marquee.</p>
+                      <p>Shall not project more than 6 inches beyond face of marquee nor be within 2 ft. of curb line.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="4">No sign, regardless of type, shall be located above 40 ft. above grade, except as provided for high-rise buildings in <cite doc="City of San Mateo, Cal., Code" path="25.06.050">Section 25.06.050</cite>.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Manufacturing District (M1).</text>
+          <para>
+            <num>(1)</num>
+            <text>For commercial uses, the restrictions set forth in Table 25.06-3, Sign Restrictions in Commercial Districts, shall apply.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Multiple Tenants.</heading>
+            <text>Where a building contains more than one ground floor tenant and individual signs are desired, the provisions of <cite doc="City of San Mateo, Cal., Code" path="25.06.070|(b)|(6)">Section 25.06.070(b)(6)</cite> shall apply.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Sign Regulations in Transportation Oriented Development (TOD), Agricultural (A), Shoreline (S), Open Space (OS) and Other Districts and Overlay Districts.</text>
+          <text>The following restrictions shall apply to all agricultural, shoreline, and other zoning districts not specifically designated in <cite doc="City of San Mateo, Cal., Code" path="25.06">this chapter</cite>, as well as for any land or zoning plot with no zoning designation:</text>
+          <para>
+            <num>(1)</num>
+            <text>For commercial uses, the restrictions set forth in Table 25.06-3, Sign Restrictions in Commercial Districts, shall apply.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For single-family residential uses and multiple-family residential uses on zoning plots of less than 10,000 square feet, the restrictions set forth in Table 25.06-1, Residential (R) Districts for Residential Uses on Zoning Plots less than 10,000 Square Feet, shall apply.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For nonresidential uses, as defined in <cite doc="City of San Mateo, Cal., Code" path="25.02.030">Section 25.02.030</cite>, and multiple-family residential uses on zoning plots of 10,000 square feet or larger, the restrictions set forth in Table 25.06-2, Sign Restrictions in Residential (R) Districts for Multiple-Family Residential Uses and Nonresidential Uses (Special Uses and Mixed Uses) on Zoning Plots 10,000 Square Feet or Larger, shall apply.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Multiple Tenants. Where a building contains more than one tenant and individual signs are desired, the provisions of <cite doc="City of San Mateo, Cal., Code" path="25.06.070|(b)|(6)">Section 25.06.070(b)(6)</cite> shall apply.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>10</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="25.08.010">Section 25.08.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|25.08.010"/>
+        <num>25.08.010</num>
+        <heading>PROHIBITED SIGNS ON PUBLIC AND PRIVATE PROPERTY AND PUBLIC RIGHT OF WAY.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Prohibited Signs. No person shall install or maintain any of the signs described below. Upon notice by the City, any prohibited sign shall be immediately removed by the property owner or person responsible for the installation or maintenance of the sign. The following signs are expressly prohibited:</text>
+          <para>
+            <num>(1)</num>
+            <text>Without Consent of Property Owner. Signs erected or maintained without the written consent of the owner of the real property or the person or entity in legal possession of the real property;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Banners, except as permitted by Sections <cite doc="City of San Mateo, Cal., Code" path="25.04.030">25.04.030</cite> and <cite doc="City of San Mateo, Cal., Code" path="25.06.050|(a)">25.06.050(a)</cite> and there may be permanently displayed on each zoning plot 1 flag that is no larger than 6 feet by 4 feet in dimension, and there is no limit on the number of flags that may be displayed by public agencies on public property;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Rotating, animated, moving or flashing signs;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Roof Signs;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Off-Site Advertising Signs; except that one six (6) square foot sign containing off-site advertising shall be permitted on each zoning plot;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Inflating Devices, including balloons and other lighter than air objects;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Signs not permitted by <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Signs At Prohibited Locations:</heading>
+          <text>No person shall install or maintain any of the signs identified below. Upon notice by the City, any sign at a prohibited location shall be immediately abated by the property owner or person responsible for the installation and/or maintenance of the sign. The following locations are expressly prohibited:</text>
+          <para>
+            <num>(1)</num>
+            <heading>Signs at Intersections.</heading>
+            <text>No sign shall be erected at or near the intersection of any street or at any location where, by reason of the position, shape or color, it may interfere with, obstruct the view of, or be confused with any authorized traffic sign or signal device; or which makes use of the words "Stop," "Go," "Caution," "Look," "Danger," or any other word, phrase, symbol or character in such a manner as to interfere with, mislead or confuse traffic.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Intersection Visibility.</heading>
+            <text>No sign shall be erected at or near the intersection of any street so as to obstruct free and clear vision, or obstruct visibility within the triangular area of private property formed by the extension of intersection curb lines, or pavement edge where no curb exists, and the diagonal line connecting the point on each of the two streets at a distance 45 feet back from the intersection.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Ingress/Egress.</heading>
+            <text>No sign shall be erected, relocated or maintained so as to prevent free ingress to or egress from any door, window, fire escape or fire equipment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Illegal Signs—Nuisance.</heading>
+          <text>All illegal signs are expressly declared a nuisance. For purposes of this section, an illegal sign shall mean:</text>
+          <para>
+            <num>(1)</num>
+            <text>A sign erected and/or maintained without first complying with all ordinances and regulations.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A sign which is a danger to the public or is unsafe.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A prohibited sign as defined by <cite doc="City of San Mateo, Cal., Code" path="25">this title</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Enforcement.</text>
+          <para>
+            <num>(1)</num>
+            <text>The placement of a sign on public or private property or in the public right-of-way in violation of any provision of <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite> may be enforced by any method provided by this Code. Each day that the violation continues shall be deemed to be a new violation. All violations are declared to be public nuisances.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any sign placed on public property or in the public right-of-way in violation of any provision of <cite doc="City of San Mateo, Cal., Code" path="25">this Title</cite> may be removed and impounded without notice. Impounded signs will be held for at least 30 days. If possible, the City will make reasonable attempts to notify the owner of an impounded sign that the sign has been impounded. If after 10 days' notice to reclaim the sign, the owner of the sign fails to retrieve the sign and pay the City's reasonable costs to impound and store the sign, the sign may be disposed of in any manner whatsoever at the City's discretion. The amount of the sign retrieval fee shall be established by City Council resolution.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>11</num>
+    <text>Environmental Determination. In accordance with CEQA Guidelines Section 15061(b)(3), adoption of these sign ordinance amendments is covered by the "common sense exemption" that CEQA applies only to projects which have the potential to cause a significant effect on the environment.  Here, it can be seen with certainty that the sign ordinance amendments, which consist of updates to definitions and clarification of what activities can occur in the public right-of-way, will not have a significant effect on the environment per Guidelines Section 15061(b)(3).</text>
+  </section>
+  <section>
+    <num>12</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>13</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>14</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on April 4, 2022, and adopted on April 18, 2022, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Rodriguez, Goethals, and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
