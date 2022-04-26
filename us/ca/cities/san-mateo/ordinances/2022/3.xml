@@ -1,0 +1,345 @@
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2022-03" codify:doc="City of San Mateo, Cal., Code">
+  <num>2022-03</num>
+  <heading type="short">Disposable Food Service Ware Code Amendment</heading>
+  <heading type="long">AMENDING CHAPTER 5.89, "DISPOSABLE FOOD SERVICE WARE," OF THE SAN MATEO MUNICIPAL CODE</heading>
+  <meta>
+    <effective>2022-05-04</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2022-3.pdf">Ord. No. 2022-03</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2022-03</citation>
+    </citations>
+    <history>
+      <introduced>2022-03-21</introduced>
+      <adopted>2022-04-04</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>an existing ordinance addressing disposable food service ware is codified at <cite doc="City of San Mateo, Cal., Code" path="5.89">Chapter 5.89 of the San Mateo Municipal Code</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on October 5, 2021, AB 1276 was signed into law by Governor Gavin Newsom restricting the distribution of single-use food ware accessories (e.g., utensils, straws, condiment packets, etc.) at food facilities; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on October 5, 2021, AB 1200 was also signed into law by the Governor prohibiting the sale or distribution of food packaging containing perfluoroalkyl and polyfluoroalkyl substances (PFAS); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the County of San Mateo has amended the County ordinance to match the requirements of AB 1276 and AB 1200; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>these changes in state law necessitate amendments to <cite doc="City of San Mateo, Cal., Code" path="5.89">Chapter 5.89</cite>, which will be consistent with the County ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.89.010">Section 5.89.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="5.89.010" />
+        <num>5.89.010</num>
+        <heading>Definitions</heading>
+        <text>For purposes of <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite>, the following terms have the following meanings:</text>
+        <para>
+          <num>(a)</num>
+          <text>"Aluminum Foil-based" means any Disposable Food Service Ware composed entirely of aluminum, including but not limited to aluminum tray liners, aluminum foil, and aluminum foil baskets.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"City" means City of San Mateo or any entity authorized to perform City duties in a written agreement, which includes the County of San Mateo.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Compostable" means that an item or material:</text>
+          <para>
+            <num>(1)</num>
+            <text>Meets standards for compostability from a certified/approved independent third-party approved by the County Manager or designee, in collaboration with local waste processors, haulers, and/or other entities, as required; and/or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Is any variation of acceptable materials that will break down or otherwise become part of usable compost in a safe and timely manner as determined by the County Manager or designee, in collaboration with local waste processors, haulers, and/or other entities, as required; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Is Natural Fiber-based. Compostable items may include those that are made entirely of Natural Fiber or Natural Fiber-based items that are coated or lined with biologically based polymer, such as, but not limited to corn or other plant sources (e.g., compostable plastics), if certified/approved by independent third parties approved by the County Manager or designee.</text>
+            <text>"Compostable" does not include items made entirely or primarily of biologically based polymer (e.g., PLA, PHA, or other compostable plastic), even if labeled or certified as compostable.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"County" means the County of San Mateo.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Disposable" means designed to be discarded after a single or limited number of uses and not designed or manufactured for long-term multiple re-use.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Food Service Ware" means food contact products used for serving, distributing, holding, packaging, and/or transporting Prepared Food including, but not limited to plates, cups, bowls, trays, clamshell containers, boxes, utensils, straws, lids, and food contact paper (e.g., wraps, bags, tray liners, etc.). The term "Food Service Ware" includes Food Service Ware Accessories and Standard Condiment in Disposable packaging.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Food Service Ware Accessories" include different types of Food Service Ware such as straws, stirrers, Utensils, condiment cups and packets, cocktail sticks/picks, toothpicks, napkins, cup spill plugs, cup sleeves, and other similar accessory or accompanying Food Service Ware used as part of food or beverage service or packaging. Detachable lids for beverage cups and food containers are not considered a Food Service Ware Accessory.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Food Facility" means an operation that stores, prepares, packages, serves, vends, or otherwise provides food to the public for human consumption, as defined by the <cite doc="Cal. Health &amp; Safety Code" path="§113789">California Health and Safety Code Section 113789</cite> or successor. It includes both permanent and temporary food facilities. For purposes of <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite>, public schools are not included in the definition of Food Facility.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Food Scrap Composting Method" means (1) self-hauling of food scraps to a permitted composting facility or a transfer station that accepts food scraps that will be transferred to a permitted composting facility for on-site compost processing, (2) food scrap compost collection service provided by a curbside hauler, or (3) on-site food scrap composting.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Healthcare Facilities" mean places that provide healthcare to the public. Healthcare Facilities include, but are not limited to hospitals, clinics, outpatient care centers, nursing homes, psychiatric care centers, medical offices, hospice homes, mental health and addiction treatment centers, orthopedic and other rehabilitation centers, urgent care, or birth centers.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Natural Fiber/Natural Fiber-based" means a plant or animal-based, nonsynthetic fiber, including but not limited to products made from paper, sugarcane, bamboo, wheat stems/stalk, hay, or wood.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Non-Compostable" means not meeting the definition of Compostable set forth in <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Perfluoroalkyl and Polyfluoroalkyl substances (PFAS)" means a class of fluorinated organic chemicals containing at least one fully fluorinated carbon atom.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>"Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) Restrictions" mean either of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>PFAS has not been intentionally added to a product or product component.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The presence of PFAS in a product or product component is below 100 parts per million, as measured in total organic fluorine.</text>
+          </para>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>"Polystyrene-based" means and includes expanded polystyrene, which is a thermoplastic petrochemical material utilizing a styrene monomer and processed by any number of techniques including, but not limited to fusion of polymer spheres (expandable bead polystyrene), injection molding, form molding, and extrusion-blow molding (extruded foam polystyrene). The term "polystyrene" also includes polystyrene that has been expanded or blown using a gaseous blowing agent into a solid foam (expanded polystyrene [EPS]) and clear or solid polystyrene known as oriented polystyrene.)</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>"Prepackaged Food" means any properly labeled processed food, prepackaged to prevent any direct human contact with the food product upon distribution from the manufacturer and prepared at an approved source.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>"Prepared Food" means food or beverages that undergo a cooking or food preparation technique on the Food Facility's premises for consumption by the public. Cooking or food preparation technique includes, but is not limited to, the following: 1) Cooking methods, utilizing the application of heat, such as steaming, microwaving, simmering, boiling, broiling, grilling, frying, or roasting; 2) Beverage preparation, such as blending, brewing, steeping, juicing, diluting, or pouring; and 3) Food preparation techniques, such as defrosting, rinsing, washing, diluting, cutting, portioning, mixing, blending, assembling, coating, dipping, garnishing, decorating, or icing. Prepared Food does not include raw eggs or raw, butchered meats, fish, and/or poultry sold from a butcher case, a refrigerator case, or similar retail appliance.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>"Standard Condiments" means relishes, spices, sauces, confections, or seasonings that require no additional preparation and that are usually used on a food item after preparation, and includes different types such as ketchup, mustard, mayonnaise, soy sauce, hot sauce, salsa, salt, pepper, and sugar/sugar substitutes.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>"Takeout Food" means Prepared Food that is purchased to be consumed off a Food Facility's premises. Takeout Food includes Prepared Food delivered by a Food Facility or by a third-party Takeout Food Delivery Service.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>"Takeout Food Delivery Service" is a service for online food ordering and delivery of Prepared Food from a Food Facility to a customer. This service can be provided directly by the Food Facility or by a third-party.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.89.020">Section 5.89.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="5.89.020" />
+        <num>5.89.020</num>
+        <heading>Distribution of Disposable Food Service Ware Accessories and Standard Condiments</heading>
+        <text>Except as provided in Subsection (b), Food Facilities, for on-premise dining and off-premise dining (e.g., Takeout Food Delivery Service, catering off-site, etc.), shall not provide any Disposable Food Service Ware Accessories or Standard Condiments in Disposable packaging to a consumer</text>
+        <para>
+          <num>(a)</num>
+          <text>unless the specific type of Disposable Food Service Ware Accessory (including different types of utensils) or specific type of Standard Condiment is requested by the consumer.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Food Facilities may ask a drive-through consumer if the consumer wants a specific type of Disposable Food Service Ware Accessory (including different types of utensils), if the item is necessary for the consumer to consume Prepared Food or to prevent spills of or safely transport Prepared Food.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Disposable Food Service Ware Accessories and Standard Condiments in Disposable packaging provided by Food Facilities for use by consumers shall not be bundled or packaged in a manner that prohibits a consumer from taking only the type of Disposable Food Service Ware Accessory (including different types of utensils) or type of Standard Condiment desired without also having to take a different type of Disposable Food Service Ware Accessory or type of Standard Condiment. Food Facilities cannot distribute Disposable Utensils that are bundled or packaged together. Each type of utensil (e.g., fork, spoon, knife, etc.) must be specifically requested by the consumer in order for a Food Facility to provide the item(s).</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Nothing in <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite> shall prohibit a Food Facility from making unwrapped Disposable Food Service Ware Accessories available to a consumer using refillable self-service dispensers that dispense different types of Disposable Food Service Ware Accessories one item at a time to allow for Disposable Food Service Ware Accessories to be obtained.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Nothing in <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite> shall prohibit a Food Facility from making Standard Condiments available to a consumer using refillable self-service dispensers to allow for Standard Condiments to be obtained. Food Facilities that offer Standard Condiments are encouraged to use bulk dispensers for the condiments rather than condiments packaged for single-use.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Takeout Food Delivery Services shall provide consumers with the option to proactively request the different types of available Disposable Food Service Ware Accessories (including different types of utensils) and the different types of Standard Condiments from a Food Facility serving Prepared Food. The default option on the digital ordering/point-of-sale platforms of Takeout Food Delivery Services shall be that no Disposable Food Service Ware Accessories or Standard Condiments are requested.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Takeout Food Delivery Services shall provide Food Facilities the ability to tailor the digital ordering/point-of-sale platforms so that Food Facilities can customize and itemize the different types of available Disposable Food Service Ware Accessories (including different types of utensils) and the different types of available Standard Condiments for consumers to proactively select.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>If a Food Facility uses any Takeout Food Delivery Service, the Food Facility shall customize its menu with an itemized list and/or provide options of the different types of available Disposable Food Service Ware Accessories (including different types of utensils) and the different types of available Standard Condiments for consumers to proactively select. Only those specific types of Disposable Food Service Ware Accessories (including different types of utensils) or specific types of Standard Condiments proactively requested by the consumer shall be provided by the Food Facility. If a consumer does not request any Disposable Food Service Ware Accessories or Standard Condiment, no Disposable Food Service Ware Accessories or Standard Condiment shall be provided by the Food Facility for delivery of Prepared Food. Pursuant to Subsection (c), each type of utensil (e.g., fork, spoon, knife, etc.) offered by the Food Facility shall also be listed individually, unbundled on the menu and provided by the Food Facility for delivery along with the Prepared Food only if requested by the consumer.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.89.030">Section 5.89.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="5.89.030" />
+        <num>5.89.030</num>
+        <heading>Standards and Required Use of Disposable Food Service Ware</heading>
+        <para>
+          <num>(a)</num>
+          <text>No Food Facility shall use Polystyrene-based Disposable Food Service Ware when providing Prepared Food.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Food Facilities shall only provide Disposable straws, stirrers, utensils, and cocktail/toothpicks (and the packaging that these individual items are wrapped in, if any) that are Compostable.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Nothing in <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite> shall conflict or be construed to conflict with the Americans with Disabilities Act or any other applicable law concerning the rights of individuals with disabilities. In particular, nothing in <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite> shall restrict, or be construed to restrict, the provision by Food Facilities of Disposable Non-Compostable straws to individuals who may request the use of Disposable Non-Compostable straws to accommodate medical needs or disabilities. Healthcare Facilities may distribute Disposable Non-Compostable straws with or without request by a patient at the discretion of the Healthcare Facility staff based on the physical or medical needs of the patient.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Food Facilities shall use Compostable items for the below Disposable Food Service Ware when providing Prepared Food:</text>
+          <para>
+            <num>(1)</num>
+            <text>Plates;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Bowls (of all sizes including, but not limited to soup and salad bowls);</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Cups (of all sizes including, but not limited to beverage and accessory cups for Standard Condiments);</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Food trays and food boats;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Boxes; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Hinged or lidded containers (e.g., clamshells), deli containers, and other containers used for the sale and/or distribution of Prepared Food.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Commencing on the effective date of <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite> up until December 31, 2022, for the Compostable Disposable Food Service Ware listed in Subsection (d), Food Facilities shall use items that meet Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) Restrictions. To verify the PFAS Restrictions, Food Facilities shall use items that are certifiedor approved by independent third parties approved by the County Manager or designee, in collaboration with local waste processors and haulers, as required.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>For all other Disposable Food Service Ware not listed in Subsections (b) and (d), Food Facilities shall use only Disposable Food Service Ware that can be composted by the Food Scrap Composting method utilized by the Food Facility and/or accepted for recycling by the Food Facility's recycling collection service, unless a feasible alternative does not exist.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The City shall maintain and make publicly available a list of approved Disposable Food Service Ware sources and/or references to organizations that maintain regularly updated lists of products that meet the requirements detailed in Subsections (a), (b), (d), and (e) of this Section. If a product is not included on the approved lists, the Food Facility wishing to use a product as Disposable Food Service Ware shall establish to the City's satisfaction that the product complies with the requirements detailed in Subsections (a), (b), (d), and (e).</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.89.050">Section 5.89.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="5.89.050" />
+        <num>5.89.050</num>
+        <heading>Automatic Exemptions</heading>
+        <para>
+          <num>(a)</num>
+          <text>Prepackaged Food is exempt from the provisions of <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Polystyrene coolers and ice chests intended for reuse are exempt from the provisions of <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Disposable Food Service Ware that is entirely Aluminum Foil-based is exempt from the provisions of <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If the City determines that a reasonably feasible Disposable Food Service Ware that complies with <cite doc="City of San Mateo, Cal., Code" path="5.89.030">Section 5.89.030</cite> (a), (b), (d), and (e) of <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite> does not exist, these items will be exempt from the abovementioned provisions of <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite> until the City determines that a reasonably feasible alternative is available on the market for purchase. The City will maintain and make publicly available a current list of exempted Disposable Food Service Ware</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Temporary exemptions due to an emergency are automatic without the submission of a request for an exemption. An emergency is defined as a sudden, unexpected occurrence posing a clear and imminent danger that requires immediate action to prevent or mitigate the loss or impairment of life, health, property, or essential public services. Examples of an emergency include, but are not limited to natural disasters, emergencies due to the release of hazardous materials, emergencies associated with loss of power and/or water, or emergency medical response.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.89.060">Section 5.89.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="5.89.060" />
+        <num>5.89.060</num>
+        <heading>Authorization for County Enforcement</heading>
+        <text>In addition to the City's enforcement mechanisms set forth in <cite doc="City of San Mateo, Cal., Code" path="1">Title 1</cite> of this Code, the City of San Mateo authorizes the County of San Mateo to enforce <cite doc="City of San Mateo, Cal., Code" path="5.89">this Chapter</cite> of the Municipal Code, including, without limitation, the authority to act on requests for undue hardship exemptions, hold hearings, issue administrative fines, and retain collected fines.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Environmental Determination.</heading>
+    <text>This Ordinance is exempt from the environmental review requirements of CEQA pursuant to, section 15061(b)(3), of the California Code of Regulations because it can be seen with certainty that there is no possibility that the provisions contained herein may have a significant effect on the environment. Further, the Ordinance is also exempt from the requirements of CEQA pursuant to CEQA Guidelines Sections 15307 and 15308 of Title 14 of the California Code of Regulations as it is an action taken by a regulatory agency to assure the maintenance, restoration, enhancement of natural resources, or protection of the environment.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on March 21, 2022, and adopted on April 4, 2022, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Rodriguez, Goethals, and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
