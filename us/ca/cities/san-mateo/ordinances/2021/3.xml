@@ -98,6 +98,9 @@
   <section>
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="5.89">Chapter 5.89</cite> "Polystyrene-based Disposable Food Service Ware" of Title "Business Licenses and Regulations" is hereby replaced with <cite doc="City of San Mateo, Cal., Code" path="5.89">Chapter 5.89</cite> "Disposable Food Service Ware" and amended to read:</text>
+    <codify:replace doc="City of San Mateo, Cal., Code" path="5.89|heading">
+      <heading>Disposable Food Service Ware</heading>
+    </codify:replace>
     <include>
       <section>
         <codify:replace doc="City of San Mateo, Cal., Code" path="5.89.010"/>
