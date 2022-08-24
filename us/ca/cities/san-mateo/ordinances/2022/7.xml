@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2022-7" codify:doc="City of San Mateo, Cal., Code">
+  <num>2022-7</num>
+  <heading type="short">Minimum Wage Amendments</heading>
+  <heading type="long">Amend Section 5.92.020 of the Municipal Code to Add a Consumer Price Index Percentage Cap, a Catch-up Provision, and to Round the Minimum Wage to the Nearest Five Cents.</heading>
+  <meta>
+    <effective>2022-09-14</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2022-7.pdf">Ord. No. 2022-7</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2022-7</citation>
+    </citations>
+    <history>
+      <introduced>2022-07-18</introduced>
+      <adopted>2022-08-15</adopted>
+    </history>
+  </meta>
+  <recitals/>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.92.020">Section 5.92.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|5.92.020"/>
+        <num>5.92.020</num>
+        <heading>Minimum Wage.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Employers shall pay employees no less than the minimum wage for each hour worked within the geographic boundaries of the City.</text>
+          <para>
+            <num>(1)</num>
+            <text>For employers which are not non-profit corporations, the minimum wage paid shall be as follows:</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Beginning January 1, 2017, the minimum wage shall be an hourly rate of $12.00.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Beginning January 1, 2018, the minimum wage shall be an hourly rate of $13.50.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Beginning January 1, 2019, the minimum wage shall be an hourly rate of $15.00.</text>
+          <para>
+            <num>(1)</num>
+            <text>For employers which are non-profit corporations, the minimum wage rate shall be as follows:</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Beginning January 1, 2017, the minimum wage shall be an hourly rate of $10.50.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Beginning January 1, 2018, the minimum wage shall be an hourly rate of $12.00.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Beginning January 1, 2019, the minimum wage shall be an hourly rate of $13.50.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Beginning January 1, 2020, the minimum wage shall be equal to that of the employers which are not non-profit corporations, and shall be subject to the Consumer Price Index increase as described in subsection (d), with the amount of the Minimum Wage increase rounded to the nearest five cents ($.05).</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Beginning on January 1, 2020, and each January thereafter, the minimum wage shall increase by an amount equal to the prior year's increase, if any, in the Consumer Price Index (CPI) for San Francisco-Oakland-San Jose as determined by the United States Department of Labor. The change shall be calculated by using the August to August change in the CPI to calculate the annual increase, up to 3.5%, as described in subsection (e). A decrease in the CPI shall not result in a decrease in the minimum wage.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Cost of living increases to the Minimum Wage based on the CPI shall not exceed 3.5% annually. When the actual CPI exceeds the 3.5% cap, the percentage amount in excess of the cap shall be applied to the following year's CPI increase, up to the 3.5% cap.  Excess amounts shall be carried over from year to year until the actual CPI and the cap-adjusted CPI are equivalent.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>An employee who is a learner, as defined by California Industrial Welfare Commission Order No. 4-2001, shall be paid no less than 85% of the applicable minimum wage for the first 160 hours of employment. Thereafter, the employee shall be paid the applicable minimum wage rate.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>An employer may not deduct an amount from wages due an employee on account of any tip or gratuity, or credit the amount or any part thereof, of a tip or gratuity, against, or as a part of, the wages due the employee from the employer.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, this ordinance introduction is not a project subject to CEQA, because it is an organizational or administrative activity that will not result in direct or indirect physical changes in the environment. (CEQA Guidelines Section 15378(b)(5).).</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>History and Effective Date.</heading>
+    <text>This Ordinance was introduced on July 18, 2022, and adopted on August 15, 2022, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Goethals and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>Rodriguez</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
