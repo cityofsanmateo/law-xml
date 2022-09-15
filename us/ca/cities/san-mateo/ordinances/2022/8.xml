@@ -1,0 +1,105 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2022-8" codify:doc="City of San Mateo, Cal., Code">
+  <num>2022-8</num>
+  <heading type="short">Disposable Food Service Ware Amendment</heading>
+  <heading type="long">Amending Chapter 5.89 "Disposable Food Service Ware" of the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2022-10-06</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2022-8.pdf">Ord. No. 2022-8</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2022-8</citation>
+    </citations>
+    <history>
+      <introduced>2022-08-15</introduced>
+      <adopted>2022-09-06</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>an existing ordinance addressing food service ware is codified at <cite doc="City of San Mateo, Cal., Code" path="5.89" proof="needed">Chapter 5.89 of the San Mateo Municipal Code</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the ordinance was amended on April 4, 2022 to align with state laws regulating food packaging; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the ordinance amendment unintentionally removed <cite doc="City of San Mateo, Cal., Code" path="5.89.060" proof="needed">San Mateo Municipal Code Section 5.89.060</cite> "Case-by-Case Consideration of Requests for Hardship Exemption" and replaced it with language that duplicated <cite doc="City of San Mateo, Cal., Code" path="5.89.070" proof="needed">Section 5.89.070</cite> "Authorization for County Enforcement;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>this draft ordinance corrects this clerical error by re-codifying <cite doc="City of San Mateo, Cal., Code" path="5.89.060" proof="needed">San Mateo Municipal Code Section 5.89.060</cite> "Case-by-Case Consideration of Requests for Hardship Exemption" and eliminating the duplicative provision authorizing County enforcement.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.89.060" proof="needed">Section 5.89.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|5.89.060"/>
+        <num>5.89.060</num>
+        <heading>Case-by-Case Consideration of Requests for Hardship Exemption</heading>
+        <para>
+          <num>(a)</num>
+          <text>Grounds for an exemption. An exemption from any of the provisions of <cite doc="City of San Mateo, Cal., Code" path="5.89" proof="needed">this Chapter</cite> may be granted by the City upon demonstration by a Food Facility to the satisfaction of the City that strict application of the requirements would cause undue hardship. An "undue hardship" includes, but is not limited to the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>A situation unique to the Food Facility where a suitable alternative that conforms with the requirements detailed in <cite doc="City of San Mateo, Cal., Code" path="5.89.030" proof="needed">Section 5.89.030</cite> (a), (b), (d), and (e) does not exist for a specific application.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Imposing the provisions of <cite doc="City of San Mateo, Cal., Code" path="5.89" proof="needed">this Chapter</cite> would cause significant economic hardship. "Significant economic hardship" may be based on, but not limited to, demonstrating that suitable Disposable Food Service Ware is not available at a commercially reasonable price and the additional cost associated with providing the Disposable Food Service Ware is particularly burdensome to the Food Facility based on the type of operation(s) affected, the overall size of the business/operation, the number, type and location of its facilities, the impact on the overall financial resources of the Food Facility, and other factors. Reasonable added cost for a suitable item as compared to a similar item that the Food Facility can no longer use shall not by itself constitute adequate grounds to support an exemption for such item. In determining whether a significant economic hardship has been established, the City shall consider the following information: ability of the Food Facility to recover the additional expense by increasing its prices; the availability of tax credits and deductions; outside funding; and other options.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Request for an exemption. A request for an exemption from the requirements of <cite doc="City of San Mateo, Cal., Code" path="5.89" proof="needed">this Chapter</cite> shall include all information deemed necessary by the City to render a decision, including but not limited to documentation showing the factual support for the requested exemption. A request for an exemption may be approved by the City, in whole or in part, with or without conditions. The duration of the exemption, if granted, shall also be determined by the City.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>This ordinance amendment is not a project subject to CEQA, because it can be seen with certainty that it will not cause a physical change in the environment.  (<cite doc="Cal. Pub. Res. Code" path="§21065">Public Resources Code Section 21065</cite>.)</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" proof="needed">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on August 15, 2022, and adopted on September 6, 2022, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Papan, Rodriguez, Goethals, and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>Council Member Bonilla</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
