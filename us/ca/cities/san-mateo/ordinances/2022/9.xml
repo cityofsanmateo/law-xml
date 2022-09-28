@@ -75,41 +75,39 @@
     <num>1</num>
     <heading>Legislative Findings.</heading>
     <text/>
-    <include>
-      <text>At a duly noticed public hearing on September 6, 2022, the City Council of the City of San Mateo reviewed and considered the staff report dated September 6, 2022, and attachments thereto, the Categorical Exemption, together with comments received during the public review process, and hereby finds and determines as follows:</text>
+    <text>At a duly noticed public hearing on September 6, 2022, the City Council of the City of San Mateo reviewed and considered the staff report dated September 6, 2022, and attachments thereto, the Categorical Exemption, together with comments received during the public review process, and hereby finds and determines as follows:</text>
+    <para>
+      <num>(a)</num>
+      <heading>CONFOMANCE WITH GENERAL PLAN.</heading>
+      <text>The City Council finds and determines that the proposed zoning map amendment and zoning reclassification of the subject property is in conformance with the Downtown Retail Core land use designation of the General Plan of the City of San Mateo, because one of the main intents of the CBD (Central Business District) is to maintain downtown's commercial vitality and continuity within the retail core.</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <heading>CONFORMANCE WITH DOWNTOWN AREA PLAN.</heading>
+      <text>The City Council finds and determines that the proposed zoning map amendment and zoning reclassification is in conformance with 2009 Downtown Area Plan because the zoning standards for the CBD (Central Business District) includes development standards that were established to provide a good mix of ground floor retail uses that will contribute to foster retail vitality and downtown's pedestrian-oriented environment in the Downtown Retail Core sub-area.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <heading>INTENT OF ZONING CODE.</heading>
+      <text>The zoning reclassification conforms to the purpose of Municipal Code <cite doc="City of San Mateo, Cal., Code" path="27.38.010|(c)">Section 27.38.010(c)</cite> in that the reclassification ensures that the zoning code provisions regarding the required retail frontage area, as designated by the Downtown Plan, would apply to the subject property. Additionally, the reclassification provides standards for the use of properties designated as CBD District (Central Business District) that regulate and guide future development of the site.</text>
+    </para>
+    <para>
+      <num>(d)</num>
+      <heading>CONSISTENCY WITH STATE LAW.</heading>
+      <text>The City Council finds and determines that the proposed zoning map amendment and zoning reclassification of the property located at 31-57 South B Street from C1-2/R5 to CBD is consistent with Senate Bill 330 (Housing Crisis Act, <cite doc="Cal. Gov't Code" path="§66300|(b)|(1)|(A)">Government Code Section 66300(b)(1)(A)</cite>) in that:</text>
       <para>
-        <num>(a)</num>
-        <heading>CONFOMANCE WITH GENERAL PLAN.</heading>
-        <text>The City Council finds and determines that the proposed zoning map amendment and zoning reclassification of the subject property is in conformance with the Downtown Retail Core land use designation of the General Plan of the City of San Mateo, because one of the main intents of the CBD (Central Business District) is to maintain downtown's commercial vitality and continuity within the retail core.</text>
+        <num>(1)</num>
+        <text>the proposed change in zoning designation would not reduce the allowable building height, maximum allowable density, or floor area ratio (FAR) for residential developments; nor would it increase requirements for lot size requirements, setbacks, or other development standards that would reduce residential density;</text>
       </para>
       <para>
-        <num>(b)</num>
-        <heading>CONFORMANCE WITH DOWNTOWN AREA PLAN.</heading>
-        <text>The City Council finds and determines that the proposed zoning map amendment and zoning reclassification is in conformance with 2009 Downtown Area Plan because the zoning standards for the CBD (Central Business District) includes development standards that were established to provide a good mix of ground floor retail uses that will contribute to foster retail vitality and downtown's pedestrian-oriented environment in the Downtown Retail Core sub-area.</text>
+        <num>(2)</num>
+        <text>the proposed CBD zoning designation allows for a maximum residential density of 50 dwelling units per acre, which is the same maximum residential density allowed for properties in the C1-2/R5 zoning district; and</text>
       </para>
       <para>
-        <num>(c)</num>
-        <heading>INTENT OF ZONING CODE.</heading>
-        <text>The zoning reclassification conforms to the purpose of Municipal Code <cite doc="City of San Mateo, Cal., Code" path="27.38.010|(c)">Section 27.38.010(c)</cite> in that the reclassification ensures that the zoning code provisions regarding the required retail frontage area, as designated by the Downtown Plan, would apply to the subject property. Additionally, the reclassification provides standards for the use of properties designated as CBD District (Central Business District) that regulate and guide future development of the site.</text>
+        <num>(3)</num>
+        <text>therefore, there is no net loss in residential capacity.</text>
       </para>
-      <para>
-        <num>(d)</num>
-        <heading>CONSISTENCY WITH STATE LAW.</heading>
-        <text>The City Council finds and determines that the proposed zoning map amendment and zoning reclassification of the property located at 31-57 South B Street from C1-2/R5 to CBD is consistent with Senate Bill 330 (Housing Crisis Act, <cite doc="Cal. Gov't Code" path="§66300|(b)|(1)|(A)">Government Code Section 66300(b)(1)(A)</cite>) in that:</text>
-        <para>
-          <num>(1)</num>
-          <text>the proposed change in zoning designation would not reduce the allowable building height, maximum allowable density, or floor area ratio (FAR) for residential developments; nor would it increase requirements for lot size requirements, setbacks, or other development standards that would reduce residential density;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>the proposed CBD zoning designation allows for a maximum residential density of 50 dwelling units per acre, which is the same maximum residential density allowed for properties in the C1-2/R5 zoning district; and</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>therefore, there is no net loss in residential capacity.</text>
-        </para>
-      </para>
-    </include>
+    </para>
   </section>
   <section>
     <num>2</num>
