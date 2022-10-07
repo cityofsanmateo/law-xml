@@ -81,7 +81,7 @@
         <section>
           <num>27.21.020</num>
           <heading>Definitions</heading>
-          <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.21">this Chapter</cite>, the following definitions apply. Terms not defined herein shall rely upon the definitions contained in <cite doc="City of San Mateo, Cal., Code" path="26">Chapter 26</cite> and <cite doc="City of San Mateo, Cal., Code" path="27">Chapter 27</cite> of the San Mateo Municipal Code.</text>
+          <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.21">this Chapter</cite>, the following definitions apply. Terms not defined herein shall rely upon the definitions contained in <cite doc="City of San Mateo, Cal., Code" path="26">Chapter 26</cite> and <cite doc="City of San Mateo, Cal., Code" path="27">[Title] 27</cite> of the San Mateo Municipal Code.</text>
           <para>
             <num>(a)</num>
             <text>"Access Corridor" means an access easement or the 'pole' of a flag lot that provides vehicular access to the right-of-way. Access corridors shall consist of paving and be free of landscaping or other permanent features that obstruct ingress/egress and vehicular traffic to a parcel.</text>
@@ -598,23 +598,21 @@
     <num>2</num>
     <text>Subsection (c) of <cite doc="City of San Mateo, Cal., Code" path="27.66.020">Section 27.66.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <para>
-        <codify:replace path="27.66.020|(c)"/>
-        <num codify:value="(c)" />
-        <text>Individually Eligible and Contributor Buildings. For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>, the terms "individually eligible building" shall mean those buildings as identified in the City of San Mateo General Plan, buildings which are on the National Register of Historic Places (NRHP) or California Register of Historical Resources (CRHP), or buildings determined to be individually eligible for listing on the NRHP or CRHP through documentation contained in a historic resources report. "Contributor building" shall mean those buildings identified as such and located within the Downtown Historic District as adopted by resolution of the City Council and identified in the City of San Mateo General Plan.</text>
-      </para>
+      <text>Individually Eligible and Contributor Buildings. For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>, the terms "individually eligible building" shall mean those buildings as identified in the City of San Mateo General Plan, buildings which are on the National Register of Historic Places (NRHP) or California Register of Historical Resources (CRHP), or buildings determined to be individually eligible for listing on the NRHP or CRHP through documentation contained in a historic resources report. "Contributor building" shall mean those buildings identified as such and located within the Downtown Historic District as adopted by resolution of the City Council and identified in the City of San Mateo General Plan.</text>
     </include>
+    <codify:replace path="27.66.020|(c)|text">
+      <text>Individually Eligible and Contributor Buildings. For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>, the terms "individually eligible building" shall mean those buildings as identified in the City of San Mateo General Plan, buildings which are on the National Register of Historic Places (NRHP) or California Register of Historical Resources (CRHP), or buildings determined to be individually eligible for listing on the NRHP or CRHP through documentation contained in a historic resources report. "Contributor building" shall mean those buildings identified as such and located within the Downtown Historic District as adopted by resolution of the City Council and identified in the City of San Mateo General Plan.</text>
+    </codify:replace>
   </section>
   <section>
     <num>3</num>
     <text>Subsection (d) of <cite doc="City of San Mateo, Cal., Code" path="27.66.020">Section 27.66.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <para>
-        <codify:replace path="27.66.020|(d)"/>
-        <num codify:value="(d)" />
-        <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>, the terms "individually eligible building" and "contributor building" and "Downtown Historic District" shall mean those buildings and district identified as such by resolution of the City Council, identified in the City of San Mateo Downtown Specific Plan, or as determined to be listed or individually eligible for listing on the NRHP or CRHP through documentation contained in a historic resources report.</text>
-      </para>
+      <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>, the terms "individually eligible building" and "contributor building" and "Downtown Historic District" shall mean those buildings and district identified as such by resolution of the City Council, identified in the City of San Mateo Downtown Specific Plan, or as determined to be listed or individually eligible for listing on the NRHP or CRHP through documentation contained in a historic resources report.</text>
     </include>
+    <codify:replace path="27.66.020|(d)|text">
+      <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>, the terms "individually eligible building" and "contributor building" and "Downtown Historic District" shall mean those buildings and district identified as such by resolution of the City Council, identified in the City of San Mateo Downtown Specific Plan, or as determined to be listed or individually eligible for listing on the NRHP or CRHP through documentation contained in a historic resources report.</text>
+    </codify:replace>
   </section>
   <section>
     <num>4</num>
