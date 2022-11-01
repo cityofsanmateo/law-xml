@@ -1,0 +1,626 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2022-10">
+  <num>2022-10</num>
+  <heading type="short">__________</heading>
+  <heading type="long">Add Chapter 27.21, "Two-Unit Development Overlay District" to Title 27 of the San Mateo Municipal Code to Provide for Regulations Concerning Two-Unit Residential Developments and Urban Lot Splits in Single Family Residential Zones and Amending Section 27.66 "Historic Preservation" for Consistency with the General Plan</heading>
+  <meta>
+    <effective proof="needed">2022-11-02</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2022-10.pdf" proof="needed">Ord. No. 2022-10</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2022-10</citation>
+    </citations>
+    <history>
+      <introduced>2022-09-19</introduced>
+      <adopted>2022-10-03</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Senate Bill 9 ("SB 9"), which amended <cite doc="Cal. Gov't Code" path="§66452.6">Section 66452.6 of the Government Code</cite> and added Sections 65852.21 and 66411.7 to the <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite> to allow for streamlined ministerial approval of two-unit development and urban lot splits within single-family zoned areas, was signed by the Governor of California on September 16, 2021; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the changes to the <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite> became effective on January 1, 2022; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SB 9 requires cities and counties, including the City of San Mateo, to ministerially approve a parcel map for an urban lot split and/or a proposed housing development containing a maximum of two primary residential units within a single-family residential zone, if the proposal meets certain statutory criteria; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SB 9 specifies that proposed projects and subdivisions cannot be proposed in prohibited locations under <cite doc="Cal. Gov't Code" path="§65913.4|(a)|(6)|(B)">Government Code Section 65913.4(a)(6)(B)</cite>-(K) such as lands within an earthquake fault zone, federally designated flood plan, historic district or property, and high fire hazard severity zone as defined under state law; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SB 9 further restricts the standards and regulations that local agencies, including the City of San Mateo, may impose to only objective zoning, subdivision, and design standards that do not conflict with the statue and where those standards must not physically preclude a unit size of at least 800 square feet or qualifying urban lot split; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City seeks to regulate development pursuant to SB 9 through the implementation of regulations concerning two-unit residential development and urban lot splits; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to Section 65852.21(j) and <cite doc="Cal. Gov't Code" path="§66411.7|(n)">66411.7(n) of the Government Code</cite>, a local agency may adopt an ordinance to implement SB 9; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>adoption of this ordinance is not a project under the California Environmental Quality Act (CEQA) pursuant to <cite doc="Cal. Gov't Code" path="§65852.21|(j)">California Government Code Section 65852.21(j)</cite> and Section 66411.7(n) relating to the implementation of SB 9; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City's Zoning Code is codified in <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite> of the City of San Mateo Municipal Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to make a revision to Section 27.66 to amend the definition of Individually Eligible Buildings for consistency with General Plan Policy C/OS 8.1 to clarify that a historic building also includes those buildings determined to be eligible for listing in the California Register of Historical Resources through documentation contained within a historic resources report; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City wishes to make several minor revisions to <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>, including amending the definition of "Individually Eligible and Contributor Building" to align with the definition of historic buildings contained in the General Plan.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">Chapter 27.21 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite> as follows:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>27.21</num>
+        <heading>Two-Unit Development Residential Overlay District – R1 Districts</heading>
+        <subheading>Article I – Two-Unit Development</subheading>
+        <section>
+          <num>27.21.010</num>
+          <heading>Purpose</heading>
+          <text>The purpose of this Article is to allow up to two detached or attached primary housing units on one parcel, establish objective standards, and regulate the subdivision of parcels in single-family zoned areas in accordance with state law. <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">This Chapter</cite> shall be implemented and interpreted in conjunction with <cite doc="Cal. Gov't Code" proof="needed">California Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65852.21">65852.21</cite> and <cite doc="Cal. Gov't Code" path="§66411.7">66411.7</cite>, as amended, and applicable objective standards contained within Titles <cite doc="City of San Mateo, Cal., Code" path="26">26</cite> and <cite doc="City of San Mateo, Cal., Code" path="27">27</cite> of the San Mateo Municipal Code.</text>
+        </section>
+        <section>
+          <num>27.21.020</num>
+          <heading>Definitions</heading>
+          <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite>, the following definitions apply. Terms not defined herein shall rely upon the definitions contained in <cite doc="City of San Mateo, Cal., Code" path="26">Title 26 and Title 27 of the San Mateo Municipal Code</cite>.</text>
+          <para>
+            <num>(a)</num>
+            <text>"Access Corridor" means an access easement or the 'pole' of a flag lot that provides vehicular access to the right-of-way. Access corridors shall consist of paving and be free of landscaping or other permanent features that obstruct ingress/egress and vehicular traffic to a parcel.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>"Acting in concert" means that the owner, or a person acting as an agent or representative of the owner, knowingly participated with another person in joint activity or parallel action toward a common goal of subdividing the adjacent parcel.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>"Car Share Facility" means one or more parking space(s) that have been designated permanently for car share vehicles, where the vehicles are leased for short periods of time, often by the hour.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>"Department" means the Department of Community Development.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>"Existing Exterior Structural Wall" means and constitutes the original bottom plate and original top plate in its existing position, original studs (with the exception for new window framing), and capable of standing without support.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>"Flag or Panhandle Lot" means a parcel which includes a strip of land that is owned in fee that is used primarily for vehicular access from a public or private street to the major portion of the parcel. For the purposes of determining setbacks, the property line parallel to the primary right-of-way and part of the major portion of the parcel shall be the front property line. Maximum floor area ratio (FAR) shall be based on the gross square footage of the parcel.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>"High Quality Transit Corridor" means a corridor with fixed bus route service with service intervals no longer than 15 minutes during peak commute hours.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text>"Major Transit Stop" means a site containing any of the following: (i) an existing rail or bus rapid transit station; (ii) a ferry terminal served by either a bus or rail transit service; or (iii) the intersection of two or more major bus routes with a frequency of service intervals of 15 minutes or less during the morning and afternoon peak commute periods.</text>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>"Primary Unit" (also called a residential dwelling unit or residential unit) means a single-family residence or a residential dwelling unit within a multifamily residential development. A primary unit is distinct from an ADU or junior accessory dwelling unit (JADU), and may be a single-family residence (i.e. one primary unit) or a duplex (i.e. two primary units detached or attached).</text>
+          </para>
+          <para>
+            <num>(j)</num>
+            <text>"SB 9 Dwelling Unit or SB 9 Unit" means a primary unit that is developed pursuant to the requirements of this Article, applicable San Mateo Municipal Code provisions, and <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65852.21">65852.21</cite> and <cite doc="Cal. Gov't Code" path="§66411.7">66411.7</cite>, as amended.</text>
+          </para>
+          <para>
+            <num>(k)</num>
+            <text>"SB 9 Project or SB 9 Planning Application" means a project application submitted to the City in accordance with this Article, SB 9, and applicable San Mateo Municipal Code provisions to do one or more of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>Split a qualifying single-family residentially zoned parcel into two lots; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Develop no more than two primary units on a single lot, or</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>When a lot is subdivided, develop no more than two dwelling units, inclusive of ADUs and JADUs, on a single parcel.</text>
+            </para>
+          </para>
+          <para>
+            <num>(l)</num>
+            <text>"Senate Bill 9 or SB 9" means the state law signed by the Governor into law on September 19, 2021 that amended <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65852.21">65852.21</cite> and <cite doc="Cal. Gov't Code" path="§66411.7">66411.7</cite> to allow up to two primary units on and/or lot splits of qualifying single-family zoned parcels.</text>
+          </para>
+          <para>
+            <num>(m)</num>
+            <text>"Substantial Removal" means the demolition of 50% or more of a structure's exterior walls (measured in linear feet) and/or roof (measured in square feet). Existing exterior walls that are converted to interior walls shall be counted as walls to be demolished. For the purposes of <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite>, substantial removal for a roof shall not apply to permit applications for re-roofing where roof pitch alterations do not exceed an increase in height of more than two (2) feet as measured at the highest point or where a SB 9 planning application has been submitted as part of the proposed improvements. Doors, including garage doors, entry doors, and sliding glass doors, shall not be included in the percentage calculation of an existing structure's exterior walls. This section shall not apply to an accessory building or to a residence that has been declared a public nuisance under this Code.</text>
+          </para>
+          <para>
+            <num>(n)</num>
+            <text>"Sufficient to Allow Separate Conveyance" means that connected or adjacent units can be sold separately if they conform to condominium standards to allow for the adequate transfer of title, ownership, rights, and interests in the property from one entity to another.</text>
+          </para>
+          <para>
+            <num>(o)</num>
+            <text>"Urban Lot Split" means a subdivision of an existing legal single-family zoned parcel into no more than two separate single-family zoned parcels that meet all of the criteria and standards set forth in <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite>, applicable objective standards of <cite doc="City of San Mateo, Cal., Code" path="26">San Mateo Municipal Code Title 26</cite>, and <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65852.21">65852.21</cite> and <cite doc="Cal. Gov't Code" path="§66411.7">66411.7</cite>, as amended.</text>
+          </para>
+        </section>
+        <section>
+          <num>27.21.030</num>
+          <heading>Rules of Procedure</heading>
+          <text>Except as otherwise outlined below, the applicable rules of procedure contained in <cite doc="City of San Mateo, Cal., Code" path="27.08">Chapter 27.08</cite> shall apply to all SB 9 planning applications. Where there is a conflict, standards in <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite> shall prevail.</text>
+          <para>
+            <num>(a)</num>
+            <text>Planning Application Submittal. An SB 9 planning application, on the form(s) prescribed by the Department, for either an attached or detached unit(s) and/or urban lot splits, shall be submitted for all development pursuant to the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite>.</text>
+            <para>
+              <num>(1)</num>
+              <text>An applicant may file concurrent planning applications under <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite> for one or two-unit development and an urban lot split.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Processing of Applications. Unless an SB 9 application is submitted pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.21.045" proof="needed">Section 27.21.045 of this Chapter, SB 9 application(s) shall be processed as prescribed in Section 27.08.040 of the San Mateo Municipal Code</cite>, except that these applications shall be considered ministerially with no public hearing.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Informational Notice. Upon receipt of an SB 9 planning application, and once the project is deemed complete, the City shall provide an informational notice that an SB 9 application has been filed with the City to all property owners and tenants within a 500-foot radius of the subject parcel and to the applicable neighborhood association(s) in accordance with the noticing procedures adopted by the Department.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Ministerial Permit Approval. If an SB 9 planning application complies with the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite>, a ministerial, non-discretionary permit shall be issued. Notwithstanding anything contrary in this code, the issuance of a ministerial SB 9 Two-Unit Development permit and/or a SB 9 Urban Lot Split permit is not appealable.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Submittal Requirements. In addition to the requirements of <u><cite doc="City of San Mateo, Cal., Code" path="27.08.010|(c)">Section 27.08.010(c)</cite></u>, each application shall be accompanied by all of the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>Application Forms. Completed SB 9 planning application forms as prescribed by the Department;</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Property Ownership. Verification of property ownership in the form of a preliminary title report that is no more than a year old, showing the current owners of the property, the names of record owners of the land, and all existing easements and other reservations, restrictions, or covenants; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Legal Description. An accurate legal description of the property and any resultant lots in the case of an urban lot split application; and</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Plans. Scaled and accurate plans to include required applicable information as outlined in the Planning Application and/or Urban Lot Split Submittal Requirements checklists; and</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Affidavit. A completed property owner tenant disclosure affidavit and acknowledgement that the application meets SB 9 eligibility requirements.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Findings. Findings of Approval. An SB 9 application not submitted pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.21.045" proof="needed">Section 27.21.045</cite> of <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite> shall be approved ministerially if the Zoning Administrator or designee makes all the following findings:</text>
+              <para>
+                <num>(A)</num>
+                <text>The parcel is within the Two-Unit Overlay District and meets all qualifying criteria as outlined in <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite>;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The development meets all applicable objective standards contained in and required by the General Plan, San Mateo Municipal Code or other City adopted plan;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The development does not adversely affect matters regarding police protection, crime prevention, and security because it adheres to the objective standards of <cite doc="City of San Mateo, Cal., Code" path="23.54">Chapter 23.54</cite>;</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>The proposed SB 9 unit(s) is consistent with all applicable SB 9 objective design standards of the Two-Unit Overlay District</text>
+              </para>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>Findings of Denial. An SB 9 application shall be denied if the Building Official makes written findings, based upon a preponderance of evidence, that:</text>
+              <para>
+                <num>(A)</num>
+                <text>The proposed housing development would have a specific adverse impact, as defined and determined in paragraph (2) of subdivision (d) of Section 65589.5, as amended, of the <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite>, upon public health and safety or the physical environment, and for which there is no feasible method to satisfactorily mitigate or avoid the specific adverse impact(s).</text>
+              </para>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>27.21.040</num>
+          <heading>Recordation of Deed Restriction</heading>
+          <text>A deed restriction shall be submitted in a form approved by the City and recorded to run with the land for all development pursuant to this Article as indicated below:</text>
+          <para>
+            <num>(a)</num>
+            <text>Prior to the issuance of any building permit(s), development pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite> shall require a deed restriction to be recorded requiring a prohibition of the establishment of short- term rentals and a requirement that a rental or lease of any dwelling unit created pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite> shall be for a period of at least 30 consecutive days.</text>
+          </para>
+        </section>
+        <section>
+          <num>27.21.045</num>
+          <heading>Discretionary Review as Alternative to Ministerial Approval</heading>
+          <text>Projects that do not meet the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite> shall be subject to either a Single-Family Dwelling Design Review (SFDDR) or Site Plan and Architectural Review (SPAR) discretionary review process.</text>
+          <para>
+            <num>(a)</num>
+            <text>In no case shall an application for discretionary review:</text>
+            <para>
+              <num>(1)</num>
+              <text>Propose to increase the floor area ratio (FAR) above that permitted by the underlying zoning district, except to the extent allowed by state law; or</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Propose to further subdivide a parcel that had been established through a previous urban lot split pursuant to <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65852.21">65852.21</cite> and <cite doc="Cal. Gov't Code" path="§66411.7">66411.7</cite>, as amended; or</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Propose to increase the maximum number of permitted dwelling units; or</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Propose a parcel size smaller than 1,200 sq. ft.; or</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Propose less than one parking space per unit unless otherwise allowed per <cite doc="City of San Mateo, Cal., Code" path="27.21.070" proof="needed">Section 27.21.070</cite> of <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite>.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>27.21.050</num>
+          <heading>Lands Not Subject to the Two-Unit Development Residential Overlay District</heading>
+          <text>The following lands classified as R1-A, R1-B, and R-C are not subject to the Two-Unit Development Overlay District:</text>
+          <para>
+            <num>(a)</num>
+            <text>Any parcel that would require the demolition or alteration of any of the following housing types:</text>
+            <para>
+              <num>(1)</num>
+              <text>Housing that is subject to a recorded covenant, ordinance, or law that restricts rents to levels affordable to persons and families of moderate, low, or very low incomes; or,</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Housing that is subject to any form of rent or price control through a public entity's valid exercise of its police power; or,</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Housing that has been occupied by a tenant within the last three years; or,</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>A parcel(s) on which an owner of residential real property has exercised the owner's rights under <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite> <cite doc="City of San Mateo, Cal., Code" path="12.75" proof="needed">Chapter 12.75</cite> (commencing with Section 7060) of Division 7 of Title 1 (Ellis Act) to withdraw accommodations from rent or lease within 15 years prior to an SB 9 application submittal.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>On any parcel designated an historic district or property, or located in a resource or hazard area such as high fire areas, wetlands, fault zones, hazardous waste sites or lands under conservation easements per <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite> Sections 65913.4(a)(6)(B-K), as amended.</text>
+          </para>
+        </section>
+        <section>
+          <num>27.21.060</num>
+          <heading>Limitations</heading>
+          <text>For properties that develop a project pursuant to this overlay, the following limitations apply:</text>
+          <para>
+            <num>(a)</num>
+            <text>A maximum of four units, with a maximum of two primary dwelling units (attached or detached), except as outlined in Article II below.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Limitation on Rental.</text>
+            <para>
+              <num>(1)</num>
+              <text>Short Term Rentals Prohibited. No dwelling unit created pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite> shall be rented for a period of less than 30 consecutive days as a short-term rental as set forth in <cite doc="City of San Mateo, Cal., Code" path="5.66" proof="needed">Chapter 5.66 of the San Mateo Municipal Code</cite>. Rentals longer than 30 consecutive days are permitted.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Limitation on Sale.</text>
+            <para>
+              <num>(1)</num>
+              <text>If two or more primary units exist on a single parcel, they shall not be sold separately until an urban lot split application has been approved by the City and a final parcel map recorded.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Limitation on Use.</text>
+            <para>
+              <num>(1)</num>
+              <text>Lots created pursuant to Article II of <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite> shall be limited to residential uses only.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>27.21.070</num>
+          <heading>Two-Unit Development Standards</heading>
+          <text>SB 9 units, as defined in <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite>, shall comply with the following development standards:</text>
+          <para>
+            <num>(a)</num>
+            <text>Demolition Limits. SB 9 projects that do not involve an urban lot split are subject to the following:</text>
+            <para>
+              <num>(1)</num>
+              <text>Demolition of less than 50% of a structure's exterior structural walls or roof shall be subject to a ministerial review process.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Demolition of 50% or more of a structure's exterior structural walls or roof may be permitted subject the Alternative Discretionary Review process listed in <cite doc="City of San Mateo, Cal., Code" path="27.21.045" proof="needed">Section 27.21.045 of this Chapter and issuance of a Special Use Permit for the substantial removal of the existing structure pursuant to Section 27.18.035 of the San Mateo Municipal Code</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Maximum Floor Area Ratio. The maximum Floor Area Ratio (FAR) for all structures on site shall be determined by the underlying zoning district with the following exceptions:</text>
+            <para>
+              <num>(1)</num>
+              <text>Application of development standards of the underlying zoning district shall not preclude the construction of up to two primary dwelling units nor physically preclude either of the two units from being at least 800 square feet in floor area.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>SB 9 unit(s) in excess of 800 square feet shall be subject to a Single-Family Dwelling Design Review (SFDDR) or Site Plan and Architectural Review (SPAR) discretionary review process and shall be governed by the maximum floor area established by the underlying zoning district.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>In instances where the existing floor area allowance of a lot has been fully utilized, an SB 9 unit of up to 800 square feet in size with at least 4-foot side and rear yard setbacks and up to 16-feet in height shall be permitted, unless the proposed development would have a specific adverse impact, as defined and determined in paragraph (2) of subdivision (d) of Section 65589.5, as amended, of the <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite>, upon public health and safety or the physical environment, and for which there is no feasible method to satisfactorily mitigate or avoid the specific adverse impact(s).</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Height. The specific height maximums outlined below are applicable to all zoning districts subject to the Two-Unit Development Overlay District:</text>
+            <para>
+              <num>(1)</num>
+              <text>Attached SB 9 Units. The maximum building height is 24 feet to top of plateline and 32 feet to roof peak as measured from existing grade.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Detached SB 9 Units. Maximum building height is 16 feet to top of plateline and 24 feet to roof peak as measured from existing grade.</text>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Setbacks. SB 9 unit(s) shall have setbacks as follows:</text>
+            <para>
+              <num>(1)</num>
+              <text>Front Setback. A minimum setback from the front lot line, as required by the lot's underlying zoning district.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Side and Rear Setbacks. A minimum setback of four (4) feet shall be required from the side and rear lot lines.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>No setback shall be required for an existing legally permitted structure that is converted into an SB 9 unit or a structure constructed in the same location and to the same dimensions as an existing legally permitted structure.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Parking.</text>
+            <para>
+              <num>(1)</num>
+              <text>General Requirements. There shall be a minimum of one standard size off-street parking space (either uncovered or covered) for each SB 9 unit. All parking, whether required or voluntary, shall be located entirely on the same lot as the dwelling unit it serves and shall conform to the size requirements of the City's "Standard Drawings and Specifications" as adopted by resolution of the City Council and on file with the Department of Public Works. Covered parking shall meet all applicable setbacks of the underlying zoning district.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Exemptions. No off-street parking shall be required for an SB 9 unit in the following instances:</text>
+              <para>
+                <num>(A)</num>
+                <text>The parcel is located within one-half mile walking distance of a high-quality transit corridor, as defined in <cite doc="Cal. Pub. Res. Code" path="§2155|(b)">Public Resources Code Section 2155(b)</cite>; as amended; or</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The parcel is located within one-half mile walking distance of a major transit stop, as defined in <cite doc="Cal. Pub. Res. Code" path="§21064.3|(e)">Public Resources Code Section 21064.3(e)</cite>, as amended; or,</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>The parcel is located within one block of a car share facility.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>Objective Design Standards.</text>
+            <para>
+              <num>(1)</num>
+              <text>New residential construction of primary units subject to streamlined ministerial approval shall comply with the Interim Objective Design Standards as adopted by City Council resolution and as may be amended from time to time by further City Council resolution.</text>
+            </para>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>Other Development Standards.</text>
+            <para>
+              <num>(1)</num>
+              <text>All development pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite> shall also be subject to the requirements of the California Building Code, Fire Code and local fire sprinkler ordinance requirements.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>All objective standards of the underlying zoning district, Titles <cite doc="City of San Mateo, Cal., Code" path="27">27</cite> and <cite doc="City of San Mateo, Cal., Code" path="23">23</cite> and other relevant Titles of the San Mateo Municipal Code shall apply. If such standards conflict with <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite>, the standards in <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite> shall prevail. In no instance shall any objective building or design standard preclude the development of at least two primary dwelling units of at least 800 square feet each in size, unless the development would have a specific adverse impact, as defined and determined in paragraph (2) of subdivision (d) of Section 65589.5, as amended, of the <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite>, upon public health and safety or the physical environment, and for which there is no feasible method to satisfactorily mitigate or avoid the specific adverse impact(s).</text>
+            </para>
+          </para>
+        </section>
+        <subheading>Article II- Urban Lot Splits</subheading>
+        <section>
+          <num>27.21.100</num>
+          <heading>Purpose</heading>
+          <text>The purpose of this Article is to implement SB 9, establish objective standards and regulate qualified Urban Lot Splits and development in accordance with state law. Article II shall be implemented and interpreted in conjunction with Article I of <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite>, <cite doc="Cal. Gov't Code" proof="needed">California Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65852.21">65852.21</cite> and <cite doc="Cal. Gov't Code" path="§66411.7">66411.7</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.40">San Mateo Municipal Code Chapter 23.40</cite> and Titles <cite doc="City of San Mateo, Cal., Code" path="26">26</cite> and <cite doc="City of San Mateo, Cal., Code" path="27">27</cite>, and any other relevant San Mateo Municipal Code section or other City adopted plan.</text>
+        </section>
+        <section>
+          <num>27.21.110</num>
+          <heading>Rules of Procedure</heading>
+          <text>Urban Lot Split Development. In addition to the rules of procedure listed in <cite doc="City of San Mateo, Cal., Code" path="27.21.030" proof="needed">Section 27.21.030</cite> of Article I above, an Urban Lot Split application shall also conform with the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Submittal Requirements:</text>
+            <para>
+              <num>(1)</num>
+              <text>Full Site Survey. A full site boundary survey stamped and signed by a Land Surveyor licensed by the State of California. A topographic and boundary survey shall be required for all properties with grades over 15%.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Parcel Map. A parcel map pursuant to <cite doc="City of San Mateo, Cal., Code" path="26">Title 26 of the San Mateo Municipal Code</cite> showing the proposed Urban Lot Split.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Affidavit. A completed owner occupancy affidavit and acknowledgement that the property meets Urban Lot Split eligibility requirements outlined in <cite doc="City of San Mateo, Cal., Code" path="27.21.050" proof="needed">Section 27.21.050</cite> and that the owner of the property intends to occupy one of the housing units as their principal residence for a minimum of three years from the date of the approved Urban Lot Split and recordation of the Final Map.</text>
+              <para>
+                <num>(A)</num>
+                <text>Exception. This requirement shall not apply to an applicant that is a community land trust as defined in clause (ii) of subparagraph (C) of paragraph (11) of subdivision (a) of <cite doc="Cal. Rev. &amp; Tax. Code" path="§402.1">Section 402.1 of the Revenue and Taxation Code</cite>, or if the applicant is a qualified nonprofit corporation as described in <cite doc="Cal. Rev. &amp; Tax. Code" path="§214.15">Section 214.15 of the Revenue and Taxation Code</cite>.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Final Parcel Map. Upon an Urban Lot Split application approval, the applicant shall prepare, file, and record a final parcel map with the Department of Public Works pursuant to Article II of Section 26.56 of the San Mateo Municipal Code.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Dedications and Improvements. Unless required to accommodate an urban lot split or provide access to a parcel, no dedications of rights-of-ways or the construction of offsite improvements for parcels created pursuant to this Article shall be required as a condition of approval.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Findings. To approve an Urban Lot Split application, the Zoning Administrator shall make the findings listed in <cite doc="City of San Mateo, Cal., Code" path="27.21.030" proof="needed">Section 27.21.030</cite> of Article I above, in addition to the following findings:</text>
+            <para>
+              <num>(1)</num>
+              <text>The parcel being subdivided was not established through a prior SB 9 urban lot split application.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The Urban Lot Split conforms to all applicable objective requirements of the Subdivision Map Act (Division 2 commencing with Section 66410), except as otherwise provided in this Section.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The parcel being subdivided is not adjacent to another parcel where either the owner of the parcel proposing to be subdivided or any person acting in concert with said owner has previously subdivided the adjacent parcel using the provisions of SB 9.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <num>27.21.120</num>
+          <heading>Recordation of Deed Restriction</heading>
+          <text>A deed restriction shall be submitted in a form approved by the City and recorded to run with the land for all development pursuant to this Article as indicated below:</text>
+          <para>
+            <num>(a)</num>
+            <text>A prohibition of non-residential uses on any lot created pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite>;</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>A prohibition of the establishment of short-term rentals and a requirement that a rental or lease of any dwelling unit created pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this chapter</cite> shall be for a period of at least 30 consecutive days.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>A prohibition against further subdivision of the parcel using the Urban Lot Split procedures in <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite> and pursuant to <cite doc="Cal. Gov't Code" path="§65852.21">Government Code Section 65852.21</cite> and 66411.7, as amended;</text>
+          </para>
+        </section>
+        <section>
+          <num>27.21.130</num>
+          <heading>Lands Not Eligible for Urban Lot Splits</heading>
+          <text>The following lands classified as R1-A, R1-B, and R1-C are not eligible for an Urban Lot Split under this Article, if the parcel meets either of the following:</text>
+          <para>
+            <num>(a)</num>
+            <text>Any parcel that was established through prior approval of an Urban Lot Split subdivision as provided for in this Article; or</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Any parcel proposed to be subdivided that is adjacent to another parcel where either the owner of the parcel proposing to be subdivided or any person acting in concert (as defined in <cite doc="City of San Mateo, Cal., Code" path="27.21.020|(b)" proof="needed">Section 27.21.020(b)</cite>) with said owner has previously subdivided the adjacent parcel using the provisions of this Article.</text>
+          </para>
+        </section>
+        <section>
+          <num>27.21.140</num>
+          <heading>Urban Lot Split Development Standards</heading>
+          <text>Development standards shall be applied to each parcel individually. Each parcel created by an Urban Lot Split shall conform to the Two-Unit Development Standards in <cite doc="City of San Mateo, Cal., Code" path="27.21.070" proof="needed">Section 27.21.070</cite> and <cite doc="City of San Mateo, Cal., Code" path="26">Title 26 of the San Mateo Municipal Code</cite> except as otherwise listed below.</text>
+          <para>
+            <num>(a)</num>
+            <text>Demolition. The demolition of 50% or more a structure's exterior structural walls or roof shall require the issuance of a ministerial Special Use Permit for the substantial removal of the existing structure pursuant to the applicable sections of <cite doc="City of San Mateo, Cal., Code" path="27.18.035">Section 27.18.035</cite> of the Municipal Code.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Number of Units. On a lot established through an Urban Lot Split pursuant to <cite doc="Cal. Gov't Code" path="§66411.7">Government Code 66411.7</cite>, a maximum of two dwelling units shall be allowed per resultant parcel. In no case shall more than two dwelling units on a single lot in any otherwise allowed combination of primary units, SB 9 units, ADUs and/or JADUs be permitted.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Parcel Map and Configuration.</text>
+            <para>
+              <num>(1)</num>
+              <text>Number of Parcels. The parcel map shall create no more than two new parcels.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Parcel Size.</text>
+              <para>
+                <num>(A)</num>
+                <text>Each newly created parcel shall be of approximately equal areas. The smallest subdivided parcel shall not be less than forty percent (40%) of the lot area of the original parcel proposed for subdivision.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>Each newly created parcel shall be at least 1,200 square feet in gross area.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>Access and Driveways.</text>
+            <para>
+              <num>(1)</num>
+              <text>Parcels resulting from an Urban Lot Split shall have access to, provide access to, or adjoin the public right-of-way through their frontage, access corridor, or access easement(s).</text>
+              <para>
+                <num>(A)</num>
+                <text>A minimum 10-foot-wide strip of land owned in fee (i.e. flag lot 'pole') or 10- foot wide access easement shall be provided for all flag lots or landlocked parcels created through an Urban Lot Split. The width of the strip of land owned in fee for flag lots or width of the access easement for landlocked parcels shall not be less than the driveway width requirements of <cite doc="City of San Mateo, Cal., Code" path="27.64.025">Section 27.64.025</cite>.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>A minimum 20-foot-wide strip of land owned in fee (i.e. flag lot 'pole') or 20- foot wide access easement shall be provided for all flag lots or landlocked parcels created through an Urban Lot Split where the length of the flag lot 'pole' or access easement is greater than 150 feet in length.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Access to all new lots and/or units shall be compliant with the San Mateo Consolidated Fire District standard details and specifications for driveways and turnarounds.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Easements for the adequate provision of public services and utilities and egress/ingress may be required.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Proposed boundary lines shall be free of jogs in alignment, except where physical conditions and established property lines preclude the establishment of straight boundary lines, or such alignment would prohibit the creation of lots pursuant to this Article which are capable of being developed with two residential units that are at least 800 square-feet in size each.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>Other Development Standards.</text>
+            <para>
+              <num>(1)</num>
+              <text>All development pursuant to this Article shall also be subject to additional development standards as outlined in <cite doc="City of San Mateo, Cal., Code" path="27.21.070|(f)" proof="needed">Section 27.21.070(f)</cite> of <cite doc="City of San Mateo, Cal., Code" path="27.21" proof="needed">this Chapter</cite> above.</text>
+            </para>
+          </para>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Subsection (c) of <cite doc="City of San Mateo, Cal., Code" path="27.66.020">Section 27.66.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <text>Individually Eligible and Contributor Buildings. For the purposes of <cite doc="City of San Mateo, Cal., Code" path="2">this Chapter</cite>, the terms "individually eligible building" shall mean those buildings as identified in the City of San Mateo General Plan, buildings which are on the National Register of Historic Places (NRHP) or California Register of Historical Resources (CRHP), or buildings determined to be individually eligible for listing on the NRHP or CRHP through documentation contained in a historic resources report. "Contributor building" shall mean those buildings identified as such and located within the Downtown Historic District as adopted by resolution of the City Council and identified in the City of San Mateo General Plan.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Subsection (d) of <cite doc="City of San Mateo, Cal., Code" path="27.66.020">Section 27.66.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="3">this Chapter</cite>, the terms "individually eligible building" and "contributor building" and "Downtown Historic District" shall mean those buildings and district identified as such by resolution of the City Council, identified in the City of San Mateo Downtown Specific Plan, or as determined to be listed or individually eligible for listing on the NRHP or CRHP through documentation contained in a historic resources report.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with <cite doc="Cal. Gov't Code" proof="needed">California Government Code</cite> Sections 65852.21(j) and 66411.7(n), the adoption of this ordinance implementing the provisions of <cite doc="Cal. Gov't Code" proof="needed">Government Code</cite> sections <cite doc="Cal. Gov't Code" path="§66411.7">66411.7</cite> and <cite doc="Cal. Gov't Code" path="§65852.21">65852.21</cite> and regulating urban lot splits and two-unit development projects in single-family zoned areas is statutorily exempt from the requirements of the California Environmental Quality Act ("CEQA"). Therefore, the proposed amendment is statutorily exempt from CEQA in that the proposed amendments implement the new laws enacted by SB 9. Text amendments to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66 of the San Mateo Municipal Code</cite> to update the definition of individually eligible and contributor buildings to align with the General Plan is also exempt from CEQA, pursuant to Section 15061(b)(3), the common sense exemption, which provides a project is exempt from CEQA where it can be seen with certainty that there is no possibility that the activity in question may have a significant effect on the environment.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on September 19, 2022, and adopted on October 3, 2022, and shall be effective 30 days after its adoption.</text>
+  </section>
+</document>
