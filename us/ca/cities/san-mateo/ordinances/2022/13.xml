@@ -1,0 +1,695 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2022-13">
+  <num>2022-13</num>
+  <heading type="short">__________</heading>
+  <heading type="long">An Ordinance amending San Mateo Municipal Code Chapter 23.24 "Energy Code," of Title 23, "Building and Construction," to adopt the California Energy Code, 2022 Edition, by reference and amending San Mateo Municipal Code Chapter 23.70 " Green Building Code," of Title 23, "Building and Construction," to adopt the California Green Building Standards Code, 2022 Edition, with Local Amendments</heading>
+  <meta>
+    <effective proof="needed">2022-12-07</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2022-13.pdf" proof="needed">Ord. No. 2022-13</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2022-13</citation>
+    </citations>
+    <history>
+      <introduced>2022-10-17</introduced>
+      <adopted>2022-11-07</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the California Energy Code and Green Building Standards Code, 2022 Edition, have been released by the State and requires adoption by local jurisdictions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo's (City) Climate Action Plan recommended the City review local amendments to the California Energy Code and Green Building Standards Code to promote building electrification and electric vehicle adoption; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the California Energy Commission advised local jurisdictions that local amendments requiring electrification are not energy conservation or efficiency standards and thus fall outside of the scope of the California Energy Commission and therefore the City desires to adopt the California Energy Code, 2022 Edition, by reference without local amendment; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City desires to adopt the California Green Building Standards Code, 2022 Edition, by reference with local amendments to include electrification requirements; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the local amendments amend the California Green Building Standards Code to require enhanced electric vehicle charging infrastructure beyond state requirements, require all-electric new construction, and require electric-readiness and electric appliances during residential building remodels; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Health &amp; Safety Code" proof="needed">California Health and Safety Code</cite> Sections <cite doc="Cal. Health &amp; Safety Code" path="§17922">17922</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite>, and <cite doc="Cal. Health &amp; Safety Code" path="§18941.5">18941.5</cite> authorizes the City to make local amendments to the California Green Building Standards Code upon express findings that the local amendments are reasonably necessary due to local climatic, geographical, or topographical conditions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>concurrent with this ordinance, the City Council of the City of San Mateo has adopted a resolution adopting express findings in support of local amendments to the California Green Building Standards Code, 2022 Edition.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.010" proof="needed">Section 23.24.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>23.24.010</num>
+        <heading>Adoption</heading>
+        <para>
+          <num>(a)</num>
+          <text>The California Energy Code, 2022 Edition, <cite doc="City of San Mateo, Cal., Code" path="24" proof="needed">Title 24</cite>, Part 6 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Energy Code," is adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>One copy of the Energy Code shall at all times be kept on file in the office of the City Clerk.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.020" proof="needed">Section 23.24.020 of the San Mateo Municipal Code</cite> is repealed.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.030" proof="needed">Section 23.24.030 of the San Mateo Municipal Code</cite> is repealed.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.040" proof="needed">Section 23.24.040 of the San Mateo Municipal Code</cite> is repealed.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.050" proof="needed">Section 23.24.050 of the San Mateo Municipal Code</cite> is repealed.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.060" proof="needed">Section 23.24.060 of the San Mateo Municipal Code</cite> is repealed.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.070" proof="needed">Section 23.24.070 of the San Mateo Municipal Code</cite> is repealed.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.080" proof="needed">Section 23.24.080 of the San Mateo Municipal Code</cite> is repealed.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70.010" proof="needed">Section 23.70.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>23.70.010</num>
+        <heading>Adoption</heading>
+        <para>
+          <num>(a)</num>
+          <text>The California Green Building Standards Code, 2022 Edition, <cite doc="City of San Mateo, Cal., Code" path="24" proof="needed">Title 24</cite>, Part 11 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Green Building Code," is adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>One copy of the Green Building Code shall at all times be kept on file in the office of the City Clerk.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>10</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70.020" proof="needed">Section 23.70.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>23.70.020</num>
+        <heading>Local Amendments to Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>The most commonly used definitions of the Green Building Code are set forth below:</text>
+          <text><strong>Addition. </strong>An extension or increase in floor area of an existing building or structure.</text>
+          <text><strong>Alteration or Alter.</strong> Any construction or renovation to an existing structure other than repair for the purpose of maintenance or addition.</text>
+          <text><strong>Electric Vehicle (EV). </strong>An automotive-type vehicle for on-road use, such as passenger automobiles, buses, trucks, vans, neighborhood electric vehicles, electric motorcycles, and the like, primarily powered by an electric motor that draws current from a rechargeable storage battery, fuel cell, photovoltaic array, or other source of electric current. Plug-in hybrid electric vehicles (PHEV) are considered electric vehicles.  For purposes of the <em>California Electrical Code</em>, off-road, self-propelled electric vehicles, such as industrial trucks, hoists, lifts, transports, golf carts, airline ground support equipment, tractors, boats, and the like, are not included.</text>
+          <text><strong>Electric Vehicle Charging Space (EV Space)</strong>. A space intended for future installation of EV charging equipment and charging of electric vehicles.</text>
+          <text><strong>Electric vehicle supply equipment (EVSE).</strong> The conductors, including the undergrounded, grounded, and equipment grounding conductors and the electric vehicles connectors, attachment plugs, and all other fittings, devices, power outlets, or apparatus installed specifically for the purpose of transferring energy between premises wiring and the electric vehicle.</text>
+          <text><strong>Newly Constructed (or New Construction).</strong> A newly constructed building (or new construction) does not include additions, alterations or repairs.</text>
+          <text><strong>Off-Street Loading Spaces.</strong> An area, other than a public street, public way, or other property (and exclusive of off-street parking spaces), permanently reserved or set aside for the loading or unloading of motor vehicles, including ways of ingress and egress and maneuvering areas. Whenever the term "loading space" is used, it shall, unless the context clearly requires otherwise, be construed as meaning off-street loading space. This excludes designated passenger loading/unloading.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Green Building Code Section 202 is amended to include the following definitions:</text>
+          <text><strong>Affordable Housing.</strong> Residential buildings that entirely consist of units below market rate and whose rents or sales prices are governed by local agencies to be affordable based on area median income.</text>
+          <text><strong>All-Electric Building.</strong> A building that contains no <em>combustion equipment </em>or plumbing for combustion equipment serving space heating (including fireplaces), water heating (including pools and spas), cooking appliances (including barbeques), and clothes drying, within the building or building property lines, and instead uses electric heating appliances for service.</text>
+          <text><strong>Appliance Upgrade.</strong> The installation, relocation, or replacement of any appliance.</text>
+          <text><strong>Automatic Load Management System (ALMS).</strong> A control system designed to manage load across one or more electric vehicle supply equipment (EVSE), circuits, panels and to share electrical capacity and/or automatically manage power at each connection point. ALMS systems shall be designed to deliver no less than 3.3 kVa (208/240 volt, 16-ampere) to each EV Capable, EV Ready or EVCS space served by the ALMS, and meet the requirements of California Electrical Code Article 625. The connected amperage to the building site for the EV charging infrastructure shall not be lower than the required connected amperage per California Green Building Standards Code, <cite doc="City of San Mateo, Cal., Code" path="24" proof="needed">Title 24</cite> Part 11.</text>
+          <text><strong>Combustion Equipment.</strong> Any equipment or appliance used for space heating, water heating, cooking, clothes drying and/or lighting that uses <em>fuel gas</em>.</text>
+          <text><strong>Direct Current Fast Charging (DCFC).</strong> A parking space provided with electrical infrastructure that meets the following conditions:</text>
+          <para>
+            <num>(1)</num>
+            <text>A minimum of 48 kVa (480 volt, 100-ampere) capacity wiring.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Electric vehicle supply equipment (EVSE) located within three (3) feet of the parking space providing a minimum capacity of 80-ampere.</text>
+            <text><strong>Electric Heating Appliance.</strong> A device that produces heat energy to create a warm environment by the application of electric power to resistance elements, refrigerant compressors, or dissimilar material junctions, as defined in the California Mechanical Code.</text>
+            <text><strong>Electric Vehicle Charging Station (EVCS).</strong> A parking space that includes installation of electric vehicle supply equipment (EVSE) at an EV Ready space. An EVCS space may be used to satisfy EV Ready space requirements. EVSE shall be installed in accordance with the California Electrical Code, Article 625<strong>.</strong></text>
+            <text><strong>Fuel Gas.</strong> A gas that is natural, manufactured, liquefied petroleum, or a mixture of these, as defined in the California Mechanical Code.</text>
+            <text><strong>Fuel Gas Infrastructure. </strong>Piping, other than service pipe, in or in connection with a building, structure or within the property lines of premises, extending from the point of delivery at the gas meter, service meter assembly, outlet of the service regulator, service shutoff valve, or final pressure regulator, whichever is applicable, as defined in the California Mechanical Code.</text>
+            <text><strong>Laboratory.</strong> A room, building or area where the use and storage of hazardous materials are utilized for testing, analysis, instruction, research or developmental activities.</text>
+            <text><strong>Level 1 EV Ready.</strong> A parking space that is served by a complete electric circuit with the following requirements:</text>
+          </para>
+          <para>
+            <num proof="done">(1)</num>
+            <text>A minimum of 2.2 kVa (110/120 volt, 20-ampere) capacity wiring.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A receptacle labeled "Electric Vehicle Outlet" or electric vehicle supply equipment located within three (3) feet of the parking space. If EVSE is provided the minimum capacity of the EVSE shall be 16-ampere.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Conduit oversized to accommodate future Level 2 EV Ready (208/240 volt, 40-ampere) at each parking space<strong>.</strong></text>
+            <text><strong>Level 2 EV Capable.</strong> A parking space provided with electrical infrastructure that meets the following requirements:</text>
+          </para>
+          <para>
+            <num proof="done">(1)</num>
+            <text>Conduit that links a listed electrical panel with sufficient capacity to a junction box or receptacle located within three (3) feet of the parking space.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The conduit shall be designed to accommodate at least 8.3 kVa (208/240 volt, 40-ampere) per parking space. Conduit shall have a minimum nominal trade size of 1 inch inside diameter and may be sized for multiple circuits as allowed by the California Electrical Code. Conduit shall be installed at a minimum in spaces that will be inaccessible after construction, either trenched underground or where penetrations to walls, floors, or other partitions would otherwise be required for future installation of branch circuits, and such additional elements deemed necessary by the Building Official. Construction documents shall indicate future completion of conduit from the panel to the parking space, via the installed inaccessible conduit.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The electrical panel shall reserve a space for a 40-ampere overcurrent protective device space(s) for EV charging, labeled in the panel directory as "EV CAPABLE."</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Electrical load calculations shall demonstrate that the electrical panel service capacity and electrical system, including any on-site distribution transformer(s), have sufficient capacity to simultaneously charge all EVs at all required EV spaces at a minimum of 40 amperes.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The parking space shall contain signage with at least a 12" font adjacent to the parking space indicating the space is EV Capable.</text>
+            <text><strong>Level 2 EV Ready.</strong> A parking space that is served by a complete electric circuit with the following requirements:</text>
+          </para>
+          <para>
+            <num proof="done">(1)</num>
+            <text>A minimum of 8.3 kVa (208/240 volt, 40-ampere) capacity wiring.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A receptacle labeled "Electric Vehicle Outlet" or electric vehicle supply equipment located within three feet of the parking space.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If EVSE is provided the minimum capacity of the EVSE shall be 30-ampere.</text>
+            <text><strong>Low Power Level 2 EV Ready.</strong> A parking space that is served by a complete electric circuit with the following requirements:</text>
+          </para>
+          <para>
+            <num proof="done">(1)</num>
+            <text>A minimum of 4.1 kVA (208/240 Volt, 20-ampere) capacity wiring.</text>
+          </para>
+          <para>
+            <num proof="done">(1)</num>
+            <text>A receptacle labeled "Electric Vehicle Outlet" or electric vehicle supply equipment located within three (3) feet of the parking space. If EVSE is provided the minimum capacity of the EVSE shall be 16-ampere.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Conduit oversized to accommodate future Level 2 EV Ready (208/240 volt, 40-ampere) at each parking space.</text>
+          </para>
+          <aftertext proof="needed"><strong>Repair. </strong>Reconstruction, replacement, or renewal of any part of an existing building for the purpose of its maintenance or to correct damage, as defined in the California Existing Building Code.</aftertext>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Green Building Code Section 202 is amended to delete the following definitions:</text>
+          <text><strong>Electric Vehicle (EV) Capable Space.</strong> A vehicle space with electrical panel space and load capacity to support a branch circuit and necessary raceways, both underground and/or surface mounted, to support EV charging.</text>
+          <text><strong>Electric Vehicle (EV) Ready Space. [HCD]</strong> A vehicle space which is provided with a branch circuit; any necessary raceways, both underground and/or surface mounted; to accommodate EV charging, terminating in a receptacle or a charger.</text>
+          <text><strong>Level 2 Electric Vehicle Supply Equipment (EVSE). [HCD]</strong> The 208/240 Volt 40ampere branch circuit, and the electric vehicle charging connectors, attachment plugs, and all other fittings, devices, power outlets, or apparatus installed specifically for the purpose of transferring energy between the premises wiring and the electric vehicle.</text>
+          <text><strong>Low Power Level 2 Electric Vehicle [EV] Charging Receptable. [HCD]</strong> A 208/240 Volt 20- ampere minimum branch circuit and a receptacle for use by an EV driver to charge their electric vehicle or hybrid electric vehicle.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>11</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70.030" proof="needed">Section 23.70.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>23.70.030</num>
+        <heading>Local Amendment Regarding Electric Vehicle Charging for New One- and Two-Family Dwellings and Town-Houses</heading>
+        <para>
+          <num>(a)</num>
+          <text>Green Building Code Section 4.106.4.1, "New one- and two-family dwellings and town-houses with attached private garages," is amended to read as follows:</text>
+          <text proof="needed">
+            <strong>4.106.4.1 New one- and two-family dwellings and town-houses with attached private garages.</strong>
+          </text>
+          <text proof="needed">Green Building Code Section 4.106.4.1.1, "Identification," is amended to read as follows:</text>
+          <text proof="needed"><strong>4.106.4.1.1 New Construction</strong>. One parking space provided shall be a <em>Level 2 EV Ready</em> space. If a second parking space is provided, it shall be provided with a <em>Level 1 EV Ready space.</em></text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>12</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70.040" proof="needed">Section 23.70.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>23.70.040</num>
+        <heading>Local Amendment Regarding Electric Vehicle Charging for New Multifamily Residential Construction</heading>
+        <para>
+          <num>(a)</num>
+          <text>Green Building Code Section 4.106.4 "Electric vehicle (EV) charging for new construction," is amended to read as follows:</text>
+          <text><strong>4.106.4 Electric vehicle (EV) charging.</strong> New construction shall comply with Section 4.106.4.1 or 4.106.4.2, and 4.106.4.3, to facilitate future installation and use of EV chargers. Electric vehicle supply equipment (EVSE) shall be installed in accordance with the <em>California Electrical Code</em>, Article 625. For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s). Calculation for spaces shall be rounded up to the nearest whole number.</text>
+          <text>
+            <strong>Exceptions:</strong>
+          </text>
+          <para>
+            <num>1.</num>
+            <text>On a case-by-case basis, where the local enforcing agency has determined EV charging and infrastructure are not feasible based upon one or more of the following conditions:</text>
+            <para>
+              <num>1.1</num>
+              <text>Where there is no local utility power supply or the local utility is unable to supply adequate power.</text>
+            </para>
+            <para>
+              <num>1.2</num>
+              <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 4.106.4, may increase construction cost by an average of $4,500 per parking space for market rate housing or $400 per parking space for affordable housing. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
+            </para>
+            <para>
+              <num>1.3</num>
+              <text>Accessory Dwelling Units (ADU) and Junior Accessory Dwelling Units (JADU) without additional parking facilities and without electrical panel upgrade or new panel installation. ADUs and JADUs without additional parking but with electrical panel upgrades or new panels must have reserved breakers and electrical capacity according to the requirements of 4.106.4.1.</text>
+            </para>
+          </para>
+          <para>
+            <num>2.</num>
+            <text>Projects with multifamily residential units that submitted Planning Applications prior to the effective date of this ordinance.</text>
+          </para>
+          <para>
+            <num>3.</num>
+            <text>Parking spaces accessible only by automated mechanical car parking systems are not required to comply with this code section.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Green Building Code Section 4.106.4.2, "New multifamily dwellings, hotels and motels and new residential parking facilities," is amended to read as follows:</text>
+          <include>
+            <section>
+              <num>4.106.4.2</num>
+              <heading>New multifamily dwellings and new residential parking facilities. Requirements apply to parking spaces that are assigned or leased to individual dwelling units, as well as unassigned residential parking. Visitor or common area parking is not included.</heading>
+              <para>
+                <num>(c)</num>
+                <text>Green Building Code Section 4.106.4.2.1, "Multifamily development projects with less than 20 dwelling units; and hotels and motels with less than 20 sleeping units or guest rooms," is amended to read as follows:</text>
+                <text><strong>4.106.4.2.1 New Construction. </strong>Fifteen percent (15%) of dwelling units with parking spaces shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Eighty-five percent (85%) of dwelling units with parking spaces shall be provided with a Low Power Level 2 EV Ready space. EV ready spaces and EVCS in multifamily developments shall comply with California Building Code, Chapter 11A, Section 1109A. EVCS shall comply with the accessibility provisions for EV chargers in the California Building Code, Chapter 11B.</text>
+                <text><strong>Note:</strong> The total number of EV spaces should be one-hundred percent (100%) of dwelling units or one-hundred percent (100%) of parking spaces, whichever is less.</text>
+              </para>
+              <para>
+                <num>(d)</num>
+                <text>Green Building Code Section 4.106.4.2.2, "Multifamily development projects with 20 or more dwelling units, hotels and motels with 20 or more sleeping units or guest rooms," is amended to read as follows:</text>
+                <text><strong>4.106.4.2.2 Existing Buildings. </strong>When new parking facilities are added, or electrical systems or lighting of existing parking facilities are added or altered and the work requires a building permit, ten (10) percent of the total number of parking spaces added or altered, shall be electric vehicle charging spaces (EV spaces) capable of supporting future Level 2 EVSE.</text>
+                <text>
+                  <strong>Notes:</strong>
+                </text>
+                <para>
+                  <num>1.</num>
+                  <text>Construction documents are intended to demonstrate the project's capability and capacity for facilitating future EV charging.</text>
+                </para>
+                <para>
+                  <num>2.</num>
+                  <text>There is no requirement for EV spaces to be constructed or available until EV chargers are installed for use.</text>
+                </para>
+              </para>
+              <para>
+                <num>(e)</num>
+                <text>Green Building Code Section 4.106.4.2.2.1 "Electric vehicle charging stations (EVCS)" is not adopted</text>
+              </para>
+              <para>
+                <num>(f)</num>
+                <text>Green Building Code Section 4.106.4.2.2.1.1 "Location" is not adopted</text>
+              </para>
+              <para>
+                <num>(g)</num>
+                <text>Green Building Code Section 4.106.4.2.2.1.2 "Electric vehicle charging stations (EVCS) dimensions" is not adopted</text>
+              </para>
+              <para>
+                <num>(h)</num>
+                <text>Green Building Code Section 4.106.4.2.2.1.3 "Accessible EV spaces" is not adopted</text>
+              </para>
+              <para>
+                <num>(i)</num>
+                <text>Green Building Code Section 4.106.4.2.3 "EV Space requirements" is not adopted</text>
+              </para>
+              <para>
+                <num>(j)</num>
+                <text>Green Building Code Section 4.106.4.2.4 "Identification" is not adopted</text>
+              </para>
+              <para>
+                <num>(k)</num>
+                <text>Green Building Code Section 4.106.4.2.5 "Electric Vehicle Ready Space Signage" is not adopted</text>
+              </para>
+              <para>
+                <num>(l)</num>
+                <text>Green Building Code Section 4.106.4.3 "Electric vehicle charging for additions and alterations of parking facilities serving existing multifamily buildings," is amended, and adds new subsections to read as follows:</text>
+                <text><strong>4.106.4.3 Electric vehicle charging stations (EVCS).</strong> Electric vehicle charging stations required by Section 4.106.4.2 shall comply with Section 4.106.4.3.</text>
+                <text><strong>Exception:</strong> Electric vehicle charging stations serving public accommodations, public housing, motels, and hotels shall not be required to comply with this section. See <em>California Building Code</em>, Chapter 11B, for applicable requirements.</text>
+                <text><strong>4.106.4.3.1 Location. </strong>EVCS shall comply with at least one of the following options:</text>
+                <para>
+                  <num>1.</num>
+                  <text>The charging space shall be located adjacent to an accessible parking space meeting the requirements of the <em>California Building Code</em>, Chapter 11A, to allow use of the EV charger from the accessible parking space.</text>
+                </para>
+                <para>
+                  <num>2.</num>
+                  <text>The charging space shall be located on an accessible route, as defined in the <em>California Building Code</em>, Chapter 2, to the building.</text>
+                  <text><strong>Exception:</strong> Electric vehicle charging stations designed and constructed in compliance with the <em>California Building Code</em>, Chapter 11B, are not required to comply with Section 4.106.4.3.1 and Section 4.106.4.3.2.</text>
+                  <text><strong>4.106.4.3.2 Dimensions.</strong> The charging spaces shall be designed to comply with the following:</text>
+                </para>
+                <para>
+                  <num proof="done">1.</num>
+                  <text>The minimum length of each EV space shall be 18 feet (5486 mm).</text>
+                </para>
+                <para>
+                  <num>2.</num>
+                  <text>The minimum width of each EV space shall be 9 feet (2743 mm).</text>
+                </para>
+                <para>
+                  <num>3.</num>
+                  <text>One in every 25 charging spaces, but not less than one, shall also have an 8-foot (2438 mm) wide minimum aisle. A 5-foot (1524 mm) wide minimum aisle shall be permitted provided the minimum width of the EV space is 12 feet (3658 mm).</text>
+                  <para proof="needed">
+                    <num>a.</num>
+                    <text>Surface slope for this EV space and the aisle shall not exceed 1 unit vertical in 48 units horizontal (2.083 percent slope) in any direction.</text>
+                  </para>
+                  <aftertext proof="needed"><strong>Exception: </strong>Where the City's Municipal or Zoning Code permits parking space dimensions that are less than the minimum requirements stated in this section 4.106.4.3.2, and the compliance with which would be infeasible due to particular circumstances of a project, an exception may be granted while remaining in compliance with California Building Code Section Table 11B-228.3.2.1 and 11B-812, as applicable.</aftertext>
+                </para>
+              </para>
+            </section>
+          </include>
+        </para>
+        <para>
+          <num proof="done">(m)</num>
+          <text>Green Building Code Section 4.106.4, "Electric vehicle (EV) charging for new construction," is amended to add a new subsection and read as follows:</text>
+          <include>
+            <section>
+              <num>4.106.4.4</num>
+              <heading>Direct current fast charging stations. One DCFC may be substituted for up to five (5) EVCS to meet the requirements of 4.106.4.1 and 4.106.4.2. Where ALMS serve DCFC stations, the power demand from the DCFC shall be prioritized above Level 1 and Level 2 spaces.</heading>
+            </section>
+          </include>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>13</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70.050" proof="needed">Section 23.70.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>23.70.050</num>
+        <heading>Local Amendment Regarding Electric Vehicle Charging for New Non-residential Construction</heading>
+        <para>
+          <num>(a)</num>
+          <text>Green Building Code Section 5.106.5.3, "Electric vehicle (EV) charging," is amended, and adds new subsections to read as follows:</text>
+          <text proof="needed"><strong>5.106.5.3 Electric vehicle (EV) charging. </strong>Construction to provide electric vehicle infrastructure and facilitate electric vehicle charging shall comply with Section 5.106.5.3 and shall be provided in accordance with regulations in the <em>California Building Code </em>and the <em>California Electrical Code</em>. Accessible EVCS shall be provided in accordance with the <em>California Building Code Chapter 11B Section 11B-228.3. </em>For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s). Calculation for spaces shall be rounded up to the nearest whole number.</text>
+          <text proof="needed">
+            <strong>Exceptions:</strong>
+          </text>
+          <text proof="needed">1<strong>. </strong>On a case-by-case basis where the local enforcing agency has determined compliance with this section is not feasible based upon one of the following conditions:</text>
+          <text proof="needed">a. Where there is no local utility power supply.</text>
+          <text proof="needed">b. Where the local utility is unable to supply adequate power.</text>
+          <text proof="needed">c. Where there is evidence suitable to the local enforcement agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 5.106.5.3, may increase construction cost by an average of $4,500 per parking space. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
+          <text proof="needed">2. Parking spaces accessible only by automated mechanical car parking systems are not required to comply with this code section.</text>
+          <text proof="needed">
+            <strong>5.106.5.3.1 Nonresidential Occupancy Class B Offices – Shared Parking Space.</strong>
+          </text>
+          <text proof="needed"><strong>5.106.5.3.1.1 New Construction. </strong>Twenty percent (20%) of parking spaces shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Thirty percent (30%) of parking spaces provided shall be Level 2 EV Capable.</text>
+          <text proof="needed">
+            <strong>5.106.5.3.2 Hotel and Motel Occupancies – Shared Parking Facilities.</strong>
+          </text>
+          <text proof="needed"><strong>5.106.5.3.2.1 New Construction. </strong>Five percent (5%) of parking spaces provided shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Twenty-five percent (25%) of parking spaces provided shall be Low Power Level 2 EV Ready space. Ten percent (10%) of parking spaces provided shall be Level 2 EV Capable.</text>
+          <text proof="needed">
+            <strong>5.106.5.3.3 All Other Nonresidential Occupancies – Shared Parking Facilities.</strong>
+          </text>
+          <text proof="needed"><strong>5.106.5.3.3.1 New Construction. </strong>Ten percent (10%) of parking spaces provided shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Ten percent (10%) of parking spaces provided shall be Level 2 EV Capable.</text>
+          <text proof="needed"><strong>5.106.5.3.4 Direct current fast charging stations. </strong>One DCFC may be substituted for up to five (5) EVCS to meet the requirements of 5.106.5.3.1, 5.106.5.3.2, and 5.106.5.3.3. Where ALMS serve DCFC stations, the power demand from the DCFC shall be prioritized above Level 1 and Level 2 spaces.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Green Building Code Section 5.106.5.4 "Electric vehicle (EV) charging: medium-duty and heavy-duty," is amended to read as follows:</text>
+          <include>
+            <section>
+              <num>5.106.5.4</num>
+              <heading>Electric vehicle (EV) charging readiness. Construction shall comply with Section 5.106.5.4.1 to facilitate future installation of electric vehicle supply equipment (EVSE). Construction for warehouses, grocery stores and retail stores with planned off-street loading spaces shall also comply with Section 5.106.5.4.1 for future installation of medium- and heavy-duty EVSE. Accessible EVCS shall be provided in accordance with the California Building Code Chapter 11B Section 11B-228.3. For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s).</heading>
+              <text>
+                <strong>Exceptions:</strong>
+              </text>
+              <para>
+                <num>1.</num>
+                <text>On a case-by-case basis where the local enforcing agency has determined compliance with this section is not feasible based upon one of the following conditions:</text>
+                <para>
+                  <num>a.</num>
+                  <text>Where there is no local utility power supply.</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>Where the local utility is unable to supply adequate power.</text>
+                </para>
+                <para>
+                  <num>c.</num>
+                  <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 5.106.5.3, may increase construction cost by an average of $4,500 per parking space. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
+                </para>
+              </para>
+            </section>
+          </include>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>14</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70.060" proof="needed">Section 23.70.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>23.70.060</num>
+        <heading>Local Amendment Regarding All-Electric Requirements for New Residential Construction</heading>
+        <para>
+          <num>(a)</num>
+          <text>Green Building Code Section 4.106 "Site Development," is amended to include new subsections to read as follows:</text>
+          <include>
+            <section>
+              <num>4.106.5</num>
+              <heading>All-electric buildings. New construction buildings shall comply with Section 4.106.5.1 or 4.106.5.2 so that they do not use combustion equipment or are ready to accommodate installation of electric heating appliances.</heading>
+            </section>
+            <section>
+              <num>4.106.5.1</num>
+              <heading>New construction. All newly constructed buildings shall be all-electric buildings.</heading>
+              <text>
+                <strong>Exceptions:</strong>
+              </text>
+              <text>If the applicant establishes that there is not an all-electric prescriptive compliance pathway for the building under the California Building Energy Efficiency Standards, and that the building is not able to achieve the performance compliance standard applicable to the building under the Energy Efficiency Standards using commercially available technology and an approved calculation method, then the local enforcing agency may grant a modification. The applicant shall comply with Section 4.106.5.2.</text>
+              <text>Inactive <em>Fuel Gas Infrastructure </em>may be extended to spaces that are anticipated to qualify for the exceptions contained in <cite doc="City of San Mateo, Cal., Code" path="4.106" proof="needed">this chapter</cite>. The inactive <em>Fuel Gas Infrastructure </em>shall not be activated, have a meter installed, or otherwise used unless the exemptions specified in <cite doc="City of San Mateo, Cal., Code" path="4.106" proof="needed">this chapter</cite> have been confirmed as part of the issuance of a building permit. If the <em>Fuel Gas Infrastructure </em>is no longer serving one of the exceptions contained in <cite doc="City of San Mateo, Cal., Code" path="4.106" proof="needed">this chapter</cite>, it shall either be capped, otherwise terminated, or removed by the entity previously entitled to the exemption, in a manner pursuant to all applicable Codes.</text>
+              <text>The City of San Mateo shall have the authority to approve alternative materials, design and methods of construction or equipment per California Building Code Section 104.</text>
+            </section>
+            <section>
+              <num>4.106.5.2</num>
+              <heading>Requirements for combustion equipment.</heading>
+              <text>Where <em>combustion equipment</em> is allowed per Exceptions under 4.106.5.1, the construction drawings shall indicate electrical infrastructure and physical space accommodating the future installation of an <em>electrical heating appliance</em> in the following ways, as certified by a registered design professional or licensed electrical contractor:</text>
+              <para>
+                <num>1.</num>
+                <text>Branch circuit wiring, electrically isolated and designed to serve all electrical heating appliances in accordance with manufacturer requirements and the California Electrical Code, including the appropriate voltage, phase, minimum amperage, and an electrical receptacle or junction box within five feet of the appliance that is accessible with no obstructions. Appropriately sized conduit may be installed in lieu of conductors; and</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Labeling of both ends of the unused conductors or conduit shall be with "For Future Electrical Appliance"; and</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Reserved circuit breakers in the electrical panel for each branch circuit, appropriately labeled (i.e "Reserved for Future Electric Range"), and positioned on the opposite end of the panel supply conductor connection; and</text>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>Connected subpanels, panelboards, switchboards, busbars, and transformers shall be sized to serve the future electrical heating appliances. The electrical capacity requirements shall be adjusted for demand factors in accordance with the California Electric Code; and</text>
+              </para>
+              <para>
+                <num>5.</num>
+                <text>Physical space for future electrical heating appliances, including equipment footprint, and if needed a pathway reserved for routing of ductwork to heat pump evaporator(s), shall be depicted on the construction drawings. The footprint necessary for future electrical heating appliances may overlap with non-structural partitions and with the location of currently designed combustion equipment.</text>
+              </para>
+            </section>
+          </include>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>15</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70.070" proof="needed">Section 23.70.070 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>23.70.070</num>
+        <heading>Local Amendment Regarding All-Electric Requirements for New Nonresidential Construction</heading>
+        <para>
+          <num>(a)</num>
+          <text>Green Building Code Section 5.106 "Site Development" is amended to include new subsections as follows:</text>
+          <text proof="needed"><strong>5.106.13 All-electric buildings</strong>. New construction buildings shall comply with Section 5.106.13.1 or 5.106.13.2 so that they do not use <em>combustion equipment</em> or are ready to facilitate future electrification.</text>
+          <text proof="needed"><strong>5.106.13.1. New construction.</strong> All newly constructed buildings shall be <em>all-electric buildings</em>.</text>
+          <text proof="needed">
+            <strong>Exceptions:</strong>
+          </text>
+          <text proof="needed">1. Nonresidential buildings containing kitchens located in a place of public accommodation, as defined in the California Building Code Chapter 2, may apply to the local enforcing agency for a modification to install <em>commercial food heat-processing equipment </em>served by <em>fuel gas</em>. The local enforcing agency may grant the modification if they find:</text>
+          <text proof="needed">a. A business-related need to cook with <em>combustion equipment</em>; and</text>
+          <text proof="needed">b. The need cannot be achieved equivalently with an <em>electric heating appliance</em>; and</text>
+          <text proof="needed">c. The applicant has installed energy efficient equipment based on Energy Star or California Energy Wise qualifications, as available.</text>
+          <text proof="needed">d. The applicant shall comply with Section 5.106.13.2.</text>
+          <text proof="needed">2. Laboratory areas within Non-Residential Buildings may contain non-electric Space Conditioning Systems. To take advantage of this exception, an applicant shall provide third party verification that the All-electric space heating requirement is not cost effective and feasible.</text>
+          <text proof="needed">3. If the applicant establishes that there is not an all-electric prescriptive compliance pathway for the building under the California Building Energy Efficiency Standards, and that the building is not able to achieve the performance compliance standard applicable to the building under the Energy Efficiency Standards using commercially available technology and an approved calculation method, then the local enforcing agency may grant a modification. The applicant shall comply with Section 5.106.13.2</text>
+          <text proof="needed">Inactive <em>Fuel Gas Infrastructure </em>may be extended to spaces that are anticipated to qualify for the exceptions contained in <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">this chapter</cite>. The inactive <em>Fuel Gas Infrastructure </em>shall not be activated, have a meter installed, or otherwise used unless the exemptions specified in <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">this chapter</cite> have been confirmed as part of the issuance of a building permit. If the <em>Fuel Gas Infrastructure </em>is no longer serving one of the exceptions contained in <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">this chapter</cite>, it shall either be capped, otherwise terminated, or removed by the entity previously entitled to the exemption, in a manner pursuant to all applicable Codes.</text>
+          <text proof="needed">The City of San Mateo shall have the authority to approve alternative materials, design and methods of construction or equipment per California Building Code Section 104.</text>
+          <include>
+            <section>
+              <num>5.106.13.2</num>
+              <heading>. Requirements for combustion equipment. Where combustion equipment is allowed per exceptions under Section 5.106.13.1, the construction drawings shall indicate electrical infrastructure and physical space accommodating the future installation of an electrical heating appliance in the following ways, as certified by a registered design professional or licensed electrical contractor:</heading>
+              <para>
+                <num>1.</num>
+                <text>Branch circuit wiring, electrically isolated and designed to serve all electrical heating appliances in accordance with manufacturer requirements and the California Electrical Code, including the appropriate voltage, phase, minimum amperage, and an electrical receptacle or junction box within five feet of the appliance that is accessible with no obstructions. Appropriately sized conduit may be installed in lieu of conductors; and</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Labeling of both ends of the unused conductors or conduit shall be with "For Future Electrical Appliance"; and</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Reserved circuit breakers in the electrical panel for each branch circuit, appropriately labeled (i.e "Reserved for Future Electric Range"), and positioned on the opposite end of the panel supply conductor connection; and</text>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>Connected subpanels, panelboards, switchboards, busbars, and transformers shall be sized to serve the future electrical heating appliances. The electrical capacity requirements shall be adjusted for demand factors in accordance with the California Electric Code; and</text>
+              </para>
+              <para>
+                <num>5.</num>
+                <text>Physical space for future electrical heating appliances, including equipment footprint, and if needed a pathway reserved for routing of ductwork to heat pump evaporator(s), shall be depicted on the construction drawings. The footprint necessary for future electrical heating appliances may overlap with non-structural partitions and with the location of currently designed combustion equipment.</text>
+              </para>
+            </section>
+          </include>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>16</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70.080" proof="needed">Section 23.70.080 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>23.70.080</num>
+        <heading>Local Amendment Regarding Electrification Requirements for Existing Residential Buildings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Green Building Code Section 4.106 "Site Development" is amended to include new subsections as follows:</text>
+          <include>
+            <section>
+              <num>4.106.5.3</num>
+              <heading>Existing one- and two-family dwellings.</heading>
+            </section>
+            <section>
+              <num>4.106.5.3.1</num>
+              <heading>Space cooling appliance upgrades shall use electricity for space heating, unconnected to fuel gas infrastructure. Any other space heating system serving the space shall be removed or configured to provide supplemental heat.</heading>
+            </section>
+            <section>
+              <num>4.106.5.3.2</num>
+              <heading>Alterations and additions that include water heater appliance upgrades shall be all-electric, unconnected to fuel gas infrastructure.</heading>
+            </section>
+            <section>
+              <num>4.106.5.3.3</num>
+              <heading>Kitchen alterations shall include a 240v, 50 ampere circuit and receptacle installed within 6 feet of the cooktop, oven, and/or range location.</heading>
+            </section>
+            <section>
+              <num>4.106.5.3.4</num>
+              <heading>Alterations to areas designated for the installation of laundry equipment shall include a 240v, 30 ampere circuit and receptacle installed within 6 feet of clothes drying appliance location.</heading>
+            </section>
+            <section>
+              <num>4.106.5.4</num>
+              <heading>Existing residential buildings.</heading>
+            </section>
+            <section>
+              <num>4.106.5.4.1</num>
+              <heading>Alterations or additions that involve or require an increase to the capacity of electrical panels or transformers as part of the scope, the electrical panel shall include reserved physical space for overcurrent protection devices, and transformers shall include reserved electrical capacity, as calculated per California Electric Code Section 220 for the following current or proposed appliances, as applicable to the project site, that will not be connected to fuel gas infrastructure:</heading>
+              <para>
+                <num>1.</num>
+                <text>Electric water heaters meeting the requirements of the California Energy Code.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Electric space heater and air-conditioner meeting the requirements of the California Energy Code.</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Electric pool and/or spa water heater.</text>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>Electric clothes dryer.</text>
+              </para>
+              <para>
+                <num>5.</num>
+                <text>Electric cooking equipment.</text>
+              </para>
+              <para>
+                <num>6.</num>
+                <text>Electric vehicle charger</text>
+                <text>
+                  <strong>Exceptions:</strong>
+                </text>
+                <para>
+                  <num proof="done">1.</num>
+                  <text>Buss bar electrical capacity shall not be required to exceed the proposed utility electrical service to the building. Capacity and overcurrent protection spaces shall be reserved in the priority listed above to the extent allowable under the proposed buss bar capacity.</text>
+                </para>
+                <para>
+                  <num>2.</num>
+                  <text>Reserved electric vehicle charger panel capacity may be shared with one of the following: water heater, clothes dryer, or cooking equipment.</text>
+                </para>
+                <para>
+                  <num>3.</num>
+                  <text>Electrical panels with internet-connected overcurrent protection devices that monitor circuit load and manage power distribution.</text>
+                  <include>
+                    <section>
+                      <num>4.106.5.4.2</num>
+                      <heading>Existing fuel gas infrastructure shall not be extended to any appliance, system or device within the building or building property. Inactive fuel gas infrastructure shall not be activated or otherwise operated.</heading>
+                      <text><strong>Exceptions: </strong>The following are exempt from the provisions of Section 4.106.5.3 "Existing one- and two-family dwellings" and Section 4.106.5.4 "Existing residential buildings,"</text>
+                      <para>
+                        <num>1.</num>
+                        <text>Where meeting the provisions of Section 4.106.5.3 or 4.106.5.4 would necessitate an increase in capacity for an electrical panel, feeders, transformer, or electrical service that is not part of the <em>appliance upgrade</em> scope, in order to meet the requirements of the California Electrical Code. To qualify for this exception, applicant must provide a calculation conforming to the California Electrical Code.</text>
+                      </para>
+                      <para>
+                        <num>2.</num>
+                        <text>Economic hardship exemptions shall be provided if the replacement cost for an all-electric system, including all incentives, is greater than 110 percent of a like-for-like fuel gas system replacement, including the future costs of electrification retrofits. The building official shall consult with the Community Development Director in deciding whether to approve an economic hardship exemption.</text>
+                      </para>
+                    </section>
+                  </include>
+                </para>
+              </para>
+            </section>
+          </include>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>17</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70.090" proof="needed">Section 23.70.090 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">Chapter 23.70</cite> as follows:</text>
+    <include>
+      <section>
+        <num>23.70.090</num>
+        <heading>Expiration</heading>
+        <text>These local code amendments shall sunset when the California Green Building Standards Code, 2022 Edition, is no longer in effect.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>18</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15308, adoption of this ordinance is categorically exempt from CEQA, because adoption of these green building standards is authorized by the state and is intended to assure the protection of the environment by reducing greenhouse gas emissions.</text>
+  </section>
+  <section>
+    <num>19</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>20</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="Cal. Gov't Code" path="§6066">California Government Code section 6066</cite>.</text>
+  </section>
+  <section>
+    <num>21</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on October 17, 2022, and adopted on November 7, 2022, and shall be effective January 1, 2023.</text>
+  </section>
+</document>
