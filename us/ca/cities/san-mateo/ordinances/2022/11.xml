@@ -266,14 +266,14 @@
           <para>
             <num>2.</num>
             <text>Footnotes "f" and "g" are added to Table 2308.6.1, to read:</text>
-          </para>
-          <para>
-            <num>f.</num>
-            <text>Methods PBS, HPS, and SFB are not permitted in Seismic Design Categories D or E.</text>
-          </para>
-          <para>
-            <num>g.</num>
-            <text>Methods GB, DWB and PCP are not permitted in Seismic Design Category E.</text>
+            <para>
+              <num proof="done">f.</num>
+              <text>Methods PBS, HPS, and SFB are not permitted in Seismic Design Categories D or E.</text>
+            </para>
+            <para>
+              <num>g.</num>
+              <text>Methods GB, DWB and PCP are not permitted in Seismic Design Category E.</text>
+            </para>
           </para>
         </para>
       </section>
@@ -488,7 +488,7 @@
             <num>c.</num>
             <text>Section 302.15 is amended as follows:</text>
             <para>
-              <num>15.</num>
+              <num proof="done">15.</num>
               <text>Whenever a building or structure, used or intended to be used for dwelling purposes, because of inadequate maintenance, dilapidation, decay, damage, faulty construction or arrangement, inadequate light, air or sanitation facilities, or otherwise, is determined by the Director of the Community Development Department, building official or code enforcement manager to be unsanitary, unfit for human habitation or in such a condition that is likely to cause sickness or disease.</text>
             </para>
           </para>
