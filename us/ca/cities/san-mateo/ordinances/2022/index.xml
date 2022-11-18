@@ -3,6 +3,9 @@
   <heading>2022 Ordinances</heading>
   <heading type="short">2022</heading>
   <subheading>Codified Ordinances</subheading>
+  <xi:include href="./13.xml"/>
+  <xi:include href="./12.xml"/>
+  <xi:include href="./11.xml"/>
   <xi:include href="./10.xml"/>
   <xi:include href="./8.xml"/>
   <xi:include href="./7.xml"/>

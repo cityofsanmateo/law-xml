@@ -1,11 +1,11 @@
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2022-12">
   <num>2022-12</num>
-  <heading type="short">__________</heading>
+  <heading type="short">Appeal of Administrative Citation Amendments</heading>
   <heading type="long">An Ordinance Amending San Mateo Municipal Code Section 1.10.060, "Appeal of Administrative Citation," of Title 1, "General Provisions," and Amending San Mateo Municipal Code Chapter 2.21, "Community Relations Commission," of Title 2 "Administration and Personnel," to Form an Administrative Citation Appeal Procedure Before an Impartial Hearing Officer for Administration Citations Related to Technical Building Codes and Health &amp; Safety Codes</heading>
   <meta>
-    <effective proof="needed">2022-12-07</effective>
+    <effective>2022-12-07</effective>
     <citations>
-      <citation type="ord" url="./adopted/2022-12.pdf" proof="needed">Ord. No. 2022-12</citation>
+      <citation type="ord" url="./adopted/2022-12.pdf">Ord. No. 2022-12</citation>
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2022-12</citation>
     </citations>
     <history>
@@ -16,7 +16,7 @@
   <recitals>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text><cite doc="Cal. Gov't Code" path="§53069.4">California Government Code Section 53069.4</cite> authorizes local agencies to make any violation of the San Mateo Municipal Code subject to administrative fines or penalties, including violations of technical building codes and <cite doc="Cal. Health &amp; Safety Code" proof="needed">health and safety code</cite>s by ordinance; and</text>
+      <text><cite doc="Cal. Gov't Code" path="§53069.4">California Government Code Section 53069.4</cite> authorizes local agencies to make any violation of the San Mateo Municipal Code subject to administrative fines or penalties, including violations of technical building codes and health and safety codes by ordinance; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -204,4 +204,24 @@
     <heading>Legislative History and Effective Date.</heading>
     <text>This ordinance was introduced on October 17, 2022, and adopted on November 7, 2022, and shall be effective 30 days after its adoption.</text>
   </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Goethals, Lee and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
 </document>

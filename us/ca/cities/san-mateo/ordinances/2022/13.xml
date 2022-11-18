@@ -1,11 +1,11 @@
 <document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2022-13">
   <num>2022-13</num>
-  <heading type="short">__________</heading>
+  <heading type="short">Energy Code and Green Building Reach Codes</heading>
   <heading type="long">An Ordinance amending San Mateo Municipal Code Chapter 23.24 "Energy Code," of Title 23, "Building and Construction," to adopt the California Energy Code, 2022 Edition, by reference and amending San Mateo Municipal Code Chapter 23.70 " Green Building Code," of Title 23, "Building and Construction," to adopt the California Green Building Standards Code, 2022 Edition, with Local Amendments</heading>
   <meta>
-    <effective proof="needed">2022-12-07</effective>
+    <effective>2023-01-01</effective>
     <citations>
-      <citation type="ord" url="./adopted/2022-13.pdf" proof="needed">Ord. No. 2022-13</citation>
+      <citation type="ord" url="./adopted/2022-13.pdf">Ord. No. 2022-13</citation>
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2022-13</citation>
     </citations>
     <history>
@@ -692,4 +692,24 @@
     <heading>Legislative History and Effective Date.</heading>
     <text>This ordinance was introduced on October 17, 2022, and adopted on November 7, 2022, and shall be effective January 1, 2023.</text>
   </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Goethals, and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>Council Member Rodriguez</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
 </document>
