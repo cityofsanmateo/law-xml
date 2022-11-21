@@ -622,26 +622,26 @@
           <include>
             <para>
               <num>4.106.5.3.1</num>
-              <heading>Space cooling appliance upgrades shall use electricity for space heating, unconnected to fuel gas infrastructure. Any other space heating system serving the space shall be removed or configured to provide supplemental heat.</heading>
+              <text>Space cooling appliance upgrades shall use electricity for space heating, unconnected to fuel gas infrastructure. Any other space heating system serving the space shall be removed or configured to provide supplemental heat.</text>
             </para>
             <para>
               <num>4.106.5.3.2</num>
-              <heading>Alterations and additions that include water heater appliance upgrades shall be all-electric, unconnected to fuel gas infrastructure.</heading>
+              <text>Alterations and additions that include water heater appliance upgrades shall be all-electric, unconnected to fuel gas infrastructure.</text>
             </para>
             <para>
               <num>4.106.5.3.3</num>
-              <heading>Kitchen alterations shall include a 240v, 50 ampere circuit and receptacle installed within 6 feet of the cooktop, oven, and/or range location.</heading>
+              <text>Kitchen alterations shall include a 240v, 50 ampere circuit and receptacle installed within 6 feet of the cooktop, oven, and/or range location.</text>
             </para>
             <para>
               <num>4.106.5.3.4</num>
-              <heading>Alterations to areas designated for the installation of laundry equipment shall include a 240v, 30 ampere circuit and receptacle installed within 6 feet of clothes drying appliance location.</heading>
+              <text>Alterations to areas designated for the installation of laundry equipment shall include a 240v, 30 ampere circuit and receptacle installed within 6 feet of clothes drying appliance location.</text>
             </para>
           </include>
           <text><strong>4.106.5.4 Existing residential buildings.</strong></text>
           <include>
             <para>
               <num>4.106.5.4.1</num>
-              <heading>Alterations or additions that involve or require an increase to the capacity of electrical panels or transformers as part of the scope, the electrical panel shall include reserved physical space for overcurrent protection devices, and transformers shall include reserved electrical capacity, as calculated per California Electric Code Section 220 for the following current or proposed appliances, as applicable to the project site, that will not be connected to fuel gas infrastructure:</heading>
+              <text>Alterations or additions that involve or require an increase to the capacity of electrical panels or transformers as part of the scope, the electrical panel shall include reserved physical space for overcurrent protection devices, and transformers shall include reserved electrical capacity, as calculated per California Electric Code Section 220 for the following current or proposed appliances, as applicable to the project site, that will not be connected to fuel gas infrastructure:</text>
               <para>
                 <num>1.</num>
                 <text>Electric water heaters meeting the requirements of the California Energy Code.</text>
@@ -684,7 +684,7 @@
             </para>
             <para>
               <num>4.106.5.4.2</num>
-              <heading>Existing fuel gas infrastructure shall not be extended to any appliance, system or device within the building or building property. Inactive fuel gas infrastructure shall not be activated or otherwise operated.</heading>
+              <text>Existing fuel gas infrastructure shall not be extended to any appliance, system or device within the building or building property. Inactive fuel gas infrastructure shall not be activated or otherwise operated.</text>
               <text><strong>Exceptions: </strong>The following are exempt from the provisions of Section 4.106.5.3 "Existing one- and two-family dwellings" and Section 4.106.5.4 "Existing residential buildings,"</text>
               <para>
                 <num>1.</num>
