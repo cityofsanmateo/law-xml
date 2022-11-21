@@ -1,4 +1,4 @@
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2022-12">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2022-12" codify:doc="City of San Mateo, Cal., Code">
   <num>2022-12</num>
   <heading type="short">Appeal of Administrative Citation Amendments</heading>
   <heading type="long">An Ordinance Amending San Mateo Municipal Code Section 1.10.060, "Appeal of Administrative Citation," of Title 1, "General Provisions," and Amending San Mateo Municipal Code Chapter 2.21, "Community Relations Commission," of Title 2 "Administration and Personnel," to Form an Administrative Citation Appeal Procedure Before an Impartial Hearing Officer for Administration Citations Related to Technical Building Codes and Health &amp; Safety Codes</heading>
@@ -24,19 +24,19 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text><cite doc="City of San Mateo, Cal., Code" path="1.10" proof="needed">San Mateo Municipal Code Chapter 1.10</cite> governs the City's procedures for the imposition, enforcement, collection, and review of administrative citations; and</text>
+      <text><cite doc="City of San Mateo, Cal., Code" path="1.10">San Mateo Municipal Code Chapter 1.10</cite> governs the City's procedures for the imposition, enforcement, collection, and review of administrative citations; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>pursuant to <cite doc="City of San Mateo, Cal., Code" path="1.10.060" proof="needed">San Mateo Municipal Code Section 1.10.060</cite> and <cite doc="City of San Mateo, Cal., Code" path="2.21" proof="needed">Chapter 2.21</cite>, the review of administrative citations is currently heard by the Community Relations Commission; and</text>
+      <text>pursuant to <cite doc="City of San Mateo, Cal., Code" path="1.10.060">San Mateo Municipal Code Section 1.10.060</cite> and <cite doc="City of San Mateo, Cal., Code" path="2.21">Chapter 2.21</cite>, the review of administrative citations is currently heard by the Community Relations Commission; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the Community Relations Commission does not possess the technical expertise related to violations of building codes and <cite doc="Cal. Health &amp; Safety Code" proof="needed">health and safety code</cite>s; and</text>
+      <text>the Community Relations Commission does not possess the technical expertise related to violations of building codes and health and safety codes; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the City desires to establish an administrative review procedure for administrative citations related to violations of technical building codes and <cite doc="Cal. Health &amp; Safety Code" proof="needed">health and safety code</cite>s before an impartial hearing officer with a final appeal to City Council.</text>
+      <text>the City desires to establish an administrative review procedure for administrative citations related to violations of technical building codes and health and safety codes before an impartial hearing officer with a final appeal to City Council.</text>
     </recital>
     <recital>
       <conjunction>NOW, THEREFORE,</conjunction>
@@ -45,9 +45,10 @@
   </recitals>
   <section>
     <num>1</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="1.10.060" proof="needed">Section 1.10.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="1.10.060">Section 1.10.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
+        <codify:replace path="1.10.060"/>
         <num>1.10.060</num>
         <heading>APPEAL OF ADMINISTRATIVE CITATION.</heading>
         <para>
@@ -56,8 +57,8 @@
         </para>
         <para>
           <num>(b)</num>
-          <text>The Community Relations Commission will hear and decide administrative citation appeals, except for administrative citation appeals relating to violations of <cite doc="City of San Mateo, Cal., Code" path="7.14" proof="needed">Chapter 7.14</cite>, Chapters 23.06 through 23.56, <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">Chapter 23.70</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.72" proof="needed">Chapter 23.72</cite> of this Code.</text>
-          <text>A hearing officer will hear and decide administrative citation appeals relating to violations of <cite doc="City of San Mateo, Cal., Code" path="7.14" proof="needed">Chapter 7.14</cite>, Chapters 23.06 through 23.56, <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">Chapter 23.70</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.72" proof="needed">Chapter 23.72</cite> of this Code.  The City Manager, or his or her designee, shall appoint a hearing officer for administrative citation hearings under this section who shall not be the citing enforcement officer.  The evaluation, compensation, and/or other benefits of the hearing officer shall not be directly or indirectly conditioned upon the amount of the administrative fees or penalties, or the rulings upheld, revised, or otherwise issued by the hearing officer.</text>
+          <text>The Community Relations Commission will hear and decide administrative citation appeals, except for administrative citation appeals relating to violations of <cite doc="City of San Mateo, Cal., Code" path="7.14">Chapter 7.14</cite>, Chapters <cite doc="City of San Mateo, Cal., Code" path="23.06">23.06</cite> through <cite doc="City of San Mateo, Cal., Code" path="23.56">23.56</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.70">Chapter 23.70</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.72">Chapter 23.72</cite> of this Code.</text>
+          <text>A hearing officer will hear and decide administrative citation appeals relating to violations of <cite doc="City of San Mateo, Cal., Code" path="7.14">Chapter 7.14</cite>, Chapters <cite doc="City of San Mateo, Cal., Code" path="23.06">23.06</cite> through <cite doc="City of San Mateo, Cal., Code" path="23.56">23.56</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.70">Chapter 23.70</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.72">Chapter 23.72</cite> of this Code.  The City Manager, or his or her designee, shall appoint a hearing officer for administrative citation hearings under this section who shall not be the citing enforcement officer.  The evaluation, compensation, and/or other benefits of the hearing officer shall not be directly or indirectly conditioned upon the amount of the administrative fees or penalties, or the rulings upheld, revised, or otherwise issued by the hearing officer.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -108,9 +109,10 @@
   </section>
   <section>
     <num>2</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="2.21.010" proof="needed">Section 2.21.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.21.010">Section 2.21.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
+        <codify:replace path="2.21.010"/>
         <num>2.21.010</num>
         <heading>ORGANIZATION.</heading>
         <text>The Community Relations Commission of the City shall consist of no more than five members appointed by the Council. In making appointments, the Council shall insure that the persons appointed are representative of the neighborhoods and ethnic communities to be served by the Commission as hereinafter provided.</text>
@@ -123,6 +125,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.21.020" proof="needed">Section 2.21.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
+        <codify:replace path="2.21.020"/>
         <num>2.21.020</num>
         <heading>MEETINGS.</heading>
         <text>The Community Relations Commission shall elect a chair and vice-chair to serve at the pleasure of the Commission. The Commission may adopt reasonable rules and regulations for the conduct of its business. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided.</text>
@@ -131,15 +134,16 @@
   </section>
   <section>
     <num>4</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="2.21.030" proof="needed">Section 2.21.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.21.030">Section 2.21.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
+        <codify:replace path="2.21.030"/>
         <num>2.21.030</num>
         <heading>POWERS—DUTIES.</heading>
         <text>The Community Relations Commission shall have the following powers and duties:</text>
         <para>
           <num>(a)</num>
-          <text>To conduct public hearings pursuant to <cite doc="City of San Mateo, Cal., Code" path="7.16" proof="needed">Chapter 7.16</cite>.</text>
+          <text>To conduct public hearings pursuant to <cite doc="City of San Mateo, Cal., Code" path="7.16">Chapter 7.16</cite>.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -147,11 +151,11 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>To hear requests from the Director of the Community Development Department, or his or her designee, for orders to abate violations of <cite doc="City of San Mateo, Cal., Code" path="25" proof="needed">Title 25</cite> or <cite doc="City of San Mateo, Cal., Code" path="27" proof="needed">Title 27</cite>, as provided in <cite doc="City of San Mateo, Cal., Code" path="7.16" proof="needed">Chapter 7.16</cite>.</text>
+          <text>To hear requests from the Director of the Community Development Department, or his or her designee, for orders to abate violations of <cite doc="City of San Mateo, Cal., Code" path="25">Title 25</cite> or <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>, as provided in <cite doc="City of San Mateo, Cal., Code" path="7.16">Chapter 7.16</cite>.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>To hear appeals for administrative citations pursuant to <cite doc="City of San Mateo, Cal., Code" path="1.10.060" proof="needed">Section 1.10.060</cite>, except for administrative citation appeals relating to violations of <cite doc="City of San Mateo, Cal., Code" path="7.14" proof="needed">Chapter 7.14</cite>, Chapters 23.06 through 23.56, <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">Chapter 23.70</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.72" proof="needed">Chapter 23.72</cite> of this Code.</text>
+          <text>To hear appeals for administrative citations pursuant to <cite doc="City of San Mateo, Cal., Code" path="1.10.060">Section 1.10.060</cite>, except for administrative citation appeals relating to violations of <cite doc="City of San Mateo, Cal., Code" path="7.14">Chapter 7.14</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06">23.06</cite> through <cite doc="City of San Mateo, Cal., Code" path="23.56">23.56</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.70">Chapter 23.70</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.72">Chapter 23.72</cite> of this Code.</text>
         </para>
         <para>
           <num>(e)</num>
@@ -178,6 +182,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.21.050" proof="needed">Section 2.21.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
+        <codify:replace path="2.21.050"/>
         <num>2.21.050</num>
         <heading>APPEALS.</heading>
         <text>Decisions of the Community Relations Commission regarding violations of the San Mateo Municipal Code and public nuisances may be appealed to the City Council as set forth in this Code.</text>
@@ -197,7 +202,7 @@
   <section>
     <num>8</num>
     <heading>Publication.</heading>
-    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" proof="needed">Section 2.15 of the City Charter</cite>.</text>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
   </section>
   <section>
     <num>9</num>
