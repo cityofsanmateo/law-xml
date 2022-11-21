@@ -620,26 +620,26 @@
           <text>Green Building Code Section 4.106 "Site Development" is amended to include new subsections as follows:</text>
           <text><strong>4.106.5.3 Existing one- and two-family dwellings.</strong></text>
           <include>
-            <section>
+            <para>
               <num>4.106.5.3.1</num>
               <heading>Space cooling appliance upgrades shall use electricity for space heating, unconnected to fuel gas infrastructure. Any other space heating system serving the space shall be removed or configured to provide supplemental heat.</heading>
-            </section>
-            <section>
+            </para>
+            <para>
               <num>4.106.5.3.2</num>
               <heading>Alterations and additions that include water heater appliance upgrades shall be all-electric, unconnected to fuel gas infrastructure.</heading>
-            </section>
-            <section>
+            </para>
+            <para>
               <num>4.106.5.3.3</num>
               <heading>Kitchen alterations shall include a 240v, 50 ampere circuit and receptacle installed within 6 feet of the cooktop, oven, and/or range location.</heading>
-            </section>
-            <section>
+            </para>
+            <para>
               <num>4.106.5.3.4</num>
               <heading>Alterations to areas designated for the installation of laundry equipment shall include a 240v, 30 ampere circuit and receptacle installed within 6 feet of clothes drying appliance location.</heading>
-            </section>
+            </para>
           </include>
           <text><strong>4.106.5.4 Existing residential buildings.</strong></text>
           <include>
-            <section>
+            <para>
               <num>4.106.5.4.1</num>
               <heading>Alterations or additions that involve or require an increase to the capacity of electrical panels or transformers as part of the scope, the electrical panel shall include reserved physical space for overcurrent protection devices, and transformers shall include reserved electrical capacity, as calculated per California Electric Code Section 220 for the following current or proposed appliances, as applicable to the project site, that will not be connected to fuel gas infrastructure:</heading>
               <para>
@@ -681,8 +681,8 @@
                   <text>Electrical panels with internet-connected overcurrent protection devices that monitor circuit load and manage power distribution.</text>
                 </para>
               </para>
-            </section>
-            <section>
+            </para>
+            <para>
               <num>4.106.5.4.2</num>
               <heading>Existing fuel gas infrastructure shall not be extended to any appliance, system or device within the building or building property. Inactive fuel gas infrastructure shall not be activated or otherwise operated.</heading>
               <text><strong>Exceptions: </strong>The following are exempt from the provisions of Section 4.106.5.3 "Existing one- and two-family dwellings" and Section 4.106.5.4 "Existing residential buildings,"</text>
@@ -694,7 +694,7 @@
                 <num>2.</num>
                 <text>Economic hardship exemptions shall be provided if the replacement cost for an all-electric system, including all incentives, is greater than 110 percent of a like-for-like fuel gas system replacement, including the future costs of electrification retrofits. The building official shall consult with the Community Development Director in deciding whether to approve an economic hardship exemption.</text>
               </para>
-            </section>
+            </para>
           </include>
         </para>
       </section>
