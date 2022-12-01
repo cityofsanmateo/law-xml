@@ -1,0 +1,344 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2022-14">
+  <num>2022-14</num>
+  <heading type="short">Downtown Business Improvement Area</heading>
+  <heading type="long">An Ordinance Modifying the Basis and Method of Levy for the Downtown Business Improvement Area (DBIA) and Amending Ordinance Nos. 1986-12, 1995-21, 1996-13, and 2008-7</heading>
+  <meta>
+    <effective proof="needed">2023-07-01</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2022-14.pdf">Ord. No. 2022-14</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2022-14</citation>
+    </citations>
+    <history>
+      <introduced>2022-11-07</introduced>
+      <adopted>2022-11-21</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on May 5, 1986, pursuant to Section 35600, et seq. of the California Streets and Highway Code, the City Council adopted Ordinance No. 1986-12 to establish the Downtown Business Improvement Area (DBIA) of the City of San Mateo; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on August 21, 1995, the City Council adopted Ordinance No. 1995-21 amending Ordinance No. 1986-12 to repeal and replace the section entitled, "System of Charges or Assessments;" and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on June 24, 1996, the City Council adopted Ordinance No. 1996-13 amending Ordinance No. 1995-21 to again repeal and replace the section entitled, "System of Charges or Assessments," and to change the number of benefit zones from three to two; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on June 2, 2008, the City Council adopted Ordinance No. 2008-7 amending Ordinance Nos. 1986-12 and 1996-13 to expand the DBIA boundaries; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on October 17, 2022, the City Council adopted a Resolution of Intent to modify the basis and method of levy for the DBIA and to set a public hearing to consider the proposed changes to the annual assessment; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>prior boundaries and zones for the DBIA under Ordinance No. 2008-7 are to remain the same as previously adopted; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a notice of public hearing and Resolution of Intent was published in the local newspaper and mailed to each business in the DBIA; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a public hearing to consider the modification of the basis and method of levy for the DBIA was held on November 7, 2022 at 7:00 p.m. in the City Council Chambers at 330 W. 20th Avenue, where all protests and testimony regarding the proposed assessment were heard and considered by the City Council; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>all protests, both written and oral, are hereby overruled, and there was no majority protest made by the businesses in the DBIA, pursuant to Sections <cite doc="Cal. Sts. &amp; High. Code" path="§36525">36525</cite> and <cite doc="Cal. Sts. &amp; High. Code" path="§36540">36540</cite> of the <cite doc="Cal. Sts. &amp; High. Code">California Streets and Highways Code</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the businesses located within the DBIA will benefit from the expenditure of funds raised by the annual assessment.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>The Section entitled "System of Charges or Assessments" (Section 3) contained in Ordinance 1996-13 is repealed and the following section is added:</text>
+    <text>Section 3. The Section entitled "System of Charges or Assessments" Charges or assessment shall be made upon various classes of businesses and zones of benefit in the following manner:</text>
+    <text><u>Retail</u>: includes but is not limited businesses that have goods and food for sale including automotive vehicles and parts dealers, home furnishing stores, jewelers, electronics and appliance stores, building material and garden equipment and supplies dealers, food and beverage stores, full- service restaurants, limited service restaurant, fast food restaurants, cafeterias, dessert and snack establishments, bars, gasoline stations, clothing and clothing accessories, sporting goods, hobby stores, music instruments, book stores, general merchandise store, wireless phone stores and similar.</text>
+    <text>All businesses classified as Retail shall pay an annual assessment based on the following gross receipts schedule:</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th colspan="5" class="center">Retail (based on annual gross receipts)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td/>
+            <td colspan="2" class="center">Zone 1</td>
+            <td colspan="2" class="center">Zone 2</td>
+          </tr>
+          <tr>
+            <td/>
+            <td class="center">PROPOSED</td>
+            <td class="center">
+              <em>Existing</em>
+            </td>
+            <td class="center">PROPOSED</td>
+            <td class="center">
+              <em>Existing</em>
+            </td>
+          </tr>
+          <tr>
+            <td>0- $150,000</td>
+            <td class="center">$200.00</td>
+            <td class="center">$166.36</td>
+            <td class="center">$100.00</td>
+            <td class="center">$66.55</td>
+          </tr>
+          <tr>
+            <td>$150,001- $400,000</td>
+            <td class="center">$400.00</td>
+            <td class="center">$332.72</td>
+            <td class="center">$200.00</td>
+            <td class="center">$99.82</td>
+          </tr>
+          <tr>
+            <td>$400,001- $600,000</td>
+            <td class="center">$800.00</td>
+            <td class="center">$665.43</td>
+            <td class="center">$400.00</td>
+            <td class="center">$133.10</td>
+          </tr>
+          <tr>
+            <td>$600,001- $1,000,000</td>
+            <td class="center">$1,150.00</td>
+            <td class="center">$998.15</td>
+            <td class="center">$575.00</td>
+            <td class="center">$199.62</td>
+          </tr>
+          <tr>
+            <td>$1,000,000+</td>
+            <td class="center">$1,500.00</td>
+            <td class="center">$1,330.88</td>
+            <td class="center">$750.00</td>
+            <td class="center">$332.72</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><u>Professional</u>: includes but is not limited to businesses that offer services that are highly specialized and typically require licensing and regulations. Professional service providers and information-based businesses such as software publishers, data processing, network hosting and related services, internet publishing and broadcasting and web search portals, venture capital, insurance agencies and brokerage, real estate agents and brokers, offices of lawyers, accounting, architectural, engineering advertising, translation and interpretation services, veterinary services, offices of physicians, offices of dentists, other health practitioners, and similar.</text>
+    <text>All businesses classified as Professional shall pay an annual assessment based on the number of full-time equivalency employees.</text>
+    <text><u>Sole Proprietor</u> is defined as a self-employed individual who works for themselves without hiring any employees.</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th colspan="5" class="center">Professional (based on number of employees)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td/>
+            <th colspan="2" class="center">Zone 1</th>
+            <th colspan="2" class="center">Zone 2</th>
+          </tr>
+          <tr>
+            <td/>
+            <td class="center">PROPOSED</td>
+            <td class="center">
+              <em>Existing</em>
+            </td>
+            <td class="center">PROPOSED</td>
+            <td class="center">
+              <em>Existing</em>
+            </td>
+          </tr>
+          <tr>
+            <td>Sole Proprietor, No employees</td>
+            <td class="center">$200.00</td>
+            <td rowspan="6" class="center" style="vertical-align: middle;">$98.82</td>
+            <td class="center">$100.00</td>
+            <td rowspan="6" class="center" style="vertical-align: middle;">$66.55</td>
+          </tr>
+          <tr>
+            <td>1 to 5 Employees</td>
+            <td class="center">$550.00</td>
+            <td class="center">$275.00</td>
+          </tr>
+          <tr>
+            <td>6-15 Employees</td>
+            <td class="center">$1,000.00</td>
+            <td class="center">$500.00</td>
+          </tr>
+          <tr>
+            <td>16-35 Employees</td>
+            <td class="center">$2,300.00</td>
+            <td class="center">$1,150.00</td>
+          </tr>
+          <tr>
+            <td>36-75 Employees</td>
+            <td class="center">$3,050.00</td>
+            <td class="center">$1,525.00</td>
+          </tr>
+          <tr>
+            <td>
+              76+ Employees
+              <strong><sup>1, 2</sup></strong>
+            </td>
+            <td class="center">$3,050.00</td>
+            <td class="center">$1,525.00</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong>1</strong> - $3,050 + $14.00 per employee over 75 employees for Zone 1</text>
+    <text><strong>2</strong>- $1,525 + $10.00 per employee over 75 employees for Zone 2</text>
+    <text><u>Service</u>: includes but is not limited to providers of personal and business services such as hair salons, nail salons, lock smiths, dry cleaners, auto service and maintenance shops, gyms, vacuum repair shops, educational, childcare, electronic equipment repair, personal care services, and similar.</text>
+    <text>All businesses classified as Service shall pay an annual assessment based on the number of full-time equivalency employees.</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th colspan="5" class="center">Service (based on number of employees)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td/>
+            <td colspan="2" class="center">Zone 1</td>
+            <td colspan="2" class="center">Zone 2</td>
+          </tr>
+          <tr>
+            <td/>
+            <td class="center">PROPOSED</td>
+            <td class="center">
+              <em>Existing</em>
+            </td>
+            <td class="center">PROPOSED</td>
+            <td class="center">
+              <em>Existing</em>
+            </td>
+          </tr>
+          <tr>
+            <td>Sole Proprietor, No employees</td>
+            <td class="center">$200.00</td>
+            <td rowspan="6" class="center" style="vertical-align: middle;">$133.08</td>
+            <td class="center">$100.00</td>
+            <td rowspan="6" style="vertical-align: middle;">$66.55</td>
+          </tr>
+          <tr>
+            <td>1 to 5 Employees</td>
+            <td class="center">$400.00</td>
+            <td class="center">$200.00</td>
+          </tr>
+          <tr>
+            <td>6-15 Employees</td>
+            <td class="center">$800.00</td>
+            <td class="center">$400.00</td>
+          </tr>
+          <tr>
+            <td>16-35 Employees</td>
+            <td class="center">$1,700.00</td>
+            <td class="center">$850.00</td>
+          </tr>
+          <tr>
+            <td>36-75 Employees</td>
+            <td class="center">$2,300.00</td>
+            <td class="center">$1,150.00</td>
+          </tr>
+          <tr>
+            <td>76+ Employees <sup>3, 4</sup></td>
+            <td class="center">$2,300.00</td>
+            <td class="center">$1,150.00</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><strong>3</strong> - $2,300 + $10.00 per employee over 75 employees for Zone 1</text>
+    <text><strong>4</strong> - $1,150 + $7.00 per employee over 75 employees for Zone 2</text>
+    <text><u>Financial</u>: includes but not limited to businesses in the financial industry such as money management, payments, digital banking, banks, savings and loan companies, credit unions, finance companies, and similar.</text>
+    <text>All businesses classified as Financial shall pay a flat annual assessment.</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th colspan="5" class="center">Financial (flat rate)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td/>
+            <td colspan="2" class="center">Zone 1</td>
+            <td colspan="2" class="center">Zone 2</td>
+          </tr>
+          <tr>
+            <td/>
+            <td class="center">PROPOSED</td>
+            <td class="center">
+              <em>Existing</em>
+            </td>
+            <td class="center">PROPOSED</td>
+            <td class="center">
+              <em>Existing</em>
+            </td>
+          </tr>
+          <tr>
+            <td>Financial</td>
+            <td class="center">$1,500.00</td>
+            <td class="center">$998.15</td>
+            <td class="center">$775.00</td>
+            <td class="center">$665.44</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text><u>Hotels</u>: Removed</text>
+    <text><u>Miscellaneous</u>: Removed</text>
+    <text>Based on their North American Industry Classification System (NAICS), businesses previously categorized as Miscellaneous will be assigned to one of the following categories: Retail, Professional, or Service.</text>
+    <text>For Professional and Service sectors, the number of employees shall be determined based on Full Time Equivalent of 40 hours a week as reported on the initial business license application and updated thereafter during the annual business license renewal.</text>
+    <text>Annually, for subsequent years, the assessments will be adjusted in accordance with the annual March San Francisco-Oakland-San Jose consumer Price Index of the Bureau of Labor Statistics, United States Department of Labor, under the heading All Items-All Urban Consumers (CPI), or any index substituted by the Department of Labor therefore.</text>
+    <text>A single assessment shall be paid when multiple business are located at the same address as defined in this paragraph. Businesses are located at the same address if, for example, they occupy the same suite within an office building or occupy the same suite within an office building or occupy undivided retail or service space within a large retail or service establishment. Businesses are not located at the same address merely because they share a common entry from a public street with a common principal address such as in most office buildings. The assessment to be paid shall be based on accumulated gross receipts for multiple businesses or shall be set at the highest assessment within the applicable fixed fee classification if there are multiple classification for which there is no gross receipts table.</text>
+    <text>All businesses, including new businesses in operation for one year or less are subject to the assessment.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>This City Council action is not a project subject to CEQA, because it is an organizational or administrative activity that will not result in direct or indirect physical changes to the environment. (CEQA Guidelines Section 15378(b)(5).)</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on November 7, 2022, and adopted on November 21, 2022, and shall be effective on July 1, 2023.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Bonilla, Papan, Goethals, and Rodriguez</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>Council Member Lee</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
