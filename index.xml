@@ -9,7 +9,12 @@
     <canonical-urls>
       <xml-bulk>https://github.com/cityofsanmateo/law-xml</xml-bulk>
       <html-bulk>https://github.com/cityofsanmateo/law-html</html-bulk>
-      <html>https://sanmateo.ca.us.open.law</html>
+      <html>
+        <current>https://law.cityofsanmateo.org</current>
+        <historical>
+          <historic end="2022-12-21">https://sanmateo.ca.us.open.law</historic>
+        </historical>
+      </html>
       <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
       <law-git>https://github.com/cityofsanmateo/law.git</law-git>
     </canonical-urls>
