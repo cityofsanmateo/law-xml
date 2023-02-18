@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2022-15" codify:doc="City of San Mateo, Cal., Code">
+  <num>2022-15</num>
+  <heading type="short">Measure CC – Real Property Transfer Tax</heading>
+  <heading type="long">AN ORDINANCE OF THE CITY OF SAN MATEO AMENDING SECTIONS 3.48.010 AND 3.48.030 OF CHAPTER 3.48, "REAL PROPERTY DOCUMENT TRANSFER TAX," TO INCREASE THE TAX RATE TO ONE AND ONE-HALF PERCENT (1.5%) FOR THE SALE OR OTHER TRANSFER OF PROPERTIES VALUED AT TEN MILLION DOLLARS OR MORE</heading>
+  <meta>
+    <effective>2022-11-18</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2022-15.pdf">Ord. No. 2022-15</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2022-15</citation>
+    </citations>
+    <history>
+      <introduced>2022-06-20</introduced>
+      <adopted>2022-11-08</adopted>
+    </history>
+  </meta>
+  <recitals/>
+  <text>THE PEOPLE OF THE CITY OF SAN MATEO ORDAIN AS FOLLOWS:</text>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="3.48.010">Section 3.48.010</cite>, "Amount," and <cite doc="City of San Mateo, Cal., Code" path="3.48.030">Section 3.48.030</cite>, "Exemptions" of the San Mateo Municipal Code are amended to read in their entirety as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="3.48.010"/>
+        <num>3.48.010</num>
+        <heading>AMOUNT.</heading>
+        <text>There is imposed on each deed, instrument or writing by which any lands, tenements, or other real property within the City are sold, granted, assigned, conveyed or otherwise transferred to, or vested in, the purchaser or purchasers, or any other person or persons when the consideration or value of the property interest or real property conveyed exceeds one hundred dollars, a tax at the rates set forth below:</text>
+        <para>
+          <num>(a)</num>
+          <text>For sales or transfers when the consideration or value of the interest or property is less than ten million dollars, a tax rate of one-half of one percent of said consideration or value; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For sales or transfers when the consideration or value of the interest or property is equal to or greater than ten million dollars, a tax rate of one and one-half percent of said consideration or value.</text>
+          <text>As used herein, "consideration or value" means the total consideration, valued in money of the United States, paid or delivered or contracted to be paid or delivered in return for the transfer of real property, including the amount of any indebtedness, existing immediately prior to the transfer which is secured by a lien, deed of trust or other encumbrance on the property conveyed and which continues to be secured by such lien, deed of trust or encumbrance after said transfer, and also including the amount of any indebtedness which is secured by a lien, deed of trust or encumbrance given or placed upon the property in connection with the transfer to secure the payment of the purchase price or any part thereof which remains unpaid at the time of the transfer.</text>
+          <text>"Consideration or value" also includes the amount of any special assessment levied or imposed upon the property by a public body, district or agency, where said special assessment is a lien or encumbrance on the property and the purchaser or transferee agrees to pay such special assessment or takes the property subject to the lien of such special assessment.</text>
+          <text>The value of any lien or encumbrance of a type other than those which are hereinabove specifically included, existing immediately prior to the transfer and remaining after said transfer, shall not be included in determining the value of the consideration.</text>
+          <text>If the consideration or value cannot be definitely determined, or is left open to be fixed by future contingencies, "consideration or value" shall be deemed to mean the fair market value of the property at the time of transfer after deducting the amount of any lien or encumbrance, if any, of a type which would be excluded in determining the consideration or value pursuant to above provisions of this section.</text>
+          <text>The terms "real property" and "realty" shall be deemed to mean real property as defined by and under the laws of the state.</text>
+        </para>
+      </section>
+      <section>
+        <codify:replace path="3.48.030"/>
+        <num>3.48.030</num>
+        <heading>EXEMPTIONS.</heading>
+        <text>The tax imposed pursuant to <cite doc="City of San Mateo, Cal., Code" path="3.48.010">Section 3.48.010</cite> shall not apply to:</text>
+        <para>
+          <num>(a)</num>
+          <text>Any document given to secure a debt, or a transfer to a beneficiary or mortgagee when it is taken in lieu of foreclosure;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any document to which the United States or any agency or instrumentality thereof; any state or territory, or political subdivision thereof; or the District of Columbia is a party; provided, that the tax may be collected by assessment from any other party liable therefor;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any document of transfer executed to make effective any plan of reorganization or adjustment which is:</text>
+          <para>
+            <num>(1)</num>
+            <text>Confirmed under the Federal Bankruptcy Code, as amended,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Approved in any equity receivership proceeding in a court involving either:</text>
+            <para>
+              <num>(A)</num>
+              <text>A railroad corporation as defined in Section 101 of Title 11 of the United States Code, as amended.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>A corporation as defined in Section 101 of Title 11 of the United States Code, as amended; or</text>
+            </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>To effectuate a mere change in identity, form or place of organization;</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Subdivision (c), above, shall only apply to a transfer that occurs within five years of the date of confirmation, approval, or change.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Any document of transfer executed pursuant to and to effectuate any order of the Securities and Exchange Commission, as defined in subdivision (a) of Section 1083 of Title 26 of the United States Code, as amended; provided, that the order of the Securities and Exchange Commission in obedience to which such transfer is made:</text>
+          <para>
+            <num>(1)</num>
+            <text>Recites that such transfer is necessary or appropriate to effectuate the provisions of Section 79K of Title 15 of the United States Code, as amended, relating to the Public Utility Holding Company Act of 1935; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Specifies the property which is ordered to be transferred;</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Any document making a transfer of an interest in a partnership or otherwise when the partnership (or another partnership) is considered a continuing partnership within the meaning of Section 708 of Title 26 of the United States Code, as amended, and such continuing partnership continues to hold the realty concerned.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Any document making a transfer of community property, or interest among joint tenants or tenants in common provided that:</text>
+          <para>
+            <num>(1)</num>
+            <text>The participating owners have held their respective interest for at least 5 years, or all participating owners acquired their respective interests in the same transaction, however recent; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>No grantor receives any consideration beyond a release from any indebtedness secured by the property interest being transferred.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Any document of interspousal transfer including: (a) transfer to a trustee for the beneficial use of a spouse or the surviving spouse of a deceased transferor, or by the trustee of such a trust to the spouse of the trustor; (b) transfers which take place upon the death of a spouse; (c) transfer to a spouse or former spouse in connection with a property settlement agreement or decree of dissolution of marriage or legal separation; (d) the creation, transfer, or termination, solely between spouses, of any co-owner's interest.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Any document of transfer between parents and children of a single family residence or of property zoned single family residential. The term "children" shall include natural and adopted children, as well as stepchildren if they are legally stepchildren at the time of transfer, and any son-in-law-or daughter-in-law if they are legally in such relationship at the time of transfer.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>SEVERABILITY.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect. It is the intent of the City Council that it would have adopted all other portions of this Ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>ENVIRONMENTAL DETERMINATION.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines section 15378(b)(4), submission of the tax extension to the voters is categorically exempt from CEQA because it involves the creation of a government funding mechanism which does not involve any commitment to any specific project.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>PUBLICATION.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>LEGISLATIVE HISTORY AND EFFECTIVE DATE.</heading>
+    <text>This Ordinance was introduced by City Council on June 20, 2022, and adopted by the voters on November 8, 2022. This Ordinance relates to the levying and collecting of the City real property document transfer tax and took effect 10 days after certification of election results by the City Council certifying that the Ordinance was approved by a majority of the voters voting at the general municipal election held on November 8, 2022.</text>
+  </section>
+  <procedural-data>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
