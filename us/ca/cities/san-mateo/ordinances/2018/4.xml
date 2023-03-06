@@ -97,7 +97,7 @@
         <li><cite doc="City of San Mateo, Cal., Code" path="13.25.080">13.25.080</cite> Encroachments;</li>
         <li><cite doc="City of San Mateo, Cal., Code" path="17.08.115">17.08.115</cite> Curb Address Painting;</li>
         <li><cite doc="City of San Mateo, Cal., Code" path="17.08.130">17.08.130</cite> Permit-Issuance-Modification-Denial-Revocation-Appeal-Hearing;</li>
-        <li><cite doc="City of San Mateo, Cal., Code" path="17.24.080">17.24.080</cite> Appeals Process;</li>
+        <li><cite doc="City of San Mateo, Cal., Code" path="17.24.180">17.24.180</cite> Appeals Process;</li>
         <li><cite doc="City of San Mateo, Cal., Code" path="17.30.070">17.30.070</cite> Appeal;</li>
         <li><cite doc="City of San Mateo, Cal., Code" path="17.30.080">17.30.080</cite> Revocation and Suspension of Permits; and</li>
         <li><cite doc="City of San Mateo, Cal., Code" path="23.40.040">23.40.040</cite> Procedures.</li>
@@ -114,7 +114,7 @@
     <codify:find-replace path="13.25.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
     <codify:find-replace path="17.08.115" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
     <codify:find-replace path="17.08.130" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
-    <codify:find-replace path="17.24.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
+    <codify:find-replace path="17.24.180" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
     <codify:find-replace path="17.30.070" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
     <codify:find-replace path="17.30.080" find="Public Works Commission" replace="Sustainability and Infrastructure Commission" ignore-case="true"/>
   </section>

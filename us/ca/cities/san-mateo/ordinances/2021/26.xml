@@ -1,7 +1,7 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="City of San Mateo, Cal., Ord. No. 2021-26">
   <num>2021-26</num>
   <heading type="short">Municipal Code Cleanup Amendments</heading>
-  <heading type="long">Repealing Section 27.04.140, "Curb Level," Amending Sections 17.24.020 "Definitions," 27.04.200, "Floor Area," 27.64.390, "Schedule of Loading Requirements," and Chapters 23.40, "Site Development Code," 27.71, "Landscape for Planning Applications," 27.78, "Variances," and Adding References to California Building Code and Director of Public Works Throughout the Municipal Code</heading>
+  <heading type="long">Repealing Section 27.04.140, "Curb Level," Amending Sections 17.24.120 "Definitions," 27.04.200, "Floor Area," 27.64.390, "Schedule of Loading Requirements," and Chapters 23.40, "Site Development Code," 27.71, "Landscape for Planning Applications," 27.78, "Variances," and Adding References to California Building Code and Director of Public Works Throughout the Municipal Code</heading>
   <meta>
     <effective>2022-01-05</effective>
     <citations>
@@ -32,7 +32,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>the City wishes to update tree provisions including references to the City's protected tree ordinance in <cite doc="City of San Mateo, Cal., Code" path="17.24.020">Section 17.24.020</cite>, "Definitions" and <cite doc="City of San Mateo, Cal., Code" path="23.40">Chapter 23.40</cite>, "Site Development Code."</text>
+      <text>the City wishes to update tree provisions including references to the City's protected tree ordinance in <cite doc="City of San Mateo, Cal., Code" path="17.24.120">Section 17.24.120</cite>, "Definitions" and <cite doc="City of San Mateo, Cal., Code" path="23.40">Chapter 23.40</cite>, "Site Development Code."</text>
     </recital>
     <recital>
       <conjunction>NOW, THEREFORE,</conjunction>
@@ -915,11 +915,11 @@
   </section>
   <section>
     <num>13</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="17.24.020" >Section 17.24.020 of the San Mateo Municipal Code</cite> is amended to read:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="17.24.120" >Section 17.24.120 of the San Mateo Municipal Code</cite> is amended to read:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="17.24.020"/>
-        <num>17.24.020</num>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="17.24.120"/>
+        <num>17.24.120</num>
         <heading>Definitions.</heading>
         <text>For the purpose of <cite doc="City of San Mateo, Cal., Code" path="17.24" >this chapter</cite>, the following words and phrases shall have the meanings set forth below. Unless in direct conflict with terms defined herein, other words and phrases shall be interpreted as defined in the <cite doc="Cal. Sts. &amp; High. Code" >Streets and Highways Code</cite>:</text>
         <para>
