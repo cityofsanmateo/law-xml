@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2023-1" codify:doc="City of San Mateo, Cal., Code">
+  <num>2023-1</num>
+  <heading type="short">Youth Commissioners to the Park and Recreation Commission</heading>
+  <heading type="long">Amending San Mateo Municipal Code Chapter 2.27 to amend the organization of the Park and Recreation Commission to include two non-voting youth advisory members (youth commissioners).</heading>
+  <meta>
+    <effective>2023-04-05</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-1.pdf">Ord. No. 2023-1</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2023-1</citation>
+    </citations>
+    <history>
+      <introduced>2023-02-21</introduced>
+      <adopted>2023-03-06</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Code" path="2.27">San Mateo Municipal Code Chapter 2.27</cite> establishes that the San Mateo Park and Recreation Commission shall consist of five members appointed by the City Council; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council Strategic Plan for fiscal year 2022-23 included exploring the expanding of youth participation and representation on Boards and Commissions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on October 3, 2022, the City Council provided direction during a special meeting to add non-voting youth members to the Park and Recreation Commission.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.27.010">Section 2.27.010</cite> and <cite doc="City of San Mateo, Cal., Code" path="2.27.020">Section 2.27.020</cite> of the San Mateo Municipal Code are amended as follows:</text>
+    <include>
+      <container>
+        <prefix>Chapter</prefix>
+        <num>2.27</num>
+        <heading>PARK AND RECREATION COMMISSION</heading>
+        <section>
+          <codify:replace path="2.27.010" />
+          <num>2.27.010</num>
+          <heading>ORGANIZATION.</heading>
+          <text>A park and recreation commission shall continue as heretofore established in and for the City, to be known and designated as the "San Mateo park and recreation commission." It shall consist of five members appointed by the Council, and two non-voting youth advisory members who must be at least 13 years old, and no more than 17 years old at the time of appointment ("Youth Commissioners"). Youth Commissioners must present written documentation of parental or guardian consent to be considered for appointment. Youth commissioners shall serve only in an advisory capacity and shall not count towards a quorum of the commission.</text>
+          <text>Each member of the commission shall serve at the pleasure of the Council for a term of four years and until the appointment and qualification of a successor.  Each Youth Commissioner shall serve at the pleasure of the Council for a term of one year and until the appointment and qualification of a successor. Youth Commissioners may be reappointed for one additional one-year term.</text>
+        </section>
+        <section>
+          <codify:replace path="2.27.020" />
+          <num>2.27.020</num>
+          <heading>MEETINGS.</heading>
+          <text>The commission shall meet monthly at a time and place to be fixed by it, shall elect a chair and vice-chair, and may adopt rules for its proceedings. It may hold special meetings upon call of the chair or two members upon written notice as required by the public meeting law.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(5).), this action is not a project subject to CEQA, because it is an organizational or administrative activity that will not result in direct or indirect physical changes in the environment.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on February 21, 2023, and adopted on March 6, 2023, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Lee, Diaz Nash, Hedges, Loranine and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
