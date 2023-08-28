@@ -1,0 +1,90 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2023-4" codify:doc="City of San Mateo, Cal., Code">
+  <num>2023-4</num>
+  <heading type="short">Municipal Code Amendments for New Development Parking Garage Security Requirements</heading>
+  <heading type="long">San Mateo Municipal Code Amendments to Update Parking Garage Security Requirements for Housing and Mixed-Use Development</heading>
+  <meta>
+    <effective>2023-09-20</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-4.pdf">Ord. No. 2023-4</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2023-4</citation>
+    </citations>
+    <history>
+      <introduced>2023-07-17</introduced>
+      <adopted>2023-08-21</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City seeks to update the parking garage security requirements contained in <cite doc="City of San Mateo, Cal., Code" path="23.54.030">Section 23.54.030 of the San Mateo Municipal Code</cite> to support housing production while maintaining a secure environment around the City; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>multi-family residential buildings and mixed-use buildings that include residential uses need to meet minimum parking garage security requirements but should be allowed reasonable flexibility to account for project specific conditions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the amendment is consistent with the City's General Plan and supports implementation of the General Plan's goals and policies; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council held a public hearing on July 17, 2023, duly noticed, at which all public comments were considered.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>The City Council approves an amendment to <cite doc="City of San Mateo, Cal., Code" path="23.54.030">Section 23.54.030 of the San Mateo Municipal Code</cite> to read as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="23.54.030" />
+        <num>23.54.030</num>
+        <heading>PARKING GARAGE SECURITY</heading>
+        <text>Multi-family residential uses with five or more units providing a common parking garage, whether solely for dwelling uses or in combination with other uses, shall provide the following minimum security measures: securing against unauthorized vehicle and pedestrian access; allowing for emergency access for first responders and secure tenant-only access during specified hours; installing and maintaining a surveillance video system and interior security lighting. Additional security measures may be required based on project-specific determinations by the Chief of Police or their designee. All required security measures shall be approved by the Chief of Police or their designee.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15601(b)(3), this action is covered by the "common sense exemption" in that CEQA applies only to projects which have the potential to cause a significant effect on the environment. Here, it can be seen with certainty that the ordinance amendment, which consist of updates to parking garage security measures, will not have a significant effect on the environment per Guidelines Section 15061(b)(3).</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on July 17, 2023, and adopted on August 21, 2023, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Lee, Diaz Nash, Hedges, Loranine and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
