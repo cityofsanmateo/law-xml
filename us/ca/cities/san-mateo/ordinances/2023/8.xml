@@ -1,0 +1,127 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2023-8" codify:doc="City of San Mateo, Cal., Code">
+  <num>2023-8</num>
+  <heading type="short">Zoning Code Amendment for Planning Application Extensions</heading>
+  <heading type="long">Amendment to San Mateo Municipal Code Section 27.08.087 Regarding the Planning Approval Extension Process</heading>
+  <meta>
+    <effective proof="needed">2023-10-18</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-8.pdf" proof="needed">Ord. No. 2023-8</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2023-8</citation>
+    </citations>
+    <history>
+      <introduced>2023-09-05</introduced>
+      <adopted>2023-09-18</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Zoning Code contains limited provisions for planning approval extensions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City desires to provide additional flexibility for development projects to avoid expiration of planning entitlement approvals to account for external factors, such as changing economic conditions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City desires to modify the Zoning Code to allow for planning approval extensions of up to two years, when certain findings can be made; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on August 8, 2023, the Planning Commission held a duly and properly noticed public hearing, received all written and oral public comments, and voted 5-0 to recommend that the City Council approve the proposed ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Legislative Findings.</text>
+    <text>At a duly noticed public hearing on September 5, 2023, the City Council of the City of San Mateo reviewed and considered the agenda report dated September 5, 2023, and attachments thereto, the exemption from environmental review, together with comments received during the public review process, and hereby finds and determines that the proposed ordinance is consistent with the adopted General Plan in that it supports successful completion of projects that implement and achieve the General Plan's stated goals and policies.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.08.087">Section 27.08.087 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.08.087"/>
+        <num>27.08.087</num>
+        <heading>PLANNING APPROVAL EXTENSION.</heading>
+        <text>The following extensions to planning approvals are available:</text>
+        <para>
+          <num>(a)</num>
+          <text>Extensions required by state or federal law. Where state or federal law requires that extension of a planning approval be considered, the Zoning Administrator shall approve an extension if they find that the project complies with all applicable zoning, planning, and general plan regulations and conditions.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>City extensions. The Zoning Administrator may approve one extension of a planning approval for up to two years, subject to the following provisions:</text>
+          <para>
+            <num>(1)</num>
+            <text>Application required. To apply for a planning approval extension, an applicant must submit the application prior to the expiration date of the planning approval, pay the application fee and provide the reason(s) for the extension request.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Findings required. To approve a time extension, the Zoning Administrator must find all of the following:</text>
+            <para>
+              <num>(A)</num>
+              <text>The approved project is still consistent with the City's General Plan; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The approved project is still consistent with the City's Zoning Ordinance; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The extension will not result in any new environmental impacts or an increase in severity of previously identified environmental impacts.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Notice of Zoning Administrator Decision on Extension. Notice will be provided to the neighborhood by the same process followed for the original project approval. Notice will also be provided to the Planning Commission and City Council within ten days of the Zoning Administrator's decision.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Appeals. The decision of the Zoning Administrator is appealable to the Planning Commission within ten days of the Zoning Administrator's decision by filing a written appeal with the Planning Division and payment of applicable fees. When an appeal is filed, the expiration date of a planning approval is tolled until a final action is taken. The provisions of Municipal Code <cite doc="City of San Mateo, Cal., Code" path="26.48">Chapter 26.48</cite> govern for all projects with associated subdivision maps.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15061(b)(3), adoption of this ordinance is covered by the "common sense exemption" in that it can be seen with certainty that the ordinance, which updates the process for considering a planning application extension, will not have a significant effect on the environment per Guidelines Section 15061(b)(3).</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>  
+  <text><strong>Legislative History and Effective Date.</strong> This ordinance was introduced on September 5, 2023, and adopted on September 18, 2023, and shall be effective 30 days after its adoption.</text>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Lee, Diaz Nash, Hedges, Loranine and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

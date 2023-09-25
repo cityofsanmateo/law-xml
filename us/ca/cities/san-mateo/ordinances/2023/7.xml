@@ -1,0 +1,710 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2023-7" codify:doc="City of San Mateo, Cal., Code">
+  <num>2023-7</num>
+  <heading type="short">Tobacco Retailer Permit Amendments</heading>
+  <heading type="long">Amending Chapter 7.41 "Tobacco Retailer Permit" of the San Mateo Municipal Code</heading>
+  <meta>
+    <effective proof="needed">2023-10-18</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-7.pdf">Ord. No. 2023-7</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2023-7</citation>
+    </citations>
+    <history>
+      <introduced>2023-09-05</introduced>
+      <adopted>2023-09-18</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo has authorized personnel from the County of San Mateo to administer and enforce Municipal Code <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> "Tobacco Retailer Permit" on behalf of the City; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the San Mateo County Board of Supervisors recently adopted an ordinance to amend the San Mateo County Code related to Tobacco Retailer Permits; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>San Mateo County has indicated it will continue to administer a tobacco retailer permit program for those cities which adopt the County's same comprehensive ordinance in its entirety; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the San Mateo Police Department wishes to continue to partner with the County to administer a tobacco retailer permit program in the City of San Mateo; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> will add definitions to incorporate best practices across the state, strengthen ordinance language to reduce youth access to tobacco products, and make the San Mateo Municipal Code consistent with the San Mateo County Code, thereby promoting more efficient administration and enforcement.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.005">Section 7.41.005 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="7.41" before="7.41.010" />
+        <num>7.41.005</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Characterizing Flavor" means a distinguishable taste or aroma, or both, other than the taste or aroma of tobacco, imparted by a Tobacco Product or any byproduct produced by the Tobacco Product. Characterizing flavors include, but are not limited to, tastes or aroma relating to any fruit, chocolate, vanilla, honey, candy, cocoa, dessert, alcoholic beverage, menthol, mint, wintergreen, herb, or spice. A Tobacco Product shall not be determined to have a Characterizing Flavor solely because of the use of additives or flavorings or the provision of ingredient information. Rather, it is the presence of a distinguishable taste or aroma, or both, as described in the first sentence of this definition, that constitutes a Characterizing Flavor.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Constituent" means any ingredient, substance, chemical, or compound, other than tobacco, water, or reconstituted tobacco sheet that is added by the manufacturer to a Tobacco Product during the processing, manufacture, or packing of the Tobacco Product.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Consumer" means a person who purchases a Tobacco Product for consumption.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Coupon" means any voucher, rebate, card, paper, note, form, statement, ticket, image, or other issue, whether in paper, digital, or other form, used for commercial purposes to obtain an article, product, service, or accommodation without charge or at a discounted price.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Director" means the Chief of San Mateo County Health, or designee.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Distinguishable" means perceivable by either the sense of smell or taste.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Electronic Smoking Device" means any device that may be used to deliver any aerosolized or vaporized substance to the person inhaling from the device, including, but not limited to, an e-cigarette, e-cigar, e-pipe, vape pen, or e- hookah. Electronic smoking device includes any component, part, or accessory of the device, and also includes any substance that may be aerosolized or vaporized by such device, whether or not the substance contains nicotine, and whether natural or synthetic. "Electronic Smoking Device" does not include any product that has been approved by the United States Food and Drug Administration for sale as a tobacco cessation product or for other therapeutic purposes where such product is marketed and sold solely for such an approved purpose.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Flavored Tobacco Product" means any Tobacco Product that contains a Constituent that imparts a Characterizing Flavor.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Full Retail Price" means the price listed for a Tobacco Product on its Packaging or on any related shelving, advertising, or display where the Tobacco Product is sold or offered for Sale, plus all applicable taxes and fees if such taxes and fees are not included in the listed price.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Labeling" means written, printed, pictorial, or graphic matter upon any Tobacco Product or any of its packaging.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Packaging" means a pack, box, carton, or container of any kind or, if no other container, any wrapping (including cellophane) in which a Tobacco Product is sold, or offered for Sale, to a Consumer.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Permit" or "Tobacco Retailer Permit" means a valid permit issued by the Director to a Person to act as a Tobacco Retailer.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Person" means any natural person, partnership, cooperative association, corporation, personal representative, receiver, trustee, assignee, or any other entity.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>"Pharmacy" means any retail establishment in which the profession of pharmacy is practiced by a pharmacist licensed by the State of California in accordance with the <cite doc="Cal. Bus. &amp; Prof. Code">Business and Professions Code</cite> and where prescription pharmaceuticals are offered for Sale, regardless of whether the retail establishment Sells other retail goods in addition to prescription pharmaceuticals.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>"Sale" or "Sell" means transfer to, exchange, barter, or distribute for a commercial purpose.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>"Self-Service Display" shall be defined as the open display or storage of Tobacco Products in a manner that is physically accessible to the general public without the assistance of the retailer or employee of the retailer and a direct face-to-face transfer between the purchaser and the retailer or employee of the retailer. A vending machine is a form of self-service display.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>"Tobacco Paraphernalia" means any item designed or marketed for the consumption, use, or preparation of Tobacco Products.</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>"Tobacco" or "Tobacco Product(s)" means:</text>
+          <para>
+            <num>(1)</num>
+            <text>any product containing, made of, or derived from tobacco or nicotine, whether natural or synthetic, that is intended for human consumption or is likely to be consumed, whether inhaled, absorbed, or ingested by any other means, including but not limited to, a cigarette, a cigar, pipe tobacco, chewing tobacco, snuff, or snus;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>any electronic smoking device and any substances that may be aerosolized or vaporized by such device, whether or not the substance contains nicotine, and whether natural or synthetic; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>any component, part, or accessory of (1) or (2), whether or not any of these contains tobacco or nicotine, whether natural or synthetic, including but not limited to filters, rolling papers, blunt or hemp wraps, hookahs, mouthpieces, and pipes.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>"Tobacco Product" does not include any product that has been approved by the United States Food and Drug Administration for sale as a tobacco cessation product or for other therapeutic purposes where such product is marketed and sold solely for such an approved purpose.</text>
+          </para>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>"Tobacco Product Flavor Enhancer" means a product designed, manufactured, produced, marketed or Sold to produce a Characterizing Flavor when added to a Tobacco Product.</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>"Tobacco Retailer" means any Person who Sells, or offers for Sale, Tobacco Products. This definition is without regard to the quantity of Tobacco Products sold or offered for Sale.</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>"Youth-Populated Area" means a parcel of real property that is occupied, in whole or in part, by any of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>a private or public school that educates children in grades kindergarten through high school;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>a library that is open to the public;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a playground that is open to the public;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>a youth center, defined as a facility where children ages 6 to 17 come together for programs and activities;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>a recreation facility open to the public, defined as an area, place, structure, or other facility that is used either permanently or temporarily for community recreation, even though it may be used for other purposes. "Recreation facility" includes, but is not limited to, a gymnasium, playing court, playing field, and swimming pool;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>a public or private college or university that serves as an institution for education beyond the high school level;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>a licensed child-care facility or preschool, other than a small-family day care home or a large-family daycare home as defined in <cite doc="Cal. Health &amp; Safety Code" path="§1596.78">California Health &amp; Safety Code § 1596.78</cite>.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.010" proof="needed">Section 7.41.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="7.41.010"/>
+        <num>7.41.010</num>
+        <heading>Requirement for a Permit.</heading>
+        <para>
+          <num>(a)</num>
+          <text>No Tobacco Retailer or other Person shall Sell or offer for Sale any Tobacco Product without a current and valid Tobacco Retailer Permit from San Mateo County for each location where such activities are conducted.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Permits are valid for one year and must be timely renewed annually by the Permit holder in order to continue to sell or offer for sale any Tobacco Product. A Retailer must obtain a separate Permit for each location at which any Tobacco Product will be sold, offered for sale or distributed. A Permit that is not renewed in a timely manner shall expire at the end of its term, and the Tobacco Retailer must obtain a new Permit prior to any further sale, offer for sale, or distribution of any Tobacco Product.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No Tobacco Retailer shall violate, or cause or allow the Tobacco Retailer's agents or employees to violate, any provision of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> or any other local, state, or federal law applicable to Tobacco Products or Tobacco Retailing.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Tobacco Retailers are responsible for the actions of their employees and agents relating to the sale, offer to sell, and furnishing of tobacco products at the retail location. The sale of any tobacco product by an employee shall be considered an act of the tobacco retailer and the permit holder shall be responsible for any monetary penalties levied.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Nothing in <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> shall be construed to penalize the purchase, use, or possession of a Tobacco Product by any Person not engaged in Tobacco Retailing.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.015">Section 7.41.015 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="7.41" after="7.41.010"/>
+        <num>7.41.015</num>
+        <heading>Permit Conveys a Limited, Conditional Privilege.</heading>
+        <text>Nothing in <cite doc="City of San Mateo, Cal., Code" path="7.41" proof="needed">this Chapter</cite> shall be construed to grant any Person or entity obtaining and maintaining a Permit any status or right other than the limited, conditional privilege to Sell Tobacco Products and act as a Tobacco Retailer at the location in the County identified on the face of the Permit for the period of time shown on the Permit. All Permits are issued subject to the County's right to amend <cite doc="City of San Mateo, Cal., Code" path="7.41" proof="needed">this Chapter</cite> from time to time, and Retailers shall comply with all provisions of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite>, as amended.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.020">Section 7.41.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="7.41.020"/>
+        <num>7.41.020</num>
+        <heading>Application, Issuance and Renewal Procedure.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Application for a Tobacco Retailer's Permit or the renewal of a Tobacco Retailer Permit shall be submitted in the name of the Person proposing to conduct retail sales of Tobacco Products, referred to herein as the "Applicant," and shall be signed by such Person or an authorized agent thereof. All applications shall be submitted to the Director on a form supplied by the Director and contain, at a minimum, the following information:</text>
+          <para>
+            <num>(1)</num>
+            <text>The name, address, and telephone number of the Applicant;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The business name, address, and telephone number of the location where Tobacco Products are proposed to be sold, offered for sale or distributed by the Applicant; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Proof that the location for which a Tobacco Retailer's Permit is sought has been issued a valid state license for the sale of Tobacco Products, if the Tobacco Retailer sells products that require such license;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>A statement whether or not the Tobacco Retailer or any agent of the Retailer has been found to have violated <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> or other applicable law governing Tobacco Products or Tobacco Retailing and, if so, the dates and locations of all such violations within the previous five years; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Such other information as the Director determines is necessary for implementation of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>An application for a new or renewal Permit will be denied if there are any outstanding fines or late fees issued by the Director, or during any period of suspension.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>It is the responsibility of each Permit holder to be informed regarding all laws applicable to Tobacco Retailing, including those laws affecting the issuance of a Tobacco Retailer Permit. No Permit holder may rely on the issuance of a Permit as a determination by San Mateo County that the Permit holder has complied with all laws applicable to Tobacco Retailing. A Permit issued contrary to <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> or any other law, or on the basis of false or misleading information supplied by the Applicant, shall be revoked. Nothing in <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> shall be construed to vest in any person or entity obtaining or maintaining a Tobacco Retailer's Permit any status or right to act as a Tobacco Retailer in contravention of any provision of law.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.030">Section 7.41.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="7.41.030"/>
+        <num>7.41.030</num>
+        <heading>Display of Permit.</heading>
+        <text>Upon receipt of an application for a Tobacco Retailer's Permit in compliance with the requirements of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite>, the Director or designee may issue a Permit which, if issued, must be prominently displayed in a publicly visible location at the location where Tobacco Product Sales are conducted and permitted.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.031">Section 7.41.031 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="7.41" after="7.41.030"/>
+        <num>7.41.031</num>
+        <heading>Prohibitions Regarding Coupons, Discounts, Pharmacies, Flavored Tobacco, and Electronic Smoking Devices.</heading>
+        <para>
+          <num>(a)</num>
+          <text>No Tobacco Retailer shall do any of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Honor or redeem, or offer to honor or redeem, a Coupon to allow a Consumer to purchase a Tobacco Product for less than Full Retail Price;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Sell any Tobacco Product to a Consumer through a multiple package discount or otherwise provide any such product to a Consumer for less than the Full Retail Price in consideration for the purchase of any Tobacco Product or any other item; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Provide any free or discounted item to a Consumer in consideration for the purchase of any Tobacco Product.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No Person, Tobacco Retailer or other legal entity shall sell or distribute to a person any electronic smoking device that delivers natural or synthetic nicotine or any other substance(s) to the person inhaling from the device.  This includes any component, part, or accessory intended or reasonably expected to be used with the electronic device, whether or not sold separately.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No Person or Tobacco Retailer shall sell or offer to sell any Flavored Tobacco Product or Tobacco Product Flavor Enhancer. There shall be a rebuttable presumption that a Tobacco Product is a Flavored Tobacco Product if a manufacturer or any of the manufacturer's agents or employees, in the course of their agency or employment, has made a statement or claim directed to consumers or to the public that the Tobacco Product has or produces a Characterizing Flavor including, but not limited to, text, color, and/or images on the product's labeling or packaging that are used to explicitly or implicitly communicate that the Tobacco Product has a Characterizing Flavor.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No Pharmacy or Pharmacy employee or agent shall sell or offer to sell any Tobacco Product. The Director shall not issue any new, or renew any existing, Tobacco Retailer Permit for any Pharmacy.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Subdivisions (b) and (c) of this Section shall not apply to the duty- free stores located at the San Francisco International Airport.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.032">Section 7.41.032 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="7.41" after="7.41.031"/>
+        <num>7.41.032</num>
+        <heading>Packaging and Labeling.</heading>
+        <text>No Tobacco Retailer or other Person shall Sell or offer for Sale any Tobacco Product to any Consumer unless the Tobacco Product (1) is Sold in the original manufacturer's Packaging intended for Sale to Consumers; (2) conforms to all applicable federal Labeling requirements; and (3) conforms to all applicable child-resistant packaging requirements.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.033">Section 7.41.033 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="7.41" after="7.41.032"/>
+        <num>7.41.033</num>
+        <heading>Self-Service Displays Prohibited; On-site, In-Person Sales Required.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Tobacco Retailing by means of a Self-Service Display is prohibited.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All Sales of Tobacco Products and Tobacco Paraphernalia shall be conducted in- person, over the counter, in the permitted location.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>9</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.034">Section 7.41.034 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="7.41" after="7.41.033"/>
+        <num>7.41.034</num>
+        <heading>Notice of Minimum Age for Purchase of Tobacco Products</heading>
+        <text>Tobacco Retailers shall post conspicuously, at each point of purchase, a notice stating that Selling Tobacco Products to anyone under 21 years of age is illegal and subject to penalties. The form and content of such notice shall be subject to the approval of the Director.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>10</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.035">Section 7.41.035 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41" proof="needed">Chapter 7.41</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="7.41" after="7.41.034"/>
+        <num>7.41.035</num>
+        <heading>Positive Identification Required.</heading>
+        <text>No Tobacco Retailer or other Person shall Sell or offer to Sell a Tobacco Product to another Person without first verifying by means of government-issued photographic identification that the recipient is at least the minimum legal sales age required under state law to purchase a Tobacco Product.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>11</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.036">Section 7.41.036 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="7.41" after="7.41.035"/>
+        <num>7.41.036</num>
+        <heading>Minimum Age for Individuals Selling Tobacco Products.</heading>
+        <text>No Tobacco Retailer shall allow, at its Retail location, any individual who is younger than 21 years of age to Sell or offer to Sell Tobacco Products.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>12</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.037">Section 7.41.037 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="7.41" after="7.41.036"/>
+        <num>7.41.037</num>
+        <heading>Display or Offers to Sell Tobacco Products Without Tobacco Retailer Permit Prohibited</heading>
+        <para>
+          <num>(a)</num>
+          <text>A Tobacco Retailer without a current valid Permit:</text>
+          <para>
+            <num>(1)</num>
+            <text>Shall keep all Tobacco Products out of public view. The public display of Tobacco Products in violation of this provision shall constitute Tobacco Retailing without a Permit.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Shall not display any advertisement relating to Tobacco Products that offers the Sale of such products from the Tobacco Retailer's location.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>13</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.038">Section 7.41.038 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="7.41" after="7.41.037"/>
+        <num>7.41.038</num>
+        <heading>Limits on Eligibility for a Permit.</heading>
+        <para>
+          <num>(a)</num>
+          <text>No Tobacco Retailer's Permit may be issued to authorize Tobacco Retailing at or from other than a fixed location. For example, Sales by Persons on foot or from vehicles or other forms of mobile vending are prohibited.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No Tobacco Retailer's Permit may be issued to authorize Sales of Tobacco Products at a temporary event, such as flea markets and farmers' markets.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No new Tobacco Retailer Permit may be issued to authorize Tobacco Product Sales at any location within 1,000 feet of a Youth-Populated Area, as measured by a straight line from the nearest point of the property line of any parcel on which a Youth-Populated Area is located and any point along the property line of the parcel on which the Permit applicant has or proposes to locate the business.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No new Tobacco Retailer's Permit may be issued for a location which is within 500 feet of a location already occupied by another Tobacco Retailer, as measured by a straight line from the nearest point of the property line of the parcel on which the applicant's business is located to the nearest point of the property line of the parcel on which an existing Tobacco Retailer's business is located.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Tobacco Retailers with a current and valid Permit as of the date of adoption of this ordinance shall be exempt from subsections (c) and (d) of this Section unless the existing Tobacco Retailer fails to timely renew the Permit prior to its annual expiration.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>The Sale of Tobacco Products and accessories is prohibited in County owned structures and in any area of a structure leased by the County, wherever located.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>14</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.040" proof="needed">Section 7.41.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="7.41.040"/>
+        <num>7.41.040</num>
+        <heading>Fees for Permit</heading>
+        <text>Tobacco retailers shall pay all applicable fees at the rates set forth in <cite doc="City of San Mateo, Cal., Code" path="5.64.070">Section 5.64.070</cite> of the San Mateo County Code.  Fees shall be used by the Director to administer and enforce <cite doc="City of San Mateo, Cal., Code" path="7.41">this chapter</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>15</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.050">Section 7.41.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="7.41.050"/>
+        <num>7.41.050</num>
+        <heading>Permit is Nontransferable.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Tobacco Retailer Permits are nontransferable as between Persons, locations, or otherwise. Any attempted transfer shall render the Permit null and void.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Notwithstanding any other provision of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite>, prior violations of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> at a location shall continue to be counted against that location and Permit ineligibility and suspension periods shall continue to apply to that location unless:</text>
+          <para>
+            <num>(1)</num>
+            <text>One hundred percent of the interest in the stock, assets, or income of the business, other than a security interest for the repayment of debt, has been transferred to the new owner(s); and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The County is provided with clear and convincing evidence, including an affidavit, that the business has been acquired in an Arm's Length Transaction. An Arm's Length Transaction, for the purposes of this section, means a transaction in which two or more unrelated and unaffiliated parties agree on the transfer in question; the parties act independently and in their own self-interest; and the parties have equal bargaining power and symmetric information, leading the parties to agree upon fair-market terms.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>16</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.060">Section 7.41.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="7.41.060"/>
+        <num>7.41.060</num>
+        <heading>Enforcement.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Director or the Director's designee shall enforce <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> consistent with the provisions herein.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Violations of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> may be criminally prosecuted as infraction(s) or misdemeanor(s) at the discretion of the prosecuting attorney as the interests of justice require.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>This Section shall not be interpreted to limit the applicable civil or administrative remedies available under law.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>17</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.065">Section 7.41.065 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="7.41" after="7.41.060"/>
+        <num>7.41.065</num>
+        <heading>Public Nuisance.</heading>
+        <text>Any violation of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> is hereby declared a public nuisance, subject to all applicable civil, administrative, and criminal remedies and penalties according to the provisions and procedures of contained in the San Mateo County Code and state law, including but not limited to, an action for abatement or injunctive relief.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>18</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.068">Section 7.41.068 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="7.41" after="7.41.065"/>
+        <num>7.41.068</num>
+        <heading>Compliance Monitoring.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Compliance with <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> shall be monitored by the Director. In addition, any peace officer may enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite>. The Director may designate additional persons to monitor and facilitate compliance with <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Individuals designated to enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> shall inspect each Tobacco Retailer at least two times during each twelve-month period to determine if the Tobacco Retailer is complying with all applicable laws. Compliance checks shall take place during normal business hours, with or without notice. If a violation has occurred, the Tobacco Retailer shall be inspected again within three months. All permitted premises must be open to inspection by designated persons during regular business hours.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Nothing in this section shall create a right of action in any Tobacco Retailer or other person or entity against the County or its agents.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>19</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.070">Section 7.41.070 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="7.41.070"/>
+        <num>7.41.070</num>
+        <heading>Suspension or Revocation of Permit.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Grounds for Suspension or Revocation.</text>
+          <para>
+            <num>(1)</num>
+            <text>A Tobacco Retailer Permit may be suspended or revoked, as set forth below in subdivision (b), if any court of a competent jurisdiction determines, or the Director finds, based on a preponderance of the evidence after notice and opportunity for the Tobacco Retailer to be heard, that either of the following violations have occurred:</text>
+            <para>
+              <num>(A)</num>
+              <text>After the Permit was issued it is determined that the Application for the Permit is incomplete or inaccurate.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The Tobacco Retailer or Tobacco Retailer's agent has violated any of the requirements, conditions, or prohibitions of <cite doc="City of San Mateo, Cal., Code" path="7.41" proof="needed">this Chapter</cite> or any applicable local, state, or federal tobacco-related law.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Notwithstanding the foregoing, a Tobacco Retailer Permit shall be suspended or revoked, for the maximum time periods and as set forth in subdivision (b), if any court of competent jurisdiction determines, or the Director finds, based on a preponderance of evidence and after notice and opportunity for the Tobacco Retailer to be heard, that the Tobacco Retailer, or any agent or employee of the Tobacco Retailer, has Sold Tobacco Products to any Person(s) under the age of 21 years.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Time Period of Suspension of Permit.</text>
+          <para>
+            <num>(1)</num>
+            <text>Upon the first violation within any sixty (60) month period, the Permit to Sell Tobacco Products may be suspended for up to 30 days.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Upon the second violation within any sixty (60) month period, the Permit to Sell Tobacco Products may be suspended for up to 90 days.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Upon the third violation within any sixty (60) month period, the Permit to Sell Tobacco Products may be suspended for up to one year.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Upon the fourth violation within any sixty (60) month period, the Permit to Sell Tobacco Products shall be revoked. If a Permit is revoked, the Retailer shall not be eligible for a new Permit for a period of five (5) years after the effective date of revocation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Effective Date of Suspension or Revocation. Within ten (10) calendar days of the hearing, the Director shall issue written findings and an order regarding the suspension or revocation, which order will be effective ten (10) calendar days from the date such order was sent by certified mail to the Retailer, unless a timely appeal is filed in accordance with subsection (d).</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Appeal of Suspension or Revocation.  The decision of the Director is appealable to the San Mateo County Licensing Board and the procedural rules of the San Mateo County Licensing Board shall govern hearings on all appeals of suspensions and revocations.</text>
+          <para>
+            <num>(1)</num>
+            <text>An appeal must be in writing, be addressed to the Director and be hand- delivered to the offices of the Division of Environmental Health.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An appeal must be received by the Director before the effective date of suspension or revocation provided by subsection (c) in order to be considered.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The filing of a timely appeal will stay a suspension or revocation pending a decision on the appeal by the San Mateo County Licensing Board.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The decision of the San Mateo County Licensing Board shall be a final administrative order, with no further administrative right of appeal.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>20</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.080">Section 7.41.080 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="7.41.080"/>
+        <num>7.41.080</num>
+        <heading>Administrative Fine.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Grounds for Fine. A fine shall be imposed on a Tobacco Retailer upon findings made by the Director, based on a preponderance of the evidence, that any Tobacco Retailer, or any agent or employee of the Tobacco Retailer, has violated any of the requirements, conditions, or prohibitions of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite>. A fine shall be imposed in the maximum amounts set forth in subsection (b) of this section upon findings made by the Director that the Tobacco Retailer, or any agent or employee of the Tobacco Retailer, has Sold any Tobacco Product to any Person(s) under the age of 21 years. Any administrative fine shall be imposed solely against the Tobacco Retailer, not the Tobacco Retailer's employees or agents.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Amount of Fine. Upon written findings made by the Director under subsection (a), the person or entity holding the Tobacco Retailer Permit shall be subject to an administrative fine for each such violation as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>A fine not exceeding five hundred dollars ($500) for a first violation within a sixty (60) month period; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A fine not exceeding one thousand dollars ($1,000) for each subsequent violation within a sixty (60) month period.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Each day that Tobacco Products are Sold or offered for Sale without a Permit or otherwise in violation of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> shall constitute a separate violation. A finding of "offered for Sale" in violation of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> will be made if Tobacco Products are either actually Sold and/or displayed in the retail establishment, or if advertisements offering to Sell Tobacco Products are visible to customers.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Fine Procedures. Notice of the fine shall be served on the Tobacco Retailer by certified mail. The notice shall contain a description of the facts upon which the asserted violation is based and an advisement of the right to request a hearing before the Director contesting the imposition of the fine. Said hearing must be requested within ten calendar days of the date appearing on the notice of the fine. The decision of the Director shall be a final administrative order, with no administrative right of appeal.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Failure to Pay Fine. If a fine imposed pursuant to <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> is not paid within 30 calendar days from the date appearing on the notice of the fine or of the notice of determination of the Director after the review provided for under subdivision (c) of this Section, the fine may be referred to a collection agency within or external to the County. In addition, any outstanding fines must be paid prior to the issuance of any new Permit or renewal of a Permit.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>21</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.41.090">Section 7.41.090 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="7.41.090"/>
+        <num>7.41.090</num>
+        <heading>Authorization of Enforcement by San Mateo County Personnel.</heading>
+        <text>The County of San Mateo, its officers, employees and agents are hereby authorized to administer and enforce <cite doc="City of San Mateo, Cal., Code" path="7.41">this chapter</cite> on behalf of the City, within the jurisdictional boundaries of this city. Such enforcement authority includes, but is not limited to, the collection of fees and fines expending such revenue in the enforcement of the tobacco retailer requirements, holding hearings, suspending permits and issuing administrative fines.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>22</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(5), adoption of this ordinance is categorically exempt from CEQA as an administrative activity that will not result in a potentially significant physical impact on the environment.</text>
+  </section>
+  <section>
+    <num>23</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>24</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>25</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on September 5, 2023, and adopted on September 18, 2023, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Lee, Diaz Nash, Hedges, Loranine and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
