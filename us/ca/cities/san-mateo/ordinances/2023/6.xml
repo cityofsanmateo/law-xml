@@ -1,0 +1,111 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2023-6" codify:doc="City of San Mateo, Cal., Code">
+  <num>2023-6</num>
+  <heading type="short">Drinking in Public Areas</heading>
+  <heading type="long">Amending Chapter 10.04 "Public Peace and Order" Relating to Drinking in Public Areas and Private Parking Lots</heading>
+  <meta>
+    <effective>2023-10-05</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-6.pdf">Ord. No. 2023-6</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2023-6</citation>
+    </citations>
+    <history>
+      <introduced>2023-08-21</introduced>
+      <adopted>2023-09-05</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Police Department has experienced difficulty enforcing San Mateo Municipal Code (SMMC) Sections <cite doc="City of San Mateo, Cal., Code" path="10.04.080" proof="needed">10.04.080</cite> "Drinking – Public Areas" and <cite doc="City of San Mateo, Cal., Code" path="10.04.090" proof="needed">10.04.090</cite> "Drinking – Private Parking Lots" due to ambiguity in the code language; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>currently the SMMC does not address drinking at transit areas, certain areas of public property, or trespassers on private property; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the California Alcoholic Beverage Control Act does not control all aspects of alcohol possession in the state, and local government is permitted to restrict public drinking; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendment to <cite doc="City of San Mateo, Cal., Code" path="10.04.080">Section 10.04.080</cite> will more clearly specify where drinking is unlawful and incorporate language from <cite doc="City of San Mateo, Cal., Code" path="10.04.090">Section 10.04.090</cite> so that all relevant language is in a single section of the SMMC.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="10.04.080">Section 10.04.080 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="10.04.080"/>
+        <num>10.04.080</num>
+        <heading>Drinking – Public Areas.</heading>
+        <text>Except as otherwise provided in this code, it shall be unlawful for any person to consume, drink, or possess an open container of any alcoholic or intoxicating beverage in any quantity in the following places:</text>
+        <para>
+          <num codify:value="(a)">(1)</num>
+          <text>On any public street, sidewalk, right-of-way, highway, alley, transit station, transit stop, transit platform, or parking facility, or on any public properties owned, operated, and maintained by the City of San Mateo.</text>
+        </para>
+        <para>
+          <num codify:value="(b)">(2)</num>
+          <text>On the premises, or within 500 feet, of any business engaged in the retail sale of alcoholic beverages.</text>
+        </para>
+        <para>
+          <num codify:value="(c)">(3)</num>
+          <text>On any private parking lot open to the public including, but not limited to, shopping center parking lots.</text>
+        </para>
+        <para>
+          <num codify:value="(d)">(4)</num>
+          <text>On a private street, alley, driveway, stairway, doorway, or other outdoor area of private property open to public view without the express permission of the owner, their agent, or the person in lawful possession thereof.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="10.04.090" proof="needed">Section 10.04.090 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="10.04.090"/>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15061(b)(3), adoption of this ordinance is not a project subject to CEQA in that it can be seen with certainty that it will not have a significant effect on the environment.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" proof="needed">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on August 21, 2023, and adopted on September 5, 2023, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Lee, Diaz Nash, Hedges, Loranine and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
