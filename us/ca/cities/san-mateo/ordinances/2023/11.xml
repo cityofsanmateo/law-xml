@@ -1,0 +1,98 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2023-11" codify:doc="City of San Mateo, Cal., Code">
+  <num>2023-11</num>
+  <heading type="short">Building Security Code</heading>
+  <heading type="long">Amending Chapter 23.54 "Building Security Code" to Add Section 23.54.025 "Secured Building Access for Emergency Personnel," and Section 23.54.035 "Video Surveillance Systems"</heading>
+  <meta>
+    <effective>2023-12-20</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-11.pdf" proof="needed">Ord. No. 2023-11</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2023-11</citation>
+    </citations>
+    <history>
+      <introduced>2023-11-06</introduced>
+      <adopted>2023-11-20</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the San Mateo Police Department, as an active member of the City of San Mateo's Design Review Board, has identified important additions to San Mateo Municipal Code (SMMC) <cite doc="City of San Mateo, Cal., Code" path="23.54">Chapter 23.54</cite>, which sets forth Building Security Code requirements; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the adoption of SMMC <cite doc="City of San Mateo, Cal., Code" path="23.54.025">Section 23.54.025</cite> "Secured Building Access for Emergency Personnel," will require all new commercial and multi-tenant buildings to install and maintain an access system for use by public safety personnel when responding to emergencies to ensure essential, life-saving responses can reach those in need; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the adoption of SMMC <cite doc="City of San Mateo, Cal., Code" path="23.54.025">Section 23.54.035</cite> "Video Surveillance Systems" will require all new commercial and multi-tenant buildings to install and maintain a video surveillance system in publicly accessible exterior areas contiguous to the property to ensure optimal public safety through safety technologies.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.54.025">Section 23.54.025 of the San Mateo Municipal Code</cite> is added to read as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="23.54" after="23.54.020"/>
+        <num>23.54.025</num>
+        <heading>Secured Building Access for Emergency Personnel</heading>
+        <text>Where access to commercial or multi-tenant buildings is restricted because of secured entry points, the Police Chief or their designee is authorized to specify and require the installation and maintenance of an emergency access system, for when immediate police access is necessary for life-saving or emergency purposes. A police emergency access system installed and maintained under this section is in addition to the requirements of other adopted codes, including the California Fire Code.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.54.035">Section 23.54.035 of the San Mateo Municipal Code</cite> is added to read as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="23.54" after="23.54.030"/>
+        <num>23.54.035</num>
+        <heading>Video Surveillance Systems</heading>
+        <text>Commercial and multi-tenant buildings shall have installed and maintain a recording video surveillance system with cameras placed to view publicly accessible exterior grounds contiguous to that property. Additional cameras and camera technologies may be installed by a property owner, and additional cameras and camera technologies may be required based on project-specific conditions including, but not limited to, project size, and location as determined by the Chief of Police or their designee. A video surveillance system installed under this section shall be approved by the Chief of Police or their designee.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines Section 15061(b)(3), this action is covered by the "common sense exemption" in that CEQA applies only to projects which have the potential to cause a significant effect on the environment. Here, it can be seen with certainty that the ordinance adoption, will not have a significant effect on the environment per Guidelines Section 15061(b)(3).</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>  
+  <section>
+    <num>6</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on November 6, 2023, and adopted on November 20, 2023, and shall be effective 30 days after its adoption.</text>
+  </section>  
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Lee, Diaz Nash, Hedges, Loraine and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

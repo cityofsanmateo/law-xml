@@ -1,0 +1,231 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2023-9" codify:doc="City of San Mateo, Cal., Code">
+  <num>2023-9</num>
+  <heading type="short">Campaign Finance Voluntary Expenditure Limit</heading>
+  <heading type="long">Amending Chapter 2.80 "Contributions and Loans to City Candidate Campaigns" to Add Section 2.80.055 "Voluntary Expenditure Limit," and Amend Various Sections Related to Recall Elections and Aggregation of Contributions</heading>
+  <meta>
+    <effective>2024-01-01</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-9.pdf" proof="needed">Ord. No. 2023-9</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2023-9</citation>
+    </citations>
+    <history>
+      <introduced>2023-11-06</introduced>
+      <adopted>2023-11-20</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on September 5, 2023, the City Council held a study session regarding potential amendments to San Mateo Municipal Code Chapter 2.80 "Contributions and Loans to City Candidate Campaigns" and provided direction regarding voluntary expenditure limits; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the adoption of SMMC <cite doc="City of San Mateo, Cal., Code" path="2.80.055">Section 2.80.055</cite> "Voluntary Expenditure Limit" will allow City Council candidates an opportunity to voluntarily agree to expenditure limits in exchange for specified benefits; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>various sections of <cite doc="City of San Mateo, Cal., Code" path="2.80">Chapter 2.80</cite> require amending to provide that contribution limits do not apply to recall elections, to make clarifying changes addressing the aggregation of contributions, and to make other revisions as directed by the City Council.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.055">Section 2.80.055 of the San Mateo Municipal Code</cite> is added to read as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="2.80" after="2.80.050"/>
+        <num>2.80.055</num>
+        <heading>VOLUNTARY EXPENDITURE LIMIT.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Each candidate for election to the City Council in November 2024, and for each City Council election thereafter, shall, prior to the time they file their nomination papers with the city clerk, advise the city clerk in writing on a form provided by the City whether or not the candidate will opt to voluntarily limit their campaign expenditures in accordance with the voluntary campaign expenditure limits set forth in this section and by resolution. The agreement to voluntarily limit campaign expenditures shall pertain to all expenditures incurred by the candidate or the candidate's committee in support of their candidacy and shall include all such expenditures that a candidate or candidate's committee is required to report pursuant to the California Political Reform Act of 1974, as amended, whether those expenditures are made before or after the filing of nomination papers.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Withdrawal Period: within three (3) business days after the deadline to file nomination papers with the city clerk, a candidate that previously accepted the voluntary campaign expenditure limit will have one (1) opportunity to notify the city clerk that they have decided not to accept the voluntary campaign expenditure limit. The candidate shall thereafter be relieved of abiding by the expenditure limit.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Candidates who agree to abide by the voluntary campaign expenditure limit shall receive the following benefits and incentives at no cost to themselves:</text>
+          <para>
+            <num>(1)</num>
+            <text>The City's website will clearly identify which candidates have agreed to the voluntary expenditure limit.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The City will publish in its regular digital newsletter which candidates have agreed to the voluntary expenditure limit. This will be published twice (once at the next publishing of said newsletter after the withdrawal period and once when the ballots are mailed to residents.)</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The City will publish notices in a newspaper of general circulation the candidates who agreed to the voluntary expenditure limit.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Calculation of Voluntary Campaign Expenditure Limit.</text>
+          <para>
+            <num>(1)</num>
+            <text>A candidate for district City Councilmember who voluntarily agrees to expenditure ceilings shall not make qualified expenditures exceeding two dollars and fifty cents ($2.50) per resident in the electoral district for each election in which the candidate is seeking elective office. Residency of each electoral district shall be determined by the latest decennial census population figures available for that district. The City Clerk shall publish on its website and in a newspaper of general circulation the expenditure ceiling amount for each district, rounded to the nearest hundred dollars ($100), no later than sixty (60) business days following adoption of the ordinance from which this Section is derived.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Beginning on January 1, 2026, the City Clerk shall in even-numbered years increase the expenditure ceiling amounts based upon a finding that the cost of living in the immediate San Francisco Bay Area, as shown on the CPI for all items in the San Francisco Bay Area as published by the U.S. Department of Labor, Bureau of Statistics, has increased. This increase shall be the cost-of-living adjustment (COLA) computed by reference to the CPI as indexed from a base year that commences in November 2023 (by way of example, on January 1, 2026, the City Clerk will adjust the voluntary expenditure ceiling amounts by determining the increase in CPI from November 2023 — November 2025). The increase shall be rounded to the nearest hundred dollars ($100). The City Clerk shall publish the adjusted expenditure ceiling amounts no later than February 1st of each even-numbered year.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The following shall not count toward the voluntary campaign expenditure limit:</text>
+            <para>
+              <num>(A)</num>
+              <text>Filing fees related to the candidacy, including fees paid to the Secretary of State to open or maintain a committee, and fees to translate the candidate statement.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Contributions returned by the candidate within thirty (30) days of receipt.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Legal fees and costs incurred in connection with litigation arising out of a campaign for City office.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Non-monetary contributions as defined by the Fair Political Practices Commission.</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Post-election party expenses.</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>Post office box expenses.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Penalties: Any violation of <cite doc="City of San Mateo, Cal., Code" path="2.80.055">this section</cite>, including the filing of false reports that entitle the candidate to the benefits conferred by this section, shall within seventy-two (72) hours of the City's knowledge of the violation:</text>
+          <para>
+            <num>(1)</num>
+            <text>Be posted on the City's website, and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Be posted in the City's regular digital newsletter; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Be forwarded to newspapers of general circulation for publication.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.020">Section 2.08.020 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <include>
+      <section>
+        <num>2.08.020</num>
+        <heading>DEFINITIONS.</heading>
+        <text>As used in <cite doc="City of San Mateo, Cal., Code" path="2.80">this chapter</cite>, the words and phrases shall be defined in the same manner as they are defined in the Political Reform Act of 1974 (including any amendments thereto) as found in <cite doc="Cal. Gov't Code" path="§81000">California Government Code Section 81000</cite> et seq., unless defined otherwise in this section. For the purposes of <cite doc="City of San Mateo, Cal., Code" path="2.80">this chapter</cite>, the terms below are defined as follows:</text>
+        <para>
+          <codify:replace path="2.80.020|(a)"/>
+          <num>(a)</num>
+          <text>"Candidate" means any individual listed on the ballot for election to any City office, or who otherwise has taken affirmative action to seek election to City office, or who receives a contribution or makes an expenditure, or who gives his or her consent for any other person to receive a contribution or make an expenditure with the purpose of bringing about his or her election to any City office.</text>
+        </para>
+        <aftertext>[Subsections (b) – (e) remain unchanged]</aftertext>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.030">Section 2.08.030 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <include>
+      <section>
+        <num>2.08.030</num>
+        <heading>LIMITATIONS ON CONTRIBUTIONS.</heading>
+        <para>
+          <codify:replace path="2.80.030|(a)"/>
+          <num>(a)</num>
+          <text>For any particular election, no individual shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any individual any contribution which will cause the total amount contributed by such individual to exceed $500.00.</text>
+        </para>
+        <para>
+          <codify:replace path="2.80.030|(b)"/>
+          <num>(b)</num>
+          <text>For any particular election, no organization shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any organization any contribution which will cause the total amount contributed by such organization to exceed $1,000.00.</text>
+        </para>
+        <aftertext>[Subsections (c) and (d) remain unchanged]</aftertext>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.045">Section 2.08.045 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <include>
+      <section>
+        <num>2.08.045</num>
+        <heading>AGGREGATION OF CONTRIBUTIONS.</heading>
+        <text>[Subsections (a) – (d) remain unchanged]</text>
+        <para>
+          <codify:insert path="2.80.045"/>
+          <num>(e)</num>
+          <text>Aggregated contributions under this section shall be subject to the $1000 contribution limit.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.050">Section 2.08.050 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="2.80.050"/>
+        <num codify:value="2.80.050">2.08.050</num>
+        <heading>CANDIDATE CAMPAIGNS ONLY.</heading>
+        <text>The provisions of this chapter apply to election campaigns for candidates only. The provisions of this chapter do not apply to any ballot measure, referendum or initiative election.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines Section 15061(b)(3), this action is covered by the "common sense exemption" in that CEQA applies only to projects which have the potential to cause a significant effect on the environment. Here, it can be seen with certainty that adopting an ordinance amending campaign regulations will not have a significant effect on the environment.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>  
+  <section>
+    <num>9</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on November 6, 2023, and adopted on November 20, 2023, and shall be effective on January 1, 2024.</text>
+  </section>  
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Diaz Nash, Hedges, Loraine and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>Council Member Lee</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
