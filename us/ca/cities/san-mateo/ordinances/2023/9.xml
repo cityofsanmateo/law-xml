@@ -124,10 +124,10 @@
   </section>
   <section>
     <num>2</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.020">Section 2.08.020 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.020">Section 2.80.020 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
-        <num>2.08.020</num>
+        <num>2.80.020</num>
         <heading>DEFINITIONS.</heading>
         <text>As used in <cite doc="City of San Mateo, Cal., Code" path="2.80">this chapter</cite>, the words and phrases shall be defined in the same manner as they are defined in the Political Reform Act of 1974 (including any amendments thereto) as found in <cite doc="Cal. Gov't Code" path="§81000">California Government Code Section 81000</cite> et seq., unless defined otherwise in this section. For the purposes of <cite doc="City of San Mateo, Cal., Code" path="2.80">this chapter</cite>, the terms below are defined as follows:</text>
         <para>
@@ -141,10 +141,10 @@
   </section>
   <section>
     <num>3</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.030">Section 2.08.030 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.030">Section 2.80.030 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
-        <num>2.08.030</num>
+        <num>2.80.030</num>
         <heading>LIMITATIONS ON CONTRIBUTIONS.</heading>
         <para>
           <codify:replace path="2.80.030|(a)"/>
@@ -162,10 +162,10 @@
   </section>
   <section>
     <num>4</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.045">Section 2.08.045 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.045">Section 2.80.045 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
-        <num>2.08.045</num>
+        <num>2.80.045</num>
         <heading>AGGREGATION OF CONTRIBUTIONS.</heading>
         <text>[Subsections (a) – (d) remain unchanged]</text>
         <para>
@@ -178,11 +178,11 @@
   </section>
   <section>
     <num>5</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.050">Section 2.08.050 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.050">Section 2.80.050 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
         <codify:replace path="2.80.050"/>
-        <num codify:value="2.80.050">2.08.050</num>
+        <num>2.80.050</num>
         <heading>CANDIDATE CAMPAIGNS ONLY.</heading>
         <text>The provisions of this chapter apply to election campaigns for candidates only. The provisions of this chapter do not apply to any ballot measure, referendum or initiative election.</text>
       </section>
