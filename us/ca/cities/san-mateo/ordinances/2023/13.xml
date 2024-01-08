@@ -1,0 +1,228 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2023-13" codify:doc="City of San Mateo, Cal., Code">
+  <num>2023-13</num>
+  <heading type="short">Municipal Code Clean Up Amendments for San Mateo Municipal Code Chapter 7.35 "Mandatory Organic Waste Disposal Reduction Ordinance"</heading>
+  <heading type="long">Amending Chapter 7.35, "Mandatory Organic Waste Disposal Reduction Ordinance" of the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2024-01-03</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-13.pdf">Ord. No. 2023-13</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2023-13</citation>
+    </citations>
+    <history>
+      <introduced>2023-11-20</introduced>
+      <adopted>2023-12-04</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the State of California passed Senate Bill 1383 (Chapter 395, Statutes of 2016), the Short-lived Climate Pollutant Reduction Act of 2016, which requires the California Department of Resources Recycling and Recovery (CalRecycle) to adopt regulations to reduce organic waste; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>CalRecycle has finalized implementing regulations by revising Chapter 12 (Short-Lived Climate Pollutants) of Division 7 of Title 14 of the California Code of Regulations (SB 1383 Regulations); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the SB 1383 Regulations require a 50 percent reduction of organic waste by 2020 from 2014 baseline levels and a 75 percent reduction by 2025, and further require the recovery by 2025 of at least 20 percent of currently disposed of edible food for human consumption; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the SB 1383 Regulations require cities, counties, and special districts providing solid waste collection services to adopt and enforce an implementing ordinance or other mechanism by January 1, 2022 that includes the regulation of waste haulers and generators of organic waste and edible food, as well as enforcement provisions and penalties for violations; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the South Bayside Waste Management Authority (SBWMA) developed a Model Mandatory Organic Waste Disposal Reduction Ordinance for its member agencies to utilize; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo adopted the "Mandatory Organic Waste Disposal Reduction Ordinance" (Ordinance) on December 6, 2021; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Ordinance provides for an education period for non-compliance from January 1, 2022 through December 31, 2023; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Ordinance provides for enforcement to begin on January 1, 2024; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>amendments to the Ordinance's enforcement section are necessary to correct certain code references prior to enforcement.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>The title of <cite doc="City of San Mateo, Cal., Code" path="7.35">Chapter 7.35 of the San Mateo Municipal Code</cite> is amended as follows: "Mandatory Organic Waste Disposal Reduction".</text>
+    <codify:replace path="7.35|heading">
+      <heading>Mandatory Organic Waste Disposal</heading>
+    </codify:replace>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.35.010">Section 7.35.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="7.35.010"/>
+        <num>7.35.010</num>
+        <heading>Title</heading>
+        <text><cite doc="City of San Mateo, Cal., Code" path="7.35">This Chapter</cite> shall be known as the "Mandatory Organic Waste Disposal Reduction" ordinance and may be so cited and commonly referred to in <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite> as the "Ordinance."</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.35.130">Section 7.35.130 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="7.35.130"/>
+        <num>7.35.130</num>
+        <heading>Enforcement</heading>
+        <para>
+          <num>(a)</num>
+          <text>Violation of any provision of <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite> shall constitute grounds for issuance of a Notice of Violation and assessment of a fine by the Jurisdiction Enforcement Official, Designee for Edible Food Recovery, or representative. Enforcement Actions under this ordinance are issuance of an administrative citation and assessment of a fine. The City's procedures on imposition of administrative fines are hereby incorporated in their entirety, as modified from time to time, and shall govern the imposition, enforcement, collection, and review of administrative citations issued to enforce this ordinance and any rule or regulation adopted pursuant to this ordinance, except as otherwise indicated in this ordinance.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Other remedies allowed by law may be used, including civil action or prosecution as misdemeanor or infraction. The City or its Designee for Edible Food Recovery may pursue civil actions in the California courts to seek recovery of unpaid administrative citations. The City or its Designee for Edible Food Recovery may choose to delay court action until such time as a sufficiently large number of violations, or cumulative size of violations exist such that court action is a reasonable use of the City's or Designee for Edible Food Recovery's staff and resources.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Responsible Entity for Enforcement</text>
+          <para>
+            <num>(1)</num>
+            <text>Enforcement pursuant to this ordinance may be undertaken by the Jurisdiction Enforcement Official, which may be the city manager, city attorney, or their designee, or combination thereof, or Designee for Edible Food Recovery.</text>
+            <para>
+              <num>(A)</num>
+              <text>Jurisdiction Enforcement Official(s) and Designee for Edible Food Recovery (for Edible Food Recovery provisions) will interpret ordinance; determine the applicability of waivers, if violation(s) have occurred; implement Enforcement Actions; and, determine if compliance standards are met.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Jurisdiction Enforcement Official(s) and Designee for Edible Food Recovery (for Edible Food Recovery provisions) may issue Notices of Violation(s).</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Process for Enforcement</text>
+          <para>
+            <num>(1)</num>
+            <text>Jurisdiction Enforcement Officials or Designee for Edible Food Recovery and/or their Designee will monitor compliance with the ordinance randomly and through Compliance Reviews, Route Reviews, investigation of complaints, and an Inspection program (that may include Remote Monitoring). <cite doc="City of San Mateo, Cal., Code" path="7.35.120">Section 7.35.120</cite> establishes Jurisdiction's and Designee for Edible Food Recovery's right to conduct Inspections and investigations.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The City or its Designee for Edible Food Recovery may issue an official notification to notify regulated entities of its obligations under the ordinance.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For incidences of Prohibited Container Contaminants found in containers, the City or its Designee will issue a Notice of Violation to any generator found to have Prohibited Container Contaminants in a container. Such notice will be provided via a cart tag or other communication immediately upon identification of the Prohibited Container Contaminants or within 30 days after determining that a violation has occurred. If the City or its Designee observes Prohibited Container Contaminants in a generator's containers on more than two (2) consecutive occasion(s), the City or its Designee may assess contamination processing fees or contamination penalties on the generator provided by law.</text>
+            <text>The City or its Designee for Edible Food Recovery will issue a Notice of Violation to any Tier One or Tier Two Commercial Edible Food Generator found to have Edible Food in any waste container or to any Food Recovery Organization or Food Recovery Service found to have Edible Food recovered from a Tier One or Tier Two Edible Food Generator in a waste collection container which has not been documented by a notice of significant spoilage as required in this Ordinance. Such notice will be provided by email communication immediately upon identification of the violation or within three (3) calendar days after determining that a violation has occurred. If the City or its Designee for Edible Food Recovery observes Edible Food in a Tier One or Tier Two Commercial Edible Food Generator, or Food Recovery Organization, or Food Recovery Service waste container on more than two (2) consecutive occasion(s), the City or its Designee for Edible Food Recovery may assess an administrative citation and fine, pursuant to the Edible Food Recovery penalties provisions contained in this Ordinance, on the Tier One or Tier Two Commercial Edible Food Generator, Food Recovery Organization, or Food Recovery Service.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>With the exception of violations of generator contamination of container contents addressed under <cite doc="City of San Mateo, Cal., Code" path="7.35.130|(d)|(3)">Section 7.35.130(d)(3)</cite>, the City or its Designee for Edible Food Recovery shall issue a Notice of Violation requiring compliance within 60 days of issuance of the notice.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Absent compliance by the respondent within the deadline set forth in the Notice of Violation, the City or its Designee for Edible Food Recovery (for the Edible Food Recovery provisions) may commence an action to impose penalties via an administrative citation and fine, pursuant to its Administrative citation and fine procedures.</text>
+            <text>For the purposes of Edible Food Recovery, the Designee for Edible Food Recovery may commence an action to impose penalties, via an administrative citation and fine, pursuant to the Edible Food Recovery penalties provisions contained in this Ordinance and/or <cite doc="City of San Mateo, Cal., Code" path="1">Title 1 of the San Mateo Municipal Code</cite>.</text>
+            <text>Notices shall be sent to "owner" at the official address of the owner maintained by the tax collector for the City or if no such address is available, to the owner at the address of the dwelling or Commercial property or to the party responsible for paying for the collection services, depending upon available information</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Penalty Amounts for Types of Violations</text>
+          <text>The penalty levels for violations unrelated to the Edible Food Recovery requirement are as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>For a first violation, the amount of the base penalty shall be $100 per violation.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For a second violation, the amount of the base penalty shall be $200 per violation.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For a third or subsequent violation, the amount of the base penalty shall be $500 per violation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Compliance Deadline Extension Considerations</text>
+          <text>The City or its Designee for Edible Food Recovery may extend the compliance deadlines set forth in a Notice of Violation issued in accordance with <cite doc="City of San Mateo, Cal., Code" path="7.35.130">Section 7.35.130</cite> if it finds that there are extenuating circumstances beyond the control of the respondent that make compliance within the deadlines impracticable, including the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Acts of God such as earthquakes, wildfires, flooding, and other emergencies or natural disasters;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Delays in obtaining discretionary permits or other government agency approvals; or,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Deficiencies in Organic Waste recycling infrastructure or Edible Food Recovery capacity and the City is under a corrective action plan with CalRecycle pursuant to 14 CCR Section 18996.2 due to those deficiencies.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Appeals Process</text>
+          <text>Persons receiving an administrative citation containing a penalty for an uncorrected violation may request a hearing to appeal the citation. A hearing will be held only if it is requested within the time prescribed and consistent with the City or its Designee for Edible Food Recovery's procedures in the City's or its Designee for Edible Food Recovery's codes for appeals of administrative citations. Evidence may be presented at the hearing. The City or its Designee for Edible Food Recovery will appoint a hearing officer who shall conduct the hearing and issue a final written order.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Education Period for Non-Compliance</text>
+          <text>Beginning January 1, 2022 and through December 31, 2023, the City or its Designee for Edible Food Recovery (for edible food generator and food recovery organization and service requirements) may conduct Inspections, Remote Monitoring, Route Reviews or waste evaluations, and Compliance Reviews, depending upon the type of regulated entity, to determine compliance, and if the City or its Designee for Edible Food Recovery determines that Organic Waste Generator, Self-Hauler, hauler, Tier One Commercial Edible Food Generator, Food Recovery Organization, Food Recovery Service, or other entity is not in compliance, it shall provide educational materials and/or, for the purposes of Edible Food Recovery, training to the entity describing its obligations under this ordinance and a notice that compliance is required by January 1, 2022, and that violations may be subject to administrative civil penalties starting on January 1, 2024.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Civil Penalties for Non-Compliance</text>
+          <text>Beginning January 1, 2024, if the City or its Designee for Edible Food Recovery (Designee for Edible Food determination only for Tier 1 and Tier 2 Commercial Edible food generator and food recovery organization and service requirements) determines that an Organic Waste Generator, Self-Hauler, hauler, Tier One or Tier Two Commercial Edible Food Generator, Food Recovery Organization, Food Recovery Service, or other entity is not in compliance with this ordinance, it shall document the noncompliance or violation, issue a Notice of Violation, and take Enforcement Action pursuant to <cite doc="City of San Mateo, Cal., Code" path="7.35.130">Section 7.35.130</cite>, as needed.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, sections 15168, 15162, and 15308, this action does not require further environmental review because 1) in accordance with CEQA Guidelines Section 15168, the activities described in this Ordinance are entirely within the scope of a program Environmental Impact Report prepared by CalRecycle concerning the SB 1383 Regulations (PEIR) and the PEIR adequately described the activities described in this Ordinance; and 2) in accordance with CEQA Guidelines Section 15168 and 15162, no conditions exist necessitating supplemental or subsequent environmental review. Additionally, this action is categorically exempt from CEQA as it is an action taken to protect the environment. (CEQA Guidelines Section 15308.)</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on November 20, 2023, and adopted on December 4, 2023, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Diaz Nash, Hedges, Loraine and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>Council Member Lee</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

@@ -1,0 +1,453 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2023-12" codify:doc="City of San Mateo, Cal., Code">
+  <num>2023-12</num>
+  <heading type="short">New Objective Design Standards for Multi-Family and Residential Mixed-Use Development</heading>
+  <heading type="long">Amending Title 27, Zoning, Related to Objective Design Standards and Review Process for Multi-Family and Mixed-Use Residential Projects, and Align Fence Height Standard for Planning Applications with Building Code Standards.</heading>
+  <meta>
+    <effective>2024-01-03</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-12.pdf">Ord. No. 2023-12</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2023-12</citation>
+    </citations>
+    <history>
+      <introduced>2023-11-20</introduced>
+      <adopted>2023-12-04</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under the Housing Accountability Act, housing development projects, as defined, are subject to design review standards and criteria provided that they are objective in nature and not subjective; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo (City) desires to update its existing design standards for multi-family residential and residential mixed-use developments to offer objective design criteria for streamlined review of projects; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City's draft 2023-2031 Housing Element identifies programs to further streamline processing for projects, including the adoption of objective design standards and the increase of Zoning Administrator approval authority to include projects with 6 to 25 residential dwelling units; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City has conducted extensive community outreach over the last three years regarding objective design standards, including three public outreach meetings and two Planning Commission study sessions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in accordance with California Environmental Quality Act (CEQA) Guidelines, Section 15061(b)(3), adoption of this ordinance is covered by the "common sense exemption" in that CEQA applies only to projects which have the potential to cause a significant effect on the environment. Here, it can be seen with certainty that the proposed amendments to create objective design standards and a streamlined review process for small projects up to twenty-five (25) residential dwelling units subject to objective design standards would not cause a physical change in the environment and therefore would not have a significant effect on the environment. Proposals for multi-family or residential mixed-use development will be considered as individual projects and will be evaluated pursuant to CEQA at the time of application submittal; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on October 24, 2023, the Planning Commission held a duly noticed public hearing, received all written and oral public comments, and recommended that the City Council approve the proposed ordinance.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Legislative Findings.</text>
+    <text>At a duly noticed public hearing, the City Council of the City of San Mateo reviewed and considered the accompanying staff report and attachments thereto, the exemption from environmental review, together with comments received during the public review process, and hereby finds and determines that the proposed ordinance is consistent with the adopted General Plan in that it supports successful completion of projects that implement and achieve the General Plan's stated goals and policies.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.06.020">Section 27.06.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.06.020"/>
+        <num>27.06.020</num>
+        <heading>ZONING ADMINISTRATOR—POWERS AND DUTIES.</heading>
+        <text>The Zoning Administrator shall enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite>, and shall:</text>
+        <para>
+          <num>(a)</num>
+          <text>Conduct such inspections of buildings, structures, and use of land as are necessary to determine compliance with the terms of <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Establish, with the approval of the Council, and administer rules for the conduct of the Zoning Administrator's office;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Maintain permanent and current records of documents and proceedings under <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite>;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Provide and maintain a continuing program of education and public information on zoning matters;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Recommend abatement of violations of <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite> and aid in prosecution thereof;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Receive, file, and transmit to the appropriate approval body all planning applications and all appeals which the designated approval body is authorized to review or to take final action upon under the provisions of <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite>;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Interpret provisions of the zoning ordinance, subject to appeal of the decision to the Planning Commission;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Have the authority to review and approve, conditionally approve, or disapprove the following types of projects, provided that the projects do not result in any significant impacts pursuant to the California Environmental Quality Act (CEQA), subject to public notice and to appeal of the final action to the Planning Commission:</text>
+          <para>
+            <num>(1)</num>
+            <text>Site plan and architectural review for projects that incorporate:</text>
+            <para>
+              <num>(A)</num>
+              <text>Up to twenty-five (25) residential dwelling units that meet objective design standards as adopted by resolution of the City Council; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Up to five (5) residential dwelling units that do not meet objective design standards as adopted by resolution of the City Council; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Up to 10,000 square feet of non- residential development; or</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Other minor site improvements including but not limited to parking lots, landscaping, recreation facilities, accessory structures, recycling collection areas, circular driveways in R1, R2 districts;</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Fences over seven (7) feet and those over three (3) feet when located in a front yard and/or street side yard setback or within forty-five (45) feet of a street intersection line, authorized by <cite doc="City of San Mateo, Cal., Code" path="27.84">Chapter 27.84</cite>.</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>Freestanding signs.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Site development permits for removal of major vegetation required for the construction of projects that require Zoning Administrator review and approval, or grading of five thousand (5,000) cubic yards or less under <cite doc="City of San Mateo, Cal., Code" path="23.40">Chapter 23.40</cite>.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Variances as authorized by <cite doc="City of San Mateo, Cal., Code" path="27.78">Chapter 27.78</cite>, for single-family, accessory dwelling units, duplex dwellings, or residential projects with up to six (6) residential dwelling units.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Temporary use permits authorized by <cite doc="City of San Mateo, Cal., Code" path="27.74">Chapter 27.74</cite>.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Modifications authorized by <cite doc="City of San Mateo, Cal., Code" path="27.08">Chapter 27.08</cite>.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Special permits to allow the following:</text>
+            <para>
+              <num>(A)</num>
+              <text>Recycling facilities subject to regulations established in <cite doc="City of San Mateo, Cal., Code" path="27.69">Chapter 27.69</cite>;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Plumbing in detached accessory buildings in the R-1 zone, as authorized under <cite doc="City of San Mateo, Cal., Code" path="27.18">Chapter 27.18</cite></text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Substantial removal of existing residences in an R-1 zoning district;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Temporary real estate sales offices, as authorized under Chapters <cite doc="City of San Mateo, Cal., Code" path="26.04">26.04</cite> and <cite doc="City of San Mateo, Cal., Code" path="27.18">27.18</cite>;</text>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Swimming pools, hot tubs, and spas located in required front or street side yards, as authorized under <cite doc="City of San Mateo, Cal., Code" path="27.18">Chapter 27.18</cite>; and</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>Additional floor area ratio in the R-3 District, as authorized under <cite doc="City of San Mateo, Cal., Code" path="27.22">Chapter 27.22</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Concurrent development of two or more contiguous lots or parcels of real property in R-1 and R-2 districts.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Parcel Maps without exceptions as authorized by <cite doc="City of San Mateo, Cal., Code" path="26">Title 26</cite> (Subdivision).</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Single-Family Dwelling Design Review (SFDDR) Applications.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>City projects that meet the following criteria:</text>
+            <para>
+              <num>(A)</num>
+              <text>The project was conceptually approved as part of, or approved concurrent with, a Master Plan, program document, or project planning document that is in effect and has been previously approved by the City Council; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The project does not propose major changes from previous City Council approval; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The project would not result in a significant environmental impact pursuant to the California Environmental Quality Act (CEQA).</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Notwithstanding the above, the Zoning Administrator may refer the application to the Planning Commission for hearing and action when it is unclear whether the necessary findings for project approval can be made.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.06.040">Section 27.06.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.06.040" />
+        <num>27.06.040</num>
+        <heading>PLANNING COMMISSION—JURISDICTION.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Commission shall review and take final action, subject to appeal to the Council, upon all applications for:</text>
+          <para>
+            <num>(1)</num>
+            <text>Appeals from the decisions of the Zoning Administrator;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Special use permits other than for high rise buildings, or those identified under <cite doc="City of San Mateo, Cal., Code" path="27.06.020|(h)|(6)">Section 27.06.020(h)(6)</cite>;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Site Plan and Architectural Review for projects that incorporate:</text>
+            <para>
+              <num>(A)</num>
+              <text>Twenty-six (26) or more residential dwelling units that meet objective design standards as adopted by resolution of the City Council; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Six (6) or more residential dwelling units that do not meet objective design standards as adopted by resolution of the City Council; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Over 10,000 square feet of non-residential development.</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Site Development Planning Applications involving grading of more than five thousand (5,000) cubic yards under Section 23.40;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Tentative Maps and Parcel Maps with exceptions under <cite doc="City of San Mateo, Cal., Code" path="26">Title 26</cite> (Subdivisions);</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Applications which are accompanied by environmental impact reports, other than reclassifications, planned developments, special use permits for high rise buildings, and general plan amendments;</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Release of conditions or easements recorded by the City under <cite doc="City of San Mateo, Cal., Code" path="27.08.045">Section 27.08.045</cite>.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Modifications under <cite doc="City of San Mateo, Cal., Code" path="27.08.080|(b)">Section 27.08.080(b)</cite>.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Variances as authorized in <cite doc="City of San Mateo, Cal., Code" path="27.78.040">Section 27.78.040</cite> for planning applications for structures other than single-family and duplex.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Planned signing districts and freestanding signs over eight (8) feet in height.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Commission shall review and make recommendations to the Council upon all applications for reclassifications, planned developments, site plan and architectural review for buildings exceeding 55 feet in height, General Plan amendments, projects which are fully or partially funded by the City and otherwise require Planning Commission review, and projects which include as part of the site any parcel of land which is in whole or in part subject to the tidelands trust provisions of State law.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Commission may, on its own initiative, recommend to the Council that proceedings be initiated for an amendment, supplement, change or repeal of the whole or any portion of <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite>, provided that public hearings thereon shall be held in the manner prescribed in <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite>. The Commission shall periodically initiate a comprehensive review of the provisions of <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite> and make a report of its findings to the Council.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.08.030">Section 27.08.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.08.030" />
+        <num>27.08.030</num>
+        <heading>SITE PLAN AND ARCHITECTURAL REVIEW (SPAR).</heading>
+        <para>
+          <num>(a)</num>
+          <text>The following projects, as well as other projects that may be designated in this code, require a site plan and architectural review and no such project shall commence until the approval body has approved a planning application for site plan and architectural review: any building, new parking lot, fence over seven (7) feet in height, or an extension, alteration, or addition of or to an existing building or parking lot; historic buildings within the Downtown Specific Plan area as specified in <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite>. Single family and accessory buildings that conform to the standards contained in <cite doc="City of San Mateo, Cal., Code" path="27.18">Chapter 27.18</cite>, or minor facade modifications as defined in <cite doc="City of San Mateo, Cal., Code" path="27.04.313">Section 27.04.313</cite>, and which conform with <cite doc="City of San Mateo, Cal., Code" path="27.08.031">Section 27.08.031</cite>, are exempt from this requirement, unless they are specifically designated by this section as requiring review. In making its review, the Zoning Administrator, Development Review Board, and Planning Commission shall be guided by the standards adopted by the Planning Commission and City Council. The application shall be approved if the Zoning Administrator or Commission finds all of the following to exist:</text>
+          <para>
+            <num>(1)</num>
+            <text>The structures, site plan, and landscaping are in scale and harmonious with the character of the neighborhood;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The development will not be detrimental to the harmonious and orderly growth of the City;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The development will not impair the desirability of investment or occupation in the vicinity, and otherwise is in the best interests of the public health, safety, or welfare;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The development meets all applicable standards as adopted by the Planning Commission and City Council, conforms with the General Plan, and will correct any violations of the zoning ordinance, building code, or other municipal codes that exist on the site;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The development will not adversely affect matters regarding police protection, crime prevention, and security.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All buildings, structures, landscaping, and other establishments shall be constructed in accordance with the approved drawings.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The City Council shall review and make the final determination on all buildings exceeding fifty-five (55) feet in height or where required by express General Plan provisions.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.21.030">Section 27.21.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.21.030" />
+        <num>27.21.030</num>
+        <heading>Rules of Procedure</heading>
+        <text>Except as otherwise outlined below, the applicable rules of procedure contained in <cite doc="City of San Mateo, Cal., Code" path="27.08">Chapter 27.08</cite> shall apply to all SB 9 planning applications. Where there is a conflict, standards in <cite doc="City of San Mateo, Cal., Code" path="27.21">this Chapter</cite> shall prevail.</text>
+        <para>
+          <num>(a)</num>
+          <text>Planning Application Submittal. An SB 9 planning application, on the form(s) prescribed by the Department, for either an attached or detached unit(s) and/or urban lot splits, shall be submitted for all development pursuant to the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.21">this Chapter</cite>.</text>
+          <para>
+            <num>(1)</num>
+            <text>An applicant may file concurrent planning applications under <cite doc="City of San Mateo, Cal., Code" path="27.21">this Chapter</cite> for one or two-unit development and an urban lot split.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Processing of Applications. Unless an SB 9 application is submitted pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.21.045">Section 27.21.045</cite> of <cite doc="City of San Mateo, Cal., Code" path="27.21">this Chapter</cite>, SB 9 application(s) shall be processed as prescribed in <cite doc="City of San Mateo, Cal., Code" path="27.08.040">Section 27.08.040</cite> of the San Mateo Municipal Code, except that these applications shall be considered ministerially with no public hearing.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Informational Notice. Upon receipt of an SB 9 planning application, and once the project is deemed complete, the City shall provide an informational notice that an SB 9 application has been filed with the City to all property owners and tenants within a 500-foot radius of the subject parcel and to the applicable neighborhood association(s) in accordance with the noticing procedures adopted by the Department.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Ministerial Permit Approval. If an SB 9 planning application complies with the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.21">this Chapter</cite>, a ministerial, non-discretionary permit shall be issued. Notwithstanding anything contrary in this code, the issuance of a ministerial SB 9 Two-Unit Development permit and/or a SB 9 Urban Lot Split permit is not appealable.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Submittal Requirements. In addition to the requirements of <cite doc="City of San Mateo, Cal., Code" path="27.08.010|(c)">Section 27.08.010(c)</cite>, each application shall be accompanied by all of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Application Forms. Completed SB 9 planning application forms as prescribed by the Department;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Property Ownership. Verification of property ownership in the form of a preliminary title report that is no more than a year old, showing the current owners of the property, the names of record owners of the land, and all existing easements and other reservations, restrictions, or covenants; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Legal Description. An accurate legal description of the property and any resultant lots in the case of an urban lot split application; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Plans. Scaled and accurate plans to include required applicable information as outlined in the Planning Application and/or Urban Lot Split Submittal Requirements checklists; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Affidavit. A completed property owner tenant disclosure affidavit and acknowledgement that the application meets SB 9 eligibility requirements.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Findings. Findings of Approval. An SB 9 application not submitted pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.21.045">Section 27.21.045</cite> of <cite doc="City of San Mateo, Cal., Code" path="27.21">this Chapter</cite> shall be approved ministerially if the Zoning Administrator or designee makes all the following findings:</text>
+            <para>
+              <num>(A)</num>
+              <text>The parcel is within the Two-Unit Overlay District and meets all qualifying criteria as outlined in <cite doc="City of San Mateo, Cal., Code" path="27.21">this Chapter</cite>;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The development meets all applicable objective standards contained in and required by the General Plan, San Mateo Municipal Code or other City adopted plans, policies, or standards;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The development does not adversely affect matters regarding police protection, crime prevention, and security because it adheres to the objective standards of <cite doc="City of San Mateo, Cal., Code" path="23.54">Chapter 23.54</cite>;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>The proposed SB 9 unit(s) is consistent with all applicable SB 9 objective design standards of the Two-Unit Overlay District</text>
+            </para>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Findings of Denial. An SB 9 application shall be denied if the Building Official makes written findings, based upon a preponderance of evidence, that:</text>
+            <para>
+              <num>(A)</num>
+              <text>The proposed housing development would have a specific adverse impact, as defined and determined in paragraph (2) of subdivision (d) of  <cite doc="Cal. Gov't Code" path="§65867.5">Section 65589.5</cite>, as amended, of the <cite doc="Cal. Gov't Code">Government Code</cite>, upon public health and safety or the physical environment, and for which there is no feasible method to satisfactorily mitigate or avoid the specific adverse impact(s).</text>
+            </para>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.39.120">Section 27.39.120 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.39.120" />
+        <num>27.39.120</num>
+        <heading>RESIDENTIAL DEVELOPMENT STANDARDS.</heading>
+        <text>In this district, residential uses shall be permitted as part of mixed-use developments, subject to the City's Objective Design Standards as adopted by resolution of the City Council and requirements of <cite doc="City of San Mateo, Cal., Code" path="27.38.130">Section 27.38.130</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, Section 15061(b)(3), adoption of these ordinance amendments is covered by the "common sense exemption" in that CEQA applies only to projects which have the potential to cause a significant effect on the environment. Here, it can be seen with certainty that the proposed amendments create objective design standards and a streamlined review process for small projects up to twenty-five (25) residential dwelling units subject to objective design standards would not cause a physical change in the environment and therefore would not have a significant effect on the environment. Proposals for multi-family or residential mixed-use development will be considered as individual projects and will be evaluated pursuant to CEQA at the time of application submittal.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>10</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on November 20, 2023, and adopted on December 4, 2023, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Diaz Nash, Hedges, Loraine and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>Council Member Lee</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
