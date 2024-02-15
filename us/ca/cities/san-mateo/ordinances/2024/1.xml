@@ -1,0 +1,104 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2024-1" codify:doc="City of San Mateo, Cal., Code">
+  <num>2024-1</num>
+  <heading type="short">Business License and Regulations, and Building Security Code Amendments</heading>
+  <heading type="long">Amending Section 5.44.050 "Business Licenses and Regulations – Massage Operating Requirements," and Amending Sections 23.54.005(b) "Building Security Code – Purpose and Intent" and 23.54.020 "Building Security Code – City Communications System – High Rise Buildings"</heading>
+  <meta>
+    <effective>2024-02-15</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-1.pdf">Ord. No. 2024-1</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2024-1</citation>
+    </citations>
+    <history>
+      <introduced>2024-01-02</introduced>
+      <adopted>2024-01-16</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the San Mateo Police Department, as an active member of the City of San Mateo's Design Review Board, has identified areas of improvement in three San Mateo Municipal Code (SMMC) Sections outlined in this resolution; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SMMC <cite doc="City of San Mateo, Cal., Code" path="5.44.050">Section 5.44.050</cite> "Business Licenses and Regulations – Massage Operating Requirements," will more clearly communicate the requirements of the code due to changes in lighting technology by using lumens for measurement instead of watts; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SMMC <cite doc="City of San Mateo, Cal., Code" path="23.54.005|(b)">Section 23.54.005(b)</cite> "Building Security Code – Purpose and Intent" references an outdated principle in safety design, and the updated language will more clearly state the City of San Mateo's commitment to maximizing public safety through safety technologies; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SMMC <cite doc="City of San Mateo, Cal., Code" path="23.54.020">Section 23.54.020</cite> "Building Security Code – City Communications System – High Rise Buildings," currently lists the height limit which triggers the installation of communications infrastructure as five stories, without providing a definition for "story," which has caused confusion for past development proposals and will be more clearly expressed as the specific height limit of 55 feet to trigger the requirement.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.54.005|(b)">Subsection (b) of Section 23.54.005 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <para>
+      <codify:replace path="23.54.005|(b)" />
+      <num>(b)</num>
+      <text>To apply crime prevention through environmental design and safety technologies.</text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="5.44.050|(q)">Subsection (q) of Section 5.44.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <para>
+      <codify:replace path="5.44.050|(q)"/>
+      <num>(q)</num>
+      <text>Minimum lighting consisting of at least one artificial light of not less than 450 lumens shall be provided and shall be operating in each room or enclosure where massage services are being performed on clients, and in all areas where clients are present.</text>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.54.020">Section 23.54.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <text>All new buildings with a top plate height of 55 feet or more shall provide a location on the building for installation of City radio communications equipment, including antennas and their supporting equipment. An electrical supply source shall be provided by the permittee at the antenna/equipment location, and reasonable access shall be provided by the permittee and/or building owner to City staff and/or City contractors for installation of necessary telephone lines and for purposes of installation, maintenance, adjustment and repair of the antenna/equipment. This access and location agreement shall be recorded in terms that convey the intent and meaning of this condition in the form approved by the City Attorney.</text>
+    <codify:replace path="23.54.020|text">
+      <text>All new buildings with a top plate height of 55 feet or more shall provide a location on the building for installation of City radio communications equipment, including antennas and their supporting equipment. An electrical supply source shall be provided by the permittee at the antenna/equipment location, and reasonable access shall be provided by the permittee and/or building owner to City staff and/or City contractors for installation of necessary telephone lines and for purposes of installation, maintenance, adjustment and repair of the antenna/equipment. This access and location agreement shall be recorded in terms that convey the intent and meaning of this condition in the form approved by the City Attorney.</text>
+    </codify:replace>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15061(b)(3), this action is covered by the "common sense exemption" in that CEQA applies only to projects which have the potential to cause a significant effect on the environment. Here, it can be seen with certainty that the ordinance adoption, will not have a significant effect on the environment per Guidelines Section 15061(b)(3).</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on January 2, 2024, and adopted on January 16, 2024, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Diaz Nash, Newsom, Loraine, Hedges and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
