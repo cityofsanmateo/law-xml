@@ -1,0 +1,1414 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2024-2"  codify:doc="City of San Mateo, Cal., Code">
+  <num>2024-2</num>
+  <heading type="short">Animal Control Amendments</heading>
+  <heading type="long">Amending Chapter 8.02 "Animal Control" of the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2024-03-21</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-2.pdf">Ord. No. 2024-2</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2024-2</citation>
+    </citations>
+    <history>
+      <introduced>2024-02-05</introduced>
+      <adopted>2024-02-20</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo has authorized personnel from the County of San Mateo to administer and enforce Municipal Code <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> "Animal Control" on behalf of the City; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the San Mateo County Board of Supervisors recently adopted an ordinance to amend the San Mateo <cite doc="San Mateo County, Cal., Ordinance Code">County Code</cite> related to Animal Control; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo wishes to continue to partner with the County to provide animal control services and wishes to maintain an animal control ordinance which is substantially the same as the County's ordinance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> will provide clarity in definitions, streamline processes, improve enforceability, and above all else, provide enhanced public safety.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.002">Section 8.02.002 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.002"/>
+        <num>8.02.002</num>
+        <heading>ADOPTION OF SAN MATEO COUNTY'S "ANIMAL CONTROL" ORDINANCE.</heading>
+        <text>Sections <cite doc="City of San Mateo, Cal., Code" path="6.04.010">6.04.010</cite> through <cite doc="City of San Mateo, Cal., Code" path="6.04.370">6.04.370</cite> of the San Mateo County Ordinance Code (Animal Control Ordinance), as they were in existence or adopted by the County as of January 9, 2024, are referred to, adopted and made applicable within the City and made a part of this Code, except as specifically otherwise provided in <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>. Amendments thereto shall be adopted by the City in accordance with procedures for adoption of amendments to ordinances.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.004">Section 8.02.004 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.004"/>
+        <num>8.02.004</num>
+        <heading>ANIMAL CONTROL OFFICERS—APPOINTMENT OF—ENFORCEMENT POWERS.</heading>
+        <text>The Animal Control Officers of the Peninsula Humane Society, a private nonprofit corporation with whom the County contracts for enforcement of its "Animal Control" ordinance, are appointed Animal Control Officers of the City and are authorized and directed to enforce in the City:</text>
+        <para>
+          <num>(a)</num>
+          <text>The provisions of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite> adopted under <cite doc="City of San Mateo, Cal., Code" path="8.02.002">Section 8.02.002</cite> hereof.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The other provisions of <cite doc="City of San Mateo, Cal., Code" path="8">this title</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.006">Section 8.02.006 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.006"/>
+        <num>8.02.006</num>
+        <heading>VIOLATIONS.</heading>
+        <text>It is unlawful to commit any act declared by any provision of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite> to be unlawful, to violate <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>, or to fail to comply with the mandatory requirements of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.010">Section 8.02.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.010"/>
+        <num>8.02.010</num>
+        <heading>DEFINITIONS (County Code § 6.04.010).</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Animal Control Officer" means any Person designated as the Animal Control Program Manager for the County, as well as the head of the County's animal control contractor and their duly authorized officers or deputies. In the event the County has no animal control contractor to provide Animal Control Officers, or in cases of emergency in which additional animal control officers are needed, "Animal Control Officer(s)" may include Persons so designated by the Animal Control Program Manager.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Animal Control Program" means that program established by the County and participating cities, and the Program's animal control contractor(s), if any, which contractor is specifically charged with regulating and enforcing laws dealing with animal control within the participating jurisdictions. Animal Control Program includes the Licensing Program.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Animal Control Program Manager" means that Person employed by the County to oversee the Animal Control Program or designee.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Animal Control Shelter" means a County facility operated by the County, or by another public entity, an accredited, tax-exempt humane non-profit organization contracted with the County, or a for-profit business contracted with the County for the purpose of impounding, sheltering, adopting, or euthanizing seized, stray, distressed, homeless, abandoned, or unwanted animals.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"Caretaker" means any Person 18 years of age or older, who has assumed responsibility for the care, custody, or control of an animal(s).</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"County" means the County of San Mateo.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Dangerous Animal" means any animal, except a trained animal assisting a peace officer engaged in law enforcement duties, that constitutes a danger to Persons or animals, and/or demonstrates any of the following behavior(s):</text>
+          <para>
+            <num>(1)</num>
+            <text>Behavior that results in bodily harm that is less serious than a "Severe Injury," or constitutes a substantial threat of bodily harm to a Person; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>An attack on another animal which results in an injury that is sufficient to require veterinary care even if not received.</text>
+            <text>An animal which has been declared by an out of this County jurisdiction as "potentially dangerous," "dangerous," "vicious," or any other similar designation, may be deemed a Dangerous or Vicious Animal for the purposes of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>, as determined by an Animal Control Officer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Health Officer" means that Person so designated by the County.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>"Humane Officer" means any Person who is qualified to and appointed pursuant to <cite doc="Cal. Corp. Code" path="§14502">California Corporations Code Section 14502</cite>, and who is an employee of the County and designated as such by the County or an employee of a society for prevention of cruelty to animals or humane society that has contracted with the County to provide animal control services.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>"Licensing Program" means that program within the County Health Department, including by not limited to, any County contractor specifically charged with regulating and selling animal licenses in the County.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>"Owner" means any Person 18 years of age or over who:</text>
+          <para>
+            <num>(1)</num>
+            <text>holds the license to the animal; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>if the animal is not licensed, is legally entitled to possession of the animal; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>has exercised primary responsibility for the care of the animal for thirty (30) or more consecutive calendar days.</text>
+          </para>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>"Person" means any individual, partnership, corporation, organization, trade or professional association, firm, limited liability company, joint venture, association, trust, estate, or any other legal entity, and any officer, member, shareholder, director, employee, agent, or representative thereof.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>"Severe Injury" means any physical injury to a human caused by an animal attack that involves tooth derived muscle tears, disfiguring wounds or laceration(s), multiple bites requiring sutures, broken bones and/or requires corrective surgery.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>"Service Animal" means any animal defined as such by federal or state law.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>"Vicious Animal" means any animal, except a trained animal assisting a peace officer engaged in law enforcement duties, which meets any or all of the following criteria:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any animal, at the time of the attack, is already designated as a Dangerous Animal and/or is the subject of a Dangerous Animal permit, and which is found to have engaged in any of the following:</text>
+            <para>
+              <num>(A)</num>
+              <text>Behavior that results in bodily harm, or constitutes a substantial threat of bodily harm, to a Person; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>An attack on another animal which results in an injury that is sufficient to require veterinary care, whether or not received.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any animal that inflicts Severe Injury to or kills a Person.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any animal which cannot be safely maintained with a Dangerous Animal permit. .</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Any animal designated by another governmental jurisdiction as, "dangerous", "vicious", or any other similar designation, if that prior designation is based on behavior which would meet the definition of a Vicious Animal under <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>, as determined by an Animal Control Officer.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.020">Section 8.02.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.020"/>
+        <num>8.02.020</num>
+        <heading>ANIMAL CONTROL PROGRAM (County Code § 6.04.020).</heading>
+        <para>
+          <num>(a)</num>
+          <heading>RESPONSIBILITY.</heading>
+          <text>The Animal Control Program is responsible for the enforcement of this ordinance, and the duties of the Animal Control Program shall include, but not be limited to, the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Provide animal control, sheltering services, and a rabies control program to carry out and enforce all provisions of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§121690">California Health &amp; Safety Code section 121690</cite>, and keep such records as may be required by law or contract.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> and all applicable state and local laws relating to the care, treatment, and impounding of animals, and specifically to issue citations and to make arrests for violations of the provisions of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> and related state laws, to the extent authorized by law.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Impound animals found to be in violation of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> in the interest of protecting public health and safety.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Investigate animals pursuant to <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> or applicable state law and, if deemed appropriate, designate any such animals as Dangerous or Vicious pursuant to <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Impound animals which are in imminent or ongoing danger, or which are in need of safekeeping in order to protect the health and safety of the animal.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Impound animals that are causing a threat to public safety.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Where authorized under the law, to enter upon any premises upon which any animal is kept in order to seize or impound of any animal if reasonable cause exists to believe that such animal is being kept or has behaved in violation of the provisions of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>To remove and dispose of the carcass of any animal(s) found on any public right of way, except freeways or other areas maintained by Caltrans.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Quarantine animals under the direction of the County Health Officer to ensure public health and safety.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Euthanize and/or dispose of animal(s) humanely and in accordance with the law.</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>Place for adoption, when appropriate, properly impounded animals if such animals are not redeemed after due notice to known Owners in accordance with the law.</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>Provide and hold vaccination clinics in strategic locations throughout the County pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§121690">Health and Safety Code 121690</cite>.</text>
+          </para>
+          <para>
+            <num>(13)</num>
+            <text>Provide or make available at low cost, spay/neuter surgeries to dogs, cats, and rabbits.</text>
+          </para>
+          <para>
+            <num>(14)</num>
+            <text>Provide for issuance of an animal license for a period not to exceed the term of the anti-rabies vaccination, as provided by state law.</text>
+          </para>
+          <para>
+            <num>(15)</num>
+            <text>To collect any fees or charges provided for in <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> for the licensing, impounding and/or keeping of any animal, or for the enforcement of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Animal Control Officers qualified under <cite doc="Cal. Penal Code" path="§830.9">Penal Code section 830.9</cite>, who are either employees of the County designated as such by the County, or employee(s) of and designated as such by a society for prevention of cruelty to animals or humane society which has contracted with the County to provide animal control services, shall have the authority to issue citations and/or notices to appear in court, and obtain and execute search warrants to the maximum extent allowed by law, for violations of state and local animal control laws. Animal Control Officers shall have the authority provided by state law including, but not limited to, that described by <cite doc="Cal. Penal Code" path="§830.9">Penal Code section 830.9</cite>. Animal Control Officers must complete <cite doc="Cal. Penal Code" path="§832">Penal Code section 832</cite> training.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Those employees of a society for prevention of cruelty to animals or humane society under contract with the County to provide animal control services, who have been appointed and qualify as Humane Officers under <cite doc="Cal. Corp. Code" path="§14502">California Corporations Code section 14502</cite>, or its successor statute, shall have the authority to issue citations and/or notices to appear in court, and obtain and execute search warrants, to the maximum extent allowed by law, for violations of state and local animal control laws.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The County may contract for animal control services to be performed countywide, including within cities, provided agreement is made with the participating jurisdictions.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.030">Section 8.02.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.030"/>
+        <num>8.02.030</num>
+        <heading>RABIES VACCINATIONS (County Code § 6.04.030).</heading>
+        <para>
+          <num>(a)</num>
+          <text>Every dog or cat owner shall ensure their animal is vaccinated for rabies by a licensed veterinarian in the manner prescribed or approved by state law and the State of California Department of Public Health, after the dog or cat attains the age of three (3) months of age and/or within ten (10) calendar days of acquiring an unvaccinated animal. This vaccination shall be obtained prior to issuing a license for the dog or cat. In addition, proof of vaccination shall be provided by the Owner or veterinarian to the Licensing Program or the County's animal control contractor.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Every veterinarian who vaccinates or causes or directs to be vaccinated in the County any dog, or cat with rabies vaccine shall certify that such animal has been vaccinated. Every veterinarian shall submit to the licensing authority a copy of the County-approved rabies vaccination form, within ten (10) calendar days of the beginning of each month, for any dog or cat which they vaccinate or direct to be vaccinated with anti-rabies during the previous month. An Animal Control Officer or animal licensing staff shall have the right to inspect records of rabies vaccinations during normal business hours.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Upon receipt of a written request from a licensed veterinarian to exempt a microchipped pet from receiving a one or three-year vaccination, for medical reasons, the County Health Officer and/or designee shall review the basis for the request for exemption and approve or/deny said request.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.040">Section 8.02.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.040"/>
+        <num>8.02.040</num>
+        <heading>DOG AND CAT LICENSES (County Code § 6.04.040).</heading>
+        <para>
+          <num>(a)</num>
+          <text>Licensing requirements for dogs and cats shall be as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>An annual license shall be obtained, and an annual license fee shall be paid by the Owner for every dog or cat over the age of three (3) months owned or kept in the City. Said annual license fee shall be first due when the animal reaches three (3) months of age or within 60 calendar days after the dog or cat is acquired, and due on the expiration date of the rabies vaccination and each year thereafter.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>New residents shall have sixty (60) calendar days in which to acquire such license.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Persons renewing their license shall have thirty (30) days following their due date before being found delinquent and assessed a late penalty.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The fee for such license shall be as set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350</cite>. The fee paid for the licensing of altered dogs or cats shall be less than said license fee for unaltered dogs or cats upon presentation of the proper certification. The license fee paid by Persons over the age of 60 shall be at a discount.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>An Owner may obtain a three-year license for a cat or dog by submitting to the Licensing Program adequate proof of a three-year rabies vaccination of the animal to be licensed and payment of the applicable fees, as set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.350">section 8.02.350</cite>.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Any Person who fails to pay such license fee after said fee is due or said dog or cat is required to be licensed, in addition to paying any past due license fee(s), may also be required to pay a late fee in accordance with <cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350</cite> or may receive an administrative citation.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>A license shall be obtained, but no license fee shall be payable, by the Owner of any dog being raised, trained or used as a Service Animal, or for dogs that have served as a member of the armed forces of the United States of America, or any dog used by a local law enforcement agency for the purposes of law enforcement.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Animals with microchip implants or other permanent identification acceptable to the Animal Control Program are not exempt from the mandatory licensing requirements.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The licensing provisions in this ordinance are not applicable to the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Dogs or cats used for diagnostic purposes or research, the use having been approved by the California State Department of Health Services pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§1666">Section 1666 of the Health and Safety Code</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Dogs or cats used for teaching purposes in recognized educational institutions.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Dogs or cats owned by veterinarians which are licensed by the State and kept on the premises used by said veterinarians in their practice.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Tags for dogs and cats shall be issued as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>The Licensing Program shall procure and, when licensing fee is paid, issue a lifetime tag which shall bear the number of the license. A record shall be kept with the name of the Owner together with a description of the dog or cat for which the license is issued and the number of the license, and a tag shall be provided to such Person upon payment for such license as provided by <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Whenever a tag has been lost or stolen, the Owner of the animal may request a duplicate tag upon payment of the required fee.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Owner of a licensed dog or cat shall affix such tag to a suitable collar, which collar shall remain on the dog or cat at all times.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>When an animal has been designated as a Service Animal, the Owner may obtain a lifetime service tag and shall be required to follow the requirements in <cite doc="City of San Mateo, Cal., Code" path="8.02.030">Section 8.02.030</cite> (a). Said tag will replace a regular dog license.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The Owner or operator of any kennel, animal breeding facility, pet shop, or any place or establishment where animals are sold, adopted, or given away shall keep a permanent record of the name, address, and phone number of the purchaser of any dog or cat, along with the breed, color, sex, and age of each animal sold, adopted, or given away and shall forward such information to Animal Control services within thirty (30) calendar days thereafter. An Animal Control Officer, County representative, or employee of the County's animal control contractor shall have the right to inspect such records during normal business hours, with forty-eight (48) hours prior notice to the Owner or operator.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.045">Section 8.02.045 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.045"/>
+  </section>
+  <section>
+    <num>9</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.050">Section 8.02.050 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="|8.02" after="|8.02.040"/>
+        <num>8.02.050</num>
+        <heading>PUBLIC PROTECTION FROM DOGS (County Code § 6.04.050).</heading>
+        <para>
+          <num>(a)</num>
+          <text>No Owner or possessor of a dog shall cause or allow such dog to bite, or physically threaten or harass any Person unless necessary to protect the physical safety of a Person.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Every Owner or possessor of a dog shall prevent such dog from causing injury to another animal while such animal is lawfully upon public or private property. The failure of the Owner of a victim animal to have the animal on a leash shall not, in itself, constitute a mitigating factor in any attack.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No Owner or possessor of a dog shall command or provoke such dog to attack, sic or threaten a Person unless such action is necessary to protect the physical safety of a Person.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No Owner or possessor of a dog that resides in another county and is found to have violated this section shall thereafter allow such dog to be brought into the County unless the dog is fully enclosed in a vehicle and passing through to another location without stopping at any public or private premises within the County.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>10</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.060">Section 8.02.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.060"/>
+        <num>8.02.060</num>
+        <heading>PROHIBITED CONDUCT (County Code § 6.04.060).</heading>
+        <text>No Owner or other Person having care, custody or control of any animal shall cause or permit it to do any of the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>To be upon any public street, sidewalk, park, school ground, any public property, or upon any unenclosed premises in this jurisdiction unless:</text>
+          <para>
+            <num>(1)</num>
+            <text>the animal is properly licensed, if such licensing is necessary hereunder, and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the animal is controlled by a chain, lead rope, or leash, which is connected to the animal's collar, saddle, harness, or halter. This latter requirement is not applicable to cats, or to Service Animals under the complete control of the Owner or Caretaker.</text>
+            <text>An electric or invisible fence does not constitute an enclosure for the purpose of this requirement.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>To trespass upon any private property without the consent of the Owner thereof, and to knowingly permit the animal to remain upon the property, or to habitually continue to trespass thereon.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>To suffer or permit such animal to habitually bark or meow or otherwise act to disturb the peace of any citizen or to be a public nuisance.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>To be without proper and adequate food, water, shelter, care, and attention.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>No Person shall possess within the County any animal designated by another jurisdiction as "potentially dangerous", "dangerous", or "vicious," or other designation based on the animal's potential danger to humans and/or animals, without previously notifying Animal Control and receiving express written permission from the Animal Control Program Manager for the animal's presence or residence in the County. A failure to receive prior permission is in itself a sufficient basis for an Animal Control Officer or peace officer to seize and impound such animal.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Subsection (a)(2) of this section shall not be applicable to cats.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>11</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.070">Section 8.02.070 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.070"/>
+        <num>8.02.070</num>
+        <heading>PROTECTION OF ANIMALS IN MOTOR VEHICLES (County Code § 6.04.070).</heading>
+        <para>
+          <num>(a)</num>
+          <text>No Person shall leave or confine an animal in any unattended motor vehicle under conditions that endanger the health or well-being of said animal due to heat, cold, lack of adequate ventilation, lack of water, or other circumstances that could reasonably be expected to cause suffering, disability, or death of said animal.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An Animal Control Officer, Humane Officer or peace officer may remove an animal from a motor vehicle if the animal's safety reasonably appears to be in immediate danger from heat, cold, lack of adequate ventilation, lack of water, or other circumstances that could reasonably be expected to cause suffering, disability, or death to the animal. An Animal Control Officer, Humane Officer or peace officer is authorized to take all steps that are necessary for the removal of such animal from the motor vehicle, including, but not limited to, breaking into the motor vehicle, after a reasonable effort has been made to locate the Owner or other Person responsible.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If an animal is removed from a motor vehicle as set forth herein, the removing officer shall, if deemed necessary by the officer, take it to an animal shelter, veterinary hospital, or other place of safekeeping.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>An Animal Control Officer or peace officer who removes an animal from a motor vehicle shall, in a conspicuous location on or within the motor vehicle, leave written notice bearing their name and office, and the address of the location where the animal can be claimed. The animal may be released to the Owner only after payment of all fees that have accrued for the maintenance, care, medical treatment, or impoundment of the animal</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Nothing in this section shall preclude prosecution under both this section and <cite doc="Cal. Penal Code" path="§597">California Penal Code Section 597</cite> or any other provision of state or local law.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>12</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.080">Section 8.02.080 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.080"/>
+        <num>8.02.080</num>
+        <heading>RELEASE FROM CONFINEMENT (County Code § 6.04.080).</heading>
+        <text>No Person other than the Owner, or Person authorized by the Owner of the animal shall release any animal from any confinement, vehicle, or restraint unless such release is necessary for the immediate health and safety of the animal. This section shall not apply to Animal Control Officers, Humane Officers, and/or peace officers.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>13</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.090">Section 8.02.090 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.090"/>
+        <num>8.02.090</num>
+        <heading>DECLARATION OF DANGEROUS ANIMAL (County Code § 6.04.090).</heading>
+        <para>
+          <num>(a)</num>
+          <text>No Person shall knowingly keep, have, maintain, sell, trade, or let for hire an animal designated as Dangerous under <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> without obtaining a Dangerous Animal permit from the Animal Control Officer. The animal Owner shall comply with all conditions of the Dangerous Animal permit including, but not limited to, all requirements of <cite doc="City of San Mateo, Cal., Code" path="8.02.100">section 8.02.100</cite>. Any animal which is determined to be Dangerous under <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> and for which a permit has not been obtained shall be surrendered to an Animal Control Officer, peace officer, or a County animal control contractor agency for appropriate disposition, which may include humane euthanasia.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In determining whether or not an animal shall be designated as Dangerous, the Animal Control Officer, peace officer, or hearing officer may consider any relevant facts and circumstances, including but not limited to:</text>
+          <para>
+            <num>(1)</num>
+            <text>the alleged attacking animal's prior history.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the alleged attacking animal's Owner(s) ability to comply with <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>, and/or compliance with any prior Dangerous Animal permits held by the alleged attacking animal's Owner(s).</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>whether any of the animals involved were previously deemed by a governmental jurisdiction as "potentially dangerous, "dangerous", "vicious" or any other similar designation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In determining whether or not an animal shall be designated as Dangerous, the Animal Control Officer, peace officer, or hearing officer, may consider the following mitigating factors:</text>
+          <para>
+            <num>(1)</num>
+            <text>Whether at the time of the injury, attack or molestation, the Person or animal suffering the injury, attack or molestation:</text>
+            <para>
+              <num>(A)</num>
+              <text>provoked, tormented, teased, abused or assaulted the animal, thereby causing or contributing to the alleged behavior;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>committed a willful trespass or other tort upon the private property of the Owner or Caretaker of the animal in the presence of the animal;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>threatened or committed an unjustified attack or assault against the Owner, Caretaker or other Person in control of the animal in the presence of the animal.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any other mitigating factor relevant to whether the animal poses a threat to public health or safety. The failure of the Owner or Person in control of a victim animal to have the victim animal on a leash shall not, in itself, constitute a mitigating factor in any attack.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The unwillingess of a victim or a particular witness to testify at a hearing shall not prevent designation of an animal as a Dangerous Animal, as long as sufficient evidence exists to support the designation.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>In the event that an Animal Control Officer or peace officer determines it necessary to protect the health or safety of the public, or of any animal, they may immediately impound any animal according to the procedures set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>If an Animal Control Officer or peace officer has investigated and determined that an animal is Dangerous, the Animal Control Officer or peace officer shall deliver written notice of such determination to the Owner of the animal pursuant to <cite doc="City of San Mateo, Cal., Code" path="8.02.260">section 8.02.260</cite>.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Should the Owner of the animal wish to contest the Dangerous Animal designation, the Owner may request a hearing, which hearing shall be conducted according to the procedures set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.150">section 8.02.150</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>. The Owner shall submit a written request for a Dangerous Animal hearing to the Animal Control Officer within seven (7) calendar days of the written notification by the Animal Control Officer and/or peace officer that the animal has been declared Dangerous.</text>
+          <para>
+            <num>(1)</num>
+            <text>Should the animal Owner not submit a request for an administrative hearing within the required timeframe, the administrative hearing process shall be deemed waived, the Dangerous Animal designation will be final, and the animal Owner shall obtain a Dangerous Animal permit within seven (7) calendar days of the written notification that the animal has been declared Dangerous.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>If the animal Owner requested a hearing and the hearing officer confirms the determination that the animal is Dangerous, the Owner must obtain the Dangerous Animal permit and meet the conditions required by such permit, within seven (7) calendar days of notice of such decision, unless the time is extended by an Animal Control Officer.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If an animal is designated as Dangerous, but the Owner fails to obtain a Dangerous Animal permit within the required timeframe, the animal will be deemed abandoned, and will be subject to disposition as deemed appropriate, including potential euthanasia by the County's animal control contractor, at the discretion of the Animal Control Officer, peace officer or City or County representative. If not already impounded, the animal will be promptly impounded. The Owner of the animal shall be responsible for all costs of impoundment of the animal incurred prior to such abandonment.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>If after investigation by an Animal Control Officer or peace officer, that officer determines that the animal is not Dangerous, the victim or an Owner of a victim animal may appeal that determination, within seven (7) calendar days of notice of the decision given pursuant to <cite doc="City of San Mateo, Cal., Code" path="8.02.260">section 8.02.260</cite>, by submitting to the Animal Control Officer or peace officer a written request for a hearing and paying the required fee. The Animal Control Officer or peace officer shall prepare a written report documenting its reasons for determining the animal not Dangerous and shall include evidence it has considered for and against the designation in its report. The hearing shall be conducted according to the procedures set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.150">section 8.02.150</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>No animal designated by the County as a Dangerous Animal may be transferred to a new place of residence or to a new Owner or Caretaker without prior written approval of the Animal Control Program Manager. Prior to the relocation, a written request for the relocation must be delivered to the Animal Control Program Manager and the County's animal control contractor, if any, at least 30 calendar days prior to the relocation.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>If an Animal Control Officer declares an animal as Dangerous which has already been declared Potentially Dangerous or Dangerous by another jurisdiction located outside of the County, the Owner of such animal must obtain and comply with a Dangerous Animal permit at least seven (7) calendar days prior to moving the animal into the County. The animal shall not reside in the County until the Dangerous Animal permit has been issued by the Animal Control Program and the Owner meets the conditions of said permit.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>A permit issued under this section is subject to renewal annually. An annual inspection of the location where the animal resides will be performed by an Animal Control Officer. Inspections may occur at any reasonable hour and will occur at least annually. The fee for such permit and inspection shall be as set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.350">section 8.02.350</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>. Fees shall not be refundable. If the registered Owner fails to pay the permit fee and/or comply with the requirements of the permit within ten (10) calendar days of the annual inspection date, the permit may be revoked and the animal may be impounded for appropriate disposition, as determined by an Animal Control Officer, peace officer, County contracted agency or City designee, including humane euthanasia.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>A Dangerous Animal designation is a designation that remains with that animal for its lifetime, unless terminated as provided by this subsection. A Dangerous Animal designation may be terminated if all of the following criteria have been met, as determined by an Animal Control Officer or peace officer and the Animal Control Program Manager and/or City designee:</text>
+          <para>
+            <num>(1)</num>
+            <text>The Owner has complied with all Dangerous Animal Permit requirements for a period of three (3) years and the animal has not been found to have committed any violations of the requirements of the permit, or of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>, or any other applicable animal control laws, for the duration of that period.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The animal has remained current on all rabies or similar required vaccinations and has remained current on its licensing and paid all fees for the duration of the three (3) year period.</text>
+            <text>If an animal Owner disputes a finding that the Dangerous Animal designation will not be terminated, the animal Owner may request an administrative hearing to be held according to the procedures set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.150">section 8.02.150</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>14</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.100">Section 8.02.100 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>8.02.100</num>
+        <codify:replace path="|8.02.100"/>
+        <heading>DANGEROUS ANIMAL PERMIT REQUIREMENTS (County Code § 6.04.100).</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any Owner of a Dangerous Animal shall ensure compliance with the following rules and regulations which shall be mandatory requirements for any Dangerous Animal permit:</text>
+          <para>
+            <num>(1)</num>
+            <text>When the animal is off the property of its Owner, ensure that the animal is not kept upon any unenclosed premise unless said animal is leashed and muzzled with a cage or basket muzzle, or any other muzzle approved by the Animal Control Officer. The leash shall not exceed four (4) feet in length and having a minimum tensile strength of 300 pounds and shall be under the direct control and supervision of the Owner or a Person of such age, size, and strength as can easily control such animal. Extraordinary care shall be taken by the Owner and/or Caretaker to ensure that such restraint is sufficient to control the animal in a manner which it will not endanger other Persons or animals.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Ensure said animal is never kept on any unenclosed premises even if tethered, tied or staked.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Ensure said animal is kept in a fenced yard, kennel, dog run or other enclosure, sufficient to prevent the escape of the animal or entry of young children, as approved by the Animal Control Officer or peace officer. An electric or invisible fence is not an acceptable means of enclosure for the purpose of this requirement.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Maintain the animal so that it is not a threat to any mail carrier, sanitation worker, meter Person, or other Person who has the lawful right to enter the property.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Ensure that all structures used to confine the animals are locked with a key or combination lock when such animals are within the fenced yard, kennel, run or enclosure.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Regularly inspect the fenced yard, kennel, dog run or enclosure to ensure that it is secure to maintain the animal and keep young children out.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Allow inspections by any Animal Control Officer or peace officer at any reasonable hour of the premises or premises upon which the animal is maintained.</text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>Pay permit and property inspection fees as set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.350">section 8.02.350</cite> within (10) ten calendar days of the permit issuance or renewal.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>Obtain and post approved sign(s) from the Animal Control Program after payment of a non-refundable fee as set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>. Sign(s) shall be conspicuously posted in a manner visible to the public at all entrances to the property where the animal is kept, warning Persons of the presence of a Dangerous Animal as directed by the Animal Control Officer or peace officer. Such sign(s) must be surrendered in the event of the revocation of the permit, death of animal, or approved relocation of the animal.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>Advise all members who reside in the same household and on the same premises of the conditions established by the permit for keeping or maintaining said Dangerous Animal.</text>
+          </para>
+          <para>
+            <num>(11)</num>
+            <text>Ensure said animal wears, at all times, a separate Dangerous Animal tag issued by the Animal Control Program in addition to complying with license requirements as defined in <cite doc="City of San Mateo, Cal., Code" path="8.02.040">Section 8.02.040</cite>.</text>
+          </para>
+          <para>
+            <num>(12)</num>
+            <text>Ensure said animal be microchipped and inform the Animal Control Officer with the microchip number within thirty (30) calendar days from the date the Dangerous Animal permit was issued.</text>
+          </para>
+          <para>
+            <num>(13)</num>
+            <text>Within forty-five (45) calendar days from the date the Dangerous Animal permit was issued, unless this period is extended by the Animal Control Program Manager or City representative at their sole discretion, said animal shall be spayed or neutered by a California licensed veterinarian, at Owner expense, and within those forty-five (45) days, the Owner shall also present written proof to the Animal Control Officer that the surgery was performed. In the event an animal cannot be safely altered, due to a medical reason, the Owner shall present the Animal Control Program Manager and Animal Control Officer with a written request from a California licensed veterinarian stating the medical reason(s) that the animal should not be altered. The County Health Officer or designee will approve or deny the request. If said request is denied, the animal shall be altered by a California licensed Veterinarian within fifteen (15) calendar days from the date of notification that the request was not approved, and within those fifteen (15) calendars days provide such written proof to the Animal Control Officer that the surgery was performed.</text>
+          </para>
+          <para>
+            <num>(14)</num>
+            <text>Notify an Animal Control Officer and the Animal Control Program Manager of the animal's death within twenty-four (24) hours and produce the animal's body for verification upon request.</text>
+          </para>
+          <para>
+            <num>(15)</num>
+            <text>Notify an Animal Control Officer and the Animal Control Program Manager immediately in the event the animal becomes lost, stolen, or escapes from its fenced yard, kennel run, or enclosure.</text>
+          </para>
+          <para>
+            <num>(16)</num>
+            <text>Pay all reoccurring of additional fees within ten (10) calendar days of service of the invoice or annual permit. Non-payment of fee may result in the permit being revoked unless a payment plan has been approved by the County or City.</text>
+          </para>
+          <para>
+            <num>(17)</num>
+            <text>Comply with all other permit conditions or requirements imposed by an Animal Control Officer, peace officer, or hearing officer pursuant to <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(18)</num>
+            <text>Comply with all local and state laws regarding the care, use, control, and maintenance of animals.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any Owner of a Dangerous Animal shall ensure compliance with the following additional requirements, if directed to do so by an Animal Control Officer, peace officer and/or hearing officer:</text>
+          <para>
+            <num>(1)</num>
+            <text>Prove financial responsibility by posting a bond or certificate of insurance for an amount of three hundred thousand dollars ($300,000) per animal within thirty (30) calendar days from the date of the Dangerous designation. Bond or certificate of insurance will be provided to the Animal Control Program Manager annually prior to expiration of said bond or certificate.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Provide private behavioral and obedience training to the animal, at the Owner's expense and within the time set forth by the hearing officer or an Animal Control Officer following the issuance of a Dangerous Animal permit. Proof of participation, a report of behavioral assessment, and/or a certificate of satisfactory completion from an animal behaviorist or organization approved by an Animal Control Officer shall be provided to the Animal Control Officer and Animal Control Program Manager within seven (7) calendar days following the completion of the mandatory training, but not more than ninety (90) calendar days from the date of the Dangerous designation.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Comply with any other permit requirements determined to be reasonably necessary to protect the public's health or safety and/or the health or safety of other animals.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No more than two Dangerous Animals may be kept by any Person(s) at any one household, residence, business, or other location, without prior written approval of the designee of the appropriate jurisdiction.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>15</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.105">Section 8.02.105 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.105"/>
+  </section>
+  <section>
+    <num>16</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.110">Section 8.02.110 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.110"/>
+        <num>8.02.110</num>
+        <heading>REVOCATION OR MODIFICATION OF DANGEROUS ANIMAL PERMIT (County Code § 6.04.110).</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any Dangerous Animal permit issued pursuant to <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> may be revoked or modified by the inclusion of additional requirements or otherwise, if the Animal Control Officer or peace officer has reasonable cause to believe any of the following to be true:</text>
+          <para>
+            <num>(1)</num>
+            <text>The Dangerous Animal Owner or any Person to whom the Owner has given care, custody, or control of the animal has violated any local or state laws relating to the keeping, care or use of any animals.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Owner or any Person to whom the Owner has given care, custody, or control of the animal has violated any Dangerous Animal permit conditions, or any requirement imposed by the Animal Control Officer, peace officer, or hearing officer.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Owner or any Person to whom the Owner has given care, custody, or control changed the location of his/her residence or his/her place of business or sells, assigns, transfers, donates, leases, or otherwise disposes of the animal for which the permit was issued without first notifying an Animal Control Officer as outlined in <cite doc="City of San Mateo, Cal., Code" path="8.02.090">Section 8.02.090</cite>.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The Owner or any Person to whom the Owner has given care, custody or control of the animal has changed the residence or premises where the animal is maintained without first complying with the guidelines set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.090">Section 8.02.090</cite>.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The Owner or any Person to whom the Owner has given care, custody, or control of the animal is unable or unwilling to comply with the conditions of the Dangerous Animal permit.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In the event that it is reasonably necessary to protect the public or an animal's health and safety, the Animal Control Officer or peace officer may impound or cause to be impounded the animal while an investigation is taking place.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If, after investigation, the Animal Control Officer or peace officer concludes that there is probable cause to believe that one or more of the above conditions for revocation or modification of the permit has occurred, the officer shall deliver written notice of revocation or modification to the Owner. Said notice shall specify the grounds of revocation or modification of the permit. Should the Owner of the animal wish to contest the revocation or modification of the permit, the Owner may request an administrative hearing to be held before a hearing officer, as designated by the Animal Control Program Manager, within seven (7) calendar days of receiving the notice of revocation. Said administrative hearing date shall be not less than seven (7) calendar days or no more than (20) twenty calendar days after the date the request for hearing is received by the Animal Control Manager. The administrative hearing shall be conducted as set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.150">section 8.02.150</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>. The hearing officer conducting the hearing may either modify the terms of the permit or revoke the permit.</text>
+          <text>Any party to the hearing has the right to appeal the administrative hearing decision to the San Mateo County Superior Court by filing a Petition for a Writ of Administrative Mandate pursuant to California Civil Procedure, Section 1094.5 and 1094.6.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Upon written notice by the Animal Control Officer, peace officer, or hearing officer, if a hearing was held, if any modifications to a Dangerous Animal permit are made, the Owner shall immediately comply with such modified permit requirements.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Upon written notice from an Animal Control Officer, peace officer or hearing officer of the revocation of a Dangerous Animal permit, the Owner of such animal shall within two (2) calendar days of such notification, surrender said animal to an Animal Control Officer. The Dangerous Animal shall be impounded and humanely euthanized unless the County designee or City designee has approved a different disposition. At the sole discretion of the appropriate City or County representative, such animal may be permanently removed from the County to another jurisdiction with written approval from that jurisdiction.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>17</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.115">Section 8.02.115 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.115"/>
+  </section>
+  <section>
+    <num>18</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.120">Section 8.02.120 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.120"/>
+        <num>8.02.120</num>
+        <heading>POSSESSION OF ANIMALS AFTER REVOCATION OF DANGEROUS ANIMAL PERMIT (County Code § 6.04.120).</heading>
+        <text>No Person who has been determined to be in possession of or  an Owner of a Dangerous Animal for which a permit has been revoked under <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite> shall be granted any Dangerous Animal permit for a period of three years following such determination or revocation.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>19</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.130">Section 8.02.130 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.130"/>
+        <num>8.02.130</num>
+        <heading>DECLARATION OF VICIOUS ANIMALS (County Code § 6.04.130).</heading>
+        <para>
+          <num>(a)</num>
+          <text>No Person shall keep, have, maintain, sell, trade or let for hire an animal which has been designated as Vicious under the provisions of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If an Animal Control Officer and/or Peace Officer has investigated and determined that an animal is Vicious, the Animal Control Officer or Peace Officer shall deliver written notice of such determination to the Owner of the animal. Service of notice shall be made in accordance with <cite doc="City of San Mateo, Cal., Code" path="8.04.260">section 8.04.260</cite> subdivision (a) of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>. An Animal Control Officer and/or Peace Officer shall immediately impound the animal, or cause to be impounded, the animal according to the procedures set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.160">Section 8.02.160</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>. The animal shall be deemed abandoned and shall be humanely euthanized unless the County designee or City designee has approved a different disposition or unless the Owner timely requests an administrative hearing.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>In determining whether an animal shall be designated Vicious, in addition to any other facts and circumstances of the incident(s), the applicable decision-maker may consider the following potentially mitigating factors.</text>
+          <para>
+            <num>(1)</num>
+            <text>Whether at the time of the injury, attack or molestation, the Person or animal suffering the injury, attack, or molestation:</text>
+            <para>
+              <num>(A)</num>
+              <text>provoked, tormented, teased, abused, or assaulted the animal, thereby causing or contributing to the alleged behavior,</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>committed a willful trespass or other tort upon the private property of the Owner or Caretaker of the animal; and/or,</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>threatened or committed an unjustified attack or assault against the Owner, Caretaker, or other Person in control of the charged animal.</text>
+              <text>The failure of the Owner or other Person in control of a victim animal to have the animal on a leash shall not, in itself, constitute a mitigating factor in any attack.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Whether the Owner is willing and able to comply with the conditions of a Dangerous Animal permit, and whether the animal can be safely maintained on a Dangerous Animal permit considering the nature of the attack and cooperativeness and abilities of the Owner.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The decision-maker may also consider, among any other relevant facts and circumstances, the following factors:</text>
+          <para>
+            <num>(1)</num>
+            <text>whether any of the animals involved were previously deemed by any governmental jurisdiction as, "dangerous", "vicious", or any other similar designation, and/or the animal Owner's prior compliance or lack thereof with any applicable Dangerous Animal permit requirements or <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the attacking animal's history of attacks, bites or threatening behavior;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>whether the animal demonstrated such aggressive behavior that it is reasonable to conclude that the animal cannot be safely maintained with a Dangerous Animal permit; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>whether the Owner is unable or unwilling to comply with the conditions of a Dangerous Animal permit.</text>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Should the Owner of the animal wish to contest the Vicious Animal designation, the Owner may request an administrative hearing to be conducted according to the procedures set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.150">section 8.02.150</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>. The Owner shall submit a written request for a Vicious Animal hearing to the Animal Control Officer within seven (7) calendar days of the written notification by the Animal Control Officer and/or peace officer that the animal has been declared Vicious.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Should the Owner not submit a request for an administrative hearing within the required timeframe, the administrative hearing process shall be deemed waived, the Vicious Animal designation will be considered final for purposes of exhaustion of administrative remedies, and the animal will be subject to disposition by the Animal Control Officer, peace officer, or City or County designee. The Owner shall lose all rights of Ownership and control of the animal, and the animal will be subject to humane euthanasia, unless another disposition is deemed appropriate by a City and/or County designee, without further notice to the Owner.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The unwillingness of a victim or a particular witness to testify at a hearing shall not prevent designation of an animal as Vicious as long as sufficient evidence exists to support the designation.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>If after investigation, an Animal Control Officer and/or peace officer determines that the animal is not Vicious, the Officer will prepare a written decision upon request by any victim suffering physical injury or an Owner of a victim animal, either of whom may appeal that determination. Any victim suffering physical injury as a result of the attack, or Owner of a victim animal, may appeal the determination that an animal is not Vicious by submitting, within seven (7) calendar days of the service of the decision pursuant to <cite doc="City of San Mateo, Cal., Code" path="8.02.260">section 8.02.260</cite>, a written request to the Animal Control Officer for an administrative hearing and paying the required fee as set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>. The administrative hearing shall be conducted according to the procedures set forth in <cite doc="City of San Mateo, Cal., Code" path="8.04.150">section 8.04.150</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>20</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.140">Section 8.02.140 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.140"/>
+        <num>8.02.140</num>
+        <heading>PROVIDING FALSE INFORMATION (County Code § 6.04.140)</heading>
+        <text>It shall be unlawful for a Person to willfully and knowingly provide false or misleading information to Animal Control Program staff, including but not limited to an Animal Control Officer, peace officer, Animal Control Program Manager, and/or hearing officer regarding animal ownership, licensing, rabies vaccination, medical treatment and condition, and/or any other matter pertaining to the enforcement of state or local law.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>21</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.150">Section 8.02.150 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.150"/>
+        <num>8.02.150</num>
+        <heading>ADMINISTRATIVE HEARING PROCEDURES (County Code § 6.04.150).</heading>
+        <para>
+          <num>(a)</num>
+          <text>Administrative hearings held under <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite> shall be conducted by a hearing officer or designated representative appointed by the Director or any designee of the County Health Department. The City contracts with the County for animal control services and may elect to utilize the services of any the County designated hearing officer to conduct hearings on behalf of the City pursuant to <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>. The hearings shall be scheduled no less than seven (7) calendar days and no more than fifteen (15) calendar days from the receipt of the request for the hearing unless the hearing officer finds good cause for continuance.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Animal Control Officer or peace officer conducting the investigation shall provide their investigation report and any evidence gathered by the officer to the Animal Control Program Manager or designee no less than 72 hours prior to said administrative hearing. The Animal Control Program Manager or designee will promptly provide the report to the parties to the case, including the Owner of the subject dog and the Owner of the victim dog.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The administrative hearing shall be conducted in an informal manner consistent with due process of law. Any party may be represented by counsel. The parties may present relevant evidence including witnesses. The strict rules of evidence shall not be applicable. Any relevant evidence, including but not limited to hearsay evidence, may be admitted if it is the sort of evidence on which reasonable Persons are accustomed to rely on in the conduct of serious affairs. The hearing officer shall decide the matter based on preponderance of the evidence presented at the hearing. The administrative hearing shall be recorded, and all documentary evidence submitted at the administrative hearing shall be preserved by the Animal Control Program Manager for a period of no less than two years. Any party may arrange for a court reporter to be present. Any party desiring the presence of a court reporter shall make all necessary arrangements and shall be responsible for payment of all costs.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The hearing officer may exclude disorderly or disruptive Persons from the hearing or make other orders as necessary to ensure the fair and orderly conduct of the administrative hearing.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Hearing Officer may decide all issues for or against the Owner(s) of the involved animal(s) even if the Owner(s) fail to appear at the hearing.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Within seven (7) calendar days of the administrative hearing, the hearing officer shall render a written decision, which shall be final for the purposes of exhaustion of administrative remedies upon the date of mailing. The Animal Control Program Manager or designee shall mail the written decision and affidavit/certificate of mailing showing the date of mailing, on behalf of the hearing officer, by first class mail, postage prepaid. The decision will be mailed to the Owner of the alleged Dangerous or Vicious Animal, the victim or Owner of the victim animal, and the investigating Animal Control Officer or peace officer.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>If the animal is designated Dangerous, the Owner must apply for and obtain a Dangerous Animal permit as provided by <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> within seven (7) calendar days of the decision letter in order to maintain the animal and the Owner must comply with all mandatory Dangerous Animal permit rules and regulations as defined in <cite doc="City of San Mateo, Cal., Code" path="8.02.120">section 8.02.120</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>. A hearing officer may impose additional permit requirements as set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>If the animal is designated Vicious, the Owner of such animal shall lose all rights of ownership and control of the animal, and the animal will be subject to humane euthanasia, unless another disposition is deemed appropriate by a City and/or County designee, without further notice to the Owner. An animal designated as Vicious will be held at the animal shelter for a minimum of seven (7) calendar days from the date of the hearing officer's decision, prior to any proposed euthanasia.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Unless the hearing officer for good cause otherwise determines, the party requesting the administrative hearing is liable for all costs related to such hearing. A determination by the hearing officer that the animal is not Dangerous or Vicious shall constitute good cause.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Hearing officer decisions are appealable to the San Mateo County Superior Court by filing a Petition for Writ of Administrative Mandate pursuant to California Code of Civil Procedure, Sections 1094.5 and 1094.6.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>The procedures and/or definitions pertaining to potentially Dangerous and Vicious dogs set forth in the <cite doc="Cal. Food &amp; Agric. Code">California Food and Agricultural Code</cite> Chapter 9, beginning with section 31601, are not adopted and do not apply within the County, as provided in the San Mateo County Ordinance Code. As authorized by <cite doc="Cal. Food &amp; Agric. Code" path="§31683">Food and Agricultural Code section 31683</cite>, the County has adopted its own program for regulation of Dangerous and Vicious dogs as contained in <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>22</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.160">Section 8.02.160 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.160"/>
+        <num>8.02.160</num>
+        <heading>ANIMALS TO BE IMPOUNDED (County Code § 6.04.160).</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Animal Control Program may impound any animal kept or found under conditions that constitute a violation of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> or other state or local law. The animal's Owner shall be responsible for all costs incurred or fees applicable with respect to such impoundment and maintenance in the shelter.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>An Animal Control Officer or peace officer may impound or cause to be impounded an animal when there is reasonable cause to believe that such animal posed, or poses, a threat to the public's health and safety, or the health and safety of another animal. The animal may remain impounded for a period not to exceed fifteen (15) calendar days in order to investigate, and to determine whether or not said animal is Dangerous or Vicious as defined by <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>. In calculating the fifteen (15) calendar days, the first day of impoundment is not included. If an animal is not impounded within fifteen (15) calendar days after an investigation began, the Animal Control Officer or peace officer shall make a determination whether or not the animal is Vicious or Dangerous and shall notify the Owner of said animal as soon as reasonably practical thereafter.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Within twenty-four (24) hours of the impoundment of any animal, the impounding Animal Control Officer shall serve the Owner of the animal with notice of the impoundment.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No impounded animal may be redeemed unless and until any required license fee and/or other applicable charges and fees have been paid. In the event such animal is not redeemed within the time set forth by State law, it shall be deemed abandoned and may be adopted, transferred to a rescue, or disposed of in the manner determined by the Animal Control Program. The Animal Control Program shall issue to the Owner or Person responsible of the care, custody, and control of said animal a receipt showing an itemized description and the amount of the fee(s) paid.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Animal Control Program shall keep a record of all animals impounded, which record shall include a description of the animal, the date of its receipt, the date and manner of disposal, the name of the Person redeeming, adopting, or purchasing, the fees, and/or charges related to the animal. Said records shall be kept for a period of seven (7) years.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>23</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.170">Section 8.02.170 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.170"/>
+        <num>8.02.170</num>
+        <heading>STRAY ANIMALS (County Code § 6.04.170).</heading>
+        <text>Any Person who finds or picks up a stray or lost animal shall report the same to the Animal Control Shelter within twenty-four hours thereafter and shall release such animal to the Animal Control Shelter upon demand.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>24</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.180">Section 8.02.180 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.180"/>
+        <num>8.02.180</num>
+        <heading>EPIDEMICS (County Code § 6.04.180)</heading>
+        <text>The County Health Officer may determine and declare that rabies or other contagious diseases are epidemic or that other health and safety hazards exist among dogs or other animals within the County. Upon the making of such a declaration, the Health Officer shall prepare and promulgate such orders, rules, and regulations as are necessary for appropriate control of all the animals concerned within the County. Said rules and regulations of the Health Officer may include, but are not limited to, impoundment, quarantine, vaccination, or destruction. It shall be the duty of the Animal Control Officers to assist the Health Officer in carrying out such rules and regulations.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>25</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.190">Section 8.02.190 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="|8.02" after="|8.02.180" />
+        <num>8.02.190</num>
+        <heading>BITE REPORTING REQUIREMENTS (County Code § 6.04.190).</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any Owner or other Person who is responsible for the care, custody, or control of an animal that bites a human or other animal shall provide their name and current residence address and telephone number and shall present their driver's license or other form of identification and any information regarding any rabies vaccination for the biting animal to the Person bitten or the Owner of the animal bitten. If the Person bitten is a minor, the Owner or Person in control of the biting animal shall provide the required information to the parent or guardian of the minor.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>In addition to the above requirements, it shall be the duty of any Person having knowledge of any animal which has bitten a human being or other animal within the County to immediately, in no case later than the end of the next calendar day, report the bite to an Animal Control Officer or peace officer and to furnish as much information as possible, including date, time and location of bite, description of animal or Person bitten, name and license number of the biting animal, and rabies vaccination history of the biting animal.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>26</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.200">Section 8.02.200 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.200"/>
+        <num>8.02.200</num>
+        <heading>ADMINISTRATIVE CITATIONS (County Code § 6.04.200).</heading>
+        <para>
+          <num>(a)</num>
+          <text>Should an Animal Control Officer, Humane Officer or peace officer determine that a Person has violated any provision <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>, that enforcement officer shall have authority to issue and serve notice of an administrative citation as set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.260">section 8.02.260</cite>, to the Person violating the Chapter.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Each administrative citation shall contain the following information:</text>
+          <para>
+            <num>(1)</num>
+            <text>The name and address of the Owner or other Person to be cited.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The date(s) of the violation.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The address or a specific description of the location where the violation occurred.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The section, subsection, and/or provision of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> violated by the Person cited and a description of that violation.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>A prohibition of the continuation or repetition of the violation described in the administrative citation.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>If applicable a description of the potential consequence(s) should the violation continue or be repeated.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Either:</text>
+            <para>
+              <num>(A)</num>
+              <text>The amount of the administrative fine charged and to be paid by the Person cited as a result of the violation; or</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>A notice to correct a certain violation within a reasonable time, and the amount of an administrative fine that may occur if the violation is not corrected or remedied by the date specified.</text>
+            </para>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>A description of the procedure to pay the fine, to include the time period for and place of payment, and the process by which the County may collect any unpaid amount owed.</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text>A description of the administrative citation review process, including the time within which the administrative citation may be appealed and how to appeal the administrative citation, including any form to do so.</text>
+          </para>
+          <para>
+            <num>(10)</num>
+            <text>The name and signature of the citing Animal Control Officer, Humane Officer or peace officer or County designee.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>An administrative citation may be any format, including letter, which conveys the information set forth above.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>27</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.210">Section 8.02.210 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.210"/>
+        <num>8.02.210</num>
+        <heading>APPEAL OF ADMINISTRATIVE CITATION (County Code § 6.04.210).</heading>
+        <para>
+          <num>(a)</num>
+          <text>A recipient of an administrative citation may contest the citation including, but not limited to, on the basis that the underlying violation did not occur, or that recipient is not the party responsible for the violation and thus was the improper recipient of the administrative citation. The recipient must contest the citation on the form provided by the Animal Program Manager or Animal Control Officer and file the appeal with the Animal Control Program Manager within twelve (12) calendar days from the date of service of the administrative citation. Any appeal not timely filed will be rejected.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The appeal shall contain the following provided by the Person appealing the citation:</text>
+          <para>
+            <num>(1)</num>
+            <text>The name, mailing address, and telephone number of the party requesting the appeal;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>A copy of the administrative citation or a reference number thereto;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>A statement of the grounds for the contest, including a description of the evidence to be presented in support of the contest and copies of any statements or documents to be submitted at the hearing in support of the appeal.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The signature of the appealing party;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>A deposit of the fine assessed as set forth in the citation(s), to be refunded if the appeal is successful.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Should an appeal be properly and timely requested, the requesting party shall be provided a hearing before a hearing officer to be held pursuant to the procedures set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.150">section 8.02.150</cite> as applicable. The Animal Control Program shall notify the Person requesting the appeal hearing of the time and place set for the hearing pursuant to <cite doc="City of San Mateo, Cal., Code" path="8.02.260">section 8.02.260</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>28</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.220">Section 8.02.220 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.220"/>
+        <num>8.02.220</num>
+        <heading>PAYMENT OF ADMINISTRATIVE FINES (County Code § 6.04.220).</heading>
+        <para>
+          <num>(a)</num>
+          <text>In the absence of an appeal by the recipient of the administrative citation, the Person cited shall pay the administrative fine in full within thirty (30) calendar days from the date of service of the notice of citation. In the event of an appeal, after which the violation is upheld, if not already paid, the fine shall be paid in full within ten (10) calendar days after the date that the decision of the hearing officer was served on the recipient.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Payment of any fine shall not excuse the failure to correct the violation, nor shall it bar further enforcement of the same or any similar violation or any other violation by any applicable means.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Failure to pay any fines assessed within the guidelines set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> will result in a late charge pursuant to <cite doc="City of San Mateo, Cal., Code" path="8.02.230">section 8.02.230</cite>, which will be collected by the Animal Control Program Manager.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>29</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.230">Section 8.02.230 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.230"/>
+        <num>8.02.230</num>
+        <heading>AMOUNT OF ADMINISTRATIVE FINES (County Code § 6.04.230).</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any Person issued an administrative citation for a violation of, and pursuant to, <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> shall be assessed and pay a fine as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>One hundred dollars ($100) for a first citation.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Two hundred dollars ($200) for a second citation for the same violation within a one-year period.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Five hundred ($500) for each additional citation for the same violation within a one-year period.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>30</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.240">Section 8.02.240 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.240"/>
+        <num>8.02.240</num>
+        <heading>MISDEMEANOR VIOLATIONS (County Code § 6.04.240).</heading>
+        <para>
+          <num>(a)</num>
+          <text>A Person violating any provision of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite> shall be guilty of an infraction except as otherwise specifically provided.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A Person violating any provision of <cite doc="City of San Mateo, Cal., Code" path="8.02.050">section 8.02.050</cite>, subsection (a) of <cite doc="City of San Mateo, Cal., Code" path="8.02.090">section 8.02.090</cite> or subsection (a) of <cite doc="City of San Mateo, Cal., Code" path="8.04.130">section 8.04.130</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite> shall be guilty of a misdemeanor.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>This section shall not limit any other available criminal, civil or administrative remedies. Any or all applicable remedies shall remain available for violation of the provisions of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>31</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.250">Section 8.02.250 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.250"/>
+        <num>8.02.250</num>
+        <heading>VIOLATION OF CHAPTER A PUBLIC NUISANCE; REMEDIES CUMULATIVE (County Code § 6.04.250).</heading>
+        <para>
+          <num>(a)</num>
+          <text>Violation of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> is a public nuisance subject to any and all applicable civil, administrative, and criminal remedies, according to the provisions and procedures set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> and other applicable state and local law.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>This section is not intended to limit any other available criminal, civil or administrative remedies. Any or all applicable administrative, civil and /or criminal remedies shall be available for violation of the provisions of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Each day a violation continues shall constitute a separate violation.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>32</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.260">Section 8.02.260 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.260"/>
+        <num>8.02.260</num>
+        <heading>SERVICE OF DOCUMENTS AND NOTICES (County Code § 6.04.260).</heading>
+        <para>
+          <num>(a)</num>
+          <text>Unless otherwise specified herein, the appropriate representative of the Animal Control Program shall provide any required notice or service of documents in the one of the following manners: (1) by personal delivery to the Person to be notified or served; or (2) by posting on the property at the address where the subject animal is licensed or the Owner of such animal resides; or (3) by depositing in the United States Mail, in a sealed envelope, first class postage prepaid, and addressed to such Person to be notified or served at their last-known business or residence address or as the same appears in the last equalized County assessment roll. Service by mail shall be deemed complete at the time of deposit in the United States Mail receptacle and shall include a declaration or affidavit of service which shall include notice of the date mailed. If agreed in writing by the Person to be served, notices or documents may be served electronically at the address provided by the Person to be served, to be effective upon being sent.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Failure to receive any notice specified herein does not affect the validity of proceedings conducted hereunder.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>33</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.270">Section 8.02.270 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.270"/>
+        <num>8.02.270</num>
+        <heading>FIELD RETURN FEE (County Code § 6.04.270).</heading>
+        <text>A fee shall be charged for any animal impounded by a representative of the Animal Control Program and returned by an Animal Control Officer in the field to the Owner or Person who is responsible for the care, custody, or control of the animal. The fee charged shall be paid by the Owner or Person who is responsible for the care, custody, or control of said animal. Such fee shall be set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>34</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.280">Section 8.02.280 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.280"/>
+        <num>8.02.280</num>
+        <heading>REDEMPTION AND SPAY/NEUTER FEE (County Code § 6.04.860).</heading>
+        <para>
+          <num>(a)</num>
+          <text>Upon redemption of any impounded unaltered animal, the Person responsible for the care, custody or control of any animal will be required to pay a spay or neuter fee in the amount of $100.00 in addition to the impound fees imposed under <cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>. Such fee shall be refundable upon proof of spay and neuter of the animal within thirty (30) calendar days following the date of redemption.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any unaltered animal impounded twice or more within a three-year period shall be altered at a cost to be paid by the Owner/Caretaker or Person responsible for the care, custody, or control of said animal prior to redemption. At the option of the Owner/Caretaker or Person responsible for the care, custody or control of said animal, required spaying or neutering may be performed by a private veterinarian within thirty (30) calendar days.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any Owner or Caretaker of an impounded animal subject to mandatory spay/neuter under Subsection (b) of this Section may appeal this requirement by submitting a written request for an administrative hearing to the Animal Control Program Manager. The administrative hearing will be conducted according to the provisions of <cite doc="City of San Mateo, Cal., Code" path="8.02.150">Section 8.02.150</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Animal Control Program Manager may waive any County or City fee for County or City spay/neuter, vaccination or impoundment of an animal, if the animal is a feral or stray cat and the Person bringing the animal to the shelter agrees that the Person shall have no rights in the animal or any right to direct or control treatment or disposition of the animal by the Animal Control Program which will retain sole discretion in determining the disposition of the animal, which may include but not be limited to treatment and/or adoption, or euthanasia.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>35</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.290">Section 8.02.290 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|8.02.290"/>
+        <num>8.02.290</num>
+        <heading>QUARANTINE FEE (County Code § 6.04.290).</heading>
+        <text>A quarantine fee, as set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350</cite>, shall be paid by the Owner or Caretaker of any animal involved, or potentially involved in a bite. Such quarantine fee is in addition to any other fees charged set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> to recover costs incurred by the Animal Control Program for sheltering and caring for the quarantined animal.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>36</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.300">Section 8.02.300 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.300"/>
+  </section>
+  <section>
+    <num>37</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.310">Section 8.02.310 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.310"/>
+  </section>
+  <section>
+    <num>38</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.320">Section 8.02.320 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.320"/>
+  </section>
+  <section>
+    <num>39</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.330">Section 8.02.330 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.330"/>
+  </section>
+  <section>
+    <num>40</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="|8.02" after="|8.02.290"/>
+        <num>8.02.350</num>
+        <heading>SCHEDULE OF FEES AND CHARGES (County Code § 6.04.350).</heading>
+        <text>Animal Control Program fees and charges established by this Code shall be as adopted and from time to time amended by the County and set forth in <cite doc="City of San Mateo, Cal., Code" path="6.04.350">Section 6.04.350</cite> of the <cite doc="San Mateo County, Cal., Ordinance Code">County Code</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>41</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.370">Section 8.02.370 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="|8.02" after="|8.02.350"/>
+        <num>8.02.370</num>
+        <heading>SEVERABILITY (County Code § 6.04.370).</heading>
+        <text>If any section, subsection, sentence, clause, phrase or word of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite> should be held to be invalid or unconstitutional by a court of competent jurisdiction, such invalidity or unconstitutionality thereof shall not affect the validity or constitutionality of any other section, subsection, clause, phrase or word of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>42</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.400">Section 8.02.400 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.400"/>
+  </section>
+  <section>
+    <num>43</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.420">Section 8.02.420 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.420"/>
+  </section>
+  <section>
+    <num>44</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.430">Section 8.02.430 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.430"/>
+  </section>
+  <section>
+    <num>45</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.440">Section 8.02.440 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.440"/>
+  </section>
+  <section>
+    <num>46</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.450">Section 8.02.450 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.450"/>
+  </section>
+  <section>
+    <num>47</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.460">Section 8.02.460 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.460"/>
+  </section>
+  <section>
+    <num>48</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.470">Section 8.02.470 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.470"/>
+  </section>
+  <section>
+    <num>49</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.480">Section 8.02.480 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.480"/>
+  </section>
+  <section>
+    <num>50</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.490">Section 8.02.490 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="|8.02.490"/>
+  </section>
+  <section>
+    <num>51</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 21065, this action is not a project subject to CEQA, because it can be seen with certainty that it will not cause a physical change in the environment.</text>
+  </section>
+  <section>
+    <num>52</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>53</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on February 5, 2024, and adopted on February 20, 2024, and shall be effective 30 days after its adoption.</text>
+  </section>
+</document>
