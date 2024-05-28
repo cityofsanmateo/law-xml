@@ -1,0 +1,114 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2024-3">
+  <num>2024-3</num>
+  <heading type="short">Council Member Compensation</heading>
+  <heading type="long">Adding Section 2.03.020 "City Council Compensation" to the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2024-06-19</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-3.pdf">Ord. No. 2024-3</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2024-3</citation>
+    </citations>
+    <history>
+      <introduced>2024-05-06</introduced>
+      <adopted>2024-05-20</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on November 5, 2002, the voters approved Measure F, which amended San Mateo <cite doc="City of San Mateo, Cal., Charter" path="2.03">City Charter section 2.03</cite> by increasing the monthly compensation for members of the City Council from $300 per month to $600 per month and by further providing that compensation may be adjusted in the manner authorized by state law for general law cities with the same population as San Mateo; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code" path="§36516">Government Code section 36516</cite>, as amended by Senate Bill 329 (2023) effective January 1, 2024, specifies the maximum amount of salary that may be approved by an ordinance passed by the City Council, based upon the population of the City; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the same state law authorizes salaries up to and including one thousand nine hundred dollars ($1,900) per month in cities with a population of over 75,000 up to and including 150,000; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo has a population of approximately 105,000; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code" path="§36516">Government Code section 36516</cite> also authorizes salary increases beyond the amounts therein specified, in an amount equal to five percent (5%) for each calendar year from the operative date of the last salary adjustment; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>more than twenty-one years have passed since the last compensation increase.  Applying a salary increase of 5% per year since the last adjustment in 2002 would have resulted in a current monthly salary of one thousand two hundred and thirty dollars ($1,230); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council finds that the City Council salary has not kept pace with inflation and adjusting its salary to that provided by state law may help the city council to become more diverse because increased compensation can help individuals from across different income levels receive sufficient income from their service to help ensure that they can continue to serve the public and support their families; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council further finds that the time spent by councilmembers has increased, and those who are employed potentially have their earnings adversely affected; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City would benefit from a diverse candidate pool in future elections from differing demographic backgrounds and geographic areas of the City.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>The recitals set forth above are incorporated herein by reference as findings of the City Council pursuant to <cite doc="Cal. Gov't Code" path="§36516|(g)|(2)">Government Code section 36516(g)(2)</cite>.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.03.020">Section 2.03.020 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="2.03">Chapter 2.03</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="2.03"/>
+        <num>2.03.020</num>
+        <heading>City Council Compensation</heading>
+        <text>Effective January 6, 2025, council members shall receive a monthly salary of one thousand two hundred dollars ($1,200) per month in accordance with <cite doc="City of San Mateo, Cal., Charter" path="2.03">City Charter section 2.03</cite> and <cite doc="Cal. Gov't Code" path="§36516">Government Code section 36516</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Environmental Determination.</heading>
+    <text>Adoption of this ordinance does not qualify as a "project" pursuant to the California Environmental Quality Act ("CEQA"), because it is an organizational or administrative activity that will not result in direct or indirect physical changes in the environment, and because it is a fiscal activity that does not involve any commitment to any specific project that may result in a potentially significant physical impact on the environment. (CEQA Guidelines Section 15378(b)(4),(5).)</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on May 6, 2024, and adopted on May 20, 2024, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Newsom, Loraine, Hedges and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
