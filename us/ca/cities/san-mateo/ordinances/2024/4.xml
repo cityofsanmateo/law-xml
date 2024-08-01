@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2024-4" codify:doc="City of San Mateo, Cal., Code" codify:path="27">
+  <num>2024-4</num>
+  <heading type="short">By-Right Housing Opportunity Overlay District</heading>
+  <heading type="long">Adding Chapter 27.94, Housing (H) Opportunities Overlay District, to Title 27, Zoning, of the San Mateo Municipal Code and Amending the Zoning Map of the City of San Mateo to Establish the Housing Opportunities Overlay District (H)</heading>
+  <meta>
+    <effective>2024-08-14</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-4.pdf">Ord. No. 2024-4</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2024-4</citation>
+    </citations>
+    <history>
+      <introduced>2024-06-17</introduced>
+      <adopted>2024-07-15</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the State Housing Element Law (<cite doc="Cal. Gov't Code" path="§65580">Government Code Section 65580</cite> et seq.) requires that the City Council adopt a Housing Element for the eight-year period of 2023-2031 to accommodate the City of San Mateo ("City") regional housing need allocation (RHNA) of 7,015 housing units; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on May 20, 2024, the City Council adopted a resolution to adopt the revised Housing Element of the General Plan for the period of 2023-2031 (Housing Element); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code" path="§65583.2|(c)">Government Code Section 65583.2(c)</cite> requires nonvacant sites identified in a prior housing element and vacant sites that have been included in two or more consecutive planning periods that were not approved to develop a portion of the City's assigned RHNA to be rezoned to allow for residential use by-right for housing developments in which at least 20 percent of the units are affordable to lower income households; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Cal. Gov't Code" path="§65583.2|(c)">Government Code Section 65583.2(c)</cite>, Policy H 1.10 of the 2023-2031 Housing Element requires amending the Zoning Code to establish a by-right zoning designation for housing sites reused from prior Housing Elements for housing projects that propose a minimum of 20 percent affordable units for lower income households and allows a minimum of 30 dwelling units per acre; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Housing Element has identified sites that can accommodate sufficient housing units to meet the City's RHNA plus a buffer, and includes 35 nonvacant sites that were identified in the prior housing element and five (5) vacant sites that have been included in two or more consecutive planning periods and were not approved for development; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the zoning designation for by-right residential uses allowing 30 dwelling units per acre is within the density limits of the land use designations of the San Mateo General Plan 2040; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Environmental Impact Report (EIR) for the San Mateo General Plan 2040 analyzed new residential development of up to 19,764 new housing units and growth around the City through 2040; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 18, 2024, at a duly noticed public hearing, the City Council certified the EIR for the San Mateo General Plan 2040, pursuant to the California Environmental Quality Act of 1970, together with related State implementation guidelines promulgated thereunder (CEQA); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on May 28, 2024, the Planning Commission held a duly noticed public hearing, received all written and oral public comments, and recommended that the City Council approve the proposed ordinance establishing the Housing Opportunity Overlay District (H) and amending the zoning map to reclassify parcels on housing sites used in previous Housing Elements with the Housing Opportunity Overlay District (H).</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <heading>Legislative Findings.</heading>
+    <text>At a duly noticed public hearing on June 17, 2024, the City Council of the City of San Mateo reviewed and considered the accompanying staff report and attachments thereto, the exemption from environmental review, together with comments received during the public review process, and hereby finds and determines that the proposed ordinance is consistent with the adopted General Plan in that it supports the development of housing and achieves the General Plan's stated goals and policies.</text>
+  </section>
+  <codify:insert>
+    <container>
+      <prefix>Chapter</prefix>
+      <num>27.94</num>
+      <heading>Housing Opportunities Overlay District (H)</heading>
+    </container>
+  </codify:insert>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.94">Chapter 27.94</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27">Title 27 of the San Mateo Municipal Code</cite> as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.94">Chapter 27.94</cite> Housing Opportunities Overlay District (H)</text>
+    <include>
+      <section>
+        <codify:insert path="27.94"/>
+        <num>27.94.005</num>
+        <heading>Purpose</heading>
+        <text>The purpose of the Housing Opportunities Overlay District (H) is to establish by-right residential uses on sites identiﬁed to accommodate a portion of the housing need for lower income housing in the General Plan Housing Element, pursuant to <cite doc="Cal. Gov't Code">Government Code</cite> Sections 65583.2(c) and (i). <cite doc="City of San Mateo, Cal., Code" path="27.94">This chapter</cite> establishes minimum development requirements and procedures for reviewing and approval of the by-right residential development uses.</text>
+      </section>
+      <section>
+        <codify:insert path="27.94"/>
+        <num>27.94.010</num>
+        <heading>By-Right Residential Use Eligibility</heading>
+        <text>The following housing development projects are eligible for by-right approval. Housing development projects that are ineligible for by-right approval shall be subject to the requirements for residential development in the underlying zoning district.</text>
+        <para>
+          <num>(a)</num>
+          <text>Pursuant to <cite doc="Cal. Gov't Code" path="§65583.2|(c)">Government Code Section 65583.2(c)</cite> and (h), housing development projects in which at least 20 percent of the units proposed are affordable to lower income households, as defined in <cite doc="Cal. Health &amp; Safety Code" path="§50079.5">Health and Safety Code Section 50079.5</cite>, and is a household whose income is equal to or less than eighty percent of the area median income, as published by the California Department of Housing and Community Development. The housing development project shall be allowed at the density allowed in the underlying zoning district and shall be allowed a minimum density of at least 30 dwelling units per acre. A "housing development project" shall have the same meaning as defined in <cite doc="Cal. Gov't Code" path="§65589.5|(h)|(2)">Government Code Section 65589.5(h)(2)</cite>.</text>
+        </para>
+      </section>
+      <section>
+        <codify:insert path="27.94"/>
+        <num>27.94.020</num>
+        <heading>By-Right Residential Use Requirements</heading>
+        <para>
+          <num>(a)</num>
+          <text>Site plan and architectural review approval is required under <cite doc="City of San Mateo, Cal., Code" path="27.08">Chapter 27.08</cite>, Rules of Procedure. The Zoning Administrator shall be the approval authority for projects proposed pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.94">this chapter</cite> that comply with the City's Municipal Code and Objective Design Standards. The Zoning Administrator shall not exercise any discretion in the review process for such projects and their decision shall be final.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The site plan and architectural review shall not constitute a "project" for the purposes of Division 13 (commencing with Section 21000) of the <cite doc="Cal. Pub. Res. Code">Public Resources Code</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any subdivision of the site shall be subject to all laws, including, but not limited to <cite doc="City of San Mateo, Cal., Code" path="26">Title 26</cite> of the City of San Mateo Municipal Code (Subdivisions).</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Notwithstanding <cite doc="City of San Mateo, Cal., Code" path="27.94.010">Section 27.94.010</cite>, the following objective development standards shall apply to housing development projects built pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.94">this chapter</cite>:</text>
+          <para>
+            <num>(1)</num>
+            <text>Development standards set forth in the underlying zoning district.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For a project within another overlay district, the development standards of the overlay district.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>For development projects within an E2 Zoning District without an overlay district, the R4 development standards.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>For development projects within a Specific Plan or within the TOD zoning district, the applicable development standards of the Specific Plan or TOD zoning district.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Objective Design Standards for multi-family and residential mixed-use projects as adopted by City Council resolution.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Applicable standard conditions of approval.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines Section 15183, the zoning amendment to establish a by-right residential overlay district and reclassify parcels with the overlay district ("project") is exempt from further environmental review because the Project is consistent with the land use designation for the sites adopted as part of the General Plan 2040 for which an Environmental Impact Report (EIR) was certified by the City Council on March 18, 2024 and the allowed residential development density is also consistent with the development density established by zoning or general plan policies. There are no project specific effects that are peculiar to the project or the sites; there are no project specific impacts that the General Plan Update EIR failed to analyze as significant effects; there are no potentially significant off-site and cumulative impacts that the general plan EIR failed to evaluate; and there is no substantial new information which results in more severe impacts than anticipated by the general plan EIR, all as further explained in the CEQA memorandum attached to the staff report. Furthermore, any future development of the sites pursuant to these code amendments would not constitute a "project" for purposes of Division 13 (commencing with Section 21000) of the <cite doc="Cal. Pub. Res. Code">Public Resources Code</cite> pursuant to <cite doc="Cal. Gov't Code" path="§65583.2|(i)">Government Code Section 65583.2(i)</cite>.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Zoning Map.</heading>
+    <text>The Zoning Map of the City of San Mateo is hereby amended to add the Housing Opportunities Overlay District (H) on the 39 properties listed in Exhibit A and depicted in Exhibit B, attached hereto and incorporated by reference. The Zoning Map shall be amended to reflect this amendment.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Legislative History And Effective Date.</heading>
+    <text>This ordinance was introduced on June 17, 2024, and adopted on July 15, 2024, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Diaz Nash, Newsom, Loraine, Hedges and Lee NOES:	 None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None ATTEST:</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+  <attachment id="Ex. " proof="needed">
+    <text class="center">
+      <strong>
+        <u>EXHIBIT A</u>
+      </strong>
+    </text>
+    <text>
+      <table>
+        <tbody>
+          <tr>
+            <td>Site Address</td>
+            <td>Assessor Parcel Number</td>
+            <td>Current Zoning Designation</td>
+            <td>Amended Zoning Designation</td>
+          </tr>
+          <tr>
+            <td>4 WSanta Inez Ave</td>
+            <td>032-075-010</td>
+            <td>R4</td>
+            <td>R4/H</td>
+          </tr>
+          <tr>
+            <td>1 Engle Rd</td>
+            <td>032-075-100</td>
+            <td>R4</td>
+            <td>R4/H</td>
+          </tr>
+          <tr>
+            <td>121 N San Mateo Dr</td>
+            <td>032-292-070</td>
+            <td>E2-1.5</td>
+            <td>E2-1.5/H</td>
+          </tr>
+          <tr>
+            <td>117 N San Mateo Dr</td>
+            <td>032-292-080</td>
+            <td>E2-1.5</td>
+            <td>E2-1.5/H</td>
+          </tr>
+          <tr>
+            <td>5 N San Mateo Dr</td>
+            <td>032-312-250</td>
+            <td>E2-0.5/R5</td>
+            <td>E2-0.5/R5/H</td>
+          </tr>
+          <tr>
+            <td>402 Tilton Ave</td>
+            <td>032-331-010</td>
+            <td>R3</td>
+            <td>R3/H</td>
+          </tr>
+          <tr>
+            <td>406 Tilton Ave</td>
+            <td>032-331-020</td>
+            <td>R3</td>
+            <td>R3/H</td>
+          </tr>
+          <tr>
+            <td>20 N Railroad</td>
+            <td>032-331-150</td>
+            <td>R3</td>
+            <td>R3/H</td>
+          </tr>
+          <tr>
+            <td>131 N Kingston</td>
+            <td>033-171-060</td>
+            <td>R4</td>
+            <td>R4/H</td>
+          </tr>
+          <tr>
+            <td>1218 Monte Diablo</td>
+            <td>033-171-180</td>
+            <td>R4</td>
+            <td>R4/H</td>
+          </tr>
+          <tr>
+            <td>E 5th Ave/San Mateo Dr</td>
+            <td>034-144-240</td>
+            <td>CBD/R</td>
+            <td>CBD/R/H</td>
+          </tr>
+          <tr>
+            <td>480 E 4th Ave</td>
+            <td>034-183-060</td>
+            <td>CBD/S</td>
+            <td>CBD/S/H</td>
+          </tr>
+          <tr>
+            <td>1620 S Delaware St</td>
+            <td>035-200-070</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>1731 Leslie St</td>
+            <td>035-215-060</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>1741 Leslie St</td>
+            <td>035-221-010</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>1753 Leslie St</td>
+            <td>035-221-020</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>678 Concar Dr</td>
+            <td>035-242-090</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>666 Concar Dr</td>
+            <td>035-242-140</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>1855 S Delaware St</td>
+            <td>035-242-160</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>1880 S Grant St</td>
+            <td>035-242-170</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>690 Concar Dr</td>
+            <td>035-242-190</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>1820 S Grant St</td>
+            <td>035-242-200</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>640 Concar Dr</td>
+            <td>035-242-210</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>Concar Dr/S Delaware St</td>
+            <td>035-242-220</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>229 W20th Ave</td>
+            <td>039-052-350</td>
+            <td>R3</td>
+            <td>R3/H</td>
+          </tr>
+          <tr>
+            <td>205 W20th Ave</td>
+            <td>039-060-010</td>
+            <td>E1-1/R4</td>
+            <td>E1-1/R4/H</td>
+          </tr>
+          <tr>
+            <td>2050 Pioneer Ct</td>
+            <td>039-060-060</td>
+            <td>E1-1/R4</td>
+            <td>E1-1/R4/H</td>
+          </tr>
+          <tr>
+            <td>2070 Pioneer Ct</td>
+            <td>039-060-070</td>
+            <td>E1-1/R4</td>
+            <td>E1-1/R4/H</td>
+          </tr>
+          <tr>
+            <td>2055 Pioneer Ct</td>
+            <td>039-060-090</td>
+            <td>E1-1/R4</td>
+            <td>E1-1/R4/H</td>
+          </tr>
+          <tr>
+            <td>2745 S El Camino Real</td>
+            <td>039-351-070</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>2825 S El Camino Real</td>
+            <td>039-351-110</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>2833 S El Camino Real</td>
+            <td>039-351-120</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>2837 S El Camino Real</td>
+            <td>039-351-130</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>2841 S El Camino Real</td>
+            <td>039-351-999</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>3111 S El Camino Real</td>
+            <td>039-360-070</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+          <tr>
+            <td>3101 S El Camino Real</td>
+            <td>039-360-160</td>
+            <td>TOD</td>
+            <td>TOD/H</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+    <text>
+      <table>
+        <tbody>
+          <tr>
+            <td>Site Address</td>
+            <td>Assessor Parcel Number</td>
+            <td>Current Zoning Designation</td>
+            <td>Amended Zoning Designation</td>
+          </tr>
+          <tr>
+            <td>3069 WKyne St (BMSP - RES 6)</td>
+            <td>040-031-040</td>
+            <td>BMSP</td>
+            <td>BMSP/H</td>
+          </tr>
+          <tr>
+            <td>36th Ave/Colegrove St</td>
+            <td>042-121-060</td>
+            <td>C3-1/R4</td>
+            <td>C3-1/R4/H</td>
+          </tr>
+          <tr>
+            <td>4300 S El Camino Real</td>
+            <td>042-245-120</td>
+            <td>C1-1.5/R4</td>
+            <td>C1-1.5/R4/H</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </attachment>
+</document>
