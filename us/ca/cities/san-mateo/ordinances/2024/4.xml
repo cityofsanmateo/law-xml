@@ -167,14 +167,19 @@
       <table>
         <tr>
           <th>AYES</th>
-          <td>Council Members Diaz Nash, Newsom, Loraine, Hedges and Lee NOES:	 None</td>
+          <td>Council Members Diaz Nash, Newsom, Loraine, Hedges and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
         </tr>
         <tr>
           <th>ABSENT</th>
-          <td>None ATTEST:</td>
+          <td>None</td>
         </tr>
       </table>
     </text>
+    <text>ATTEST:</text>
   </procedural-data>
   <attachment id="Ex. " proof="needed">
     <text class="center">
