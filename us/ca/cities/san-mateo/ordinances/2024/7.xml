@@ -1,0 +1,114 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2024-7" codify:doc="City of San Mateo, Cal., Code">
+  <num>2024-7</num>
+  <heading type="short">Community Relations Commission Amendment</heading>
+  <heading type="long">AMENDING SAN MATEO MUNICIPAL CODE CHAPTER 2.21 REGARDING THE COMMUNITY RELATIONS COMMISSION</heading>
+  <meta>
+    <effective>2024-10-03</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-7.pdf">Ord. No. 2024-7</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2024-7</citation>
+    </citations>
+    <history>
+      <introduced>2024-08-19</introduced>
+      <adopted>2024-09-03</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council recognizes the need to sustain diversity, equity, and inclusion (DEI) efforts; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council formally concluded the DEI Task Force at the April 1, 2024, City Council meeting; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council's approach to integrating DEI into city operations is to authorize the Community Relations Commission (CRC) to make recommendations to the City Council on DEI efforts.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.21.030">Section 2.21.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|2.21.030"/>
+        <num>2.21.030</num>
+        <heading>POWERS—DUTIES.</heading>
+        <text>The Community Relations Commission shall have the following powers and duties:</text>
+        <para>
+          <num>(a)</num>
+          <text>To conduct public hearings pursuant to <cite doc="City of San Mateo, Cal., Code" path="7.16">Chapter 7.16</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>To hear appeals for administrative citations pursuant to <cite doc="City of San Mateo, Cal., Code" path="1.10.060">Section 1.10.060</cite>, except for administrative citation appeals relating to violations of <cite doc="City of San Mateo, Cal., Code" path="7.14">Chapter 7.14</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.06">23.06</cite> through <cite doc="City of San Mateo, Cal., Code" path="23.54">23.56</cite>, <cite doc="City of San Mateo, Cal., Code" path="23.70">Chapter 23.70</cite>, and <cite doc="City of San Mateo, Cal., Code" path="23.72">Chapter 23.72</cite> of this Code.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>To study, investigate, review policies, and hold public hearings to advance the City's equity and inclusion objectives by making recommendations to the City Council.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>To provide oversight of Federal, State or other grant programs that implement public service, housing, and community development programs, and make recommendations on those programs which may be assigned to them by the Council.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>To work with organizations of similar intent formulated by public agencies having jurisdiction within the City and with the Human Relations Commission of the County. To this end, a member shall be assigned as liaison to each group and shall attend the meetings thereof and report thereon to the Commission. Any person assigned as liaison from the County Commission, or other such group, to this Community Relations Commission shall be an ex officio member but shall have no vote.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Such other powers and duties as may be prescribed from time to time by ordinance or resolution of the Council.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The Community Relations Commission shall make recommendations to the Council to address, reduce or eliminate existing inequalities and disadvantages and prepare, encourage and coordinate programs of inclusion to insure the complete utilization of the human resources of this community for the betterment of all its inhabitants.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(5), this action is not a project subject to CEQA, because it is an organizational or administrative activity that will not result in direct or indirect physical changes in the environment.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on August 19, 2024, and adopted on September 3, 2024, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Diaz Nash, Newsom, Loraine, Hedges, and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
