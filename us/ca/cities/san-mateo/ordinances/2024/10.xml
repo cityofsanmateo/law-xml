@@ -1,0 +1,268 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2024-10">
+  <num>2024-10</num>
+  <heading type="short">Measure T – General Plan Land Use Element</heading>
+  <heading type="long">AN ORDINANCE OF THE CITY OF SAN MATEO AMENDING THE CITY OF SAN MATEO GENERAL PLAN TO MODIFY POLICIES, ACTIONS AND OTHER PROVISIONS LIMITING BUILDING HEIGHTS, RESIDENTIAL DENSITIES, AND NONRESIDENTIAL BUIDLING INTENSITIES AND TO MAKE OTHER MISCELLANEOUS MODIFICATIONS</heading>
+  <meta>
+    <effective>2024-12-15</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-10.pdf">Ord. No. 2024-10</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2024-10</citation>
+    </citations>
+    <history>
+      <introduced>2024-07-15</introduced>
+      <adopted>2024-11-05</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on May 18, 2020, the City Council of the City of San Mateo adopted Resolution No. 47 (2020) for the purpose of submitting a proposed ordinance to amend the General Plan by extending for ten years the expiration date for certain voter-enacted policies limiting building heights, residential densities, and nonresidential building intensities, as specified ("Measure Y"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on November 3, 2020, the voters of the City of San Mateo approved Measure Y, which extended through 2030 certain General Plan policies enacted by Measure P in 2004, which in turn amended and extended the 1991 voter initiative Measure H; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 18, 2024, the City Council of the City of San Mateo adopted Strive San Mateo General Plan 2040, which sets forth the community's aspirations for the City through 2040, and which plans for specified growth and change in the City primarily focused within ten study areas; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under state law, any change to Measure Y is subject to voter approval; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council desires to submit a measure to the voters of San Mateo to fully allow the heights, densities and intensities permitted under General Plan 2040; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed measure would maintain the height, density, and intensity limits of Measure Y throughout the City of San Mateo, except for ten study areas where growth would remain restricted but subject to higher height, density, and intensity limits than Measure Y, as specified in General Plan 2040 approved by the City Council; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed measure would maintain the height, density, and intensity limits of Measure Y in the majority of the City of San Mateo, as identified on a map that is an exhibit to the measure and subject to voter approval; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed measure would maintain existing heights and densities on residential neighborhoods, with a focus on planning for new development in the downtown, near Caltrain stations, and along transit corridors, all as specified in General Plan 2040.</text>
+      <aftertext>NOW THEREFORE, THE PEOPLE OF THE CITY OF SAN MATEO DO ORDAIN AS FOLLOWS:</aftertext>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE,</conjunction>
+      <text>THE PEOPLE OF THE CITY OF SAN MATEO DO ORDAIN AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>The Land Use Element of the General Plan, attached hereto as Attachment 1 and incorporated by reference, is hereby approved.  The Land Use Element may be modified without voter approval through the general plan amendment process set forth in the City Charter and state law,</text>
+    <text>except that voter approval shall be required to modify the density ranges, intensity or FAR, or building heights that correspond to each designation in Table LU-1 (Land Use Designations).</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>New land use designations may be created, but no new land use designations may be authorized with density ranges, intensity or FAR, or building heights greater than those set forth in Table LU-1. The land use designation for any particular parcel in Figure LU-1 (Land Use Map) may be changed through the general plan amendment process set forth in the City Charter and state law, provided that no increase in allowed density, intensity, or FAR shall be permitted on that parcel without voter approval, except as specified in Section 5 (Specific Properties).  The Land Use Map identifying individual parcels is attached hereto as Attachment 1A and incorporated by reference.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Appendix A to the Land Use Element of the General Plan, attached hereto as Attachment 2 and incorporated by reference, is hereby approved.  Appendix A is a map that identifies those areas of the City of San Mateo that will maintain the height, density, and intensity restrictions of Measure Y, as specified.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Measure Y, attached hereto as Attachment 3 and incorporated by reference, is hereby repealed in its entirety.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <text>Specific Properties.</text>
+    <text>Notwithstanding Section 2, the land use designation for the properties listed in Table 5 may be changed without voter approval to allow a maximum of the height, density, or intensity shown in the Proposed Land Use column below, as applicable, subject to the general plan amendment review process as set forth in the City Charter and state law. The City makes no commitment to approval of the Proposed Land Uses and retains full discretion to approve or disapprove the Proposed Land Uses following completion of the environmental review process, without limitation or consideration of this section.</text>
+    <text>
+      <table>
+        <caption>Table 5 – Specific Properties</caption>
+        <thead>
+          <tr>
+            <th>Location/Address/APN</th>
+            <th>Current Land Use</th>
+            <th>Proposed Land Use</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <p>50 Mounds Road</p>
+              <p>APN:  105160999</p>
+              <p>
+                <em>(Align with density of existing multi-family use on the site)</em>
+              </p>
+            </td>
+            <td>
+              <p>Residential Low II</p>
+              <p>(2 to 4 stories, 20 to 35 du/ac)</p>
+            </td>
+            <td>
+              <p>Residential Medium I</p>
+              <p>(3 to 5 stories, 36 to 50 du/ac)</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>20 and 40 W. 3<sup>rd</sup> Ave.</p>
+              <p>APN:  107110999</p>
+              <p>
+                <em>(Align with existing 12-story building on the site)</em>
+              </p>
+            </td>
+            <td>
+              <p>Residential Medium II</p>
+              <p>(4 to 6 stories, 51 to 99 du/ac)</p>
+            </td>
+            <td>
+              <p>Residential High</p>
+              <p>(5 to 8 stories, 100 to 130 du/ac)</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>55 W. 5<sup>th</sup> Ave.</p>
+              <p>APN:  034122420</p>
+              <p>
+                <em>(Align with existing 16-story building on the site)</em>
+              </p>
+            </td>
+            <td>
+              <p>Residential Medium I</p>
+              <p>(3 to 5 stories, 36 to 50 du/ac)</p>
+            </td>
+            <td>Residential High (5 to 8 stories, 100 to 130 du/ac)</td>
+          </tr>
+          <tr>
+            <td>
+              <p>Office Buildings at</p>
+              <p>66 and 160 Bovet Rd.</p>
+              <p>APNs:  039012050 and 039012060</p>
+              <p>
+                <em>(City Council direction to consider this change)</em>
+              </p>
+            </td>
+            <td>Office Medium (2 to 4 stories, up to 50 du/ac, 2.0 FAR)</td>
+            <td>Mixed-Use High (5 to 8 stories, 100 to 130 du/ac, 4.5 FAR)</td>
+          </tr>
+          <tr>
+            <td>
+              <p>831 Monte Diablo Ave.</p>
+              <p>APN:  033065130</p>
+              <p>
+                <em>(Align with existing church use)</em>
+              </p>
+            </td>
+            <td>
+              <p>Residential Very Low</p>
+              <p>(1 to 3 stories, up to 9 du/ac)</p>
+            </td>
+            <td>
+              <p>Quasi-Public</p>
+              <p>(1 to 3 stories, up to 20 du/ac)</p>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <p>1770 S. Amphlett Blvd.</p>
+              <p>APN:  035241220</p>
+              <p>(Marriott site)</p>
+              <p>
+                <em>(City Council direction to consider this change)</em>
+              </p>
+            </td>
+            <td>Regional Commercial (1 to 3 stories, up to 50 du/ac, 1.5 FAR)</td>
+            <td>Mixed-Use High (5 to 8 stories, 100 to 130 du/ac, 4.5 FAR)</td>
+          </tr>
+          <tr>
+            <td>
+              <p>3130 La Selva St.</p>
+              <p>APN:  040161100</p>
+              <p>
+                <em>(Better align with existing use and adjacent to Regional  Commercial land uses)</em>
+              </p>
+            </td>
+            <td>Neighborhood Commercial (1-3 stories, up to 19 du/ac, 1.0 FAR)</td>
+            <td>Regional Commercial (1-3 stories, up to 50 du/ac, 1.5 FAR)</td>
+          </tr>
+          <tr>
+            <td>
+              <p>1495 S. El Camino Real</p>
+              <p>APN:  034302140</p>
+              <p>
+                <em>(Align with adjacent Mixed-Use Med II land uses to north and south along ECR)</em>
+              </p>
+            </td>
+            <td>
+              <p>Mixed-Use Medium I</p>
+              <p>(3 to 5 stories, 15 to 50 du/ac)</p>
+            </td>
+            <td>
+              <p>Mixed-Use Medium II</p>
+              <p>(4 to 6 stories, 51 to 90 du/ac)</p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </section>
+  <section>
+    <num>6</num>
+    <text>Conforming Changes</text>
+    <text>The City Council may make conforming changes to the General Plan that correspond to the changes authorized by this ordinance.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <text>Unconstitutional Takings</text>
+    <text>This ordinance is not intended, and shall not be applied or construed, to authorize the City to exercise its powers in a manner which will take private property for public use without the payment of just compensation, but shall be interpreted, applied, and implemented so as to accomplish its purposes to the maximum constitutionally permissible extent. If application of this ordinance to a specific property of record as of its effective date would create a taking, then the City Council may allow additional density or uses on said property, upon findings that the level of additional development permitted is the minimum necessary to avoid a taking, and no lesser level of development would be sufficient to avoid a taking.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <text>Severability</text>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect. It is the intent of the City Council that it would have adopted all other portions of this ordinance irrespective of any such portion declared to be invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <text>Effective Date and Duration</text>
+    <text>The provisions of this ordinance shall remain in effect until amended by the voters, or until January 1 2031, whichever comes first.  Beginning on January 1, 2031, any provision of the General Plan approved by the voters may be amended in accordance with the City Charter and state law without voter approval.</text>
+  </section>
+  <section>
+    <num>10</num>
+    <text>Conflicting Ballot Measures</text>
+    <text>In the event that this ordinance and another measure or measures relating to the same or</text>
+    <text>similar subject matter shall appear on the same election ballot, the provisions of the other measures shall be deemed in conflict with this ordinance. If the provisions of two or more ordinances adopted at the same election conflict, the ordinance receiving the highest number of affirmative votes shall control.</text>
+  </section>
+  <section>
+    <num>11</num>
+    <text>Publication</text>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>12</num>
+    <text>Legislative History And Effective Date</text>
+    <text>This ordinance was introduced by City Council on July 15, 2024 and adopted by the voters on November 5, 2024.  This ordinance shall take effect ten days after certification of election results by the City Council certifying that the ordinance was approved by a majority of the voters voting at the general municipal election to be held on November 5, 2024.</text>
+  </section>
+  <attachment name="att-1">
+    <prefix>Ordinance Attachment</prefix>
+    <num>1</num>
+    <heading>General Plan Land Use Element</heading>
+    <text>See <a href="./adopted/2024-10.pdf">PDF</a>.</text>
+  </attachment>
+  <attachment name="att-1A">
+    <prefix>Ordinance Attachment</prefix>
+    <num>1A</num>
+    <heading>General Plan Land Use Map - Individual Parcels</heading>
+    <text>See <a href="./adopted/2024-10.pdf">PDF</a>.</text>
+  </attachment>
+  <attachment name="att-2">
+    <prefix>Ordinance Attachment</prefix>
+    <num>2</num>
+    <heading>General Plan Land Use Element Appendix A</heading>
+    <text>See <a href="./adopted/2024-10.pdf">PDF</a>.</text>
+  </attachment>
+  <attachment name="att-3">
+    <prefix>Ordinance Attachment</prefix>
+    <num>3</num>
+    <heading>Measure Y – strikethrough text</heading>
+    <text>See <a href="./adopted/2024-10.pdf">PDF</a>.</text>
+  </attachment>
+</document>

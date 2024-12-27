@@ -1,0 +1,121 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2024-11">
+  <num>2024-11</num>
+  <heading type="short">Senior Advisory Commission</heading>
+  <heading type="long">An Ordinance Amending San Mateo Municipal Code Chapter 2.29</heading>
+  <meta>
+    <effective>2025-01-08</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-11.pdf">Ord. No. 2024-11</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2024-11</citation>
+    </citations>
+    <history>
+      <introduced>2024-11-18</introduced>
+      <adopted>2024-12-09</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on September 16, 2024, the City Council directed staff to update <cite doc="City of San Mateo, Cal., Code" path="2.29">San Mateo Municipal Code Chapter 2.29</cite> to change the name of the Senior Citizens Commission to the Senior Advisory Commission; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the commission was formed in 1986, and the code has not been amended since it was adopted; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under <cite doc="City of San Mateo, Cal., Code" path="2.29.010">section 2.29.010</cite>, Organization, reference to the previous Senior Advisory Council has been removed, as it does not exist anymore; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Code" path="2.29.020">Section 2.29.020</cite>, Meetings, has been updated to reflect the meeting schedule which is the second Monday of every other month at 4 PM; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in <cite doc="City of San Mateo, Cal., Code" path="2.29.030">section 2.29.030</cite>, Powers-Duties, reference to the implementation of the Adopted Master Plan for Senior Services is deleted, as implementation of this plan has been completed.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.29.010">Section 2.29.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="2.29.010"/>
+        <num>2.29.010</num>
+        <heading>Organization.</heading>
+        <text>The senior advisory commission of the City shall consist of no more than five members appointed by the Council. Members shall be persons who display an interest in and appreciation of senior affairs.</text>
+        <text>Each member of the senior advisory commission shall serve at the pleasure of the Council and for a term of four years or until the appointment of a successor, except that the initial terms of the first members appointed shall be determined by lot at their first meeting so that each year at least one term will expire. Thereafter, all appointments shall be for a term of four years.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.29.020">Section 2.29.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="2.29.020"/>
+        <num>2.29.020</num>
+        <heading>Meetings.</heading>
+        <text>Regular meetings will take place on the second Monday of every other month at 4 PM.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.29.030">Section 2.29.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="2.29.030"/>
+        <num>2.29.030</num>
+        <heading>Powers – Duties.</heading>
+        <text>It shall be the objective of the senior advisory commission, as an advisory body to the Council, to encourage, foster, and facilitate programs for the enhancement of all matters relating to the social, economic, and personal well-being of the senior population.</text>
+        <text>The Commission shall recommend to the Council the establishment and funding of programs and services for seniors within the City and review and make recommendations to the Council regarding any senior center operated by the City.</text>
+        <text>The Commission shall possess other such powers and duties as may be prescribed from time to time by resolution of the City Council.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(5), this action is an administrative activity that will not result in direct or indirect physical changes in the environment.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on November 18, 2024, and adopted on December 9, 2024, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Diaz Nash, Newsom, Loraine, Hedges, and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

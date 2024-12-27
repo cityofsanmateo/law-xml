@@ -1,0 +1,82 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2024-09">
+  <num>2024-09</num>
+  <heading type="short">Gardening Waste</heading>
+  <heading type="long">Amending San Mateo Municipal Code Chapter 7.32, Garbage, to Address Gardening Waste Deposited in the Public Right of Way</heading>
+  <meta>
+    <effective>2024-12-18</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-9.pdf">Ord. No. 2024-09</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2024-09</citation>
+    </citations>
+    <history>
+      <introduced>2024-11-04</introduced>
+      <adopted>2024-11-18</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>one of the stated priorities of the City Council is to adopt an ordinance addressing gardening waste to as to prevent home and business flooding because of clogged storm drains or sewerage facilities; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the purpose of this ordinance is to ensure that leaves, grass, and plant clippings are not deposited onto the street.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="7.32.070">Section 7.32.070 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.32">Chapter 7.32</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="7.32"/>
+        <num>7.32.070</num>
+        <heading>Gardening Waste</heading>
+        <text>No one shall blow, rake or cause gardening waste to be deposited into the streets of the City without being immediately removed.  For purposes of this section, “gardening waste” shall mean leaves, grass clippings, weeds, plants, tree trunks, branches, wood shavings, dirt, and other vegetative or organic material produced from the care and maintenance of landscaped areas, gardens, and lawns.  Provided, however, that this section shall not prohibit the storage of gardening waste in authorized receptacles for collection.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15061(b)(3), this action is exempt from CEQA because it can be seen with certainty that there is no possibility that the activity in question may have a significant effect on the environment.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on November 4, 2024, and adopted on November 18, 2024, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Diaz Nash, Newsom, Loraine, Hedges, and Lee</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
