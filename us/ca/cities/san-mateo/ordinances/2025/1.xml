@@ -1,0 +1,669 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2025-01" codify:doc="City of San Mateo, Cal., Code">
+  <num>2025-01</num>
+  <heading type="short">New Construction Reach Codes for the 2022 Cycle – Ordinance Adoption </heading>
+  <heading type="long">An Ordinance amending San Mateo Municipal Code Chapter 23.24 "Energy Code," of Title 23, "Building and Construction," to amend the California Energy Code, 2022 Edition and amending San Mateo Municipal Code Chapter 23.70 "Green Building Code," of Title 23, "Building and Construction," to amend the California Green Building Standards Code, 2022 Edition</heading>
+  <meta>
+    <effective>2025-02-20</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2025-01.pdf">Ord. No. 2025-01</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-01</citation>
+    </citations>
+    <history>
+      <introduced>2025-01-13</introduced>
+      <adopted>2025-01-21</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo's (City) Climate Action Plan recommends the City review local amendments to the California Energy Code and the Green Building Standards Code to promote building electrification, energy efficiency, and electric vehicle infrastructure; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>California Energy Code and Green Building Standards Code, 2022 Edition, were adopted by the City of San Mateo on November 7, 2022 with local amendments to require all-electric new construction and electric-readiness and electric appliances during residential building remodels; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>due to a federal court decision, in early 2024, the City suspended enforcement of local amendments that prohibited the installation of gas infrastructure; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>this presented an opportunity to replace the City's reach code to encourage sustainable new construction; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed Ordinance amends the California Energy Code to require energy compliance margins for newly constructed buildings and require electric-readiness when gas infrastructure is installed; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed Ordinance appeals local amendments to the California Green Building Code that are unenforceable due to the federal court decision; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed Ordinance amends the California Green Building Code to make a minor edit to the electric-readiness requirements to promote consistency with the 2022 Energy Code electric-readiness requirements for new construction; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Health &amp; Safety Code">California Health and Safety Code</cite> Sections <cite doc="Cal. Health &amp; Safety Code" path="§17922">17922</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite>, and <cite doc="Cal. Health &amp; Safety Code" path="§18941.5">18941.5</cite> authorizes the City to make local amendments to the California Energy Code and Green Building Standards Code upon express findings that the local amendments are reasonably necessary due to local climatic, geographical, or topographical conditions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>concurrent with this Ordinance, the City Council of the City of San Mateo has adopted a resolution adopting express findings in support of local amendments to the California Energy Code and Green Building Standards Code, 2022 Edition; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Pub. Res. Code" path="§25402.1|(h)">Public Resources Code Section 25402.1(h)</cite>2 and Section 10-106 of the Building Energy Efficiency Standards (Standards) establish a process which allows local adoption of energy standards that are more stringent than the statewide Standards, provided that such local standards are cost effective, and the California Energy Commission finds that the standards will require building to be designed to consume no more energy than permitted by the California Energy Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>staff has reviewed the cost effectiveness studies prepared by the California Statewide Codes and Standards Reach Code Program and associated study data and find them sufficient to illustrate compliance with the requirements set forth under California Administrative Code Chapter 10-106; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>that such modifications will result in designs that consume less energy than they would under the 2022 State Energy Code through the California Statewide Codes and Standards Reach Code Program, has performed cost effectiveness analyses as required by the California Energy Commission for the local amendments to the California Energy Code contained in this Ordinance which is hereby incorporated by reference; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>based upon these analyses, the San Mateo City Council finds that the local amendments to the California Energy Code contained in the Ordinance have at least one cost effective pathway and will require buildings to be designed to consume no more energy than permitted by the California Energy Code.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.020">Section 23.24.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|23.24.020"/>
+        <num>23.24.020</num>
+        <heading>Local Amendment to Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text>Energy Code subsection 100.1(b) is amended to include the following definitions:</text>
+          <include>
+            <text><strong>Electric Heating Appliance. </strong>A device that produces heat energy to create a warm environment by the application of electric power to resistance elements, refrigerant compressors, or dissimilar material junctions, as defined in the California Mechanical Code.</text>
+            <text><strong>Kitchen, institutional commercial. </strong>A kitchen dedicated to a foodservice establishment that provides meals at institutions including schools, colleges and universities, hospitals, correctional facilities, private cafeterias, nursing homes, and other buildings or structures in which care or supervision is provided to occupants.</text>
+            <text><strong>Kitchen, quick-service commercial.</strong> A kitchen dedicated to an establishment primarily engaged in providing fast food, fast casual, or limited services. Food and drink may be consumed on premises, taken out, or delivered to the customer's location.</text>
+            <text><strong>Net Free Area (NFA)</strong>. The total unobstructed area of the air gaps between louver and grille slats in a vent through which air can pass. The narrowest distance between two slats, perpendicular to the surface of both slats is the air gap height. The narrowest width of the gap is the air gap width. The NFA is the air gap height multiplied by the air gap width multiplied by the total number of air gaps between slats in the vent.</text>
+          </include>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.030">Section 23.24.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|23.24.030"/>
+        <num>23.24.030</num>
+        <heading>Electric-readiness and Energy Performance of Nonresidential Buildings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Energy Code Section 120.2 "Required Controls for Space-Conditioning Systems" is amended to add a new subsection (l) to read as follows:</text>
+          <include>
+            <para>
+              <num>(l)</num>
+              <heading>HVAC Hot Water Temperature.</heading>
+              <text>Zones that use hot water for space heating shall be designed for a hot water supply temperature of no greater than 130°F.</text>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Energy Code Section 120.6 "Mandatory Requirements for Covered Processes" is amended to add a new subsection (k) to read as follows:</text>
+          <include>
+            <para>
+              <num>(k)</num>
+              <heading>Mandatory requirements for commercial kitchens.</heading>
+              <text>Electric Readiness for Newly Constructed Commercial Kitchens shall meet the following requirements:</text>
+              <para>
+                <num>1.</num>
+                <text>Quick-service commercial kitchens and institutional commercial kitchens shall include a dedicated branch circuit wiring and outlet that would be accessible to cookline appliances and shall meet all of the following requirements:</text>
+                <para>
+                  <num>A.</num>
+                  <text>The branch circuit conductors shall be rated at 50 amps minimum.</text>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>The electrical service panel shall have a minimum capacity of 800 connected amps.</text>
+                </para>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>The electrical service panel shall be sized to accommodate an additional either 208v or 240v 50-amp breaker.</text>
+              </para>
+              <aftertext>Exception 1 to Section 120.6(k): healthcare facilities.</aftertext>
+              <aftertext>Exception 2 to Section 120.6(k): all-electric commercial kitchens.</aftertext>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Energy Code subsection 130.0(a) is amended to read as follows:</text>
+          <include>
+            <text>The design and installation of all lighting systems and equipment in nonresidential and hotel/motel buildings, outdoor lighting, and electrical power distribution systems within the scope of Section 100.0(a), shall comply with the applicable provisions of Sections 130.0 through 130.6.</text>
+            <text><strong>NOTE: </strong>The requirements of Sections 130.0 through 130.6 apply to newly constructed buildings. Section 141.0 specifies which requirements of Sections 130.0 through 130.6 also apply to additions and alterations to existing buildings.</text>
+          </include>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Energy Code Subchapter 4 "Nonresidential and Hotel/Motel Occupancies – Mandatory Requirements for Lighting Systems and Equipment, and Electrical Power Distribution Systems" is amended to add a new section 130.6 "Electric Readiness Requirements for Systems Using Gas or Propane" and read as follows:</text>
+          <include>
+            <section>
+              <num>130.6</num>
+              <heading>Electric Readiness Requirements for Systems Using Gas or Propane</heading>
+              <text>Where nonresidential systems using gas or propane are installed, the construction drawings shall indicate electrical infrastructure and physical space accommodating the future installation of an electric heating appliance in the following ways, as certified by a registered design professional or licensed electrical contractor.</text>
+              <para>
+                <num>(a)</num>
+                <text>Branch circuit wiring, electrically isolated and designed to serve all electric heating appliances in accordance with manufacturer requirements and the California Electrical Code, including the appropriate voltage, phase, minimum amperage, and an electrical receptacle or junction box within five feet of the appliance that is accessible with no obstructions. Appropriately sized conduit may be installed in lieu of conductors; and</text>
+              </para>
+              <para>
+                <num>(b)</num>
+                <text>Labeling of both ends of the unused conductors or conduit shall be with "For Future Electrical Appliance"; and</text>
+              </para>
+              <para>
+                <num>(c)</num>
+                <text>Reserved circuit breakers in the electrical panel for each branch circuit, appropriately labeled (e.g. "Reserved for Future Electric Range"), and positioned on the opposite end of the panel supply conductor connection; and</text>
+              </para>
+              <para>
+                <num>(d)</num>
+                <text>Connected subpanels, panelboards, switchboards, busbars, and transformers shall be sized to serve the future electric heating appliances. The electrical capacity requirements shall be adjusted for demand factors in accordance with the California Electric Code; and</text>
+              </para>
+              <para>
+                <num>(e)</num>
+                <text>Physical space for future electric heating appliances, including equipment footprint, and if needed a pathway reserved for routing of ductwork to heat pump evaporator(s), shall be depicted on the construction drawings. The footprint necessary for future electric heating appliances may overlap with non-structural partitions and with the location of currently designed combustion equipment.</text>
+              </para>
+            </section>
+          </include>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Energy Code Section 140.0 "Performance and Prescriptive Compliance Approaches" is amended to read as follows:</text>
+          <include>
+            <text>Nonresidential and hotel/motel buildings shall comply with all of the following:</text>
+            <para>
+              <num>(a)</num>
+              <text>The requirements of Sections 100.0 through 110.12 applicable to the building project (mandatory measures for all buildings).</text>
+            </para>
+            <para>
+              <num>(b)</num>
+              <text>The requirements of Sections 120.0 through 130.6 (mandatory measures for nonresidential and high-rise residential and hotel/motel buildings).</text>
+            </para>
+            <para>
+              <num>(c)</num>
+              <text>Either the performance compliance approach (energy budgets) specified in Section 140.1, or the prescriptive compliance approach specified in Section 140.2 for the Climate Zone in which the building will be located.  Climate zones are shown in FIGURE 100.1-A.</text>
+              <text>NOTE to Section 140.0(c): The Commission periodically updates, publishes and makes available to interested persons and local enforcement agencies precise descriptions of the Climate Zones, which is available by zip code boundaries depicted in the Reference Joint Appendices along with a list of the communities in each zone.</text>
+            </para>
+            <text>NOTE to Section 140.0: The requirements of Sections 140.1 through 140.10 apply to newly constructed buildings.  Section 141.0 specifies which requirements of Section 140.1 through 140.10 also apply to additions or alterations to existing buildings.</text>
+          </include>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Energy Code Section 140.1 "Performance Approach: Energy Budgets" is amended to read as follows:</text>
+          <include>
+            <text>A building complies with the performance approach provided that:</text>
+            <para>
+              <num>1.</num>
+              <text>The time-dependent valuation (TDV) energy budget calculated for the Proposed Design Building under Subsection (b) is no greater than the TDV energy budget calculated for the Standard Design Building under Subsection (a), and</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>The source energy budget calculated for the proposed design building under Subsection (b) has a source energy compliance margin, relative to the energy budget calculated for the standard design building under Subsection (a), of at least 7 percent for all nonresidential occupancies.</text>
+              <text>Exception 1 to 140.1 item 2. A source energy compliance margin of 0 percent or greater is required when nonresidential occupancies are designed with single zone space-conditioning systems complying with Section 140.4(a)2.</text>
+              <text>Exception 2 to 140.1 item 2. Where it is technically infeasible to implement the performance approach standards, exceptions are subject to review and approval at the discretion of the Community Development Director, or his/her designee.</text>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Energy Code subsections 140.1(a)-(c) are adopted without modification.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.040">Section 23.24.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|23.24.040"/>
+        <num>23.24.040</num>
+        <heading>Local Amendment Regarding Electric-readiness and Energy Performance of Single-Family Residential Buildings.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Energy Code subsection 150.0(t) is amended to read as follows:</text>
+          <include>
+            <para>
+              <num>(t)</num>
+              <heading>Heat pump space heater ready.</heading>
+              <text>Systems using gas or propane furnace to serve individual dwelling units shall include the following:</text>
+              <para>
+                <num>1.</num>
+                <text>A dedicated 240 volt branch circuit wiring shall be installed within 3 feet from the furnace and accessible to the furnace with no obstructions. The branch circuit conductors shall be rated at 30 amps minimum. The blank cover shall be identified as "240V ready." All electrical components shall be installed in accordance with the California Electrical Code.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>The main electrical service panel shall have a reserved space to allow for the installation of a double pole circuit breaker for a future heat pump space heater installation. The reserved space shall be permanently marked as "For Future 240V use."</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>A designated exterior location for a future heat pump compressor unit with either a drain or natural drainage for condensate.</text>
+              </para>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Energy Code subsection 150.1(b) is amended to read as follows:</text>
+          <include>
+            <para>
+              <num>(b)</num>
+              <heading>Performance Standards.</heading>
+              <text>A building complies with the performance standards if the energy consumption calculated for the proposed design building is no greater than the energy budget calculated for the standard design building using Commission-certified compliance software as specified by the Alternative Calculation Methods Approval Manual, as specified in sub-sections 1, 2 and 3 below.</text>
+              <para>
+                <num>1.</num>
+                <heading>Newly Constructed Buildings.</heading>
+                <text>The Energy Budget for newly constructed buildings is expressed in terms of the Energy Design Ratings, which are based on source energy and time-dependent valuation (TDV) energy. The Energy Design Rating 1 (EDR1) is based on source energy. The Energy Design Rating 2 (EDR2) is based on TDV energy and has two components, the Energy Efficiency Design Rating, and the Solar Electric Generation and Demand Flexibility Design Rating. The total Energy Design Rating shall account for both the Energy Efficiency Design Rating and the Solar Electric Generation and Demand Flexibility Design Rating. The proposed building shall separately comply with the Source Energy Design Rating, Energy Efficiency Design Rating and the Total Energy Design Rating.  A building complies with the performance approach if the TDV energy budget calculated for the proposed design building is no greater than the TDV energy budget calculated for the Standard Design Building AND Source Energy compliance margin of at least 9, relative to the Source Energy Design Rating 1 calculated for the Standard Design building.</text>
+                <text><strong>Exception 1 to Section 150.1(b)1.</strong> A community shared solar electric generation system, or other renewable electric generation system, and/or community shared battery storage system, which provides dedicated power, utility energy reduction credits, or payments for energy bill reductions, to the permitted building and is approved by the Energy Commission as specified in <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite>, Part 1, Section 10-115, may offset part or all of the solar electric generation system Energy Design Rating required to comply with the Standards, as calculated according to methods established by the Commission in the Residential ACM Reference Manual.</text>
+                <text><strong>Exception 2 to Section 150.1(b)1.</strong> A newly constructed building with a conditioned floor area less than 1,500 square feet shall achieve a Source Energy compliance margin of 4 or greater, relative to the Source Energy Design Rating 1 calculated for the Standard Design building.</text>
+                <text><strong>Exception 3 to Section 150.1(b)1.</strong> A newly constructed building with a conditioned floor area less than 625 square feet shall achieve a Source Energy compliance margin of 0 or greater, relative to the Source Energy Design Rating 1 calculated for the Standard Design building.</text>
+                <text><strong>Exception 4 to Section 150.1(b)1.</strong> A newly constructed Accessory Dwelling Unit, as defined by <cite doc="City of San Mateo, Cal., Code" path="27.04.165|(a)">San Mateo Municipal Code Section 27.04.165(a)</cite>, shall achieve a Source Energy compliance margin of 0 or greater, relative to the Source Energy Design Rating 1 calculated for the Standard Design building.</text>
+              </para>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Energy Code subsections 150.1(b)2, 150.1(b)3, and 150.1(c) are adopted without amendments.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.050">Section 23.24.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|23.24.050"/>
+        <num>23.24.050</num>
+        <heading>Local Amendment Regarding Electric-readiness and Energy Performance of Multifamily Buildings.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Energy Code subsection 160.4(a) is amended to read as follows:</text>
+          <include>
+            <para>
+              <num>(a)</num>
+              <text>Reserved.</text>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Energy Code Section 160.9 "Mandatory Requirements for Electric Ready Buildings" is amended to add new subsections (d) through (f) as follows:</text>
+          <include>
+            <para>
+              <num>(d)</num>
+              <heading>Individual Heat Pump Water Heater Ready.</heading>
+              <text>Systems using gas or propane water heaters to serve individual dwelling units shall include the following components and shall meet the requirements of Section 160.9(f):</text>
+              <para>
+                <num>1.</num>
+                <text>A dedicated 125 volt, 20 amp electrical receptacle that is connected to the electric panel with a 120/240 volt 3 conductor, copper branch circuit rated to 30 amps, within 3 feet from the water heater and accessible to the water heater with no obstructions. In addition, all of the following:</text>
+                <para>
+                  <num>A.</num>
+                  <text>Both ends of the unused conductor shall be labeled with the word "spare" and be electrically isolated; and</text>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>A reserved single pole circuit breaker space in the electrical panel adjacent to the circuit breaker for the branch circuit in A above and labeled with the words "Future 240V Use";</text>
+                </para>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>A condensate drain that is no more than 2 inches higher than the base of the installed water heater, and allows natural draining without pump assistance,</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>The construction drawings shall indicate the location of the future heat pump water heater. The reserved location shall have minimum interior dimensions of 39"x39"x96".</text>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>A ventilation method meeting one of the following:</text>
+                <para>
+                  <num>A.</num>
+                  <text>The designed space reserved for the future heat pump water heater shall have a minimum volume of 700 cubic feet; or</text>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>The designed space reserved for the future heat pump water heater shall vent to a communicating space in the same pressure boundary via permanent openings with a minimum total net free area of 250 square inches so that the total combined volume connected via permanent openings is 700 cu. ft. or larger. The permanent openings shall be:</text>
+                  <para>
+                    <num>i.</num>
+                    <text>Fully louvered doors with fixed louvers consisting of a single layer of fixed flat slats; or</text>
+                  </para>
+                  <para>
+                    <num>ii.</num>
+                    <text>Two permanent fixed openings, consisting of a single layer of fixed flat slat louvers or grilles, one commencing within 12 inches from the top of the enclosure and one commencing within 12 inches from the bottom of the enclosure.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>C.</num>
+                  <text>The designed space reserved for the future heat pump water heater shall include two 8" capped ducts, venting to the building exterior:</text>
+                  <para>
+                    <num>i.</num>
+                    <text>All ducts, connections and building penetrations shall be sealed.</text>
+                  </para>
+                  <para>
+                    <num>ii.</num>
+                    <text>Exhaust air ducts and all ducts which cross pressure boundaries shall be insulated to a minimum insulation level of R-6.</text>
+                  </para>
+                  <para>
+                    <num>iii.</num>
+                    <text>Airflow from termination points shall be diverted away from each other.</text>
+                  </para>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(e)</num>
+              <heading>Central Heat Pump Water Heater Electric Ready.</heading>
+              <text>Central water heating systems using gas or propane to serve multiple dwelling units shall include the following:</text>
+              <para>
+                <num>1.</num>
+                <text>The system input capacity of the gas or propane water heating system shall be determined as the sum of the input gas or propane capacity of all water heating devices associated with each gas or propane water heating system.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Space reserved shall include:</text>
+                <para>
+                  <num>A.</num>
+                  <text>Heat Pump. The minimum space reserved shall include space for service clearances and air flow clearances and shall meet one of the following:</text>
+                  <para>
+                    <num>i.</num>
+                    <text>If the system input capacity of the gas water heating system is less than 200,000 BTU per hour, the minimum space reserved for the heat pump shall be 2.0 square feet per input 10,000 BTU per hour of the gas or propane water heating system, and the minimum linear dimension of the space reserved shall be 48 linear inches.</text>
+                  </para>
+                  <para>
+                    <num>ii.</num>
+                    <text>If the system input capacity of the gas water heating system is greater than or equal to 200,000 BTU per hour, the minimum space reserved for the heat pump shall be 3.6 square feet per input 10,000 BTU per hour the gas or propane water heating system, and the minimum linear dimension of the space reserved shall be 84 linear inches.</text>
+                  </para>
+                  <para>
+                    <num>iii.</num>
+                    <text>The space reserved shall be the space required for a heat pump water heater system that meets the total building hot water demand as calculated and documented by the responsible person associated with the project.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>Tanks. The minimum space reserved shall include space for service clearances and shall meet one of the following:</text>
+                  <para>
+                    <num>i.</num>
+                    <text>If the system input capacity of the gas water heating system is less than 200,000 BTU per hour, the minimum space reserved for the storage and temperature maintenance tanks shall be 4.4 square feet per input 10,000 BTU per hour of the gas or propane water heating system.</text>
+                  </para>
+                  <para>
+                    <num>ii.</num>
+                    <text>If the system input capacity of the gas water heating system is greater than or equal to 200,000 BTU per hour, the minimum physical space reserved for the storage and temperature maintenance tanks shall be 3.1 square feet per input 10,000 BTU per hour of the gas or propane water heating system.</text>
+                  </para>
+                  <para>
+                    <num>iii.</num>
+                    <text>The space reserved shall be the space required for a heat pump water heater system that meets the total building hot water demand as calculated and documented by the responsible person associated with the project.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Ventilation shall be provided by meeting one of the following:</text>
+                <para>
+                  <num>A.</num>
+                  <text>Physical space reserved for the heat pump shall be located outside, or</text>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>A pathway shall be reserved for future routing of supply and exhaust air via ductwork from the reserved heat pump location to an appropriate outdoor location. Penetrations through the building envelope for louvers and ducts shall be planned and identified for future use. The reserved pathway and penetrations through the building envelope shall be sized to meet one of the following:</text>
+                  <para>
+                    <num>i.</num>
+                    <text>If the system input capacity of the gas water heating system is less than 200,000 BTU per hour, the minimum air flow rate shall be 70 CFM per input 10,000 BTU per hour of the gas or propane water heating system and the total external static pressure drop of ductwork and louvers shall not exceed 0.17 inch when the future heat pump water heater is installed.</text>
+                  </para>
+                  <para>
+                    <num>ii.</num>
+                    <text>If the system input capacity of the gas water heating system is greater than or equal to 200,000 BTU per hour, the minimum air flow rate shall be 420 CFM per input 10,000 BTU per hour of the gas or propane water heating system and the total external static pressure drop of ductwork and louvers shall not exceed 0.17 inch when the future heat pump water heater is installed.</text>
+                  </para>
+                  <para>
+                    <num>iii.</num>
+                    <text>The reserved pathway and penetrations shall be sized to serve a heat pump water heater system that meets the total building hot water demand as calculated and documented by the responsible person associated with the project.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>Condensate drainage piping. An approved receptacle that is sized in accordance with the California Plumbing Code to receive the condensate drainage shall be installed within 3 feet of the reserved heat pump location, or piping shall be installed from within 3 feet of the reserved heat pump location to an approved discharge location that is sized in accordance with the California Plumbing Code, and meets one of the following:</text>
+                <para>
+                  <num>A.</num>
+                  <text>If the system input capacity of the gas water heating system is less than 200,000 BTU per hour, condensate drainage shall be sized for 0.2 tons of refrigeration capacity per input 10,000 BTU per hour.</text>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>If the system input capacity of the gas water heating system is greater than or equal to 200,000 BTU per hour, condensate drainage shall be sized for 0.7 tons of refrigeration capacity per input 10,000 BTU per hour.</text>
+                </para>
+                <para>
+                  <num>C.</num>
+                  <text>Condensate drainage shall be sized to serve a heat pump water heater system that meets the total building hot water demand as calculated and documented by the responsible person associated with the project.</text>
+                </para>
+              </para>
+              <para>
+                <num>5.</num>
+                <text>Electrical.</text>
+                <para>
+                  <num>A.</num>
+                  <text>Physical space shall be reserved on the bus system of the main switchboard or on the bus system of a distribution board to serve the future heat pump water heater system including the heat pump and temperature maintenance tanks. In addition, the physical space reserved shall be capable of providing adequate power to the future heat pump water heater as follows:</text>
+                  <para>
+                    <num>i.</num>
+                    <text>Heat Pump. For the Heat Pump, the physical space reserved shall comply with one of the following:</text>
+                    <para>
+                      <num>a.</num>
+                      <text>If the system input capacity of the gas water heating system is less than 200,000 BTU per hour, provide 0.1 kVA per input 10,000 BTU per hour.</text>
+                    </para>
+                    <para>
+                      <num>b.</num>
+                      <text>If the system input capacity of the gas water heating system is greater than or equal to 200,000 BTU per hour, provide 1.1 kVA per input 10,000 BTU per hour.</text>
+                    </para>
+                    <para>
+                      <num>c.</num>
+                      <text>The physical space reserved supplies sufficient electrical power required to power a heat pump water heater system that meets the total building hot water demand as calculated and documented by the responsible person associated with the project.</text>
+                    </para>
+                  </para>
+                  <para>
+                    <num>ii.</num>
+                    <text>Temperature Maintenance Tank. For the Temperature Maintenance Tank, the physical space reserved shall comply with one of the following:</text>
+                    <para>
+                      <num>a.</num>
+                      <text>If the system input capacity of the gas water heating system is less than 200,000 BTU per hour, provide 1.0 kVA per input 10,000 BTU per hour.</text>
+                    </para>
+                    <para>
+                      <num>b.</num>
+                      <text>If the system input capacity of the gas water heating system is greater than or equal to 200,000 BTU per hour, provide 0.6 kVA per input 10,000 BTU per hour.</text>
+                    </para>
+                    <para>
+                      <num>c.</num>
+                      <text>The physical space reserved supplies sufficient electrical power required to power a heat pump water heater system that meets the total building hot water demand as calculated and documented by the responsible person associated with the project.</text>
+                    </para>
+                  </para>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(f)</num>
+              <text>The building electrical system shall be sized to meet the future electric requirements of the electric ready equipment specified in sections 160.9(a) through (e). To meet this requirement the building main service conduit, the electrical system to the point specified in each subsection, and any on-site distribution transformers shall have sufficient capacity to supply full rated amperage at each electric ready appliance in accordance with the California Electric Code.</text>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Energy Code Section 170.1 "Performance Approach" is amended to read as follows:</text>
+          <include>
+            <text>A building complies with the performance approach if the TDV energy budget calculated for the proposed design building under Subsection (b) is no greater than the TDV energy budget calculated for the Standard Design Building under Subsection (a). Additionally,</text>
+            <para>
+              <num>1.</num>
+              <text>The energy budget, expressed in terms of source energy, of a newly constructed low-rise multifamily building (three habitable stories or less) shall be at least 10 percent lower than that of the Standard Design Building.</text>
+            </para>
+            <para>
+              <num>2.</num>
+              <text>Newly Constructed high-rise multifamily buildings (greater than four habitable stories) shall be at least 4 percent lower than that of the Standard Design Building.</text>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Energy Code subsections 170.1(a)-(d) are adopted without amendments.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70.060">Section 23.70.060 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <include>
+      <section>
+        <num>23.70.060</num>
+        <heading>Repealed</heading>
+      </section>
+    </include>
+    <codify:repeal path="|23.70.060"/>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70.070">Section 23.70.070 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <include>
+      <section>
+        <num>23.70.070</num>
+        <heading>Repealed</heading>
+      </section>
+    </include>
+    <codify:repeal path="|23.70.070"/>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.70.080">Section 23.70.080 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="|23.70.080"/>
+        <num>23.70.080</num>
+        <heading>Local Amendment Regarding Electrification Requirements for Existing Residential Buildings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Green Building Code Section 4.106 "Site Development" is amended and to include new subsections as follows:</text>
+          <include>
+            <section>
+              <num>4.106.5.3</num>
+              <heading>Existing one- and two-family dwellings.</heading>
+            </section>
+            <section>
+              <num>4.106.5.3.1</num>
+              <heading>Reserved.</heading>
+            </section>
+            <section>
+              <num>4.106.5.3.2</num>
+              <heading>Reserved.</heading>
+            </section>
+            <section>
+              <num>4.106.5.3.3</num>
+              <heading>Kitchen alterations shall include a 240v, 50 ampere circuit and receptacle installed within 3 feet of the cooktop, oven, and/or range location.</heading>
+            </section>
+            <section>
+              <num>4.106.5.3.4</num>
+              <heading>Alterations to areas designated for the installation of laundry equipment shall include a 240v, 30 ampere circuit and receptacle installed within 3 feet of clothes drying appliance location.</heading>
+            </section>
+            <section>
+              <num>4.106.5.4</num>
+              <heading>Existing residential buildings.</heading>
+            </section>
+            <section>
+              <num>4.106.5.4.1</num>
+              <heading>Alterations or additions that involve or require an increase to the capacity of electrical panels or transformers as part of the scope, the electrical panel shall include reserved physical space for overcurrent protection devices, and transformers shall include reserved electrical capacity, as calculated per California Electric Code Section 220 for the following current or proposed appliances, as applicable to the project site, that will not be connected to fuel gas infrastructure:</heading>
+              <para>
+                <num>1.</num>
+                <text>Electric water heaters meeting the requirements of the California Energy Code.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Electric space heater and air-conditioner meeting the requirements of the California Energy Code.</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Electric pool and/or spa water heater.</text>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>Electric clothes dryer.</text>
+              </para>
+              <para>
+                <num>5.</num>
+                <text>Electric cooking equipment.</text>
+              </para>
+              <para>
+                <num>6.</num>
+                <text>Electric vehicle charger</text>
+                <include>
+                  <text>
+                    <strong>Exceptions:</strong>
+                  </text>
+                  <para>
+                    <num>1.</num>
+                    <text>Buss bar electrical capacity shall not be required to exceed the proposed utility electrical service to the building. Capacity and overcurrent protection spaces shall be reserved in the priority listed above to the extent allowable under the proposed buss bar capacity.</text>
+                  </para>
+                  <para>
+                    <num>2.</num>
+                    <text>Reserved electric vehicle charger panel capacity may be shared with one of the following: water heater, clothes dryer, or cooking equipment.</text>
+                  </para>
+                  <para>
+                    <num>3.</num>
+                    <text>Electrical panels with internet-connected overcurrent protection devices that monitor circuit load and manage power distribution.</text>
+                  </para>
+                </include>
+              </para>
+            </section>
+          </include>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15308, this action to adopt reach codes and amend the Energy Code and Green Building Code is categorically exempt from CEQA as an action by a regulatory agency for the protection of the environment, because reach codes are intended to reduce greenhouse gas emissions.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>10</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>11</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on January 13, 2025, and adopted on January 21, 2025, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Newsom, Loraine, Fernandez, Cwirko-Godycki, and Diaz Nash</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
