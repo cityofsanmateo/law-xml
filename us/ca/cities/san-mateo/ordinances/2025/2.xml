@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2025-02" codify:doc="City of San Mateo, Cal., Code">
+  <num>2025-02</num>
+  <heading type="short">Enforcement - Citation Authority – Ordinance Adoption</heading>
+  <heading type="long">Amending Section 1.04.050(a), "Enforcement—Citation Authority" of the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2025-04-02</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2025-02.pdf">Ord. No. 2025-02</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-02</citation>
+    </citations>
+    <history>
+      <introduced>2025-02-18</introduced>
+      <adopted>2025-03-03</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>SB 1383 "Short-Lived Climate Pollutants" was adopted by the State of California in 2016, implementing a statewide comprehensive strategy to reduce emissions of short-lived climate pollutants; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo adopted the "Mandatory Organic Waste Disposal Reduction Ordinance" (SB 1383 Ordinance) on December 6, 2021, as required by SB 1383; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the SB 1383 Ordinance provided for enforcement to begin on January 1, 2024; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Code" path="1.04.050|(a)">San Mateo Municipal Code </cite><cite doc="City of San Mateo, Cal., Code" path="1.04.050|(a)">Section 1.04.050(a)</cite> authorizes persons who may issue administrative citations to enforce provisions of the San Mateo Municipal Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Public Works Regulatory Compliance Division is responsible for enforcing the SB 1383 Ordinance as well as other San Mateo Municipal Code Sections relating to recycling and solid waste requirements, but are not authorized pursuant to <cite doc="City of San Mateo, Cal., Code" path="1.04.050|(a)">Section 1.04.050(a)</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>amendments to the San Mateo Municipal <cite doc="City of San Mateo, Cal., Code" path="1.04.050|(a)">Section 1.04.050(a)</cite> are necessary to reflect changes in position titles and to authorize appropriate persons to enforce provisions of San Mateo Municipal Code relating to the SB 1383 Ordinance, recycling, and solid waste requirements.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Subsection (a) of <cite doc="City of San Mateo, Cal., Code" path="1.04.050">Section 1.04.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>1.04.050</num>
+        <heading>Enforcement – Citation Authority.</heading>
+        <para>
+          <codify:replace path="1.04.050|(a)"/>
+          <num>(a)</num>
+          <text>Persons employed in the following positions, or their designees, may enforce the provisions of the San Mateo Municipal Code and regulations adopted pursuant thereto by the issuance of administrative citations under <cite doc="City of San Mateo, Cal., Code" path="1.10">Chapter 1.10</cite> of this code.</text>
+          <include>
+            <text>
+              <table>
+                <thead>
+                  <tr>
+                    <th>Position</th>
+                    <th>Code Title, Chapter, or Section</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Community Development Director, Neighborhood Improvement and Housing Manager, Sr. Code Enforcement Officer, Code Enforcement Officer</td>
+                    <td>Titles <cite doc="City of San Mateo, Cal., Code" path="7">7</cite>, <cite doc="City of San Mateo, Cal., Code" path="8">8</cite>, <cite doc="City of San Mateo, Cal., Code" path="10">10</cite>, <cite doc="City of San Mateo, Cal., Code" path="23">23</cite>, <cite doc="City of San Mateo, Cal., Code" path="25">25</cite>, <cite doc="City of San Mateo, Cal., Code" path="27">27</cite>, Chapters <cite doc="City of San Mateo, Cal., Code" path="5.06">5.06</cite>, <cite doc="City of San Mateo, Cal., Code" path="5.64">5.64</cite>, <cite doc="City of San Mateo, Cal., Code" path="5.66">5.66</cite>, Sections <cite doc="City of San Mateo, Cal., Code" path="11.40.110">11.40.110</cite>, <cite doc="City of San Mateo, Cal., Code" path="17.08.010">17.08.010</cite>, <cite doc="City of San Mateo, Cal., Code" path="17.08.020">17.08.020</cite>, <cite doc="City of San Mateo, Cal., Code" path="17.08.160">17.08.160</cite>, <cite doc="City of San Mateo, Cal., Code" path="17.08.170">17.08.170</cite>, <cite doc="City of San Mateo, Cal., Code" path="17.08.180|(a)">17.08.180(a)</cite>, <cite doc="City of San Mateo, Cal., Code" path="17.20.010">17.20.010</cite>, <cite doc="City of San Mateo, Cal., Code" path="17.29.040">17.29.040</cite></td>
+                  </tr>
+                  <tr>
+                    <td>Building Official, Deputy Building Official, Building Inspector</td>
+                    <td>Titles <cite doc="City of San Mateo, Cal., Code" path="7">7</cite>, <cite doc="City of San Mateo, Cal., Code" path="10">10</cite>, <cite doc="City of San Mateo, Cal., Code" path="23">23</cite>, <cite doc="City of San Mateo, Cal., Code" path="25">25</cite>, <cite doc="City of San Mateo, Cal., Code" path="27">27</cite></td>
+                  </tr>
+                  <tr>
+                    <td>Fire Chief, Battalion Chief, Fire Marshal, Deputy Fire Marshal, Fire Inspector, Fire Prevention Inspector</td>
+                    <td>Titles <cite doc="City of San Mateo, Cal., Code" path="7">7</cite>, <cite doc="City of San Mateo, Cal., Code" path="10">10</cite>, <cite doc="City of San Mateo, Cal., Code" path="23">23</cite>, <cite doc="City of San Mateo, Cal., Code" path="25">25</cite>, <cite doc="City of San Mateo, Cal., Code" path="27">27</cite></td>
+                  </tr>
+                  <tr>
+                    <td>Director of Public Works, Deputy Director of Public Works, Construction Inspector, Senior Engineer, Regulatory Compliance Manager, Environmental Programs Coordinator, Environmental Compliance Inspector, Public Works Supervisor, Solid Waste and Recycling Programs Coordinator, Waste Management Supervisor</td>
+                    <td>Chapters  <cite doc="City of San Mateo, Cal., Code" path="7.33">7.33</cite>, <cite doc="City of San Mateo, Cal., Code" path="7.35">7.35</cite>, <cite doc="City of San Mateo, Cal., Code" path="7.38">7.38</cite>, <cite doc="City of San Mateo, Cal., Code" path="7.39">7.39</cite>, <cite doc="City of San Mateo, Cal., Code" path="17.08">17.08</cite>, <cite doc="City of San Mateo, Cal., Code" path="17.29">17.29</cite>, <cite doc="City of San Mateo, Cal., Code" path="25.04">25.04</cite>, <cite doc="City of San Mateo, Cal., Code" path="25.08">25.08</cite></td>
+                  </tr>
+                  <tr>
+                    <td>Harbor Patrol Officer, Park Ranger, Senior Park Ranger, Director of Parks and Recreation</td>
+                    <td><cite doc="City of San Mateo, Cal., Code" path="13.20">Chapter 13.20</cite>, Sections <cite doc="City of San Mateo, Cal., Code" path="13.05.010">13.05.010</cite>-<cite doc="City of San Mateo, Cal., Code" path="13.05.030">13.05.030</cite>, <cite doc="City of San Mateo, Cal., Code" path="13.25.015">13.25.015</cite></td>
+                  </tr>
+                  <tr>
+                    <td>Parks and Landscape Maintenance Manager, Tree Maintenance Specialist, Managing Arborist, Director of Parks and Recreation</td>
+                    <td><cite doc="City of San Mateo, Cal., Code" path="13.40">Chapter 13.40</cite></td>
+                  </tr>
+                  <tr>
+                    <td>Community Service Officers, Parking Enforcement Representative</td>
+                    <td>Titles <cite doc="City of San Mateo, Cal., Code" path="11">11</cite>, <cite doc="City of San Mateo, Cal., Code" path="17">17</cite></td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </include>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, Section 15378(b)(5), this action to amend <cite doc="City of San Mateo, Cal., Code">San Mateo Municipal Code</cite> <cite doc="City of San Mateo, Cal., Code" path="1.04.050|(a)">Section 1.04.050(a)</cite> updating the authority of persons to enforce various sections of the San Mateo Municipal Code is an organizational or administrative activity that will not result in direct or indirect physical changes in the environment .</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15</cite> of the City Charter.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on February 18, 2025, and adopted on March 3, 2025, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Newsom, Loraine, Fernandez, and Diaz Nash</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>Council Member Cwirko-Godycki</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

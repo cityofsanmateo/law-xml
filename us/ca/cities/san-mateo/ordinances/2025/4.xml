@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2025-04">
+  <num>2025-04</num>
+  <heading type="short">Zoning Code Amendments to Implement General Plan Ballot Measure T – General Plan Ballot</heading>
+  <heading type="long">Amending the San Mateo Municipal Code to Implement Measure T</heading>
+  <meta>
+    <effective proof="needed">2025-05-07</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2025-04.pdf" proof="needed">Ord. No. 2025-04</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-04</citation>
+    </citations>
+    <history>
+      <introduced>2025-03-17</introduced>
+      <adopted>2025-04-07</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on November 5, 2024, the voters of the City of San Mateo approved Measure T by a vote of 59% (25,271 votes) to 41% (17,283 votes), and on December 9, 2024, the City Council certified the election results.  Measure T officially became effective on December 19, 2024, as Ordinance No. 2024-10; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Housing Element plans for a total of 10,286 units, over and above the RHNA allocation of 7,015 units for the eight-year planning period of 2023-2031, and the City's adopted and certified Housing Element does so by allocating these units across the "Sites Inventory" in the Housing Element; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the approval of Measure T increases the capacity of the Sites Inventory in the Housing Element from 10,286 units to approximately 20,000 units; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>beyond the Sites Inventory, Measure T expands the development capacity within the City by approximately an additional 10,000 units, for an approximate total of over 30,000 units of housing; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Measure T adds new sites upon which residential development will be allowed, and substantially increases capacity for numerous sites listed in General Plan 2040; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the effect of Measure T is to substantially enhance the City's ability to ensure a continuous availability of adequate sites to meet and exceed RHNA goals throughout the Housing Element planning period, including at the very low, low and moderate income levels, within the meaning of <cite doc="Cal. Gov't Code" path="§65863">Government Code section 65863</cite>.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.02.170">Section 27.02.170 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>27.02.170</num>
+        <heading>Consistency with General Plan.</heading>
+        <text>In their review of planning applications, each approval body involved shall consider whether the planning application is in conformance with the San Mateo City General Plan.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.02.170">Section 27.02.170 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>27.02.220</num>
+        <heading>Consistency With Measure T, General Plan Ballot Measure (November 2024 Election).</heading>
+        <text>The provisions of Ordinance No. 2024-10, approved by the voters on November 5, 2024, as Measure T, and effective on December 19, 2024, allows for the full implementation of the Land Use Element in General Plan 2040. In case of conflict or inconsistency between <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite> of the Municipal Code (Zoning Code) and the General Plan 2040, the uses, densities, intensities and heights specified in Table LU-1 (Land Use Designations) in the Land Use Element and associated with the Land Use Map shall control.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>CEQA Findings.</heading>
+    <text>The City Council finds that adoption of this Ordinance is exempt from CEQA because,  pursuant to (CEQA) Guidelines, section 15061(b)(3), the so-called "common sense" exemption, there is no possibility that the Ordinance will have an effect on the physical environment, in that it incorporates into the Zoning Code the uses, densities, intensities, and heights already adopted by the voters of the City. In addition, any impacts of the Ordinance were reviewed in the Environmental Impact Report prepared on General Plan 2040, and no changes have been made in the uses, densities, intensities, and heights included in General Plan 2040 and incorporated into the Ordinance, nor has any substantial evidence been presented by substantial changes with respect to the circumstances under which the changes are to be undertaken, nor has any new information of substantial importance been identified.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Severability.</heading>
+    <text>If any section, subsection, sentence, clause, phrase or portion of this Ordinance or its application to any person or circumstance is held to be invalid or unconstitutional by the decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this Ordinance or its application to other persons and circumstances. The City Council declares that it would have adopted this Ordinance and each section, subsection, sentence, clause, phrase or portion thereof despite the fact that any one or more sections, subsections, sentences, clauses, phrases, or portions be declared invalid or unconstitutional and, to that end, the provisions hereof are hereby declared to be severable.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" proof="needed">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on March 17, 2025, and adopted on April 7, 2025, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Newsom, Loraine, Fernandez, Cwirko-Godycki and Diaz Nash</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
