@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2025-04">
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2025-04" codify:doc="City of San Mateo, Cal., Code">
   <num>2025-04</num>
   <heading type="short">Zoning Code Amendments to Implement General Plan Ballot Measure T – General Plan Ballot</heading>
   <heading type="long">Amending the San Mateo Municipal Code to Implement Measure T</heading>
   <meta>
-    <effective proof="needed">2025-05-07</effective>
+    <effective>2025-05-07</effective>
     <citations>
-      <citation type="ord" url="./adopted/2025-04.pdf" proof="needed">Ord. No. 2025-04</citation>
+      <citation type="ord" url="./adopted/2025-04.pdf">Ord. No. 2025-04</citation>
       <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-04</citation>
     </citations>
     <history>
@@ -46,9 +46,10 @@
   </recitals>
   <section>
     <num>1</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="27.02.170">Section 27.02.170 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.02.170">Section 27.02.170</cite> of the San Mateo Municipal Code is amended as follows:</text>
     <include>
       <section>
+        <codify:replace path="27.02.170"/>
         <num>27.02.170</num>
         <heading>Consistency with General Plan.</heading>
         <text>In their review of planning applications, each approval body involved shall consider whether the planning application is in conformance with the San Mateo City General Plan.</text>
@@ -57,9 +58,10 @@
   </section>
   <section>
     <num>2</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="27.02.170">Section 27.02.170 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.02.170">Section 27.02.170</cite> of the San Mateo Municipal Code is amended as follows:</text>
     <include>
       <section>
+        <codify:replace path="27.02.220"/>
         <num>27.02.220</num>
         <heading>Consistency With Measure T, General Plan Ballot Measure (November 2024 Election).</heading>
         <text>The provisions of Ordinance No. 2024-10, approved by the voters on November 5, 2024, as Measure T, and effective on December 19, 2024, allows for the full implementation of the Land Use Element in General Plan 2040. In case of conflict or inconsistency between <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite> of the Municipal Code (Zoning Code) and the General Plan 2040, the uses, densities, intensities and heights specified in Table LU-1 (Land Use Designations) in the Land Use Element and associated with the Land Use Map shall control.</text>
@@ -79,7 +81,7 @@
   <section>
     <num>5</num>
     <heading>Publication.</heading>
-    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" proof="needed">Section 2.15 of the City Charter</cite>.</text>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
   </section>
   <section>
     <num>6</num>
