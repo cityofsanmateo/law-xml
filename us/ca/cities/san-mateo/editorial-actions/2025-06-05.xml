@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Editor Action 2025-06-05">
+  <meta>
+    <effective>2025-01-08</effective>
+    <history>
+      <adopted>2025-06-05</adopted>
+    </history>
+  </meta>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2024-11" history="false">
+    <codify:replace doc="City of San Mateo, Cal., Code" path="2.29|heading" history="false">
+      <heading>Senior Advisory Commission</heading>
+    </codify:replace>
+  </codify:insert>
+</document>
