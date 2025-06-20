@@ -1,0 +1,1391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2025-03" codify:doc="City of San Mateo, Cal., Code">
+  <num>2025-03</num>
+  <heading type="short">Zoning Code Amendments to Implement General Plan Ballot Measure T – Housing Element Policies</heading>
+  <heading type="long">Amending Several Chapters of Title 27, Zoning, of the San Mateo Municipal Code to Implement the 2023-2031 San Mateo Housing Element (Sixth Housing Cycle)</heading>
+  <meta>
+    <effective>2025-05-07</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2025-03.pdf">Ord. No. 2025-03</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-03</citation>
+    </citations>
+    <history>
+      <introduced>2025-03-17</introduced>
+      <adopted>2025-04-07</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the State Housing Element Law (<cite doc="Cal. Gov't Code" path="§65580">Government Code Section 65580</cite> et seq.) requires that the City Council adopt a Housing Element for the 2023-2031 period to accommodate the City of San Mateo ("City") regional housing need allocation (RHNA) of 7,015 housing units; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on May 20, 2024, the City Council adopted a resolution to adopt the revised Housing Element of the General Plan for the period of 2023-2031 (Housing Element); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under Housing Element Goal 1 – Production and the Policies H1.7, H1.13, H1.14, H1.15, and H1.16, the City commits to reviewing and amending the City's Zoning Code to increase affordable housing production, update standards to support housing production, and address special needs groups and supportive housing requirements; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under Housing Element Goal 3 – Protection, the City commits to facilitating and supporting protection of current residents to prevent displacement. Policy H3.7 requires the City to evaluate opportunities for expanding homeless shelters; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Environmental Impact Report (EIR) for the San Mateo General Plan 2040 analyzed new residential development of up to 19,764 new housing units and growth around the City through 2040; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 18, 2024, at a duly noticed public hearing, the City Council certified the EIR for the San Mateo General Plan 2040, pursuant to the California Environmental Quality Act of 1970, together with related State implementation guidelines promulgated thereunder (CEQA); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on February 11, 2025, the Planning Commission held a duly noticed public hearing, received all written and oral public comments, and recommended that the City Council approve the proposed ordinance to amend several Chapters of <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>, Zoning, of the San Mateo Municipal Code to Implement the 2023-2031 San Mateo Housing Element (Sixth Housing Cycle), except for the 50-unit threshold for Zoning Administrator approval of housing development projects consistent with the City's Objective Design Standards, where the Commission instead recommended a threshold of 150 units, or, in the alternative, no threshold at all for such projects.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Legislative Findings.  At a duly noticed public hearing on March 17, 2025, the City Council of the City of San Mateo reviewed and considered the accompanying staff report and attachments thereto, the exemption from environmental review, together with comments received during the public review process, and hereby finds and determines that the proposed ordinance is consistent with the adopted General Plan in that it supports the development of housing and achieves the General Plan's stated goals and policies.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.130">Section 27.04.130</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.04.130"/>
+        <num>27.04.130</num>
+        <heading>COMMUNITY CARE FACILITY.</heading>
+        <text>A "community care facility" means any place or building which is maintained and operated to provide 24-hour non-medical residential care, or day care services for children, adults, or both, limited to the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Residential Care Facility. A residential care facility means a family home, group home, residential care facility for the elderly, foster home, intermediate care facility or similar facility, for 24-hour non-medical care of persons in need of personal services, supervision, or assistance essential for sustaining the activities of daily living or for the protection of the individual;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Day Care Center. A day care facility means any facility which provides non-medical care to persons (adults and/or children) in need of personal services, supervision, or assistance essential for sustaining the activities of daily living or for the protection of the individual on less than a 24-hour basis;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Family Day Care Home. A family day care home means a facility which provides care, protection, and supervision of no more than 14 children in the caregiver's own home, for periods of less than 24 hours per day, while the parents or guardians are away.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.165">Section 27.04.165</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.04.165"/>
+        <num>27.04.165</num>
+        <heading>DWELLING.</heading>
+        <text>"Dwelling" means a building or portion thereof, designed or used exclusively for residential occupancy, including a one-family dwelling unit, an accessory dwelling unit, a junior accessory dwelling unit, a two-family dwelling unit, a multiple-family dwelling unit, or a single room occupancy but does not include a hotel, motel, boarding or lodging houses or other lodging facilities, or a vessel or boat, or a house trailer.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Accessory dwelling unit" means an attached or detached residential dwelling unit which provides complete independent living facilities for one or more persons, is accessory to the primary residential dwelling unit or units, and includes permanent provisions for living, sleeping, eating, cooking facilities and sanitation on the same parcel as the primary residential dwelling unit.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Studio unit" means a dwelling unit consisting of one principal room used for living and sleeping purposes, plus cooking facilities, and a bathroom.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>"Junior accessory dwelling unit" means an additional, independent living unit constructed within the walls of a proposed or legally existing single-family residence, including attached garages.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>"Multiple-family dwelling" means a building or portion thereof, designed or altered for occupancy by three or more families living independently of each other.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>"One-family dwelling" means a building containing one cooking facility only and designed exclusively for use and occupancy by one family, including the provision of interior access to all bedrooms, and may include a junior accessory dwelling unit within the principal dwelling.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>"Primary residential dwelling unit" means a building or separate portion thereof designated and/or customarily used as a residence by not more than one family and typically situated on a parcel or lot on which no other primary dwelling is located. Each dwelling unit within a multiple-family or two-family dwelling is also considered a primary residential dwelling unit (does not apply to junior accessory dwelling units or attached accessory dwelling units). The primary residential dwelling unit shall be larger, in terms of floor area, than any other residential unit situated on the same parcel or lot.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>"Single Room Occupancy" (SRO) means housing composed of individual efficiency dwelling units, where each unit has a minimum floor area of 150 square feet and a maximum size of 500 square feet. To qualify as an SRO development, no more than 10% of the units in a development may contain individual kitchens and bathrooms. Any unit not developed with an individual kitchen or bathroom must have access to common areas containing kitchen and bathroom facilities. SROs must be leased for a minimum of 30 consecutive days and also include apartment hotels. SROs are not required to provide any residential care or supportive services.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>"Two-family dwelling" means a building(s) designed or altered to provide attached (duplex) or detached dwelling units for occupancy by two families living independently of each other.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.170">Section 27.04.170</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.04.170"/>
+        <num>27.04.170</num>
+        <heading>DWELLING UNIT</heading>
+        <text>"Dwelling unit" means one or more rooms in a structure which are arranged or designed for use by one family, which includes provisions for living, sleeping, eating, cooking and sanitation, and if located on multiple levels/stories, the unit provides interior connections from a common living area (including but not limited to a living room, family room, dining room, kitchen, or other common living areas as determined by the Zoning Administrator).</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.177">Section 27.04.177</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.04.177"/>
+        <num>27.04.177</num>
+        <heading>EMERGENCY SHELTER.</heading>
+        <text>"Emergency shelter" means overnight emergency housing typically operated by a governmental or nonprofit agency. It serves as the principal shelter of the inhabitants for a temporary period and may include services like food, sanitation, laundry, health and childcare, transportation, and social services. Emergency shelters include other interim interventions, including, but not limited to, a navigation center, bridge housing, and respite or recuperative care.</text>
+        <text>Emergency shelters are subject to the following: (a) The shelter must maintain a documented management plan that outlines strategies for staff training, community outreach, security measures, resident intake, and, when relevant, programs like job training or counseling; (b) each emergency shelter is restricted to a maximum of one hundred (100) beds, serving no more than one hundred (100) people at one time; (c) individuals or families may reside at the shelter for up to 180 days consecutively, except when longer stays are part of ongoing training or rehabilitation efforts outlined in the management plan; (d) the shelter may provide one or more common facilities, such as central cooking and dining rooms, recreation rooms, counseling centers, childcare centers, or other support services, exclusively for residents; (e) the shelter must have designated staff on-premises during all operational hours;(f) no more than one (1) emergency shelter shall be allowed within a radius of three hundred (300) feet from another such facility, measured from the nearest property lines; (g) the interior on-site waiting and intake area must be at least two hundred (200) square feet; and (h) minimum on-site parking requirement of two off-street parking spaces plus one additional off-street parking space for each 10 beds and one additional parking space per each employee on site.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.222" proof="needed">Section 27.04.222</cite> of the San Mateo Municipal Code is added to <cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.04" after="27.04.220"/>
+        <num>27.04.222</num>
+        <heading>GROUP HOME</heading>
+        <text>"Group home" means a one-family dwelling providing 24-hour residential care for a wide variety of persons with special needs, including but not limited to licensed group homes, unlicensed group homes, and recovery residences or sober living homes. Residents may share cooking, dining, and living areas, and may, in some group homes, participate in cooking, housekeeping, and other communal living activities.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.250">Section 27.04.250</cite> of the San Mateo Municipal Code is repealed.</text>
+    <codify:repeal path="27.04.250"/>
+  </section>
+  <section>
+    <num>8</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.306">Section 27.04.306</cite> of the San Mateo Municipal Code is added to <cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.04" after="27.04.305"/>
+        <num>27.04.306</num>
+        <heading>LOW-BARRIER NAVIGATION CENTER</heading>
+        <text>"Low-barrier navigation center" means a temporary shelter that provides services for individuals experiencing homelessness, as defined by <cite doc="Cal. Gov't Code" path="§65660">California Government Code Section 65660</cite>. Low-barrier navigation centers are subject to the following: (a) It offers services to connect people to permanent housing through a services plan that identifies services staffing; (b) It is linked to a coordinated entry system, so that staff in the interim facility or staff who co-locate in the facility may conduct assessments and provide services to connect people to permanent housing. "Coordinated entry system" means a centralized or coordinated assessment system developed pursuant to Section 576.400(d) or Section 578.7(a)(8), as applicable, of <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite> of the Code of Federal Regulations, as those sections read on January 1, 2020, and any related requirements, designed to coordinate program participant intake, assessment, and referrals; (c) It complies with <cite doc="Cal. Welf. &amp; Inst. Code" path="§8255">Welfare and Institutions Code Section 8255</cite> et seq; and (d) It has a system for entering information regarding client stays, client demographics, client income, and exit destination through the local Homeless Management Information System, as defined by Section 578.3 of <cite doc="City of San Mateo, Cal., Code" path="24">Title 24</cite> of the Code of Federal Regulations.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>9</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.308" proof="needed">Section 27.04.308</cite> of the San Mateo Municipal Code is added to <cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.04" after="27.04.306"/>
+        <num>27.04.308</num>
+        <heading>MANUFACTURED HOME</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Manufactured home" shall mean a structure, transportable in one or more sections, which, in the traveling mode, is eight body feet or more in width, or forty (40) feet or more in length, or when erected on site, is 320 or more square feet, and which is built on a permanent chassis and designed to be used as a dwelling installed on a permanent foundation when connected to the required utilities, and the plumbing, heating, air conditioning, and electrical systems are contained within the structure. "Manufactured home" shall also include any structure which meets all the requirements of this subsection except the size requirements and to which the manufacturer voluntarily has filed a certification and complies with the standards established by the <cite doc="Cal. Health &amp; Safety Code" proof="needed">Health and Safety Code</cite>. "Manufactured home" shall also include a mobilehome subject to the National Manufactured Housing Construction and Safety Act of 1974. "Manufactured home" shall include only those structures that contain two or less dwelling units, and that conform to the applicable requirements of the laws of the State of California or United States.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>10</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.313.1">Section 27.04.313.1</cite> of the San Mateo Municipal Code is added to <cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.04" after="27.04.313"/>
+        <num>27.04.313.1</num>
+        <heading>MOBILEHOME PARK</heading>
+        <text>"Mobilehome park" means any area or tract of land where two or more lots are rented or leased, held out for rent or lease, or were formerly held out for rent or lease and later converted to a subdivision, cooperative, condominium, or other form of resident ownership, to accommodate manufactured homes, mobilehomes, or recreational vehicles used for human habitation as defined in <cite doc="Cal. Health &amp; Safety Code" path="§18214">Section 18214 of the Health and Safety Code</cite>, as amended from time to time. The rent paid for a manufactured home, a mobilehome, or a recreational vehicle shall be deemed to include rent for the lot it occupies. "Mobilehome park" also means a mobilehome development constructed according to the requirements of Part 2.1 (commencing with Section 18200) of Division <cite doc="Cal. Health &amp; Safety Code" path="§13">13 of the Health and Safety Code</cite>, and intended for use and sale as a mobilehome condominium or cooperative park, or as a mobilehome planned unit development.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>11</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.203">Section 27.04.203</cite> of the San Mateo Municipal Code is added to <cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.04" after="27.04.200"/>
+        <num>27.04.203</num>
+        <heading>FOUNDATION</heading>
+        <text>"Permanent foundation" shall mean assembly of materials constructed below, or partially below grade, not intended to be removed from its installation site, which is designed to support a manufactured home structure and engineered to resist the imposition of external natural forces, as defined by the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> or the Building Code, whichever is more restrictive.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>12</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.467">Section 27.04.467</cite> of the San Mateo Municipal Code is added to <cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.04" after="27.04.465"/>
+        <num>27.04.467</num>
+        <heading>SUPPORTIVE HOUSING</heading>
+        <para>
+          <num>(a)</num>
+          <text>"Supportive Housing" means housing with no limit on length of stay, that is occupied by the target population, and that is linked to onsite or offsite services that assist the supportive housing resident in retaining the housing, improving their health status, and maximizing their ability to live and, when possible, work in the community. Supportive housing shall only be subject to those restrictions that apply to other residential dwellings of the same type in the same zone</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>"Target Population" means persons, including persons with disabilities, and families who are "homeless," as that term is defined by Section 11302 of Title 42 of the United States Code, or who are "homeless youth," as that term is defined by paragraph (2) of subdivision (e) of <cite doc="Cal. Gov't Code" path="§12957">Section 12957 of the Government Code</cite> as may be amended from time to time.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>13</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.486">Section 27.04.486</cite> of the San Mateo Municipal Code is added to <cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.04" after="27.04.485"/>
+        <num>27.04.486</num>
+        <heading>TRANSITIONAL HOUSING</heading>
+        <text>"Transitional housing" and "transitional housing development" means buildings configured as rental housing developments but operated under program requirements that call for the termination of assistance and recirculation of the assisted unit to another eligible program recipient at some predetermined future point in time, which shall be no less than six months. Transitional housing shall only be subject to those restrictions that apply to other residential dwellings of the same type in the same zone.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>14</num>
+    <text>Subsection <cite doc="City of San Mateo, Cal., Code" path="27.06.020|(h)|(1)|(A)">(h)(1)(A)</cite> of <cite doc="City of San Mateo, Cal., Code" path="27.06.020">Section 27.06.020</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <num>27.06.020</num>
+        <heading>ZONING ADMINISTRATOR - POWERS AND DUTIES.</heading>
+        <include>
+          <text>The Zoning Administrator shall enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite>, and shall:</text>
+          <para>
+            <num>(h)</num>
+            <text>Have the authority to review and approve, conditionally approve, or disapprove the following types of projects, provided that the projects do not result in any significant impacts pursuant to the California Environmental Quality Act (CEQA), subject to public notice and to appeal of the final action to the Planning Commission:</text>
+            <para>
+              <num>(1)</num>
+              <text>Site plan and architectural review for projects that incorporate:</text>
+              <para>
+                <codify:replace path="27.06.020|(h)|(1)|(A)"/>
+                <num>(A)</num>
+                <text>Up to ninety-nine (99) residential dwelling units that meet objective design standards as adopted by resolution of the City Council; or</text>
+              </para>
+            </para>
+          </para>
+        </include>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>15</num>
+    <text>Subsection <cite doc="City of San Mateo, Cal., Code" path="27.06.040|(a)|(3)|(A)">(a)(3)(A)</cite> of <cite doc="City of San Mateo, Cal., Code" path="27.06.040">Section 27.06.040</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <num>27.06.040</num>
+        <heading>PLANNING COMMISSION—JURISDICTION.</heading>
+        <include>
+          <para>
+            <num>(a)</num>
+            <text>The Commission shall review and take final action, subject to appeal to the Council, upon all applications for:</text>
+            <para>
+              <num>(3)</num>
+              <text>Site plan and architectural review for projects that incorporate:</text>
+              <para>
+                <codify:replace path="27.06.040|(a)|(3)|(A)"/>
+                <num>(A)</num>
+                <text>One hundred (100) or more residential dwelling units that meet objective design standards as adopted by resolution of the City Council; or</text>
+              </para>
+            </para>
+          </para>
+        </include>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>16</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.17">Chapter 27.17</cite> of the San Mateo Municipal Code is repealed.</text>
+    <codify:repeal path="27.17"/>
+  </section>
+  <section>
+    <num>17</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.18.020">Section 27.18.020</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.18.020"/>
+        <num>27.18.020</num>
+        <heading>PERMITTED USES.</heading>
+        <text>The following uses are permitted:</text>
+        <para>
+          <num>(a)</num>
+          <text>One-family detached dwellings, including manufactured homes on permanent foundations;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Accessory dwelling units and junior accessory dwelling units subject to the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19</cite>;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Accessory uses and structures;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Detached accessory structures containing no more than two (2) plumbing fixtures or waste lines;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Home occupations, subject to provisions of <cite doc="City of San Mateo, Cal., Code" path="27.16.040">Section 27.16.040</cite>;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Community care facilities as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>Unlicensed group homes subject to the objective development standards that apply to other residential uses of the same type in the same zone;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Licensed residential care facilities including group homes with six (6) or fewer residents, in addition to the caregiver's family, subject to the objective development standards that apply to other residential uses of the same type in the same zone. Certain licensed group homes shall be subject to separation requirements pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§1267.9">Health and Safety Code Section 1267.9</cite>, as amended from time to time; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Family day care for fourteen (14) or fewer occupants, in addition to the caregiver's family, when managed in the caregiver's residence and in accordance with State law.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Temporary buildings for construction purposes for a period not to exceed the duration of such construction;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Transitional housing and supportive housing subject to the objective development standards that apply to other residential uses of the same type in the same zone.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>18</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.18.030">Section 27.18.030</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.18.030"/>
+        <num>27.18.030</num>
+        <heading>SPECIAL USES.</heading>
+        <text>The following uses may also be allowed if a special use permit is approved:</text>
+        <para>
+          <num>(a)</num>
+          <text>Detached accessory structures, other than accessory dwelling units, containing more than two (2) plumbing fixtures or waste lines;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Swimming pools, hot tubs and spas located in required front yard or street side yard;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Cemeteries, mausoleums, and columbaria, subject to the provisions of the <cite doc="City of San Mateo, Cal., Code" path="27.18.120">Section 27.18.120</cite>;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Churches, convents, parish houses, and monasteries, including as a permitted accessory use emergency shelters subject to the requirements in a residential zone;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Community services including but not limited to libraries, parks, playgrounds, and community centers;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Group homes that provide licensed services to seven (7) or more residents without disabilities, in addition to the caregiver's family, subject to the objective development standards that apply to other residential uses of the same type in the same zone. Certain licensed group homes shall be subject to separation requirements pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§1267.9">Health and Safety Code Section 1267.9</cite>;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Public and private educational facilities;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Day care centers when located within a public or quasi-public structure such as a school, recreation center, church, temple or similar facility;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Philanthropic and eleemosynary uses;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Public utility facilities; and</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Temporary real estate sales offices for a period not to exceed the duration of the construction and sale of homes within the subdivision wherein the sales office is to be located.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>19</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.20.010">Section 27.20.010</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.20.010"/>
+        <num>27.20.010</num>
+        <heading>PERMITTED USES.</heading>
+        <text>No building or land in the R2 district shall be used and no building shall be hereafter erected, structurally altered or enlarged, unless otherwise provided in <cite doc="City of San Mateo, Cal., Code" path="27">this title</cite>, except for the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Any use permitted in the R1 districts, subject to the same regulations and exceptions;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Two family dwellings;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Accessory uses which are necessary to the above-mentioned buildings and uses.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>20</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.20.020">Section 27.20.020</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.20.020"/>
+        <num>27.20.020</num>
+        <heading>SPECIAL USES.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Special uses in the R2 districts shall be any special uses permitted in the R1 district, subject to the same regulations and exceptions;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Mobilehome parks.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>21</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.22.010">Section 27.22.010</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.22.010"/>
+        <num>27.22.010</num>
+        <heading>PERMITTED USES.</heading>
+        <text>Use of buildings or land in this district and buildings hereafter erected, structurally altered or enlarged, shall be limited to the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Any use permitted in the R1 and R2 districts;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Multiple family dwellings, as defined in <cite doc="City of San Mateo, Cal., Code" path="27">this title</cite>;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>One family row dwellings, as defined in <cite doc="City of San Mateo, Cal., Code" path="27">this title</cite>;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Supportive housing in compliance with <cite doc="Cal. Gov't Code">Government Code</cite> Sections 65650 - 65656, shall be considered a use by-right use. "Use by right" shall have the same meaning as defined in <cite doc="Cal. Gov't Code" path="§65583.2|(i)">Government Code Section 65583.2(i)</cite>.  Supportive housing shall also be in compliance with <cite doc="City of San Mateo, Cal., Code" path="27.94.020">Section 27.94.020</cite> By-Right Residential Use Requirements and subject only to those objective development standards and policies that apply to other multifamily development within the same zone.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Accessory uses which are necessary to the above-mentioned buildings and uses.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>22</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.22.020">Section 27.22.020</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.22.020"/>
+        <num>27.22.020</num>
+        <heading>SPECIAL USES.</heading>
+        <text>Unless otherwise provided, the following uses may be allowed if a special use permit is approved:</text>
+        <para>
+          <num>(a)</num>
+          <text>Any special use permitted in the R1 and R2 districts;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Bed and breakfast inns;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Boarding and lodging houses with a five (5) resident limitation;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Residential care facility (excluding group homes) with seven (7) or more residents in addition to the caregiver. Certain licensed care facilities shall be subject to separation requirements pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§1267.9">Health and Safety Code Section 1267.9</cite>;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Day care centers.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>23</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.24.010">Section 27.24.010</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.24.010"/>
+        <num>27.24.010</num>
+        <heading>PERMITTED USES.</heading>
+        <text>Use of buildings or land in this district and buildings hereafter erected, structurally altered or enlarged, shall be limited to the following:</text>
+        <para>
+          <num>(a)</num>
+          <text>Any use permitted in the R1, R2, or R3 districts;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Single Room Occupancy Units;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Accessory uses which are necessary to the above-mentioned buildings and uses.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>24</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.27">Chapter 27.27</cite> of the San Mateo Municipal Code is repealed.</text>
+    <codify:repeal path="27.27"/>
+  </section>
+  <section>
+    <num>25</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.30.010">Section 27.30.010</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.30.010"/>
+        <num>27.30.010</num>
+        <heading>PERMITTED USES.</heading>
+        <text>The following uses are permitted provided that the use limitations contained in <cite doc="City of San Mateo, Cal., Code" path="27.30.025">Section 27.30.025</cite>, "Permitted and special uses—Twenty-Fifth Avenue Improvement Area," shall apply to properties in the Twenty-Fifth Avenue Improvement Area and the use limitations contained in <cite doc="City of San Mateo, Cal., Code" path="27.30.027">Section 27.30.027</cite>, "Permitted and special uses—Hillsdale Station Area Plan Active Zone," shall apply to properties in the Hillsdale Station Area Plan Active Zone:</text>
+        <para>
+          <num>(a)</num>
+          <text>Animal grooming, provided no overnight boarding occurs on the site;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Bakeries;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Barber shops and hair salons;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Delicatessens;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Dry cleaners, with customer service areas;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Financial institutions, provided the ground floor area devoted to this use does not exceed 2,500 square feet per establishment;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Health studios and spas;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Laundromats;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Libraries;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Low Barrier Navigation Center above the ground floor in compliance with <cite doc="Cal. Gov't Code">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65660">65660</cite>-<cite doc="Cal. Gov't Code" path="§65668">65668</cite> shall be considered a use by-right. "Use by right" shall have the same meaning as defined in subdivision (i) of Section 65583.2.  Supportive housing shall also be in compliance with <cite doc="City of San Mateo, Cal., Code" path="27.94.020">Section 27.94.020</cite> By-Right Residential Use Requirements and subject only to those objective development standards and policies that apply to other multifamily development within the same zone.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Newspaper publishing;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Offices, provided the ground floor area devoted to this use does not exceed 2,500 square feet per establishment;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Photo processing;</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Picture framing;</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Real estate establishments;</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Residential units above the ground floor, subject to R3 district "Minimum Development Standards" in <cite doc="City of San Mateo, Cal., Code" path="27.22.040">Section 27.22.040</cite> and affordable housing requirements as adopted by City Council resolution, unless otherwise specified in <cite doc="City of San Mateo, Cal., Code" path="27.29">Chapter 27.29</cite>;</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Restaurants and accessory outdoor dining areas, without drive-through facilities;</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>Retail uses, such as, but not limited to, the following uses, subject to a maximum of 15,000 square feet of floor area per establishment except for supermarkets and drug stores:</text>
+          <para>
+            <num>(1)</num>
+            <text>Antique shops,</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Apparel sales, tailoring and repair stores,</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Drug stores,</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Hardware and garden supply stores,</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Household furnishings,</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Pet shops,</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>Supermarkets and grocery stores;</text>
+          </para>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text>Reverse vending machines, subject to regulations established in <cite doc="City of San Mateo, Cal., Code" path="27.69">Chapter 27.69</cite>;</text>
+        </para>
+        <para>
+          <num>(t)</num>
+          <text>Schools and day care facilities;</text>
+        </para>
+        <para>
+          <num>(u)</num>
+          <text>Travel agencies;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Accessory uses to principle uses permitted; and</text>
+        </para>
+        <para>
+          <num>(w)</num>
+          <text>Other compatible uses as determined by the zoning administrator.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>26</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.30.020">Section 27.30.020</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.30.020"/>
+        <num>27.30.020</num>
+        <heading>SPECIAL USES.</heading>
+        <text>The following uses may also be permitted subject to approval of a special use permit, provided that the use limitations contained in <cite doc="City of San Mateo, Cal., Code" path="27.30.025">Section 27.30.025</cite>, "Permitted and special uses—Twenty-Fifth Avenue Improvement Area," shall apply to properties in the Twenty-Fifth Avenue improvement Area and the use limitations contained in <cite doc="City of San Mateo, Cal., Code" path="27.30.027">Section 27.30.027</cite>, "Permitted and special uses—Hillsdale Station Area Plan Active Zone," shall apply to properties in the Hillsdale Station Area Plan Active Zone:</text>
+        <para>
+          <num>(a)</num>
+          <text>Accessory buildings containing plumbing;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Alternative financial services subject to the following requirements:</text>
+          <para>
+            <num>(1)</num>
+            <text>A maximum of four alternative financial services may be located in the City of San Mateo.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>No alternative financial service may be located within a radius of 1,000 feet from the nearest existing alternative financial service.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any alternative financial service seeking to begin operations after the effective date of the ordinance codified in this section shall meet the following minimum standards of performance, which shall be included as conditions of approval for such uses:</text>
+            <para>
+              <num>(A)</num>
+              <text>A lighting plan shall be reviewed and approved by the Police Department and the Building Division for conformance with the City's security ordinance prior to the issuance of building permits.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Storefronts shall have glass or transparent glazing in the windows and doors. No more than 10% of any window or door area shall be covered by signs, banners, or opaque coverings of any kind.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Hours of operation shall be limited to 7:00 a.m. to 7:00 p.m.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>At least one uniformed security guard will be on duty at all times the business is open. The security guard shall patrol the interior and all exterior portions of the property under the control of the owner or operator of the alternative financial service, including, but not limited to, parking lots and any open public spaces such as lobbies.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Automobile gasoline service stations;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Boarding, lodging, or rooming houses;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Community care facilities serving seven or more persons in addition to the caregiver. Certain licensed care facilities shall be subject to separation requirements pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§1267.9">Health and Safety Code Section 1267.9</cite> ;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Convalescent homes, rest homes, nursing homes, limited to the housing of not more than six persons in addition to the owner or manager, and family;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Drive-through facilities for financial institutions and for pharmacies dispensing only prescriptions or medicinal goods at the drive-through facility. Drive-through facilities for pharmacies shall be subject to the parking requirements for financial institution drive-through uses, as enumerated in <cite doc="City of San Mateo, Cal., Code" path="27.64.160|(7)|(a)">Section 27.64.160(7)(a)</cite>.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Fast food establishments without drive-through facilities;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Financial institutions, exceeding 2,500 square feet of ground floor area per establishment up to a maximum of 15,000 square feet of floor area;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Offices exceeding 2,500 square feet of ground floor area per establishment up to a maximum of 15,000 square feet of floor area;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Parking facilities, as a principal use;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Public utility and public service uses;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Recreational vehicle storage, subject to regulations established in <cite doc="City of San Mateo, Cal., Code" path="27.64.267">Section 27.64.267</cite>, and only on those parcels designated for such use in <cite doc="City of San Mateo, Cal., Code" path="27.60.180">Section 27.60.180</cite>;</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Recycling facilities subject to regulations established in <cite doc="City of San Mateo, Cal., Code" path="27.69">Chapter 27.69</cite>;</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Religious institutions;</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Businesses selling or renting firearms as defined by <cite doc="Cal. Penal Code" path="§12001|(b)">Penal Code Section 12001(b)</cite>; and</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Other compatible uses as determined by the zoning administrator subject to the granting of a special use permit.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>27</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.32.010">Section 27.32.010</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.32.010"/>
+        <num>27.32.010</num>
+        <heading>PERMITTED USES.</heading>
+        <text>The following uses are permitted:</text>
+        <para>
+          <num>(a)</num>
+          <text>Permitted uses in the C1 district;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Art galleries;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Automotive accessory stores, excluding on-site service and repair of vehicles;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Boarding, lodging, or rooming houses;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Catering services;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Hotels and motels, including restaurant and meeting rooms;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Laundries;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Medical and dental clinics, including laboratories;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Offices;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Parking facilities;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Printing, lithographing, or publishing establishments for newspaper, business cards, and other similar uses;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>Radio and television broadcasting stations;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Reproduction services;</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Residential units, subject to R4 district "Minimum Development Standards" in <cite doc="City of San Mateo, Cal., Code" path="27.24.040">Section 27.24.040</cite> and affordable housing requirements as adopted by City Council resolution, except as otherwise specified in <cite doc="City of San Mateo, Cal., Code" path="27.29">Chapter 27.29</cite>;</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Retail uses, including incidental rental and repair;</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Emergency Shelters ;</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text>Accessory uses to principle uses permitted; and</text>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text>Other compatible uses as determined by the zoning administrator.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>28</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.32.020">Section 27.32.020</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.32.020"/>
+        <num>27.32.020</num>
+        <heading>SPECIAL USES.</heading>
+        <text>The following uses may also be permitted, subject to approval of a special use permit:</text>
+        <para>
+          <num>(a)</num>
+          <text>Special uses permitted in the residential and C1 districts, except increases in floor area ratios;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Clubs, lodges, and fraternal organizations;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Commercial recreation uses;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Hospitals;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Mortuaries;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Public transportation facilities and terminals; and other similar uses;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Recreational vehicle storage, subject to the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.64.267">Section 27.64.267</cite> of <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite>;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Theaters, excluding drive-in theaters; and</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Other compatible uses as determined by the zoning administrator subject to the granting of a special permit.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>29</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.34.010">Section 27.34.010</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.34.010"/>
+        <num>27.34.010</num>
+        <heading>PERMITTED USES.</heading>
+        <text>The following uses are permitted:</text>
+        <para>
+          <num>(a)</num>
+          <text>Permitted uses in the C1 and C2 districts provided that residential uses are subject to R4 district "Minimum Development Standards" in <cite doc="City of San Mateo, Cal., Code" path="27.24">Chapter 27.24</cite> and affordable housing requirements as adopted by City Council resolution, except as otherwise specified in <cite doc="City of San Mateo, Cal., Code" path="27.29">Chapter 27.29</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Ambulance service;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Automobile, boat, and truck sales and rental, including service and repair as accessory to the primary sales use, sales may occur on open lot;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Automobile service, parts, and repairs, classified as minor motor vehicle repair in <cite doc="City of San Mateo, Cal., Code" path="27.04.325">Section 27.04.325</cite>;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Car wash and detailing facilities, may not occur on open lot;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Laboratories, research, experimental, and testing, provided no production or manufacturing of products occurs on the premises;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Accessory uses to principle uses permitted; and</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Other compatible uses as determined by the Zoning Administrator.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>30</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.36.010">Section 27.36.010</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.36.010"/>
+        <num>27.36.010</num>
+        <heading>PERMITTED USES.</heading>
+        <text>The following uses are permitted:</text>
+        <para>
+          <num>(a)</num>
+          <text>Permitted uses in the C1, C2, and C3 districts, except that residential uses, low barrier navigation centers, office uses on the properties along Palm Avenue between Twentieth and Twenty-fifth Avenues, and emergency shelters are prohibited;</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>31</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.38.020">Section 27.38.020</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.38.020"/>
+        <num>27.38.020</num>
+        <heading>PERMITTED USES.</heading>
+        <text>Unless otherwise provided in <cite doc="City of San Mateo, Cal., Code" path="27">this title</cite>, uses of building or land in this district and buildings hereafter erected, structurally altered or enlarged shall be limited to the following uses:</text>
+        <para>
+          <num>(a)</num>
+          <text>Any use permitted in the C2 District, except an animal hospital and emergency shelters; provided that the use limitations contained in <cite doc="City of San Mateo, Cal., Code" path="27.38.110">Section 27.38.110</cite>, Required Retail Frontage, shall apply to properties located within the required retail frontage area, as shown in the Downtown Plan.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Multiple-family dwellings, when part of a mixed use development, subject to CBD residential development standards and affordable housing requirements as adopted by City Council resolution;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Name plates and signs, as classified and regulated in <cite doc="City of San Mateo, Cal., Code" path="25">Title 25</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>32</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.44.020">Section 27.44.020</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.44.020"/>
+        <num>27.44.020</num>
+        <heading>PERMITTED USES.</heading>
+        <text>The following uses shall be permitted:</text>
+        <para>
+          <num>(a)</num>
+          <text>Administrative, executive, and professional offices, provided that the professional offices are limited to those professions listed in <cite doc="City of San Mateo, Cal., Code" path="5.24.160">Section 5.24.160</cite>, and including similar professional occupations, and provided that no office of a veterinarian shall include an animal hospital or kennel.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Accessory uses; including, but not limited to:</text>
+          <para>
+            <num>(1)</num>
+            <text>Sale of personal goods and services, when provided in the principal building, including, but not limited to, the following:</text>
+            <para>
+              <num>(A)</num>
+              <text>Flower, food, and news vending;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Printing and photocopying;</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Travel agencies;</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <text>Ticket outlets;</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Other services which are customary appurtenant uses.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Health and recreation facilities.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Public utility and service uses.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Financial and business offices and related facilities.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Research laboratories (experimental and testing), provided no production or manufacturing occurs, and provided that all activities conform with the performance standards established for the M1 district.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Residential units, subject to R3 district "Minimum Development Standards" in <cite doc="City of San Mateo, Cal., Code" path="27.22.040">Section 27.22.040</cite> and affordable housing requirements as adopted by City Council resolution, unless otherwise specified in <cite doc="City of San Mateo, Cal., Code" path="27.29">Chapter 27.29</cite>.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Restaurants without drive-through facilities.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Schools and day care facilities.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Warehousing, storage, and distribution facilities as accessory uses but not exceeding 10,000 square feet per establishment or not more than 60% of gross floor area per establishment.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Other compatible uses as determined by the Zoning Administrator.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>33</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.44.030">Section 27.44.030</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.44.030"/>
+        <num>27.44.030</num>
+        <heading>SPECIAL USES.</heading>
+        <text>The following uses may also be permitted subject to approval of a special use permit:</text>
+        <para>
+          <num>(a)</num>
+          <text>Alternative financial services, subject to the restrictions set forth in <cite doc="City of San Mateo, Cal., Code" path="27.30.020">Section 27.30.020</cite>;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Automobile gasoline service station;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Clubs, lodges, and fraternal organizations;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Hotels;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Parking facilities, as a principle use;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Religious institutions; and</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Other compatible uses as determined by the Zoning Administrator subject to the granting of a special use permit.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>34</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.48.020">Section 27.48.020</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.48.020"/>
+        <num>27.48.020</num>
+        <heading>PERMITTED USES.</heading>
+        <text>The following uses are permitted:</text>
+        <para>
+          <num>(a)</num>
+          <text>Permitted uses in the E1 district</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>35</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.48.030">Section 27.48.030</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.48.030"/>
+        <num>27.48.030</num>
+        <heading>SPECIAL USES.</heading>
+        <text>Reserved.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>36</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.60.020">Section 27.60.020</cite> of the San Mateo Municipal Code is added to <cite doc="City of San Mateo, Cal., Code" path="27.60">Chapter 27.60</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.60" before="27.60.030"/>
+        <num>27.60.020</num>
+        <heading>DEFINITIONS</heading>
+        <text>The following definitions apply to <cite doc="City of San Mateo, Cal., Code" path="27.60">this chapter</cite>.</text>
+        <para>
+          <num>(a)</num>
+          <text>"Farmworker housing" means an agricultural employee housing development that satisfies all of the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>The agricultural employee housing does not contain dormitory-style housing</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The development consists of no more than 36 units or spaces designed for use by a single family or household</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Except as otherwise provided in subparagraph (2), the agricultural employee housing will be maintained and operated by a qualified affordable housing organization that has been certified pursuant to <cite doc="Cal. Gov't Code" path="§17030.10">Government Code Section 17030.10</cite> or operated by a local public housing agency or a multicounty, state, or multistate agency that has been certified as a qualified affordable housing organization</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>An affordability covenant is recorded on the property to ensure the affordability of the proposed agricultural employee housing for agricultural employees for not less than 55 years.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>37</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.60.030">Section 27.60.030</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.60.030"/>
+        <num>27.60.030</num>
+        <heading>PERMITTED USES.</heading>
+        <text>Permitted uses shall be as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>All uses commonly classed as agriculture, horticulture or forestry, including crop and tree farming, and nursery operation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Horse racetracks and related uses, including, but not limited to, veterinary facilities, feed storage facilities, stables, offices, restaurants, sleeping quarters, plant nurseries and equipment storage facilities.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>One-family detached dwelling and accessory buildings provided the property (or zoning plot) upon which the dwelling is located has as its principal use one of the agricultural uses permitted above.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Accessory dwelling units, when a primary dwelling is located on the site.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Parks, forest preserves and recreational areas, when publicly owned and operated.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Golf courses, regulation size, but not including "par 3" golf courses, commercially operated driving ranges or miniature golf courses; and provided, that no clubhouse or accessory building shall be located nearer than five feet to any dwelling.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Signs, advertising the sale or rental of the property upon which the sign is located.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Public utility facilities.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Farmworker housing consisting of no more than 36 beds in group quarters or 12 units or spaces designed for use by a single family or household.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>38</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.60.040">Section 27.60.040</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.60.040"/>
+        <num>27.60.040</num>
+        <heading>SPECIAL USES.</heading>
+        <text>The following uses may also be permitted if their site locations and proposed development plans are first approved, as provided for in Chapters <cite doc="City of San Mateo, Cal., Code" path="27.06">27.06</cite> through <cite doc="City of San Mateo, Cal., Code" path="27.12">27.12</cite>, <cite doc="City of San Mateo, Cal., Code" path="27.62">27.62</cite>, <cite doc="City of San Mateo, Cal., Code" path="27.74">27.74</cite>, <cite doc="City of San Mateo, Cal., Code" path="27.78">27.78</cite> and <cite doc="City of San Mateo, Cal., Code" path="27.80">27.80</cite>:</text>
+        <para>
+          <num>(a)</num>
+          <text>Mining, dredging, loading, and hauling of sand, shells, salt, dirt, gravel or other aggregate, but not including equipment, buildings or structures for screening, refining, crushing, mixing, washing or storage.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Railroad Rights-of-Way and Trackage. Airports or aircraft landing fields. Radio and television towers, commercial.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Filling of lowland with noncombustible material free from refuse and food wastes.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Sanitary land fill, when operated or supervised by the City.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Kennels, commercial, and animal hospitals.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Public service uses:</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Filtration plant, pumping station, and water reservoir;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Sewage treatment plant;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Other governmental uses.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Temporary farmworker housing consisting of more than 36 beds in group quarters or more than 12 units or spaces designed for use by a single family or household.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>39</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.60.050">Section 27.60.050</cite> of the San Mateo Municipal Code is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.60.050"/>
+        <num>27.60.050</num>
+        <heading>CONDITIONS OF USE.</heading>
+        <text>No horses, cattle, or other domestic animals shall be bred, raised, or maintained within 500 feet of any residential district as established in this zoning title.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>40</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.60.090">Section 27.60.090</cite> of the San Mateo Municipal Code is amended as follows</text>
+    <include>
+      <section>
+        <codify:replace path="27.60.090"/>
+        <num>27.60.090</num>
+        <heading>SPECIAL USES.</heading>
+        <text>The following uses may also be allowed if a special use permit is approved:</text>
+        <para>
+          <num>(a)</num>
+          <text>Detached accessory structures, containing more than two plumbing fixtures or waste lines;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Swimming pools, hot tubs and spas located in required front yard or street side yard;</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Cemeteries and mausoleums;</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Churches, convents, parish houses, and monasteries;</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Community services, including, but not limited to, libraries, parks, playgrounds, and community centers;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Public and private educational facilities;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Day care centers serving more than six persons or family day care centers serving more than 14 children;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Philanthropic and eleemosynary uses;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Public utility facilities; and</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Temporary real estate sales offices for a period not to exceed the duration of the construction and sale of homes within the subdivision wherein the sales office is to be located.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>41</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15183, this zoning amendment to establish a by-right residential overlay district and reclassify parcels with the overlay district ("project") is exempt from further environmental review because the Project which generally allows for more housing types to be permitted uses in specific zoning districts and remove regulatory barriers from the zoning code is consistent with the anticipated land uses under the land use  designations for the sites adopted as part of the General Plan 2040 for which an EIR was certified by the City Council on March 18, 2024.  Also, there are no specific proposed changes to residential development densities and is consistent with the development density established by the General Plan.  The Project is also consistent with the implementation policies of the adopted and certified Housing Element and pursuant to certain mandates in state law.  There are no project specific effects that are peculiar to the project or the sites; there are no project specific impacts that the General Plan Update EIR failed to analyze as significant effects; there are no potentially significant off-site and cumulative impacts that the general plan EIR failed to evaluate; and there is no substantial new information which results in more severe impacts than anticipated by the general plan EIR.</text>
+  </section>
+  <section>
+    <num>42</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>43</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>44</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on March 17, 2025, and adopted on April 7, 2025, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Newsom, Loraine, Fernandez, Cwirko-Godycki and Diaz Nash</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
