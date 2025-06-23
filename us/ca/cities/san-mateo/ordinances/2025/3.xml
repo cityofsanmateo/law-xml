@@ -191,9 +191,9 @@
   </section>
   <section>
     <num>10</num>
-    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.313.1">Section 27.04.313.1</cite> of the San Mateo Municipal Code is added to <cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04</cite> as follows:</text>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.313">Section 27.04.313.1</cite> of the San Mateo Municipal Code is added to <cite doc="City of San Mateo, Cal., Code" path="27.04">Chapter 27.04</cite> as follows:</text>
     <include>
-      <section>
+      <section name="27.04.313-1">
         <codify:insert path="27.04" after="27.04.313"/>
         <num>27.04.313.1</num>
         <heading>MOBILEHOME PARK</heading>
