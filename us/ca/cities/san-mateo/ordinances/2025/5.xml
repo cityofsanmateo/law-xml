@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2025-05" codify:doc="City of San Mateo, Cal., Code">
+  <num>2025-05</num>
+  <heading type="short">Zoning Code Amendments and Below Market Rate Program Update — Ordinance Adoption</heading>
+  <heading type="long">Amending Several Chapters of Title 27, Zoning, of the San Mateo Municipal Code to Implement the 2023-2031 San Mateo Housing Element (Sixth Housing Cycle)</heading>
+  <meta>
+    <effective>2025-08-27</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2025-05.pdf">Ord. No. 2025-05</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-05</citation>
+    </citations>
+    <history>
+      <introduced>2025-06-16</introduced>
+      <adopted>2025-07-28</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the State Housing Element Law (<cite doc="Cal. Gov't Code" path="§65580">Government Code Section 65580</cite> et seq.) requires that the City Council adopt a Housing Element for the 2023-2031 period to accommodate the City of San Mateo ("City") regional housing need allocation (RHNA) of 7,015 housing units; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on May 20, 2024, the City Council adopted a resolution to adopt the revised Housing Element of the General Plan for the period of 2023-2031 (Housing Element); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under Housing Element Goal 1 – Production and the Policies H1.3, H1.6, and H1.9, the City commits to reviewing and amending the City's Zoning Code to update the City's Inclusionary Housing requirements to allow for alternative compliance options to increase affordable housing production, update standards to support housing production, and create minimum residential densities for mixed-use projects; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Environmental Impact Report (EIR) for the San Mateo General Plan 2040 analyzed new residential development of up to 19,764 new housing units and growth around the City through 2040; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 18, 2024, at a duly noticed public hearing, the City Council certified the EIR for the San Mateo General Plan 2040, pursuant to the California Environmental Quality Act of 1970, together with related State implementation guidelines promulgated thereunder (CEQA); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on May 13, 2025, the Planning Commission held a duly noticed public hearing, received all written and oral public comments, and recommended that the City Council approve the proposed ordinance to amend several Chapters of <cite doc="City of San Mateo, Cal., Code" path="27">Title 27, Zoning, of the San Mateo Municipal Code</cite> to Implement the 2023-2031 San Mateo Housing Element (Sixth Housing Cycle); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on July 28th, 2025, at a duly noticed public hearing, the City Council adopted an ordinance to adopt the amendments to several Chapters of <cite doc="City of San Mateo, Cal., Code" path="27">Title 27, Zoning, of the San Mateo Municipal Code</cite> to Implement the 2023-2031 San Mateo Housing Element (Sixth Housing Cycle).</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Legislative Findings. At a duly noticed public hearing on July 28th, 2025, the City Council of the City of San Mateo reviewed and considered the accompanying staff report and attachments thereto, the exemption from environmental review, together with comments received during the public review process, and hereby finds and determines that the proposed ordinance is consistent with the adopted General Plan in that it supports the development of housing and achieves the General Plan's stated goals and policies.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.02.230">Section 27.02.230 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.02">Chapter 27.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.02"/>
+        <num>27.02.230</num>
+        <heading>RESIDENTIAL MIXED-USE DEVELOPMENT PROJECTS.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Within a 1/2 mile radius of a Caltrain Station as shown on the General Plan Land Use Map, a mixed-use development project with a residential component that includes five or more residential units shall comply with the following minimum residential densities if the development project is within one of the following General Plan Land Use Designations. If the project area is within more than one General Plan Land Use Designations, the lowest density requirement applies.</text>
+          <para>
+            <num>(1)</num>
+            <text>Mixed-Use Low and Mixed-Use Medium I – 30 dwelling units per acre</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Mixed-Use Medium II and Mixed-Use High – 50 dwelling units per acre</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A mixed-use development project with a residential component that includes five or more residential units outside of a TOD area are required to comply with minimum residential densities when the development project is within one of the following General Plan Land Use Designations. If the project area is within more than one General Plan Land Use Designations, the lowest density requirement applies.</text>
+          <para>
+            <num>(1)</num>
+            <text>Mixed-Use Low – 10 dwelling units per acre</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Mixed-Use Medium I – 15 dwelling units per acre</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Mixed-Use Medium II – 30 dwelling units per acre</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Mixed-Use High – 50 dwelling units per acre</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The City Council may consider a request to reduce the required minimum residential density in a mixed-use development project with a residential component for a project that provides a greater percentage of affordable housing units than required by <cite doc="City of San Mateo, Cal., Code" path="27.16.050">Section 27.16.050</cite> Affordable Housing or by providing public community benefits.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.04.130">Section 27.04.130 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.04.130"/>
+        <num>27.04.130</num>
+        <heading>SITE PLAN AND ARCHITECTURAL REVIEW (SPAR).</heading>
+        <para>
+          <num>(a)</num>
+          <text>The following projects, as well as other projects that may be designated in this code, require a site plan and architectural review and no such project shall commence until the approval body has approved a planning application for site plan and architectural review: any building, new parking lot, fence over seven (7) feet in height, or an extension, alteration, or addition of or to an existing building or parking lot; historic buildings within the Downtown Specific Plan area as specified in <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite>. Single family and accessory buildings that conform to the standards contained in <cite doc="City of San Mateo, Cal., Code" path="27.18">Chapter 27.18</cite>, or minor facade modifications as defined in <cite doc="City of San Mateo, Cal., Code" path="27.04.313">Section 27.04.313</cite>, and which conform with <cite doc="City of San Mateo, Cal., Code" path="27.08.031">Section 27.08.031</cite>, are exempt from this requirement, unless they are specifically designated by this section as requiring review. In making its review, the Zoning Administrator, Development Review Board, and Planning Commission shall be guided by the standards adopted by the Planning Commission and City Council. The application shall be approved if the Zoning Administrator or Commission finds all of the following to exist:</text>
+          <para>
+            <num>(1)</num>
+            <text>The structures, site plan, and landscaping are in scale and harmonious with the character of the neighborhood;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The development will not be detrimental to the harmonious and orderly growth of the City;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The development will not impair the desirability of investment or occupation in the vicinity, and otherwise is in the best interests of the public health, safety, or welfare;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The development meets all applicable standards as adopted by the Planning Commission and City Council, conforms with the General Plan, and will correct any violations of the zoning ordinance, building code, or other municipal codes that exist on the site;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The development will not adversely affect matters regarding police protection, crime prevention, and security.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>All buildings, structures, landscaping, and other establishments shall be constructed in accordance with the approved drawings.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The City Council shall review and make the final determination on all buildings that exceed the height limit in the General Plan.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Subsection (d) of <cite doc="City of San Mateo, Cal., Code" path="27.06.050">Section 27.06.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <para>
+        <codify:replace path="27.06.050|(d)"/>
+        <num>(d)</num>
+        <text>Site Plan and Architectural Review for buildings that exceed the height limit in the General Plan;</text>
+      </para>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.08.035">Section 27.08.035 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.08.035"/>
+        <num>27.08.035</num>
+        <heading>COMPLETION OF PLANNING APPLICATION.</heading>
+        <para>
+          <num>(a)</num>
+          <text>A planning application is determined to be complete when all documents, reports, data, maps, fees, and other information prescribed in <cite doc="City of San Mateo, Cal., Code" path="27.08.010">Section 27.08.010</cite> are submitted and are determined to be adequate to allow the approval body to determine if the required findings can be made.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For any application determined to be incomplete, an applicant may appeal the incompleteness determination to the Planning Commission within 14 days of the date of the incomplete letter. Any appeal shall be submitted in writing, and be accompanied by payment of the filing fee. Pursuant to <cite doc="Cal. Gov't Code" path="§65943">California Government Code Section 65943</cite>, the Planning Commission shall make a final written determination on the appeal not later than 60 calendar days after receipt of the applicant's written appeal. The appeal process shall toll any timing requirements to resubmit incomplete application materials.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Zoning Administrator may close out an application, if information is requested in writing by the Zoning Administrator, and the information has not been submitted to the Zoning Administrator or the action has not occurred within 120 days. Applications which are closed out are considered to be withdrawn and any unspent fees from the application will be refunded. An applicant for a housing development project, as defined in <cite doc="Cal. Gov't Code" path="§65905.5|(b)|(3)">California Government Code Section 65905.5(b)(3)</cite> shall follow timelines and provisions outlined in <cite doc="Cal. Gov't Code" path="§65941.1">California Government Code Section 65941.1</cite> to maintain preliminary application eligibility.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Zoning Administrator's action may be appealed to the Planning Commission within ten (10) days of the Zoning Administrator's action closing out an application, or of determining that a new planning application is required.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.08.085">Section 27.08.085 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.08.085"/>
+        <num>27.08.085</num>
+        <heading>PLANNING APPROVAL EXPIRATION.</heading>
+        <text>Final approval of a planning application shall expire two years from the date of approval, with the following exceptions:</text>
+        <para>
+          <num>(a)</num>
+          <text>A completed building permit application is filed before the expiration date and a building permit is issued prior to or within six months after the two year expiration date.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The property within two years has been used in conformance with the final order.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Approvals granted to the City of San Mateo shall be in force and effect for such time period as funds are budgeted in whole or in part for the project by the City or Agency.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Projects for which an extension has been obtained in accordance with <cite doc="City of San Mateo, Cal., Code" path="27.08.087">Section 27.08.087</cite> below.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.08.087">Section 27.08.087 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.08.087"/>
+        <num>27.08.087</num>
+        <heading>PLANNING APPROVAL EXTENSION.</heading>
+        <text>The following extensions to planning approvals are available:</text>
+        <para>
+          <num>(a)</num>
+          <text>Extensions required by state or federal law. Where state or federal law requires that extension of a planning approval be considered, the Zoning Administrator shall approve an extension if they find that the project complies with all applicable zoning, planning, and general plan regulations and conditions.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>City extensions. The Zoning Administrator may approve up to two extensions of a planning approval, each for up to two years, subject to the following provisions:</text>
+          <para>
+            <num>(1)</num>
+            <text>Application required. To apply for a planning approval extension, an applicant must submit the application prior to the expiration date of the planning approval, pay the application fee and provide the reason(s) for the extension request.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Findings required. To approve a time extension, the Zoning Administrator must find all of the following:</text>
+            <para>
+              <num>(A)</num>
+              <text>The approved project is still consistent with the City's General Plan; and</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The approved project is still consistent with the City's Zoning Ordinance; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>The extension will not result in any new environmental impacts or an increase in severity of previously identified environmental impacts.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Notice of Zoning Administrator Decision on Extension. Notice will be provided to the neighborhood by the same process followed for the original project approval. Notice will also be provided to the Planning Commission and City Council within ten days of the Zoning Administrator's decision.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Appeals. The decision of the Zoning Administrator is appealable to the Planning Commission within ten days of the Zoning Administrator's decision by filing a written appeal with the Planning Division and payment of applicable fees. When an appeal is filed, the expiration date of a planning approval is tolled until a final action is taken. The provisions of Municipal Code <cite doc="City of San Mateo, Cal., Code" path="26.48">Chapter 26.48</cite> govern for all projects with associated subdivision maps.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.16.050">Section 27.16.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.16.050"/>
+        <num>27.16.050</num>
+        <heading>AFFORDABLE HOUSING.</heading>
+        <text>To implement the affordable housing goals and policies in the General Plan, the City Council adopted the Below Market Rate (BMR) Program. Specific requirements for the development of affordable units under the BMR Program, including the alternative compliance option of providing offsite affordable units and other proposed alternatives, are regulated by resolution adopted by the City Council.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>9</num>
+    <text><strong>Environmental Determination</strong> In accordance with California Environmental Quality Act (CEQA) Guidelines Section 15183, the zoning amendment to streamline the processing of development applications,  and establish minimum densities for mixed-use housing development projects is exempt from further environmental review because the Project is consistent with the anticipated land uses under the land use designations adopted as part of General Plan 2040 for which an EIR was certified by the City Council on March 18, 2024.  Also, there are no specific proposed changes to maximum residential development densities and is consistent with the development density established by the General Plan.  The Project is also consistent with the implementation policies of the adopted and certified Housing Element and pursuant to certain mandates in state law.  There are no project specific effects that are peculiar to the project or the sites; there are no project specific impacts that the General Plan Update EIR failed to analyze as significant effects; there are no potentially significant off-site and cumulative impacts that the general plan EIR failed to evaluate; and there is no substantial new information which results in more severe impacts than anticipated by the general plan EIR.</text>
+  </section>
+  <section>
+    <num>10</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>11</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>12</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on June 16, 2025, and adopted on July 28, 2025, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Newsom, Loraine, Fernandez, Cwirko-Godycki and Diaz Nash</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
