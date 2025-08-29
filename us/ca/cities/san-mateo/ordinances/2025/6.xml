@@ -1,0 +1,116 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2025-06" codify:doc="City of San Mateo, Cal., Code">
+  <num>2025-06</num>
+  <heading type="short">Amendment to Contribution Limits for City Candidate Campaigns — Ordinance Adoption</heading>
+  <heading type="long">Amendment to Contribution Limits for City Candidate Campaigns — Ordinance Adoption</heading>
+  <meta>
+    <effective>2026-01-01</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2025-06.pdf">Ord. No. 2025-06</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-06</citation>
+    </citations>
+    <history>
+      <introduced>2025-07-28</introduced>
+      <adopted>2025-08-18</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on February 18, 2025, staff provided the City Council with a post-election review of candidate campaign activity from the November 5, 2024 general municipal election, pursuant to <cite doc="City of San Mateo, Cal., Code" path="2.80.080">San Mateo Municipal Code Section 2.80.080</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>following this review, the Council directed staff to return with an Ordinance to align contribution limits for individuals and organizations at $1,000, with future adjustments to follow changes in the Consumer Price Index (CPI), and to include additional incentives for participating in the voluntary expenditure limits program.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.80.030">Section 2.80.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="2.80.030"/>
+        <num>2.80.030</num>
+        <heading>LIMITATIONS ON CONTRIBUTIONS.</heading>
+        <para>
+          <num>(a)</num>
+          <text>For any particular election, no individual or organization shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any individual or organization any contribution which will cause the total amount contributed by such individual or organization to exceed $1000.00.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Beginning January 1, 2027, the City Clerk shall once biennially, on a calendar-year basis, increase the contribution limitation amount upon a finding that the cost of living in the immediate San Francisco Bay Area, as shown on the Consumer Price Index (CPI) for all items in the San Francisco Bay Area as published by the U.S. Department of Labor, Bureau of Statistics, has increased. The increase of the contribution limitation amount shall not exceed the CPI increase, using the index published in June 2025 as the index year. The adjustment shall be rounded up to the nearest $10.00. The City Clerk shall publish the contribution limitation amounts no later than February 1st of each year in which an increase occurs.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any contribution or portion thereof that exceeds the limits in this section shall be returned to the contributor within 72 hours of receipt.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The limitations imposed by this section shall not apply to contribution of a candidate's personal funds to the candidate's own campaign, or to any loan which is personally guaranteed by the candidate or is secured by property owned by the candidate.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Subsection (c)(1) of <cite doc="City of San Mateo, Cal., Code" path="2.80.055">Section 2.80.055 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <num>2.80.055</num>
+        <heading>VOLUNTARY EXPENDITURE LIMIT.</heading>
+        <para>
+          <num>(c)</num>
+          <text>Candidates who agree to abide by the voluntary campaign expenditure limit shall receive the following benefits and incentives at no cost to themselves:</text>
+          <para>
+            <codify:replace path="2.80.055|(c)|(1)"/>
+            <num>(1)</num>
+            <text>The City's website will prominently identify which candidates have agreed to the voluntary expenditure limit.  Candidates who agree to abide by the voluntary campaign expenditure limits may submit a written statement up to four hundred words. The statement will appear exactly as submitted and shall conform to candidate statement guidelines provided by the City Clerk and <cite doc="Cal. Elec. Code" path="§13307|(a)|(1)">Elections Code section 13307(a)(1)</cite>, as amended.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(5), this action is not a project subject to CEQA because it will not result in direct or indirect physical changes in the environment.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on July 28, 2025, and adopted on August 18, 2025, and shall be effective on January 1, 2026.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Newsom, Loraine, Fernandez, Cwirko-Godycki and Diaz Nash</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
