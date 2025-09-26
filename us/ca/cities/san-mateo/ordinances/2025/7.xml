@@ -1,0 +1,87 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2025-07">
+  <num>2025-07</num>
+  <heading type="short">Youth Commissioners to the Senior Advisory Commission – Ordinance Adoption</heading>
+  <heading type="long">An Ordinance amending San Mateo Municipal Code Chapter 2.29 to amend the organization of the Senior Advisory Commission to include two non-voting youth advisory members (youth commissioners).</heading>
+  <meta>
+    <effective>2025-10-15</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2025-07.pdf">Ord. No. 2025-07</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-07</citation>
+    </citations>
+    <history>
+      <introduced>2025-09-02</introduced>
+      <adopted>2025-09-15</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="City of San Mateo, Cal., Code" path="2.29">San Mateo Municipal Code Chapter 2.29</cite> establishes that the San Mateo Senior Advisory Commission shall consist of five members appointed by the City Council; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council Strategic Plan for fiscal year 2023-24 included exploring the expanding of youth participation and representation on Boards and Commissions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 4, 2024, the City Council directed staff to provide for the appointment of youth members to the Library Board, Senior Citizens Commission, and Sustainability and Infrastructure Commission.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.29.010">Section 2.29.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="2.29.010"/>
+        <num>2.29.010</num>
+        <heading>Organization.</heading>
+        <text>The senior advisory commission of the City shall consist of no more than five members appointed by the Council, and two non-voting youth advisory members who must be at least 13 years old, and no more than 17 years old at the time of appointment ("Youth Commissioners"). Members shall be persons who display an interest in and appreciation of senior affairs. Youth commissioners must present written documentation of parental or guardian consent to be considered for appointment. Youth commissioners shall serve only in an advisory capacity and shall not count towards a quorum of the commission.</text>
+        <text>Each member of the senior advisory commission shall serve at the pleasure of the Council and for a term of four years or until the appointment of a successor, except that the initial terms of the first members appointed shall be determined by lot at their first meeting so that each year at least one term will expire. Thereafter, all appointments shall be for a term of four years. Each Youth Commissioner shall serve at the pleasure of the Council for a term of one year and until the appointment and qualification of a successor. Youth Commissioners may be reappointed for one additional one-year term.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(5), this action is an administrative activity that will not result in direct or indirect physical changes in the environment.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on September 2, 2025, and adopted on September 15, 2025, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Newsom, Loraine, Fernandez, Cwirko-Godycki and Diaz Nash</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
