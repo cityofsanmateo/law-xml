@@ -1332,7 +1332,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="|8.02" after="|8.02.290"/>
+        <codify:insert path="|8.02" after="|8.02.330"/>
         <num>8.02.350</num>
         <heading>SCHEDULE OF FEES AND CHARGES (County Code § 6.04.350).</heading>
         <text>Animal Control Program fees and charges established by this Code shall be as adopted and from time to time amended by the County and set forth in <cite doc="City of San Mateo, Cal., Code" path="6.04.350">Section 6.04.350</cite> of the <cite doc="San Mateo County, Cal., Ordinance Code">County Code</cite>.</text>

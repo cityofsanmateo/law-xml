@@ -1,0 +1,1101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2025-08" codify:doc="City of San Mateo, Cal., Code">
+  <num>2025-08</num>
+  <heading type="short">Animal Control Amendments — Ordinance Adoption</heading>
+  <heading type="long">Amending Chapter 8.02 "Animal Control" and Adding Chapter 8.34 "Animal Fanciers Permit" to the San Mateo Municipal Code</heading>
+  <meta>
+    <effective>2025-11-19</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2025-08.pdf">Ord. No. 2025-08</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-08</citation>
+    </citations>
+    <history>
+      <introduced>2025-10-06</introduced>
+      <adopted>2025-10-20</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo has authorized personnel from the County of San Mateo to administer and enforce Municipal Code <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> "Animal Control" on behalf of the City; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the San Mateo County Board of Supervisors recently adopted an Ordinance to amend the San Mateo <cite doc="San Mateo County, Cal., Ordinance Code">County Code</cite> related to Animal Control; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo wishes to continue to partner with the County to provide animal control services and wishes to maintain an animal control ordinance which is substantially the same as the County's Ordinance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> will provide clarity in definitions, streamline processes, improve enforceability, and above all else, provide enhanced public safety; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it is recommended <cite doc="City of San Mateo, Cal., Code" path="8.34">Chapter 8.34</cite> be added regarding Animal Fancier Permits to be consistent with the <cite doc="San Mateo County, Cal., Ordinance Code">County Code</cite> regulating the permit conditions and inspection requirements for those individuals who wish to keep a number of dogs or cats in excess of the number typically allowed.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="8.02.350"/>
+        <num>8.02.350</num>
+        <heading>Schedule of Fees and Charges (County Code § 6.04.350).</heading>
+        <text>This <cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350</cite> sets forth the fees for the Animal Control Program and Licensing Program. No animal shall be released to its Owner, or other Person responsible for the care, custody, or control of the animal, unless applicable fees have been paid.</text>
+        <text>Animal Control and Licensing fees and charges established by this code are as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>License Fees.</text>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <th>Dogs</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Unaltered dog</td>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>1-year license</td>
+                  <td>$55.00</td>
+                </tr>
+                <tr>
+                  <td>3-year license</td>
+                  <td>$160.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered dog Senior Pet Owner (over 60 yrs.)</td>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>1-year license</td>
+                  <td>$23.00</td>
+                </tr>
+                <tr>
+                  <td>3-year license</td>
+                  <td>$64.00</td>
+                </tr>
+                <tr>
+                  <td>Altered dog</td>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>1-year license</td>
+                  <td>$25.00</td>
+                </tr>
+                <tr>
+                  <td>3-year license</td>
+                  <td>$70.00</td>
+                </tr>
+                <tr>
+                  <td>Altered dog Senior Pet Owner (over 60 yrs.)</td>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>1-year license</td>
+                  <td>$10.00</td>
+                </tr>
+                <tr>
+                  <td>3-year license</td>
+                  <td>$25.00</td>
+                </tr>
+                <tr>
+                  <td>Misc. dog fees</td>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Late fee</td>
+                  <td>$20.00</td>
+                </tr>
+                <tr>
+                  <td>Duplicate tag</td>
+                  <td>$10.00</td>
+                </tr>
+                <tr>
+                  <th>Cats</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Unaltered cat</td>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>1-year license</td>
+                  <td>$20.00</td>
+                </tr>
+                <tr>
+                  <td>3-year license</td>
+                  <td>$55.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered cat Senior Pet Owner (over 60 yrs.)</td>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>1-year license</td>
+                  <td>$12.00</td>
+                </tr>
+                <tr>
+                  <td>3-year license</td>
+                  <td>$31.00</td>
+                </tr>
+                <tr>
+                  <td>Altered cat</td>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>1-year license</td>
+                  <td>$8.00</td>
+                </tr>
+                <tr>
+                  <td>3-year license</td>
+                  <td>$19.00</td>
+                </tr>
+                <tr>
+                  <td>Altered cat/ Senior Pet Owner (over 60 yrs.)</td>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>1-year license</td>
+                  <td>$5.00</td>
+                </tr>
+                <tr>
+                  <td>3-year license</td>
+                  <td>$12.00</td>
+                </tr>
+                <tr>
+                  <td>Misc. cat fees</td>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Late fee</td>
+                  <td>$7.00</td>
+                </tr>
+                <tr>
+                  <td>Duplicate tag</td>
+                  <td>$5.00</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Redemption Charges.</text>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <th>Type A &amp; B (large or medium size animals — horses, cows, hogs, sheep, etc.)</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Impound cost</td>
+                  <td>$100.00</td>
+                </tr>
+                <tr>
+                  <td>Board cost per day</td>
+                  <td>$30.00</td>
+                </tr>
+                <tr>
+                  <td>Trailering cost (per use)</td>
+                  <td>$100.00</td>
+                </tr>
+                <tr>
+                  <th>Type C (dogs, and cats)</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <th>Impound Costs — First Impound</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Altered — licensed, wearing tag</td>
+                  <td>$40.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered — licensed, wearing tag</td>
+                  <td>$65.00</td>
+                </tr>
+                <tr>
+                  <td>Altered — unlicensed, no tag</td>
+                  <td>$55.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered — unlicensed, no tag</td>
+                  <td>$85.00</td>
+                </tr>
+                <tr>
+                  <th>Impound Costs — Second Impound</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Altered — licensed, wearing tag</td>
+                  <td>$90.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered — licensed, wearing tag</td>
+                  <td>$125.00</td>
+                </tr>
+                <tr>
+                  <td>Altered — unlicensed, no tag</td>
+                  <td>$105.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered — unlicensed, no tag</td>
+                  <td>$140.00</td>
+                </tr>
+                <tr>
+                  <th>Impound Costs — Third Impound</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Altered — licensed, wearing tag</td>
+                  <td>$135.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered — licensed, wearing tag</td>
+                  <td>$155.00</td>
+                </tr>
+                <tr>
+                  <td>Altered — unlicensed, no tag</td>
+                  <td>$155.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered — unlicensed, no tag</td>
+                  <td>$180.00</td>
+                </tr>
+                <tr>
+                  <th>Impound Costs — Fourth Impound</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Altered — licensed, wearing tag</td>
+                  <td>$180.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered — licensed, wearing tag</td>
+                  <td>$215.00</td>
+                </tr>
+                <tr>
+                  <td>Altered — unlicensed, no tag</td>
+                  <td>$200.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered — unlicensed, no tag</td>
+                  <td>$240.00</td>
+                </tr>
+                <tr>
+                  <th>Impound Costs — Fifth Impound and up</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Altered — licensed, wearing tag</td>
+                  <td>$225.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered — licensed, wearing tag</td>
+                  <td>$260.00</td>
+                </tr>
+                <tr>
+                  <td>Altered — unlicensed, no tag</td>
+                  <td>$245.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered — unlicensed, no tag</td>
+                  <td>$285.00</td>
+                </tr>
+                <tr>
+                  <th>Board charges (per day)</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Altered — dogs</td>
+                  <td>$25.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered — dogs</td>
+                  <td>$35.00</td>
+                </tr>
+                <tr>
+                  <td>Altered — cats</td>
+                  <td>$16.00</td>
+                </tr>
+                <tr>
+                  <td>Unaltered — cats</td>
+                  <td>$22.00</td>
+                </tr>
+                <tr>
+                  <th>Type D (small size animals, e.g., birds, hamsters, or other)</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Impound cost</td>
+                  <td>$20.00</td>
+                </tr>
+                <tr>
+                  <td>Board cost</td>
+                  <td>$10.00</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Surrender, Euthanasia and DOA (Dead on Arrival) Disposal Fees.</text>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <th>Dog — Licensed or unlicensed</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Surrender</td>
+                  <td>$60.00</td>
+                </tr>
+                <tr>
+                  <td>Euthanasia</td>
+                  <td>$50.00</td>
+                </tr>
+                <tr>
+                  <td>DOA Disposal</td>
+                  <td>$30.00</td>
+                </tr>
+                <tr>
+                  <th>Cat — Licensed or unlicensed</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Surrender</td>
+                  <td>$60.00</td>
+                </tr>
+                <tr>
+                  <td>Euthanasia</td>
+                  <td>$50.00</td>
+                </tr>
+                <tr>
+                  <td>DOA Disposal</td>
+                  <td>$30.00</td>
+                </tr>
+                <tr>
+                  <th>Rabbit/Small Animal</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Surrender</td>
+                  <td>$40.00</td>
+                </tr>
+                <tr>
+                  <td>Euthanasia</td>
+                  <td>$30.00</td>
+                </tr>
+                <tr>
+                  <td>DOA Disposal</td>
+                  <td>$15.00</td>
+                </tr>
+                <tr>
+                  <th>Litter of Three or more</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Surrender</td>
+                  <td>$50.00</td>
+                </tr>
+                <tr>
+                  <td>Euthanasia</td>
+                  <td>$40.00</td>
+                </tr>
+                <tr>
+                  <td>DOA Disposal</td>
+                  <td>$20.00</td>
+                </tr>
+                <tr>
+                  <th>Bird/Fowl</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Surrender</td>
+                  <td>$20.00</td>
+                </tr>
+                <tr>
+                  <td>Euthanasia</td>
+                  <td>$15.00</td>
+                </tr>
+                <tr>
+                  <td>DOA Disposal</td>
+                  <td>$20.00</td>
+                </tr>
+                <tr>
+                  <th>All Other Companion Animals (Reptiles, Amphibians, etc.)</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Surrender</td>
+                  <td>$25.00</td>
+                </tr>
+                <tr>
+                  <td>Euthanasia</td>
+                  <td>$25.00</td>
+                </tr>
+                <tr>
+                  <td>DOA Disposal</td>
+                  <td>$20.00</td>
+                </tr>
+                <tr>
+                  <th>Farm Animals</th>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Surrender</td>
+                  <td>$60.00</td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>Euthanasia: Under 100 pounds</p>
+                    <p>Over 100 pounds</p>
+                  </td>
+                  <td>
+                    <p>$60.00</p>
+                    <p>$125.00</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>DOA Disposal: Under 100 Pounds</p>
+                    <p>Over 100 pounds</p>
+                  </td>
+                  <td>
+                    <p>$30.00</p>
+                    <p>$100.00</p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Other Animal Control Fees.</text>
+          <text>
+            <table>
+              <tbody>
+                <tr>
+                  <td>Quarantine Fee</td>
+                  <td>$60.00</td>
+                </tr>
+                <tr>
+                  <td>Dangerous Animal Permit (DAP) Fee</td>
+                  <td>$300.00</td>
+                </tr>
+                <tr>
+                  <td>DAP Inspection Fee</td>
+                  <td>$100.00</td>
+                </tr>
+                <tr>
+                  <td>DAP Signage</td>
+                  <td>$15.00</td>
+                </tr>
+                <tr>
+                  <td>Field Retrieval/Return Fee</td>
+                  <td>$40.00</td>
+                </tr>
+                <tr>
+                  <td>Breeding Permit Fee</td>
+                  <td>$150.00</td>
+                </tr>
+                <tr>
+                  <td>Fancier Permit and/or Exotic Pet Fee</td>
+                  <td>$100.00</td>
+                </tr>
+                <tr>
+                  <td>Return Check Fee</td>
+                  <td>$25.00</td>
+                </tr>
+                <tr>
+                  <td>Service Dog Application Processing Fee</td>
+                  <td>$50.00</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Miscellaneous fee provisions.</text>
+          <para>
+            <num>(1)</num>
+            <text>The Animal Control Program, and/or Licensing Program, may establish license discounts for recognized animal rescue organizations.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>License fees include a one dollar ($1) annual surcharge on all licenses for the animal population trust fund.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>At the discretion of the Animal Control Program Manager, a payment plan for all fees outstanding may be permitted upon a showing of good cause. If a Person is in compliance with an agreed upon payment plan, their outstanding balance shall never be considered "nonpayment" as that term is used in <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The animal control fees for any animal related service not specified in this section shall be reviewed by the Chief of Health or their designee for reimbursement of costs. The Chief of Health or their designee shall have the authority to determine the fee charged for said services. The fee charged shall be paid by the Owner or caretaker of the animal(s) for which said service(s) have been provided.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Each calendar year, the Animal Control Program Manager shall designate one month as an amnesty period for payment of cat and dog license late fees and for compliance with <cite doc="City of San Mateo, Cal., Code" path="8.02.020">section 8.02.020</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>, as provided herein. During the amnesty period, applicants for cat and dog licenses shall not be assessed any late penalty fee or any other penalty for failure to obtain such license or pay any applicable license fee, notwithstanding Sections <cite doc="City of San Mateo, Cal., Code" path="8.02.040">8.02.040</cite> and <cite doc="City of San Mateo, Cal., Code" path="8.02.350">8.02.350</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>All revenue derived from the fees, fines, forfeitures, and penalties related to the enforcement of this ordinance shall be used to offset the cost of enforcement and administration of <cite doc="City of San Mateo, Cal., Code" path="8.02">this Chapter</cite>.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>If the Animal Control Program Manager determines that payment of any fees by the Owner or caretaker for an impounded animal would cause extreme financial difficulty to the Owner or caretaker, and that it is in the best interests of the City to allow release of the animal upon these terms, the Animal Control Program Manager may, at their discretion, set up a payment plan or waive all or part of the fees incurred for the animal.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.420">Section 8.02.420 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="8.02.420" warning="false"/>
+        <num>8.02.420</num>
+        <heading>Spaying/Neutering (County Code § 6.12.020)</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any person who owns or harbors within the City, any cat or dog over the age of six months which has not been spayed or neutered, shall procure either a license to keep an unaltered dog or cat or a license and permit for breeding cats or dogs issued by the San Mateo County Animal Control Program under <cite doc="City of San Mateo, Cal., Code" path="8.02.030">Section 8.02.030</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A license shall be issued for an unaltered dog or cat if the owner signs a written statement that such animal will not be allowed to breed unless the owner has first obtained a breeding permit under <cite doc="City of San Mateo, Cal., Code" path="8.02.430">section 8.02.430</cite> of this code.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Any person providing care or sustenance for a period of thirty days or longer shall be deemed the owner of such animal and shall adhere to the provision of the section.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Subsection (c) above shall not be interpreted to apply to a person caring for barn cats or a colony of feral cats if such person:</text>
+          <para>
+            <num>(1)</num>
+            <text>Registers (at no charge) with the Peninsula Humane Society or San Mateo County Animal Control Services as a caretaker for barn cats or feral cats. Such registration shall be optional for barn cats or feral cat colonies located within RM-CZ (Resource Management Coastal Zone) or the PAD (Planned Agricultural District);</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Regularly feeds or arranges for the feeding of the cats, including on weekends and holidays;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Traps or makes a reasonable effort to trap all barn or feral cats over the age of eight (8) weeks in his/her care, and has them spayed or neutered;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Has all trapped cats tested for feline leukemia and has those who test positive humanely euthanized or isolated indoors;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Identifies barn or feral cats that have been spayed or neutered by means of ear notching, ear tipping, or ear tagging;</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Has all trapped cats vaccinated according to state and local laws.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.430">Section 8.02.430 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="8.02.430" warning="false"/>
+        <num>8.02.430</num>
+        <heading>Breeding Permits; Administration. (County Code §6.12.030)</heading>
+        <para>
+          <num>(a)</num>
+          <text>No person shall cause or allow any dog or cat owned or harbored in the City to breed without first obtaining a breeding permit under this Section.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>San Mateo County Animal Control Services shall administer a permit program to allow breeding of cats and dogs consistent with criteria and according to procedures contained in <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Each applicant who is issued a permit to breed cats or dogs under this section shall pay a breeding permit fee according to the fee schedule contained in <cite doc="City of San Mateo, Cal., Code" path="8.02.290">Section 8.02.290</cite> of this Code.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No person shall cause or allow the breeding of a male or female dog or cat without first obtaining a breeding permit issued by Animal Control Services. Such breeding permit is required in addition to any license required under <cite doc="City of San Mateo, Cal., Code" path="8.02.040">Section 8.02.040</cite> of this Code. Breeding permits shall be valid for twelve months, renewable on an annual basis. Fees for such permit shall be as set forth in <cite doc="City of San Mateo, Cal., Code" path="8.02.290">Section 8.02.290</cite>. All breeding permits shall contain the following terms and conditions and be subject to all of the following requirements:</text>
+          <para>
+            <num>(1)</num>
+            <text>No offspring may be sold or adopted and permanently placed until reaching an age of at least eight (8) weeks.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>No offspring may be sold or adopted until immunized against common diseases, or until they have begun a course of disease prevention under the direction of a State of California licensed veterinarian.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>If within one year of placement a new owner becomes unable or unwilling to continue ownership and responsibility for an animal, the permit holder shall assist in placement of the animal. If no suitable placement can be found within six (6) months, the permit holder shall accept return of the animal if healthy and shall become fully responsible for its care.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Any permit holder advertising to the public the availability of any animal for adoption or sale must prominently display the permit number in any publications in which they advertise. Further, the permit number must be provided to any person adopting or purchasing any animal bred by the permit holder.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The breeding permit holder shall adhere to Minimum Standards regarding the care and keeping of animals developed and approved by the Animal Control Services.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.440">Section 8.02.440 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="8.02.440" warning="false"/>
+        <num>8.02.440</num>
+        <heading>Sale or Adoption of Cats and Dogs. (County Code § 6.12.040)</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any person who provides or offers to the public, whether or not for compensation, any cat or dog shall provide to their clients, free of charge, information, relating to pet care and ownership, including information where applicable, on County laws pertaining to animal control. This required information will be prepared and provided by San Mateo County Animal Control Services upon request.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Any person offering cats or dogs for sale or adoption shall disclose to any purchaser or adoptive owner information regarding the licensing, registration or permit requirements of San Mateo County applicable to such animal.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>No person shall offer for sale or adoption any cat or dog on any public street, sidewalk or public park unless such person first obtains a business license to sell pets or is a recognized pet rescue/adoption agency such as Pets in Need and the Peninsula Humane Society.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Prior to release for adoption, any animal adopted from any animal welfare agency shall be spayed or neutered as early as is medically appropriate, unless the adoptive owner obtains a certificate from a licensed veterinarian certifying as to the health reasons for failing to alter such animal.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.450">Section 8.02.450 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="8.02.450" warning="false"/>
+        <num>8.02.450</num>
+        <heading>Revocation of Permit. (County Code § 6.12.050)</heading>
+        <para>
+          <num>(a)</num>
+          <text>Any permit issued pursuant to <cite doc="City of San Mateo, Cal., Code" path="8.02.430">Section 8.02.430</cite> may be revoked if the Animal Control Officer has reasonable cause to believe any of the following to be true:</text>
+          <para>
+            <num>(1)</num>
+            <text>The permittee has violated any state or local ordinances relating to the keeping, care or use of any animal including, but not limited to, those contained in <cite doc="City of San Mateo, Cal., Code" path="8">this Title</cite>;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The permittee is in violation of any State health or safety law or regulation regarding animal care or control;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The permittee has failed to comply with any condition or requirement of the permit or has failed to pay any fee imposed under this Code;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>The permittee refused to allow inspection, upon forty-eight hours written notice, of any animal covered by the permit or the premises on which the animal is kept; or</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>The permittee has transferred, sold or otherwise disposed of the animal for which the permit was issued.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>If, after inspection, the Animal Control Officer concludes that it is probable that one or more of the above grounds for revocation has occurred, it shall cause written notice thereof to be transmitted by mail to the address of the permittee. Said notice shall specify the grounds of possible revocation of the permit and shall specify a date and time for an informal hearing to be held before an Animal Control Officer. Said date shall be not less than five days subsequent to the date the notice is mailed. After the informal hearing, the Animal Control Officer may modify the terms of the permit or revoke the permit.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The permittee may appeal the decision of the Animal Control Officer to the County Environmental Health Officer if the permittee gives written notice of such appeal within five working days of the decision.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.460">Section 8.02.460 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="8.02.460" warning="false"/>
+        <num>8.02.460</num>
+        <heading>Penalty for Violation. (County Code § 6.12.060)</heading>
+        <text>Except as otherwise provided by <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>, any violation of the provisions of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite> shall be punishable as an infraction, the penalty of which shall be as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>A fine not to exceed one hundred ($100.00) dollars for a first violation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A fine not exceeding two hundred ($200.00) dollars for a second violation within one year.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>A fine not to exceed five hundred ($500.00) dollars for each additional violation within the same year.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.470">Section 8.02.470 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="8.02.470" warning="false"/>
+        <num>8.02.470</num>
+        <heading>Responsibility for Enforcement. (County Code § 6.12.070)</heading>
+        <text>The Animal Control Program shall be responsible for the enforcement and administration of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.480">Section 8.02.480 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="8.02.480" warning="false"/>
+        <num>8.02.480</num>
+        <heading>General Provisions and Definitions. (County Code § 6.20.010).</heading>
+        <para>
+          <num>(a)</num>
+          <text>The following shall be included when determining the number of animals kept: (1) any animal over the age of four (4) months; and (2) any animal to which care and sustenance have been provided for a period of thirty (30) days or longer, except where animals are boarded all animals over four (4) months shall be counted.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>For the purpose of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>, certain words and phrases are defined as follows:</text>
+          <para>
+            <num>(1)</num>
+            <text>"Animal Fanciers" shall mean a person, business or entity who keeps at least five (5) dogs, or five (5) cats, or any combination of dogs and cats which totals five (5), not to exceed ten (10) dogs, or ten (10) cats, or any combination of dogs and cats which totals ten (10) per one-family dwelling unit.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>"Catteries" shall mean a place for breeding, raising, keeping, boarding or other handling of more than (10) cats per dwelling unit or per business establishment. Ancillary activities that may be conducted in association with keeping of animals at a cattery include, but are not limited to, grooming, training, and sales of animals and supplies.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>"Kennels" shall mean a place for the breeding, raising, keeping, boarding or other handling of more than ten (10) dogs, or more than ten (10) dogs and cats per dwelling unit or per business establishment. Ancillary activities that may be conducted in association with the keeping of animals at a kennel include, but are not limited to, grooming, training, and sales of animals and supplies.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>9</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.490">Section 8.02.490 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="8.02.490" warning="false"/>
+        <num>8.02.490</num>
+        <heading>Keeping of Dogs and Cats. (County Code § 6.20.020).</heading>
+        <para>
+          <num>(a)</num>
+          <text>It shall be unlawful for any person, business or entity to keep or cause to be kept five (5) or more dogs, or five (5) or more cats, or five (5) dogs and cats in any combination per dwelling unit or per business establishment unless in conformance with <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>. In addition to any civil remedy provided for by law, a violation of any provision of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite> may be prosecuted as an infraction.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The requirement to obtain an animal fanciers' permit or a kennel/cattery permit per sections <cite doc="City of San Mateo, Cal., Code" path="8.02.500">8.02.500</cite>, shall not be applicable to the following:</text>
+          <para>
+            <num>(1)</num>
+            <text>Dogs or cats used for diagnostic purposes or research, the use having been approved by the California State Department of Health Services pursuant to <cite doc="Cal. Health &amp; Safety Code" path="§1666">section 1666 of the Health and Safety Code</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Dogs or cats used for teaching purposes in recognized educational institutions.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Seeing-eye dogs, other dogs trained for and used to assist disabled persons, or dogs trained for and used in drug enforcement, law enforcement or military operations.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Animal hospitals, as defined in sections <cite doc="City of San Mateo, Cal., Code" path="27.04.025">27.04.025</cite> and <cite doc="City of San Mateo, Cal., Code" path="27.24.020">27.24.020</cite> of <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite> of this code.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Pet sales and/or grooming establishments, as defined in <cite doc="City of San Mateo, Cal., Code" path="27.30.010">section 27.30.010</cite> of the City Zoning Code <cite doc="City of San Mateo, Cal., Code" path="27">Title 27</cite>.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>10</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.02.500">Section 8.02.500 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="8.02"/>
+        <num>8.02.500</num>
+        <heading>Animal fanciers; Permit requirement. (County Code § 6.20.030).</heading>
+        <text>Animal fanciers, as defined in <cite doc="City of San Mateo, Cal., Code" path="8.02.480|(b)|(1)">section 8.02.480(b)(1)</cite>, shall locate only in those zoning districts where animal fanciers is an allowed use, and be subject to an animal fanciers' permit when required by the County Zoning Regulations (Division 6, Part One of this Ordinance Code). The securing of an animal fanciers' permit shall be in conformance with <cite doc="City of San Mateo, Cal., Code" path="8.34">Chapter 8.34</cite> of <cite doc="City of San Mateo, Cal., Code" path="8">this Title</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>11</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="8.34">Chapter 8.34 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8">Title 8</cite> as follows:</text>
+    <include>
+      <container>
+        <codify:insert path="8"/>
+        <prefix>Chapter</prefix>
+        <num>8.34</num>
+        <heading>ANIMAL FANCIERS PERMIT</heading>
+        <section>
+          <num>8.34.010</num>
+          <heading>Animal fancier permit program. (County Code § 6.16.010).</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Division of Animal Control shall administer an animal fancier permit program as described by <cite doc="City of San Mateo, Cal., Code" path="8.34">this chapter</cite> to allow the keeping of dogs and/or cats up to a total of ten animals.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>In accordance with sections <cite doc="City of San Mateo, Cal., Code" path="8.02.480">8.02.480</cite> through <cite doc="City of San Mateo, Cal., Code" path="8.02.500">8.02.500</cite> of this code, up to a total of ten animals (dogs and/or cats) may be kept at any one premises, in those zoning districts prescribed in the City zoning regulations, provided that a fancier's permit issued by the Animal Control Program Manager in accordance with <cite doc="City of San Mateo, Cal., Code" path="8.34">this chapter</cite> in first obtained by the person keeping such animals.</text>
+          </para>
+        </section>
+        <section>
+          <num>8.34.020</num>
+          <heading>Application for animal fancier permit. (County Code § 6.16.020).</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any application for an Animal Fancier Permit shall be made to the Division of Animal Control on a form provided by the Division. The application shall include the name of the applicant, his or her residence address and telephone number, the address of the proposed location where the animals are to be kept if different from applicant's address, and a description of the housing facilities for the keeping of the animals. The application shall also state the number of dogs and/or cats to be kept and include a copy of the current license certificate issued under <cite doc="City of San Mateo, Cal., Code" path="8.02.040">section 8.02.040</cite> of this code for each animal to be kept. The Animal Control Program Manager may require the applicant to provide any other information (s)he seems necessary to properly evaluate the application.</text>
+          </para>
+        </section>
+        <section>
+          <num>8.34.030</num>
+          <heading>Issuance of permit. (County Code § 6.16.030).</heading>
+          <para>
+            <num>(a)</num>
+            <text>An application for a fancier's permit shall include a statement from the applicant that:</text>
+            <para>
+              <num>(1)</num>
+              <text>Keeping of the animals at the proposed location will not violate any federal, state or local law.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Appropriate facilities of sufficient size exist at the proposed location to safely and adequately secure, feed, house, exercise and maintain the animals.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The proposed location consists of a lot or lots of sufficient size to safely and adequately house, maintain and exercise the animals without disturbance to adjacent property owners or the public.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Possession and maintenance of the animals at the proposed location will not result in the animals being subject to neglect, cruelty, or abuse.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>The applicant has neither had any animal license or permit revoked, nor has been convicted of any violation of any provision of chapters 8.02 of this code or any other state or local animal control law, within the past year.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The keeping and maintenance of the animal will not create a public or private nuisance or endanger the public health, safety or welfare.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>The keeping of the animals at the proposed location complies with all County zoning regulations.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Animal Control Program Manager may investigate or require any further information or documentation which would assist in determining whether the statements made by the applicant are correct and whether the permit should be issued.</text>
+          </para>
+        </section>
+        <section>
+          <num>8.34.040</num>
+          <heading>Permit conditions. (County Code § 6.16.040).</heading>
+          <para>
+            <num>(a)</num>
+            <text>Any permit issued under <cite doc="City of San Mateo, Cal., Code" path="8.34">this chapter</cite> shall be made expressly subject to the following conditions:</text>
+            <para>
+              <num>(1)</num>
+              <text>The permit holder shall provide veterinary care as needed and make every effort to keep all animals free of disease and parasites.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The permit holder shall keep the animals' living quarters clean and sanitary.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Any cages or structures housing animals shall be of a sufficient size to insure the health, safety and comfort of the animals and shall be placed at least three (3) feet from any lot line in residential areas.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Any other conditions which the Division determines is reasonably necessary to protect the welfare of the animals kept or the public, health, safety or welfare.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The fancier permit fee established under <cite doc="City of San Mateo, Cal., Code" path="8.02.290">section 8.02.290</cite> of this code shall be paid by the applicant prior to issuance of the permit. Such fee shall be paid each time a permit is issued or renewed.</text>
+          </para>
+        </section>
+        <section>
+          <num>8.34.050</num>
+          <heading>Inspections. (County Code § 6.16.050).</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Animal Control Program Manager may require any permit holder to produce for inspection any required animal license, permit or certificate of vaccination.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The Animal Control Program Manager may, with 48 hours notice to the permit holder, conduct such inspections of the premises upon which animals are kept under a fancier's permit, as necessary to insure compliance with the conditions of the permit.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Such inspection of the premises shall be based on the direct observations of an animal control officer or upon a non-anonymous compliant.</text>
+          </para>
+        </section>
+        <section>
+          <num>8.34.060</num>
+          <heading>Expiration and renewal of permits. (County Code § 6.16.060).</heading>
+          <para>
+            <num>(a)</num>
+            <text>Permits issued under <cite doc="City of San Mateo, Cal., Code" path="8.34">this chapter</cite> shall expire one year after issuance.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Permits may be renewed on an annual basis upon filing of a new application containing updated information and payment of the annual fancier's permit fee established by <cite doc="City of San Mateo, Cal., Code" path="8.02.290">section 8.02.290</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>No permit shall be renewed if the Animal Control Program Manager has received two or more substantiated complaints concerning the location or manner of keeping of the animals or if the Animal Control Program Manager has determined that the findings set forth in <cite doc="City of San Mateo, Cal., Code" path="8.34.030">section 8.34.030</cite> cannot be made or that any of the grounds for revocation described by <cite doc="City of San Mateo, Cal., Code" path="8.34.070">section 8.34.070</cite> of <cite doc="City of San Mateo, Cal., Code" path="8.34">this chapter</cite> exist.</text>
+          </para>
+        </section>
+        <section>
+          <num>8.34.070</num>
+          <heading>Permit revocation. (County Code § 6.16.070).</heading>
+          <text>Any permit issued under <cite doc="City of San Mateo, Cal., Code" path="8.34">this chapter</cite> may be revoked by the Animal Control Program Manager if, after investigation, the Animal Control Program Manager finds reasonable cause to believe any of the following grounds exist:</text>
+          <para>
+            <num>(a)</num>
+            <text>The permittee has violated any animal control laws or regulations, any zoning or health and safety laws or any regulations relating to the keeping of animals.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The permittee has failed to keep and maintain in a clean and sanitary condition the premises on which the animals are kept.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>The permittee has acted in an inhumane or cruel manner in the treatment of the animals.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>The permittee has failed to provide any animal with proper food, water, exercise, shelter or veterinary care.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>The permittee has failed to comply with all conditions of the permit.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>The permittee has failed to pay any fee or obtain any license imposed under <cite doc="City of San Mateo, Cal., Code" path="6">title 6</cite> of this code.</text>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>The permittee has provided false information in the permit application or has failed to cooperate in allowing inspection of the premises by the Animal Control Program Manager.</text>
+          </para>
+        </section>
+        <section>
+          <num>8.34.080</num>
+          <heading>Appeal of revocation of permit. (County Code § 6.16.080).</heading>
+          <para>
+            <num>(a)</num>
+            <text>Prior to revocation of a permit, the Animal Control Program Manager shall provide written notice to the permittee of its intention to revoke the permit. Such notice shall contain a statement of the grounds supporting permit revocation and shall advise the permittee that the permit will be revoked unless a hearing before the Director of the Health System or his/her designee is requested in writing to the Animal Control Program Manager within ten days of the mailing of the notice. Any request for a hearing must specify the reasons the license should not be revoked and why the grounds cited in the notice do not exist.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Upon receipt of a request for hearing, the Animal Control Program Manager shall schedule a hearing before the Director of the Health System or his/her designee and shall provide the permittee with reasonable written notice of the date, time and place of the hearing.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>At the hearing, the petitioner and the Animal Control Program Manager may be represented by counsel, present oral and written evidence and cross-examine witnesses. The strict rules of evidence need not apply. Any relevant evidence may be admitted if it is the sort of evidence on which responsible persons are accustomed to rely in the conduct of serious affairs. In this regard, written statements, records or reports by a state or county officer or employee, or any law enforcement or fire protection officer or employee, or the animal control program or its agents, acting in the course and scope of their official duties, or written statements by any person made under penalty of perjury, may be admitted as evidence that the facts or conditions expressed therein do or do not exist.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>After the hearing, the hearing officer may revoke the permit or may impose additional conditions in order to allow continuation of the permit if he or she finds that substantial evidence supports the decision by the Animal Control Program Manager to revoke the permit. Alternatively, the hearing officer may determine that the permit should not be revoked.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>After a permit is revoked, the Animal Control Program Manager shall allow the permit holder reasonable time, not to exceed 90 days, to relocate those cats and dogs which may not be kept without a fancier permit: except that if the cause of revocation involves health or safety concerns or violations or animal neglect or cruelty the Animal Control Program Manager may immediately impound all of the animals.</text>
+          </para>
+        </section>
+        <section>
+          <num>8.34.090</num>
+          <heading>New application after denial or revocation. (County Code § 6.16.090).</heading>
+          <text>If a license has been denied or revoked, the Animal Control Program Manager shall not accept a new application by the same person or member of the person's household less than twelve (12) months after such denial or revocation unless the applicant shows and Animal Control Program Manager determines that the grounds upon which the first license or application was denied or revoked no longer exist. Upon revocation, no part of the permit fee shall be refunded.</text>
+        </section>
+        <section>
+          <num>8.34.100</num>
+          <heading>Administrative guidelines. (County Code § 6.16.100).</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Animal Control Program Manager may formulate administrative guidelines in conformity with, and for the purpose of implementing, <cite doc="City of San Mateo, Cal., Code" path="8.34">this chapter</cite>.</text>
+          </para>
+        </section>
+        <section>
+          <num>8.34.110</num>
+          <heading>Mediation. (County Code § 6.16.110).</heading>
+          <text>Upon receipt of a nuisance complaint regarding the holder of an Animal Fancier Permit, the Animal Control Program Manager ("Manager") may require the complainant(s) to mediate with the Animal Fancier permit holder as a precondition of investigation, citation and abatement of the nuisance. Such cases may be referred to the County Mediation Program. If the Manager determines mediation is appropriate and the complainants agree to mediate but the alleged violator refuses, the Manager may proceed with investigation and any appropriate enforcement.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>12</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 21065, this action is not a project subject to CEQA, because it can be seen with certainty that it will not cause a physical change in the environment.</text>
+  </section>
+  <section>
+    <num>13</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>14</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>15</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on October 6, 2025, and adopted on October 20, 2025, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Newsom, Fernandez, Cwirko-Godycki and Diaz Nash</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>Council Member Loraine</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
