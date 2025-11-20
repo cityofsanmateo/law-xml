@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2025-10" codify:doc="City of San Mateo, Cal., Code">
+  <num>2025-10</num>
+  <heading type="short">Establish the Civic Arts Committee as a Standing Commission – Ordinance Adoption</heading>
+  <heading type="long">An Ordinance Adding San Mateo Municipal Code Chapter 2.22 and Amending Chapter 23.60 to update the Civic Arts Committee to be a Standing City Commission</heading>
+  <meta>
+    <effective>2025-12-03</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2025-10.pdf">Ord. No. 2025-10</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-10</citation>
+    </citations>
+    <history>
+      <introduced>2025-10-20</introduced>
+      <adopted>2025-11-03</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 3, 2025, the City Council directed staff to update San Mateo Municipal Code ("SMMC") <cite doc="City of San Mateo, Cal., Code" path="23.60">Chapter 23.60</cite> to bring the Civic Arts Committee ("Committee") into alignment with the appointment and term limits practices of other City advisory bodies; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Committee was formed in 2008 as a special committee subject to the provisions of Section 6.09 of the San Mateo City Charter to support administration of the Art in Public Places Program; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council has renewed the Civic Arts Committee every two years since its formation and now desires that it continue as a standing City commission; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the applicable sections of the Art in Public Places Ordinance (SMMC <cite doc="City of San Mateo, Cal., Code" path="23.60">Chapter 23.60</cite>) are updated to reflect the title of the Civic Arts Commission.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="2.22">Chapter 2.22 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="2">Title 2</cite> as follows:</text>
+    <include>
+      <container>
+        <codify:insert path="2" after="2.21"/>
+        <prefix>Chapter</prefix>
+        <num>2.22</num>
+        <heading> Civic Arts Commission</heading>
+        <section>
+          <num>2.22.010</num>
+          <heading>Organization.</heading>
+          <text>The Civic Arts Commission of the City shall consist of no more than five members appointed by the Council, and two non-voting youth advisory members who must be at least 13 years old, and no more than 17 years old at the time of appointment ("Youth Commissioners"). Youth Commissioners must present written documentation of parental or guardian consent to be considered for appointment. Youth commissioners shall serve only in an advisory capacity and shall not count towards a quorum of the commission. In making appointments, the Council shall prioritize appointing applicants who display an interest in and appreciation of art, architecture, local business, or the broader art community.</text>
+          <text>Each member of the Civic Arts Commission shall serve at the pleasure of the Council and for a term of four years or until the appointment of a successor, except that the initial terms of the first members appointed shall be determined by lot at their first meeting so that each year at least one term will expire. Thereafter, all appointments shall be for a term of four years. No member shall be eligible for reappointment after serving two consecutive four-year terms. Each Youth Commissioner shall serve at the pleasure of the Council for a term of one year and until the appointment and qualification of a successor. Youth Commissioners may be reappointed for one additional one-year term.</text>
+        </section>
+        <section>
+          <num>2.22.020</num>
+          <heading>Meetings.</heading>
+          <text>The Civic Arts Commission shall elect a chair and vice-chair to serve at the pleasure of the Commission. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless otherwise provided by law.</text>
+        </section>
+        <section>
+          <num>2.22.030</num>
+          <heading>Powers – Duties.</heading>
+          <text>It shall be the duty of the Civic Arts Commission, as an advisory body to the City Council, to advise on policies and programs related to public art as assigned and to carry out the duties as established in <cite doc="City of San Mateo, Cal., Code" path="23.60.100">Chapter 23.60</cite> (Art in Public Places).</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.60.020">Section 23.60.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="23.60.020"/>
+        <num>23.60.020</num>
+        <heading>Program Execution.</heading>
+        <text>The Civic Arts Commission and the Community Development Department shall carry out the duties established by <cite doc="City of San Mateo, Cal., Code" path="23.60">this chapter</cite>.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.60.080">Section 23.60.080 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="23.60.080"/>
+        <num>23.60.080</num>
+        <heading>Approval for Placement of Artwork on Private Property</heading>
+        <para>
+          <num>(a)</num>
+          <text>Completed applications shall be submitted to the Community Development Department for review of the artwork.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Community Development Department shall present the completed application to the Civic Arts Commission. The Civic Arts Commission shall review the application for installation of the artwork considering its proposed location, the aesthetic quality and harmony with the proposed project, and the public accessibility to the artwork, including any recommended conditions of approval.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Civic Arts Commission shall approve a request to install artwork on private property, if it finds:</text>
+          <para>
+            <num>(1)</num>
+            <text>The aesthetic quality of the artwork merits approval;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The location of the proposed artwork is compatible and in harmony with the proposed development project and with the character of adjacent developed parcels; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>There is sufficient public accessibility to the artwork.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The decision of the Civic Arts Commission is subject to a fifteen-day review period by the City Council, and then becomes final. During this fifteen-day review period, any person may appeal a Civic Arts Commission decision to the City Council, who shall conduct a hearing thereon. The decision of the City Council shall be final.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.60.100">Section 23.60.100 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="23.60.100"/>
+        <num>23.60.100</num>
+        <heading>Artwork on Public Property</heading>
+        <para>
+          <num>(a)</num>
+          <text>Every two years, the Civic Arts Commission shall prepare and submit to the City Council a report for the Art in Public Places Program. The report shall include a discussion of the amount of money in the Art in Public Places Fund ("the Fund"), any plans for the expenditure of money from the Fund, and any other matters the Civic Arts Commission deems appropriate to include in the report.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Before money from the Fund is expended to purchase and install artwork on public property, the Civic Arts Commission shall consider the proposed expenditure and make a recommendation on the proposal to the City Council. In addition, at any time the Civic Arts Commission may make a recommendation to the City Council to purchase a particular artwork to be displayed on public property. Any recommendations made under this provision shall include the type of artwork considered, an analysis of the constraints applicable to placement of the artwork on a site, the need for and practicality of the maintenance of the artwork, and the costs of acquisition and installation of the artwork.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(5), this action is an administrative activity that will not result in direct or indirect physical changes in the environment.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on October 20, 2025, and adopted on November 3, 2025 and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Newsom, Loraine, Fernandez, Cwirko-Godycki and Diaz Nash</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
