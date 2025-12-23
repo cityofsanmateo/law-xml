@@ -1,0 +1,255 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2025-11" codify:doc="City of San Mateo, Cal., Code">
+  <num>2025-11</num>
+  <heading type="short">Housing Element Implementation, Tenant Protection Policies – New Ch 10.100</heading>
+  <heading type="long">Adding Chapter 10.100 of Title 10 of the San Mateo Municipal Code "Residential Tenant Protection Program" to Prevent Tenant Displacement and Provide Relocation Benefits to Tenants Lawfully Occupying a Unit for At Least Eleven Months</heading>
+  <meta>
+    <effective>2025-12-31</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2025-11.pdf">Ord. No. 2025-11</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2025-11</citation>
+    </citations>
+    <history>
+      <introduced>2025-11-17</introduced>
+      <adopted>2025-12-01</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under Housing Element Policy H 3.4(a), the City committed to extending the provisions of Assembly Bill 1482 (AB 1482) to require tenant relocation payments for No Fault evictions to tenants with a tenure of less than one year, and to consider a right of first refusal for tenants evicted due to demolition or substantial renovation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>under Housing Element Policy H 3.4(b), the City considered options for establishing a right to return policy for tenants displaced from homes due to demolition or substantial remodels; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on April 21, 2025, the City Council directed staff to extend AB 1482 protections to those continuously and lawfully residing in residential real property for at least 11 months, and to require that tenants evicted from residential real property due to demolition or substantial remodel be notified of the availability of the property once the renovation is completed.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="10.100">Chapter 10.100 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="10">Title 10</cite> as follows:</text>
+    <include>
+      <container>
+        <codify:insert path="10" after="10.90"/>
+        <prefix>Chapter</prefix>
+        <num>10.100</num>
+        <heading>Residential Tenant Protection Program</heading>
+        <section>
+          <num>10.100.010</num>
+          <heading>Binding Findings; Definitions; Citation.</heading>
+          <para>
+            <num>(a)</num>
+            <text>Binding Findings. Pursuant to <cite doc="Cal. Civ. Code" path="§1946.2|(i)|(1)|(B)">Civil Code Section 1946.2(i)(1)(B)</cite>(iii), the City Council hereby makes the following binding findings within <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite>, that <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite> is more protective than the provisions of <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite> because:</text>
+            <para>
+              <num>(1)</num>
+              <text>The just cause for termination of a residential tenancy under <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite> is consistent with <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite>, because it incorporates that section by reference into <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite>; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><cite doc="City of San Mateo, Cal., Code" path="10.100">This chapter</cite> provides additional tenant protections that are not prohibited by any other provision of law, because it provides for relocation assistance and extends the protections of no-fault just cause eviction procedures to tenants who have resided in a unit for at least 11 months, which is greater than the protections available to tenants covered by <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite>; and</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The provisions of <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite> are incorporated into <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite> by reference. Except as provided expressly herein, <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite> is not intended to alter in any other way any protections provided to tenants by <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite> and shall cover those tenants of residential real property in the City of San Mateo that are covered by <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite>.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>As provided in <cite doc="Cal. Civ. Code" path="§1946.2|(i)|(2)">Civil Code Section 1946.2(i)(2)</cite>, a residential real property shall not be subject to both a local ordinance requiring just cause for termination of a residential tenancy and <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite>. <cite doc="City of San Mateo, Cal., Code" path="10.100">This chapter</cite> incorporates <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite> by reference, intends that <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite> apply to residential tenants covered by <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite> in the City of San Mateo, and that those provisions of <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite> which differ from <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite> supplement and are more protective of residential tenants than <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Definitions. For the purposes of <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite>, the following definitions shall apply:</text>
+            <para>
+              <num>(1)</num>
+              <text>Owner or landlord shall mean any person, acting as principal or through an agent, having the right to offer residential real property for rent, and includes a predecessor in interest to the owner.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Rent shall mean all periodic payments and all nonmonetary consideration including, but not limited to, the fair market value of goods, labor performed or services rendered to or for the benefit of the owner under a rental agreement concerning the use and occupancy of a residential real property and all attendant housing services, including all payments and consideration demanded or paid for parking, utility charges, pets, furniture and other benefits, privilege or facility connected with the use or occupancy of the residential real property.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Residential real property shall have the same meaning as that term is defined in <cite doc="Cal. Civ. Code" path="§1954.51">Civil Code Section 1954.51</cite>, which, for convenience, defines residential real property as follows: "…includes any dwelling or unit that is intended for human habitation".</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Tenancy shall have the same meaning as that term is defined in <cite doc="Cal. Civ. Code" path="§1954.51">Civil Code Section 1954.51</cite>, which, for convenience, defines tenancy as follows: "…includes the lawful occupation of real property and includes a lease or sublease."</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Citation.  <cite doc="City of San Mateo, Cal., Code" path="10.100">This chapter</cite> may be referred to as the "Residential Tenant Protection Program" of the City of San Mateo. The words "<cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite>" and "this ordinance" are used interchangeably herein.</text>
+          </para>
+        </section>
+        <section>
+          <num>10.100.020</num>
+          <heading>No-Fault Just Cause Evictions; Relocation Assistance; Notice Of Curable Lease Violations.</heading>
+          <para>
+            <num>(a)</num>
+            <text>No-Fault Just Cause Evictions at Eleven Months.</text>
+            <para>
+              <num>(1)</num>
+              <text>Notwithstanding any other law, after a tenant has continuously and lawfully occupied a residential real property for 11 months, the owner of the residential real property shall not terminate a tenancy without just cause as specified in <cite doc="Cal. Civ. Code" path="§1946.2|(b)|(2)">Civil Code Section 1946.2(b)(2)</cite>, which shall be stated in the written notice to terminate tenancy. If any additional adult tenants are added to the lease before an existing tenant has continuously and lawfully occupied the residential real property for 24 months, then this subsection shall only apply if either of the following are satisfied:</text>
+              <para>
+                <num>(A)</num>
+                <text>All of the tenants have continuously and lawfully occupied the residential real property for 11 months or more.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>One or more tenants have continuously and lawfully occupied the residential real property for 24 months or more.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>Relocation Assistance for No-Fault Just Cause Evictions at Eleven Months.</text>
+            <para>
+              <num>(1)</num>
+              <text>For a tenancy for which just cause is required to terminate the tenancy under this ordinance, if an owner issues a termination notice for a no-fault just cause as defined in <cite doc="Cal. Civ. Code" path="§1946.2|(b)|(2)">Civil Code Section 1946.2(b)(2)</cite> the owner shall, regardless of the tenant's income, assist the tenant to relocate by providing a direct payment to the tenant as described in subsection (b)(3) of this section.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>If the owner issues a notice to terminate a tenancy for no-fault just cause as defined in <cite doc="Cal. Civ. Code" path="§1946.2|(b)|(2)">Civil Code Section 1946.2(b)(2)</cite>, the owner shall notify the tenant of the tenant's right to relocation assistance and the amount of the relocation assistance at the time the owner issues the notice of termination.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Amount.</text>
+              <para>
+                <num>(A)</num>
+                <text>The amount of relocation assistance shall be equal to one month of the tenant's rent that was in effect when the owner issued the notice to terminate the tenancy.</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>The owner shall provide one-half of the relocation assistance owed to the tenant within 15 calendar days of service of the notice of termination. The remaining relocation assistance may be provided either (1) in the form of a waiver in writing of a portion of the payment of rent for the final month of tenancy, prior to the rent becoming due, or (2) a payment in cash paid no later than the date the tenant vacates the residential real property.</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>If a tenant fails to vacate after the expiration of the notice to terminate the tenancy, the actual amount of any relocation assistance or rent waiver provided pursuant to this subsection shall be recoverable as damages in an action to recover possession.</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>The relocation assistance or rent waiver required by this subsection shall be credited against any other relocation assistance required by any other law, including the relocation assistance required by <cite doc="Cal. Civ. Code" path="§1946.2">Civil Code Section 1946.2</cite>.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Notwithstanding anything set forth herein, a tenant shall not be entitled to the relocation assistance provided in subsection (a)(3) of this section if the notice of termination is given because the owner is complying with an order issued by a government agency or court relating to habitability that necessitates vacating the residential real property if it is determined by any government agency or court that the tenant is at fault for the conditions or conditions triggering the order or need to vacate.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>An owner's failure to strictly comply with this subsection shall render the notice of termination void.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Notice of Curable Lease Violations. As provided in <cite doc="Cal. Civ. Code" path="§1946.2|(c)">Civil Code Section 1946.2(c)</cite>, before an owner of residential real property issues a notice to terminate a tenancy for just cause that is a curable lease violation, the owner shall first give notice of the violation to the tenant with an opportunity to cure the violation pursuant to subsection (3) of <cite doc="Cal. Civ. Proc. Code" path="§1161">Section 1161 of the Code of Civil Procedure</cite>. If the violation is not cured within the time period set forth in the notice, a three-day notice to quit without an opportunity to cure may thereafter be served to terminate the tenancy.</text>
+          </para>
+        </section>
+        <section>
+          <num>10.100.030</num>
+          <heading>Notice Of Tenant Rights.</heading>
+          <para>
+            <num>(a)</num>
+            <text>An owner of residential real property subject to <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite> shall provide notice to the tenant as follows:</text>
+            <para>
+              <num>(1)</num>
+              <text>For any tenancy commenced or renewed on or after the effective date of the ordinance codified in <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite>, as an addendum to the lease or rental agreement, or as a written notice signed by the tenant, with a copy provided to the tenant.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>For a tenancy existing prior to the effective date of the ordinance codified in <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite>, by written notice to the tenant no later than February 1, 2026, or as an addendum to the lease or rental agreement.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>The notification or lease provision shall be in no less than 12-point type, shall be in English and Spanish, and shall include the following:</text>
+            <text>
+              <em>California law limits the amount your rent can be increased. See <cite doc="Cal. Civ. Code" path="§1947.12">Section 1947.12 of the Civil Code</cite> for more information. California law also provides that after all of the tenants have continuously and lawfully occupied the property for 12 months or more or at least one of the tenants has continuously and lawfully occupied the property for 24 months or more, a landlord must provide a statement of cause in any notice to terminate a tenancy. See <cite doc="Cal. Civ. Code" path="§1946.2">Section 1946.2 of the Civil Code</cite> for more information. In addition, City of San Mateo Municipal Code Section 10.100.020 (Relocation Assistance for No-Fault Just Cause Evictions; Notice of Curable Lease Violations) extends the protections of state law to tenants who have continuously and lawfully occupied the property for 11 months; see City of San Mateo Municipal Code Section 10.100.020 for more information.</em>
+            </text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Manner. Landlords must provide the notice to tenants in writing if the application and lease are processed in writing, electronically if the application and/or lease are processed electronically, or both if both methods are utilized. The provision of the notice shall be subject to <cite doc="Cal. Civ. Code" path="§1632">Civil Code Section 1632</cite>.</text>
+          </para>
+        </section>
+        <section>
+          <num>10.100.040</num>
+          <heading>Notice Of Availability Of Remodeled Property.</heading>
+          <text>Where a landlord terminates a tenancy for no-fault just cause as defined in <cite doc="Cal. Civ. Code" path="§1946.2|(b)|(2)|(D)">Civil Code Section 1946.2(b)(2)(D)</cite> (intent to demolish or to substantially remodel the residential real property), once the renovation of the property is complete and available for leasing, the landlord shall immediately issue a notice of availability of the property to the tenant(s) who were evicted from the property.</text>
+        </section>
+        <section>
+          <num>10.100.050</num>
+          <heading>Landlord Retaliation Prohibited.</heading>
+          <text>Under <cite doc="Cal. Civ. Code" path="§1942.5">Civil Code Section 1942.5</cite>, it is illegal for a landlord to retaliate against a tenant for lawfully and peaceably exercising their legal rights. No landlord may take any action increasing any rental amount, reducing any service, causing the tenant to involuntarily quit the premises, or discriminating against the tenant because of the tenant's use of any remedy provided by <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite>.</text>
+        </section>
+        <section>
+          <num>10.100.060</num>
+          <heading>Nonwaiver.</heading>
+          <text>Any waiver or purported waiver by a tenant of their rights under <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite> prior to the time when such rights may be exercised shall be void as contrary to public policy.</text>
+        </section>
+        <section>
+          <num>10.100.070</num>
+          <heading>Remedies.</heading>
+          <text>In the event of a violation of <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite>, a residential tenant may institute a civil proceeding for injunctive relief, money damages, and whatever other relief the court deems appropriate. The remedy available under this section shall be in addition to any other existing remedies which may be available to the residential tenant under local, county, state or federal law. In addition, <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite> grants a defense to eviction to any unlawful detainer actions in violation of <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite>.</text>
+        </section>
+        <section>
+          <num>10.100.080</num>
+          <heading>Severability.</heading>
+          <text>If any section, subsection, sentence, clause or phrase of <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite> is for any reason held by a court of competent jurisdiction to be invalid, such decision shall not affect the validity of the remaining portions of <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite>. The City Council declares that it would have adopted <cite doc="City of San Mateo, Cal., Code" path="10.100">this chapter</cite> and each section, subsection, sentence, clause and phrase thereof, irrespective of the fact that any one or more section, subsection, sentence, clause, or phrase be declared invalid.</text>
+        </section>
+        <section>
+          <num>10.100.090</num>
+          <heading>Term.</heading>
+          <text><cite doc="City of San Mateo, Cal., Code" path="10.100">This Chapter</cite> shall remain in effect only until January 1, 2030, and as of that date is automatically repealed.</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <heading>Environmental Determination.</heading>
+    <text>The City Council action is not a project subject to CEQA, because it is an organizational or administrative activity that will not result in direct or indirect physical changes to the environment (CEQA Guidelines Section 15378(b)(5).)  Even if adoption of the ordinance were a project, it would be exempt from CEQA because it can be seen with certainty that there is no possibility that the ordinance will have a significant effect on the environment (CEQA Guidelines Section 15061(b)(3)).</text>
+  </section>
+  <section>
+    <num>3</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on November 17, 2025, and adopted on December 1, 2025, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Newsom, Loraine, Fernandez, Cwirko-Godycki and Diaz Nash</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
