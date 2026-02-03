@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="Editor Action 2026-02-03">
+  <meta>
+    <effective>2026-02-03</effective>
+    <history>
+      <adopted>2026-02-03</adopted>
+    </history>
+  </meta>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2021-22" history="false">
+    <codify:replace applicability="2021-12-15" doc="City of San Mateo, Cal., Code" path="2.05|heading" history="false">
+      <heading>CITY COUNCIL DISTRICT ELECTIONS</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2025-10" history="false">
+    <codify:replace applicability="2025-12-03" doc="City of San Mateo, Cal., Code" path="2.22|heading" history="false">
+      <heading>CIVIC ARTS COMMISSION</heading>
+      <!-- check -->
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="Editor Action 2025-06-05" history="false">
+    <codify:replace applicability="2025-01-08" doc="City of San Mateo, Cal., Code" path="2.29|heading" history="false">
+      <heading>SENIOR ADVISORY COMMISSION</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2021-16" history="false">
+    <codify:replace applicability="2021-07-21" doc="City of San Mateo, Cal., Code" path="3.35|heading" history="false">
+      <heading>CLAIMS</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2021-6" history="false">
+    <codify:replace applicability="2021-03-18" doc="City of San Mateo, Cal., Code" path="5.66|heading" history="false">
+      <heading>SHORT TERM RENTALS</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2021-3" history="false">
+    <codify:replace applicability="2021-04-01" doc="City of San Mateo, Cal., Code" path="5.89|heading" history="false">
+      <heading>DISPOSABLE FOOD SERVICE WARE</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2021-27" history="false">
+    <codify:replace applicability="2022-01-05" doc="City of San Mateo, Cal., Code" path="7.35|heading" history="false">
+      <heading>MANDATORY ORGANIC WASTE DISPOSAL REDUCTION ORDINANCE</heading>
+      <!-- check -->
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2023-13" history="false">
+    <codify:replace applicability="2024-01-03" doc="City of San Mateo, Cal., Code" path="7.35|heading" history="false">
+      <heading>MANDATORY ORGANIC WASTE DISPOSAL</heading>
+      <!-- check -->
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2019-6" history="false">
+    <codify:replace applicability="2019-07-17" doc="City of San Mateo, Cal., Code" path="7.50|heading" history="false">
+      <heading>PROPERTY OWNER OBLIGATIONS WITH RESPECT TO TENANTS DISPLACED FROM UNSAFE OR SUBSTANDARD UNITS</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2020-15" history="false">
+    <codify:replace applicability="2020-10-21" doc="City of San Mateo, Cal., Code" path="10.28|heading" history="false">
+      <heading>SAFE GUN STORAGE</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2022-6" history="false">
+    <codify:replace applicability="2022-07-06" doc="City of San Mateo, Cal., Code" path="10.90|heading" history="false">
+      <heading>ACCESS TO REPRODUCTIVE HEALTH CARE FACILITIES ORDINANCE</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2025-11" history="false">
+    <codify:replace applicability="2025-12-31" doc="City of San Mateo, Cal., Code" path="10.100|heading" history="false">
+      <heading>RESIDENTIAL TENANT PROTECTION PROGRAM</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2021-21" history="false">
+    <codify:replace applicability="2021-11-03" doc="City of San Mateo, Cal., Code" path="11.29|heading" history="false">
+      <heading>PEDESTRIAN MALLS</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2019-5" history="false">
+    <codify:replace applicability="2019-06-19" doc="City of San Mateo, Cal., Code" path="11.30|heading" history="false">
+      <heading>SHARED MOBILITY</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2021-13" history="false">
+    <codify:replace applicability="2021-07-01" doc="City of San Mateo, Cal., Code" path="13.40|heading" history="false">
+      <heading>PROTECTED TREES</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2025-09" history="false">
+    <codify:replace applicability="2025-12-03" doc="City of San Mateo, Cal., Code" path="23.29|heading" history="false">
+      <heading>WILDLAND-URBAN INTERFACE CODE</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2022-11" history="false">
+    <codify:replace applicability="2023-01-01" doc="City of San Mateo, Cal., Code" path="23.30|heading" history="false">
+      <heading>DANGEROUS BUILDING CODE</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2019-13" history="false">
+    <codify:replace applicability="2019-12-18" doc="City of San Mateo, Cal., Code" path="23.36|heading" history="false">
+      <heading>HISTORICAL BUILDING CODE</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2021-24" history="false">
+    <codify:replace applicability="2022-01-14" doc="City of San Mateo, Cal., Code" path="23.65|heading" history="false">
+      <heading>CHILD CARE DEVELOPMENT FEE</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2025-09" history="false">
+    <codify:replace applicability="2025-12-03" doc="City of San Mateo, Cal., Code" path="23.70|heading" history="false">
+      <heading>GREEN BUILDING STANDARDS CODE</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2022-10" history="false">
+    <codify:replace applicability="2022-11-02" doc="City of San Mateo, Cal., Code" path="27.21|heading" history="false">
+      <heading>TWO-UNIT DEVELOPMENT RESIDENTIAL OVERLAY DISTRICT – R1 DISTRICTS</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2022-10" history="false">
+    <codify:replace applicability="2022-11-02" doc="City of San Mateo, Cal., Code" path="27.21|I|heading" history="false">
+      <heading>TWO-UNIT DEVELOPMENT</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2022-10" history="false">
+    <codify:replace applicability="2022-11-02" doc="City of San Mateo, Cal., Code" path="27.21|II|heading" history="false">
+      <heading>URBAN LOT SPLITS</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2024-4" history="false">
+    <codify:replace applicability="2024-08-14" doc="City of San Mateo, Cal., Code" path="27.94|heading" history="false">
+      <heading>HOUSING OPPORTUNITIES OVERLAY DISTRICT (H)</heading>
+    </codify:replace>
+  </codify:insert>
+</document>
