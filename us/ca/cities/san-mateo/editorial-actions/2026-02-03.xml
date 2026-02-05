@@ -14,7 +14,6 @@
   <codify:insert doc="City of San Mateo, Cal., Ord. No. 2025-10" history="false">
     <codify:replace applicability="2025-12-03" doc="City of San Mateo, Cal., Code" path="2.22|heading" history="false">
       <heading>CIVIC ARTS COMMISSION</heading>
-      <!-- check -->
     </codify:replace>
   </codify:insert>
   <codify:insert doc="Editor Action 2025-06-05" history="false">
@@ -40,13 +39,11 @@
   <codify:insert doc="City of San Mateo, Cal., Ord. No. 2021-27" history="false">
     <codify:replace applicability="2022-01-05" doc="City of San Mateo, Cal., Code" path="7.35|heading" history="false">
       <heading>MANDATORY ORGANIC WASTE DISPOSAL REDUCTION ORDINANCE</heading>
-      <!-- check -->
     </codify:replace>
   </codify:insert>
   <codify:insert doc="City of San Mateo, Cal., Ord. No. 2023-13" history="false">
     <codify:replace applicability="2024-01-03" doc="City of San Mateo, Cal., Code" path="7.35|heading" history="false">
       <heading>MANDATORY ORGANIC WASTE DISPOSAL</heading>
-      <!-- check -->
     </codify:replace>
   </codify:insert>
   <codify:insert doc="City of San Mateo, Cal., Ord. No. 2019-6" history="false">
@@ -97,6 +94,11 @@
   <codify:insert doc="City of San Mateo, Cal., Ord. No. 2019-13" history="false">
     <codify:replace applicability="2019-12-18" doc="City of San Mateo, Cal., Code" path="23.36|heading" history="false">
       <heading>HISTORICAL BUILDING CODE</heading>
+    </codify:replace>
+  </codify:insert>
+  <codify:insert doc="City of San Mateo, Cal., Ord. No. 2019-13" history="false">
+    <codify:replace applicability="2019-12-18" doc="City of San Mateo, Cal., Code" path="23.38|heading" history="false">
+      <heading>REFERENCED STANDARDS CODE</heading>
     </codify:replace>
   </codify:insert>
   <codify:insert doc="City of San Mateo, Cal., Ord. No. 2021-24" history="false">
