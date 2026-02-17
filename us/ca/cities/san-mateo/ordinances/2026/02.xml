@@ -55,18 +55,16 @@
     <num>1</num>
     <text>The title of <cite doc="City of San Mateo, Cal., Code" path="27.19">Chapter 27.19 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
-      <container>
-        <heading>ACCESSORY DWELLING UNITS AND JUNIOR ACCESSORY DWELLING UNITS</heading>
-      </container>
+      <heading>ACCESSORY DWELLING UNITS AND JUNIOR ACCESSORY DWELLING UNITS</heading>
     </include>
-    <codify:replace path="27.19|heading">
+    <codify:replace path="27.19|heading" history-dest="container">
       <heading>ACCESSORY DWELLING UNITS AND JUNIOR ACCESSORY DWELLING UNITS</heading>
     </codify:replace>
   </section>
   <section>
     <num>2</num>
     <text>The title that precedes <cite doc="City of San Mateo, Cal., Code" path="27.19.010">Section 27.19.010 of the San Mateo Municipal Code</cite>, and that reads, "Article I Accessory Dwelling Unit" is deleted.</text>
-    <codify:remove path="27.19|article-I-subheading"/>
+    <codify:remove path="27.19|article-I-subheading" history-dest="container"/>
   </section>
   <section>
     <num>3</num>
@@ -380,7 +378,7 @@
   <section>
     <num>9</num>
     <text>The title that precedes <cite doc="City of San Mateo, Cal., Code" path="27.19.070">Section 27.19.070 of the San Mateo Municipal Code</cite>, and that reads, "Article II Junior Accessory Dwelling Unit" is deleted.</text>
-    <codify:remove path="27.19|article-II-subheading"/>
+    <codify:remove path="27.19|article-II-subheading" history-dest="container"/>
   </section>
   <section>
     <num>10</num>
@@ -590,17 +588,17 @@
   <section>
     <num>13</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.100">Section 27.19.100 of the San Mateo Municipal Code</cite> is deleted.</text>
-    <codify:remove path="27.19.100" warning="false"/>
+    <codify:remove path="27.19.100" warning="false" history-dest="container"/>
   </section>
   <section>
     <num>14</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.110">Section 27.19.110 of the San Mateo Municipal Code</cite> is deleted.</text>
-    <codify:remove path="27.19.110" warning="false"/>
+    <codify:remove path="27.19.110" warning="false" history-dest="container"/>
   </section>
   <section>
     <num>15</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="27.19.120">Section 27.19.120 of the San Mateo Municipal Code</cite> is deleted.</text>
-    <codify:remove path="27.19.120" warning="false"/>
+    <codify:remove path="27.19.120" warning="false" history-dest="container"/>
   </section>
   <section>
     <num>16</num>
