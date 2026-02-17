@@ -4,4 +4,5 @@
   <heading type="short">2026</heading>
   <subheading>Codified Ordinances</subheading>
   <xi:include href="./01.xml"/>
+  <xi:include href="./02.xml"/>
 </collection>
