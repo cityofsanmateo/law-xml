@@ -1,0 +1,928 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2026-04" codify:doc="City of San Mateo, Cal., Code">
+  <num>2026-04</num>
+  <heading type="short">Reach Codes for the 2025 Code Cycle — Ordinance Adoption</heading>
+  <heading type="long">Amending the San Mateo Municipal Code Chapter 23.24 "Energy Code" of Title 23 to amend the California Energy Code, 2025 Edition</heading>
+  <meta>
+    <effective>2026-04-15</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2026-04.pdf">Ord. No. 2026-04</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2026-04</citation>
+    </citations>
+    <history>
+      <introduced>2026-03-02</introduced>
+      <adopted>2026-03-16</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo's (City) Climate Action Plan recommends the City review local amendments to the California Energy Code to promote building electrification and energy efficiency; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>California Energy Code, 2025 Edition, was adopted by the City of San Mateo on November 3, 2025; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed Ordinance amends the California Energy Code to require energy conservation measures for air conditioner alterations, replacements and installations in existing single family homes, duplexes and townhomes; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed Ordinance amends the California Energy Code to require energy conservation measures for heating, ventilation and air conditioner replacements and installations in existing nonresidential buildings; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed Ordinance amends the California Energy Code to require increased efficiency and electric readiness requirements for additions and alterations to single family homes, duplexes, and townhomes; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Health &amp; Safety Code">California Health and Safety Code</cite> Sections <cite doc="Cal. Health &amp; Safety Code" path="§17922">17922</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958">17958</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.5">17958.5</cite>, <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">17958.7</cite>, and <cite doc="Cal. Health &amp; Safety Code" path="§18941.5">18941.5</cite> authorizes the City to make local amendments to the California Energy Code based upon express findings that such changes or modifications are reasonably necessary due to local climatic, geographical, or topographical conditions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>concurrent with this Ordinance, the City Council of the City of San Mateo has adopted a Resolution adopting express findings in support of local amendments to the California Energy Code, 2025 Edition; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Pub. Res. Code" path="§25402.1|(h)|2">Public Resources Code Section 25402.1(h)2</cite> and Section 10-106 of the Building Energy Efficiency Standards (Standards) establish a process which allows local adoption of energy standards that are more stringent than the statewide Standards, provided that such local standards are cost effective and the California Energy Commission finds that the standards will require building to be designed to consume no more energy than permitted by the California Energy Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>staff has reviewed the cost effectiveness studies prepared by the California Statewide Codes and Standards Reach Code Program and associated study data and find them sufficient to illustrate compliance with the requirements set forth under California Administrative Code Chapter 10-106; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>based on these studies, the City of San Mateo finds that the local modifications are cost-effective and will require buildings to be designed to consume no more energy than permitted by the California Energy Code; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed Ordinance is consistent with Assembly Bill 130, as it is necessary to implement a local code amendment that is adopted to align with the City's general plan approved before June 10, 2025, and permits mixed-fuel residential construction consistent with federal law while also incentivizes all-electric construction as part of an adopted greenhouse gas emissions reduction strategy.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.010">Section 23.24.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="23.24.010"/>
+        <num>23.24.010</num>
+        <heading>Adoption</heading>
+        <para>
+          <num>(a)</num>
+          <text>The California Energy Code, 2025 Edition, Title 24, Part 6 of the California Code of Regulations, as adopted and amended by the State of California, hereinafter called "Energy Code," is adopted as the rules, regulations and standards within this City as to all matters therein except as hereinafter modified or amended.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>No section of the Energy Code shall impose a mandatory duty of enforcement on the City, or on any officer, official, agent, employee, board, council or commission thereof. Instead, if any section purports to impose a mandatory duty of enforcement, said section shall be deemed to invest the City, and the appropriate officer, official, agent, employee, board, council or commission thereof with discretion to enforce the section or not enforce it.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>One Copy of the Energy Code shall at all times be kept on file in the office of the City Clerk.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.020">Section 23.24.020 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="23.24">Chapter 23.24</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="23.24" after="23.24.010"/>
+        <num>23.24.020</num>
+        <heading>Energy Conservation Measures for Air Conditioner Alterations, Replacements and Installations in Existing Single-Family Buildings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Energy Code subsection 150.2(b)1C is hereby amended to read:</text>
+          <include>
+            <para>
+            <num>C.</num>
+            <text><strong>Entirely new or complete replacement space-conditioning systems</strong> installed as part of an alteration, shall include all the system heating or cooling equipment, including but not limited to: condensing unit cooling or heating coil, and air handler for split systems; or complete replacement of a packaged unit; plus entirely new or replacement duct system (Section 150.2(b)1Diia). Entirely new or complete replacement space-conditioning systems shall meet the requirements of Sections 150.0(h), 150.0(i), 150.0(j)1, 150.0(j)2, 150.0(m)1 through 150.0(m)10; 150.0(m)12; 150.0(m)13, 150.1(c)7, 150.2(b)1G, and TABLE 150.2-A. Additionally, where an entirely new or complete replacement space conditioning system includes a new or replacement air-cooled air conditioner in Climate Zones 1 through 14 and 16, it shall meet the applicable requirements of Section 150.2(b)1Fiv. Where an entirely new or complete replacement space conditioning system includes a new or replacement heat pump, it shall meet the applicable requirements of Section 150.2(b)1Fv.</text>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Energy Code subsection 150.2(b)1F is hereby amended to read:</text>
+          <include>
+            <para>
+              <num>F.</num>
+              <text><strong>Altered space-conditioning system - mechanical cooling.</strong> Alterations which install new or replacement air-cooled air conditioners shall meet the applicable requirements of subsections i and iv. Alterations which install new or replacement heat pumps shall meet the applicable requirements of subsections i, ii, iii, and v. All other alterations to refrigerant containing components such as the compressor, condensing coil, evaporator coil, refrigerant metering device, or refrigerant piping, shall meet the applicable requirements of subsections i, ii, and iii:</text>
+              <para>
+                <num>i.</num>
+                <text>All thermostats associated with the system shall be replaced with setback thermostats meeting the requirements of Section 110.2(c).</text>
+              </para>
+              <para>
+                <num>ii.</num>
+                <text>Air-cooled air conditioners in Climate Zones 2 and 8 through 15 and air-source heat pumps in all climate zones, including but not limited to ducted split systems, ducted package systems, small duct high velocity air systems, and minisplit systems, shall comply with Subsections a and b, unless the system is of a type that cannot be verified using the specified procedures. Systems that cannot comply with the requirements of 150.2(b)1Fii shall comply with Section 150.2(b)1Fiii.</text>
+                <text><strong>Exception to Section 150.2(b)1Fii:</strong> Entirely new or complete replacement packaged systems for which the manufacturer has verified correct system refrigerant charge prior to shipment from the factory are not required to have refrigerant charge confirmed through field verification and diagnostic testing. The installer of these packaged systems shall certify on the Certificate of Installation that the packaged system was pre-charged at the factory and has not been altered in a way that would affect the charge. Ducted systems shall comply with minimum system airflow rate requirement in Section 150.2(b)1Fiia, provided that the system is of a type that can be verified using the procedure specified in RA3.3 or an approved alternative in RA1.</text>
+                <para>
+                  <num>a.</num>
+                  <text>Minimum system airflow rate shall comply with the applicable Subsection I or II below as confirmed through field verification and diagnostic testing in accordance with the procedures specified in Reference Residential Appendix Section RA3.3 or an approved alternative procedure as specified in Section RA1.</text>
+                  <text>Small duct high velocity systems shall demonstrate a minimum system airflow rate greater than or equal to 250 cfm per ton of nominal cooling capacity; or</text>
+                  <text>All other air-cooled air conditioner or air-source heat pump systems shall demonstrate a minimum system airflow rate greater than or equal to 300 cfm per ton of nominal cooling capacity; and</text>
+                  <text><strong>Exception 1 to Section 150.2(b)1Fiia:</strong> Systems unable to comply with the minimum airflow rate requirement shall demonstrate compliance using the procedures in Section RA3.3.3.1.5; and the system's thermostat shall conform to the specifications in Section 110.12.</text>
+                  <text><strong>Exception 2 to Section 150.2(b)1Fiia:</strong> Entirely new or complete replacement space conditioning systems, as specified by Section 150.2(b)1C, without zoning dampers may comply with the minimum airflow rate by meeting the applicable requirements in Tables-150.0-B or 150.0-C as confirmed by field verification and diagnostic testing in accordance with the procedures in Reference Residential Appendix Section RA3.1.4.4 and RA3.1.4.5. The design clean-filter pressure drop requirements of Section 150.0(m)12C for the system air filter device(s) shall conform to the requirements given in Tables150.0-B and 150.0-C.</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>The installer shall charge the system according to manufacturer's specifications. Refrigerant charge shall be verified according to one of the following options, as applicable.</text>
+                  <para>
+                    <num>I.</num>
+                    <text>The installer and rater shall perform the standard charge verification procedure as specified in Reference Residential Appendix Section RA3.2.2, or an approved alternative procedure as specified in Section RA1; or</text>
+                  </para>
+                  <para>
+                    <num>II.</num>
+                    <text>The installer shall perform the weigh-in charging procedure as specified by Reference Residential Appendix Section RA3.2.3.1 provided the system is of a type that can be verified using the RA3.2.2 standard charge verification procedure and RA3.3 airflow rate verification procedure or approved alternatives in RA1. The ECC-Rater shall verify the charge using RA3.2.2 and RA3.3 or approved alternatives in RA1.</text>
+                    <text><strong>Exception 1 to Section 150.2(b)1Fiib:</strong> When the outdoor temperature is less than 55° F and the installer utilizes the weigh-in charging procedure in Reference Residential Appendix Section RA3.2.3.1to demonstrate compliance, the installer may elect to utilize the verification procedure in Reference Residential Appendix Section RA3.2.3.2. If the verification procedure in Section RA3.2.3.2 is used for compliance, the system's thermostat shall conform to the specifications in Section 110.12. Ducted systems shall comply with the minimum system airflow rate requirements in Section 150.2(b)1Fiia.</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>iii.</num>
+                <text>Air-cooled air conditioners in Climate Zones 2 and 8 through 15 and air-source heat pumps in all climate zones, including but not limited to ducted split systems, ducted package systems, small duct high velocity, and minisplit systems, which are of a type that cannot comply with the requirements of 150.2(b)1Fiib shall comply with subsections a and b, as applicable.</text>
+                <para>
+                  <num>a.</num>
+                  <text>The installer shall confirm the refrigerant charge using the weigh-in charging procedure specified in Reference Residential Appendix Section RA3.2.3.1, as verified by an ECC-Rater according to the procedures specified in Reference Residential Appendix RA3.2.3.2; and</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>Systems that utilize forced air ducts shall comply with the minimum system airflow rate requirement in Section 150.2(b)1Fiia provided the system is of a type that can be verified using the procedures in Section RA3.3 or an approved alternative procedure in Section RA1.</text>
+                  <text><strong>Exception to Section 150.2(b)1Fiii:</strong> Entirely new or complete replacement packaged systems for which the manufacturer has verified correct system refrigerant charge prior to shipment from the factory are not required to have refrigerant charge confirmed through field verification and diagnostic testing. The installer of these packaged systems shall certify on the Certificate of Installation that the packaged system was pre-charged at the factory and has not been altered in a way that would affect the charge. Ducted systems shall comply with minimum system airflow rate requirement in Section 150.2(b)1Fiiib, provided that the system is of a type that can be verified using the procedure specified in Section RA3.3 or an approved alternative in Section RA1.</text>
+                </para>
+              </para>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Energy Code subsection 150.2(b)1F is hereby amended to add new subsection 150.2(b)1Fiv:</text>
+          <include>
+            <para proof="done">
+              <num>iv.</num>
+              <text>New or replacement air-cooled air conditioners in Climate Zones 1 through 14 and 16 shall meet the requirements of Section 150.2(b)1Fiva or 150.2(b)1Fivb.</text>
+              <para>
+                <num>a.</num>
+                <text>Systems with existing duct distribution systems shall meet the following requirements:</text>
+                <para>
+                  <num>I.</num>
+                  <text>In all climate zones, meet the airflow and fan efficacy requirements of Section 150.0(m)13B, 150.0(m)13C, or 150.0(m)13D.</text>
+                  <text><strong>Exception 1 to Section 150.2(b)1FivaI: </strong>Single zone central forced air systems and zonally controlled central forced air systems may demonstrate compliance with an airflow greater than or equal to 300 CFM per ton of nominal cooling capacity.</text>
+                </para>
+                <para>
+                  <num>II.</num>
+                  <text>In all climate zones, meet the refrigerant charge verification requirements of Section 150.2(b)1Fii; and</text>
+                </para>
+                <para>
+                  <num>III.</num>
+                  <text>In all climate zones, vented attics shall have insulation installed to achieve a U-factor of 0.020 or insulation installed at the ceiling level shall result in an insulated thermal resistance of R-49 or greater for the insulation alone; luminaires not rated for insulation contact must be replaced or retrofitted with a fireproof cover that allows for insulation to be installed directly over the cover; and</text>
+                  <text><strong>Exception 1 to Section 150.2(b)1FivaIII:</strong> Dwelling units with at least R-38 existing insulation installed at the ceiling level.</text>
+                  <text><strong>Exception 2 to Section 150.2(b)1FivaIII:</strong> Dwelling units where the alteration would directly cause the disturbance of asbestos unless the alteration is made in conjunction with asbestos abatement.</text>
+                  <text><strong>Exception 3 to Section 150.2(b)1FivaIII:</strong> Dwelling units with knob and tube wiring located in the vented attic.</text>
+                  <text><strong>Exception 4 to Section 150.2(b)1FivaIII:</strong> Where the accessible space in the attic is not large enough to accommodate the required R-value, the entire accessible space shall be filled with insulation provided such installation does not violate Section 806.3 of Title 24, Part 2.5.</text>
+                  <text><strong>Exception 5 to Section 150.2(b)1FivaIII:</strong> Where the attic space above the altered dwelling unit is shared with other dwelling units and the requirements of Section 150.2(b)1FivaIII are not triggered for the other dwelling units.</text>
+                </para>
+                <para>
+                  <num>IV.</num>
+                  <text>In all climate zones, air seal all accessible areas of the ceiling plane between the attic and the conditioned space in accordance with Section 110.7.</text>
+                  <text><strong>Exception 1 to Section 150.2(b)1FivaIV:</strong> Dwelling units with at least R-38 existing insulation installed at the ceiling level.</text>
+                  <text><strong>Exception 2 to Section 150.2(b)1FivaIV:</strong> Dwelling units where the alteration would directly cause the disturbance of asbestos unless the alteration is made in conjunction with asbestos abatement.</text>
+                  <text><strong>Exception 3 to Section 150.2(b)1FivaIV:</strong> Dwelling units with atmospherically vented space heating or water heating combustion appliances located inside the pressure boundary of the dwelling unit.</text>
+                </para>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>Systems with entirely new or complete replacement duct systems shall meet the following:</text>
+                <para>
+                  <num>I.</num>
+                  <text>R-8 duct insulation shall be installed for all new ducts located in unconditioned space; and</text>
+                </para>
+                <para>
+                  <num>II.</num>
+                  <text>In all climate zones, meet the airflow requirements of Section 150.0(m)13B, 150.0(m)13C, or 150.0(m)13D and demonstrate an air-handling unit fan efficacy of less than or equal to 0.35 W/CFM.</text>
+                </para>
+                <para>
+                  <num>III.</num>
+                  <text>In all climate zones, meet the refrigerant charge verification requirements of Section 150.2(b)1Fii;</text>
+                </para>
+              </para>
+              <aftertext><strong>Exception 1 to Section 150.2(b)1Fiv: </strong>Where the capacity of the existing main electrical service panel is insufficient to supply the electrical capacity of a heat pump and where the existing main electrical service panel is sufficient to supply a new or replacement air conditioner, as calculated according to the requirements of California Electrical Code Article 220.83 or Article 220.87, systems shall comply with the applicable requirements of Sections 150.2(b)1Fi, 150.2(b)1Fii, and 150.2(b)1Fiii. Documentation of electrical load calculations in accordance with Article 220 must be submitted to the enforcement agency prior to permitting for both the heat pump and proposed air conditioner.</aftertext>
+              <aftertext><strong>Exception 2 to Section 150.2(b)1Fiv: </strong>Where the required capacity of a heat pump to meet the system selection requirements of Section 150.0(h)5 is greater than or equal to 12,000 Btu/h more than the greater of the required capacity of an air conditioner to meet the design cooling load OR the capacity of the existing air conditioner, systems shall comply with the applicable requirements of Sections 150.2(b)1Fi, 150.2(b)1Fii, and 150.2(b)1Fiii. Documentation of heating and cooling load calculations in accordance with 150.0(h) must be submitted to the enforcement agency prior to permitting for both the heat pump and proposed air conditioner.</aftertext>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Energy Code subsection 150.2(b)1F is hereby amended to add new subsection 150.2(b)1Fv:</text>
+          <include>
+            <para proof="done">
+              <num>v.</num>
+              <text>In all climate zones, heat pumps with supplementary heat, including, but not limited to, electric resistance heaters or gas furnace supplementary heating, shall comply with Section 150.0(h)7 and shall lock out supplementary heating above an outdoor air temperature of no greater than 35°F.</text>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Energy Code 150.2 Table 150.2-G is hereby amended to read as follows:</text>
+          <include>
+            <text>
+              <table>
+                <thead>
+                  <tr>
+                    <th colspan="3">Table 150.2-G Standard Design for an Altered Component</th>
+                  </tr>
+                  <tr>
+                    <th>Altered Component</th>
+                    <th>Standard Design Without Third Party Verification of Existing Conditions Shall be Based On</th>
+                    <th>Standard Design With Third Party Verification of Existing Conditions Shall be Based On</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Ceiling Insulation, Wall Insulation, and Raised-floor Insulation</td>
+                    <td>
+                      <p>The requirements of Sections 150.0(a), (c), and (d).</p>
+                      <p>The requirements of Section 150.2(b)1J for altered ceilings and for entirely new or complete replacement duct systems where the air handler and ducts are located within a vented attic.</p>
+                      <p>The requirements of Section 150.2(b)1Fiv for alterations which include new or replacement air-cooled air conditioners.</p>
+                    </td>
+                    <td>The existing insulation R-value</td>
+                  </tr>
+                  <tr>
+                    <td>Fenestration</td>
+                    <td>The requirements of Section 150.1(c)3A.</td>
+                    <td>
+                      <p>The existing fenestration U-factor and</p>
+                      <p>SHGC values as verified.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>Window Film</td>
+                    <td>The requirements of Section 150.1(c)3A.</td>
+                    <td>The existing fenestration in the alteration shall be based on TABLE 110.6-A and TABLE 110.6-B.</td>
+                  </tr>
+                  <tr>
+                    <td>Doors</td>
+                    <td>The U-factor of 0.20. The door area shall be the door area of the existing building.</td>
+                    <td>If the proposed U-factor is &lt; 0.20, the standard design shall be based on the existing U-factor value as verified. Otherwise, the standard design shall be based on the U-factor of 0.20. The door area shall be the door area of the existing building.</td>
+                  </tr>
+                  <tr>
+                    <td>Space-Heating and Space-Cooling Equipment</td>
+                    <td>
+                      <p>Table 150.1-A for equipment efficiency requirements;</p>
+                      <p>Section 150.2(b)1C for entirely new or complete replacement systems;</p>
+                      <p>Section 150.2(b)1F for refrigerant charge verification, airflow, and fan efficacy requirements.</p>
+                      <p>Section 150.2(b)1Fiv for new or replacement air-cooled air conditioners</p>
+                    </td>
+                    <td>The existing efficiency levels.</td>
+                  </tr>
+                  <tr>
+                    <td>Air Distribution System – Duct Sealing</td>
+                    <td>The requirements of Sections 150.2(b)1D and 150.2(b)1E</td>
+                    <td>The requirements of Sections 150.2(b)1D and 150.2(b)1E</td>
+                  </tr>
+                  <tr>
+                    <td>Air Distribution System – Duct Insulation</td>
+                    <td>The requirements of Sections 150.2(b)1D, and for new or replacement air-cooled air conditioners, Section 150.2(b)1Fiv.</td>
+                    <td>The existing efficiency levels.</td>
+                  </tr>
+                  <tr>
+                    <td>Water Heating Systems</td>
+                    <td>The requirements of Section 150.2(b)1Hii</td>
+                    <td>The existing efficiency level.</td>
+                  </tr>
+                  <tr>
+                    <td>Roofing Products</td>
+                    <td>The requirements of Section 150.2(b)1I.</td>
+                    <td>The requirements of Section 150.2(b)1I</td>
+                  </tr>
+                  <tr>
+                    <td>All Other Measures</td>
+                    <td>The proposed efficiency levels.</td>
+                    <td>The existing efficiency levels.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </text>
+          </include>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.030">Section 23.24.030 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="23.24">Chapter 23.24</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="23.24" after="23.24.020"/>
+        <num>23.24.030</num>
+        <heading>Energy Conservation Measures for Heating, Ventilation and Air Conditioner Replacements and Installations in Existing Nonresidential Buildings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Energy Code subsection 141.0(b)2C is amended to add a new subsection 141.0(b)2Ciii as follows:</text>
+          <include>
+            <para>
+              <num>i.</num>
+              <text>In addition to the requirements in Section 141.0(b)2Cii above, new or replacement single zone packaged rooftop systems with direct expansion cooling with rated cooling capacity of 65,000 Btu/hr or more and less than 240,000 Btu/hr serving Financial Institution, Grocery, Library, Office, School, or Retail occupancies shall meet the applicable requirements specified in Table 141.0-E-1A or shall meet the performance compliance requirements of Section 141.0(b)3.</text>
+              <text>
+                <table>
+                  <thead>
+                    <tr>
+                      <th colspan="2" class="text-indent-2">Table 141.0-E-1A – REQUIREMENTS FOR NEW OR REPLACMENT SZAC or SZHP, GREATER THAN 65,000 BTU/HR AND LESS THAN 240,000 BTU/HR</th>
+                    </tr>
+                    <tr>
+                      <th>System Size</th>
+                      <th>CZ 3</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>65,000 to 240,000 Btu/hr</td>
+                      <td class="text-indent-4">SZHP or SZAC3</td>
+                    </tr>
+                    <tr>
+                      <td colspan="2">
+                        <p class="text-indent-2">SZHP = Single Zone Heat Pump</p>
+                        <p class="text-indent-2">SZAC3 = Single Zone Air Conditioner with Furnace + Heat Recovery Ventilator</p>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </text>
+            </para>
+            <aftertext><strong>Exception 1 to Section 141.0(b)2Ciii</strong>: Where the capacity of the existing main electrical service panel is insufficient to supply the electrical capacity of a heat pump and where the existing main electrical service panel is sufficient to supply a new or replacement air conditioner, as calculated according to the requirements of California Electrical Code Article 220. Documentation of electrical load calculations in accordance with Article 220 must be submitted to the enforcement agency prior to permitting for both the heat pump and proposed air conditioner.</aftertext>
+            <aftertext>Exception 2 to Section 141.0(b)2Ciii: Where a licensed structural engineer determines that the roof would need a structural upgrade to support the additional weight of an appropriately sized SZHP but would not need a structural upgrade to support an equivalent SZAC.</aftertext>
+          </include>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.24.040">Section 23.24.040 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="23.24">Chapter 23.24</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="23.24" after="23.24.030"/>
+        <num>23.24.040</num>
+        <heading>Increased Efficiency and Electric Readiness Requirements for Additions and Alterations in Single Family Buildings</heading>
+        <para>
+          <num>(a)</num>
+          <text>Energy Code 100.0 is amended to add a new subsection 100.0(i) as follows:</text>
+          <include>
+            <para>
+              <num>(i)</num>
+              <heading>Single Family Building Remodel Energy Reach Code - Purpose and Intent.</heading>
+              <text>In addition to all requirements of the California Energy Code applicable to Single Family building additions and alterations, the energy efficiency, renewable energy, and electric readiness measures specified in Sections 150.0(w) and 150.0(x) shall be required for certain single family additions and alterations.</text>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Energy Code subsection 100.1(b) is amended to include the following definitions:</text>
+          <include>
+            <text><strong>COVERED SINGLE FAMILY PROJECT</strong> shall mean any project in a Single Family residential building originally permitted for construction before 1992 that includes an alteration, addition or combined alteration and addition, that has an affected floor area that covers 1,000 square feet or greater.</text>
+            <text><strong>LOW POWER LEVEL 2 ELECTRIC VEHICLE (EV) CHARGING RECEPTACLE</strong> is a 208/240-volt 20-ampere minimum branch circuit and a receptacle.</text>
+          </include>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Energy Code Section 150.0 Mandatory Features and Devices is amended as follows:</text>
+          <include>
+            <text>Single-family residential buildings shall comply with the applicable requirements of Sections 150.0(a) through 150.0(v).</text>
+            <text><strong>NOTE:</strong> The requirements of Sections 150.0(a) through 150.0(v) apply to newly constructed buildings. Sections 150.2(a) and 150.2(b) specify which requirements of Sections 150.0(a) through 150.0(v) also apply to additions or alterations. In addition, Covered Single Family Projects shall also be required to comply with Section 150.0(w) and certain additions and alterations shall also be required to comply with Section 150.0(x).</text>
+          </include>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Energy Code subsections 150.0(a) through 150.0(v) remain in full effect.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Energy Code Section 150.0 is amended to add a new subsection 150.0(w) as follows:</text>
+          <include>
+            <para proof="done">
+              <num>(w)</num>
+              <text>A Covered Single Family Project shall install a set of measures from the Measure Menu Table, Table 150.0-J, to achieve a total Measure Point Score that is equal to or greater than the Target Score in Table 150.0-I. In addition, all mandatory measures listed in Table 150.0-J shall be installed.  Measure verification shall be explicitly included as an addendum to the Certificate of Compliance to be filed pursuant to 2025 Title 24, Part 6, Section 10-103.</text>
+              <text>Installed measures shall meet the specifications in Table 150.0-K. Unless otherwise specified, the requirements shall apply to the entire dwelling unit, not just the additional or altered portion. Measures from the Measure Menu table that are to be installed to satisfy requirements under the California Energy Code, Title 24, Part 6, may not count towards compliance with these requirements.  Where these requirements conflict with other California Energy Code requirements, the stricter requirements shall prevail.</text>
+              <text><strong>Exception 1 to 150.0(w):</strong> Creation of a new accessory dwelling unit or junior accessory dwelling unit that is within the existing space of a single family dwelling or accessory structure and includes an expansion of not more than 150 square feet beyond the same physical dimensions as the existing accessory structure. An expansion beyond the physical dimensions of the existing accessory structure shall be limited to accommodating ingress and egress. Or, if the project would not otherwise be a Covered Single Family Project were it not for the inclusion of an accessory dwelling unit or junior accessory dwelling unit that meets the criteria above.</text>
+              <text><strong>Exception 2 to 150.0(w):</strong> Mobile Homes, Manufactured Housing, or Factory-built Housing as defined in Division <cite doc="Cal. Health &amp; Safety Code" path="§13">13 of the California Health and Safety</cite> 12 Code (commencing with <cite doc="Cal. Health &amp; Safety Code" path="§17000">Section 17000 of the Health and Safety Code</cite>).</text>
+              <text><strong>Exception 3 to Section 150.0(w):</strong> The project is solely related to any of the following: a repair as defined by Title 24 Part 2 Section 202; medically necessary improvements; seismic safety improvements; safety improvement to remove a known hazard; roofing projects; fenestration projects; or Emergency Housing pursuant to Appendix P of the California Building Code.</text>
+              <text><strong>Exception 4 to 150.0(w):</strong> If the applicant demonstrates, using Commission-certified compliance software as specified by Section 10-109(c) and Section 10-116, that the Energy Budget of the Proposed Building Design would be less than or equal to the Energy Budget of the building under the project if it included any set of measures that would achieve compliance under this Section 150.0(w).</text>
+              <text><strong>Exception 5 to 150.0(w):</strong>  A Covered Single Family Project, other than an addition, that would not otherwise be subject to this section 150.0(w) but for installation of solar PV, solar water heating, EV charging, electrical upgrades for solar PV or EV charging, or energy storage.</text>
+              <text><strong>Exception 6 to 150.0(w):</strong> If the dwelling unit has previously installed measures from the Measure Menu, Table 150.0-I, and compliance can be demonstrated to the Building Official, or designee, then these measures shall not be required to be newly installed, and appropriate credit shall be included in the applicable compliance calculations.</text>
+              <text><strong>Exception 7 to 150.0(w):</strong> A measure that is necessary for compliance is prohibited because of a covenant or other deed restriction on the property, such as a homeowners association covenant.</text>
+              <text><strong>Exception 8 to 150.0(w):</strong> The applicant may request an exemption to any requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this chapter</cite> which would impair the historic integrity of any building listed on a local, state, or federal register of historic structures, as determined by the Building Official, or designee, and as regulated by the California Historic Building Code (Title 24, Part 8). In making a determination of exemption, the Planning Director or designee may require the submittal of an evaluation by an architectural historian or similar expert.</text>
+              <text><strong>Exception 9 to 150.0(w):</strong> Due to conditions specific to the project, it is technically or economically infeasible to achieve compliance, the Building Official, or designee, may reduce the Target Score and/or waive some or all of the mandatory requirements.</text>
+              <text><strong>Exception 10 to 150.0(w):</strong> If the project includes circumstances which constitute hardship or infeasibility, the applicant may request an exemption. In applying for an exemption, the burden is on the applicant to show hardship or infeasibility. Circumstances that constitute hardship or infeasibility shall include one or more of the following:</text>
+            </para>
+            <para>
+              <num proof="done">a.</num>
+              <text>That the cost of achieving compliance exceeds 20% of the valuation of the cost of the project; or</text>
+            </para>
+            <para>
+              <num>b.</num>
+              <text>That it is technically infeasible to achieve compliance through all packages due to conditions specific to the project; or</text>
+            </para>
+            <para>
+              <num>c.</num>
+              <text>That strict compliance with these standards would create or maintain a hazardous condition(s) and present a life safety risk to the occupants.</text>
+              <para>
+                <num>1.</num>
+                <text>Application. Based on the following, the applicant shall identify in writing the specific requirements of the standards for compliance that the project is unable to achieve and the circumstances that make it a hardship or infeasible for the project to comply with <cite doc="City of San Mateo, Cal., Code" path="23.24">this chapter</cite>. The applicant may not petition for relief from any requirement of the 2025 California Energy Code (Title 24, Part 6) and referenced standards, or the 2025 California Green Building Standards (Title 24, Part 11) of the California Building Standards Code. Granting of exemption. If the Building Official, or designee, determines that it is a hardship or infeasible for the applicant to fully meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this chapter</cite> and that granting the requested exemption will not cause the building to fail to comply with the 2025 California Energy Code (Title 24, Part 6) and referenced standards, or the 2025 California Green Building Standards (Title 24, Part 11) of the California Building Standards Code, the Building Official shall determine the minimum feasible threshold of compliance reasonably achievable for the project. If an exemption is granted, the applicant shall be required to comply with <cite doc="City of San Mateo, Cal., Code" path="23.24">this chapter</cite> in all other respects and shall be required to achieve the threshold of compliance determined to be achievable by the Building Official, or designee.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Denial of exemption. If the Building Official, or designee, determines that it is reasonably possible for the applicant to fully meet the requirements of <cite doc="City of San Mateo, Cal., Code" path="23.24">this chapter</cite>, the request shall be denied, and the applicant shall be notified of the decision in writing. The project and compliance documentation shall be modified to comply with the standards for compliance.</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Appeals</text>
+                <para>
+                  <num>A.</num>
+                  <text>Within 10 days of issuance of the Building Official's, or designee's, written decision, the applicant may submit a notice of appeal of the determination of the Building Official, or designee, regarding the grant or denial of an exemption or compliance with any other provision of this section. An appeal of a determination of the Building Official, or designee, shall be filed in writing with the Director of the Community Development Department.  Failure to file an appeal in accordance with the provisions of this section shall constitute a waiver of that applicant's rights to contest the written decision.</text>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>As soon as practicable after receiving the written notice of appeal, the Community Development Department shall review it for sufficiency. If found to be complete and in conformance with this section, the appeal hearing shall be scheduled for the next available date before the Director of the Community Development.</text>
+                </para>
+                <para>
+                  <num>C.</num>
+                  <text>Written notice of the time and place for the hearing may be served by personal service, or first class mail to the address provided by the applicant on the notice of appeal. The failure of any person with an interest in the property to receive such properly addressed notice of the hearing shall not affect the validity of any proceedings under this section. Service by first class mail shall be effective on the date of mailing. The failure of the applicant to receive such properly addressed notice of the hearing shall not affect the validity of any proceedings under this section.</text>
+                </para>
+                <para>
+                  <num>D.</num>
+                  <text>At the hearing, the applicant will be given an opportunity to present documentary evidence or witnesses concerning the written decision. The failure of the applicant to appear at the appeal hearing shall constitute a waiver of its right to appeal, and the written decision shall be upheld.</text>
+                </para>
+                <para>
+                  <num>E.</num>
+                  <text>The Director may conduct the hearing informally, both as to the rules of procedure and admission of evidence, and in any manner which will provide a fair hearing to obtain additional evidence.</text>
+                </para>
+                <para>
+                  <num>F.</num>
+                  <text>The Director's decision on appeal shall be final and not subject to any further administrative appeals.</text>
+                  <text>
+                    <table>
+                      <thead>
+                        <tr>
+                          <th colspan="2">Table 150.0-I: TARGET SCORES</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td/>
+                          <td>Target Score</td>
+                        </tr>
+                        <tr>
+                          <td>Climate Zone 3</td>
+                          <td>12</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </text>
+                  <text>
+                    <table>
+                      <thead>
+                        <tr>
+                          <th colspan="3">Table 150.0-J: MEASURE MENU</th>
+                        </tr>
+                        <tr>
+                          <th>ID</th>
+                          <th>Measures</th>
+                          <th>Measure Points</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>E1</td>
+                          <td>Lighting Measures</td>
+                          <td>Mandatory</td>
+                        </tr>
+                        <tr>
+                          <td>E2</td>
+                          <td>Water Heating Package</td>
+                          <td>2</td>
+                        </tr>
+                        <tr>
+                          <td>E3</td>
+                          <td>Air Sealing</td>
+                          <td>2</td>
+                        </tr>
+                        <tr>
+                          <td>E4</td>
+                          <td>R-49 Attic Insulation</td>
+                          <td>4</td>
+                        </tr>
+                        <tr>
+                          <td>E5</td>
+                          <td>Duct Sealing</td>
+                          <td>3</td>
+                        </tr>
+                        <tr>
+                          <td>E6</td>
+                          <td>New Ducts, R-8 Insulation + Duct Sealing</td>
+                          <td>6</td>
+                        </tr>
+                        <tr>
+                          <td>E7</td>
+                          <td>Windows</td>
+                          <td>4</td>
+                        </tr>
+                        <tr>
+                          <td>E8</td>
+                          <td>R-15 Wall Insulation</td>
+                          <td>5</td>
+                        </tr>
+                        <tr>
+                          <td>E9</td>
+                          <td>R-19 Raised Floor Insulation</td>
+                          <td>9</td>
+                        </tr>
+                        <tr>
+                          <td>E10</td>
+                          <td>R-30 Raised Floor Insulation</td>
+                          <td>10</td>
+                        </tr>
+                        <tr>
+                          <td>FS1</td>
+                          <td>Heat Pump Water Heater Replacing Gas</td>
+                          <td>12</td>
+                        </tr>
+                        <tr>
+                          <td>FS2</td>
+                          <td>High Eff. Heat Pump Water Heater Replacing Gas</td>
+                          <td>13</td>
+                        </tr>
+                        <tr>
+                          <td>FS3</td>
+                          <td>Heat Pump Water Heater Replacing Electric</td>
+                          <td>5</td>
+                        </tr>
+                        <tr>
+                          <td>FS4</td>
+                          <td>High Eff. Heat Pump Water Heater Replacing Electric</td>
+                          <td>6</td>
+                        </tr>
+                        <tr>
+                          <td>FS5</td>
+                          <td>Heat Pump Space Conditioning System</td>
+                          <td>18</td>
+                        </tr>
+                        <tr>
+                          <td>FS6</td>
+                          <td>High Eff. Heat Pump Space Conditioning System</td>
+                          <td>19</td>
+                        </tr>
+                        <tr>
+                          <td>FS7</td>
+                          <td>Dual Fuel Heat Pump Space Conditioning System</td>
+                          <td>18</td>
+                        </tr>
+                        <tr>
+                          <td>FS8</td>
+                          <td>Heat Pump Clothes Dryer</td>
+                          <td>1</td>
+                        </tr>
+                        <tr>
+                          <td>FS9</td>
+                          <td>Induction Cooktop</td>
+                          <td>1</td>
+                        </tr>
+                        <tr>
+                          <td>PV</td>
+                          <td>Solar PV and Electric Readiness</td>
+                          <td>13</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </text>
+                  <text>
+                    <table>
+                      <thead>
+                        <tr>
+                          <th colspan="2">Table 150.0-K: MEASURE SPECIFICATIONS</th>
+                        </tr>
+                        <tr>
+                          <th>ID</th>
+                          <th>Measure Specification</th>
+                        </tr>
+                        <tr>
+                          <th colspan="2">
+                            <u>Energy Efficiency Measures</u>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>E1</td>
+                          <td>Lighting Measures – Install lighting with an efficiency of 45 lumens per watt or greater in all interior and exterior screw-in fixtures. Install photocell, occupancy sensor or energy management system controls that meet the requirements of 150.0(k)3 in all outdoor lighting permanently mounted to a residential building or to other buildings on the same lot.</td>
+                        </tr>
+                        <tr>
+                          <td>E2</td>
+                          <td>
+                            <p>Water Heating Package: Insulate all accessible hot water pipes with pipe insulation a minimum of ¾ inch thick. This includes insulating the supply pipe leaving the water heater, piping to faucets underneath sinks, and accessible pipes in attic spaces or crawlspaces. Upgrade fittings in sinks and showers to meet current California Green Building Standards Code (Title 24, Part 11) Section 4.303 water efficiency requirements.</p>
+                            <p>Exception: Upgraded fixtures are not required if existing fixtures have rated or measured flow rates of no more than ten percent greater than 2025 California Green Building Standards Code (Title 24, Part 11) Section 4.303 water efficiency requirements.</p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>E3</td>
+                          <td>Air Sealing: Seal all accessible cracks, holes, and gaps in the building envelope at walls, floors, and ceilings. Pay special attention to penetrations including plumbing, electrical, and mechanical vents, recessed can light luminaires, and windows. Weather-strip doors if not already present. Verification shall be conducted following a prescriptive checklist that outlines which building aspects need to be addressed by the permit applicant and verified by an inspector. Compliance can also be demonstrated with blower door testing conducted by a certified ECC Rater no more than three years prior to the permit application date that either: a) shows at least a 30 percent reduction from pre-retrofit conditions; or b) shows that the number of air changes per hour at 50 Pascals pressure difference (ACH50) does not exceed ten for Pre-1978 vintage buildings and seven for 1978 to 1991 vintage buildings. If combustion appliances are located within the pressure boundary of the building, conduct a combustion safety test by a certified ECC Rater or a professional certified by the Building Performance Institute, in accordance with the BPI Technical Standards for the Building Analyst Professional.</td>
+                        </tr>
+                        <tr>
+                          <td>E4</td>
+                          <td >
+                            <p>R-49 Attic Insulation: Attic insulation shall be installed to achieve a weighted assembly U-factor of 0.020 or insulation installed at the ceiling level shall have a thermal resistance of R-49 or greater for the insulation alone. Recessed downlight luminaires in the ceiling shall be covered with insulation to the same depth as the rest of the ceiling. Luminaires not rated for insulation contact must be replaced or fitted with a fire-proof cover that allows for insulation to be installed directly over the cover.</p>
+                            <p>Exception: In buildings where existing R-30 is present and existing recessed downlight luminaires are not rated for insulation contact, insulation is not required to be installed over the luminaires.</p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>E5</td>
+                          <td >
+                            <p>Duct Sealing: Air seal all space conditioning ductwork to meet the requirements of the 2025 Title 24, Part 6, Section 150.2(b)1E. The duct system must be tested by a ECC Rater no more than three years prior to the Covered Single Family Project permit application date to verify the duct sealing and confirm that the requirements have been met. This measure may not be combined with the New Ducts and Duct Sealing measure in this Table.</p>
+                            <p>Exception: Buildings without ductwork or where the ducts are in conditioned space.</p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>E6</td>
+                          <td>New Ducts, R-8 insulation + Duct Sealing: Replace existing space conditioning ductwork with new R-8 ducts that meet the requirements of 2025 Title 24 Section 150.0(m)11. This measure may not be combined with the Duct Sealing measure in this Table. To qualify, a preexisting measure must have been installed no more than three years before the Covered Single Family Project permit application date.</td>
+                        </tr>
+                        <tr>
+                          <td>E7</td>
+                          <td>Windows: Replace at least 50% of existing windows with high performance windows with an area-weighted average U-factor no greater than 0.27.</td>
+                        </tr>
+                        <tr>
+                          <td>E8</td>
+                          <td>R-15 Wall Insulation: Install wall insulation in all exterior walls to achieve a weighted U-factor of 0.095 or install wall insulation in all exterior wall cavities that shall result in an installed thermal resistance of R-15 or greater for the insulation alone.</td>
+                        </tr>
+                        <tr>
+                          <td>E9</td>
+                          <td>R-19 Raised Floor Insulation: Raised-floors shall be insulated such that the floor assembly has an assembly U-factor equal to or less than U-0.037 or shall be insulated between wood framing with insulation having an R-value equal to or greater than R-19.</td>
+                        </tr>
+                        <tr>
+                          <td>E10</td>
+                          <td>R-30 Raised Floor Insulation: Raised-floors shall be insulated such that the floor assembly has an assembly U-factor equal to or less than U-0.028 or shall be insulated between wood framing with insulation having an R-value equal to or greater than R-30.</td>
+                        </tr>
+                        <tr>
+                          <th colspan="2">Fuel Substitution and Solar PV Measures</th>
+                        </tr>
+                        <tr>
+                          <td>FS1</td>
+                          <td>Heat Pump Water Heater (HPWH) Replacing Gas: Replace existing natural gas water heater with a heat pump water heater that meets the requirements of Sections 110.3 and 150.2(b)1.H.iii.b.</td>
+                        </tr>
+                        <tr>
+                          <td>FS2</td>
+                          <td>High Efficiency Heat Pump Water Heater (HPWH) Replacing Gas: Replace existing natural gas water heater with heat pump water heater with a Northwest Energy Efficiency Alliance (NEEA) Tier 3 or higher rating that also meets the requirements of Sections 110.3 and 150.2(b)1.H.iii.c.</td>
+                        </tr>
+                        <tr>
+                          <td>FS3</td>
+                          <td>Heat Pump Water Heater (HPWH) Replacing Electric: Replace existing electric resistance water heater with a heat pump water heater that meets the requirements of Sections 110.3 and 150.2(b)1.H.iii.b.</td>
+                        </tr>
+                        <tr>
+                          <td>FS4</td>
+                          <td>High Efficiency Heat Pump Water Heater (HPWH) Replacing Electric: Replace existing electric resistance water heater with heat pump water heater with a Northwest Energy Efficiency Alliance (NEEA) Tier 3 or higher rating that also meets the requirements of Sections 110.3, and 150.2(b)1.H.iii.c.</td>
+                        </tr>
+                        <tr>
+                          <td>FS5</td>
+                          <td>Heat Pump Space Conditioning System: Replace all existing gas and electric resistance primary space heating systems with a heat pump system that meets the requirements of Sections 110.2, 150.2(b)1.C, 150.2(b)1.E, 150.2(b)1.F, and 150.2(b)1.G.</td>
+                        </tr>
+                        <tr>
+                          <td>FS6</td>
+                          <td>
+                            <p>High Efficiency Heat Pump Space Conditioning System: Replace all existing gas and electric resistance primary space heating systems with an electric-only heat pump system that meets the requirements of Sections 110.2 and 150.2(b)1.C, 150.2(b)1.E, 150.2(b)1.F, and 150.2(b)1.G and one of the following:</p>
+                            <p>A ducted heat pump system with a SEER2 rating of 16.5 or greater, an EER2 rating of 12.48 or greater and an HSPF2 rating of 9.5 or greater; or</p>
+                            <p>A ductless mini-split heat pump system with a SEER2 rating of 16.0 or greater, an EER2 rating of 12.0 or greater and an HSPF2 rating of 9.0 or greater</p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>FS7</td>
+                          <td>
+                            <p>Dual Fuel Heat Pump Space Conditioning System: Install a heat pump space conditioning system that meets the requirements of Sections 110.2 and 150.2(b)1.C, 150.2(b)1.E, 150.2(b)1.F, and 150.2(b)1.G and either:</p>
+                            <p>Replaces all existing gas and electric resistance primary heating systems with a hybrid gas and electric heat pump system, or</p>
+                            <p>Is an electric-heat pump system in tandem with a gas furnace and controls to use the gas furnace for backup heat only.</p>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td>FS8</td>
+                          <td>Heat Pump Clothes Dryer: Replace existing electric resistance or gas clothes dryer with heat pump dryer with no resistance element and cap gas line.</td>
+                        </tr>
+                        <tr>
+                          <td>FS9</td>
+                          <td>Induction Cooktop: Replace all existing gas and electric resistance stove tops with induction stove top and cap the gas line.</td>
+                        </tr>
+                        <tr>
+                          <td>PV</td>
+                          <td>Solar PV and Electric Readiness: Install a solar PV system that meets the requirements of Section 150.1(c)14. In addition, for existing PV systems that had been installed prior to the application date of the current project, meet at least two of the electric readiness requirements in Section 150.0(x)1-6, regardless of whether they are otherwise required and regardless of the exceptions to Section 150.0(x).</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </text>
+                </para>
+              </para>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Energy Code Section 150.0 is amended to add 150.0(x) as follows:</text>
+          <include>
+            <para proof="done">
+              <num>(x)</num>
+              <text>Electric Readiness for Alterations and for Electric Readiness Credit for Solar PV Measure in Table 150.0-K.</text>
+              <para>
+                <num>1.</num>
+                <text>Electric range. Where branch circuits or receptacles are added or altered in a kitchen and the work requires an electrical permit, install electrical components in accordance with the California Electrical Code. The electrical components shall include either of the following:</text>
+                <para>
+                  <num>A.</num>
+                  <text>A 125 volt, 20 amp electrical receptacle that is connected to the electric panel with a 120/240 volt 3 conductor branch circuit rated at 50 amps minimum, within 3 feet from the appliance and accessible to the appliance with no obstructions. Both ends of the unused conductor shall be labeled with the word "spare" and be electrically isolated. Space shall be reserved for a single pole circuit breaker in the electrical panel adjacent to the circuit breaker for the branch circuit and labeled with the words "Future Use".</text>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>A pathway for a future 240 volt 50 amp minimum branch circuit that shall consist of either conductors or raceway from the main electrical service panel. The main electric panel shall have space reserved to allow for the installation of a double pole circuit breaker for a future electric range installation. The reserved space shall be permanently marked as "For Future 240V use". The raceway or conductors shall terminate at a junction box within 3 feet of the appliance. The blank cover shall be identified as "240V ready".</text>
+                </para>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Electric dryer. Where a branch circuit is added or altered within 3 feet of a gas or propane clothes dryer and the work requires an electrical permit, install electrical components in accordance with the California Electrical Code. The electrical components shall include either of the following:</text>
+                <para>
+                  <num>A.</num>
+                  <text>A dedicated 125 volt, 20 amp electrical receptacle that is connected to the electric panel with a 120/240 volt 3 conductor branch circuit rated at 30 amps minimum, within 3 feet from the appliance and accessible to the appliance with no obstructions. Both ends of the unused conductor shall be labeled with the word "spare" and be electrically isolated. Space shall be reserved for a single pole circuit breaker in the electrical panel adjacent to the circuit breaker for the branch circuit and labeled with the words "Future Use"; or,</text>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>A pathway for a future 240 volt 30 amp minimum branch circuit that shall consist of either conductors or raceway from the main electrical service panel. The main electric panel shall have space reserved to allow for the installation of a double pole circuit breaker for a future heat pump dryer installation. The reserved space shall be permanently marked as "For Future 240V use". The raceway or conductors shall terminate at a junction box within 3 feet of the appliance. The blank cover shall be identified as "240V ready".</text>
+                </para>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Heat pump water heater.</text>
+                <para>
+                  <num>A.</num>
+                  <text>If wall framing is removed or replaced within 3 feet of a gas or propane water heating appliance, space suitable for the future installation of a heat pump water heater (HPWH) shall be provided. The space shall be at least 2.5 feet by 2.5 feet wide and 7 feet tall and shall include a condensate drain that is no more than 2 inches higher than the base of an installed water heater and allows natural draining without pump assistance or installed piping or tubing within 3 feet of the water heater location to a condensate drain or exterior location. If pump assistance is needed, a receptacle on a 120 volt, minimum 15 amp branch circuit for a condensate pump must be available within 3 feet of the water heater location.</text>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>Where branch circuits are altered or added within 3 feet of an existing gas or propane water heater or within 10 feet of the designated future location of a heat pump water heater as required under Section 150.0(x)3A, and the work requires an electrical permit, install electrical components in accordance with the California Electrical Code. The electrical components shall include either of the following:</text>
+                  <para>
+                    <num>i.</num>
+                    <text>A dedicated 125 volt, 20 amp electrical receptacle that is connected to the electric panel with a 120/240 volt 3 conductor, 10 AWG copper branch circuit rated at 30 amps minimum, within 3 feet from the water heater and accessible to the water heater with no obstructions. Both ends of the unused conductor shall be labeled with the word "spare" and be electrically isolated. Space shall be reserved for a single pole circuit breaker space in the electrical panel adjacent to the circuit breaker for the branch circuit and labeled with the words "Future 240V Use"; or</text>
+                  </para>
+                  <para>
+                    <num>ii.</num>
+                    <text>A pathway for a future 240 volt 30 amp minimum branch circuit that shall consist of either conductors or raceway from the main electrical service panel. The main electric panel shall have space reserved to allow for the installation of a double pole circuit breaker for a future HPWH installation. The reserved space shall be permanently marked as "For Future 240V use". The pathway shall terminate at a junction box within 3 feet of the appliance. The blank cover shall be identified as "240V ready".</text>
+                  </para>
+                </para>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>Outdoor gas appliances. Where a gas line is added or extended to any pool water heater, spa water heater, sauna, fireplace, outdoor cooking appliance, or outdoor heating system, install infrastructure and reserve physical space to accommodate future installation of an electric equivalent of that system that serves the same function, as certified by a registered design professional or licensed electrical contractor.</text>
+                <para>
+                  <num>A.</num>
+                  <text>Install conduit designed to serve a future electric appliance(s) with the same function, including the appropriate voltage, phase, minimum amperage, and an electrical receptacle or junction box within five feet of the appliance that is accessible with no obstructions, in accordance with manufacturer requirements and the California Electrical Code. In lieu of or in addition to conduit, electrically isolated branch circuit wiring may be installed; and</text>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>Label both ends of the unused conduit or conductors "For Future Electrical Appliance"; and</text>
+                </para>
+                <para>
+                  <num>C.</num>
+                  <text>Reserve circuit breakers in the electrical panel(s) for each branch circuit, appropriately labeled; and</text>
+                </para>
+                <para>
+                  <num>D.</num>
+                  <text>Designate physical space for future electric appliances, including equipment footprint, on the construction drawings. The footprint necessary for future electric appliances may overlap with the location of currently designed combustion equipment.</text>
+                  <text><strong>Exception to Section 150.0(x)4</strong>: Generator systems used for emergency power generation.</text>
+                </para>
+              </para>
+              <para>
+                <num>5.</num>
+                <text>Battery Storage. As a measure qualifying the Solar PV credit under 150.0(w), meet the requirements A through D below.</text>
+                <para>
+                  <num>A.</num>
+                  <text>At least one of the following shall be provided:</text>
+                  <para>
+                    <num>i.</num>
+                    <text>ESS ready interconnection equipment with a minimum backed up capacity of 60 amps and a minimum of four ESS supplied branch circuits, or</text>
+                  </para>
+                  <para>
+                    <num>ii.</num>
+                    <text>A dedicated raceway from the main service to a panelboard (subpanel) that supplies the branch circuits in 150.0(s)2. All branch circuits are permitted to be supplied by the main service panel prior to the installation of an ESS. The trade size of the raceway shall be not less than one inch. The panelboard that supplies the branch circuits (subpanel) must be labeled "Subpanel shall include all backed-up load circuits."</text>
+                  </para>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>A minimum of four branch circuits shall be identified and have their source of supply collocated at a single panelboard suitable to be supplied by the ESS. At least one circuit shall supply the refrigerator, one lighting circuit shall be located near the primary egress, and at least one circuit shall supply a sleeping room receptacle outlet.</text>
+                </para>
+                <para>
+                  <num>C.</num>
+                  <text>The main panelboard shall have a minimum busbar rating of 225 amps or sufficient capacity a battery storage system and circuits in paragraphs A and B above.</text>
+                </para>
+                <para>
+                  <num>D.</num>
+                  <text>Sufficient space shall be reserved to allow future installation of a system isolation equipment/transfer switch within 3 feet of the main panelboard. Raceways shall be installed between the panelboard and the system isolation equipment/transfer switch location to allow the connection of backup power source.</text>
+                </para>
+              </para>
+              <para>
+                <num>6.</num>
+                <text>All-Electric Plan.  As a measure qualifying the Solar PV credit under 150.0(w), provide a plan including single line diagrams and calculations for electrification of the equipment below. Calculations shall be in accordance with California Electrical Code Article 220.83 or 220.87.</text>
+                <para>
+                  <num>A.</num>
+                  <text>All appliances with gas stub outs including space conditioning, water heating, range, and clothes dryer;</text>
+                </para>
+                <para>
+                  <num>B.</num>
+                  <text>Low Power Level 2 EV charger; and</text>
+                </para>
+                <para>
+                  <num>C.</num>
+                  <text>Battery storage system rated at 240 volts, 60 amp minimum.</text>
+                </para>
+              </para>
+              <aftertext><strong>Exception 1 to Section 150.0(x):</strong> The project is solely related to any of the following: a repair as defined by Title 24 Part 2 Section 202; medically necessary improvements; seismic safety improvements; safety improvement to remove a known hazard; or Emergency Housing pursuant to Appendix P of the California Building Code.</aftertext>
+              <aftertext><strong>Exception 2 to Section 150.0(x):</strong> If an electrical permit is not otherwise required for the project other than compliance with this section.</aftertext>
+              <aftertext><strong>Exception 3 to Section 150.0(x):</strong> Where upgrades to the existing electrical panel or utility service are not proposed, electrical panel capacity shall not be required to exceed the existing utility electrical service to the building to meet compliance with this section. Capacity and overcurrent protection spaces shall be reserved to the extent allowable under the existing electrical panel capacity. Tandem overcurrent protection devices shall be used to the extent permissible under the California Electrical Code.</aftertext>
+              <aftertext><strong>Exception 4 to Section 150.0(x):</strong> Mobile Homes, Manufactured Housing, or Factory-built Housing as defined in Division 13 of the California Health and Safety 12 Code (commencing with Section 17000 of the Health and Safety Code).</aftertext>
+              <aftertext><strong>Exception 5 to Section 150.0(x):</strong> Creation of a new accessory dwelling unit or junior accessory dwelling unit that is within the existing space of a single family dwelling or accessory structure and includes an expansion of not more than 150 square feet beyond the same physical dimensions as the existing accessory structure. An expansion beyond the physical dimensions of the existing accessory structure shall be limited to accommodating ingress and egress.  Or, if the project would not otherwise be a Covered Single Family Project were it not for the inclusion of an accessory dwelling unit or junior accessory dwelling unit that meets the criteria above.</aftertext>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>Energy Code subsection 150.2(a) is amended to read as follows:</text>
+          <include>
+            <para>
+              <num>(a)</num>
+              <heading>Additions.</heading>
+              <text>Additions to existing single-family residential buildings shall meet the requirements of Sections 110.0 through 110.9, Sections 150.0(a) through (n), (p), (q), (w), (x), and either Section 150.2(a)1 or 2.</text>
+              <text><strong>Exception 1 to Section 150.2(a)</strong>: Additions of 300 square feet or less are not required to comply with the roofing requirements of Section 150.1(c)11.</text>
+              <text><strong>Exception 2 to Section 150.2(a)</strong>: Existing inaccessible piping shall not require insulation as defined under Section 150.0(j)1.</text>
+              <text><strong>Exception 3 to Section 150.2(a):</strong> Space-conditioning system. When heating or cooling will be extended to an addition from the existing system(s), the existing heating and cooling equipment need not comply with Part 6. The heating system capacity must be adequate to meet the minimum requirements of CRC 303.10.</text>
+              <text><strong>Exception 4 to Section 150.2(a):</strong> Space-conditioning system ducts. When any length of duct is extended from an existing duct system to serve the addition, the existing duct system and the extended duct shall meet the applicable requirements specified in Section 150.2(b)1Di and 150.2(b)1Dii.</text>
+              <text><strong>Exception 5 to Section 150.2(a):</strong> Additions 1,000 square feet or less are not required to comply with the ventilation cooling requirements of Section 150.1(c)12.</text>
+              <text><strong>Exception 6 to Section 150.2(a):</strong> Photovoltaic systems, as specified in Section 150.1(c)14, are not required for additions.</text>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>Energy Code subsections 150.2(a)1 through 150.2(a)2 remain in full effect.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Energy Code subsection 150.2(b) is amended to read as follows:</text>
+          <include>
+            <para>
+              <num>(b)</num>
+              <heading>Alterations.</heading>
+              <text>Alterations to existing single-family residential buildings or alterations in conjunction with a change in building occupancy to a single-family residential occupancy shall meet the requirements of Sections 150.0(w) and (x), and either Item 1 or 2 below.</text>
+            </para>
+          </include>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Energy Code subsections 150.2(b)1 through 150.2(b)2 remain in full effect as amended by this ordinance.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15308, this action to adopt reach codes and amend the Energy Code is categorically exempt from CEQA as an action by a regulatory agency for the protection of the environment, because reach codes are intended to reduce greenhouse gas emissions.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on March 2, 2026, and adopted on March 16, 2026, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Loraine, Fernandez, Cwirko-Godycki, Diaz Nash, and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>

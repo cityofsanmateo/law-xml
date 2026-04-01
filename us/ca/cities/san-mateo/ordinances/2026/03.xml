@@ -1,0 +1,148 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2026-03" codify:doc="City of San Mateo, Cal., Code">
+  <num>2026-03</num>
+  <heading type="short">Operation of Leaf Blowers — Ordinance Adoption</heading>
+  <heading type="long">Amending San Mateo Municipal Code Chapter 10.80 "Operation of Leaf Blowers"</heading>
+  <meta>
+    <effective>2027-01-01</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2026-03.pdf">Ord. No. 2026-03</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2026-03</citation>
+    </citations>
+    <history>
+      <introduced>2026-03-02</introduced>
+      <adopted>2026-03-16</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>gas-powered leaf blowers emit greenhouse gases and other pollutants including carbon monoxide, nitrogen oxides and hydrocarbons that are harmful to human health and the environment; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>research by the California Air Resources Board has identified the use of gas-powered small off-road engines, including leaf blowers, as detrimental to the environment as they emit high levels of air pollutants like nitrogen oxides and other reactive organic gases; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>modern, readily available electric leaf blower equipment generally produces less noise and air pollution; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 1997, the City Council adopted a leaf blower Ordinance to regulate leaf blower use and establish hours of operation; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo Climate Action Plan seeks to reduce greenhouse gas emissions 40% below 1990 levels by 2030 and 85% below 1990 levels and achieve carbon neutrality by 2045; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council seeks to reduce greenhouse gas emissions and air pollution by prohibiting the use of gas leaf blowers in San Mateo and modify hours of operation of leaf blower use.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="10.80.010">Section 10.80.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="10.80.010"/>
+        <num>10.80.010</num>
+        <heading>Purpose.</heading>
+        <text>It has been found that leaf blowers cause considerable noise and air pollution and have been the source of numerous complaints by San Mateo residents. <cite doc="City of San Mateo, Cal., Code" path="10.80">This chapter</cite> is intended to regulate the use of leaf blowers to minimize noise and air pollution in the City.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="10.80.020">Section 10.80.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="10.80.020"/>
+        <num>10.80.020</num>
+        <heading>Leaf Blower – Definition.</heading>
+        <text>"Electric leaf blower" is defined as any leaf blower powered by electric means, including but not limited to, battery-powered equipment.</text>
+        <text>"Gas leaf blower" is defined as any leaf blower powered by a combustion engine using gasoline or any other liquid or gaseous fluid.</text>
+        <text>"Leaf blowers" are defined as portable equipment that is powered by a self-contained engine and used in any landscape, maintenance, construction, property repair, or property maintenance for the purpose of blowing, dispersing or redistributing dust, dirt, leaves, grass, clippings, cuttings and trimmings from trees, shrubs or other debris.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="10.80.025">Section 10.80.025 of the San Mateo Municipal Code</cite> is added as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="10.80" after="10.80.020"/>
+        <num>10.80.025</num>
+        <heading>Prohibition of Gas Leaf Blowers.</heading>
+        <text>It shall be unlawful for any person to operate or authorize the operation of a gas leaf blower within the city limits.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="10.80.030">Section 10.80.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="10.80.030"/>
+        <num>10.80.030</num>
+        <heading>Restriction of Electric Leaf Blowers - Hours of Operation.</heading>
+        <text>No person shall use or operate an electric leaf blower in a residential zoning district or in areas bordering a residential zoning district before 8:00 a.m. or after 5:00 p.m. Monday through Friday, nor prior to 9:00 a.m. or after 5:00 p.m. on Saturdays. Use of electric leaf blowers on Sundays or on the following holidays is prohibited: New Years Day, Martin Luther King, Jr. Birthday, Presidents' Day, Memorial Day, Juneteenth, 4th of July, Labor Day, Veterans Day, Thanksgiving, and Christmas.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="10.80.060">Section 10.80.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="10.80.060"/>
+        <num>10.80.060</num>
+        <heading>Violations.</heading>
+        <text>It is unlawful for any person or entity to violate the provisions of <cite doc="City of San Mateo, Cal., Code" path="10.80">this chapter</cite>. Enforcement of <cite doc="City of San Mateo, Cal., Code" path="10.80">this chapter</cite> shall be subject to enforcement pursuant to <cite doc="City of San Mateo, Cal., Code" path="1">Title 1 of the San Mateo Municipal Code</cite> or any legal remedy available by law. Violations of <cite doc="City of San Mateo, Cal., Code" path="10.80">this chapter</cite> may be enforced against the leaf blower operator and/or property owner who has hired, employed or engaged the services of a person or business utilizing leaf blowers.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines Section 15308, this action is categorically exempt from CEQA, because it consists of an action to protect the environment by reducing greenhouse gas emissions.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this Ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>9</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on March 2, 2026, and adopted on March 16, 2026, and shall be effective on January 1, 2027.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Loraine, Fernandez, Cwirko-Godycki, Diaz Nash, and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
