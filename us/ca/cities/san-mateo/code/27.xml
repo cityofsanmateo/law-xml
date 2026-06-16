@@ -6261,7 +6261,7 @@
       <aftertext>To earn a floor area bonus for any project feature, a development must earn a bonus from each of the three categories below in this section. In order to earn any bonus provision, a development must include increased natural landscaping. However, not more than twenty-five percent (25%) of natural landscaping in pots or planters shall be counted for the purpose of determining the amount of any floor area bonus.</aftertext>
       <aftertext>Open space and recreation facilities may be located in required yards under the conditions provided in the open space bonus standards.</aftertext>
       <aftertext>The following project features may qualify for floor area ratio bonuses when the criteria are met:</aftertext>
-      <para>
+      <para name="(1)~2">
         <num proof="done">(1)</num>
         <text>Outdoor Open Space. Open space bonuses may be granted for provision of natural landscaping, court games and field sports areas as follows:</text>
         <para>
@@ -6278,13 +6278,13 @@
         </para>
         <aftertext>The maximum bonus floor area ratio granted for the provision of exterior open spaces is 1.0.</aftertext>
       </para>
-      <para>
+      <para name="(2)~2">
         <num>(2)</num>
         <text>Indoor Recreation Space. Open space bonuses may be granted for provision of recreation room, as follows:</text>
         <text>For each five-hundred (500) square-foot unit of recreation room floor area, a ratio bonus of 0.05 will be granted to a maximum of 0.2.</text>
         <text>The maximum bonus floor area ratio for interior open space is 0.2.</text>
       </para>
-      <para>
+      <para name="(3)~2">
         <num>(3)</num>
         <text>Open Space and Recreation Special Features. Open space bonuses may be granted for provision of special activity facilities, plazas, and swimming pools as follows:</text>
         <para>
