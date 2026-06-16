@@ -1,0 +1,660 @@
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2026-06" codify:doc="City of San Mateo, Cal., Code">
+  <num>2026-06</num>
+  <heading type="short">Historic Policy Update – Historic Preservation</heading>
+  <heading type="long">AN ORDINANCE AMENDING ZONING CODE CHAPTER 27.66 (HISTORIC PRESERVATION) to align with General Plan 2040 and state law, and improve clarity and consistency in procedures, AND FIND THE ORDINANCE EXEMPT FROM further environmental review Pursuant to Sections 15061(b)(3) and 15308 of the CEQA Guidelines</heading>
+  <meta>
+    <effective>2026-06-17</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2026-06.pdf">Ord. No. 2026-06</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2026-06</citation>
+    </citations>
+    <history>
+      <introduced>2026-05-04</introduced>
+      <adopted>2026-05-18</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of San Mateo is authorized under the State of California to regulate land use and protect historic and architectural resources for the public health, safety, and general welfare; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in November 1993 the City of San Mateo adopted Ordinance No. 1993-21, establishing <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> Downtown Historic Preservation, which was established to define the downtown historic district; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in June 1995, the City of San Mateo adopted Ordinance No. 1995-13, amending Municipal Code <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> to be remade as Historic Preservation and expanding the provisions citywide; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>San Mateo's General Plan 2040 includes a goal to support preservation of historic and culturally important resources to maintain San Mateo's special identity and continuity with the past, and policies and actions to implement this goal; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>updates to the City's Historic Preservation Ordinance are necessary to reflect current best practices in preservation planning, improve clarity and consistency in procedures, and ensure alignment with state law; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the amendments strengthen provisions related to designation criteria, historic districts, owner consent thresholds, reviews for alterations, and administrative procedures; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Ordinance is exempt from the requirements of the California Environmental Quality Act (CEQA) pursuant to Sections 15061(b)(3) (Common Sense Exemption) and Section 15308 (Actions by Regulatory Agencies for Protection of the Environment); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on April 14, 2026, the Planning Commission held a duly noticed public hearing, received all written and oral public comments, and recommended that the City Council adopt the proposed Ordinance to amend <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> (Historic Preservation); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on May 4, 2026, the City Council held a duly noticed public hearing, received all written and oral public comments, and considered the proposed Ordinance to amend <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> (Historic Preservation).</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.010">Section 27.66.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.66.010"/>
+        <num>27.66.010</num>
+        <heading>Purpose and Intent</heading>
+        <text>The intent of the Historic Preservation Ordinance is to promote the protection, enhancement, preservation, and use of historic resources within San Mateo, recognizing they are of economic, cultural, and aesthetic benefit to the community. It is further recognized that the economic, cultural and aesthetic character of the City will be enhanced by honoring its heritage and ensuring that future generations can experience and appreciate it. The purposes of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite> are as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>Designate, preserve, protect, and enhance the City's historic resources.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Foster public awareness and encourage public understanding of the City's past through the recognition and use of historic and cultural resources.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Preserve a variety of architectural styles, patterns of development, and design trends that reflect phases of the City's history and encourage complementary design and construction to inspire a diverse and livable urban environment.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Enhance the visual and aesthetic character of the City by encouraging the preservation and maintenance of historic resources.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Avoid demolition of the City's historic resources, where feasible, through preservation, rehabilitation, or other available and appropriate alternatives.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Fulfill the City's responsibility under state and federal regulations, including the California Environmental Quality Act and Section 106 of the National Historic Preservation Act.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.020">Section 27.66.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.66.020"/>
+        <num>27.66.020</num>
+        <heading>Definitions</heading>
+        <para>
+          <num>(a)</num>
+          <text><em>Alteration, Major</em>. Any significant changes or modifications to a Landmark or Contributor within a Historic District listed in the San Mateo Historic Resources Inventory, including but not limited to changes to or modifications of structural, architectural details or visual characteristics; additions; and placement or removal of any significant objects affecting the significant exterior visual and/or historical qualities of the property. Examples include:</text>
+          <para>
+            <num>(1)</num>
+            <text>Relocation of a Landmark building, or removal of a character-defining feature of a Landmark building.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any project that requires a permit that significantly alters or changes the street-facing elevation or side elevation of a Landmark building, including major changes to windows and doors and their openings, the application of new exterior cladding or coating that changes the appearance, design, or texture of a property, and the addition of dormers and other architectural features.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Any addition of square footage to a Contributor building elevation that faces a street.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>New construction on a property containing a Landmark or Contributor building that could affect its visual appearance.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text><em>Alteration, Minor</em>. An alteration that has been determined to have limited potential to affect the character-defining features and architectural style of a Landmark or Contributor within a Historic District listed in the San Mateo Historic Resources Inventory. In no case shall a Minor Alteration involve actions including new construction or full or partial demolition of a Landmark structure. Examples include:</text>
+          <para>
+            <num>(1)</num>
+            <text>Any demolition or removal of insignificant exterior features of a Landmark building, including additions, windows, doors, and exterior siding material that is non-original or otherwise lacking in historic integrity.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Any project that requires a permit that does not substantially change the exterior character-defining features of a Landmark building, including re-roofing in a different material that replicates the existing or original roofing, replacement windows and doors matching the design and materials of the existing or original windows and doors (when it is infeasible to repair) and minor additions on secondary or rear elevations.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>In Historic Districts listed in the San Mateo Historic Resources Inventory, demolition and alteration of detached garages and other accessory structures built within the period of significance on a Contributor property.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>New construction of detached garages or other accessory structures on a Landmark property.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Any alteration determined minor by the Community Development Director.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text><em>Certificate of Appropriateness.</em> The administrative approval document issued by the City to approve an alteration to a Landmark or Contributor within a Historic District listed in the San Mateo Historic Resources Inventory.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text><em>Character-Defining Feature</em>. Character-defining features are visual aspects, physical qualities, and characteristics of a historic resource that help to convey its significance and may include the building's shape, structural details, materials, and decorative features.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text><em>Construction.</em> The act of rebuilding or expanding an existing building or structure or the erection of a new principal or accessory building or structure on a property.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text><em>Contributing Resource or Contributor</em>. A building, structure, site, or object within a Historic District listed in the San Mateo Historic Resources Inventory that retains enough of its original location, setting, design, materials, workmanship, feeling, and association to convey the district's historical or architectural significance. The resource contributes to the designated district's historical significance and dates to its period of significance.</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text><em>Demolition.</em> The complete destruction or removal of a building, structure, or improvement, removal of more than 50 percent of the perimeter walls, or substantial removal of a structural wall of a street-facing elevation of a structure or building that may have an adverse effect on the significance of a property.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text><em>Historic District</em>. An area containing a concentration of historic buildings, structures, sites, objects, or other resources that are unified historically, culturally, or architecturally. A historic district may contain both "contributing" and "non-contributing" resources.</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text><em>Historic Resource</em>. Includes, but is not limited to, any object, building, structure, site, area, place, sign, district, or landscape feature which is historically, culturally, architecturally and/or archaeologically significant. Historic resources may also include, but are not limited to, resources:</text>
+          <para>
+            <num>(1)</num>
+            <text>Eligible for or listed in the National Register of Historic Places;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Eligible for or listed in the California Register of Historical Resources;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Eligible for or listed in the San Mateo Historic Resources Inventory;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Identified in the 1989 Historic Building Survey Report.</text>
+          </para>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text><em>Historic Resources Evaluation (HRE).</em> A historic resources evaluation (HRE) is a report, prepared by a qualified professional, which documents, identifies, and evaluates, based on the appropriate evaluative criteria, potential historic resources, including buildings, structures, objects, and districts, for their eligibility for designation.</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text><em>Improvement</em>. Any building, structure, landscape feature, or object physically located on real property or that constitutes a physical addition or physical alteration of real property or any part of such alteration.</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text><em>Integrity</em>. The ability of a property, structure, site, or building to convey its identity through its physical features and how they relate to its historic context and the basis of its significance. A measure of integrity is not the same as an assessment of condition.</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text><em>Landmark</em>. Individual resource listed in the San Mateo Historic Resources Inventory.</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text><em>Non-contributing Resource.</em> A building, structure, site, or object within a historic district that does not possess significant qualifications or characteristics of a contributing resource due to such factors as age or level of alteration, but which has been included within the geographic boundary of a historic district.</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text><em>Owner</em>. The person or entity (public or private) appearing on the last equalized assessment roll of the County of San Mateo or person/entity providing proof of ownership.</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text><em>Qualified Professional</em>. An individual who meets the Secretary of the Interior's Professional Qualification Standards (36 CFR Part 61, Appendix A) in history, architectural history, or historic architecture.</text>
+        </para>
+        <para>
+          <num>(q)</num>
+          <text><em>Routine Maintenance. </em>Any work done for the purpose of preventing deterioration, decay, or damage or to maintain a property's existing condition. Examples include:</text>
+          <para>
+            <num>(1)</num>
+            <text>Painting;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Ordinary maintenance and repair which does not require a building permit;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Landscaping, including sprinkler work, that does not affect a character-defining feature; and</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Paving work that does not affect a character-defining feature.</text>
+          </para>
+        </para>
+        <para>
+          <num>(r)</num>
+          <text><em>San Mateo Historic Resources Inventory</em>. A list of individual Landmarks and Historic Districts in San Mateo, designated by the City under the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(s)</num>
+          <text><em>Secretary of the Interior's Standards for Rehabilitation</em>. The Secretary of the Interior's Standards for Rehabilitation, codified in 36 CFR, Part 68, serve as the guidance for work on historic resources.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>3</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.030">Section 27.66.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.66.030"/>
+        <num>27.66.030</num>
+        <heading>San Mateo Historic Resources Inventory</heading>
+        <text>The San Mateo Historic Resources Inventory is the official list of locally designated historic resources and includes:</text>
+        <para>
+          <num>(a)</num>
+          <text>Landmarks designated pursuant to the procedure set forth in <cite doc="City of San Mateo, Cal., Code" path="27.66.060">Section 27.66.060</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Historic Districts designated pursuant to the procedure set forth in <cite doc="City of San Mateo, Cal., Code" path="27.66.070">Section 27.66.070</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Historic Districts and Landmarks locally designated by resolution as of the effective date of this ordinance.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.040">Section 27.66.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.66.040"/>
+        <num>27.66.040</num>
+        <heading>Designation Criteria</heading>
+        <text>Prior to approval for listing in the San Mateo Historic Resources Inventory, the City Council shall find that the historic resource satisfies one or more of the criteria outlined below, and retains its historic integrity.</text>
+        <para>
+          <num>(a)</num>
+          <text>Is associated with events that have made a significant contribution to the broad patterns of San Mateo's or California's history and cultural heritage; or</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Is associated with the lives of persons or communities important to San Mateo's or California's past; or</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Embodies the distinctive characteristics of a type, period, region, or method of construction, or represents the work of an important creative individual, or possesses high artistic values; or</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Has yielded, or may be likely to yield, information important to prehistory or history.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.050">Section 27.66.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.66.050"/>
+        <num>27.66.050</num>
+        <heading>Eligibility Requirements for Listing</heading>
+        <para>
+          <num>(a)</num>
+          <text>Landmarks. To be eligible for consideration as a Landmark, the resource must be at least fifty (50) years old and meet at least one of the criteria outlined in <cite doc="City of San Mateo, Cal., Code" path="27.66.040">Section 27.66.040</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Historic District. To be eligible for consideration as a Historic District, at least seventy-five percent (75%) of the buildings in the proposed historic district (excluding accessory buildings) must be at least fifty (50) years old and otherwise meet the criteria of <cite doc="City of San Mateo, Cal., Code" path="27.66.040">Section 27.66.040</cite>. In addition, no more than twenty-five percent (25%) of the buildings in the proposed district may be non-contributing. Non-contributing buildings may be included as part of a historic district only to the extent that they are determined to be essential to the geographic integrity of the district. The Historic Resources Commission shall make determinations identifying non-contributing buildings as part of the review process.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.060">Section 27.66.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="27.66.060"/>
+        <num>27.66.060</num>
+        <heading>Procedure for Designating Landmarks</heading>
+        <para>
+          <num>(a)</num>
+          <text>Application for Landmarks. The City shall make available an application for listing historic resources in the San Mateo Historic Resources Inventory.</text>
+          <para>
+            <num>(1)</num>
+            <text>Owner Consent. Except as provided in subsection (5), nominations to add a Landmark to the San Mateo Historic Resources Inventory shall be made only by application of the property owner or property owners representing a majority or controlling interest on which the resource is located. The property owner may request that a resource be listed in the San Mateo Historic Resources Inventory by submitting a completed application to the Planning Division. No application shall be accepted without the written consent of the property owner.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Application Review. Landmark applications shall be reviewed by the Planning Division to assess if all application materials are provided and if the application is complete, including sufficient information to support the finding that the resource meets the requirements for designation set forth in <cite doc="City of San Mateo, Cal., Code" path="27.66.050">Section 27.66.050</cite>.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Designation Recommendation. Landmark applications, once deemed complete by the Planning Division, shall be reviewed by the Historic Resources Commission at a public meeting. The Historic Resources Commission shall determine whether the resource meets one (1) or more criteria for approval as a historical resource to be listed on the San Mateo Historic Resources Inventory and, based on this determination, provide a recommendation to the City Council. The Historic Resources Commission shall adopt a resolution stating its recommendation, focusing on the criteria set forth in <cite doc="City of San Mateo, Cal., Code" path="27.66.040">Section 27.66.040</cite>, and incorporating its reasons for the recommendation.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Designation Action. Following the recommendation from the Historic Resources Commission, the City Council shall hold a public hearing to consider the application. Following the public hearing, the City Council shall adopt a resolution to approve or deny the application based on the criteria set forth in <cite doc="City of San Mateo, Cal., Code" path="27.66.040">Section 27.66.040</cite>. If the application is approved by City Council, the resource shall be added to the San Mateo Historic Resources Inventory.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>1989 Historic Building Survey. The City Council may nominate properties listed on the 1989 Survey for addition to the San Mateo Historic Resources Inventory. Following property owner notification and documentation to support findings, the City Council shall hold a public hearing to consider a resolution to approve the designation based on the criteria set forth in <cite doc="City of San Mateo, Cal., Code" path="27.66.040">Section 27.66.040</cite>. If the application is approved by City Council, the resource shall be added to the San Mateo Historic Resources Inventory.</text>
+          </para>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>7</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.070">Section 27.66.070 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.66"/>
+        <num>27.66.070</num>
+        <heading>Procedure for Designating Historic Districts</heading>
+        <para>
+          <num>(a)</num>
+          <text>Application for Historic District Designation. The City shall make available an application for listing a Historic District in the San Mateo Historic Resources Inventory. The application will include a two-part process.</text>
+          <para>
+            <num>(1)</num>
+            <text>Preliminary Application. Nominations to add Historic Districts to the San Mateo Historic Resources Inventory shall be made by a property owner or group of property owners in a potential historic district. Nominations to add Historic Districts to the San Mateo Historic Resources Inventory will first need to complete a preliminary application. This application shall include the following:</text>
+            <para>
+              <num>(A)</num>
+              <text>Application Form. The preliminary application form and requisite support materials outlined in the application instructions.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Demonstration of Owner Interest. Demonstration of owner interest shall include written certification that at least twenty percent (20%) of property owners within the potential historic district support the application for designation, with one (1) vote allocated per property.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Preliminary Documentation. The preliminary application shall also include a map of the proposed historic district and photographs of properties to be included in the Historic District.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Preliminary Application Review. Preliminary applications shall be reviewed by the Planning Division to assess if all application materials are provided and if the application is complete, including satisfactory demonstration of owner consent.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Community Meeting. Once the Preliminary Application has been deemed complete, the applicant shall host a community meeting prior to any public meeting to consider the designation. The purpose and intent of the community meeting is to provide information about the proposed Historic District and designation process. Mailed notice shall be provided to every owner of property as listed in San Mateo County's most recent property ownership roll within the proposed Historic District. Such notice shall be provided at least 10 days prior to the community meeting date.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Formal Application. Once a preliminary application has been deemed complete and the community meeting has been held, the applicant may submit a formal application. This application shall include the following:</text>
+            <para>
+              <num>(A)</num>
+              <text>Application Form. The formal application form and requisite support materials outlined in the application instructions.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Sufficient information to support the finding that the Historic District meets the requirements for designation set forth in <cite doc="City of San Mateo, Cal., Code" path="27.66.050">Section 27.66.050</cite>.</text>
+            </para>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>Formal Application Review. Formal applications shall be reviewed by the Planning Division to assess if all application materials are provided and if the application is complete, including sufficient information to support the finding that the Historic District meets the designation criteria in <cite doc="City of San Mateo, Cal., Code" path="27.66.040">Section 27.66.040</cite> and the eligibility requirements for designation in <cite doc="City of San Mateo, Cal., Code" path="27.66.050">Section 27.66.050</cite>.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Owner Consent. Evidence of support for the potential designation from at least sixty percent (60%) of property owners in the proposed historic district shall be provided for the Formal Application to be deemed complete. To confirm owner consent, the City shall mail a survey to all property owners in the proposed historic district, to the name and address listed in San Mateo County's most recent property ownership assessment roll, via certified mail seeking their approval to be included in the proposed historic district. Owner consent will be confirmed when the City has received surveys from at least sixty percent (60%) of property owners who express support for the historic district designation.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Designation Recommendation. Once the formal application has been deemed complete by the Planning Division and owner consent confirmed, it shall be reviewed by the Historic Resources Commission at a public meeting. The Historic Resources Commission shall determine whether the historic district meets one (1) or more criteria to be listed on the San Mateo Historic Resources Inventory and, based on this determination, shall recommend to the City Council that the application be approved or denied. The Historic Resources Commission shall adopt a resolution stating its recommendation, focusing on the criteria set forth in <cite doc="City of San Mateo, Cal., Code" path="27.66.040">Section 27.66.040</cite>, assessing the historical significance of those contributing resources identified in the proposed district, affirming that no more than twenty-five percent (25%) of the buildings in the district are non-contributing, and incorporating its reasons in support or denial of the application. Mailed notice shall be provided to property owners within the Historic District at least 10 days prior to the Historic Resources Commission meeting date.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Designation Action. Following the recommendation from Historic Resources Commission, the City Council shall hold a public hearing to consider the application. Following the public hearing, the City Council shall adopt a resolution to approve or deny the application based on the criteria set forth in <cite doc="City of San Mateo, Cal., Code" path="27.66.040">Section 27.66.040</cite>. If the application is approved by City Council, the Historic District shall be added to the San Mateo Historic Resources Inventory. Mailed notice of the public hearing shall be provided to property owners of properties within the Historic District at least 10 days before the meeting date. Mailed notice of the decision shall be provided to property owners of properties within the Historic District within 30 days following the decision.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>8</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.080">Section 27.66.080 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.66"/>
+        <num>27.66.080</num>
+        <heading>Criteria and Procedure for Removing a Landmark or Historic District Designation</heading>
+        <para>
+          <num>(a)</num>
+          <text>The City Council may approve removal of a Landmark from the San Mateo Historic Resources Inventory by one of the following methods:</text>
+          <para>
+            <num>(1)</num>
+            <text>Application for Removal. Removal of a Landmark designation may be sought by the owner of a property on which a Historic Resource is located. Applications must be accompanied by such documentation as required by the Planning Division and demonstrate that the Landmark does not possess, or no longer possesses, a minimum level of significance necessary for listing as outlined in <cite doc="City of San Mateo, Cal., Code" path="27.66.040">Section 27.66.040</cite>.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Removal Following Destruction. The property owner or the City may seek removal of designation to the San Mateo Historic Resources Inventory where a Landmark has been destroyed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Delisting Recommendation. Upon completion of an application to remove a Landmark, the request shall be reviewed by the Historic Resources Commission at a public meeting. The Historic Resources Commission shall determine if the Historic Resource meets the conditions to warrant removal and provide a recommendation to City Council that the application be approved or denied.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Delisting Action. Upon receipt of a recommendation from the Historic Resources Commission to remove a Landmark from the San Mateo Historic Resources Inventory, the City Council will hold a public hearing on the application. If the City Council approves an application, such approval shall be made by resolution.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Historic District Delisting. The process to remove a Historic District from the San Mateo Historic Resources Inventory shall follow the same process that is required to designate a Historic District as outlined in <cite doc="City of San Mateo, Cal., Code" path="27.66.070">Section 27.66.070</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>9</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.090">Section 27.66.090 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.66"/>
+        <num>27.66.090</num>
+        <heading>Review Required</heading>
+        <para>
+          <num>(a)</num>
+          <text>Historic Resource. No building permit that includes an exterior facade modification, exterior alteration, or building addition involving an individually eligible historic resource shall be issued until a planning application has been approved in accordance with the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.08">Chapter 27.08</cite> of <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite>.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Landmark or Contributor. No building permit for a Major or Minor Alteration to a Landmark or Contributor within a Historic District listed in the San Mateo Historic Resources Inventory shall be issued until a Certificate of Appropriateness has been approved in accordance with the provisions of <cite doc="City of San Mateo, Cal., Code" path="27.66.100">Section 27.66.100</cite> of <cite doc="City of San Mateo, Cal., Code" path="27.66">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Exemptions. Review pursuant to (a) and (b) of this section shall not be required when preempted by State Law.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>10</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.100">Section 27.66.100 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.66"/>
+        <num>27.66.100</num>
+        <heading>Certificate of Appropriateness</heading>
+        <para>
+          <num>(a)</num>
+          <text>Applicability. A Certificate of Appropriateness is required for any alteration to a Landmark or Contributor within a Historic District listed in the San Mateo Historic Resources Inventory. In approving a Certificate of Appropriateness, conditions or restrictions may be imposed as necessary or appropriate to ensure that the integrity of the resource is maintained.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Historic Resources Commission Review. The Historic Resources Commission has the authority to review and approve, conditionally approve, or disapprove Certificates of Appropriateness for Major Alterations to a Landmark or Contributor within a Historic District listed in the San Mateo Historic Resources Inventory.</text>
+          <para>
+            <num>(1)</num>
+            <text>Design Standards. The Secretary of the Interior's Standards for Rehabilitation as amended from time to time are incorporated by this reference. Work proposed shall be in compliance with these standards. Where applicable, locally adopted design standards or guidelines shall apply in addition to the Secretary of the Interior's Standards for Rehabilitation.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Zoning Administrator Review. The Zoning Administrator has the authority to review and approve, conditionally approve, or disapprove Certificates of Appropriateness for Minor Alterations to a Landmark or Contributor within a Historic District listed in the San Mateo Historic Resources Inventory, provided that the projects do not result in any significant impacts pursuant to the California Environmental Quality Act (CEQA).</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Exemptions. A Certificate of Appropriateness is not required for Routine Maintenance of any Landmark or Contributor within a Historic District listed in the San Mateo Historic Resources Inventory, so long as maintenance and repair does not involve change in exterior design, material, or appearance. A Certificate of Appropriateness is not required for construction, reconstruction, alteration, or demolition that the Building Official certifies is required to protect public health or safety because of an unsafe or dangerous condition.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Economic Hardship. At the time of an application for a Certificate of Appropriateness, the applicant may apply for an Economic Hardship Exception. The application shall include proof of economic hardship from the owner of the property, and documents and/or testimony to substantiate a claim of economic hardship as required by the Community Development Director. The approval of an Economic Hardship Exception shall be based on the findings that:</text>
+          <para>
+            <num>(1)</num>
+            <text>The owner of the property is qualified as low-income or very-low income; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Denial of the Economic Hardship Exception would deprive the owner of all reasonable use of, or economic return on, the designated resource; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Denial of the Economic Hardship Exception would cause the owner to suffer unreasonable damage in comparison to the benefit conferred to the community by the designated resource.</text>
+          </para>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Appeals. The final decision of the Zoning Administrator to approve, conditionally approve, or disapprove a Certificate of Appropriateness is appealable to the Historic Resources Commission. The decision of the Historic Resources Commission is appealable to the City Council. Appeals shall be processed pursuant to <cite doc="City of San Mateo, Cal., Code" path="27.08">Chapter 27.08</cite> (Rules of Procedures).</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>11</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.110">Section 27.66.110 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.66"/>
+        <num>27.66.110</num>
+        <heading>Demolition</heading>
+        <para>
+          <num>(a)</num>
+          <text>Demolition. Any request for demolition of a Landmark or a Contributor within a Historic District listed in the San Mateo Historic Resources Inventory, or an eligible historic resource shall be processed as a planning application as described in <cite doc="City of San Mateo, Cal., Code" path="27.08">Chapter 27.08</cite>. As part of this planning application, a Historic Resource Evaluation and/or a report by a civil or structural engineer or architect licensed by the State of California shall be submitted identifying the general condition of the building, all <cite doc="Cal. Health &amp; Safety Code">health and safety code</cite> deficiencies, corrective measures needed to alleviate these deficiencies, and the cost of such corrective measures.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Other regulations. All demolitions shall conform with the provisions of <cite doc="City of San Mateo, Cal., Code" path="23.10">Chapter 23.10</cite> Earthquake Hazard Reduction in Existing Buildings and <cite doc="City of San Mateo, Cal., Code" path="23.06.035">Section 23.06.035</cite> Demolition Permits-Conditions.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>12</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.120">Section 27.66.120 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.66"/>
+        <num>27.66.120</num>
+        <heading>Design Guidelines</heading>
+        <text>In addition to the Certificate of Appropriateness requirements outlined above, all exterior modifications of individually eligible and contributor buildings in the Downtown Retail Core subarea of the Downtown Area Plan shall conform with the Downtown Retail Core and Downtown District Design Guidelines.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>13</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.130">Section 27.66.130 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.66"/>
+        <num>27.66.130</num>
+        <heading>Incentives for Preserving Historic Resources</heading>
+        <text>To foster preservation and encourage participation in the City's historic preservation efforts, the following incentives are available to Landmarks or Contributors within a Historic District listed in the San Mateo Historic Resources Inventory:</text>
+        <para>
+          <num>(a)</num>
+          <text>State Historical Building Code. Any alteration made for preservation, rehabilitation, restoration, or relocation of such properties shall be made according to the requirements of the state historical building code pursuant to the <cite doc="Cal. Health &amp; Safety Code" path="§18950">California Health and Safety Code Section 18950</cite>, et seq.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Mills Act. The City Council may authorize the use of contracts pursuant to <cite doc="Cal. Gov't Code" path="§50280">California Government Code Section 50280</cite> et. seq., also known as the Mills Act. Such contracts may be entered into at the sole discretion of the City Council based on the recommendation of the Historic Resources Commission for the specific intent to promote the continued preservation of historic properties.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Additional Incentives. The City Council may authorize the use of additional incentives, as appropriate, to encourage the preservation, reuse, and rehabilitation of the City's historic resources.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>14</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.140">Section 27.66.140 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.66"/>
+        <num>27.66.140</num>
+        <heading>Duty to Keep in Good Repair</heading>
+        <text>The owner of a resource listed in the San Mateo Historic Resources Inventory shall keep in good repair the exterior portions of all such buildings, structures, or improvements, and all interior portions thereof whose maintenance is necessary to prevent deterioration of any exterior improvement or essential exterior architectural or character-defining features. They shall also maintain properties in compliance with <cite doc="City of San Mateo, Cal., Code" path="7.14">San Mateo Municipal Code Chapter 7.14</cite> and the protective treatment standards of the International Property Maintenance Code.</text></section>
+    </include>
+  </section>
+  <section>
+    <num>15</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="27.66.150">Section 27.66.150 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="27.66">Chapter 27.66</cite> as follows:</text>
+    <include>
+      <section>
+        <codify:insert path="27.66"/>
+        <num>27.66.150</num>
+        <heading>Enforcement and Penalties</heading>
+        <para>
+          <num>(a)</num>
+          <text>Time to Correct. Prior to assessment or initiation of any penalty for any violation of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>, the Zoning Administrator shall provide written notice of noncompliance to property owners. Notice shall be sent by certified and regular mail. Following mailing of the notice, property owners shall have 30 calendar days to correct the violation or to inform the City that there is a financial hardship, or why an extension is warranted. Additional time to correct the violation may be allowed where the property owner is exercising due diligence in acting to correct noticed violations. The Zoning Administrator shall have the authority to place reasonable and/or necessary conditions on such an extension to ensure timely correction of the violation.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Work Stoppage. In addition to any other fines, penalties or enforcement provisions set forth in <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>, failure to comply with an approved application shall constitute grounds for immediate stoppage of the work involved in the noncompliance until the matter is resolved.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Violation Penalty. In addition to the foregoing remedies, and any other remedies available by law, the City Attorney may enforce the provisions of this article by seeking injunctive relief to restrain or enjoin or to cause the correction or removal of any violation of <cite doc="City of San Mateo, Cal., Code" path="27.66">this chapter</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>16</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, this Ordinance is exempt under Section 15061(b)(3) (Common Sense Exemption) because it will update and clarify the City's policies and processes surrounding historic preservation, but will not materially change or expand the applicability of the Ordinance or the properties subject to the Ordinance's requirements. Further the Ordinance is exempt under Section 15308 (Actions by Regulatory Agencies for Protection of the Environment) because it regulates how properties can be modified, thereby protecting historic resources through maintaining the existing built environment. Therefore, pursuant to these exemptions, it can be seen with certainty that there is no possibility that the Ordinance may have a significant effect on the environment, and is exempt from CEQA review.</text>
+  </section>
+  <section>
+    <num>17</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>18</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>19</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This ordinance was introduced on May 4, 2026, and adopted on May 18, 2026, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Loraine, Fernandez, Cwirko-Godycki, Diaz Nash, and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
