@@ -3,6 +3,7 @@
   <heading>2026 Ordinances</heading>
   <heading type="short">2026</heading>
   <subheading>Codified Ordinances</subheading>
+  <xi:include href="./09.xml"/>
   <xi:include href="./07.xml"/>
   <xi:include href="./06.xml"/>
   <xi:include href="./04.xml"/>

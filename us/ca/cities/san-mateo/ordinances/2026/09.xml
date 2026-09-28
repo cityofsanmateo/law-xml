@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" id="City of San Mateo, Cal., Ord. No. 2026-09" codify:doc="City of San Mateo, Cal., Code">
+  <num>2026-09</num>
+  <heading type="short">Municipal Code Amendments — Ordinance Adoption</heading>
+  <heading type="long">AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF SAN MATEO, CALIFORNIA, APPROVING AMENDMENTS TO CHAPTERS 17.16, 23.16, 23.48, 26.32, AND 26.60 OF SAN MATEO MUNICIPAL CODE</heading>
+  <meta>
+    <effective proof="needed">2026-10-08</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2026-09.pdf" proof="needed">Ord. No. 2026-09</citation>
+      <citation type="bb">City of San Mateo, Cal., Ord. No. 2026-09</citation>
+    </citations>
+    <history>
+      <introduced>2026-08-17</introduced>
+      <adopted>2026-09-08</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code" path="§66322|(b)">California Government Code Section 66322(b)</cite> and <cite doc="City of San Mateo, Cal., Code" path="27.19.060|(A)" proof="needed">San Mateo Municipal Code Section 27.19.060(A)</cite> preempt the Department of Public Works from requiring existing driveways to be replaced to standard sidewalk for accessory dwelling unit ("ADU") projects that convert garages or carports for ADU area; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Department of Public Works, as a matter of practice since the City does not own or maintain any portion of a private sewer lateral, has not required properties to install additional sewer lateral clean outs at property lines; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>to streamline the process for updating or revising the City's engineering standards for public improvements, staff proposes to authorize the Director of Public Works to administratively approve minor changes; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Department of Public Works' current best practice related to construction standards and specifications refer to California Department of Transportation for any standard or specification not addressed by the City's Engineering Standard; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 18, 2024, the City Council adopted the comprehensive General Plan update, "Strive San Mateo General Plan 2040" ("General Plan") which included goals, policies, and actions providing direction for staff; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>General Plan Policy C 3.3 requires new developments to improve the pedestrian experience adjacent to their sites; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>General Plan Policy PSF 3.9 and Action PSF 3.18 require private development projects to incorporate and implement stormwater treatment and green infrastructure in the projects; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>General Plan Policy PSF 4.10 and Action PSF 4.14 require private development projects to underground project service utilities and existing overhead adjacent to the projects; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>staff has drafted amendments to the San Mateo Municipal Code to align with state law, engineering and permitting practices, and the General Plan policies listed above.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>THE COUNCIL OF THE CITY OF SAN MATEO ORDAINS AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="17.16.010" proof="needed">Section 17.16.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="17.16.010"/>
+        <num>17.16.010</num>
+        <heading>Conformance with Chapter Required</heading>
+        <text>No building or structure or open paved area designed or used for a garage or for the storing of automobiles, and which is reached by a driveway crossing the sidewalk or public property in front of such building structure or area, shall hereafter be used for such purposes, unless the driveway crossing the sidewalk or public property leading to such building structure or area and the curb in front thereof is built or constructed in conformity with the provisions of <cite doc="City of San Mateo, Cal., Code" path="17.16" proof="needed">this chapter</cite>.</text>
+        <text>Except for the conversion to an accessory dwelling unit, if, at any time, the driveway so constructed is no longer necessary because the building structure or area ceases to be used for the storage of automobiles, is removed or destroyed or access thereto is reoriented, the driveway crossing the sidewalk or public place shall be removed and the curb, gutter, sidewalk and parkway restored in line and to the grade of adjacent curb, gutter, sidewalk and parkway.</text>
+        <text>When a new driveway is to be constructed upon the same property, the permit required by <cite doc="City of San Mateo, Cal., Code" path="17.16.030" proof="needed">Section 17.16.030</cite> shall include the removal of any existing driveways no longer necessary.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.16.020" proof="needed">Section 23.16.020 of the San Mateo Municipal Code</cite> is repealed.</text>
+    <codify:repeal path="23.16.020"/>
+  </section>
+  <section>
+    <num>3</num>
+    <text>The title of <cite doc="City of San Mateo, Cal., Code" path="23.48" proof="needed">Chapter 23.48 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <container>
+        <codify:replace path="23.48|heading">
+          <heading>Engineering Standards For Public Improvements</heading>
+        </codify:replace>
+        <prefix>Chapter</prefix>
+        <num>23.48</num>
+        <heading>Engineering Standards For Public Improvements</heading>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>4</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.48.010" proof="needed">Section 23.48.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="23.48.010"/>
+        <num>23.48.010</num>
+        <heading>Engineering Standards</heading>
+        <text>The following standards, details, specifications and/or policies are requirements for improvements and activities occurring within the public right-of-way or for publicly-owned infrastructure and are in effect in the City of San Mateo:</text>
+        <para>
+          <num>(a)</num>
+          <text>The City of San Mateo Engineering Standards. That certain document on file with the Director of Public Works, known and designated as "City of San Mateo Engineering Standards" and as adopted by the City Council. The Director of Public Works is delegated the authority to administratively update and/or revise the City of San Mateo Engineering Standards provided the update and/or revisions are limited to making minor clarifications, corrections, or technical changes to the text and diagrams. A copy of these standards shall be available for review by members of the public in the office of the Director of Public Works and also on the City's website.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Standard Plans and Specifications, California Department of Transportation, latest edition. That certain document on file with the Director of Public Works, known and designated as the "California Department of Transportation Standard Plans and Specifications, latest edition" is hereby adopted by reference and made a part hereof, provided, however,  in the event that there is any conflict between the City of San Mateo Engineering Standards and the California Department of Transportation Standard Plans and Specifications, those of the City of San Mateo Engineering Standards shall control.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>5</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.48.020" proof="needed">Section 23.48.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="23.48.020"/>
+        <num>23.48.020</num>
+        <heading>Special Provisions—Defined—Authorized</heading>
+        <text>"Special provisions" means any provisions which supplement or modify the San Mateo Engineering Standards set forth in the publications referred to in <cite doc="City of San Mateo, Cal., Code" path="23.48" proof="needed">this chapter</cite>. When included in plans and specifications for a public works construction project, such provisions shall have precedence over the San Mateo Engineering Standards. The Director of Public Works shall make and include special provisions in any public works construction project when circumstances and conditions warrant.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>6</num>
+    <codify:repeal path="23.48.030"/>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.48.030" proof="needed">Section 23.48.030 of the San Mateo Municipal Code</cite> is repealed.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <codify:repeal path="23.48.040"/>
+    <text><cite doc="City of San Mateo, Cal., Code" path="23.48.040" proof="needed">Section 23.48.040 of the San Mateo Municipal Code</cite> is repealed.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="26.32.020" proof="needed">Section 26.32.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="26.32.020"/>
+        <num>26.32.020</num>
+        <heading>Undergrounding Requires – Exceptions</heading>
+        <text>All utility distribution facilities (including but not limited to electric, communication and cable television lines) existing along a subdivision frontage and those installed in and for the purpose of supplying service to any residential or commercial subdivision shall be placed underground, except as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>Equipment appurtenant to underground facilities, such as pedestal mounted terminal boxes and meter cabinets, and concealed ducts. This does not include transformers;</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Metal poles supporting only high voltage wires, switches, transformers and street lights.</text>
+          <text>For the purposes of <cite doc="City of San Mateo, Cal., Code" path="26.32" proof="needed">this chapter</cite>, utility distribution facilities for electrical power shall mean facilities carrying nominal voltages of less than thirty-four thousand five hundred volts, and the subdivider shall be responsible for all utility facilities' underground placement up to the nearest feasible points of connection beyond the subdivision frontage.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>9</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="26.60.010" proof="needed">Section 26.60.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="26.60.010"/>
+        <num>26.60.010</num>
+        <heading>General Requirements</heading>
+        <para>
+          <num>(a)</num>
+          <text>The subdivider shall improve, or shall execute an agreement in writing to improve all public and private streets, pathways and easements, and to install such other improvements as are required by <cite doc="City of San Mateo, Cal., Code" path="26" proof="needed">this title</cite> as are necessary for the general use of lot owners in the subdivision, local neighborhood traffic, drainage needs, and utility services.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The subdivider shall submit a complete set of plans, profiles, cross sections and specifications for improvements in conformity to the City's current Engineering Standards for Public Improvements on reproducible material or electronic media acceptable to the Director of Public Works for their check and approval. The scale of the plans and the size of the sheets shall be subject to approval by the Director of Public Works. If the Director of Public Works approves same, they shall certify their approval on the face of the tracings and/or other reproducible material.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>The Director of Public Works, or such other representatives as may be authorized by the Council, shall have the right to enter upon the site of said improvements for the purpose of inspecting the same. The Director of Public Works shall be furnished with such samples or materials as they may require for making tests to determine the acceptability of such materials. Prior to beginning the work on all or any portion of a subdivision, or prior to filing the final map with the Council, the subdivider shall deposit with the City an amount equal to the estimated actual cost for the inspection of the work and the cost of checking materials for said improvements during the entire period of construction of said subdivision or portion thereof. If the amount so deposited exceeds the actual cost to the City, the subdivider shall be reimbursed the balance of the deposit. Should the actual cost exceed the deposited amount, the Director of Public Works shall stop all construction until the subdivider shall present a receipt for a deposit with the City of such additional sum as the Director of Public Works may estimate.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>No improvement work shall be commenced until improvement plans and specifications have been submitted to and approved by the Director of Public Works, the San Mateo Consolidated Fire Department, the Building Official, or their designees.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Improvements shall be installed in accordance with the approved plans and specifications to permanent line and grade to the satisfaction of the Director of Public Works, or Building Official in the case of private improvements, who shall supervise the work. All work shall be subject to such inspections as they may deem necessary to protect the interest of the City. In no case shall the improvements be less substantial than required by the design standards and specifications and the City standard specifications in effect at the time the plans and specifications are approved, and all grading and major vegetation removal in connection therewith shall conform to all requirements of <cite doc="City of San Mateo, Cal., Code" path="23.40" proof="needed">chapter 23.40</cite>.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>10</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="26.60.020" proof="needed">Section 26.60.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="26.60.020"/>
+        <num>26.60.020</num>
+        <heading>Minimum Improvements</heading>
+        <text>The minimum improvements within the subdivision and the subdivision's public right-of-way frontage which the subdivider shall make, or agree to make, at its expense prior to acceptance and approval of the final map by the City shall be:</text>
+        <para>
+          <num>(a)</num>
+          <text>All grading, curbs, gutters, paving (including base, subbase, and surface course), drainage pipes, and drainage structures necessary to serve the subdivision and prevent flooding of the subdivision and frontage; and</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Stormwater treatment measures to treat runoff of the subdivision and the subdivision's public right-of-way frontage (up to the center of the street), in accordance with State regulatory mandates; and</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>Street name signs, traffic warning signs, required traffic and crosswalk lines, guard rails, pedestrian crossings, and other traffic and pedestrian control devices, all in accordance with the City Engineering Standards and adopted City plans; and</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>Sidewalks, pedestrian paths, curb ramps, and similar pedestrian features to provide either: (1) a 10-foot minimum sidewalk width, inclusive of pedestrian through zones and landscape strips and amenity zones ("effective sidewalk"); or (2) the minimum effective sidewalk width for adopted City plans, whichever is greater; and</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>Bicycle lanes, shared-use paths, and other bicycle facilities as identified in adopted City plans;</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>Fire hydrants with required appurtenances;</text>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>A water supply service system;</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>A sanitary sewer system and appurtenant structures with laterals for each lot intended for residential use, and for lots intended for other uses, such connections as may be required. All sewer laterals shall be indicated on plans giving the location from the closest lot corner and depth of lateral;</text>
+        </para>
+        <para>
+          <num>(i)</num>
+          <text>Street plantings, landscaping, trees, and irrigation pursuant to adopted City plans;</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text>Underground communications and electrical distribution facilities;</text>
+        </para>
+        <para>
+          <num>(k)</num>
+          <text>Undergrounding of existing overhead utilities;</text>
+        </para>
+        <para>
+          <num>(l)</num>
+          <text>A gas distribution system;</text>
+        </para>
+        <para>
+          <num>(m)</num>
+          <text>Earth retention structures;</text>
+        </para>
+        <para>
+          <num>(n)</num>
+          <text>Street roadway lighting, and for pedestrian corridors identified in an adopted City Plan, pedestrian-scale lighting;</text>
+        </para>
+        <para>
+          <num>(o)</num>
+          <text>Underground ducting and appurtenant structures for traffic signals; and</text>
+        </para>
+        <para>
+          <num>(p)</num>
+          <text>Public sanitary sewer system or storm drain system extensions or capacity improvements to serve new, increased, or intensified flows as identified through technical studies performed by the subdivider.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>11</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="26.60.030" proof="needed">Section 26.60.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="26.60.030"/>
+        <num>26.60.030</num>
+        <heading>Guarantees</heading>
+        <para>
+          <num>(a)</num>
+          <text>The subdivider shall guarantee the workmanship of all improvements specified in <cite doc="City of San Mateo, Cal., Code" path="26.60" proof="needed">this chapter</cite> and installed by or under its direction.  The subdivider shall make, or agree in writing to make, the necessary repairs or modifications for damage which may result from storm caused erosion or landslides and to correct errors in the design or construction of any facility for a period of one year from the date of completion as described below.</text>
+        </para>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>12</num>
+    <text><cite doc="City of San Mateo, Cal., Code" path="26.60.040" proof="needed">Section 26.60.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
+    <include>
+      <section>
+        <codify:replace path="26.60.040"/>
+        <num>26.60.040</num>
+        <heading>Completion Plans</heading>
+        <text>The subdivider shall cause the improvement plans to be amended to show the improvements "as built." Said "as built" plans shall be on polyester base film or electronic media.</text>
+        <text>Upon receipt of said "as built" plans, the Director of Public Works shall recommend formal acceptance by the Council when he or she is fully satisfied that the improvements have been installed in complete conformance with the provisions of <cite doc="City of San Mateo, Cal., Code" path="26" proof="needed">this title</cite>.</text>
+        <text>Elevations related to the City datum shall be shown on the "as built" improvement plans as required above for all monuments in the subdivision.</text>
+      </section>
+    </include>
+  </section>
+  <section>
+    <num>13</num>
+    <heading>Environmental Determination.</heading>
+    <text>In accordance with California Environmental Quality Act (CEQA) Guidelines, section 15378(b)(5), this project is not a project subject to CEQA, because it is an organizational or administrative activity that will not result in direct or indirect physical changes in the environment.</text>
+  </section>
+  <section>
+    <num>14</num>
+    <heading>Severability.</heading>
+    <text>In the event any section, clause or provision of this ordinance shall be determined invalid or unconstitutional, such section, clause or provision shall be deemed severable and all other sections or portions hereof shall remain in full force and effect.</text>
+  </section>
+  <section>
+    <num>15</num>
+    <heading>Publication.</heading>
+    <text>This Ordinance shall be published in summary in a newspaper of general circulation, posted in the City Clerk's Office, and posted on the City's website, all in accord with <cite doc="City of San Mateo, Cal., Charter" path="2.15" proof="needed">Section 2.15 of the City Charter</cite>.</text>
+  </section>
+  <section>
+    <num>16</num>
+    <heading>Legislative History and Effective Date.</heading>
+    <text>This Ordinance was introduced on August 17, 2026, and adopted on September 8, 2026, and shall be effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was adopted by the City Council of the City of San Mateo, State of California by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES</th>
+          <td>Council Members Loraine, Fernandez, Cwirko-Godycki, Diaz Nash, and Newsom</td>
+        </tr>
+        <tr>
+          <th>NOES</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>ATTEST:</text>
+  </procedural-data>
+</document>
