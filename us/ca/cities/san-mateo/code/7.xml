@@ -2134,15 +2134,15 @@
       <aftertext>"Deconstruction" means the soft demolition of any facility, Structure, Hardscape Improvement or building through a planned dismantling and salvaging of reusable materials and parts.</aftertext>
       <aftertext>"Demolition" means, for the purposes of the recycling and diversion requirements in <cite path="7.33">this chapter</cite>, the intentional removal or partial removal of an existing building.</aftertext>
       <aftertext>"Designated Recyclable and Reusable Materials" means that portion of C&amp;D Debris that includes the following:</aftertext>
-      <para>
+      <para name="(a)~2">
         <num proof="done">(a)</num>
         <text>Masonry building materials including all products generally used in construction including, but not limited to asphalt, concrete, rock, stone and brick;</text>
       </para>
-      <para>
+      <para name="(b)~2">
         <num>(b)</num>
         <text>Wood materials including any and all dimensional lumber, fencing or construction wood that is not chemically treated, creosoted, contaminated or painted;</text>
       </para>
-      <para>
+      <para name="(c)~2">
         <num>(c)</num>
         <text>Vegetative materials including trees, tree parts, shrubs, stumps, logs, brush or any other type of plants that are cleared from a site for construction or other use;</text>
       </para>
@@ -2397,15 +2397,15 @@
       <aftertext>"Interference" means a discharge which, alone or in conjunction with a discharge or discharges from other sources, inhibits or disrupts the sanitary sewer system, wastewater treatment system processes or operations, or sludge processes, use or disposal, and therefore, causes a violation of the POTW's National Pollutant Discharge Elimination System (NPDES) permit or prevents sewage sludge use or disposal in compliance with any of the following statutory or regulatory provisions or permits issued thereunder, or any more stringent State or local regulations: Section 405 of the Clean Water Act; the Solid Waste Disposal Act (SWDA); any State regulations contained in any State sludge management plan prepared pursuant to SWDA Subtitle D; the Clean Air Act (CAA); the Toxic Substances Control Act (TSCA); and the Marine Protection, Research and Sanctuaries Act.</aftertext>
       <aftertext>"New source" means any building, structure, facility, or installation from which there is, or may be, a discharge of pollutants, the construction of which commenced after the effective date of <cite path="7.38">this chapter</cite>, or after publication of proposed pretreatment standards under Section 307(c) of the Clean Water Act which will be applicable to such source if such standards are promulgated, provided certain location and construction criteria are met.</aftertext>
       <aftertext>"Nuisance" means anything that meets all of the following requirements:</aftertext>
-      <para>
+      <para name="(1)~2">
         <num proof="done">(1)</num>
         <text>Is injurious to human health or the environment, or is indecent or offensive to the senses, or an obstruction to the free use of property, so as to interfere with the comfortable enjoyment of life and property;</text>
       </para>
-      <para>
+      <para name="(2)~2">
         <num>(2)</num>
         <text>Affects at the same time an entire community or neighborhood, or any considerable number of persons, although the extent of the annoyance or damage inflicted upon individuals may be unequal;</text>
       </para>
-      <para>
+      <para name="(3)~2">
         <num>(3)</num>
         <text>Occurs during or as a result of the treatment or disposal of wastes.</text>
       </para>
@@ -2423,37 +2423,37 @@
       <aftertext>"Publicly owned treatment works" or "POTW." A treatment works as defined by Section 212 of the Clean Water Act (33 U.S.C. 1292), which, in this instance, is the City of San Mateo Wastewater Treatment Plant, and all publicly owned devices or systems used in the conveyance, storage, treatment, reclamation, and disposal of wastewater.</aftertext>
       <aftertext>"Sewage" or "wastewater" means water carried domestic and/or industrial wastes from residences and commercial, industrial, and institutional establishments, together with such groundwater, surface water, and stormwater as may enter the sanitary sewer system.</aftertext>
       <aftertext>"Sewer" or "sanitary sewer" means sewers, lift stations, and other appurtenances designed for conveyance of sewage, and further defined as follows:</aftertext>
-      <para>
+      <para name="(1)~3">
         <num proof="done">(1)</num>
         <text>"Building sewer" means a sewer conveying wastewater from the premises of a user to a public sewer;</text>
       </para>
-      <para>
+      <para name="(2)~3">
         <num>(2)</num>
         <text>"Public sewer" means a sewer that is controlled by the City, District or other public agency;</text>
       </para>
-      <para>
+      <para name="(3)~3">
         <num>(3)</num>
         <text>"Sanitary sewer" means a sewer designed for conveyance of domestic, commercial and industrial waste and which are not intended for conveyance of stormwater, surface water or groundwater.</text>
       </para>
-      <para>
+      <para name="(4)~3">
         <num>(4)</num>
         <text>"Sewer lateral" means a privately owned sewer service line conveying the wastewater of a discharge from a residence, building or other structure to a public sewer, including direct connections where permitted.</text>
       </para>
       <aftertext>"Significant industrial user" means: (1) a categorical industrial user, as defined in the Federal Pretreatment Regulations; (2) discharges an average of 25,000 gallons per day (gpd) or more of process wastewater; (3) contributes a process waste stream which makes up five percent or more of the average dry weather hydraulic or organic capacity of the WWTP; or (4) is designated as such by the Director on the basis that the user has a reasonable potential to adversely affect the operation of the WWTP or agency sanitary sewer systems or to violate any pretreatment standard or requirement.</aftertext>
       <aftertext>"Significant noncompliance" for the purpose of complying with public participation provisions in the Federal Pretreatment Regulations and <cite path="7.38">this chapter</cite>, means:</aftertext>
-      <para>
+      <para name="(1)~4">
         <num proof="done">(1)</num>
         <text>Chronic violations of wastewater discharge limits, defined here as those in which 66% or more of all of the measurements taken during a six-month period exceed (by any magnitude) a numeric pretreatment standard or requirement;</text>
       </para>
-      <para>
+      <para name="(2)~4">
         <num>(2)</num>
         <text>Technical Review Criteria (TRC) violations, defined here as those in which 33% or more of all of the measurements taken for the same pollutant parameter during a six-month period equal or exceed the product of the numeric pretreatment standard or requirement, multiplied by the applicable TRC (TRC = 1.4 for BOD, TS, fats, oil, and grease, and 1.2 for all other pollutants except pH).</text>
       </para>
-      <para>
+      <para name="(3)~4">
         <num>(3)</num>
         <text>Any other violation of a pretreatment standard or requirement (daily maximum, long-term average, instantaneous limit, or narrative standard) that the Director determines has caused, alone or in combination with other discharges, interference or pass through (including endangering the health of agency personnel or the general public);</text>
       </para>
-      <para>
+      <para name="(4)~4">
         <num>(4)</num>
         <text>Any discharge of a pollutant that has caused imminent endangerment to human health, welfare or to the environment or has resulted in the exercise of the Director's emergency authority as provided in <cite path="7.38">this chapter</cite>;</text>
       </para>
