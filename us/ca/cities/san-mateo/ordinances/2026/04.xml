@@ -110,7 +110,8 @@
           <include>
             <para>
               <num>F.</num>
-              <text><strong>Altered space-conditioning system - mechanical cooling.</strong> Alterations which install new or replacement air-cooled air conditioners shall meet the applicable requirements of subsections i and iv. Alterations which install new or replacement heat pumps shall meet the applicable requirements of subsections i, ii, iii, and v. All other alterations to refrigerant containing components such as the compressor, condensing coil, evaporator coil, refrigerant metering device, or refrigerant piping, shall meet the applicable requirements of subsections i, ii, and iii:</text>
+              <heading>Altered space-conditioning system - mechanical cooling.</heading>
+              <text>Alterations which install new or replacement air-cooled air conditioners shall meet the applicable requirements of subsections i and iv. Alterations which install new or replacement heat pumps shall meet the applicable requirements of subsections i, ii, iii, and v. All other alterations to refrigerant containing components such as the compressor, condensing coil, evaporator coil, refrigerant metering device, or refrigerant piping, shall meet the applicable requirements of subsections i, ii, and iii:</text>
               <para>
                 <num>i.</num>
                 <text>All thermostats associated with the system shall be replaced with setback thermostats meeting the requirements of Section 110.2(c).</text>
@@ -161,7 +162,7 @@
           <num>(c)</num>
           <text>Energy Code subsection 150.2(b)1F is hereby amended to add new subsection 150.2(b)1Fiv:</text>
           <include>
-            <para proof="done">
+            <para>
               <num>iv.</num>
               <text>New or replacement air-cooled air conditioners in Climate Zones 1 through 14 and 16 shall meet the requirements of Section 150.2(b)1Fiva or 150.2(b)1Fivb.</text>
               <para>
@@ -218,7 +219,7 @@
           <num>(d)</num>
           <text>Energy Code subsection 150.2(b)1F is hereby amended to add new subsection 150.2(b)1Fv:</text>
           <include>
-            <para proof="done">
+            <para>
               <num>v.</num>
               <text>In all climate zones, heat pumps with supplementary heat, including, but not limited to, electric resistance heaters or gas furnace supplementary heating, shall comply with Section 150.0(h)7 and shall lock out supplementary heating above an outdoor air temperature of no greater than 35°F.</text>
             </para>
@@ -352,8 +353,8 @@
                 </table>
               </text>
             </para>
-            <aftertext><strong>Exception 1 to Section 141.0(b)2Ciii</strong>: Where the capacity of the existing main electrical service panel is insufficient to supply the electrical capacity of a heat pump and where the existing main electrical service panel is sufficient to supply a new or replacement air conditioner, as calculated according to the requirements of California Electrical Code Article 220. Documentation of electrical load calculations in accordance with Article 220 must be submitted to the enforcement agency prior to permitting for both the heat pump and proposed air conditioner.</aftertext>
-            <aftertext>Exception 2 to Section 141.0(b)2Ciii: Where a licensed structural engineer determines that the roof would need a structural upgrade to support the additional weight of an appropriately sized SZHP but would not need a structural upgrade to support an equivalent SZAC.</aftertext>
+            <text><strong>Exception 1 to Section 141.0(b)2Ciii</strong>: Where the capacity of the existing main electrical service panel is insufficient to supply the electrical capacity of a heat pump and where the existing main electrical service panel is sufficient to supply a new or replacement air conditioner, as calculated according to the requirements of California Electrical Code Article 220. Documentation of electrical load calculations in accordance with Article 220 must be submitted to the enforcement agency prior to permitting for both the heat pump and proposed air conditioner.</text>
+            <text>Exception 2 to Section 141.0(b)2Ciii: Where a licensed structural engineer determines that the roof would need a structural upgrade to support the additional weight of an appropriately sized SZHP but would not need a structural upgrade to support an equivalent SZAC.</text>
           </include>
         </para>
       </section>
@@ -402,7 +403,7 @@
           <num>(e)</num>
           <text>Energy Code Section 150.0 is amended to add a new subsection 150.0(w) as follows:</text>
           <include>
-            <para proof="done">
+            <para>
               <num>(w)</num>
               <text>A Covered Single Family Project shall install a set of measures from the Measure Menu Table, Table 150.0-J, to achieve a total Measure Point Score that is equal to or greater than the Target Score in Table 150.0-I. In addition, all mandatory measures listed in Table 150.0-J shall be installed.  Measure verification shall be explicitly included as an addendum to the Certificate of Compliance to be filed pursuant to 2025 Title 24, Part 6, Section 10-103.</text>
               <text>Installed measures shall meet the specifications in Table 150.0-K. Unless otherwise specified, the requirements shall apply to the entire dwelling unit, not just the additional or altered portion. Measures from the Measure Menu table that are to be installed to satisfy requirements under the California Energy Code, Title 24, Part 6, may not count towards compliance with these requirements.  Where these requirements conflict with other California Energy Code requirements, the stricter requirements shall prevail.</text>
@@ -726,7 +727,7 @@
           <num>(f)</num>
           <text>Energy Code Section 150.0 is amended to add 150.0(x) as follows:</text>
           <include>
-            <para proof="done">
+            <para>
               <num>(x)</num>
               <text>Electric Readiness for Alterations and for Electric Readiness Credit for Solar PV Measure in Table 150.0-K.</text>
               <para>

@@ -245,16 +245,23 @@
         <para>
           <num>(a)</num>
           <text>Green Building Code Section 4.106.4.1, "New one- and two-family dwellings and town-houses with attached private garages," is amended to read as follows:</text>
-          <text><strong>4.106.4.1 New one- and two-family dwellings and town-houses with attached private garages.</strong></text>
+          <include>
+            <section>
+              <num>4.106.4.1</num>
+              <heading>New one- and two-family dwellings and town-houses with attached private garages.</heading>
+            </section>
+          </include>
         </para>
         <para>
           <num>(b)</num>
           <text>Green Building Code Section 4.106.4.1.1, "Identification," is amended to read as follows:</text>
-          <para>
-            <num proof="done">4.106.4.1.1</num>
-            <heading>New Construction</heading>
-            <text>One parking space provided shall be a <em>Level 2 EV Ready</em> space. If a second parking space is provided, it shall be provided with a <em>Level 1 EV Ready space.</em></text>
-          </para>
+          <include>
+            <section>
+              <num>4.106.4.1.1</num>
+              <heading>New Construction</heading>
+              <text>One parking space provided shall be a <em>Level 2 EV Ready</em> space. If a second parking space is provided, it shall be provided with a <em>Level 1 EV Ready space.</em></text>
+            </section>
+          </include>
         </para>
       </section>
     </include>
@@ -270,61 +277,85 @@
         <para>
           <num>(a)</num>
           <text>Green Building Code Section 4.106.4 "Electric vehicle (EV) charging for new construction," is amended to read as follows:</text>
-          <text><strong>4.106.4 Electric vehicle (EV) charging.</strong> New construction shall comply with Section 4.106.4.1 or 4.106.4.2, and 4.106.4.3, to facilitate future installation and use of EV chargers. Electric vehicle supply equipment (EVSE) shall be installed in accordance with the <em>California Electrical Code</em>, Article 625. For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s). Calculation for spaces shall be rounded up to the nearest whole number.</text>
-          <text>
-            <strong>Exceptions:</strong>
-          </text>
-          <para>
-            <num>1.</num>
-            <text>On a case-by-case basis, where the local enforcing agency has determined EV charging and infrastructure are not feasible based upon one or more of the following conditions:</text>
-            <para>
-              <num>1.1</num>
-              <text>Where there is no local utility power supply or the local utility is unable to supply adequate power.</text>
-            </para>
-            <para>
-              <num>1.2</num>
-              <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 4.106.4, may increase construction cost by an average of $4,500 per parking space for market rate housing or $400 per parking space for affordable housing. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
-            </para>
-            <para>
-              <num>1.3</num>
-              <text>Accessory Dwelling Units (ADU) and Junior Accessory Dwelling Units (JADU) without additional parking facilities and without electrical panel upgrade or new panel installation. ADUs and JADUs without additional parking but with electrical panel upgrades or new panels must have reserved breakers and electrical capacity according to the requirements of 4.106.4.1.</text>
-            </para>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>Projects with multifamily residential units that submitted Planning Applications prior to the effective date of this ordinance.</text>
-          </para>
-          <para>
-            <num>3.</num>
-            <text>Parking spaces accessible only by automated mechanical car parking systems are not required to comply with this code section.</text>
-          </para>
+          <include>
+            <section>
+              <num>4.106.4</num>
+              <heading>Electric vehicle (EV) charging.</heading>
+              <text>New construction shall comply with Section 4.106.4.1 or 4.106.4.2, and 4.106.4.3, to facilitate future installation and use of EV chargers. Electric vehicle supply equipment (EVSE) shall be installed in accordance with the <em>California Electrical Code</em>, Article 625. For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s). Calculation for spaces shall be rounded up to the nearest whole number.</text>
+              <text>
+                <strong>Exceptions:</strong>
+              </text>
+              <para>
+                <num>1.</num>
+                <text>On a case-by-case basis, where the local enforcing agency has determined EV charging and infrastructure are not feasible based upon one or more of the following conditions:</text>
+                <para>
+                  <num>1.1</num>
+                  <text>Where there is no local utility power supply or the local utility is unable to supply adequate power.</text>
+                </para>
+                <para>
+                  <num>1.2</num>
+                  <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 4.106.4, may increase construction cost by an average of $4,500 per parking space for market rate housing or $400 per parking space for affordable housing. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
+                </para>
+                <para>
+                  <num>1.3</num>
+                  <text>Accessory Dwelling Units (ADU) and Junior Accessory Dwelling Units (JADU) without additional parking facilities and without electrical panel upgrade or new panel installation. ADUs and JADUs without additional parking but with electrical panel upgrades or new panels must have reserved breakers and electrical capacity according to the requirements of 4.106.4.1.</text>
+                </para>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Projects with multifamily residential units that submitted Planning Applications prior to the effective date of this ordinance.</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Parking spaces accessible only by automated mechanical car parking systems are not required to comply with this code section.</text>
+              </para>
+            </section>
+          </include>
         </para>
         <para>
           <num>(b)</num>
           <text>Green Building Code Section 4.106.4.2, "New multifamily dwellings, hotels and motels and new residential parking facilities," is amended to read as follows:</text>
-          <text><strong>4.106.4.2 New multifamily dwellings and new residential parking facilities. </strong>Requirements apply to parking spaces that are assigned or leased to individual dwelling units, as well as unassigned residential parking. Visitor or common area parking is not included.</text>
+          <include>
+            <section>
+              <num>4.106.4.2</num>
+              <heading>New multifamily dwellings and new residential parking facilities.</heading>
+              <text>Requirements apply to parking spaces that are assigned or leased to individual dwelling units, as well as unassigned residential parking. Visitor or common area parking is not included.</text>
+            </section>
+          </include>
         </para>
         <para>
           <num>(c)</num>
           <text>Green Building Code Section 4.106.4.2.1, "Multifamily development projects with less than 20 dwelling units; and hotels and motels with less than 20 sleeping units or guest rooms," is amended to read as follows:</text>
-          <text><strong>4.106.4.2.1 New Construction. </strong>Fifteen percent (15%) of dwelling units with parking spaces shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Eighty-five percent (85%) of dwelling units with parking spaces shall be provided with a Low Power Level 2 EV Ready space. EV ready spaces and EVCS in multifamily developments shall comply with California Building Code, Chapter 11A, Section 1109A. EVCS shall comply with the accessibility provisions for EV chargers in the California Building Code, Chapter 11B.</text>
-          <text><strong>Note:</strong> The total number of EV spaces should be one-hundred percent (100%) of dwelling units or one-hundred percent (100%) of parking spaces, whichever is less.</text>
+          <include>
+            <section>
+              <num>4.106.4.2.1</num>
+              <heading>New Construction.</heading>
+              <text>Fifteen percent (15%) of dwelling units with parking spaces shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Eighty-five percent (85%) of dwelling units with parking spaces shall be provided with a Low Power Level 2 EV Ready space. EV ready spaces and EVCS in multifamily developments shall comply with California Building Code, Chapter 11A, Section 1109A. EVCS shall comply with the accessibility provisions for EV chargers in the California Building Code, Chapter 11B.</text>
+              <text><strong>Note:</strong> The total number of EV spaces should be one-hundred percent (100%) of dwelling units or one-hundred percent (100%) of parking spaces, whichever is less.</text>
+            </section>
+          </include>
         </para>
         <para>
           <num>(d)</num>
           <text>Green Building Code Section 4.106.4.2.2, "Multifamily development projects with 20 or more dwelling units, hotels and motels with 20 or more sleeping units or guest rooms," is amended to read as follows:</text>
-          <text><strong>4.106.4.2.2 Existing Buildings. </strong>When new parking facilities are added, or electrical systems or lighting of existing parking facilities are added or altered and the work requires a building permit, ten (10) percent of the total number of parking spaces added or altered, shall be electric vehicle charging spaces (EV spaces) capable of supporting future Level 2 EVSE.</text>
-          <text>
-            <strong>Notes:</strong>
-          </text>
-          <para>
-            <num>1.</num>
-            <text>Construction documents are intended to demonstrate the project's capability and capacity for facilitating future EV charging.</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>There is no requirement for EV spaces to be constructed or available until EV chargers are installed for use.</text>
-          </para>
+          <include>
+            <section>
+              <num>4.106.4.2.2</num>
+              <heading>Existing Buildings.</heading>
+              <text>When new parking facilities are added, or electrical systems or lighting of existing parking facilities are added or altered and the work requires a building permit, ten (10) percent of the total number of parking spaces added or altered, shall be electric vehicle charging spaces (EV spaces) capable of supporting future Level 2 EVSE.</text>
+              <text>
+                <strong>Notes:</strong>
+              </text>
+              <para>
+                <num>1.</num>
+                <text>Construction documents are intended to demonstrate the project's capability and capacity for facilitating future EV charging.</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>There is no requirement for EV spaces to be constructed or available until EV chargers are installed for use.</text>
+              </para>
+            </section>
+          </include>
         </para>
         <para>
           <num>(e)</num>
@@ -357,49 +388,61 @@
         <para>
           <num>(l)</num>
           <text>Green Building Code Section 4.106.4.3 "Electric vehicle charging for additions and alterations of parking facilities serving existing multifamily buildings," is amended, and adds new subsections to read as follows:</text>
-          <text><strong>4.106.4.3 Electric vehicle charging stations (EVCS). </strong>Electric vehicle charging stations required by Section 4.106.4.2 shall comply with Section 4.106.4.3.</text>
-          <text><strong>Exception:</strong> Electric vehicle charging stations serving public accommodations, public housing, motels, and hotels shall not be required to comply with this section. See <em>California Building Code</em>, Chapter 11B, for applicable requirements.</text>
-          <para>
-            <num>4.106.4.3.1</num>
-            <heading>Location.</heading>
-            <text>EVCS shall comply with at least one of the following options:</text>
-            <para>
-              <num>1.</num>
-              <text>The charging space shall be located adjacent to an accessible parking space meeting the requirements of the <em>California Building Code</em>, Chapter 11A, to allow use of the EV charger from the accessible parking space.</text>
-            </para>
-            <para>
-              <num>2.</num>
-              <text>The charging space shall be located on an accessible route, as defined in the <em>California Building Code</em>, Chapter 2, to the building.</text>
-            </para>
-            <text><strong>Exception:</strong> Electric vehicle charging stations designed and constructed in compliance with the <em>California Building Code</em>, Chapter 11B, are not required to comply with Section 4.106.4.3.1 and Section 4.106.4.3.2.</text>
-          </para>
-          <para>
-            <num>4.106.4.3.2</num>
-            <heading>Dimensions.</heading>
-            <text>The charging spaces shall be designed to comply with the following:</text>
-            <para>
-              <num proof="done">1.</num>
-              <text>The minimum length of each EV space shall be 18 feet (5486 mm).</text>
-            </para>
-            <para>
-              <num>2.</num>
-              <text>The minimum width of each EV space shall be 9 feet (2743 mm).</text>
-            </para>
-            <para>
-              <num>3.</num>
-              <text>One in every 25 charging spaces, but not less than one, shall also have an 8-foot (2438 mm) wide minimum aisle. A 5-foot (1524 mm) wide minimum aisle shall be permitted provided the minimum width of the EV space is 12 feet (3658 mm).</text>
+          <include>
+            <section>
+              <num>4.106.4.3</num>
+              <heading>Electric vehicle charging stations (EVCS).</heading>
+              <text>Electric vehicle charging stations required by Section 4.106.4.2 shall comply with Section 4.106.4.3.</text>
+              <text><strong>Exception:</strong> Electric vehicle charging stations serving public accommodations, public housing, motels, and hotels shall not be required to comply with this section. See <em>California Building Code</em>, Chapter 11B, for applicable requirements.</text>
+            </section>
+            <section>
+              <num>4.106.4.3.1</num>
+              <heading>Location.</heading>
+              <text>EVCS shall comply with at least one of the following options:</text>
               <para>
-                <num>a.</num>
-                <text>Surface slope for this EV space and the aisle shall not exceed 1 unit vertical in 48 units horizontal (2.083 percent slope) in any direction.</text>
+                <num>1.</num>
+                <text>The charging space shall be located adjacent to an accessible parking space meeting the requirements of the <em>California Building Code</em>, Chapter 11A, to allow use of the EV charger from the accessible parking space.</text>
               </para>
-            </para>
-            <aftertext><strong>Exception: </strong>Where the City's Municipal or Zoning Code permits parking space dimensions that are less than the minimum requirements stated in this section 4.106.4.3.2, and the compliance with which would be infeasible due to particular circumstances of a project, an exception may be granted while remaining in compliance with California Building Code Section Table 11B-228.3.2.1 and 11B-812, as applicable.</aftertext>
-          </para>
+              <para>
+                <num>2.</num>
+                <text>The charging space shall be located on an accessible route, as defined in the <em>California Building Code</em>, Chapter 2, to the building.</text>
+              </para>
+              <text><strong>Exception:</strong> Electric vehicle charging stations designed and constructed in compliance with the <em>California Building Code</em>, Chapter 11B, are not required to comply with Section 4.106.4.3.1 and Section 4.106.4.3.2.</text>
+            </section>
+            <section>
+              <num>4.106.4.3.2</num>
+              <heading>Dimensions.</heading>
+              <text>The charging spaces shall be designed to comply with the following:</text>
+              <para>
+                <num>1.</num>
+                <text>The minimum length of each EV space shall be 18 feet (5486 mm).</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>The minimum width of each EV space shall be 9 feet (2743 mm).</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>One in every 25 charging spaces, but not less than one, shall also have an 8-foot (2438 mm) wide minimum aisle. A 5-foot (1524 mm) wide minimum aisle shall be permitted provided the minimum width of the EV space is 12 feet (3658 mm).</text>
+                <para>
+                  <num>a.</num>
+                  <text>Surface slope for this EV space and the aisle shall not exceed 1 unit vertical in 48 units horizontal (2.083 percent slope) in any direction.</text>
+                </para>
+              </para>
+              <text><strong>Exception: </strong>Where the City's Municipal or Zoning Code permits parking space dimensions that are less than the minimum requirements stated in this section 4.106.4.3.2, and the compliance with which would be infeasible due to particular circumstances of a project, an exception may be granted while remaining in compliance with California Building Code Section Table 11B-228.3.2.1 and 11B-812, as applicable.</text>
+            </section>
+          </include>
         </para>
         <para>
-          <num proof="done">(m)</num>
+          <num>(m)</num>
           <text>Green Building Code Section 4.106.4, "Electric vehicle (EV) charging for new construction," is amended to add a new subsection and read as follows:</text>
-          <text><strong>4.106.4.4 Direct current fast charging stations. </strong>One DCFC may be substituted for up to five (5) EVCS to meet the requirements of 4.106.4.1 and 4.106.4.2. Where ALMS serve DCFC stations, the power demand from the DCFC shall be prioritized above Level 1 and Level 2 spaces.</text>
+          <include>
+            <section>
+              <num>4.106.4.4</num>
+              <heading>Direct current fast charging stations.</heading>
+              <text>One DCFC may be substituted for up to five (5) EVCS to meet the requirements of 4.106.4.1 and 4.106.4.2. Where ALMS serve DCFC stations, the power demand from the DCFC shall be prioritized above Level 1 and Level 2 spaces.</text>
+            </section>
+          </include>
         </para>
       </section>
     </include>
@@ -415,72 +458,96 @@
         <para>
           <num>(a)</num>
           <text>Green Building Code Section 5.106.5.3, "Electric vehicle (EV) charging," is amended, and adds new subsections to read as follows:</text>
-          <text proof="needed"><strong>5.106.5.3 Electric vehicle (EV) charging. </strong>Construction to provide electric vehicle infrastructure and facilitate electric vehicle charging shall comply with Section 5.106.5.3 and shall be provided in accordance with regulations in the <em>California Building Code </em>and the <em>California Electrical Code</em>. Accessible EVCS shall be provided in accordance with the <em>California Building Code Chapter 11B Section 11B-228.3. </em>For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s). Calculation for spaces shall be rounded up to the nearest whole number.</text>
-          <text>
-            <strong>Exceptions:</strong>
-          </text>
-          <para>
-            <num>1.</num>
-            <text>On a case-by-case basis where the local enforcing agency has determined compliance with this section is not feasible based upon one of the following conditions:</text>
-            <para>
-              <num>a.</num>
-              <text>Where there is no local utility power supply.</text>
-            </para>
-            <para>
-              <num>b.</num>
-              <text>Where the local utility is unable to supply adequate power.</text>
-            </para>
-            <para>
-              <num>c.</num>
-              <text>Where there is evidence suitable to the local enforcement agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 5.106.5.3, may increase construction cost by an average of $4,500 per parking space. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
-            </para>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>Parking spaces accessible only by automated mechanical car parking systems are not required to comply with this code section.</text>
-          </para>
-          <text><strong>5.106.5.3.1 Nonresidential Occupancy Class B Offices – Shared Parking Space.</strong></text>
-          <para>
-            <num>5.106.5.3.1.1</num>
-            <heading>New Construction.</heading>
-            <text>Twenty percent (20%) of parking spaces shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Thirty percent (30%) of parking spaces provided shall be Level 2 EV Capable.</text>
-          </para>
-          <text><strong>5.106.5.3.2 Hotel and Motel Occupancies – Shared Parking Facilities.</strong></text>
-          <para>
-            <num>5.106.5.3.2.1</num>
-            <heading>New Construction</heading>
-            <text>Five percent (5%) of parking spaces provided shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Twenty-five percent (25%) of parking spaces provided shall be Low Power Level 2 EV Ready space. Ten percent (10%) of parking spaces provided shall be Level 2 EV Capable.</text>
-          </para>
-          <text><strong>5.106.5.3.3 All Other Nonresidential Occupancies – Shared Parking Facilities.</strong>
-          </text>
-          <para>
-            <num>5.106.5.3.3.1</num>
-            <heading>New Construction.</heading>
-            <text>Ten percent (10%) of parking spaces provided shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Ten percent (10%) of parking spaces provided shall be Level 2 EV Capable.</text>
-          </para>
-          <text><strong>5.106.5.3.4 Direct current fast charging stations. </strong>One DCFC may be substituted for up to five (5) EVCS to meet the requirements of 5.106.5.3.1, 5.106.5.3.2, and 5.106.5.3.3. Where ALMS serve DCFC stations, the power demand from the DCFC shall be prioritized above Level 1 and Level 2 spaces.</text>
+          <include>
+            <section>
+              <num>5.106.5.3</num>
+              <heading>Electric vehicle (EV) charging.</heading>
+              <text proof="needed">Construction to provide electric vehicle infrastructure and facilitate electric vehicle charging shall comply with Section 5.106.5.3 and shall be provided in accordance with regulations in the <em>California Building Code </em>and the <em>California Electrical Code</em>. Accessible EVCS shall be provided in accordance with the <em>California Building Code Chapter 11B Section 11B-228.3. </em>For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s). Calculation for spaces shall be rounded up to the nearest whole number.</text>
+              <text>
+                <strong>Exceptions:</strong>
+              </text>
+              <para>
+                <num>1.</num>
+                <text>On a case-by-case basis where the local enforcing agency has determined compliance with this section is not feasible based upon one of the following conditions:</text>
+                <para>
+                  <num>a.</num>
+                  <text>Where there is no local utility power supply.</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>Where the local utility is unable to supply adequate power.</text>
+                </para>
+                <para>
+                  <num>c.</num>
+                  <text>Where there is evidence suitable to the local enforcement agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 5.106.5.3, may increase construction cost by an average of $4,500 per parking space. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
+                </para>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Parking spaces accessible only by automated mechanical car parking systems are not required to comply with this code section.</text>
+              </para>
+            </section>
+            <section>
+              <num>5.106.5.3.1</num>
+              <heading>Nonresidential Occupancy Class B Offices – Shared Parking Space.</heading>
+            </section>
+            <section>
+              <num>5.106.5.3.1.1</num>
+              <heading>New Construction.</heading>
+              <text>Twenty percent (20%) of parking spaces shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Thirty percent (30%) of parking spaces provided shall be Level 2 EV Capable.</text>
+            </section>
+            <section>
+              <num>5.106.5.3.2</num>
+              <heading>Hotel and Motel Occupancies – Shared Parking Facilities.</heading>
+            </section>
+            <section>
+              <num>5.106.5.3.2.1</num>
+              <heading>New Construction</heading>
+              <text>Five percent (5%) of parking spaces provided shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Twenty-five percent (25%) of parking spaces provided shall be Low Power Level 2 EV Ready space. Ten percent (10%) of parking spaces provided shall be Level 2 EV Capable.</text>
+            </section>
+            <section>
+              <num>5.106.5.3.3</num>
+              <heading>All Other Nonresidential Occupancies – Shared Parking Facilities.</heading>
+            </section>
+            <section>
+              <num>5.106.5.3.3.1</num>
+              <heading>New Construction.</heading>
+              <text>Ten percent (10%) of parking spaces provided shall be EVCS with Level 2 EV Ready. ALMS shall be permitted to reduce load when multiple vehicles are charging. Ten percent (10%) of parking spaces provided shall be Level 2 EV Capable.</text>
+            </section>
+            <section>
+              <num>5.106.5.3.4</num>
+              <heading>Direct current fast charging stations.</heading>
+              <text>One DCFC may be substituted for up to five (5) EVCS to meet the requirements of 5.106.5.3.1, 5.106.5.3.2, and 5.106.5.3.3. Where ALMS serve DCFC stations, the power demand from the DCFC shall be prioritized above Level 1 and Level 2 spaces.</text>
+            </section>
+          </include>
         </para>
         <para>
           <num>(b)</num>
           <text>Green Building Code Section 5.106.5.4 "Electric vehicle (EV) charging: medium-duty and heavy-duty," is amended to read as follows:</text>
-          <text><strong>5.106.5.4 Electric vehicle (EV) charging readiness. </strong>Construction shall comply with Section 5.106.5.4.1 to facilitate future installation of electric vehicle supply equipment (EVSE). Construction for warehouses, grocery stores and retail stores with planned off-street loading spaces shall also comply with Section 5.106.5.4.1 for future installation of medium- and heavy-duty EVSE. Accessible EVCS shall be provided in accordance with the California Building Code Chapter 11B Section 11B-228.3. For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s).</text>
-          <text><strong>Exceptions:</strong></text>
-          <para>
-            <num>1.</num>
-            <text>On a case-by-case basis where the local enforcing agency has determined compliance with this section is not feasible based upon one of the following conditions:</text>
-            <para>
-              <num>a.</num>
-              <text>Where there is no local utility power supply.</text>
-            </para>
-            <para>
-              <num>b.</num>
-              <text>Where the local utility is unable to supply adequate power.</text>
-            </para>
-            <para>
-              <num>c.</num>
-              <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 5.106.5.3, may increase construction cost by an average of $4,500 per parking space. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
-            </para>
-          </para>
+          <include>
+            <section>
+              <num>5.106.5.4</num>
+              <heading>Electric vehicle (EV) charging readiness.</heading>
+              <text>Construction shall comply with Section 5.106.5.4.1 to facilitate future installation of electric vehicle supply equipment (EVSE). Construction for warehouses, grocery stores and retail stores with planned off-street loading spaces shall also comply with Section 5.106.5.4.1 for future installation of medium- and heavy-duty EVSE. Accessible EVCS shall be provided in accordance with the California Building Code Chapter 11B Section 11B-228.3. For EVCS signs, refer to Caltrans Traffic Operations Policy Directive 13-01 (Zero Emission Vehicle Signs and Pavement Markings) or its successor(s).</text>
+              <text><strong>Exceptions:</strong></text>
+              <para>
+                <num>1.</num>
+                <text>On a case-by-case basis where the local enforcing agency has determined compliance with this section is not feasible based upon one of the following conditions:</text>
+                <para>
+                  <num>a.</num>
+                  <text>Where there is no local utility power supply.</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>Where the local utility is unable to supply adequate power.</text>
+                </para>
+                <para>
+                  <num>c.</num>
+                  <text>Where there is evidence suitable to the local enforcing agency substantiating that additional local utility infrastructure design requirements, directly related to the implementation of Section 5.106.5.3, may increase construction cost by an average of $4,500 per parking space. EV infrastructure shall be provided up to the level that would not exceed this cost for utility service.</text>
+                </para>
+              </para>
+            </section>
+          </include>
         </para>
       </section>
     </include>
@@ -496,40 +563,47 @@
         <para>
           <num>(a)</num>
           <text>Green Building Code Section 4.106 "Site Development," is amended to include new subsections to read as follows:</text>
-          <text><strong>4.106.5 All-electric buildings. </strong>New construction buildings shall comply with Section 4.106.5.1 or 4.106.5.2 so that they do not use combustion equipment or are ready to accommodate installation of electric heating appliances.</text>
-          <para>
-            <num>4.106.5.1</num>
-            <heading>New construction. All newly constructed buildings shall be all-electric buildings.</heading>
-            <text><strong>Exceptions:</strong></text>
-            <text>If the applicant establishes that there is not an all-electric prescriptive compliance pathway for the building under the California Building Energy Efficiency Standards, and that the building is not able to achieve the performance compliance standard applicable to the building under the Energy Efficiency Standards using commercially available technology and an approved calculation method, then the local enforcing agency may grant a modification. The applicant shall comply with Section 4.106.5.2.</text>
-            <text>Inactive <em>Fuel Gas Infrastructure </em>may be extended to spaces that are anticipated to qualify for the exceptions contained in <cite doc="City of San Mateo, Cal., Code" path="4.106" proof="needed">this chapter</cite>. The inactive <em>Fuel Gas Infrastructure </em>shall not be activated, have a meter installed, or otherwise used unless the exemptions specified in <cite doc="City of San Mateo, Cal., Code" path="4.106" proof="needed">this chapter</cite> have been confirmed as part of the issuance of a building permit. If the <em>Fuel Gas Infrastructure </em>is no longer serving one of the exceptions contained in <cite doc="City of San Mateo, Cal., Code" path="4.106" proof="needed">this chapter</cite>, it shall either be capped, otherwise terminated, or removed by the entity previously entitled to the exemption, in a manner pursuant to all applicable Codes.</text>
-            <text>The City of San Mateo shall have the authority to approve alternative materials, design and methods of construction or equipment per California Building Code Section 104.</text>
-          </para>
-          <para>
-            <num>4.106.5.2</num>
-            <heading>Requirements for combustion equipment.</heading>
-            <text>Where <em>combustion equipment</em> is allowed per Exceptions under 4.106.5.1, the construction drawings shall indicate electrical infrastructure and physical space accommodating the future installation of an <em>electrical heating appliance</em> in the following ways, as certified by a registered design professional or licensed electrical contractor:</text>
-            <para>
-              <num>1.</num>
-              <text>Branch circuit wiring, electrically isolated and designed to serve all electrical heating appliances in accordance with manufacturer requirements and the California Electrical Code, including the appropriate voltage, phase, minimum amperage, and an electrical receptacle or junction box within five feet of the appliance that is accessible with no obstructions. Appropriately sized conduit may be installed in lieu of conductors; and</text>
-            </para>
-            <para>
-              <num>2.</num>
-              <text>Labeling of both ends of the unused conductors or conduit shall be with "For Future Electrical Appliance"; and</text>
-            </para>
-            <para>
-              <num>3.</num>
-              <text>Reserved circuit breakers in the electrical panel for each branch circuit, appropriately labeled (i.e "Reserved for Future Electric Range"), and positioned on the opposite end of the panel supply conductor connection; and</text>
-            </para>
-            <para>
-              <num>4.</num>
-              <text>Connected subpanels, panelboards, switchboards, busbars, and transformers shall be sized to serve the future electrical heating appliances. The electrical capacity requirements shall be adjusted for demand factors in accordance with the California Electric Code; and</text>
-            </para>
-            <para>
-              <num>5.</num>
-              <text>Physical space for future electrical heating appliances, including equipment footprint, and if needed a pathway reserved for routing of ductwork to heat pump evaporator(s), shall be depicted on the construction drawings. The footprint necessary for future electrical heating appliances may overlap with non-structural partitions and with the location of currently designed combustion equipment.</text>
-            </para>
-          </para>
+          <include>
+            <section>
+              <num>4.106.5</num>
+              <heading>All-electric buildings.</heading>
+              <text>New construction buildings shall comply with Section 4.106.5.1 or 4.106.5.2 so that they do not use combustion equipment or are ready to accommodate installation of electric heating appliances.</text>
+            </section>
+            <section>
+              <num>4.106.5.1</num>
+              <heading>New construction.</heading>
+              <text>All newly constructed buildings shall be <em>all-electric buildings</em>.</text>
+              <text><strong>Exceptions:</strong></text>
+              <text>If the applicant establishes that there is not an all-electric prescriptive compliance pathway for the building under the California Building Energy Efficiency Standards, and that the building is not able to achieve the performance compliance standard applicable to the building under the Energy Efficiency Standards using commercially available technology and an approved calculation method, then the local enforcing agency may grant a modification. The applicant shall comply with Section 4.106.5.2.</text>
+              <text>Inactive <em>Fuel Gas Infrastructure </em>may be extended to spaces that are anticipated to qualify for the exceptions contained in <cite doc="City of San Mateo, Cal., Code" path="4.106" proof="needed">this chapter</cite>. The inactive <em>Fuel Gas Infrastructure </em>shall not be activated, have a meter installed, or otherwise used unless the exemptions specified in <cite doc="City of San Mateo, Cal., Code" path="4.106" proof="needed">this chapter</cite> have been confirmed as part of the issuance of a building permit. If the <em>Fuel Gas Infrastructure </em>is no longer serving one of the exceptions contained in <cite doc="City of San Mateo, Cal., Code" path="4.106" proof="needed">this chapter</cite>, it shall either be capped, otherwise terminated, or removed by the entity previously entitled to the exemption, in a manner pursuant to all applicable Codes.</text>
+              <text>The City of San Mateo shall have the authority to approve alternative materials, design and methods of construction or equipment per California Building Code Section 104.</text>
+            </section>
+            <section>
+              <num>4.106.5.2</num>
+              <heading>Requirements for combustion equipment.</heading>
+              <text>Where <em>combustion equipment</em> is allowed per Exceptions under 4.106.5.1, the construction drawings shall indicate electrical infrastructure and physical space accommodating the future installation of an <em>electrical heating appliance</em> in the following ways, as certified by a registered design professional or licensed electrical contractor:</text>
+              <para>
+                <num>1.</num>
+                <text>Branch circuit wiring, electrically isolated and designed to serve all electrical heating appliances in accordance with manufacturer requirements and the California Electrical Code, including the appropriate voltage, phase, minimum amperage, and an electrical receptacle or junction box within five feet of the appliance that is accessible with no obstructions. Appropriately sized conduit may be installed in lieu of conductors; and</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>Labeling of both ends of the unused conductors or conduit shall be with "For Future Electrical Appliance"; and</text>
+              </para>
+              <para>
+                <num>3.</num>
+                <text>Reserved circuit breakers in the electrical panel for each branch circuit, appropriately labeled (i.e "Reserved for Future Electric Range"), and positioned on the opposite end of the panel supply conductor connection; and</text>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>Connected subpanels, panelboards, switchboards, busbars, and transformers shall be sized to serve the future electrical heating appliances. The electrical capacity requirements shall be adjusted for demand factors in accordance with the California Electric Code; and</text>
+              </para>
+              <para>
+                <num>5.</num>
+                <text>Physical space for future electrical heating appliances, including equipment footprint, and if needed a pathway reserved for routing of ductwork to heat pump evaporator(s), shall be depicted on the construction drawings. The footprint necessary for future electrical heating appliances may overlap with non-structural partitions and with the location of currently designed combustion equipment.</text>
+              </para>
+            </section>
+          </include>
         </para>
       </section>
     </include>
@@ -545,64 +619,74 @@
         <para>
           <num>(a)</num>
           <text>Green Building Code Section 5.106 "Site Development" is amended to include new subsections as follows:</text>
-          <text><strong>5.106.13 All-electric buildings</strong>. New construction buildings shall comply with Section 5.106.13.1 or 5.106.13.2 so that they do not use <em>combustion equipment</em> or are ready to facilitate future electrification.</text>
-          <para>
-            <num>5.106.13.1</num>
-            <heading>New construction.</heading>
-            <text>All newly constructed buildings shall be <em>all-electric buildings</em>.</text>
-            <text><strong>Exceptions:</strong></text>
-            <para>
-              <num>1.</num>
-              <text>Nonresidential buildings containing kitchens located in a place of public accommodation, as defined in the California Building Code Chapter 2, may apply to the local enforcing agency for a modification to install <em>commercial food heat-processing equipment </em>served by <em>fuel gas</em>. The local enforcing agency may grant the modification if they find:</text>
+          <include>
+            <section>
+              <num>5.106.13</num>
+              <heading>All-electric buildings.</heading>
+              <text>New construction buildings shall comply with Section 5.106.13.1 or 5.106.13.2 so that they do not use <em>combustion equipment</em> or are ready to facilitate future electrification.</text>
+            </section>
+            <section>
+              <num>5.106.13.1</num>
+              <heading>New construction.</heading>
+              <text>All newly constructed buildings shall be <em>all-electric buildings</em>.</text>
+              <text><strong>Exceptions:</strong></text>
               <para>
-                <num>a.</num>
-                <text>A business-related need to cook with <em>combustion equipment</em>; and</text>
+                <num>1.</num>
+                <text>Nonresidential buildings containing kitchens located in a place of public accommodation, as defined in the California Building Code Chapter 2, may apply to the local enforcing agency for a modification to install <em>commercial food heat-processing equipment </em>served by <em>fuel gas</em>. The local enforcing agency may grant the modification if they find:</text>
+                <para>
+                  <num>a.</num>
+                  <text>A business-related need to cook with <em>combustion equipment</em>; and</text>
+                </para>
+                <para>
+                  <num>b.</num>
+                  <text>The need cannot be achieved equivalently with an <em>electric heating appliance</em>; and</text>
+                </para>
+                <para>
+                  <num>c.</num>
+                  <text>The applicant has installed energy efficient equipment based on Energy Star or California Energy Wise qualifications, as available.</text>
+                </para>
+                <para>
+                  <num>d.</num>
+                  <text>The applicant shall comply with Section 5.106.13.2.</text>
+                </para>
               </para>
               <para>
-                <num>b.</num>
-                <text>The need cannot be achieved equivalently with an <em>electric heating appliance</em>; and</text>
+                <num>2.</num>
+                <text>Laboratory areas within Non-Residential Buildings may contain non-electric Space Conditioning Systems. To take advantage of this exception, an applicant shall provide third party verification that the All-electric space heating requirement is not cost effective and feasible.</text>
               </para>
               <para>
-                <num>c.</num>
-                <text>The applicant has installed energy efficient equipment based on Energy Star or California Energy Wise qualifications, as available.</text>
+                <num>3.</num>
+                <text>If the applicant establishes that there is not an all-electric prescriptive compliance pathway for the building under the California Building Energy Efficiency Standards, and that the building is not able to achieve the performance compliance standard applicable to the building under the Energy Efficiency Standards using commercially available technology and an approved calculation method, then the local enforcing agency may grant a modification. The applicant shall comply with Section 5.106.13.2</text>
+                <text>Inactive <em>Fuel Gas Infrastructure </em>may be extended to spaces that are anticipated to qualify for the exceptions contained in <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">this chapter</cite>. The inactive <em>Fuel Gas Infrastructure </em>shall not be activated, have a meter installed, or otherwise used unless the exemptions specified in <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">this chapter</cite> have been confirmed as part of the issuance of a building permit. If the <em>Fuel Gas Infrastructure </em>is no longer serving one of the exceptions contained in <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">this chapter</cite>, it shall either be capped, otherwise terminated, or removed by the entity previously entitled to the exemption, in a manner pursuant to all applicable Codes.</text>
+                <text>The City of San Mateo shall have the authority to approve alternative materials, design and methods of construction or equipment per California Building Code Section 104.</text>
+              </para>
+            </section>
+            <section>
+              <num>5.106.13.2</num>
+              <heading>Requirements for combustion equipment.</heading>
+              <text>Where combustion equipment is allowed per exceptions under Section 5.106.13.1, the construction drawings shall indicate electrical infrastructure and physical space accommodating the future installation of an electrical heating appliance in the following ways, as certified by a registered design professional or licensed electrical contractor:</text>
+              <para>
+                <num>1.</num>
+                <text>Branch circuit wiring, electrically isolated and designed to serve all electrical heating appliances in accordance with manufacturer requirements and the California Electrical Code, including the appropriate voltage, phase, minimum amperage, and an electrical receptacle or junction box within five feet of the appliance that is accessible with no obstructions. Appropriately sized conduit may be installed in lieu of conductors; and</text>
               </para>
               <para>
-                <num>d.</num>
-                <text>The applicant shall comply with Section 5.106.13.2.</text>
+                <num>2.</num>
+                <text>Labeling of both ends of the unused conductors or conduit shall be with "For Future Electrical Appliance"; and</text>
               </para>
-            </para>
-            <para>
-              <num>2.</num>
-              <text>Laboratory areas within Non-Residential Buildings may contain non-electric Space Conditioning Systems. To take advantage of this exception, an applicant shall provide third party verification that the All-electric space heating requirement is not cost effective and feasible.</text>
-            </para>
-            <para>
-              <num>3.</num>
-              <text>If the applicant establishes that there is not an all-electric prescriptive compliance pathway for the building under the California Building Energy Efficiency Standards, and that the building is not able to achieve the performance compliance standard applicable to the building under the Energy Efficiency Standards using commercially available technology and an approved calculation method, then the local enforcing agency may grant a modification. The applicant shall comply with Section 5.106.13.2</text>
-              <text>Inactive <em>Fuel Gas Infrastructure </em>may be extended to spaces that are anticipated to qualify for the exceptions contained in <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">this chapter</cite>. The inactive <em>Fuel Gas Infrastructure </em>shall not be activated, have a meter installed, or otherwise used unless the exemptions specified in <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">this chapter</cite> have been confirmed as part of the issuance of a building permit. If the <em>Fuel Gas Infrastructure </em>is no longer serving one of the exceptions contained in <cite doc="City of San Mateo, Cal., Code" path="23.70" proof="needed">this chapter</cite>, it shall either be capped, otherwise terminated, or removed by the entity previously entitled to the exemption, in a manner pursuant to all applicable Codes.</text>
-              <text>The City of San Mateo shall have the authority to approve alternative materials, design and methods of construction or equipment per California Building Code Section 104.</text>
-            </para>
-          </para>
-          <text><strong>5.106.13.2 Requirements for <em>combustion equipment</em>. </strong>Where combustion equipment is allowed per exceptions under Section 5.106.13.1, the construction drawings shall indicate electrical infrastructure and physical space accommodating the future installation of an electrical heating appliance in the following ways, as certified by a registered design professional or licensed electrical contractor:</text>
-          <para>
-            <num>1.</num>
-            <text>Branch circuit wiring, electrically isolated and designed to serve all electrical heating appliances in accordance with manufacturer requirements and the California Electrical Code, including the appropriate voltage, phase, minimum amperage, and an electrical receptacle or junction box within five feet of the appliance that is accessible with no obstructions. Appropriately sized conduit may be installed in lieu of conductors; and</text>
-          </para>
-          <para>
-            <num>2.</num>
-            <text>Labeling of both ends of the unused conductors or conduit shall be with "For Future Electrical Appliance"; and</text>
-          </para>
-          <para>
-            <num>3.</num>
-            <text>Reserved circuit breakers in the electrical panel for each branch circuit, appropriately labeled (i.e "Reserved for Future Electric Range"), and positioned on the opposite end of the panel supply conductor connection; and</text>
-          </para>
-          <para>
-            <num>4.</num>
-            <text>Connected subpanels, panelboards, switchboards, busbars, and transformers shall be sized to serve the future electrical heating appliances. The electrical capacity requirements shall be adjusted for demand factors in accordance with the California Electric Code; and</text>
-          </para>
-          <para>
-            <num>5.</num>
-            <text>Physical space for future electrical heating appliances, including equipment footprint, and if needed a pathway reserved for routing of ductwork to heat pump evaporator(s), shall be depicted on the construction drawings. The footprint necessary for future electrical heating appliances may overlap with non-structural partitions and with the location of currently designed combustion equipment.</text>
-          </para>
+              <para>
+                <num>3.</num>
+                <text>Reserved circuit breakers in the electrical panel for each branch circuit, appropriately labeled (i.e "Reserved for Future Electric Range"), and positioned on the opposite end of the panel supply conductor connection; and</text>
+              </para>
+              <para>
+                <num>4.</num>
+                <text>Connected subpanels, panelboards, switchboards, busbars, and transformers shall be sized to serve the future electrical heating appliances. The electrical capacity requirements shall be adjusted for demand factors in accordance with the California Electric Code; and</text>
+              </para>
+              <para>
+                <num>5.</num>
+                <text>Physical space for future electrical heating appliances, including equipment footprint, and if needed a pathway reserved for routing of ductwork to heat pump evaporator(s), shall be depicted on the construction drawings. The footprint necessary for future electrical heating appliances may overlap with non-structural partitions and with the location of currently designed combustion equipment.</text>
+              </para>
+            </section>
+          </include>
         </para>
       </section>
     </include>
@@ -618,28 +702,32 @@
         <para>
           <num>(a)</num>
           <text>Green Building Code Section 4.106 "Site Development" is amended to include new subsections as follows:</text>
-          <text><strong>4.106.5.3 Existing one- and two-family dwellings.</strong></text>
           <include>
-            <para>
+            <section>
+              <num>4.106.5.3</num>
+              <heading>Existing one- and two-family dwellings.</heading>
+            </section>
+            <section>
               <num>4.106.5.3.1</num>
               <text>Space cooling appliance upgrades shall use electricity for space heating, unconnected to fuel gas infrastructure. Any other space heating system serving the space shall be removed or configured to provide supplemental heat.</text>
-            </para>
-            <para>
+            </section>
+            <section>
               <num>4.106.5.3.2</num>
               <text>Alterations and additions that include water heater appliance upgrades shall be all-electric, unconnected to fuel gas infrastructure.</text>
-            </para>
-            <para>
+            </section>
+            <section>
               <num>4.106.5.3.3</num>
               <text>Kitchen alterations shall include a 240v, 50 ampere circuit and receptacle installed within 6 feet of the cooktop, oven, and/or range location.</text>
-            </para>
-            <para>
+            </section>
+            <section>
               <num>4.106.5.3.4</num>
               <text>Alterations to areas designated for the installation of laundry equipment shall include a 240v, 30 ampere circuit and receptacle installed within 6 feet of clothes drying appliance location.</text>
-            </para>
-          </include>
-          <text><strong>4.106.5.4 Existing residential buildings.</strong></text>
-          <include>
-            <para>
+            </section>
+            <section>
+              <num>4.106.5.4</num>
+              <heading>Existing residential buildings.</heading>
+            </section>
+            <section>
               <num>4.106.5.4.1</num>
               <text>Alterations or additions that involve or require an increase to the capacity of electrical panels or transformers as part of the scope, the electrical panel shall include reserved physical space for overcurrent protection devices, and transformers shall include reserved electrical capacity, as calculated per California Electric Code Section 220 for the following current or proposed appliances, as applicable to the project site, that will not be connected to fuel gas infrastructure:</text>
               <para>
@@ -669,7 +757,7 @@
                   <strong>Exceptions:</strong>
                 </text>
                 <para>
-                  <num proof="done">1.</num>
+                  <num>1.</num>
                   <text>Buss bar electrical capacity shall not be required to exceed the proposed utility electrical service to the building. Capacity and overcurrent protection spaces shall be reserved in the priority listed above to the extent allowable under the proposed buss bar capacity.</text>
                 </para>
                 <para>
@@ -681,8 +769,8 @@
                   <text>Electrical panels with internet-connected overcurrent protection devices that monitor circuit load and manage power distribution.</text>
                 </para>
               </para>
-            </para>
-            <para>
+            </section>
+            <section>
               <num>4.106.5.4.2</num>
               <text>Existing fuel gas infrastructure shall not be extended to any appliance, system or device within the building or building property. Inactive fuel gas infrastructure shall not be activated or otherwise operated.</text>
               <text><strong>Exceptions: </strong>The following are exempt from the provisions of Section 4.106.5.3 "Existing one- and two-family dwellings" and Section 4.106.5.4 "Existing residential buildings,"</text>
@@ -694,7 +782,7 @@
                 <num>2.</num>
                 <text>Economic hardship exemptions shall be provided if the replacement cost for an all-electric system, including all incentives, is greater than 110 percent of a like-for-like fuel gas system replacement, including the future costs of electrification retrofits. The building official shall consult with the Community Development Director in deciding whether to approve an economic hardship exemption.</text>
               </para>
-            </para>
+            </section>
           </include>
         </para>
       </section>

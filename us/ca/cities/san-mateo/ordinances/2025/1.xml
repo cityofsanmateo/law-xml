@@ -602,23 +602,21 @@
               <para>
                 <num>6.</num>
                 <text>Electric vehicle charger</text>
-                <include>
-                  <text>
-                    <strong>Exceptions:</strong>
-                  </text>
-                  <para>
-                    <num>1.</num>
-                    <text>Buss bar electrical capacity shall not be required to exceed the proposed utility electrical service to the building. Capacity and overcurrent protection spaces shall be reserved in the priority listed above to the extent allowable under the proposed buss bar capacity.</text>
-                  </para>
-                  <para>
-                    <num>2.</num>
-                    <text>Reserved electric vehicle charger panel capacity may be shared with one of the following: water heater, clothes dryer, or cooking equipment.</text>
-                  </para>
-                  <para>
-                    <num>3.</num>
-                    <text>Electrical panels with internet-connected overcurrent protection devices that monitor circuit load and manage power distribution.</text>
-                  </para>
-                </include>
+                <text>
+                  <strong>Exceptions:</strong>
+                </text>
+                <para>
+                  <num>1.</num>
+                  <text>Buss bar electrical capacity shall not be required to exceed the proposed utility electrical service to the building. Capacity and overcurrent protection spaces shall be reserved in the priority listed above to the extent allowable under the proposed buss bar capacity.</text>
+                </para>
+                <para>
+                  <num>2.</num>
+                  <text>Reserved electric vehicle charger panel capacity may be shared with one of the following: water heater, clothes dryer, or cooking equipment.</text>
+                </para>
+                <para>
+                  <num>3.</num>
+                  <text>Electrical panels with internet-connected overcurrent protection devices that monitor circuit load and manage power distribution.</text>
+                </para>
               </para>
             </section>
           </include>

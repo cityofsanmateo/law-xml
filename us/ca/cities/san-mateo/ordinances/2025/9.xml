@@ -421,51 +421,54 @@
         <heading>Section 3110 - Automatic Vehicular Gates.</heading>
         <text>Section 3110.1 General is amended by adding Section 3110.1.1 Gate Safety as follows:</text>
         <include>
-          <text><strong>3110.1.1 Gate Safety.</strong></text>
-          <text>Automatic vehicular gates shall comply with the requirements of Sections 3110.2 and 3110.3 and all other applicable sections of this code. All gates are to comply with 3110.1.1 Gate Safety.</text>
-          <text><strong>Purpose.</strong> The purpose of <cite doc="City of San Mateo, Cal., Code" path="3110.1" proof="needed">this chapter</cite> is to promote public safety and welfare by reducing the risk of death or injury that may result from gates detaching from supporting hardware or gates not being well maintained and inspected.  The city finds it necessary to require gates to be inspected periodically by a professional and record keeping to ensure the basic life safety of its residents.</text>
-          <text><strong>Definitions.</strong> For the purposes of <cite doc="City of San Mateo, Cal., Code" path="3110.1" proof="needed">this chapter</cite>, the following definitions shall apply:</text>
-          <para proof="needed">
-            <num>1.</num>
-            <text>"Building official" means the building official, an authorized deputy, designated building inspector or other designated employee of the city charged with enforcement and administration of <cite doc="City of San Mateo, Cal., Code" path="3110.1" proof="needed">this chapter</cite>.</text>
-          </para>
-          <para proof="needed">
-            <num>2.</num>
-            <text>"Owner" means any person, co-partnership, association, corporation or fiduciary, or their authorized agent(s) having legal or equitable title or any interest in any real property.</text>
-          </para>
-          <para proof="needed">
-            <num>3.</num>
-            <text>"Professional" means any licensed fence installer, ICC certified building inspector, licensed architect, or licensed engineer responsible for inspecting and providing a written certification.</text>
-          </para>
-          <para proof="needed">
-            <num>4.</num>
-            <text>"Written certification" means a document attesting the gate meets all of the requirements of the referenced standards, the gate has been maintained and  in good working order. In addition, the document shall clearly include the following:</text>
+          <section>
+            <num>3110.1.1</num>
+            <heading>Gate Safety.</heading>
+            <text>Automatic vehicular gates shall comply with the requirements of Sections 3110.2 and 3110.3 and all other applicable sections of this code. All gates are to comply with 3110.1.1 Gate Safety.</text>
+            <text><strong>Purpose.</strong> The purpose of <cite doc="City of San Mateo, Cal., Code" path="3110.1" proof="needed">this chapter</cite> is to promote public safety and welfare by reducing the risk of death or injury that may result from gates detaching from supporting hardware or gates not being well maintained and inspected.  The city finds it necessary to require gates to be inspected periodically by a professional and record keeping to ensure the basic life safety of its residents.</text>
+            <text><strong>Definitions.</strong> For the purposes of <cite doc="City of San Mateo, Cal., Code" path="3110.1" proof="needed">this chapter</cite>, the following definitions shall apply:</text>
             <para proof="needed">
-              <num>a.</num>
-              <text>Inspection date.</text>
+              <num>1.</num>
+              <text>"Building official" means the building official, an authorized deputy, designated building inspector or other designated employee of the city charged with enforcement and administration of <cite doc="City of San Mateo, Cal., Code" path="3110.1" proof="needed">this chapter</cite>.</text>
             </para>
             <para proof="needed">
-              <num>b.</num>
-              <text>Site address.</text>
+              <num>2.</num>
+              <text>"Owner" means any person, co-partnership, association, corporation or fiduciary, or their authorized agent(s) having legal or equitable title or any interest in any real property.</text>
             </para>
             <para proof="needed">
-              <num>c.</num>
-              <text>Name of the property owner.</text>
+              <num>3.</num>
+              <text>"Professional" means any licensed fence installer, ICC certified building inspector, licensed architect, or licensed engineer responsible for inspecting and providing a written certification.</text>
             </para>
             <para proof="needed">
-              <num>d.</num>
-              <text>Contact information of inspector.</text>
+              <num>4.</num>
+              <text>"Written certification" means a document attesting the gate meets all of the requirements of the referenced standards, the gate has been maintained and  in good working order. In addition, the document shall clearly include the following:</text>
+              <para proof="needed">
+                <num>a.</num>
+                <text>Inspection date.</text>
+              </para>
+              <para proof="needed">
+                <num>b.</num>
+                <text>Site address.</text>
+              </para>
+              <para proof="needed">
+                <num>c.</num>
+                <text>Name of the property owner.</text>
+              </para>
+              <para proof="needed">
+                <num>d.</num>
+                <text>Contact information of inspector.</text>
+              </para>
+              <para proof="needed">
+                <num>e.</num>
+                <text>Signed and/or stamped.</text>
+              </para>
+              <aftertext proof="needed"><strong>Scope.</strong> The provisions of this chapter shall apply to all vehicular gates and any gate more than 48 inches (1219 mm) in width or more than 84 inches (2134 mm) in height.</aftertext>
+              <aftertext proof="needed"><strong>General requirements.</strong> Gates shall meet the requirements of ASTM F1184; shall be installed per manufacturer's recommendations; and, at a minimum shall be designed, constructed, and installed to not fall over more than 45 degrees from a vertical plane when the gate is detached from supporting hardware.  Gates with operators or similar systems shall also meet the requirements of UL 325 and ASTM F2200.</aftertext>
+              <aftertext proof="needed"><strong>Duty of owner or agent.</strong>  Property owners, and their agents, shall keep gates well maintained and have gates inspected by a professional once every five years.  Property owners and agents must keep the written certifications and make them available to City officials upon request.  Any gate repair work undertaken must result in a safe outcome.</aftertext>
+              <aftertext proof="needed"><strong>Time Limits for Compliance.</strong> Property owners are responsible for adhering to this standard in the interest of public safety. Owners of existing gates shall comply with the provisions of this chapter and obtain third-party inspections of their gates no later than July 1, 2026, and at least once every five years thereafter. These inspections are intended to ensure ongoing safety and proper maintenance.</aftertext>
+              <aftertext proof="needed"><strong>Violations Penalties.</strong>  Any property owner or their agent that fails to comply with the provision of this chapter or a directive of the building official may be subject to enforcement and penalties as provided by Title 1 of the San Mateo Municipal Code, and all additional remedies provided by law.</aftertext>
             </para>
-            <para proof="needed">
-              <num>e.</num>
-              <text>Signed and/or stamped.</text>
-            </para>
-            <aftertext proof="needed"><strong>Scope.</strong> The provisions of this chapter shall apply to all vehicular gates and any gate more than 48 inches (1219 mm) in width or more than 84 inches (2134 mm) in height.</aftertext>
-            <aftertext proof="needed"><strong>General requirements.</strong> Gates shall meet the requirements of ASTM F1184; shall be installed per manufacturer's recommendations; and, at a minimum shall be designed, constructed, and installed to not fall over more than 45 degrees from a vertical plane when the gate is detached from supporting hardware.  Gates with operators or similar systems shall also meet the requirements of UL 325 and ASTM F2200.</aftertext>
-            <aftertext proof="needed"><strong>Duty of owner or agent.</strong>  Property owners, and their agents, shall keep gates well maintained and have gates inspected by a professional once every five years.  Property owners and agents must keep the written certifications and make them available to City officials upon request.  Any gate repair work undertaken must result in a safe outcome.</aftertext>
-            <aftertext proof="needed"><strong>Time Limits for Compliance.</strong> Property owners are responsible for adhering to this standard in the interest of public safety. Owners of existing gates shall comply with the provisions of this chapter and obtain third-party inspections of their gates no later than July 1, 2026, and at least once every five years thereafter. These inspections are intended to ensure ongoing safety and proper maintenance.</aftertext>
-            <aftertext proof="needed"><strong>Violations Penalties.</strong>  Any property owner or their agent that fails to comply with the provision of this chapter or a directive of the building official may be subject to enforcement and penalties as provided by Title 1 of the San Mateo Municipal Code, and all additional remedies provided by law.</aftertext>
-          </para>
+          </section>
         </include>
       </section>
     </include>
